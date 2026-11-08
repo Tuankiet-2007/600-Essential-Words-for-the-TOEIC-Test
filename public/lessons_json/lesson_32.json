@@ -1,0 +1,1638 @@
+{
+  "lesson_id": 32,
+  "title": "Eating Out",
+  "theme_name": "Restaurants and Events",
+  "audio_track": "track_32.mp3",
+  "part1_photo": "part1_photos/lesson_32.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "basic",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "serving as a starting point or basis; simple",
+      "definition_vi": "cơ bản, thiết yếu, đơn giản",
+      "examples": [
+        {
+          "en": "The new restaurant offers a very basic menu.",
+          "vi": "Nhà hàng mới mở phục vụ một thực đơn rất cơ bản."
+        },
+        {
+          "en": "The restaurant manager ordered enough basic supplies to get through the first month.",
+          "vi": "Quản lý nhà hàng đã đặt mua đủ các vật tư thiết yếu để dùng trong tháng đầu tiên."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "basic supplies",
+        "basic menu",
+        "basic training",
+        "basic requirements"
+      ],
+      "usage": {
+        "structures": [
+          "basic + N (supplies, needs, skills, information)",
+          "basic to something (cơ bản/cốt lõi đối với cái gì)"
+        ],
+        "prepositions": [
+          "to"
+        ],
+        "collocations": [
+          "basic necessities",
+          "basic ingredients",
+          "basic knowledge",
+          "on a basic level"
+        ],
+        "tip": "Trạng từ của 'basic' là 'basically' (thêm đuôi -ally chứ không phải -ly)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "base",
+          "example": "The chef bases his seasonal menu on locally grown produce.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "basis",
+          "example": "Sanitation inspections are conducted on a regular basis.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "basic",
+          "example": "Every apprentice cook must master basic knife skills.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "basically",
+          "example": "The bistro's new menu is basically the same as last year's, with just two new desserts.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Fresh herbs and olive oil form the _____ of traditional Mediterranean cooking.",
+        "answer": "basis",
+        "base_word": "basic",
+        "pos_hint": "danh từ",
+        "vi": "Các loại thảo mộc tươi và dầu ô liu tạo nên nền tảng của nghệ thuật nấu ăn Địa Trung Hải truyền thống."
+      }
+    },
+    {
+      "id": 2,
+      "word": "complete",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to finish or make whole",
+      "definition_vi": "hoàn thành, làm trọn vẹn; đầy đủ, hoàn toàn",
+      "examples": [
+        {
+          "en": "We ordered some dessert to complete our meal.",
+          "vi": "Chúng tôi đã gọi thêm chút món tráng miệng để bữa ăn được trọn vẹn."
+        },
+        {
+          "en": "Some restaurants want to hear their customers' opinions and ask them to complete a short evaluation form.",
+          "vi": "Một số nhà hàng muốn lắng nghe ý kiến của khách hàng và yêu cầu họ điền vào một mẫu đánh giá ngắn."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "complete",
+          "example": "The meal could not be completed without dessert."
+        },
+        {
+          "pos": "",
+          "word": "completion",
+          "example": "The coffee was the last item ordered and brought the meal to completion."
+        },
+        {
+          "pos": "",
+          "word": "completely",
+          "example": "The chef forgot that the dessert was in the oven and completely ruined it."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "complete a form",
+        "complete a meal",
+        "upon completion",
+        "completely satisfied"
+      ],
+      "usage": {
+        "structures": [
+          "complete + N (hoàn tất biểu mẫu, dự án, bữa ăn)",
+          "be complete with something (đầy đủ bao gồm cả cái gì)"
+        ],
+        "prepositions": [
+          "with",
+          "upon"
+        ],
+        "collocations": [
+          "complete an evaluation form",
+          "near completion",
+          "completely renovated",
+          "a complete list"
+        ],
+        "tip": "'Complete' vừa là động từ (hoàn thành/điền đơn) vừa là tính từ (đầy đủ/hoàn chỉnh); danh từ 'completion' rất hay đi sau giới từ 'upon' hoặc 'near'."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "complete",
+          "example": "The banquet package comes complete with a three-course dinner and live music.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Diners who submit a _____ survey card will receive a coupon for a free dessert.",
+        "answer": "completed",
+        "base_word": "complete",
+        "pos_hint": "tính từ / quá khứ phân từ V-ed",
+        "vi": "Những thực khách nộp lại phiếu khảo sát đã điền đầy đủ sẽ nhận được phiếu tặng một món tráng miệng miễn phí."
+      }
+    },
+    {
+      "id": 3,
+      "word": "excite",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to arouse an emotion",
+      "definition_vi": "kích thích, làm hào hứng, khơi dậy",
+      "examples": [
+        {
+          "en": "Exotic flavors always excite me.",
+          "vi": "Những hương vị mới lạ luôn làm tôi hào hứng."
+        },
+        {
+          "en": "The new Asian restaurant has excited the interest of many people.",
+          "vi": "Nhà hàng châu Á mới mở đã khơi dậy sự quan tâm của rất nhiều người."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "excite",
+          "example": "The chef knows how to excite his patrons."
+        },
+        {
+          "pos": "",
+          "word": "excitement",
+          "example": "You can feel the excitement in the air."
+        },
+        {
+          "pos": "",
+          "word": "excited",
+          "example": "I am really excited about trying out this new restaurant."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "excite interest",
+        "excited about",
+        "exciting news",
+        "great excitement"
+      ],
+      "usage": {
+        "structures": [
+          "excite somebody / excite + N (interest, curiosity)",
+          "be excited about/at/by something (hào hứng về điều gì)"
+        ],
+        "prepositions": [
+          "about",
+          "by",
+          "at"
+        ],
+        "collocations": [
+          "excite the interest of",
+          "generate excitement",
+          "an exciting dining experience",
+          "excitedly announce"
+        ],
+        "tip": "Phân biệt tính từ đuôi -ed 'excited' (cảm thấy hào hứng - thường dùng cho người) và đuôi -ing 'exciting' (gây hào hứng, thú vị - thường dùng cho vật/sự việc)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "exciting",
+          "example": "The fusion café offers an exciting array of tropical desserts.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "excitedly",
+          "example": "The restaurant staff chatted excitedly about the upcoming visit from a famous food critic.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "There was a great deal of _____ among local residents when the famous bakery opened downtown.",
+        "answer": "excitement",
+        "base_word": "excite",
+        "pos_hint": "danh từ",
+        "vi": "Có một sự hào hứng rất lớn trong cộng đồng cư dân địa phương khi tiệm bánh nổi tiếng khai trương ở khu trung tâm."
+      }
+    },
+    {
+      "id": 4,
+      "word": "flavor",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a distinctive taste",
+      "definition_vi": "hương vị, mùi vị; tạo hương vị, nêm nếm",
+      "examples": [
+        {
+          "en": "Fusion cooking is distinguished by an interesting mix of flavors.",
+          "vi": "Ẩm thực kết hợp (fusion) nổi bật nhờ sự pha trộn thú vị giữa các hương vị."
+        },
+        {
+          "en": "The cook changed the flavor of the soup with a unique blend of herbs.",
+          "vi": "Người đầu bếp đã làm thay đổi hương vị của món súp bằng một sự pha trộn thảo mộc độc đáo."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "flavor",
+          "example": "I like a chef who uses exotic spices to flavor the food."
+        },
+        {
+          "pos": "",
+          "word": "flavor",
+          "example": "Some people don&#x27;t like Mexican food because the flavors are too spicy."
+        },
+        {
+          "pos": "",
+          "word": "flavorful",
+          "example": "The special ingredients made the dish very flavorful."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "rich flavor",
+        "mix of flavors",
+        "natural flavoring",
+        "flavorful dish"
+      ],
+      "usage": {
+        "structures": [
+          "flavor something with something (tạo hương vị cho món gì bằng nguyên liệu gì)",
+          "add/enhance flavor (tăng thêm hương vị)"
+        ],
+        "prepositions": [
+          "with",
+          "of"
+        ],
+        "collocations": [
+          "distinctive flavor",
+          "artificial flavors",
+          "enhance the flavor",
+          "full of flavor"
+        ],
+        "tip": "Tính từ 'flavorful' (đậm đà hương vị) và 'flavored' (có vị..., ví dụ: lemon-flavored tea) rất phổ biến trong chủ đề thực phẩm và nhà hàng."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "flavoring",
+          "example": "Our bakery uses only natural vanilla flavoring in all its pastries.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Slowly simmering the broth for six hours makes the noodle soup remarkably _____.",
+        "answer": "flavorful",
+        "base_word": "flavor",
+        "pos_hint": "tính từ",
+        "vi": "Việc ninh nhỏ lửa nước dùng trong sáu tiếng đồng hồ làm cho món súp mì trở nên đậm đà hương vị một cách đáng kinh ngạc."
+      }
+    },
+    {
+      "id": 5,
+      "word": "forget",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to be unable to remember",
+      "definition_vi": "quên, không nhớ",
+      "examples": [
+        {
+          "en": "The waiter forgot to bring the rolls, annoying the customer.",
+          "vi": "Người bồi bàn đã quên mang bánh mì cuộn ra, làm vị khách bực mình."
+        },
+        {
+          "en": "Don't forget to tell your friends what a great meal you had tonight.",
+          "vi": "Đừng quên kể cho bạn bè của bạn nghe về bữa ăn tuyệt vời mà bạn đã thưởng thức tối nay nhé."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "forget",
+          "example": "Don&#x27;t forget to bring us the check."
+        },
+        {
+          "pos": "",
+          "word": "forgetful",
+          "example": "The forgetful waitress put a burden on the rest of the staff."
+        },
+        {
+          "pos": "",
+          "word": "forgettable",
+          "example": "The meal was bland and forgettable."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "forget to do",
+        "completely forget",
+        "unforgettable experience",
+        "forgetful staff"
+      ],
+      "usage": {
+        "structures": [
+          "forget to V (quên phải làm gì - chưa làm)",
+          "forget V-ing (quên là đã làm gì rồi)"
+        ],
+        "prepositions": [
+          "about"
+        ],
+        "collocations": [
+          "Don't forget to...",
+          "easily forgotten",
+          "unforgettable meal",
+          "become forgetful"
+        ],
+        "tip": "Lưu ý: 'forget + to V' là quên thực hiện một nhiệm vụ; tính từ 'forgetful' dùng cho người (hay quên, đãng trí), còn 'forgettable / unforgettable' dùng cho sự việc (dễ quên / đáng nhớ)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "forgetfulness",
+          "example": "The server apologized for his forgetfulness and brought the extra napkins right away.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "unforgettable",
+          "example": "The rooftop view and exquisite cuisine made our anniversary dinner truly unforgettable.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Because the newly hired waiter was rather _____, the manager advised him to write down every customer's request.",
+        "answer": "forgetful",
+        "base_word": "forget",
+        "pos_hint": "tính từ (chỉ tính cách hay quên)",
+        "vi": "Vì người bồi bàn mới được thuê khá hay quên, người quản lý đã khuyên anh ấy ghi chép lại mọi yêu cầu của khách hàng."
+      }
+    },
+    {
+      "id": 6,
+      "word": "ingredient",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an element in a mixture",
+      "definition_vi": "nguyên liệu (nấu ăn), thành phần, yếu tố",
+      "examples": [
+        {
+          "en": "The chef went to the farmer's market to select the freshest ingredients for tonight's menu.",
+          "vi": "Đầu bếp đã đến chợ nông sản để chọn những nguyên liệu tươi ngon nhất cho thực đơn tối nay."
+        },
+        {
+          "en": "I was unfamiliar with some of the ingredients in the dish.",
+          "vi": "Tôi không quen thuộc với một số nguyên liệu có trong món ăn này."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "fresh ingredients",
+        "key ingredient",
+        "natural ingredients",
+        "active ingredient"
+      ],
+      "usage": {
+        "structures": [
+          "ingredients for/in a dish (các nguyên liệu cho/trong một món ăn)",
+          "a key/vital ingredient of success (yếu tố then chốt tạo nên thành công)"
+        ],
+        "prepositions": [
+          "in",
+          "for",
+          "of"
+        ],
+        "collocations": [
+          "freshest ingredients",
+          "list of ingredients",
+          "combine the ingredients",
+          "essential ingredient"
+        ],
+        "tip": "'Ingredient' là danh từ đếm được, ngoài nghĩa nguyên liệu nấu ăn còn được dùng nghĩa bóng trong kinh doanh là 'yếu tố cấu thành sự thành công' (key ingredient for success)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "ingredient",
+          "example": "All packaged foods must display a complete list of ingredients on the label.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Our head chef insists on sourcing all _____ from certified organic farms in the region.",
+        "answer": "ingredients",
+        "base_word": "ingredient",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Bếp trưởng của chúng tôi kiên quyết nhập tất cả các nguyên liệu từ những trang trại hữu cơ được chứng nhận trong vùng."
+      }
+    },
+    {
+      "id": 7,
+      "word": "judge",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to form an opinion",
+      "definition_vi": "đánh giá, phán xét; giám khảo, thẩm phán",
+      "examples": [
+        {
+          "en": "Hector was not familiar with Asian cooking, so he was unable to judge if the noodles were cooked correctly.",
+          "vi": "Hector không rành về ẩm thực châu Á nên anh ấy không thể đánh giá liệu món mì đã được nấu đúng cách hay chưa."
+        },
+        {
+          "en": "The restaurant review harshly judged the quality of the service.",
+          "vi": "Bài điểm báo về nhà hàng đã đánh giá gay gắt chất lượng dịch vụ tại đây."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "judge the quality",
+        "judge by appearances",
+        "panel of judges",
+        "error of judgment"
+      ],
+      "usage": {
+        "structures": [
+          "judge somebody/something by/on something (đánh giá ai/cái gì dựa trên cái gì)",
+          "judging from/by something (xét theo/dựa vào cái gì)"
+        ],
+        "prepositions": [
+          "by",
+          "from",
+          "on"
+        ],
+        "collocations": [
+          "judging by the crowd",
+          "pass judgment on",
+          "sound judgment",
+          "harshly judge"
+        ],
+        "tip": "Cụm phân từ độc lập 'Judging from/by + N,...' (Xét theo...) rất hay xuất hiện ở đầu câu trong Part 5 và Part 7."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "judge",
+          "example": "You should not judge a restaurant solely by its exterior appearance.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "judgment",
+          "example": "In the manager's judgment, the new menu pricing is fair and competitive.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "judgmental",
+          "example": "Food critics try to be analytical rather than overly judgmental when reviewing new cafés.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "We decided to trust the head chef's _____ when selecting the wines for the banquet.",
+        "answer": "judgment",
+        "base_word": "judge",
+        "pos_hint": "danh từ (sự phán đoán/đánh giá)",
+        "vi": "Chúng tôi quyết định tin tưởng vào sự đánh giá của bếp trưởng khi lựa chọn rượu vang cho bữa tiệc lớn."
+      }
+    },
+    {
+      "id": 8,
+      "word": "mix-up",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a confusion",
+      "definition_vi": "sự nhầm lẫn, sự lộn xộn",
+      "examples": [
+        {
+          "en": "There was a mix-up in the kitchen so your order will be delayed.",
+          "vi": "Có một sự nhầm lẫn trong nhà bếp nên món bạn gọi sẽ bị trễ."
+        },
+        {
+          "en": "There was a mix-up about the ingredients and the dish was ruined.",
+          "vi": "Đã có sự nhầm lẫn về nguyên liệu nên món ăn bị hỏng."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "mix up",
+          "example": "An inexperienced waiter can easily mix up orders."
+        },
+        {
+          "pos": "",
+          "word": "mix-up",
+          "example": "We had a big mix-up in our plans and I ended up waiting for my friends at the wrong restaurant."
+        },
+        {
+          "pos": "",
+          "word": "mixed up",
+          "example": "Bob always gets mixed up when he tries to order food at a foreign restaurant."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "a mix-up in the kitchen",
+        "a mix-up over/about",
+        "scheduling mix-up",
+        "avoid a mix-up"
+      ],
+      "usage": {
+        "structures": [
+          "a mix-up over/about/in something (sự nhầm lẫn về cái gì)",
+          "mix up A and B (làm lẫn lộn A và B)"
+        ],
+        "prepositions": [
+          "in",
+          "about",
+          "over",
+          "with"
+        ],
+        "collocations": [
+          "booking mix-up",
+          "unfortunate mix-up",
+          "mix up the orders",
+          "get mixed up"
+        ],
+        "tip": "Có gạch nối 'mix-up' là danh từ đếm được (a mix-up: một sự nhầm lẫn), còn không có gạch nối 'mix up' là cụm động từ (làm nhầm lẫn)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "mix",
+          "example": "Be careful not to mix the gluten-free orders with the regular ones.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The new server accidentally _____ the table numbers and served the steaks to the wrong guests.",
+        "answer": "mixed up",
+        "base_word": "mix-up",
+        "pos_hint": "cụm động từ chia quá khứ đơn V-ed",
+        "vi": "Nhân viên phục vụ mới đã vô tình làm nhầm lẫn số bàn và mang món bít tết ra nhầm khách."
+      }
+    },
+    {
+      "id": 9,
+      "word": "patron",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a customer, especially a regular customer",
+      "definition_vi": "khách hàng quen, thực khách; người bảo trợ",
+      "examples": [
+        {
+          "en": "Once the word was out about the new chef, patrons lined up to get into the restaurant.",
+          "vi": "Ngay khi tin tức về người đầu bếp mới lan truyền, thực khách đã xếp hàng dài để được vào nhà hàng."
+        },
+        {
+          "en": "This restaurant has many loyal patrons.",
+          "vi": "Nhà hàng này có rất nhiều khách hàng thân thiết."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "loyal patrons",
+        "regular patron",
+        "patron of the arts",
+        "thank our patrons"
+      ],
+      "usage": {
+        "structures": [
+          "patrons of a restaurant/hotel/theater (khách hàng của nhà hàng/khách sạn/nhà hát)",
+          "patronize a business (thường xuyên lui tới ủng hộ một cơ sở kinh doanh)"
+        ],
+        "prepositions": [
+          "of"
+        ],
+        "collocations": [
+          "regular patrons",
+          "valued patrons",
+          "thank you for your patronage",
+          "exclusive for patrons"
+        ],
+        "tip": "Trong thông báo tại nhà hàng/khách sạn/bãi đỗ xe của TOEIC, 'patrons' là từ trang trọng thay cho 'customers/guests', và danh từ 'patronage' có nghĩa là 'sự ủng hộ của khách hàng'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "patronize",
+          "example": "Many office workers in the district patronize the corner bakery every morning.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "patronage",
+          "example": "We sincerely thank our guests for their continued patronage over the past ten years.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The management wishes to thank all local residents for their loyal _____ during our first year in business.",
+        "answer": "patronage",
+        "base_word": "patron",
+        "pos_hint": "danh từ (sự ủng hộ của khách hàng)",
+        "vi": "Ban quản lý xin gửi lời cảm ơn tới tất cả cư dân địa phương vì sự ủng hộ trung thành của họ trong suốt năm đầu tiên chúng tôi hoạt động."
+      }
+    },
+    {
+      "id": 10,
+      "word": "predict",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to state, tell about, or make known in advance",
+      "definition_vi": "dự đoán, tiên đoán",
+      "examples": [
+        {
+          "en": "I predicted this restaurant would become popular and I was right.",
+          "vi": "Tôi đã dự đoán rằng nhà hàng này sẽ trở nên nổi tiếng và tôi đã đúng."
+        },
+        {
+          "en": "Kona was unable to predict what time Andy, who is always late, would show up at the restaurant.",
+          "vi": "Kona không thể đoán trước được mấy giờ thì Andy, người luôn đi trễ, sẽ xuất hiện tại nhà hàng."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "predict",
+          "example": "I predict that this restaurant will be a success."
+        },
+        {
+          "pos": "",
+          "word": "prediction",
+          "example": "The manager&#x27;s prediction came true, and the chef was named to the &quot;Top 100&quot; list."
+        },
+        {
+          "pos": "",
+          "word": "predictably",
+          "example": "Predictably, because the waiter neglected to write down the order, he forgot some necessary items."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "predict the outcome",
+        "accurately predict",
+        "predict a rise",
+        "make a prediction"
+      ],
+      "usage": {
+        "structures": [
+          "predict + (that) + mệnh đề (dự đoán rằng...)",
+          "be predicted to V (được dự báo sẽ...)"
+        ],
+        "prepositions": [
+          "about"
+        ],
+        "collocations": [
+          "widely predicted",
+          "predict sales growth",
+          "predictable result",
+          "unpredictable weather"
+        ],
+        "tip": "Chú ý tính từ 'predictable' (có thể đoán trước) và 'unpredictable' (khó lường) rất hay bổ nghĩa cho danh từ chỉ thị trường, thời tiết hoặc nhu cầu khách hàng."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "predictable",
+          "example": "Weekend dinner rushes are fairly predictable at downtown restaurants.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Industry analysts have made optimistic _____ regarding the growth of food delivery services this year.",
+        "answer": "predictions",
+        "base_word": "predict",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Các nhà phân tích trong ngành đã đưa ra những dự đoán lạc quan về sự tăng trưởng của dịch vụ giao đồ ăn trong năm nay."
+      }
+    },
+    {
+      "id": 11,
+      "word": "randomly",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "without any specific pattern",
+      "definition_vi": "một cách ngẫu nhiên, tình cờ",
+      "examples": [
+        {
+          "en": "We randomly made our selections from the menu.",
+          "vi": "Chúng tôi đã chọn đại một cách ngẫu nhiên các món ăn từ thực đơn."
+        },
+        {
+          "en": "That chef chooses his spices randomly, but his dishes always taste great.",
+          "vi": "Đầu bếp đó chọn gia vị một cách ngẫu hứng, nhưng các món ăn của ông ấy luôn có hương vị tuyệt vời."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "randomly selected",
+        "choose randomly",
+        "assign randomly",
+        "at random"
+      ],
+      "usage": {
+        "structures": [
+          "randomly + V / V + randomly (làm gì một cách ngẫu nhiên)",
+          "randomly + V3/ed (randomly selected/chosen: được chọn ngẫu nhiên)"
+        ],
+        "prepositions": [
+          "at"
+        ],
+        "collocations": [
+          "randomly selected winners",
+          "randomly inspected",
+          "at random",
+          "random sample"
+        ],
+        "tip": "Cụm 'randomly selected' (được chọn ngẫu nhiên) cực kỳ phổ biến trong các bài thông báo bốc thăm trúng thưởng hoặc khảo sát khách hàng của TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "randomize",
+          "example": "The software randomizes the order of questions on the customer feedback survey.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "randomness",
+          "example": "Health inspectors vary their visit dates to maintain randomness in the auditing process.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "random",
+          "example": "The restaurant chain conducts random quality checks at all of its franchises.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "randomly",
+          "example": "Three lucky diners will be randomly chosen to receive a $50 gift certificate.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Health department officials conduct _____ inspections of commercial kitchens throughout the year.",
+        "answer": "random",
+        "base_word": "randomly",
+        "pos_hint": "tính từ",
+        "vi": "Các viên chức sở y tế tiến hành các cuộc kiểm tra ngẫu nhiên đối với những bếp ăn thương mại trong suốt cả năm."
+      }
+    },
+    {
+      "id": 12,
+      "word": "remind",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to cause to remember",
+      "definition_vi": "nhắc nhở, làm nhớ lại",
+      "examples": [
+        {
+          "en": "Ms. Smith was annoyed at having to remind the waitress to bring the check.",
+          "vi": "Cô Smith cảm thấy bực mình vì phải nhắc cô bồi bàn mang hóa đơn tính tiền ra."
+        },
+        {
+          "en": "I reminded the client that we are meeting for dinner tomorrow.",
+          "vi": "Tôi đã nhắc vị khách hàng rằng chúng tôi sẽ gặp nhau ăn tối vào ngày mai."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "remind someone to do",
+        "remind someone of",
+        "remind someone that",
+        "gentle reminder"
+      ],
+      "usage": {
+        "structures": [
+          "remind somebody to V (nhắc ai làm gì)",
+          "remind somebody of/about something (nhắc ai về việc gì / gợi cho ai nhớ tới cái gì)"
+        ],
+        "prepositions": [
+          "of",
+          "about",
+          "to"
+        ],
+        "collocations": [
+          "remind guests to",
+          "send a reminder",
+          "friendly reminder",
+          "be reminded that"
+        ],
+        "tip": "Tuyệt đối không dùng 'remind to V' trực tiếp mà phải có tân ngữ chỉ người ở giữa: 'remind + somebody + to V' (hoặc bị động 'be reminded to V')."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "remind",
+          "example": "Please remind the catering team to pack vegetarian options for the conference.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "reminder",
+          "example": "The restaurant sends an automated text message as a reminder of your table reservation.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "We sent a polite _____ to all banquet attendees asking them to confirm their meal preferences by Friday.",
+        "answer": "reminder",
+        "base_word": "remind",
+        "pos_hint": "danh từ",
+        "vi": "Chúng tôi đã gửi một lời nhắc lịch sự tới tất cả những người tham dự tiệc để yêu cầu họ xác nhận lựa chọn suất ăn trước thứ Sáu."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. The key to a happy meal is that everyone should enjoy eating what they ordered. Before the waiter takes your order, you can ask him for a recommendation or you can select (1) ____ from the menu. Good service is part of the overall enjoyment of the meal. The waiter should make the (2) ____ feel welcome and comfortable. Good waiters can (3) ____ what you need, like more water, without having to be asked for it. It's easy for a waiter to (4) ____ something, but you should not have to (5) ____ a waiter more than once to bring you something. Nor do you want the waiter to (6) ____ the food orders. You should get what you ordered, and your order should be (7) ____. The quality of the food is the primary way restaurants are (8) ____. The food should taste and look wonderful. Your plate of food should (9) ____ all your senses and be fragrant and colorful. Even the most (10) ____ or familiar dishes can taste different from restaurant to restaurant. A chef can bring out a distinct (11) ____ in a dish, depending on the (12) ____ he or she uses.",
+    "word_bank": [
+      "basic",
+      "flavor",
+      "judged",
+      "predict",
+      "complete",
+      "forget",
+      "mix up",
+      "randomly",
+      "excite",
+      "ingredients",
+      "patrons",
+      "remind"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "complete",
+        "example": "The meal could not be completed without dessert.",
+        "pos": ""
+      },
+      {
+        "word": "completion",
+        "example": "The coffee was the last item ordered and brought the meal to completion.",
+        "pos": ""
+      },
+      {
+        "word": "completely",
+        "example": "The chef forgot that the dessert was in the oven and completely ruined it.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "excite",
+        "example": "The chef knows how to excite his patrons.",
+        "pos": ""
+      },
+      {
+        "word": "excitement",
+        "example": "You can feel the excitement in the air.",
+        "pos": ""
+      },
+      {
+        "word": "excited",
+        "example": "I am really excited about trying out this new restaurant.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "flavor",
+        "example": "I like a chef who uses exotic spices to flavor the food.",
+        "pos": ""
+      },
+      {
+        "word": "flavor",
+        "example": "Some people don&#x27;t like Mexican food because the flavors are too spicy.",
+        "pos": ""
+      },
+      {
+        "word": "flavorful",
+        "example": "The special ingredients made the dish very flavorful.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "forget",
+        "example": "Don&#x27;t forget to bring us the check.",
+        "pos": ""
+      },
+      {
+        "word": "forgetful",
+        "example": "The forgetful waitress put a burden on the rest of the staff.",
+        "pos": ""
+      },
+      {
+        "word": "forgettable",
+        "example": "The meal was bland and forgettable.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "mix up",
+        "example": "An inexperienced waiter can easily mix up orders.",
+        "pos": ""
+      },
+      {
+        "word": "mix-up",
+        "example": "We had a big mix-up in our plans and I ended up waiting for my friends at the wrong restaurant.",
+        "pos": ""
+      },
+      {
+        "word": "mixed up",
+        "example": "Bob always gets mixed up when he tries to order food at a foreign restaurant.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "predict",
+        "example": "I predict that this restaurant will be a success.",
+        "pos": ""
+      },
+      {
+        "word": "prediction",
+        "example": "The manager&#x27;s prediction came true, and the chef was named to the &quot;Top 100&quot; list.",
+        "pos": ""
+      },
+      {
+        "word": "predictably",
+        "example": "Predictably, because the waiter neglected to write down the order, he forgot some necessary items.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "Would you like to ____ your meal with an after-dinner drink?",
+        "options": [
+          {
+            "label": "A",
+            "text": "complete"
+          },
+          {
+            "label": "B",
+            "text": "completed"
+          },
+          {
+            "label": "C",
+            "text": "completely"
+          },
+          {
+            "label": "D",
+            "text": "completion"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "I've had enough ____ for the day.",
+        "options": [
+          {
+            "label": "A",
+            "text": "excite"
+          },
+          {
+            "label": "B",
+            "text": "exciting"
+          },
+          {
+            "label": "C",
+            "text": "excitement"
+          },
+          {
+            "label": "D",
+            "text": "excites"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "I can't figure out which ingredients the chef used to ____ this dish.",
+        "options": [
+          {
+            "label": "A",
+            "text": "flavored"
+          },
+          {
+            "label": "B",
+            "text": "flavorful"
+          },
+          {
+            "label": "C",
+            "text": "flavors"
+          },
+          {
+            "label": "D",
+            "text": "flavor"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "I've already ____ what the last table of guests ordered.",
+        "options": [
+          {
+            "label": "A",
+            "text": "forget"
+          },
+          {
+            "label": "B",
+            "text": "forgetful"
+          },
+          {
+            "label": "C",
+            "text": "forgotten"
+          },
+          {
+            "label": "D",
+            "text": "forgetfulness"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "Unfortunately, on the day the restaurant opened there was a huge ____ in the kitchen.",
+        "options": [
+          {
+            "label": "A",
+            "text": "mix-up"
+          },
+          {
+            "label": "B",
+            "text": "mixed up"
+          },
+          {
+            "label": "C",
+            "text": "mix up"
+          },
+          {
+            "label": "D",
+            "text": "mixing up"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "No one could have ____ how successful the restaurant would become.",
+        "options": [
+          {
+            "label": "A",
+            "text": "predictive"
+          },
+          {
+            "label": "B",
+            "text": "predictably"
+          },
+          {
+            "label": "C",
+            "text": "predictable"
+          },
+          {
+            "label": "D",
+            "text": "predicted"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "One of the joys of traveling abroad is taking the opportunity to try out different kinds of food. Travelers should always make a point of eating the local dishes. It is exciting to try out dishes made with unfamiliar ingredients and unusual [16]. Daring travelers can order [17] from the menu. Or, they can look at the dishes that other patrons are eating and order one that looks appealing. A traveler who doesn't speak the local language well can order by pointing to the dishes he wishes to order. That is the easiest way to avoid a mix [18]. Finally, dessert should not be forgotten. A sweet treat at the end of the meal will complete the experience of enjoying foreign cooking.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "favors"
+            },
+            {
+              "label": "B",
+              "text": "flavors"
+            },
+            {
+              "label": "C",
+              "text": "fivers"
+            },
+            {
+              "label": "D",
+              "text": "fevers"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "random"
+            },
+            {
+              "label": "B",
+              "text": "randomly"
+            },
+            {
+              "label": "C",
+              "text": "randomize"
+            },
+            {
+              "label": "D",
+              "text": "randomness"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "up"
+            },
+            {
+              "label": "B",
+              "text": "in"
+            },
+            {
+              "label": "C",
+              "text": "of"
+            },
+            {
+              "label": "D",
+              "text": "out"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following advertisement. Don't miss the Yorktown Festival of Food. This exciting annual event will take place May 10–16 at the Yorktown Fairgrounds.\\* Over 100 local restaurants will participate. Which are the best restaurants in town? You be the judge! The price of admission includes: \\- Samples of food from all participating restaurants - Cooking demonstrations by local chefs - Copies of recipes of some of Yorktown's favorite dishes, including ingredients lists and preparation instructions - A free Festival of Food chef's hat and apron Fifty festival ticket holders will be randomly selected to enjoy a meal especially prepared for the festival by world-renowned chef Jean Pierre de la Farge, director of the Paris School of Cuisine. You could be one of them! Get your tickets today. An unforgettable experience is guaranteed. Tickets are available at all participating restaurants and at the Yorktown Office of Tourism. Ticket prices are $15/day or $50 for the entire week. \\*If rain is predicted, the event will take place in the Yorktown Sports Arena.",
+        "questions": [
+          {
+            "number": 19,
+            "question": "How often does the festival take place?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Once a day."
+              },
+              {
+                "label": "B",
+                "text": "Once a week."
+              },
+              {
+                "label": "C",
+                "text": "Once a month."
+              },
+              {
+                "label": "D",
+                "text": "Once a year."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "What can people do at the festival?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Try different kinds of food."
+              },
+              {
+                "label": "B",
+                "text": "Cook a meal."
+              },
+              {
+                "label": "C",
+                "text": "Judge a contest."
+              },
+              {
+                "label": "D",
+                "text": "Buy hats and aprons."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "What will 50 people win?",
+            "options": [
+              {
+                "label": "A",
+                "text": "A ticket."
+              },
+              {
+                "label": "B",
+                "text": "A cooking lesson."
+              },
+              {
+                "label": "C",
+                "text": "A free meal."
+              },
+              {
+                "label": "D",
+                "text": "A trip to Paris."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word randomly in line 11 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "quickly"
+              },
+              {
+                "label": "B",
+                "text": "by chance"
+              },
+              {
+                "label": "C",
+                "text": "beforehand"
+              },
+              {
+                "label": "D",
+                "text": "with determination"
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word predicted in line 19 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "heavy"
+              },
+              {
+                "label": "B",
+                "text": "expected"
+              },
+              {
+                "label": "C",
+                "text": "falling"
+              },
+              {
+                "label": "D",
+                "text": "problematic"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What are the speakers discussing?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The flavor of the food."
+          },
+          {
+            "label": "B",
+            "text": "Their last vacation."
+          },
+          {
+            "label": "C",
+            "text": "The restaurant décor."
+          },
+          {
+            "label": "D",
+            "text": "The serving dishes."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What does the man want to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Take a rest."
+          },
+          {
+            "label": "B",
+            "text": "Return to the restaurant."
+          },
+          {
+            "label": "C",
+            "text": "Forget about the restaurant."
+          },
+          {
+            "label": "D",
+            "text": "Get a new set of dishes."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the woman predict?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The restaurant will close soon."
+          },
+          {
+            "label": "B",
+            "text": "The flavor of the dishes will improve."
+          },
+          {
+            "label": "C",
+            "text": "The waiter will be very patient."
+          },
+          {
+            "label": "D",
+            "text": "The restaurant will become popular."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "Who is speaking?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The kitchen assistant."
+          },
+          {
+            "label": "B",
+            "text": "The head chef."
+          },
+          {
+            "label": "C",
+            "text": "A patron."
+          },
+          {
+            "label": "D",
+            "text": "A waitress."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What does the speaker offer?",
+        "options": [
+          {
+            "label": "A",
+            "text": "To cook the meal."
+          },
+          {
+            "label": "B",
+            "text": "To take the order."
+          },
+          {
+            "label": "C",
+            "text": "To bring some free food."
+          },
+          {
+            "label": "D",
+            "text": "To serve water."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "When will the food be ready?",
+        "options": [
+          {
+            "label": "A",
+            "text": "In 2 minutes."
+          },
+          {
+            "label": "B",
+            "text": "In 8 minutes."
+          },
+          {
+            "label": "C",
+            "text": "In 15 minutes."
+          },
+          {
+            "label": "D",
+            "text": "In 50 minutes."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. What are the speakers discussing? (A) The flavor of the food. (B) Their last vacation. (C) The restaurant décor. (D) The serving dishes. 5. What does the man want to do? (A) Take a rest. (B) Return to the restaurant. (C) Forget about the restaurant. (D) Get a new set of dishes. 6. What does the woman predict? (A) The restaurant will close soon. (B) The flavor of the dishes will improve. (C) The waiter will be very patient. (D) The restaurant will become popular. Listen to the talk. Then read each question and choose the best answer. 7. Who is speaking? (A) The kitchen assistant. (B) The head chef. (C) A patron. (D) A waitress. 8. What does the speaker offer? (A) To cook the meal. (B) To take the order. (C) To bring some free food. (D) To serve water. 9. When will the food be ready? (A) In 2 minutes. (B) In 8 minutes. (C) In 15 minutes. (D) In 50 minutes.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What are the speakers discussing?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The flavor of the food."
+          },
+          {
+            "label": "B",
+            "text": "Their last vacation."
+          },
+          {
+            "label": "C",
+            "text": "The restaurant décor."
+          },
+          {
+            "label": "D",
+            "text": "The serving dishes."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What does the man want to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Take a rest."
+          },
+          {
+            "label": "B",
+            "text": "Return to the restaurant."
+          },
+          {
+            "label": "C",
+            "text": "Forget about the restaurant."
+          },
+          {
+            "label": "D",
+            "text": "Get a new set of dishes."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the woman predict?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The restaurant will close soon."
+          },
+          {
+            "label": "B",
+            "text": "The flavor of the dishes will improve."
+          },
+          {
+            "label": "C",
+            "text": "The waiter will be very patient."
+          },
+          {
+            "label": "D",
+            "text": "The restaurant will become popular."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "Who is speaking?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The kitchen assistant."
+          },
+          {
+            "label": "B",
+            "text": "The head chef."
+          },
+          {
+            "label": "C",
+            "text": "A patron."
+          },
+          {
+            "label": "D",
+            "text": "A waitress."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What does the speaker offer?",
+        "options": [
+          {
+            "label": "A",
+            "text": "To cook the meal."
+          },
+          {
+            "label": "B",
+            "text": "To take the order."
+          },
+          {
+            "label": "C",
+            "text": "To bring some free food."
+          },
+          {
+            "label": "D",
+            "text": "To serve water."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "When will the food be ready?",
+        "options": [
+          {
+            "label": "A",
+            "text": "In 2 minutes."
+          },
+          {
+            "label": "B",
+            "text": "In 8 minutes."
+          },
+          {
+            "label": "C",
+            "text": "In 15 minutes."
+          },
+          {
+            "label": "D",
+            "text": "In 50 minutes."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "Study the following definitions and examples.\n\n1. basic adj., serving as a starting point or basis; simple a. The new restaurant offers a very basic menu.\n\nb. The restaurant manager ordered enough basic supplies to get through the first month.\n\n2. complete v., to finish or make whole\n\na. We ordered some dessert to complete our meal.\n\nb. Some restaurants want to hear their customers' opinions and ask them to complete a short evaluation form.\n\n3. excite v., to arouse an emotion  \na. Exotic flavors always excite me.  \nb. The new Asian restaurant has excited the interest of many people.\n\n4. flavor n., a distinctive taste  \na. Fusion cooking is distinguished by an interesting mix of flavors.  \nb. The cook changed the flavor of the soup with a unique blend of herbs.\n\n5. forget v., to be unable to remember  \na. The waiter forgot to bring the rolls, annoying the customer.  \nb. Don't forget to tell your friends what a great meal you had tonight.\n\n6. ingredient n., an element in a mixture  \na. The chef went to the farmer's market to select the freshest ingredients for tonight's menu.  \nb. I was unfamiliar with some of the ingredients in the dish.\n\n7. judge v., to form an opinion  \n    a. Hector was not familiar with Asian cooking, so he was unable to judge if the noodles were cooked correctly.  \n    b. The restaurant review harshly judged the quality of the service.\n\n8. mix-up n., a confusion  \na. There was a mix-up in the kitchen so your order will be delayed.  \nb. There was a mix-up about the ingredients and the dish was ruined.\n\n9. patron n., a customer, especially a regular customer  \na. Once the word was out about the new chef, patrons lined up to get into the restaurant.  \nb. This restaurant has many loyal patrons.\n\n10. predict v., to state, tell about, or make known in advance  \na. I predicted this restaurant would become popular and I was right.  \nb. Kona was unable to predict what time Andy, who is always late, would show up at the restaurant.\n\n11. randomly adv., without any specific pattern  \na. We randomly made our selections from the menu.  \nb. That chef chooses his spices randomly, but his dishes always taste great.\n\n12. remind v., to cause to remember a. Ms. Smith was annoyed at having to remind the waitress to bring the check.\n\nb. I reminded the client that we are meeting for dinner tomorrow.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\n| basic | flavor | judged | predict |\n| --- | --- | --- | --- |\n| complete | forget | mix up | randomly |\n| excite | ingredients | patrons | remind |\n\nThe key to a happy meal is that everyone should enjoy eating what they ordered. Before the waiter takes your order, you can ask him for a recommendation or you can select (1) \\_\\_\\_\\_ from the menu.\n\nGood service is part of the overall enjoyment of the meal. The waiter should make the (2) \\_\\_\\_\\_ feel welcome and comfortable. Good waiters can (3) \\_\\_\\_\\_ what you need, like more water, without having to be asked for it. It's easy for a waiter to (4) \\_\\_\\_\\_ something, but you should not have to (5) \\_\\_\\_\\_ a waiter more than once to bring you something. Nor do you want the waiter to (6) \\_\\_\\_\\_ the food orders. You should get what you ordered, and your order should be (7) \\_\\_\\_\\_.\n\nThe quality of the food is the primary way restaurants are (8) \\_\\_\\_\\_. The food should taste and look wonderful. Your plate of food should (9) \\_\\_\\_\\_ all your senses and be fragrant and colorful. Even the most (10) \\_\\_\\_\\_ or familiar dishes can taste different from restaurant to restaurant. A chef can bring out a distinct (11) \\_\\_\\_\\_ in a dish, depending on the (12) \\_\\_\\_\\_ he or she uses.",
+    "word_families": "<table><tr><td>complete</td><td>The meal could not be completed without dessert.</td></tr><tr><td>completion</td><td>The coffee was the last item ordered and brought the meal to completion.</td></tr><tr><td>completely</td><td>The chef forgot that the dessert was in the oven and completely ruined it.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>excite</td><td>The chef knows how to excite his patrons.</td></tr><tr><td>excitement</td><td>You can feel the excitement in the air.</td></tr><tr><td>excited</td><td>I am really excited about trying out this new restaurant.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>flavor</td><td>I like a chef who uses exotic spices to flavor the food.</td></tr><tr><td>flavor</td><td>Some people don&#x27;t like Mexican food because the flavors are too spicy.</td></tr><tr><td>flavorful</td><td>The special ingredients made the dish very flavorful.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>forget</td><td>Don&#x27;t forget to bring us the check.</td></tr><tr><td>forgetful</td><td>The forgetful waitress put a burden on the rest of the staff.</td></tr><tr><td>forgettable</td><td>The meal was bland and forgettable.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>mix up</td><td>An inexperienced waiter can easily mix up orders.</td></tr><tr><td>mix-up</td><td>We had a big mix-up in our plans and I ended up waiting for my friends at the wrong restaurant.</td></tr><tr><td>mixed up</td><td>Bob always gets mixed up when he tries to order food at a foreign restaurant.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>predict</td><td>I predict that this restaurant will be a success.</td></tr><tr><td>prediction</td><td>The manager&#x27;s prediction came true, and the chef was named to the &quot;Top 100&quot; list.</td></tr><tr><td>predictably</td><td>Predictably, because the waiter neglected to write down the order, he forgot some necessary items.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. What are the speakers discussing?\n(A) The flavor of the food.\n(B) Their last vacation.\n(C) The restaurant décor.\n(D) The serving dishes.\n\n5. What does the man want to do?\n(A) Take a rest.\n(B) Return to the restaurant.\n(C) Forget about the restaurant.\n(D) Get a new set of dishes.\n\n6. What does the woman predict?\n(A) The restaurant will close soon.\n(B) The flavor of the dishes will improve.\n(C) The waiter will be very patient.\n(D) The restaurant will become popular.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. Who is speaking?\n(A) The kitchen assistant.\n(B) The head chef.\n(C) A patron.\n(D) A waitress.\n\n8. What does the speaker offer?\n(A) To cook the meal.\n(B) To take the order.\n(C) To bring some free food.\n(D) To serve water.\n\n9. When will the food be ready?\n(A) In 2 minutes.\n(B) In 8 minutes.\n(C) In 15 minutes.\n(D) In 50 minutes.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. Would you like to \\_\\_\\_\\_ your meal with an after-dinner drink?\n(A) complete (C) completely\n(B) completed (D) completion\n\n11. I've had enough \\_\\_\\_\\_ for the day.\n(A) excite (C) excitement\n(B) exciting (D) excites\n\n12. I can't figure out which ingredients the chef used to \\_\\_\\_\\_ this dish.\n(A) flavored (C) flavors\n(B) flavorful (D) flavor\n\n13. I've already \\_\\_\\_\\_ what the last table of guests ordered.\n(A) forget (C) forgotten\n(B) forgetful (D) forgetfulness\n\n14. Unfortunately, on the day the restaurant opened there was a huge \\_\\_\\_\\_ in the kitchen.\n(A) mix-up (C) mix up\n(B) mixed up (D) mixing up\n\n15. No one could have \\_\\_\\_\\_ how successful the restaurant would become.\n(A) predictive (C) predictable\n(B) predictably (D) predicted\n\n## Part 6 Text Completion\n\nOne of the joys of traveling abroad is taking the opportunity to try out different kinds of food. Travelers should always make a point of eating the local dishes. It is exciting to try out dishes made with unfamiliar ingredients and unusual \\_16\\_. Daring travelers can order \\_17\\_ from the menu. Or, they can look at the dishes that other patrons are eating and order one that looks appealing. A traveler who doesn't speak the local language well can order by pointing to the dishes he wishes to order. That is the easiest way to avoid a mix \\_18\\_. Finally, dessert should not be forgotten. A sweet treat at the end of the meal will complete the experience of enjoying foreign cooking.\n\n16. (A) favors 18. (A) up  \n(B) flavors (B) in  \n(C) fivers (C) of  \n(D) fevers (D) out\n\n17. (A) random  \n(B) randomly  \n(C) randomize  \n(D) randomness",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following advertisement.\n\nDon't miss the Yorktown Festival of Food. This exciting annual event will take place May 10–16 at the Yorktown Fairgrounds.\\* Over 100 local restaurants will participate. Which are the best restaurants in town? You be the judge! The price of admission includes:\n\n\\- Samples of food from all participating restaurants\n- Cooking demonstrations by local chefs\n- Copies of recipes of some of Yorktown's favorite dishes, including ingredients lists and preparation instructions\n- A free Festival of Food chef's hat and apron\n\nFifty festival ticket holders will be randomly selected to enjoy a meal especially prepared for the festival by world-renowned chef Jean Pierre de la Farge, director of the Paris School of Cuisine. You could be one of them! Get your tickets today. An unforgettable experience is guaranteed.\n\nTickets are available at all participating restaurants and at the Yorktown Office of Tourism. Ticket prices are $15/day or $50 for the entire week.\n\n\\*If rain is predicted, the event will take place in the Yorktown Sports Arena.\n\n19. How often does the festival take place?\n(A) Once a day.\n(B) Once a week.\n(C) Once a month.\n(D) Once a year.\n\n20. What can people do at the festival?\n(A) Try different kinds of food.\n(B) Cook a meal.\n(C) Judge a contest.\n(D) Buy hats and aprons.\n\n21. What will 50 people win?\n(A) A ticket.\n(B) A cooking lesson.\n(C) A free meal.\n(D) A trip to Paris.\n\n22. The word randomly in line 11 is closest in meaning to  \n(A) quickly  \n(B) by chance  \n(C) beforehand  \n(D) with determination\n\n23. The word predicted in line 19 is closest in meaning to  \n(A) heavy  \n(B) expected  \n(C) falling  \n(D) problematic"
+  },
+  "needs_review": true
+}

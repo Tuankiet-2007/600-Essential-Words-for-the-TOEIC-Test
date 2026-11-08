@@ -1,0 +1,1666 @@
+{
+  "lesson_id": 44,
+  "title": "Museums",
+  "theme_name": "Entertainment",
+  "audio_track": "track_44.mp3",
+  "part1_photo": "part1_photos/lesson_44.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "acquire",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to gain possession of; to get by one's own efforts",
+      "definition_vi": "mua được, giành được, tiếp thu (kỹ năng)",
+      "examples": [
+        {
+          "en": "The museum acquired a van Gogh during heavy bidding.",
+          "vi": "Bảo tàng đã mua được một bức tranh của van Gogh trong phiên đấu giá căng thẳng."
+        },
+        {
+          "en": "The sculptor acquired metalworking skills after much practice.",
+          "vi": "Nhà điêu khắc đã tích lũy được kỹ năng chế tác kim loại sau nhiều lần thực hành."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "acquire a company",
+        "acquire skills",
+        "newly acquired",
+        "recent acquisition"
+      ],
+      "usage": {
+        "structures": [
+          "acquire + N (skills/knowledge/property/a company)"
+        ],
+        "prepositions": [
+          "from",
+          "by"
+        ],
+        "collocations": [
+          "acquire new paintings",
+          "acquire technical skills",
+          "recent acquisitions",
+          "corporate acquisition"
+        ],
+        "tip": "Danh từ 'acquisition' vừa có nghĩa là 'sự mua lại/thâu tóm công ty', vừa là 'tác phẩm/vật mới sưu tầm được' của bảo tàng."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "acquire",
+          "example": "The national gallery hopes to acquire several rare Renaissance drawings.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "acquisition",
+          "example": "The museum's latest acquisition will go on display in the main rotunda next month.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "acquired",
+          "example": "Appreciating abstract modern sculpture is often described as an acquired taste.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The museum's newest _____, a seventeenth-century oil portrait, will be unveiled on Friday.",
+        "answer": "acquisition",
+        "base_word": "acquire",
+        "pos_hint": "danh từ",
+        "vi": "Tác phẩm mới nhất mà bảo tàng mua được, một bức chân dung sơn dầu thế kỷ 17, sẽ được ra mắt vào thứ Sáu."
+      }
+    },
+    {
+      "id": 2,
+      "word": "admire",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to regard with pleasure; to have esteem or respect for",
+      "definition_vi": "chiêm ngưỡng, ngưỡng mộ, khâm phục",
+      "examples": [
+        {
+          "en": "Raisa, admiring the famous smile, stood before the Mona Lisa for hours.",
+          "vi": "Raisa, vừa chiêm ngưỡng nụ cười nổi tiếng, vừa đứng trước bức tranh Mona Lisa suốt nhiều giờ."
+        },
+        {
+          "en": "I admire all the effort the museum put into organizing this wonderful exhibit.",
+          "vi": "Tôi ngưỡng mộ tất cả những nỗ lực mà bảo tàng đã bỏ ra để tổ chức cuộc triển lãm tuyệt vời này."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "admire",
+          "example": "People from all around the world visit the museum to admire the great works of art on display."
+        },
+        {
+          "pos": "noun",
+          "word": "admiration",
+          "example": "I have great admiration for anyone who can create art."
+        },
+        {
+          "pos": "",
+          "word": "admired",
+          "example": "Monet is one of the most admired artists of the Impressionist movement."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "admire somebody for",
+        "greatly admire",
+        "win admiration",
+        "widely admired"
+      ],
+      "usage": {
+        "structures": [
+          "admire + sb/sth (for + N/V-ing)",
+          "have/express admiration for + sb/sth"
+        ],
+        "prepositions": [
+          "for"
+        ],
+        "collocations": [
+          "widely admired artist",
+          "express admiration for",
+          "admirable effort",
+          "stop to admire"
+        ],
+        "tip": "Đi với giới từ 'for' khi nêu lý do ngưỡng mộ (admire her for her dedication)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "admirer",
+          "example": "Hundreds of admirers gathered at the gallery opening to meet the painter.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "admirable",
+          "example": "The restoration team did an admirable job repairing the ancient fresco.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "admirably",
+          "example": "The young curator handled the complex international loan agreement admirably.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Visitors from around the world expressed great _____ for the intricately carved marble statues.",
+        "answer": "admiration",
+        "base_word": "admire",
+        "pos_hint": "danh từ",
+        "vi": "Du khách từ khắp nơi trên thế giới bày tỏ sự ngưỡng mộ lớn đối với những bức tượng đá cẩm thạch được chạm khắc tinh xảo."
+      }
+    },
+    {
+      "id": 3,
+      "word": "collection",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a group of objects or works to be seen, studied, or kept together",
+      "definition_vi": "bộ sưu tập; sự thu thập, sự quyên góp",
+      "examples": [
+        {
+          "en": "The museum's collection contained many works donated by famous collectors.",
+          "vi": "Bộ sưu tập của bảo tàng chứa nhiều tác phẩm được hiến tặng bởi những nhà sưu tầm nổi tiếng."
+        },
+        {
+          "en": "The museum's collection kept two full-time curators busy.",
+          "vi": "Bộ sưu tập của bảo tàng khiến hai giám tuyển toàn thời gian luôn bận rộn."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "collect",
+          "example": "The enthusiast began to collect Shaker furniture in the 1960s."
+        },
+        {
+          "pos": "",
+          "word": "collection",
+          "example": "My parents&#x27; collection of crystal had outgrown their dining room cupboard."
+        },
+        {
+          "pos": "",
+          "word": "collector",
+          "example": "The avid collector spent weekends at estate sales looking for rare art objects."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "permanent collection",
+        "private collection",
+        "extensive collection",
+        "art collector"
+      ],
+      "usage": {
+        "structures": [
+          "a collection of + N (số nhiều)",
+          "on loan from a private collection"
+        ],
+        "prepositions": [
+          "of",
+          "in",
+          "from"
+        ],
+        "collocations": [
+          "permanent collection",
+          "private collection",
+          "rare collection of coins",
+          "avid collector"
+        ],
+        "tip": "Cụm 'permanent collection' (bộ sưu tập trưng bày thường xuyên của bảo tàng) rất phổ biến trong các bài đọc về bảo tàng/triển lãm."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "collective",
+          "example": "Organizing the retrospective exhibition required a collective effort from the entire staff.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "collectively",
+          "example": "The donated paintings are collectively valued at more than ten million dollars.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Several rare ceramics in the exhibit were generously loaned by a private art _____.",
+        "answer": "collector",
+        "base_word": "collection",
+        "pos_hint": "danh từ chỉ người",
+        "vi": "Một số đồ gốm quý hiếm trong triển lãm đã được một nhà sưu tầm nghệ thuật tư nhân hào phóng cho mượn."
+      }
+    },
+    {
+      "id": 4,
+      "word": "criticism",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an evaluation, especially of literary or other artistic works",
+      "definition_vi": "sự phê bình, lời chỉ trích, bình phẩm nghệ thuật",
+      "examples": [
+        {
+          "en": "According to the criticism of the Victorian era, the painting was a masterpiece; now it is considered merely a minor work.",
+          "vi": "Theo giới phê bình thời Victoria, bức tranh là một kiệt tác; giờ đây nó chỉ được coi là một tác phẩm phụ."
+        },
+        {
+          "en": "The revered artist's criticism of the piece was particularly insightful.",
+          "vi": "Lời nhận xét phê bình của người nghệ sĩ đáng kính về tác phẩm đặc biệt sâu sắc."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "criticize",
+          "example": "The sculptor was criticized for his lack of perspective."
+        },
+        {
+          "pos": "noun",
+          "word": "critic",
+          "example": "The art critic gave the show a poor review, which saddened the exhibition team."
+        },
+        {
+          "pos": "",
+          "word": "criticism",
+          "example": "The writer&#x27;s elegant essays on the use of light in Flemish painting were landmarks in art criticism."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "constructive criticism",
+        "draw criticism",
+        "art criticism",
+        "harsh criticism"
+      ],
+      "usage": {
+        "structures": [
+          "criticism of + N",
+          "face/draw/attract criticism",
+          "open to criticism"
+        ],
+        "prepositions": [
+          "of",
+          "for",
+          "from"
+        ],
+        "collocations": [
+          "constructive criticism",
+          "art criticism",
+          "target of criticism",
+          "harshly criticize"
+        ],
+        "tip": "Phân biệt rõ 'criticism' (sự phê bình/chỉ trích - danh từ chỉ sự việc) và 'critic' (nhà phê bình - danh từ chỉ người)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "critical",
+          "example": "The exhibition was a critical success and attracted record crowds.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "critically",
+          "example": "The gallery features works by several critically acclaimed contemporary sculptors.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The renowned art _____ wrote a glowing review of the museum's new Impressionist wing.",
+        "answer": "critic",
+        "base_word": "criticism",
+        "pos_hint": "danh từ chỉ người",
+        "vi": "Nhà phê bình nghệ thuật nổi tiếng đã viết một bài đánh giá khen ngợi nồng nhiệt về khu trưng bày trường phái Ấn tượng mới của bảo tàng."
+      }
+    },
+    {
+      "id": 5,
+      "word": "express",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to give an opinion or depict emotion",
+      "definition_vi": "bày tỏ, biểu đạt, thể hiện; tốc hành",
+      "examples": [
+        {
+          "en": "The sculptor was able to express his feelings better through the use of clay rather than words.",
+          "vi": "Nhà điêu khắc có thể thể hiện cảm xúc của mình qua việc sử dụng đất sét tốt hơn là qua ngôn từ."
+        },
+        {
+          "en": "The photograph expresses a range of emotions.",
+          "vi": "Bức ảnh biểu đạt nhiều cung bậc cảm xúc khác nhau."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "express concern",
+        "express gratitude",
+        "express an opinion",
+        "artistic expression"
+      ],
+      "usage": {
+        "structures": [
+          "express + N (feelings/gratitude/interest/concern) + to sb",
+          "express oneself"
+        ],
+        "prepositions": [
+          "to",
+          "through",
+          "in"
+        ],
+        "collocations": [
+          "express appreciation",
+          "express interest in",
+          "freedom of expression",
+          "expressive brushwork"
+        ],
+        "tip": "Ngoài nghĩa động từ 'bày tỏ' (express gratitude/concern), 'express' còn là tính từ nghĩa là 'tốc hành/nhanh' (express delivery/mail)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "express",
+          "example": "Many visitors used the guest book to express their appreciation for the free tour.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "expression",
+          "example": "The mural is a powerful expression of the community's cultural heritage.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "expressive",
+          "example": "The portrait is famous for the subject's remarkably expressive eyes.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "expressively",
+          "example": "The guide spoke expressively about the history behind each artifact.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The museum director sent a letter to _____ her sincere gratitude to the major donors.",
+        "answer": "express",
+        "base_word": "express",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Giám đốc bảo tàng đã gửi một bức thư để bày tỏ lòng biết ơn chân thành tới các nhà tài trợ lớn."
+      }
+    },
+    {
+      "id": 6,
+      "word": "fashion",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the prevailing style or custom",
+      "definition_vi": "thời trang, mốt, trào lưu; cách thức",
+      "examples": [
+        {
+          "en": "According to the fashion of the day, the languid pose of the sculpture was high art.",
+          "vi": "Theo trào lưu thời bấy giờ, tư thế uể oải của bức tượng điêu khắc được coi là nghệ thuật đỉnh cao."
+        },
+        {
+          "en": "The museum's classical architecture has never gone out of fashion.",
+          "vi": "Kiến trúc cổ điển của bảo tàng chưa bao giờ trở nên lỗi mốt."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "in fashion",
+        "go out of fashion",
+        "in a timely fashion",
+        "fashion industry"
+      ],
+      "usage": {
+        "structures": [
+          "come into / go out of fashion",
+          "in a + adj + fashion (= in a ... manner)"
+        ],
+        "prepositions": [
+          "in",
+          "out of",
+          "after"
+        ],
+        "collocations": [
+          "never go out of fashion",
+          "in a timely fashion",
+          "in an orderly fashion",
+          "fashionable gallery"
+        ],
+        "tip": "Chú ý cấu trúc 'in a timely/orderly fashion' trong TOEIC mang nghĩa 'theo một cách thức kịp thời/trật tự' (= manner/way)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "fashion",
+          "example": "Ancient artisans fashioned delicate jewelry out of gold and turquoise.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "fashionable",
+          "example": "The gallery is located in a fashionable district known for its boutiques and cafés.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "fashionably",
+          "example": "Many guests arrived fashionably dressed for the charity art auction.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The new textile museum is situated in one of the city's most _____ neighborhoods.",
+        "answer": "fashionable",
+        "base_word": "fashion",
+        "pos_hint": "tính từ",
+        "vi": "Bảo tàng dệt may mới tọa lạc tại một trong những khu phố thời thượng nhất của thành phố."
+      }
+    },
+    {
+      "id": 7,
+      "word": "leisure",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "freedom from time-consuming duties; free time",
+      "definition_vi": "thời gian rảnh rỗi, sự nhàn rỗi",
+      "examples": [
+        {
+          "en": "The woman took up painting in her retirement, when she had more leisure time.",
+          "vi": "Người phụ nữ bắt đầu vẽ tranh khi nghỉ hưu, lúc bà có nhiều thời gian rảnh rỗi hơn."
+        },
+        {
+          "en": "We can go to the permanent collection at our leisure.",
+          "vi": "Chúng ta có thể đi xem bộ sưu tập cố định vào lúc rảnh rỗi tùy thích."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "at one's leisure",
+        "leisure time",
+        "leisure activities",
+        "leisure facilities"
+      ],
+      "usage": {
+        "structures": [
+          "at one's leisure",
+          "leisure + N (time/activities/wear)"
+        ],
+        "prepositions": [
+          "at",
+          "for"
+        ],
+        "collocations": [
+          "at your leisure",
+          "leisure time",
+          "leisure industry",
+          "leisurely pace"
+        ],
+        "tip": "Cụm thành ngữ 'at your leisure' (vào lúc bạn rảnh / khi nào tiện cho bạn) rất hay xuất hiện ở cuối email thương mại."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "leisure",
+          "example": "Please review the exhibition catalog at your leisure and let us know your selections.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "leisurely",
+          "example": "Visitors can enjoy a leisurely stroll through the museum's sculpture garden.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "leisurely",
+          "example": "We walked leisurely from gallery to gallery, admiring the watercolor paintings.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Audio guides allow guests to explore the historical galleries at a _____ pace.",
+        "answer": "leisurely",
+        "base_word": "leisure",
+        "pos_hint": "tính từ (đuôi -ly)",
+        "vi": "Thiết bị thuyết minh tự động cho phép du khách khám phá các phòng trưng bày lịch sử với nhịp độ thong thả."
+      }
+    },
+    {
+      "id": 8,
+      "word": "respond",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to make a reply; to react",
+      "definition_vi": "phản hồi, trả lời, đáp lại",
+      "examples": [
+        {
+          "en": "You should respond to the invitation to attend the museum gala.",
+          "vi": "Bạn nên phản hồi lời mời tham dự đêm tiệc gala của bảo tàng."
+        },
+        {
+          "en": "The visitors who viewed those poignant photographs responded emotionally.",
+          "vi": "Những du khách xem những bức ảnh đầy xúc động đó đã phản ứng rất giàu cảm xúc."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "respond",
+          "example": "When Mr. Hon did not respond to the invitation to the opening, we assumed he was not able to attend."
+        },
+        {
+          "pos": "noun",
+          "word": "response",
+          "example": "The response to the request for assistance was overwhelming."
+        },
+        {
+          "pos": "",
+          "word": "responsive",
+          "example": "The director was not responsive to any of the staff&#x27;s suggestions, which made them both annoyed and anxious."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "respond to an inquiry",
+        "respond promptly",
+        "in response to",
+        "responsive to needs"
+      ],
+      "usage": {
+        "structures": [
+          "respond + to + N",
+          "respond + by + V-ing",
+          "in response to + N"
+        ],
+        "prepositions": [
+          "to",
+          "with",
+          "by"
+        ],
+        "collocations": [
+          "respond promptly to",
+          "in response to your request",
+          "positive response",
+          "responsive to feedback"
+        ],
+        "tip": "Luôn đi kèm giới từ 'to' (respond to an email / in response to a customer complaint)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "respondent",
+          "example": "Over eighty percent of survey respondents said they would visit the museum again.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "responsively",
+          "example": "The customer service desk acted responsively to resolve the ticketing issue.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "In _____ to visitor feedback, the museum decided to extend its Friday evening hours.",
+        "answer": "response",
+        "base_word": "respond",
+        "pos_hint": "danh từ",
+        "vi": "Để đáp lại phản hồi của du khách, bảo tàng đã quyết định kéo dài giờ mở cửa vào tối thứ Sáu."
+      }
+    },
+    {
+      "id": 9,
+      "word": "schedule",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to enter in a planner or diary",
+      "definition_vi": "lên lịch, sắp xếp lịch trình; lịch trình",
+      "examples": [
+        {
+          "en": "We didn't schedule enough time to see all the exhibits that we were interested in.",
+          "vi": "Chúng tôi đã không sắp xếp đủ thời gian để xem tất cả các gian triển lãm mà chúng tôi quan tâm."
+        },
+        {
+          "en": "The museum is scheduling a collection of works by Japanese masters.",
+          "vi": "Bảo tàng đang lên lịch trưng bày một bộ sưu tập các tác phẩm của những bậc thầy Nhật Bản."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "schedule",
+          "example": "The museum has scheduled a lecture series to accompany the special exhibit."
+        },
+        {
+          "pos": "noun",
+          "word": "schedule",
+          "example": "Several local artists are featured on the gallery&#x27;s winter schedule."
+        },
+        {
+          "pos": "",
+          "word": "scheduled",
+          "example": "There are several scheduled events at the museum this weekend."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "ahead of schedule",
+        "behind schedule",
+        "on schedule",
+        "be scheduled to"
+      ],
+      "usage": {
+        "structures": [
+          "be scheduled + to V",
+          "be scheduled + for + N (time/date)",
+          "ahead of / behind / on schedule"
+        ],
+        "prepositions": [
+          "for",
+          "on",
+          "ahead of",
+          "behind"
+        ],
+        "collocations": [
+          "ahead of schedule",
+          "on schedule",
+          "tight schedule",
+          "scheduled maintenance"
+        ],
+        "tip": "Cấu trúc 'be scheduled to V' (được lên lịch làm gì) và 'be scheduled for + mốc thời gian' là câu tủ trong Part 5."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "reschedule",
+          "example": "Due to the storm, the outdoor sculpture tour had to be rescheduled for Sunday.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "unscheduled",
+          "example": "The gallery closed briefly in the afternoon for an unscheduled security inspection.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The traveling exhibition of Egyptian artifacts is _____ to open at the city museum in October.",
+        "answer": "scheduled",
+        "base_word": "schedule",
+        "pos_hint": "tính từ / quá khứ phân từ V3/ed",
+        "vi": "Cuộc triển lãm lưu động các cổ vật Ai Cập được lên lịch khai mạc tại bảo tàng thành phố vào tháng Mười."
+      }
+    },
+    {
+      "id": 10,
+      "word": "significant",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "meaningful; having a major effect; important",
+      "definition_vi": "đáng kể, quan trọng, có ý nghĩa lớn",
+      "examples": [
+        {
+          "en": "The use of lambs to symbolize innocence is significant in Western art.",
+          "vi": "Việc sử dụng hình ảnh những chú cừu non để tượng trưng cho sự ngây thơ mang ý nghĩa quan trọng trong nghệ thuật phương Tây."
+        },
+        {
+          "en": "The rash of new acquisitions represented a significant change in the museum's policies.",
+          "vi": "Hàng loạt thương vụ mua tác phẩm mới gần đây thể hiện một sự thay đổi đáng kể trong chính sách của bảo tàng."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "significant change",
+        "significant increase",
+        "statistically significant",
+        "play a significant role"
+      ],
+      "usage": {
+        "structures": [
+          "a significant + N (increase/change/difference)",
+          "be significant to/for + sb"
+        ],
+        "prepositions": [
+          "to",
+          "for",
+          "in"
+        ],
+        "collocations": [
+          "significant improvement",
+          "significant contribution",
+          "significantly higher",
+          "historical significance"
+        ],
+        "tip": "Trạng từ 'significantly' (một cách đáng kể) rất hay đứng trước tính từ so sánh hơn (significantly higher/more efficient)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "signify",
+          "example": "The olive branch in the painting signifies peace and harmony.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "significance",
+          "example": "The tour guide explained the cultural significance of the ceremonial masks.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "significantly",
+          "example": "Weekend attendance at the museum has increased significantly since admission became free.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Membership donations have risen _____ since the museum opened its interactive science wing.",
+        "answer": "significantly",
+        "base_word": "significant",
+        "pos_hint": "trạng từ",
+        "vi": "Các khoản quyên góp từ hội viên đã tăng lên đáng kể từ khi bảo tàng mở khu khoa học tương tác."
+      }
+    },
+    {
+      "id": 11,
+      "word": "specialize",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to concentrate on a particular activity",
+      "definition_vi": "chuyên về, chuyên môn hóa",
+      "examples": [
+        {
+          "en": "The art historian specialized in Navajo rugs.",
+          "vi": "Nhà sử học nghệ thuật chuyên nghiên cứu về thảm Navajo."
+        },
+        {
+          "en": "The museum shop specializes in Ming vases.",
+          "vi": "Cửa hàng lưu niệm của bảo tàng chuyên về bình gốm thời Minh."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "specialize",
+          "example": "The art student decided to specialize in French and English paintings of the 1860s."
+        },
+        {
+          "pos": "noun",
+          "word": "specialist",
+          "example": "The curator is a specialist in native Caribbean art."
+        },
+        {
+          "pos": "",
+          "word": "specialized",
+          "example": "The museum hired specialized personnel to adjust the humidity and light for the display of ancient books."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "specialize in",
+        "medical specialist",
+        "specialized training",
+        "highly specialized"
+      ],
+      "usage": {
+        "structures": [
+          "specialize + in + N/V-ing"
+        ],
+        "prepositions": [
+          "in"
+        ],
+        "collocations": [
+          "specialize in antique restoration",
+          "specialist in Asian art",
+          "specialized knowledge",
+          "specialized equipment"
+        ],
+        "tip": "Động từ 'specialize' và danh từ 'specialist' luôn đi kèm giới từ 'in' (specialize in + lĩnh vực chuyên môn)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "specialization",
+          "example": "Her area of specialization is eighteenth-century European porcelain.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "specialty",
+          "example": "Restoring damaged oil canvases is the conservation lab's specialty.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The museum hired _____ technicians to regulate the lighting and humidity for the ancient scrolls.",
+        "answer": "specialized",
+        "base_word": "specialize",
+        "pos_hint": "tính từ",
+        "vi": "Bảo tàng đã thuê các kỹ thuật viên có chuyên môn cao để điều chỉnh ánh sáng và độ ẩm cho các cuộn giấy cổ."
+      }
+    },
+    {
+      "id": 12,
+      "word": "spectrum",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a range of related qualities, ideas, or activities",
+      "definition_vi": "phổ, dải rộng (các ý tưởng, phẩm chất, hoạt động)",
+      "examples": [
+        {
+          "en": "The painting crosses the spectrum from symbolic to realistic representation.",
+          "vi": "Bức tranh trải dài trên toàn bộ dải phổ từ sự thể hiện mang tính biểu tượng đến hiện thực."
+        },
+        {
+          "en": "The whole spectrum of artistic expression was represented in the exhibit.",
+          "vi": "Toàn bộ dải phổ biểu đạt nghệ thuật đã được thể hiện trong cuộc triển lãm."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "broad spectrum of",
+        "across the spectrum",
+        "whole spectrum",
+        "at the other end of the spectrum"
+      ],
+      "usage": {
+        "structures": [
+          "a broad/wide spectrum of + N",
+          "across the spectrum (from A to B)"
+        ],
+        "prepositions": [
+          "of",
+          "across",
+          "from",
+          "to"
+        ],
+        "collocations": [
+          "broad spectrum of opinions",
+          "whole spectrum of art",
+          "across the political spectrum",
+          "opposite end of the spectrum"
+        ],
+        "tip": "Thường dùng trong cụm 'a broad/wide spectrum of...' hoặc 'across the spectrum' với nghĩa tương tự như 'a wide range of'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "spectrum",
+          "example": "The festival attracts sponsors from across the entire spectrum of local businesses.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "spectral",
+          "example": "Conservators used spectral imaging to reveal hidden sketches beneath the paint.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The contemporary art fair showcases a broad _____ of media, from digital installations to bronze sculptures.",
+        "answer": "spectrum",
+        "base_word": "spectrum",
+        "pos_hint": "danh từ",
+        "vi": "Hội chợ nghệ thuật đương đại trưng bày một dải rộng các chất liệu, từ tác phẩm sắp đặt kỹ thuật số đến tượng đồng."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. Museums are places to view and (1) ____ the great works of art. All large cities, and even many small cities, have good art museums in which you will find a wide (2) ____ of paintings, sculptures, drawings, and prints. Museums attempt to collect and display a broad range of examples of how, throughout time, men and women have (3) ____ to what they have seen, thought, and felt by (4) ____ themselves through materials like stone, clay, and paint, or ink and paper. The artist imposes an order on these materials that is (5) ____. Some styles of art or particular objects are in (6) ____ for only a while, and others earn positive (7) ____ over time and are seen as enduring classics. Museums collect the best of these works for the public to see. When you go to a museum, be sure to (8) ____ plenty of time to see the art without feeling rushed. If you are lucky enough to live near a museum, you can come back again at your (9) ____. Some museums show a broad collection of art from different times and cultures, often (10) ____ and donated by their generous patrons. Other museums (11) ____ in displaying art from a certain period, say from the ancient world, or by a certain group or nationality of people, like by Native Americans. The operations of many museums are paid for by the government, and these museums are often free to the public; other museums must charge each person upon entry. These fees help the museum operate and (12) ____ more works.",
+    "word_bank": [
+      "acquire",
+      "criticism",
+      "leisure",
+      "significant",
+      "admire",
+      "expressing",
+      "responded",
+      "specialize",
+      "collected",
+      "fashion",
+      "schedule",
+      "spectrum"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "admire",
+        "example": "People from all around the world visit the museum to admire the great works of art on display.",
+        "pos": ""
+      },
+      {
+        "word": "admiration",
+        "example": "I have great admiration for anyone who can create art.",
+        "pos": "noun"
+      },
+      {
+        "word": "admired",
+        "example": "Monet is one of the most admired artists of the Impressionist movement.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "collect",
+        "example": "The enthusiast began to collect Shaker furniture in the 1960s.",
+        "pos": ""
+      },
+      {
+        "word": "collection",
+        "example": "My parents&#x27; collection of crystal had outgrown their dining room cupboard.",
+        "pos": ""
+      },
+      {
+        "word": "collector",
+        "example": "The avid collector spent weekends at estate sales looking for rare art objects.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "criticize",
+        "example": "The sculptor was criticized for his lack of perspective.",
+        "pos": ""
+      },
+      {
+        "word": "critic",
+        "example": "The art critic gave the show a poor review, which saddened the exhibition team.",
+        "pos": "noun"
+      },
+      {
+        "word": "criticism",
+        "example": "The writer&#x27;s elegant essays on the use of light in Flemish painting were landmarks in art criticism.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "respond",
+        "example": "When Mr. Hon did not respond to the invitation to the opening, we assumed he was not able to attend.",
+        "pos": "verb"
+      },
+      {
+        "word": "response",
+        "example": "The response to the request for assistance was overwhelming.",
+        "pos": "noun"
+      },
+      {
+        "word": "responsive",
+        "example": "The director was not responsive to any of the staff&#x27;s suggestions, which made them both annoyed and anxious.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "schedule",
+        "example": "The museum has scheduled a lecture series to accompany the special exhibit.",
+        "pos": ""
+      },
+      {
+        "word": "schedule",
+        "example": "Several local artists are featured on the gallery&#x27;s winter schedule.",
+        "pos": "noun"
+      },
+      {
+        "word": "scheduled",
+        "example": "There are several scheduled events at the museum this weekend.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "specialize",
+        "example": "The art student decided to specialize in French and English paintings of the 1860s.",
+        "pos": ""
+      },
+      {
+        "word": "specialist",
+        "example": "The curator is a specialist in native Caribbean art.",
+        "pos": "noun"
+      },
+      {
+        "word": "specialized",
+        "example": "The museum hired specialized personnel to adjust the humidity and light for the display of ancient books.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "The museum was lucky to be given a collection of works by such an ____ artist.",
+        "options": [
+          {
+            "label": "A",
+            "text": "admiration"
+          },
+          {
+            "label": "B",
+            "text": "admire"
+          },
+          {
+            "label": "C",
+            "text": "admired"
+          },
+          {
+            "label": "D",
+            "text": "admires"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "Once Mimi began ____ pottery, her husband gave her pieces as gifts.",
+        "options": [
+          {
+            "label": "A",
+            "text": "collection"
+          },
+          {
+            "label": "B",
+            "text": "collectable"
+          },
+          {
+            "label": "C",
+            "text": "collecting"
+          },
+          {
+            "label": "D",
+            "text": "collector"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "The curator's ____ of the museum's fund-raising plan seemed shortsighted.",
+        "options": [
+          {
+            "label": "A",
+            "text": "criticism"
+          },
+          {
+            "label": "B",
+            "text": "critic"
+          },
+          {
+            "label": "C",
+            "text": "critical"
+          },
+          {
+            "label": "D",
+            "text": "criticize"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "We have been asked to ____ to the proposal by the end of the month.",
+        "options": [
+          {
+            "label": "A",
+            "text": "responsive"
+          },
+          {
+            "label": "B",
+            "text": "response"
+          },
+          {
+            "label": "C",
+            "text": "respond"
+          },
+          {
+            "label": "D",
+            "text": "responding"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "The museum offers a ____ of guided tours.",
+        "options": [
+          {
+            "label": "A",
+            "text": "schedules"
+          },
+          {
+            "label": "B",
+            "text": "scheduled"
+          },
+          {
+            "label": "C",
+            "text": "scheduling"
+          },
+          {
+            "label": "D",
+            "text": "schedule"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "After becoming a ____ in Egyptian tomb painting, the art historian lost her interest in other kinds of art.",
+        "options": [
+          {
+            "label": "A",
+            "text": "specialize"
+          },
+          {
+            "label": "B",
+            "text": "specialist"
+          },
+          {
+            "label": "C",
+            "text": "specially"
+          },
+          {
+            "label": "D",
+            "text": "special"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Thank you for visiting the Museum of History. This brochure has been developed to provide you with information to make your visit more enjoyable. Viewing the Exhibits Our main exhibits are located on the first and second floors of the museum. They cover all aspects of local history up to the present and are organized in chronological order. You are invited to join one of our regular guided tours at no extra charge, or you can visit the exhibits on your own and view them at your [16]. Group Tours School groups and other groups that wish to visit the museum may [17] special group tours. Please contact the Museum Tour Office for more information. Museum Bookstore The Museum Bookstore is located on the first floor next to the cafeteria. This store specializes in books about local history. Gift items are also for sale. In [18] to the requests of many of our visitors, the bookstore hours have been extended. It is now open daily from 10:00 A.M. until 6:00 P.M.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "lesion"
+            },
+            {
+              "label": "B",
+              "text": "legion"
+            },
+            {
+              "label": "C",
+              "text": "ledger"
+            },
+            {
+              "label": "D",
+              "text": "leisure"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "schedule"
+            },
+            {
+              "label": "B",
+              "text": "scheduling"
+            },
+            {
+              "label": "C",
+              "text": "to schedule"
+            },
+            {
+              "label": "D",
+              "text": "have schedule"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "responsible"
+            },
+            {
+              "label": "B",
+              "text": "responsive"
+            },
+            {
+              "label": "C",
+              "text": "response"
+            },
+            {
+              "label": "D",
+              "text": "respond"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following brochure. Most visitors to our city spend time visiting some of the many museums that we are famous for. The City Art Museum, Museum of History, National University Museum of Scientific Research, and the Hall of Presidents are among the most popular destinations for museumgoers. The National Transportation Museum, currently undergoing renovations, is scheduled to reopen next year with a larger number of exhibits and extended hours. Visitors to the City Art Museum can admire the collection of paintings by local artists as well as famous art works from around the world. The museum’s collection covers a wide spectrum of artists and styles, and critics have called it one of the most significant in the world. Art classes offered at the museum provide both the serious and the casual student of art with opportunities to explore the world of artistic expression. The Museum of History features rotating exhibits focusing on various aspects of our nation’s history, and a permanent collection of portraits of our nation’s presidents. This summer’s special exhibit focuses on the history of fashion. The National University Museum of Scientific Research specializes in exhibits on research undertaken at the university. It also features a special hands-on exhibit for children. All museums have the same entrance price: $10 for adults and $5 for children. A special $35 weekly pass, available at any museum, allows the holder entrance to all city museums for a week. This pass is especially recommended to visitors from out of town as it provides the opportunity to visit all the museums at leisure. 23. The word significant in the second paragraph, line 4 is closest in meaning to (A) large (B) varied (C) interesting (D) important",
+        "questions": [
+          {
+            "number": 19,
+            "question": "Who is this brochure for?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Museum employees."
+              },
+              {
+                "label": "B",
+                "text": "Historians."
+              },
+              {
+                "label": "C",
+                "text": "Students."
+              },
+              {
+                "label": "D",
+                "text": "Tourists."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "Where can portraits of presidents be seen?",
+            "options": [
+              {
+                "label": "A",
+                "text": "City Art Museum."
+              },
+              {
+                "label": "B",
+                "text": "Museum of History."
+              },
+              {
+                "label": "C",
+                "text": "National University Museum."
+              },
+              {
+                "label": "D",
+                "text": "Hall of Presidents."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "What is the price of a one-day museum ticket for an adult?",
+            "options": [
+              {
+                "label": "A",
+                "text": "$3.50."
+              },
+              {
+                "label": "B",
+                "text": "$5."
+              },
+              {
+                "label": "C",
+                "text": "$10."
+              },
+              {
+                "label": "D",
+                "text": "$35."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word admire in the second paragraph, line 1 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "look at"
+              },
+              {
+                "label": "B",
+                "text": "look to"
+              },
+              {
+                "label": "C",
+                "text": "look up"
+              },
+              {
+                "label": "D",
+                "text": "look for"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What are the speakers discussing?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A drawing."
+          },
+          {
+            "label": "B",
+            "text": "A sculpture."
+          },
+          {
+            "label": "C",
+            "text": "A painting."
+          },
+          {
+            "label": "D",
+            "text": "A photograph."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the woman say about the museum?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The admission fee is too expensive."
+          },
+          {
+            "label": "B",
+            "text": "They should acquire more works."
+          },
+          {
+            "label": "C",
+            "text": "It's not very interesting."
+          },
+          {
+            "label": "D",
+            "text": "The collection is varied."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What does the man like about it?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The size."
+          },
+          {
+            "label": "B",
+            "text": "The color."
+          },
+          {
+            "label": "C",
+            "text": "The style."
+          },
+          {
+            "label": "D",
+            "text": "The subject."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "When does the lecture series at the museum begin?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Next month."
+          },
+          {
+            "label": "B",
+            "text": "Next week."
+          },
+          {
+            "label": "C",
+            "text": "This month."
+          },
+          {
+            "label": "D",
+            "text": "This week."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "How can you find out the schedule of guided tours?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Visit the main gallery."
+          },
+          {
+            "label": "B",
+            "text": "Press two."
+          },
+          {
+            "label": "C",
+            "text": "Go online."
+          },
+          {
+            "label": "D",
+            "text": "Speak with an operator."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What is the topic of the print exhibit?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Fashion."
+          },
+          {
+            "label": "B",
+            "text": "Sculpture."
+          },
+          {
+            "label": "C",
+            "text": "African art."
+          },
+          {
+            "label": "D",
+            "text": "Nineteenth-century art."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. What are the speakers discussing? (A) A drawing. (B) A sculpture. (C) A painting. (D) A photograph. 6. What does the woman say about the museum? (A) The admission fee is too expensive. (B) They should acquire more works. (C) It's not very interesting. (D) The collection is varied. 5. What does the man like about it? (A) The size. (B) The color. (C) The style. (D) The subject. Listen to the talk. Then read each question and choose the best answer. 7. When does the lecture series at the museum begin? (A) Next month. (B) Next week. (C) This month. (D) This week. 8. How can you find out the schedule of guided tours? (A) Visit the main gallery. (B) Press two. (C) Go online. (D) Speak with an operator. 9. What is the topic of the print exhibit? (A) Fashion. (B) Sculpture. (C) African art. (D) Nineteenth-century art.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What are the speakers discussing?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A drawing."
+          },
+          {
+            "label": "B",
+            "text": "A sculpture."
+          },
+          {
+            "label": "C",
+            "text": "A painting."
+          },
+          {
+            "label": "D",
+            "text": "A photograph."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the woman say about the museum?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The admission fee is too expensive."
+          },
+          {
+            "label": "B",
+            "text": "They should acquire more works."
+          },
+          {
+            "label": "C",
+            "text": "It's not very interesting."
+          },
+          {
+            "label": "D",
+            "text": "The collection is varied."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What does the man like about it?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The size."
+          },
+          {
+            "label": "B",
+            "text": "The color."
+          },
+          {
+            "label": "C",
+            "text": "The style."
+          },
+          {
+            "label": "D",
+            "text": "The subject."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "When does the lecture series at the museum begin?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Next month."
+          },
+          {
+            "label": "B",
+            "text": "Next week."
+          },
+          {
+            "label": "C",
+            "text": "This month."
+          },
+          {
+            "label": "D",
+            "text": "This week."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "How can you find out the schedule of guided tours?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Visit the main gallery."
+          },
+          {
+            "label": "B",
+            "text": "Press two."
+          },
+          {
+            "label": "C",
+            "text": "Go online."
+          },
+          {
+            "label": "D",
+            "text": "Speak with an operator."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What is the topic of the print exhibit?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Fashion."
+          },
+          {
+            "label": "B",
+            "text": "Sculpture."
+          },
+          {
+            "label": "C",
+            "text": "African art."
+          },
+          {
+            "label": "D",
+            "text": "Nineteenth-century art."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "Lesson\n\n44\n\n## WORDS TO LEARN\n\nac(   )\n\n1 \\*mire\n\ncx n\n\n( n\n\n1 1\n\nI sure\n\n1.\\_nd\n\nschedule\n\ns. t\n\n{ }∈、 { }\n\n\\- im\n\n# Museums\n\nStudy the following definitions and examples.\n\n1. acquire v., to gain possession of; to get by one's own efforts a. The museum acquired a van Gogh during heavy bidding.\n\nb. The sculptor acquired metalworking skills after much practice.\n\n2. admire v., to regard with pleasure; to have esteem or respect for\n\na. Raisa, admiring the famous smile, stood before the Mona Lisa for hours.\n\nb. I admire all the effort the museum put into organizing this wonderful exhibit.\n\n3. collection n., a group of objects or works to be seen, studied, or kept together\n\na. The museum's collection contained many works donated by famous collectors.\n\nb. The museum's collection kept two full-time curators busy.\n\n4. criticism n., an evaluation, especially of literary or other artistic works a. According to the criticism of the Victorian era, the painting was a masterpiece; now it is considered merely a minor work.\n\nb. The revered artist's criticism of the piece was particularly insightful.\n\n5. express v., to give an opinion or depict emotion a. The sculptor was able to express his feelings better through the use of clay rather than words.\n\nb. The photograph expresses a range of emotions.\n\n6. fashion n., the prevailing style or custom\n\na. According to the fashion of the day, the languid pose of the sculpture was high art.\n\nb. The museum's classical architecture has never gone out of fashion.\n\n7. leisure n., freedom from time-consuming duties; free time a. The woman took up painting in her retirement, when she had more leisure time.\n\nb. We can go to the permanent collection at our leisure.\n\n8. respond v., to make a reply; to react\n\na. You should respond to the invitation to attend the museum gala.\n\nb. The visitors who viewed those poignant photographs responded emotionally.\n\n9. schedule v., to enter in a planner or diary\n\na. We didn't schedule enough time to see all the exhibits that we were interested in.\n\nb. The museum is scheduling a collection of works by Japanese masters.\n\n10. significant adj., meaningful; having a major effect; important\n\na. The use of lambs to symbolize innocence is significant in Western art.\n\nb. The rash of new acquisitions represented a significant change in the museum's policies.\n\n11. specialize v., to concentrate on a particular activity\n\na. The art historian specialized in Navajo rugs.\n\nb. The museum shop specializes in Ming vases.\n\n12. spectrum n., a range of related qualities, ideas, or activities a. The painting crosses the spectrum from symbolic to realistic representation.\n\nb. The whole spectrum of artistic expression was represented in the exhibit.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\nacquire criticism leisure significant admire expressing responded specialize collected fashion schedule spectrum\n\nMuseums are places to view and (1) \\_\\_\\_\\_ the great works of art. All large cities, and even many small cities, have good art museums in which you will find a wide (2) \\_\\_\\_\\_ of paintings, sculptures, drawings, and prints.\n\nMuseums attempt to collect and display a broad range of examples of how, throughout time, men and women have (3) \\_\\_\\_\\_ to what they have seen, thought, and felt by (4) \\_\\_\\_\\_ themselves through materials like stone, clay, and paint, or ink and paper. The artist imposes an order on these materials that is (5) \\_\\_\\_\\_. Some styles of art or particular objects are in (6) \\_\\_\\_\\_ for only a while, and others earn positive (7) \\_\\_\\_\\_ over time and are seen as enduring classics. Museums collect the best of these works for the public to see.\n\nWhen you go to a museum, be sure to (8) \\_\\_\\_\\_ plenty of time to see the art without feeling rushed. If you are lucky enough to live near a museum, you can come back again at your (9) \\_\\_\\_\\_. Some museums show a broad collection of art from different times and cultures, often (10) \\_\\_\\_\\_ and donated by their generous patrons. Other museums (11) \\_\\_\\_\\_ in displaying art from a certain period, say from the ancient world, or by a certain group or nationality of people, like by Native Americans.\n\nThe operations of many museums are paid for by the government, and these museums are often free to the public; other museums must charge each person upon entry. These fees help the museum operate and (12) \\_\\_\\_\\_ more works.",
+    "word_families": "<table><tr><td>。</td><td>admire</td><td>People from all around the world visit the museum to admire the great works of art on display.</td></tr><tr><td>n</td><td>admiration</td><td>I have great admiration for anyone who can create art.</td></tr><tr><td></td><td>admired</td><td>Monet is one of the most admired artists of the Impressionist movement.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>。</td><td>collect</td><td>The enthusiast began to collect Shaker furniture in the 1960s.</td></tr><tr><td></td><td>collection</td><td>My parents&#x27; collection of crystal had outgrown their dining room cupboard.</td></tr><tr><td>n n</td><td>collector</td><td>The avid collector spent weekends at estate sales looking for rare art objects.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>)</td><td>criticize</td><td>The sculptor was criticized for his lack of perspective.</td></tr><tr><td>noun</td><td>critic</td><td>The art critic gave the show a poor review, which saddened the exhibition team.</td></tr><tr><td>.. un</td><td>criticism</td><td>The writer&#x27;s elegant essays on the use of light in Flemish painting were landmarks in art criticism.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>respond</td><td>When Mr. Hon did not respond to the invitation to the opening, we assumed he was not able to attend.</td></tr><tr><td>noun</td><td>response</td><td>The response to the request for assistance was overwhelming.</td></tr><tr><td></td><td>responsive</td><td>The director was not responsive to any of the staff&#x27;s suggestions, which made them both annoyed and anxious.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>。</td><td>schedule</td><td>The museum has scheduled a lecture series to accompany the special exhibit.</td></tr><tr><td>noun</td><td>schedule</td><td>Several local artists are featured on the gallery&#x27;s winter schedule.</td></tr><tr><td></td><td>scheduled</td><td>There are several scheduled events at the museum this weekend.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>)</td><td>specialize</td><td>The art student decided to specialize in French and English paintings of the 1860s.</td></tr><tr><td>n</td><td>specialist</td><td>The curator is a specialist in native Caribbean art.</td></tr><tr><td></td><td>specialized</td><td>The museum hired specialized personnel to adjust the humidity and light for the display of ancient books.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. What are the speakers discussing?\n(A) A drawing.\n(B) A sculpture.\n(C) A painting.\n(D) A photograph.\n\n6. What does the woman say about the museum?\n(A) The admission fee is too expensive.\n(B) They should acquire more works.\n(C) It's not very interesting.\n(D) The collection is varied.\n\n5. What does the man like about it?\n(A) The size.\n(B) The color.\n(C) The style.\n(D) The subject.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. When does the lecture series at the museum begin?\n(A) Next month.\n(B) Next week.\n(C) This month.\n(D) This week.\n\n8. How can you find out the schedule of guided tours?\n\n(A) Visit the main gallery.\n\n(B) Press two.\n\n(C) Go online.\n\n(D) Speak with an operator.\n\n9. What is the topic of the print exhibit?\n(A) Fashion.\n(B) Sculpture.\n(C) African art.\n(D) Nineteenth-century art.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. The museum was lucky to be given a collection of works by such an \\_\\_\\_\\_ artist.\n(A) admiration (C) admired\n(B) admire (D) admires\n\n11. Once Mimi began \\_\\_\\_\\_ pottery, her husband gave her pieces as gifts.\n(A) collection (C) collecting\n(B) collectable (D) collector\n\n12. The curator's \\_\\_\\_\\_ of the museum's fund-raising plan seemed shortsighted.\n(A) criticism (C) critical\n(B) critic (D) criticize\n\n13. We have been asked to \\_\\_\\_\\_ to the proposal by the end of the month.\n(A) responsive (C) respond\n(B) response (D) responding\n\n14. The museum offers a \\_\\_\\_\\_ of guided tours.\n(A) schedules (C) scheduling\n(B) scheduled (D) schedule\n\n15. After becoming a \\_\\_\\_\\_ in Egyptian tomb painting, the art historian lost her interest in other kinds of art.\n(A) specialize (C) specially\n(B) specialist (D) special\n\n## Part 6 Text Completion\n\nThank you for visiting the Museum of History. This brochure has been developed to provide you with information to make your visit more enjoyable.\n\n## Viewing the Exhibits\n\nOur main exhibits are located on the first and second floors of the museum. They cover all aspects of local history up to the present and are organized in chronological order. You are invited to join one of our regular guided tours at no extra charge, or you can visit the exhibits on your own and view them at your \\_16\\_.\n\n## Group Tours\n\nSchool groups and other groups that wish to visit the museum may \\_17\\_ special group tours. Please contact the Museum Tour Office for more information.\n\n## Museum Bookstore\n\nThe Museum Bookstore is located on the first floor next to the cafeteria. This store specializes in books about local history. Gift items are also for sale. In \\_18\\_ to the requests of many of our visitors, the bookstore hours have been extended. It is now open daily from 10:00 A.M. until 6:00 P.M.\n\n16. (A) lesion 18. (A) responsible  \n(B) legion (B) responsive  \n(C) ledger (C) response  \n(D) leisure (D) respond\n\n17. (A) schedule  \n(B) scheduling  \n(C) to schedule  \n(D) have schedule",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following brochure.\n\nMost visitors to our city spend time visiting some of the many museums that we are famous for. The City Art Museum, Museum of History, National University Museum of Scientific Research, and the Hall of Presidents are among the most popular destinations for museumgoers. The National Transportation Museum, currently undergoing renovations, is scheduled to reopen next year with a larger number of exhibits and extended hours.\n\nVisitors to the City Art Museum can admire the collection of paintings by local artists as well as famous art works from around the world. The museum’s collection covers a wide spectrum of artists and styles, and critics have called it one of the most significant in the world. Art classes offered at the museum provide both the serious and the casual student of art with opportunities to explore the world of artistic expression. The Museum of History features rotating exhibits focusing on various aspects of our nation’s history, and a permanent collection of portraits of our nation’s presidents. This summer’s special exhibit focuses on the history of fashion. The National University Museum of Scientific Research specializes in exhibits on research undertaken at the university. It also features a special hands-on exhibit for children.\n\nAll museums have the same entrance price: $10 for adults and $5 for children. A special $35 weekly pass, available at any museum, allows the holder entrance to all city museums for a week. This pass is especially recommended to visitors from out of town as it provides the opportunity to visit all the museums at leisure.\n\n19. Who is this brochure for?\n(A) Museum employees.\n(B) Historians.\n(C) Students.\n(D) Tourists.\n\n20. Where can portraits of presidents be seen?\n(A) City Art Museum.\n(B) Museum of History.\n(C) National University Museum.\n(D) Hall of Presidents.\n\n21. What is the price of a one-day museum ticket for an adult?\n(A) $3.50.\n(B) $5.\n(C) $10.\n(D) $35.\n\n22. The word admire in the second paragraph, line 1 is closest in meaning to  \n(A) look at  \n(B) look to  \n(C) look up  \n(D) look for\n\n23. The word significant in the second paragraph, line 4 is closest in meaning to (A) large (B) varied (C) interesting (D) important"
+  },
+  "needs_review": true
+}

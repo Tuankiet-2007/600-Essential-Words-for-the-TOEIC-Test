@@ -1,0 +1,1605 @@
+{
+  "lesson_id": 47,
+  "title": "Dentist's Office",
+  "theme_name": "Health",
+  "audio_track": "track_47.mp3",
+  "part1_photo": "part1_photos/lesson_47.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "aware",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "having knowledge",
+      "definition_vi": "nhận thức được, biết về, có ý thức",
+      "examples": [
+        {
+          "en": "I was not aware that flossing my teeth could prevent a buildup of plaque.",
+          "vi": "Tôi đã không biết rằng việc dùng chỉ nha khoa có thể ngăn ngừa sự tích tụ mảng bám."
+        },
+        {
+          "en": "My dentist made me aware that I should have an appointment twice a year. ( .ra( )",
+          "vi": "Nha sĩ đã giúp tôi nhận thức được rằng tôi nên đặt lịch khám răng hai lần một năm."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "be aware of",
+        "be aware that",
+        "make sb aware",
+        "raise awareness"
+      ],
+      "usage": {
+        "structures": [
+          "be/become aware + of + N",
+          "be/become aware + that + S + V",
+          "make + sb + aware of/that"
+        ],
+        "prepositions": [
+          "of"
+        ],
+        "collocations": [
+          "well aware of",
+          "fully aware that",
+          "public awareness",
+          "raise awareness of"
+        ],
+        "tip": "Không bao giờ đứng trước danh từ; 'aware' chỉ đứng sau động từ nối (be/become/remain aware) hoặc tân ngữ (make sb aware) và đi với 'of + N' hoặc 'that + mệnh đề'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "awareness",
+          "example": "The dental association launched a campaign to raise awareness of gum disease.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "unaware",
+          "example": "Many patients are unaware that their dental insurance covers two cleanings per year.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "unawares",
+          "example": "The sudden toothache caught him completely unawares during his business trip.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The brochure is designed to increase public _____ of the benefits of regular dental checkups.",
+        "answer": "awareness",
+        "base_word": "aware",
+        "pos_hint": "danh từ",
+        "vi": "Tờ rơi được thiết kế nhằm nâng cao nhận thức của công chúng về lợi ích của việc khám răng định kỳ."
+      }
+    },
+    {
+      "id": 2,
+      "word": "catch up",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to bring up to date",
+      "definition_vi": "bắt kịp, làm bù cho kịp (công việc tồn đọng), trò chuyện hỏi thăm",
+      "examples": [
+        {
+          "en": "My dentist likes to take time to catch up before she starts the examination. f t",
+          "vi": "Nha sĩ của tôi thích dành thời gian hỏi thăm tình hình trước khi bà bắt đầu buổi khám."
+        },
+        {
+          "en": "The dental assistant caught up on her paperwork in between patients. irr 12",
+          "vi": "Trợ lý nha khoa tranh thủ giải quyết cho kịp đống giấy tờ tồn đọng giữa các lượt bệnh nhân."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "catch up on paperwork",
+        "catch up with",
+        "catch up on sleep",
+        "play catch-up"
+      ],
+      "usage": {
+        "structures": [
+          "catch up + on + N (paperwork/reading/work)",
+          "catch up + with + sb"
+        ],
+        "prepositions": [
+          "on",
+          "with"
+        ],
+        "collocations": [
+          "catch up on paperwork",
+          "catch up on correspondence",
+          "catch up with colleagues",
+          "caught up in traffic"
+        ],
+        "tip": "Chú ý giới từ: 'catch up ON + công việc' (làm cho kịp việc đang dở/tồn đọng) và 'catch up WITH + người' (bắt kịp ai hoặc hỏi thăm ai)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "catch",
+          "example": "Regular X-rays help dentists catch small cavities before they become painful.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "catch-up",
+          "example": "After the clinic's computer system was restored, the receptionists had to play catch-up all afternoon.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "catching",
+          "example": "The hygienist's cheerful enthusiasm for dental care was positively catching.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Dr. Lin stayed at the clinic for an extra hour on Friday evening to _____ on patient charts.",
+        "answer": "catch up",
+        "base_word": "catch up",
+        "pos_hint": "cụm động từ nguyên mẫu",
+        "vi": "Bác sĩ Lin đã ở lại phòng khám thêm một tiếng vào tối thứ Sáu để hoàn thành nốt hồ sơ bệnh nhân còn tồn đọng."
+      }
+    },
+    {
+      "id": 3,
+      "word": "distraction",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the act of being turned away from the focus r ly pc sition",
+      "definition_vi": "sự xao nhãng, điều làm phân tâm/quên đi căng thẳng",
+      "examples": [
+        {
+          "en": "To provide a distraction from the noise, Luisa's dentist offered her a pair of earphones.",
+          "vi": "Để giúp quên đi tiếng ồn, nha sĩ của Luisa đã đưa cho cô một chiếc tai nghe."
+        },
+        {
+          "en": "My dentist is kind enough to provide distractions like television, which take my mind off the procedure.",
+          "vi": "Nha sĩ của tôi rất chu đáo khi trang bị những thứ giúp phân tán sự chú ý như tivi, giúp tâm trí tôi không còn bận tâm đến thủ thuật nha khoa."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "distract",
+          "example": "The child is frightened by the instruments. Try to distract his attention while I get ready."
+        },
+        {
+          "pos": "",
+          "word": "distraction",
+          "example": "The soothing background music was a pleasant distraction from the drilling sounds at the dentist&#x27;s office."
+        },
+        {
+          "pos": "",
+          "word": "distracted",
+          "example": "The distracted patient left the office without paying her bill."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "provide a distraction",
+        "without distraction",
+        "major distraction",
+        "distract attention from"
+      ],
+      "usage": {
+        "structures": [
+          "a distraction from + N",
+          "distract + sb/attention + from + N"
+        ],
+        "prepositions": [
+          "from"
+        ],
+        "collocations": [
+          "pleasant distraction from",
+          "work without distraction",
+          "distract the patient",
+          "easily distracted"
+        ],
+        "tip": "Cả động từ 'distract' và danh từ 'distraction' đều thường đi với giới từ 'from' (distract sb from sth / a distraction from sth)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "distracting",
+          "example": "Please silence your mobile phones in the waiting room as loud ringtones can be distracting.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The pediatric dentist used a funny puppet to _____ the nervous child during the examination.",
+        "answer": "distract",
+        "base_word": "distraction",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Nha sĩ nhi khoa đã dùng một con rối ngộ nghĩnh để đánh lạc hướng đứa trẻ đang lo lắng trong suốt buổi khám."
+      }
+    },
+    {
+      "id": 4,
+      "word": "encouragement",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "inspiration or support",
+      "definition_vi": "sự khích lệ, sự động viên, sự khuyến khích",
+      "examples": [
+        {
+          "en": "The perfect checkup was certainly encouragement to keep up my good dental hygiene.",
+          "vi": "Kết quả khám răng hoàn hảo chắc chắn là nguồn khích lệ để tôi duy trì thói quen vệ sinh răng miệng tốt của mình."
+        },
+        {
+          "en": "Let me offer you some encouragement about your crooked teeth.",
+          "vi": "Hãy để tôi dành cho bạn vài lời động viên về hàm răng khấp khểnh của bạn."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "encourage",
+          "example": "My dentist has been encouraging me to see a specialist about my gum problem."
+        },
+        {
+          "pos": "",
+          "word": "encouragement",
+          "example": "Although the cleaning routine recommended by the dentist was tedious, with some encouragement, Richard was able to follow it regularly."
+        },
+        {
+          "pos": "",
+          "word": "encouraging",
+          "example": "It was encouraging to find out that I had no serious problems at my last dental checkup."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "offer encouragement",
+        "words of encouragement",
+        "encourage sb to do",
+        "with encouragement"
+      ],
+      "usage": {
+        "structures": [
+          "give/offer/provide encouragement (to sb)",
+          "encourage + sb + to V",
+          "encourage + V-ing"
+        ],
+        "prepositions": [
+          "to",
+          "from"
+        ],
+        "collocations": [
+          "words of encouragement",
+          "encourage patients to floss",
+          "encouraging results",
+          "encouraging sign"
+        ],
+        "tip": "Động từ 'encourage' tuân theo quy tắc: 'encourage + sb + to V' (khuyến khích ai làm gì), nếu không có tân ngữ chỉ người thì dùng 'encourage + V-ing/N'."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "encouragingly",
+          "example": "The orthodontist smiled encouragingly as he adjusted the teenager's braces.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Dental hygienists strongly _____ patients to replace their toothbrushes every three months.",
+        "answer": "encourage",
+        "base_word": "encouragement",
+        "pos_hint": "động từ chia hiện tại đơn số nhiều",
+        "vi": "Các chuyên viên vệ sinh nha khoa tích cực khuyến khích bệnh nhân thay bàn chải đánh răng ba tháng một lần."
+      }
+    },
+    {
+      "id": 5,
+      "word": "evident",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "easily seen or understood; obvious",
+      "definition_vi": "hiển nhiên, rõ ràng, dễ thấy",
+      "examples": [
+        {
+          "en": "The presence of a wisdom tooth was not evident until the dentist started to examine the patient.",
+          "vi": "Sự xuất hiện của chiếc răng khôn không hề rõ ràng cho đến khi nha sĩ bắt đầu khám cho bệnh nhân."
+        },
+        {
+          "en": "Unfortunately, his poor dental hygiene is evident from a distance.",
+          "vi": "Thật không may, tình trạng vệ sinh răng miệng kém của anh ta lộ rõ ngay từ đằng xa."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "evidence",
+          "example": "The dentist found evidence of decay on my wisdom tooth."
+        },
+        {
+          "pos": "",
+          "word": "evident",
+          "example": "My lack of dental hygiene was evident without a checkup."
+        },
+        {
+          "pos": "adverb",
+          "word": "evidently",
+          "example": "Proper flossing evidently worked, since my gums are now in good health."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "clearly evident",
+        "become evident",
+        "It is evident that",
+        "evident from"
+      ],
+      "usage": {
+        "structures": [
+          "It is evident + that + S + V",
+          "be evident + from/in + N"
+        ],
+        "prepositions": [
+          "from",
+          "in",
+          "to"
+        ],
+        "collocations": [
+          "clearly evident",
+          "evident from the X-ray",
+          "scientific evidence",
+          "evidently pleased"
+        ],
+        "tip": "Danh từ 'evidence' (bằng chứng) là danh từ KHÔNG đếm được trong tiếng Anh (không bao giờ thêm 's' thành evidences)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "evidence",
+          "example": "His commitment to dental hygiene is evidenced by his healthy gums.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "evidential",
+          "example": "Dental X-rays have strong evidential value when filing an insurance claim.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The dental X-ray provided clear _____ that the cavity had not yet reached the root of the tooth.",
+        "answer": "evidence",
+        "base_word": "evident",
+        "pos_hint": "danh từ không đếm được",
+        "vi": "Phim chụp X-quang nha khoa đã cung cấp bằng chứng rõ ràng rằng vết sâu răng vẫn chưa ăn vào tới chân răng."
+      }
+    },
+    {
+      "id": 6,
+      "word": "habit",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a customary manner or practice",
+      "definition_vi": "thói quen, tập quán",
+      "examples": [
+        {
+          "en": "The toddler's father stressed the importance of toothbrushing in hopes of establishing a good habit.",
+          "vi": "Người cha của đứa trẻ mới biết đi nhấn mạnh tầm quan trọng của việc đánh răng với hy vọng hình thành một thói quen tốt."
+        },
+        {
+          "en": "The patient had a habit of grinding his teeth during his sleep.",
+          "vi": "Bệnh nhân có thói quen nghiến răng khi ngủ."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "habit",
+          "example": "I&#x27;m trying to start the habit of flossing at least once a day."
+        },
+        {
+          "pos": "",
+          "word": "habitual",
+          "example": "His habitual coffee drinking stained his teeth."
+        },
+        {
+          "pos": "",
+          "word": "habitually",
+          "example": "Jack is habitually late for his appointments, which forced the receptionist to scold him."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "develop a habit",
+        "break a habit",
+        "in the habit of",
+        "eating habits"
+      ],
+      "usage": {
+        "structures": [
+          "a habit of + V-ing",
+          "be in the habit of + V-ing",
+          "get into / break the habit of"
+        ],
+        "prepositions": [
+          "of"
+        ],
+        "collocations": [
+          "good dental habits",
+          "in the habit of flossing",
+          "break a bad habit",
+          "out of habit"
+        ],
+        "tip": "Đi kèm với giới từ 'of + V-ing' (a habit of grinding teeth / in the habit of arriving early)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "habituate",
+          "example": "Pediatric dentists help young children habituate to regular toothbrushing early on.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Drinking sugary sodas _____ throughout the day can rapidly erode tooth enamel.",
+        "answer": "habitually",
+        "base_word": "habit",
+        "pos_hint": "trạng từ",
+        "vi": "Việc uống nước ngọt có đường theo thói quen suốt cả ngày có thể làm mòn men răng nhanh chóng."
+      }
+    },
+    {
+      "id": 7,
+      "word": "illuminate",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to provide or brighten with light",
+      "definition_vi": "chiếu sáng, rọi sáng; làm sáng tỏ (vấn đề)",
+      "examples": [
+        {
+          "en": "The dark recesses of the mouth can only be seen clearly when illuminated with a lamp.",
+          "vi": "Những góc khuất tối tăm trong khoang miệng chỉ có thể được nhìn thấy rõ khi được chiếu sáng bằng đèn."
+        },
+        {
+          "en": "Let me turn on more lights to properly illuminate the back teeth.",
+          "vi": "Hãy để tôi bật thêm đèn để chiếu sáng rõ các răng hàm phía trong."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "properly illuminate",
+        "brightly illuminated",
+        "illuminate the issue",
+        "overhead illumination"
+      ],
+      "usage": {
+        "structures": [
+          "illuminate + N (the room / the teeth / a subject)",
+          "be illuminated by/with + N"
+        ],
+        "prepositions": [
+          "with",
+          "by"
+        ],
+        "collocations": [
+          "illuminate the back teeth",
+          "brightly illuminated sign",
+          "proper illumination",
+          "illuminating lecture"
+        ],
+        "tip": "Ngoài nghĩa đen là 'chiếu sáng bằng đèn', tính từ 'illuminating' còn mang nghĩa bóng là 'sáng tỏ/bổ ích' (an illuminating discussion)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "illuminate",
+          "example": "The dentist adjusted the overhead lamp to illuminate the patient's molars.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "illumination",
+          "example": "High-intensity LED illumination helps dentists perform precise restorative work.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "illuminating",
+          "example": "Dr. Park gave an illuminating presentation on modern orthodontic techniques.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "illuminated",
+          "example": "Patients can view their X-rays on the illuminated screen beside the dental chair.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The newly installed fiber-optic lights provide superior _____ during complex dental procedures.",
+        "answer": "illumination",
+        "base_word": "illuminate",
+        "pos_hint": "danh từ",
+        "vi": "Hệ thống đèn sợi quang mới được lắp đặt cung cấp khả năng chiếu sáng vượt trội trong các thủ thuật nha khoa phức tạp."
+      }
+    },
+    {
+      "id": 8,
+      "word": "irritate",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to chafe or inflame, to bother",
+      "definition_vi": "làm kích ứng, làm tấy rát (da, nướu); làm bực mình",
+      "examples": [
+        {
+          "en": "The broken tooth rubbed against my tongue, irritating it.",
+          "vi": "Chiếc răng bị mẻ cọ xát vào lưỡi tôi, làm nó bị rát/kích ứng."
+        },
+        {
+          "en": "Hannah's gums are irritated by foods that are very cold or very hot.",
+          "vi": "Nướu răng của Hannah bị kích ứng bởi những thức ăn quá lạnh hoặc quá nóng."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "irritate",
+          "example": "My dentist was late for my appointment, which irritated me, especially since he did not apologize."
+        },
+        {
+          "pos": "noun",
+          "word": "irritation",
+          "example": "I have an irritation on the inside of my mouth that won&#x27;t heal."
+        },
+        {
+          "pos": "adverb",
+          "word": "irritating",
+          "example": "Matthew decided to visit the dentist because of an irritating gum problem."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "irritate the gums",
+        "irritate skin",
+        "minor irritation",
+        "become irritated"
+      ],
+      "usage": {
+        "structures": [
+          "irritate + N (skin/gums/eyes/customers)",
+          "be irritated by/at/with + N"
+        ],
+        "prepositions": [
+          "by",
+          "at",
+          "with"
+        ],
+        "collocations": [
+          "irritate sensitive gums",
+          "cause gum irritation",
+          "irritating noise",
+          "feel irritated"
+        ],
+        "tip": "Trong chủ đề sức khỏe/nha khoa, 'irritate' và 'irritation' thường mang nghĩa 'làm kích ứng/viêm tấy' (da, mắt, nướu răng, cổ họng)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "irritated",
+          "example": "Rinsing with warm salt water can soothe irritated gums after a deep cleaning.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "irritant",
+          "example": "Harsh whitening chemicals can act as an irritant to sensitive teeth.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "If you experience any gum _____ after using the new mouthwash, discontinue use immediately.",
+        "answer": "irritation",
+        "base_word": "irritate",
+        "pos_hint": "danh từ",
+        "vi": "Nếu bạn gặp bất kỳ tình trạng kích ứng nướu nào sau khi sử dụng nước súc miệng mới, hãy ngừng sử dụng ngay lập tức."
+      }
+    },
+    {
+      "id": 9,
+      "word": "overview",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a summary; a survey; a quick look",
+      "definition_vi": "cái nhìn tổng quan, bản tóm tắt khái quát",
+      "examples": [
+        {
+          "en": "I did a quick overview of your teeth and they look in good shape.",
+          "vi": "Tôi đã xem qua tổng thể nhanh hàm răng của bạn và chúng có vẻ ở trạng thái tốt."
+        },
+        {
+          "en": "An overview of your dental records shows a history of problems.",
+          "vi": "Việc xem xét tổng quan hồ sơ nha khoa của bạn cho thấy một tiền sử nhiều vấn đề về răng."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "brief overview",
+        "comprehensive overview",
+        "give an overview of",
+        "broad overview"
+      ],
+      "usage": {
+        "structures": [
+          "give/provide an overview of + N",
+          "a brief/quick/comprehensive overview"
+        ],
+        "prepositions": [
+          "of"
+        ],
+        "collocations": [
+          "quick overview of",
+          "provide a brief overview",
+          "general overview",
+          "financial overview"
+        ],
+        "tip": "Luôn đi kèm giới từ 'of' (an overview of the procedure / give an overview of the treatment plan)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "overview",
+          "example": "The dentist began the consultation by giving a clear overview of the implant procedure.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "verb",
+          "word": "view",
+          "example": "Patients can view 3D images of their teeth on the chairside monitor.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The first chapter of the manual provides a comprehensive _____ of modern dental hygiene practices.",
+        "answer": "overview",
+        "base_word": "overview",
+        "pos_hint": "danh từ",
+        "vi": "Chương đầu tiên của cuốn cẩm nang cung cấp một cái nhìn tổng quan toàn diện về các phương pháp vệ sinh nha khoa hiện đại."
+      }
+    },
+    {
+      "id": 10,
+      "word": "position",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the right or appropriate place",
+      "definition_vi": "vị trí, tư thế; chức vụ, công việc",
+      "examples": [
+        {
+          "en": "Let me tilt your head to a more comfortable position for you.",
+          "vi": "Hãy để tôi nghiêng đầu của bạn sang một tư thế thoải mái hơn cho bạn."
+        },
+        {
+          "en": "The position of the chair can be adjusted to a range of heights.",
+          "vi": "Vị trí của chiếc ghế có thể được điều chỉnh theo nhiều độ cao khác nhau."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "comfortable position",
+        "apply for a position",
+        "in a position to",
+        "upright position"
+      ],
+      "usage": {
+        "structures": [
+          "in a(n) + adj + position",
+          "be in a position + to V",
+          "apply for a position (as + N)"
+        ],
+        "prepositions": [
+          "in",
+          "into",
+          "of",
+          "for"
+        ],
+        "collocations": [
+          "upright position",
+          "vacant position",
+          "in a position to help",
+          "position the lamp"
+        ],
+        "tip": "Ngoài nghĩa 'vị trí/tư thế', trong TOEIC 'position' rất hay mang nghĩa 'vị trí công việc/chức vụ' (apply for a managerial position)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "position",
+          "example": "The assistant positioned the X-ray sensor carefully inside the patient's mouth.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "positioned",
+          "example": "The tray of instruments is conveniently positioned within the dentist's reach.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "After the dental chair was _____ at a forty-five-degree angle, the hygienist began the cleaning.",
+        "answer": "positioned",
+        "base_word": "position",
+        "pos_hint": "động từ chia quá khứ phân từ V3/ed (bị động)",
+        "vi": "Sau khi chiếc ghế nha khoa được đặt ở góc bốn mươi lăm độ, chuyên viên vệ sinh răng miệng bắt đầu làm sạch răng."
+      }
+    },
+    {
+      "id": 11,
+      "word": "regularly",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "occurring at fixed intervals",
+      "definition_vi": "đều đặn, thường xuyên, định kỳ",
+      "examples": [
+        {
+          "en": "She brushes regularly after every meal.",
+          "vi": "Cô ấy đánh răng đều đặn sau mỗi bữa ăn."
+        },
+        {
+          "en": "I have to remind my son regularly to brush his teeth.",
+          "vi": "Tôi phải nhắc nhở con trai mình thường xuyên về việc đánh răng."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "regulate",
+          "example": "We cannot regulate the temperature in the waiting room today because the thermostat is broken."
+        },
+        {
+          "pos": "",
+          "word": "regular",
+          "example": "Many dental problems can be avoided by following a regular cleaning routine."
+        },
+        {
+          "pos": "verb",
+          "word": "regularly",
+          "example": "I haven&#x27;t been visiting the dentist regularly."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "check regularly",
+        "meet regularly",
+        "regularly scheduled",
+        "exercise regularly"
+      ],
+      "usage": {
+        "structures": [
+          "V + regularly",
+          "regularly + V-ed (regularly scheduled maintenance)"
+        ],
+        "prepositions": [],
+        "collocations": [
+          "visit the dentist regularly",
+          "regularly scheduled",
+          "on a regular basis",
+          "regular checkup"
+        ],
+        "tip": "Trạng từ 'regularly' đồng nghĩa với cụm 'on a regular basis'; chú ý động từ cùng gốc là 'regulate' (điều chỉnh/quy định)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "regularity",
+          "example": "Visiting the dental clinic with regularity helps prevent costly procedures later.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "regulation",
+          "example": "The clinic complies with all state health and safety regulations.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Many serious gum problems can be avoided simply by following a _____ brushing and flossing routine.",
+        "answer": "regular",
+        "base_word": "regularly",
+        "pos_hint": "tính từ",
+        "vi": "Nhiều vấn đề nghiêm trọng về nướu có thể tránh được chỉ bằng cách tuân thủ thói quen đánh răng và dùng chỉ nha khoa đều đặn."
+      }
+    },
+    {
+      "id": 12,
+      "word": "restore",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to bring back to an original condition",
+      "definition_vi": "khôi phục, phục hồi (về tình trạng ban đầu)",
+      "examples": [
+        {
+          "en": "The cleaning restored the whiteness of my teeth.",
+          "vi": "Việc làm sạch răng đã khôi phục lại độ trắng sáng cho hàm răng của tôi."
+        },
+        {
+          "en": "I will talk to my dentist about whether she knows any procedure to restore the parts of my teeth that I have ground away.",
+          "vi": "Tôi sẽ nói chuyện với nha sĩ xem bà có biết thủ thuật nào để phục hồi những phần răng mà tôi đã nghiến mòn đi hay không."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "restore confidence",
+        "restore order",
+        "restore a tooth",
+        "fully restored"
+      ],
+      "usage": {
+        "structures": [
+          "restore + A (to + B)",
+          "be fully restored"
+        ],
+        "prepositions": [
+          "to"
+        ],
+        "collocations": [
+          "restore damaged teeth",
+          "restore power/service",
+          "restorative dentistry",
+          "restoration project"
+        ],
+        "tip": "Thường đi với giới từ 'to' (restore sth to its original condition) hoặc dùng trong thông báo khôi phục điện/dịch vụ (power has been restored)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "restore",
+          "example": "Porcelain crowns are commonly used to restore severely damaged teeth.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "restoration",
+          "example": "Dr. Alvarez specializes in cosmetic tooth restoration and dental implants.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "restorative",
+          "example": "The insurance plan covers eighty percent of basic restorative dental procedures.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Modern ceramic fillings allow dentists to complete a natural-looking tooth _____ in a single visit.",
+        "answer": "restoration",
+        "base_word": "restore",
+        "pos_hint": "danh từ",
+        "vi": "Chất liệu trám răng bằng sứ hiện đại cho phép nha sĩ hoàn thành việc phục hình răng trông tự nhiên chỉ trong một lần khám."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. At least twice a year, Toshiro makes an appointment with his dentist. He's (1) ____ that taking good care of his teeth and seeing a dentist can help prevent the buildup of tartar and plaque that could cause serious problems later. The dentist starts the appointment by looking over Toshiro's chart, which details all the work that has been done on his teeth, as a way to (2) ____ on Toshiro's dental health. Toshiro brushes (3) ____, but is not so regular about daily flossing. His dentist is trying to (4) ____ a better flossing (5) ____, by demonstrating some easy-to-use techniques. When the dentist is ready to look into Toshiro's mouth, she adjusts the height and (6) ____ of the chair to make sure she can see all of Toshiro's teeth. A bright light (7) ____ Toshiro's eyes, but (8) ____ the dark places in the back of his mouth. The dentist does a quick (9) ____ of Toshiro's mouth, looking for any obvious problems, such as a cavity or a broken tooth. The dentist asks if Toshiro has been having any problems, like tooth pain, bleeding, or soreness. Sometimes, problems in the mouth are quite (10) ____ and can be seen by the dentist's trained eye. But other times, the dentist will take X-rays to make certain there are no problems in areas she cannot see, such as under the gum line or inside a tooth. The dentist then goes to work, repairing any damage. She then (11) ____ the natural color to his teeth with a thorough cleaning. The noise of the drills and cleaners can upset some patients, so Toshiro's dentist is kind enough to supply earphones to provide a (12) ____.",
+    "word_bank": [
+      "aware",
+      "encourage",
+      "illuminates",
+      "position",
+      "catch up",
+      "evident",
+      "irritates",
+      "regularly",
+      "distraction",
+      "habit",
+      "overview",
+      "restores"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "distract",
+        "example": "The child is frightened by the instruments. Try to distract his attention while I get ready.",
+        "pos": "noun"
+      },
+      {
+        "word": "distraction",
+        "example": "The soothing background music was a pleasant distraction from the drilling sounds at the dentist&#x27;s office.",
+        "pos": ""
+      },
+      {
+        "word": "distracted",
+        "example": "The distracted patient left the office without paying her bill.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "encourage",
+        "example": "My dentist has been encouraging me to see a specialist about my gum problem.",
+        "pos": "noun"
+      },
+      {
+        "word": "encouragement",
+        "example": "Although the cleaning routine recommended by the dentist was tedious, with some encouragement, Richard was able to follow it regularly.",
+        "pos": ""
+      },
+      {
+        "word": "encouraging",
+        "example": "It was encouraging to find out that I had no serious problems at my last dental checkup.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "evidence",
+        "example": "The dentist found evidence of decay on my wisdom tooth.",
+        "pos": "noun"
+      },
+      {
+        "word": "evident",
+        "example": "My lack of dental hygiene was evident without a checkup.",
+        "pos": ""
+      },
+      {
+        "word": "evidently",
+        "example": "Proper flossing evidently worked, since my gums are now in good health.",
+        "pos": "adverb"
+      }
+    ],
+    [
+      {
+        "word": "habit",
+        "example": "I&#x27;m trying to start the habit of flossing at least once a day.",
+        "pos": ""
+      },
+      {
+        "word": "habitual",
+        "example": "His habitual coffee drinking stained his teeth.",
+        "pos": ""
+      },
+      {
+        "word": "habitually",
+        "example": "Jack is habitually late for his appointments, which forced the receptionist to scold him.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "irritate",
+        "example": "My dentist was late for my appointment, which irritated me, especially since he did not apologize.",
+        "pos": "verb"
+      },
+      {
+        "word": "irritation",
+        "example": "I have an irritation on the inside of my mouth that won&#x27;t heal.",
+        "pos": "noun"
+      },
+      {
+        "word": "irritating",
+        "example": "Matthew decided to visit the dentist because of an irritating gum problem.",
+        "pos": "adverb"
+      }
+    ],
+    [
+      {
+        "word": "regulate",
+        "example": "We cannot regulate the temperature in the waiting room today because the thermostat is broken.",
+        "pos": "verb"
+      },
+      {
+        "word": "regular",
+        "example": "Many dental problems can be avoided by following a regular cleaning routine.",
+        "pos": ""
+      },
+      {
+        "word": "regularly",
+        "example": "I haven&#x27;t been visiting the dentist regularly.",
+        "pos": "verb"
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "I don't want to ____ you, but there is a phone call waiting for you at the front desk.",
+        "options": [
+          {
+            "label": "A",
+            "text": "distractedly"
+          },
+          {
+            "label": "B",
+            "text": "distractible"
+          },
+          {
+            "label": "C",
+            "text": "distraction"
+          },
+          {
+            "label": "D",
+            "text": "distract"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "My dentist always ____ me to floss more regularly.",
+        "options": [
+          {
+            "label": "A",
+            "text": "encouraging"
+          },
+          {
+            "label": "B",
+            "text": "encouragement"
+          },
+          {
+            "label": "C",
+            "text": "encourages"
+          },
+          {
+            "label": "D",
+            "text": "encourage"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "It was ____ from the X-rays that I needed dental work.",
+        "options": [
+          {
+            "label": "A",
+            "text": "evident"
+          },
+          {
+            "label": "B",
+            "text": "evidently"
+          },
+          {
+            "label": "C",
+            "text": "evidence"
+          },
+          {
+            "label": "D",
+            "text": "evidential"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "Knowing his ____ tidiness, I'm not surprised to learn that David flosses three times a day.",
+        "options": [
+          {
+            "label": "A",
+            "text": "habit"
+          },
+          {
+            "label": "B",
+            "text": "habitual"
+          },
+          {
+            "label": "C",
+            "text": "habitually"
+          },
+          {
+            "label": "D",
+            "text": "habitualness"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "An ____ at the gum line can be nothing serious or the symptom of a larger problem.",
+        "options": [
+          {
+            "label": "A",
+            "text": "irritate"
+          },
+          {
+            "label": "B",
+            "text": "irritable"
+          },
+          {
+            "label": "C",
+            "text": "irritation"
+          },
+          {
+            "label": "D",
+            "text": "irritability"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "____ visits to the dentist are necessary for maintaining good dental health.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Regularly"
+          },
+          {
+            "label": "B",
+            "text": "Regular"
+          },
+          {
+            "label": "C",
+            "text": "Regulate"
+          },
+          {
+            "label": "D",
+            "text": "Regulates"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "The state of dental health in our nation is a cause for concern according to Dr. James Hibbard, president of the National Society of Dentists. Dr. Hibbard expressed his concerns in an article appearing this week in Our Dental Health magazine, which is distributed among dentists and other health care workers throughout the country. “Most people don’t have good dental [16],” he says. When people aren’t careful about keeping their teeth clean, Dr. Hibbard warns, the result is [17] gums, cavities, and even tooth loss. “Dentists should be firmer about [18] their patients to maintain their dental health. Dentists need to do more education with their patients, and patients need to follow their dentists’ advice,” recommends Dr. Hibbard.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "habit"
+            },
+            {
+              "label": "B",
+              "text": "habits"
+            },
+            {
+              "label": "C",
+              "text": "habitual"
+            },
+            {
+              "label": "D",
+              "text": "habitually"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "irritate"
+            },
+            {
+              "label": "B",
+              "text": "irritant"
+            },
+            {
+              "label": "C",
+              "text": "irritated"
+            },
+            {
+              "label": "D",
+              "text": "irritation"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "encourage"
+            },
+            {
+              "label": "B",
+              "text": "encourages"
+            },
+            {
+              "label": "C",
+              "text": "encouraging"
+            },
+            {
+              "label": "D",
+              "text": "to encourage"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following advertisement and e-mail message. You know how important it is to have the best equipment for your office. So why settle for less? Evidence shows that outdated, under-functioning equipment can reduce a dentist's efficiency by 50 percent or more. The Acme Dental Supply Company offers state-of-the-art dental equipment at affordable rates. - Our special lighted dental mirrors illuminate all tooth surfaces better than any other light on the market. These mirrors are on sale this week at just $150 per set of three. That's 25 percent off the usual price. - Our automated patient chairs automatically adjust their positions so that you can always work comfortably, without back or shoulder strain. Available in several models and colors. - Our Dental Office Systems computer software streamlines record keeping so that you will never fall behind with your paperwork. Full version available at $500. Upgrade is $175. - Our special edition Dental Office CD set provides hours of soothing music that will keep your patients relaxed. You can focus on your work without being distracted by patient anxiety. Choose from String Quartet, Contemporary Jazz, or Sounds of Nature. $35 per boxed set. To: pdaly@dentaloffice.com From: drbarb@dentaloffice.com Subject: office equipment attach: Acme Dental Supply Take a look at the attached ad. I think we should order a few things. I like the lighted mirrors and probably could use five or six sets, but maybe it's better to spend no more than $300 on them for now, so I can see how well they work first. We probably need the upgrade for the record keeping software, too. It will help you stay caught up with the patient records. I think we could do without those CDs, though, don't you? We do better with the radio. You might as well go ahead and order paper, envelopes, and anything else you need for the front office at the same time. Thanks, Barbara Barbara Hendricks, DDS 22. The word illuminate in the first letter, second paragraph, line 1 is closest in meaning to (A) smooth (B) light (C) clean (D) repair 23. The word distracted in the first letter, fifth paragraph, line 3 is closest in meaning to (A) interested (B) entertained (C) bothered (D) introduced",
+        "questions": [
+          {
+            "number": 19,
+            "question": "Who is Peter Daly?",
+            "options": [
+              {
+                "label": "A",
+                "text": "A dentist."
+              },
+              {
+                "label": "B",
+                "text": "A dental equipment salesman."
+              },
+              {
+                "label": "C",
+                "text": "A dental patient."
+              },
+              {
+                "label": "D",
+                "text": "A dentist's office manager."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "How many sets of mirrors does Dr. Hendricks want to order?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Two."
+              },
+              {
+                "label": "B",
+                "text": "Three."
+              },
+              {
+                "label": "C",
+                "text": "Five."
+              },
+              {
+                "label": "D",
+                "text": "Six."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "Which Acme product is sold to relax patients?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Computer games."
+              },
+              {
+                "label": "B",
+                "text": "Automated chairs."
+              },
+              {
+                "label": "C",
+                "text": "Special lights."
+              },
+              {
+                "label": "D",
+                "text": "CD sets."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What does the dentist recommend that the patient do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Visit her office more regularly."
+          },
+          {
+            "label": "B",
+            "text": "Shop at a certain store."
+          },
+          {
+            "label": "C",
+            "text": "Review his records."
+          },
+          {
+            "label": "D",
+            "text": "Talk about his concerns."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What does the patient want?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Shinier teeth."
+          },
+          {
+            "label": "B",
+            "text": "A cup of coffee."
+          },
+          {
+            "label": "C",
+            "text": "A copy of his records."
+          },
+          {
+            "label": "D",
+            "text": "Fillings in his cavities."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "When does the patient want an appointment?",
+        "options": [
+          {
+            "label": "A",
+            "text": "This afternoon."
+          },
+          {
+            "label": "B",
+            "text": "Tonight."
+          },
+          {
+            "label": "C",
+            "text": "Next week."
+          },
+          {
+            "label": "D",
+            "text": "Next month."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "What product is advertised?",
+        "options": [
+          {
+            "label": "A",
+            "text": "False teeth."
+          },
+          {
+            "label": "B",
+            "text": "A tooth whitener."
+          },
+          {
+            "label": "C",
+            "text": "Chewing gum."
+          },
+          {
+            "label": "D",
+            "text": "A toothbrush."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What are the customers asked to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Use the product for just two days."
+          },
+          {
+            "label": "B",
+            "text": "Change their cleaning habits."
+          },
+          {
+            "label": "C",
+            "text": "Use the product every night."
+          },
+          {
+            "label": "D",
+            "text": "Visit the dentist."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "Where can the product be bought?",
+        "options": [
+          {
+            "label": "A",
+            "text": "At a store."
+          },
+          {
+            "label": "B",
+            "text": "At the dentist's office."
+          },
+          {
+            "label": "C",
+            "text": "From a sales representative."
+          },
+          {
+            "label": "D",
+            "text": "Online."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. What does the dentist recommend that the patient do? (A) Visit her office more regularly. (B) Shop at a certain store. (C) Review his records. (D) Talk about his concerns. 5. What does the patient want? (A) Shinier teeth. (B) A cup of coffee. (C) A copy of his records. (D) Fillings in his cavities. 6. When does the patient want an appointment? (A) This afternoon. (B) Tonight. (C) Next week. (D) Next month. Listen to the talk. Then read each question and choose the best answer. 7. What product is advertised? (A) False teeth. (B) A tooth whitener. (C) Chewing gum. (D) A toothbrush. 8. What are the customers asked to do? (A) Use the product for just two days. (B) Change their cleaning habits. (C) Use the product every night. (D) Visit the dentist. 9. Where can the product be bought? (A) At a store. (B) At the dentist's office. (C) From a sales representative. (D) Online.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question–Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What does the dentist recommend that the patient do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Visit her office more regularly."
+          },
+          {
+            "label": "B",
+            "text": "Shop at a certain store."
+          },
+          {
+            "label": "C",
+            "text": "Review his records."
+          },
+          {
+            "label": "D",
+            "text": "Talk about his concerns."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What does the patient want?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Shinier teeth."
+          },
+          {
+            "label": "B",
+            "text": "A cup of coffee."
+          },
+          {
+            "label": "C",
+            "text": "A copy of his records."
+          },
+          {
+            "label": "D",
+            "text": "Fillings in his cavities."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "When does the patient want an appointment?",
+        "options": [
+          {
+            "label": "A",
+            "text": "This afternoon."
+          },
+          {
+            "label": "B",
+            "text": "Tonight."
+          },
+          {
+            "label": "C",
+            "text": "Next week."
+          },
+          {
+            "label": "D",
+            "text": "Next month."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "What product is advertised?",
+        "options": [
+          {
+            "label": "A",
+            "text": "False teeth."
+          },
+          {
+            "label": "B",
+            "text": "A tooth whitener."
+          },
+          {
+            "label": "C",
+            "text": "Chewing gum."
+          },
+          {
+            "label": "D",
+            "text": "A toothbrush."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What are the customers asked to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Use the product for just two days."
+          },
+          {
+            "label": "B",
+            "text": "Change their cleaning habits."
+          },
+          {
+            "label": "C",
+            "text": "Use the product every night."
+          },
+          {
+            "label": "D",
+            "text": "Visit the dentist."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "Where can the product be bought?",
+        "options": [
+          {
+            "label": "A",
+            "text": "At a store."
+          },
+          {
+            "label": "B",
+            "text": "At the dentist's office."
+          },
+          {
+            "label": "C",
+            "text": "From a sales representative."
+          },
+          {
+            "label": "D",
+            "text": "Online."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "# Dentist's Office\n\nWORDS TO LE 'R!'\n\naware\n\nStudy the following definitions and examples.\n\n1. aware adj., having knowledge  \na. I was not aware that flossing my teeth could prevent a buildup of plaque.  \nb. My dentist made me aware that I should have an appointment twice a year.\n\n( .ra( )\n\n2. catch up v., to bring up to date a. My dentist likes to take time to catch up before she starts the examination.\n\nf t\n\nb. The dental assistant caught up on her paperwork in between patients.\n\nirr 12\n\n3. distraction n., the act of being turned away from the focus\n\nr ly\n\npc sition\n\na. To provide a distraction from the noise, Luisa's dentist offered her a pair of earphones.\n\nb. My dentist is kind enough to provide distractions like television, which take my mind off the procedure.\n\n4. encouragement n., inspiration or support a. The perfect checkup was certainly encouragement to keep up my good dental hygiene.\n\nb. Let me offer you some encouragement about your crooked teeth.\n\n5. evident adj., easily seen or understood; obvious a. The presence of a wisdom tooth was not evident until the dentist started to examine the patient.\n\nb. Unfortunately, his poor dental hygiene is evident from a distance.\n\n6. habit n., a customary manner or practice a. The toddler's father stressed the importance of toothbrushing in hopes of establishing a good habit.\n\nb. The patient had a habit of grinding his teeth during his sleep.\n\n7. illuminate v., to provide or brighten with light  \na. The dark recesses of the mouth can only be seen clearly when illuminated with a lamp.  \nb. Let me turn on more lights to properly illuminate the back teeth.\n\n8. irritate v., to chafe or inflame, to bother  \na. The broken tooth rubbed against my tongue, irritating it.  \nb. Hannah's gums are irritated by foods that are very cold or very hot.\n\n9. overview n., a summary; a survey; a quick look  \na. I did a quick overview of your teeth and they look in good shape.  \nb. An overview of your dental records shows a history of problems.\n\n10. position n., the right or appropriate place  \na. Let me tilt your head to a more comfortable position for you.  \nb. The position of the chair can be adjusted to a range of heights.\n\n11. regularly adv., occurring at fixed intervals  \na. She brushes regularly after every meal.  \nb. I have to remind my son regularly to brush his teeth.\n\n12. restore v., to bring back to an original condition a. The cleaning restored the whiteness of my teeth.\n\nb. I will talk to my dentist about whether she knows any procedure to restore the parts of my teeth that I have ground away.",
+    "words_in_context": "## Words in Context\n\nRead the following passage and write the words in the blanks below.\n\n| aware | encourage | illuminates | position |\n| --- | --- | --- | --- |\n| catch up | evident | irritates | regularly |\n| distraction | habit | overview | restores |\n\nAt least twice a year, Toshiro makes an appointment with his dentist. He's (1) \\_\\_\\_\\_ that taking good care of his teeth and seeing a dentist can help prevent the buildup of tartar and plaque that could cause serious problems later.\n\nThe dentist starts the appointment by looking over Toshiro's chart, which details all the work that has been done on his teeth, as a way to (2) \\_\\_\\_\\_ on Toshiro's dental health. Toshiro brushes (3) \\_\\_\\_\\_, but is not so regular about daily flossing. His dentist is trying to (4) \\_\\_\\_\\_ a better flossing (5) \\_\\_\\_\\_, by demonstrating some easy-to-use techniques.\n\nWhen the dentist is ready to look into Toshiro's mouth, she adjusts the height and (6) \\_\\_\\_\\_ of the chair to make sure she can see all of Toshiro's teeth. A bright light (7) \\_\\_\\_\\_ Toshiro's eyes, but (8) \\_\\_\\_\\_ the dark places in the back of his mouth. The dentist does a quick (9) \\_\\_\\_\\_ of Toshiro's mouth, looking for any obvious problems, such as a cavity or a broken tooth. The dentist asks if Toshiro has been having any problems, like tooth pain, bleeding, or soreness.\n\nSometimes, problems in the mouth are quite (10) \\_\\_\\_\\_ and can be seen by the dentist's trained eye. But other times, the dentist will take X-rays to make certain there are no problems in areas she cannot see, such as under the gum line or inside a tooth.\n\nThe dentist then goes to work, repairing any damage. She then (11) \\_\\_\\_\\_ the natural color to his teeth with a thorough cleaning. The noise of the drills and cleaners can upset some patients, so Toshiro's dentist is kind enough to supply earphones to provide a\n\n(12) \\_\\_\\_\\_.",
+    "word_families": "## WORD FAMILIES\n\n<table><tr><td rowspan=\"2\">noun</td><td>distract</td><td>The child is frightened by the instruments. Try to distract his attention while I get ready.</td></tr><tr><td>distraction</td><td>The soothing background music was a pleasant distraction from the drilling sounds at the dentist&#x27;s office.</td></tr><tr><td>adjex</td><td>distracted</td><td>The distracted patient left the office without paying her bill.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td rowspan=\"2\">noun</td><td>encourage</td><td>My dentist has been encouraging me to see a specialist about my gum problem.</td></tr><tr><td>encouragement</td><td>Although the cleaning routine recommended by the dentist was tedious, with some encouragement, Richard was able to follow it regularly.</td></tr><tr><td>adjex</td><td>encouraging</td><td>It was encouraging to find out that I had no serious problems at my last dental checkup.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td rowspan=\"2\">noun</td><td>evidence</td><td>The dentist found evidence of decay on my wisdom tooth.</td></tr><tr><td>evident</td><td>My lack of dental hygiene was evident without a checkup.</td></tr><tr><td>adverb</td><td>evidently</td><td>Proper flossing evidently worked, since my gums are now in good health.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td rowspan=\"3\">ac</td><td>habit</td><td>I&#x27;m trying to start the habit of flossing at least once a day.</td></tr><tr><td>habitual</td><td>His habitual coffee drinking stained his teeth.</td></tr><tr><td>habitually</td><td>Jack is habitually late for his appointments, which forced the receptionist to scold him.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>irritate</td><td>My dentist was late for my appointment, which irritated me, especially since he did not apologize.</td></tr><tr><td>noun</td><td>irritation</td><td>I have an irritation on the inside of my mouth that won&#x27;t heal.</td></tr><tr><td>adverb</td><td>irritating</td><td>Matthew decided to visit the dentist because of an irritating gum problem.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>v</td><td>regulate</td><td>We cannot regulate the temperature in the waiting room today because the thermostat is broken.</td></tr><tr><td>w</td><td>regular</td><td>Many dental problems can be avoided by following a regular cleaning routine.</td></tr><tr><td>v</td><td>regularly</td><td>I haven&#x27;t been visiting the dentist regularly.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question–Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. What does the dentist recommend that the patient do?\n(A) Visit her office more regularly.\n(B) Shop at a certain store.\n(C) Review his records.\n(D) Talk about his concerns.\n\n5. What does the patient want?\n(A) Shinier teeth.\n(B) A cup of coffee.\n(C) A copy of his records.\n(D) Fillings in his cavities.\n\n6. When does the patient want an appointment?\n(A) This afternoon.\n(B) Tonight.\n(C) Next week.\n(D) Next month.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. What product is advertised?\n(A) False teeth.\n(B) A tooth whitener.\n(C) Chewing gum.\n(D) A toothbrush.\n\n8. What are the customers asked to do?  \n(A) Use the product for just two days.  \n(B) Change their cleaning habits.  \n(C) Use the product every night.  \n(D) Visit the dentist.\n\n9. Where can the product be bought?  \n(A) At a store.  \n(B) At the dentist's office.  \n(C) From a sales representative.  \n(D) Online.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. I don't want to \\_\\_\\_\\_ you, but there is a phone call waiting for you at the front desk.\n(A) distractedly (C) distraction\n(B) distractible (D) distract\n\n11. My dentist always \\_\\_\\_\\_ me to floss more regularly.\n(A) encouraging (C) encourages\n(B) encouragement (D) encourage\n\n12. It was \\_\\_\\_\\_ from the X-rays that I needed dental work.\n(A) evident (C) evidence\n(B) evidently (D) evidential\n\n13. Knowing his \\_\\_\\_\\_ tidiness, I'm not surprised to learn that David flosses three times a day.\n(A) habit (C) habitually\n(B) habitual (D) habitualness\n\n14. An \\_\\_\\_\\_ at the gum line can be nothing serious or the symptom of a larger problem.\n(A) irritate (C) irritation\n(B) irritable (D) irritability\n\n15. \\_\\_\\_\\_ visits to the dentist are necessary for maintaining good dental health.\n(A) Regularly (C) Regulate\n(B) Regular (D) Regulates\n\n## Part 6 Text Completion\n\nThe state of dental health in our nation is a cause for concern according to Dr. James Hibbard, president of the National Society of Dentists. Dr. Hibbard expressed his concerns in an article appearing this week in Our Dental Health magazine, which is distributed among dentists and other health care workers throughout the country. “Most people don’t have good dental \\_16\\_,” he says. When people aren’t careful about keeping their teeth clean, Dr. Hibbard warns, the result is \\_17\\_ gums, cavities, and even tooth loss. “Dentists should be firmer about \\_18\\_ their patients to maintain their dental health. Dentists need to do more education with their patients, and patients need to follow their dentists’ advice,” recommends Dr. Hibbard.\n\n16. (A) habit  \n(B) habits  \n(C) habitual  \n(D) habitually\n\n17. (A) irritate  \n(B) irritant  \n(C) irritated  \n(D) irritation\n\n18. (A) encourage (B) encourages (C) encouraging (D) to encourage",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following advertisement and e-mail message.\n\n## Attention dentists!\n\nYou know how important it is to have the best equipment for your office. So why settle for less? Evidence shows that outdated, under-functioning equipment can reduce a dentist's efficiency by 50 percent or more. The Acme Dental Supply Company offers state-of-the-art dental equipment at affordable rates.\n- Our special lighted dental mirrors illuminate all tooth surfaces better than any other light on the market. These mirrors are on sale this week at just $150 per set of three. That's 25 percent off the usual price.\n- Our automated patient chairs automatically adjust their positions so that you can always work comfortably, without back or shoulder strain. Available in several models and colors.\n- Our Dental Office Systems computer software streamlines record keeping so that you will never fall behind with your paperwork. Full version available at $500. Upgrade is $175.\n- Our special edition Dental Office CD set provides hours of soothing music that will keep your patients relaxed. You can focus on your work without being distracted by patient anxiety. Choose from String Quartet, Contemporary Jazz, or Sounds of Nature. $35 per boxed set.\n\n19. Who is Peter Daly?\n(A) A dentist.\n(B) A dental equipment salesman.\n(C) A dental patient.\n(D) A dentist's office manager.\n\n20. How many sets of mirrors does Dr. Hendricks want to order?\n(A) Two.\n(B) Three.\n(C) Five.\n(D) Six.\n\n21. Which Acme product is sold to relax patients?\n(A) Computer games.\n(B) Automated chairs.\n(C) Special lights.\n(D) CD sets.\n\nTo: pdaly@dentaloffice.com  \nFrom: drbarb@dentaloffice.com  \nSubject: office equipment  \nattach: Acme Dental Supply\n\n## Peter,\n\nTake a look at the attached ad. I think we should order a few things. I like the lighted mirrors and probably could use five or six sets, but maybe it's better to spend no more than $300 on them for now, so I can see how well they work first. We probably need the upgrade for the record keeping software, too. It will help you stay caught up with the patient records. I think we could do without those CDs, though, don't you? We do better with the radio. You might as well go ahead and order paper, envelopes, and anything else you need for the front office at the same time.\n\nThanks,\n\nBarbara\n\nBarbara Hendricks, DDS\n\n22. The word illuminate in the first letter, second paragraph, line 1 is closest in meaning to (A) smooth (B) light (C) clean (D) repair\n\n23. The word distracted in the first letter, fifth paragraph, line 3 is closest in meaning to (A) interested (B) entertained (C) bothered (D) introduced"
+  },
+  "needs_review": true
+}

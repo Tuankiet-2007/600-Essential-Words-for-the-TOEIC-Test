@@ -1,0 +1,1624 @@
+{
+  "lesson_id": 40,
+  "title": "Car Rentals",
+  "theme_name": "Travel",
+  "audio_track": "track_40.mp3",
+  "part1_photo": "part1_photos/lesson_40.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "busy",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "engaged in activity",
+      "definition_vi": "bận rộn, náo nhiệt, đông đúc",
+      "examples": [
+        {
+          "en": "Alfred was busy getting ready for his vacation.",
+          "vi": "Alfred đang bận rộn chuẩn bị cho kỳ nghỉ của mình."
+        },
+        {
+          "en": "The airport was busy, with people catching planes and heading for car rental companies.",
+          "vi": "Sân bay rất đông đúc, với dòng người đang bắt máy bay và hướng tới các công ty cho thuê xe."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "busy schedule",
+        "busy street",
+        "busy airport",
+        "keep busy"
+      ],
+      "usage": {
+        "structures": [
+          "busy with something (bận rộn với cái gì)",
+          "busy doing something (bận rộn làm việc gì)"
+        ],
+        "prepositions": [
+          "with"
+        ],
+        "collocations": [
+          "busy season",
+          "busy period",
+          "busy street",
+          "busy office"
+        ],
+        "tip": "Cấu trúc: 'be busy with N' hoặc 'be busy + V-ing' ('He was busy packing his suitcase')."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "busily",
+          "example": "The front desk clerks were busily typing reservation details into the computer.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "business",
+          "example": "The car rental business experiences high demand during the summer holidays.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The car rental counter was exceptionally _____ on Friday evening as weekend travelers arrived.",
+        "answer": "busy",
+        "base_word": "busy",
+        "pos_hint": "tính từ",
+        "vi": "Quầy cho thuê xe đặc biệt bận rộn vào tối thứ Sáu khi những du khách cuối tuần đến nơi."
+      }
+    },
+    {
+      "id": 2,
+      "word": "coincide",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to happen at the same time",
+      "definition_vi": "trùng hợp, diễn ra cùng lúc",
+      "examples": [
+        {
+          "en": "My cousin's wedding coincided with a holiday weekend, so it was a perfect time to rent a car and go for a drive.",
+          "vi": "Đám cưới của em họ tôi trùng vào một kỳ nghỉ cuối tuần, vì vậy đó là thời điểm hoàn hảo để thuê một chiếc xe và đi dạo."
+        },
+        {
+          "en": "Sean was hoping that the days for the special discount on car rentals would coincide with his vacation, but they did not.",
+          "vi": "Sean hy vọng rằng những ngày áp dụng giảm giá đặc biệt cho thuê xe sẽ trùng với kỳ nghỉ của anh ấy, nhưng không phải vậy."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "coincide",
+          "example": "This year, my vacation coincides with a national holiday, which will make renting a car more expensive."
+        },
+        {
+          "pos": "",
+          "word": "coincidence",
+          "example": "By coincidence, I ran into an old friend in line waiting to rent a car."
+        },
+        {
+          "pos": "",
+          "word": "coincidentally",
+          "example": "Coincidentally, we are offering a special discount if you are over age 65."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "coincide with",
+        "coincide perfectly",
+        "dates coincide",
+        "coincide with a holiday"
+      ],
+      "usage": {
+        "structures": [
+          "coincide with something (trùng với cái gì)"
+        ],
+        "prepositions": [
+          "with"
+        ],
+        "collocations": [
+          "coincide with arrival",
+          "coincide with an event",
+          "roughly coincide",
+          "coincide closely"
+        ],
+        "tip": "Động từ 'coincide' hầu như luôn đi kèm giới từ 'with' ('The conference coincides with the festival')."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "coincidence",
+          "example": "By remarkable coincidence, we booked rooms at the exact same seaside hotel.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "coincidental",
+          "example": "Any similarity between the travel brochures was purely coincidental.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The timing of our business trip _____ with the city's annual international trade fair.",
+        "answer": "coincided",
+        "base_word": "coincide",
+        "pos_hint": "động từ (quá khứ)",
+        "vi": "Thời gian chuyến công tác của chúng tôi đã trùng với hội chợ thương mại quốc tế thường niên của thành phố."
+      }
+    },
+    {
+      "id": 3,
+      "word": "confusion",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a lack of clarity, order, or understanding",
+      "definition_vi": "sự lộn xộn, sự nhầm lẫn, bối rối",
+      "examples": [
+        {
+          "en": "There was some confusion about which rental discount coupons applied to which car rental agency.",
+          "vi": "Đã có một sự nhầm lẫn về việc phiếu giảm giá áp dụng cho đại lý cho thuê xe nào."
+        },
+        {
+          "en": "To avoid any confusion about renting the car, Yolanda asked her travel agent to make the arrangements on her behalf.",
+          "vi": "Để tránh bất kỳ sự nhầm lẫn nào về việc thuê xe, Yolanda đã yêu cầu đại lý du lịch sắp xếp thay cho mình."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "confuse",
+          "example": "These long car rental contracts always confuse me."
+        },
+        {
+          "pos": "",
+          "word": "confusion",
+          "example": "The crowds at the car rental office resulted in a lot of confusion."
+        },
+        {
+          "pos": "",
+          "word": "confusing",
+          "example": "Driving in an unfamiliar city can be quite confusing."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "cause confusion",
+        "avoid confusion",
+        "in confusion",
+        "confusion about"
+      ],
+      "usage": {
+        "structures": [
+          "confusion about/over something (sự nhầm lẫn về cái gì)",
+          "to avoid confusion (để tránh nhầm lẫn)"
+        ],
+        "prepositions": [
+          "about",
+          "over",
+          "in"
+        ],
+        "collocations": [
+          "clear up confusion",
+          "mass confusion",
+          "widespread confusion",
+          "lead to confusion"
+        ],
+        "tip": "Cụm 'to avoid confusion' (để tránh nhầm lẫn) là cụm mục đích rất hay gặp trong các thư thông báo."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "confuse",
+          "example": "The complex floor plan of the rental agency confused many arriving passengers.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "confusing",
+          "example": "The highway road signs near the airport exit were very confusing to foreign drivers.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Clear directional signs were installed in the parking lot to prevent _____ among arriving motorists.",
+        "answer": "confusion",
+        "base_word": "confusion",
+        "pos_hint": "danh từ",
+        "vi": "Các biển chỉ dẫn rõ ràng đã được lắp đặt trong bãi đỗ xe để ngăn ngừa sự bối rối, nhầm lẫn cho những người lái xe khi đến."
+      }
+    },
+    {
+      "id": 4,
+      "word": "contact",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to get in touch with",
+      "definition_vi": "liên hệ, liên lạc; người liên hệ",
+      "examples": [
+        {
+          "en": "Manuel contacted at least a dozen car rental agencies to get the best deal.",
+          "vi": "Manuel đã liên hệ với ít nhất một tá công ty cho thuê xe để có được thỏa thuận tốt nhất."
+        },
+        {
+          "en": "Last night I was contacted by my travel agent who said he had found a better price on a car rental.",
+          "vi": "Tối qua tôi đã được liên hệ bởi đại lý du lịch của mình, người nói rằng anh ấy đã tìm thấy một mức giá tốt hơn cho việc thuê xe."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "contact a representative",
+        "point of contact",
+        "contact directly",
+        "emergency contact"
+      ],
+      "usage": {
+        "structures": [
+          "contact somebody directly (liên hệ trực tiếp với ai)",
+          "make contact with (tạo liên lạc với)"
+        ],
+        "prepositions": [
+          "with"
+        ],
+        "collocations": [
+          "contact details",
+          "contact person",
+          "contact information",
+          "please contact"
+        ],
+        "tip": "Khi là ngoại động từ, 'contact' KHÔNG đi với 'with' ('Please contact me', KHÔNG nói 'contact with me'). Khi là danh từ thì đi với 'with' ('in contact with')."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "contactable",
+          "example": "The rental manager is contactable by mobile phone twenty-four hours a day.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "If you experience any vehicle breakdown during your rental period, please _____ roadside assistance immediately.",
+        "answer": "contact",
+        "base_word": "contact",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Nếu bạn gặp phải bất kỳ sự cố hỏng xe nào trong thời gian thuê, vui lòng liên hệ ngay với dịch vụ cứu hộ ven đường."
+      }
+    },
+    {
+      "id": 5,
+      "word": "disappoint",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to fail to satisfy the hope, desire, or expectation of",
+      "definition_vi": "làm thất vọng, không đáp ứng được mong đợi",
+      "examples": [
+        {
+          "en": "Leila was disappointed to discover that no rental cars were available the weekend she wished to travel.",
+          "vi": "Leila đã rất thất vọng khi phát hiện ra không có xe thuê nào còn trống vào cuối tuần cô ấy muốn đi du lịch."
+        },
+        {
+          "en": "I hate to disappoint you, but I can't allow you to rent a car unless you have a major credit card.",
+          "vi": "Tôi ghét phải làm bạn thất vọng, nhưng tôi không thể cho phép bạn thuê xe trừ khi bạn có thẻ tín dụng quốc tế."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "disappoint",
+          "example": "The service at that car rental agency always disappoints me, so next time I plan to use a different agency."
+        },
+        {
+          "pos": "",
+          "word": "disappointment",
+          "example": "The poor condition of the car we rented was an unexpected disappointment."
+        },
+        {
+          "pos": "",
+          "word": "disappointing",
+          "example": "The weather during our trip was so disappointing that we came home early."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "disappoint customers",
+        "greatly disappoint",
+        "hate to disappoint",
+        "fail to disappoint"
+      ],
+      "usage": {
+        "structures": [
+          "disappoint somebody (làm ai thất vọng)",
+          "be disappointed with/in/by something (thất vọng vì điều gì)"
+        ],
+        "prepositions": [
+          "with",
+          "in",
+          "by"
+        ],
+        "collocations": [
+          "deeply disappointed",
+          "bitterly disappointed",
+          "not to disappoint",
+          "disappointing outcome"
+        ],
+        "tip": "Cấu trúc cảm xúc: 'be disappointed WITH/ABOUT something' (người cảm thấy thất vọng) và 'disappointing' (sự việc gây thất vọng: 'a disappointing result')."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "disappointment",
+          "example": "To our disappointment, the car model we had requested was already sold out.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "disappointed",
+          "example": "The travelers were disappointed by the poor cleanliness of the rental vehicle.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "disappointing",
+          "example": "The lack of available compact vehicles resulted in a disappointing customer experience.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "We were deeply _____ to learn that all the convertibles had already been reserved for the weekend.",
+        "answer": "disappointed",
+        "base_word": "disappoint",
+        "pos_hint": "tính từ",
+        "vi": "Chúng tôi đã vô cùng thất vọng khi biết rằng tất cả các xe mui trần đều đã được đặt hết cho dịp cuối tuần."
+      }
+    },
+    {
+      "id": 6,
+      "word": "intend",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to have in mind",
+      "definition_vi": "dự định, có ý định",
+      "examples": [
+        {
+          "en": "I never intended to drive to Los Angeles until my brother suggested we do it together.",
+          "vi": "Tôi chưa bao giờ có ý định lái xe đến Los Angeles cho đến khi anh trai tôi đề nghị chúng tôi làm điều đó cùng nhau."
+        },
+        {
+          "en": "Do you intend to return the car to this location or to another location?",
+          "vi": "Bạn có ý định trả xe về địa điểm này hay về một địa điểm khác?"
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "intention",
+          "example": "I have every intention of paying by cash even though I reserved the car with my credit card."
+        },
+        {
+          "pos": "",
+          "word": "intent",
+          "example": "Intent on avoiding an accident, Zola drove cautiously through the rush hour traffic."
+        },
+        {
+          "pos": "",
+          "word": "intently",
+          "example": "The tourist intently studied the road map."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "intend to do something",
+        "fully intend",
+        "originally intend",
+        "intend for"
+      ],
+      "usage": {
+        "structures": [
+          "intend to do something (dự định làm gì)",
+          "be intended for somebody (được thiết kế/dành cho ai)"
+        ],
+        "prepositions": [
+          "for",
+          "to"
+        ],
+        "collocations": [
+          "intend to return",
+          "intend to travel",
+          "intend to purchase",
+          "clearly intend"
+        ],
+        "tip": "Cấu trúc: 'intend to + V' (dự định làm gì) hoặc 'be intended for + N' (dành riêng cho ai/mục đích gì)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "intention",
+          "example": "It is our clear intention to expand our car rental fleet by thirty percent next year.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "intentional",
+          "example": "The damage to the vehicle's paint did not appear to be intentional.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Drivers who _____ to travel across international borders must notify the rental office beforehand.",
+        "answer": "intend",
+        "base_word": "intend",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Những tài xế có ý định lái xe qua biên giới quốc tế phải thông báo cho văn phòng cho thuê trước."
+      }
+    },
+    {
+      "id": 7,
+      "word": "license",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the legal permission to do or own a specified thing",
+      "definition_vi": "giấy phép, bằng lái; cấp phép",
+      "examples": [
+        {
+          "en": "First, I'll need to see your driver's license and a major credit card.",
+          "vi": "Trước tiên, tôi sẽ cần xem bằng lái xe của bạn và một thẻ tín dụng quốc tế."
+        },
+        {
+          "en": "You will need a license in order to run this business.",
+          "vi": "Bạn sẽ cần một giấy phép để điều hành công việc kinh doanh này."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "driver's license",
+        "valid license",
+        "issue a license",
+        "business license"
+      ],
+      "usage": {
+        "structures": [
+          "license to do something (giấy phép làm gì)",
+          "license plate (biển số xe)"
+        ],
+        "prepositions": [
+          "for",
+          "to"
+        ],
+        "collocations": [
+          "driver's license",
+          "international driving license",
+          "renew a license",
+          "license number"
+        ],
+        "tip": "'Driver's license' (bằng lái xe) là cụm từ bắt buộc phải có khi thuê xe ô tô trong các bài đàm thoại TOEIC Part 3."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "licensed",
+          "example": "Only properly licensed drivers over the age of twenty-one may operate the rental car.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Customers must provide a valid driver's _____ and a major credit card to rent any vehicle.",
+        "answer": "license",
+        "base_word": "license",
+        "pos_hint": "danh từ",
+        "vi": "Khách hàng phải cung cấp bằng lái xe hợp lệ và một thẻ tín dụng quốc tế để thuê bất kỳ chiếc xe nào."
+      }
+    },
+    {
+      "id": 8,
+      "word": "nervously",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "in a distressed or uneasy manner",
+      "definition_vi": "một cách bồn chồn, lo lắng",
+      "examples": [
+        {
+          "en": "As we approached the city Lonnie started driving nervously, so I volunteered to drive that part of the trip.",
+          "vi": "Khi chúng tôi đến gần thành phố, Lonnie bắt đầu lái xe một cách bồn chồn lo lắng, vì vậy tôi đã tình nguyện lái phần chuyến đi đó."
+        },
+        {
+          "en": "I looked around nervously the entire time I was in the dark parking garage.",
+          "vi": "Tôi nhìn quanh một cách lo lắng trong suốt thời gian tôi ở trong bãi đậu xe tối tăm."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "nervousness",
+          "example": "I hope my nervousness did not show when I was filling out the forms."
+        },
+        {
+          "pos": "",
+          "word": "nervous",
+          "example": "This was Jane&#x27;s first time renting a car, so she was somewhat nervous."
+        },
+        {
+          "pos": "",
+          "word": "nervously",
+          "example": "Mr. Lane nervously parallel parked the rental car between two others in the parking garage."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "drive nervously",
+        "look around nervously",
+        "glance nervously",
+        "laugh nervously"
+      ],
+      "usage": {
+        "structures": [
+          "nervously waiting for (lo lắng chờ đợi cái gì)",
+          "act nervously (hành động bồn chồn)"
+        ],
+        "prepositions": [
+          "about",
+          "around"
+        ],
+        "collocations": [
+          "wait nervously",
+          "pace nervously",
+          "speak nervously",
+          "fidget nervously"
+        ],
+        "tip": "Trạng từ 'nervously' bổ nghĩa cho hành động lo âu: 'waited nervously for the flight status update'."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "nervous",
+          "example": "First-time drivers are often nervous when navigating busy highway interchanges.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "nervousness",
+          "example": "Taking a deep breath helped calm his nervousness before the driving exam.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The tourist glanced _____ at the fuel gauge as the car traveled down the deserted highway.",
+        "answer": "nervously",
+        "base_word": "nervously",
+        "pos_hint": "trạng từ",
+        "vi": "Người khách du lịch liếc nhìn một cách lo lắng vào đồng hồ đo nhiên liệu khi chiếc xe di chuyển trên con đường cao tốc vắng vẻ."
+      }
+    },
+    {
+      "id": 9,
+      "word": "optional",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "not compulsory or automatic",
+      "definition_vi": "tự chọn, không bắt buộc",
+      "examples": [
+        {
+          "en": "Check this box if you wish to have this optional insurance.",
+          "vi": "Đánh dấu vào ô này nếu bạn muốn có gói bảo hiểm tự chọn này."
+        },
+        {
+          "en": "Having a driver's license is not optional.",
+          "vi": "Có bằng lái xe không phải là điều tự chọn (bắt buộc phải có)."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "optional insurance",
+        "optional extra",
+        "completely optional",
+        "optional fee"
+      ],
+      "usage": {
+        "structures": [
+          "optional for somebody (tự chọn đối với ai)",
+          "optional feature (tính năng tự chọn)"
+        ],
+        "prepositions": [
+          "for"
+        ],
+        "collocations": [
+          "optional coverage",
+          "optional excursion",
+          "optional equipment",
+          "purely optional"
+        ],
+        "tip": "'Optional' trái nghĩa với 'mandatory', 'compulsory', 'required'. Trong hợp đồng thuê xe, 'collision damage waiver is optional'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "option",
+          "example": "Customers have the option of returning the rental car with a full tank of gas.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "verb",
+          "word": "opt",
+          "example": "Many travelers opt for GPS navigation systems when driving in unfamiliar cities.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Purchasing roadside assistance coverage is entirely _____, but highly recommended for long journeys.",
+        "answer": "optional",
+        "base_word": "optional",
+        "pos_hint": "tính từ",
+        "vi": "Mua gói bảo hiểm cứu hộ ven đường là hoàn toàn tự chọn, nhưng rất được khuyến nghị cho các chuyến đi dài."
+      }
+    },
+    {
+      "id": 10,
+      "word": "tempt",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to be inviting or attractive to",
+      "definition_vi": "lôi cuốn, cám dỗ, khiến ai muốn làm gì",
+      "examples": [
+        {
+          "en": "I am tempted by the idea of driving across the country instead of flying.",
+          "vi": "Tôi bị lôi cuốn bởi ý tưởng lái xe xuyên quốc gia thay vì đi máy bay."
+        },
+        {
+          "en": "Gina is tempted to rent the smaller car to save a few dollars.",
+          "vi": "Gina bị cám dỗ muốn thuê một chiếc xe nhỏ hơn để tiết kiệm một vài đô la."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "tempt",
+          "example": "Can I tempt you to rent a larger car with a special discount?"
+        },
+        {
+          "pos": "",
+          "word": "temptation",
+          "example": "The temptation to drive the sports car fast was too great for Karl to resist."
+        },
+        {
+          "pos": "",
+          "word": "tempting",
+          "example": "As tempting as it sounds to drive to Florida, I think I&#x27;d rather fly."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "be tempted to do something",
+        "tempt customers",
+        "tempting offer",
+        "tempt fate"
+      ],
+      "usage": {
+        "structures": [
+          "be tempted to do something (bị lôi cuốn muốn làm gì)",
+          "tempt somebody into doing something (lôi cuốn ai vào việc gì)"
+        ],
+        "prepositions": [
+          "to",
+          "into",
+          "by"
+        ],
+        "collocations": [
+          "tempting discount",
+          "tempting price",
+          "sorely tempted",
+          "tempt buyers"
+        ],
+        "tip": "Rất hay dùng ở dạng bị động: 'be tempted to V' ('I was tempted to upgrade to a convertible'). Tính từ là 'tempting' ('a tempting offer')."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "temptation",
+          "example": "The low daily rental rate was a great temptation for budget-conscious vacationers.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "tempting",
+          "example": "The agency advertised a very tempting weekend promotional package.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The discounted luxury sports car was so _____ that we decided to treat ourselves for the weekend.",
+        "answer": "tempting",
+        "base_word": "tempt",
+        "pos_hint": "tính từ",
+        "vi": "Chiếc xe thể thao hạng sang được giảm giá hấp dẫn đến mức chúng tôi đã quyết định tự thưởng cho mình vào dịp cuối tuần."
+      }
+    },
+    {
+      "id": 11,
+      "word": "thrill",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the source or cause of excitement or emotion",
+      "definition_vi": "cảm giác hồi hộp thích thú, niềm phấn khích; làm rộn ràng",
+      "examples": [
+        {
+          "en": "The thought of renting a sports car gave John a thrill.",
+          "vi": "Ý nghĩ về việc thuê một chiếc xe thể thao đã mang lại cho John một cảm giác hồi hộp thích thú."
+        },
+        {
+          "en": "Just taking a vacation is thrill enough, even if we are driving instead of flying.",
+          "vi": "Chỉ việc đi nghỉ mát thôi đã đủ là một niềm phấn khích rồi, ngay cả khi chúng tôi lái xe thay vì bay."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "give somebody a thrill",
+        "thrill of travel",
+        "seek thrills",
+        "thrill of speed"
+      ],
+      "usage": {
+        "structures": [
+          "get a thrill from something (nhận được cảm giác phấn khích từ điều gì)",
+          "be thrilled with/by something (vô cùng hào hứng với cái gì)"
+        ],
+        "prepositions": [
+          "from",
+          "with",
+          "by"
+        ],
+        "collocations": [
+          "big thrill",
+          "thrill of driving",
+          "provide a thrill",
+          "thrilled to announce"
+        ],
+        "tip": "Tính từ 'thrilled' (rất vui mừng/hào hứng) rất hay xuất hiện trong email và thư mời: 'We are thrilled to welcome you to our hotel'."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "thrilling",
+          "example": "Driving along the coastal mountain cliffs was a truly thrilling adventure.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "thrilled",
+          "example": "The travelers were thrilled with the unexpected complimentary upgrade.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "We were absolutely _____ to receive a complimentary upgrade to a premium convertible at the rental desk.",
+        "answer": "thrilled",
+        "base_word": "thrill",
+        "pos_hint": "tính từ",
+        "vi": "Chúng tôi vô cùng vui mừng phấn khởi khi nhận được việc nâng cấp miễn phí lên chiếc xe mui trần cao cấp tại quầy thuê xe."
+      }
+    },
+    {
+      "id": 12,
+      "word": "tier",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a rank or class",
+      "definition_vi": "tầng, lớp, hạng bậc (trong phân loại dịch vụ/giá)",
+      "examples": [
+        {
+          "en": "The car rental company had a few tiers of cars, each one costing more than the previous tier.",
+          "vi": "Công ty cho thuê xe có một vài hạng xe, mỗi hạng có giá cao hơn hạng trước."
+        },
+        {
+          "en": "If you are on a budget, I suggest you think about renting a car from our lowest tier.",
+          "vi": "Nếu bạn có ngân sách eo hẹp, tôi khuyên bạn nên nghĩ đến việc thuê một chiếc xe từ hạng thấp nhất của chúng tôi."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "membership tier",
+        "highest tier",
+        "pricing tier",
+        "lowest tier"
+      ],
+      "usage": {
+        "structures": [
+          "tier of service (hạng dịch vụ)",
+          "in a tier (thuộc một tầng/hạng bậc)"
+        ],
+        "prepositions": [
+          "of",
+          "in"
+        ],
+        "collocations": [
+          "top tier",
+          "first tier",
+          "tiered pricing",
+          "tiered system"
+        ],
+        "tip": "Trong các chương trình khách hàng thân thiết của hàng không và khách sạn, 'membership tier' chia theo các hạng (Silver, Gold, Platinum)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "tiered",
+          "example": "The hotel offers a tiered loyalty program where frequent guests earn higher rewards.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Frequent renters who reach the highest membership _____ receive free GPS navigation and zero cancellation fees.",
+        "answer": "tier",
+        "base_word": "tier",
+        "pos_hint": "danh từ",
+        "vi": "Những người thuê xe thường xuyên đạt được hạng thành viên cao nhất sẽ nhận được hệ thống định vị GPS miễn phí và không bị tính phí hủy đặt chỗ."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. Many travelers taking a driving vacation simply rent a car. Yoko called ahead to rent a car at her vacation destination. Although she was (1) ____ to book a car once she arrived at her destination, Yoko was (2) ____ about not having a reservation. Her vacation (3) ____ with a holiday, so she knew many other people would also be renting cars. Yoko wanted to avoid the (4) ____ of finding that a car was not available at this (5) ____ travel time. There are a lot of car rental firms, so Yoko (6) ____ several of them to compare rates and requirements. At each company she called, she learned she would need a valid driver's (7) ____ and a major credit card to rent a car. Yoko found the many different rates for renting cars (8) ____. Some companies offered substantial discounts provided that the car was reserved for a certain number of days. One company offered her a great daily rate, but it was based on a three-day rental. Since she only (9) ____ to rent the car for two days, the discount did not apply to her. Also, the base price did not cover (10) ____ costs, like collision insurance or gas refills. Another factor influencing the rate was the type of car. Rentals are based on a (11) ____ price system. The more luxurious or sporty, or the larger the car, the higher the daily rate. Since Yoko needed only a small reliable car, she found a reasonable rate—although she would have liked the (12) ____ of driving a convertible!",
+    "word_bank": [
+      "busy",
+      "contacted",
+      "license",
+      "tempted",
+      "coincided",
+      "disappointment",
+      "nervous",
+      "thrill",
+      "confusing",
+      "intended",
+      "optional",
+      "tier"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "confuse",
+        "example": "These long car rental contracts always confuse me.",
+        "pos": ""
+      },
+      {
+        "word": "confusion",
+        "example": "The crowds at the car rental office resulted in a lot of confusion.",
+        "pos": ""
+      },
+      {
+        "word": "confusing",
+        "example": "Driving in an unfamiliar city can be quite confusing.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "coincide",
+        "example": "This year, my vacation coincides with a national holiday, which will make renting a car more expensive.",
+        "pos": ""
+      },
+      {
+        "word": "coincidence",
+        "example": "By coincidence, I ran into an old friend in line waiting to rent a car.",
+        "pos": ""
+      },
+      {
+        "word": "coincidentally",
+        "example": "Coincidentally, we are offering a special discount if you are over age 65.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "disappoint",
+        "example": "The service at that car rental agency always disappoints me, so next time I plan to use a different agency.",
+        "pos": ""
+      },
+      {
+        "word": "disappointment",
+        "example": "The poor condition of the car we rented was an unexpected disappointment.",
+        "pos": ""
+      },
+      {
+        "word": "disappointing",
+        "example": "The weather during our trip was so disappointing that we came home early.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "intention",
+        "example": "I have every intention of paying by cash even though I reserved the car with my credit card.",
+        "pos": ""
+      },
+      {
+        "word": "intent",
+        "example": "Intent on avoiding an accident, Zola drove cautiously through the rush hour traffic.",
+        "pos": ""
+      },
+      {
+        "word": "intently",
+        "example": "The tourist intently studied the road map.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "nervousness",
+        "example": "I hope my nervousness did not show when I was filling out the forms.",
+        "pos": ""
+      },
+      {
+        "word": "nervous",
+        "example": "This was Jane&#x27;s first time renting a car, so she was somewhat nervous.",
+        "pos": ""
+      },
+      {
+        "word": "nervously",
+        "example": "Mr. Lane nervously parallel parked the rental car between two others in the parking garage.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "tempt",
+        "example": "Can I tempt you to rent a larger car with a special discount?",
+        "pos": ""
+      },
+      {
+        "word": "temptation",
+        "example": "The temptation to drive the sports car fast was too great for Karl to resist.",
+        "pos": ""
+      },
+      {
+        "word": "tempting",
+        "example": "As tempting as it sounds to drive to Florida, I think I&#x27;d rather fly.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "The constant road repair work made driving through the city ____.",
+        "options": [
+          {
+            "label": "A",
+            "text": "confuse"
+          },
+          {
+            "label": "B",
+            "text": "confuses"
+          },
+          {
+            "label": "C",
+            "text": "confusion"
+          },
+          {
+            "label": "D",
+            "text": "confusing"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "I don't think it is a ____ that the special discount rate for renting a car expires right before the holiday weekend.",
+        "options": [
+          {
+            "label": "A",
+            "text": "coincidental"
+          },
+          {
+            "label": "B",
+            "text": "coincidentally"
+          },
+          {
+            "label": "C",
+            "text": "coincidence"
+          },
+          {
+            "label": "D",
+            "text": "coincide"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "It was ____ to discover that the car rental company had only compact cars available.",
+        "options": [
+          {
+            "label": "A",
+            "text": "disappointing"
+          },
+          {
+            "label": "B",
+            "text": "disappointed"
+          },
+          {
+            "label": "C",
+            "text": "disappointment"
+          },
+          {
+            "label": "D",
+            "text": "disappoints"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "Our ____ is to rent a comfortable car and spend several weeks driving through the mountains.",
+        "options": [
+          {
+            "label": "A",
+            "text": "intent"
+          },
+          {
+            "label": "B",
+            "text": "intently"
+          },
+          {
+            "label": "C",
+            "text": "intention"
+          },
+          {
+            "label": "D",
+            "text": "intend"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "Tito ____ drove the rental car through the crowded garage following the signs to the car rental return location.",
+        "options": [
+          {
+            "label": "A",
+            "text": "nerve"
+          },
+          {
+            "label": "B",
+            "text": "nervousness"
+          },
+          {
+            "label": "C",
+            "text": "nervous"
+          },
+          {
+            "label": "D",
+            "text": "nervously"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "The new car rental company ____ me to try them by offering a discount coupon toward my next rental.",
+        "options": [
+          {
+            "label": "A",
+            "text": "tempted"
+          },
+          {
+            "label": "B",
+            "text": "tempting"
+          },
+          {
+            "label": "C",
+            "text": "temptation"
+          },
+          {
+            "label": "D",
+            "text": "temptress"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Are you looking for a reliable rental car? Look no more. Riverton Rent-a-Car offers the most reliable and economical rental cars in town. You are sure to find the car you want at Riverton Rent-a-Car. We have several tiers of cars, from budget to luxury. Our rates start at $19.99 daily for a compact car, with several [16] available including two-door and four-door sedans and hatchbacks. Have you always wanted to experience the [17] of driving a luxury sports car? Live your dream by renting a sports car from Riverton Rent-a-Car. Daily and weekly rates are available. Contact us to find out more. Rent a car from Riverton Rent-a-Car. You won't [18].",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "optics"
+            },
+            {
+              "label": "B",
+              "text": "options"
+            },
+            {
+              "label": "C",
+              "text": "optimists"
+            },
+            {
+              "label": "D",
+              "text": "opticians"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "thrill"
+            },
+            {
+              "label": "B",
+              "text": "thriller"
+            },
+            {
+              "label": "C",
+              "text": "thrilled"
+            },
+            {
+              "label": "D",
+              "text": "thrilling"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "disappoint"
+            },
+            {
+              "label": "B",
+              "text": "disappointed"
+            },
+            {
+              "label": "C",
+              "text": "be disappointed"
+            },
+            {
+              "label": "D",
+              "text": "are disappointed"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Part 7 Reading Comprehension Questions 19–23 refer to the following article. Will your next trip involve a rental car? With a little careful planning, you can prevent some common headaches. If your travel plans coincide with a holiday, you need to plan well ahead of time. Car rental agencies are very busy at such times, and you won't be guaranteed a car unless you make your reservation well in advance. Contact the car rental agency and specify the kind of car you want and the dates you will need it. It's a good idea to call the agency again shortly before you begin your trip to confirm your reservation. This is the best way to avoid disappointment. Another common problem that car renters face is extra charges. Some agencies add charges for options without letting the renter know about them. Sometimes renters aren't aware of this until they receive their credit card bill. Read the contract carefully before you sign it to make sure that you are paying only for what you requested. And don't be tempted to pay for things you don't need. It might be fun to drive a large, luxury car, but if you are traveling alone and are on a budget, it probably isn't worth paying for such a car.",
+        "questions": [
+          {
+            "number": 19,
+            "question": "Who is the audience for this article?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Car rental agents."
+              },
+              {
+                "label": "B",
+                "text": "Travel agents."
+              },
+              {
+                "label": "C",
+                "text": "Car renters."
+              },
+              {
+                "label": "D",
+                "text": "Car owners."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "What is a problem for holiday travelers?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Businesses are closed."
+              },
+              {
+                "label": "B",
+                "text": "Rental agencies are very busy."
+              },
+              {
+                "label": "C",
+                "text": "Rental rates go up."
+              },
+              {
+                "label": "D",
+                "text": "People get headaches."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word disappointment in the first paragraph, line 12 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "expense"
+              },
+              {
+                "label": "B",
+                "text": "disagreement"
+              },
+              {
+                "label": "C",
+                "text": "cancellation"
+              },
+              {
+                "label": "D",
+                "text": "unhappiness"
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "How can a car renter avoid paying extra charges?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Read the contract."
+              },
+              {
+                "label": "B",
+                "text": "Confirm reservations."
+              },
+              {
+                "label": "C",
+                "text": "Pay with a credit card."
+              },
+              {
+                "label": "D",
+                "text": "Make a budget."
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word options in the second paragraph, line 3 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "features"
+              },
+              {
+                "label": "B",
+                "text": "choices"
+              },
+              {
+                "label": "C",
+                "text": "purchases"
+              },
+              {
+                "label": "D",
+                "text": "customers"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "Who is the man speaking with?",
+        "options": [
+          {
+            "label": "A",
+            "text": "An insurance agent."
+          },
+          {
+            "label": "B",
+            "text": "A police officer."
+          },
+          {
+            "label": "C",
+            "text": "Another customer."
+          },
+          {
+            "label": "D",
+            "text": "A car rental agent."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "How will the man pay?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Cash."
+          },
+          {
+            "label": "B",
+            "text": "Check."
+          },
+          {
+            "label": "C",
+            "text": "Credit card."
+          },
+          {
+            "label": "D",
+            "text": "Money order."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How much does insurance cost?",
+        "options": [
+          {
+            "label": "A",
+            "text": "$4."
+          },
+          {
+            "label": "B",
+            "text": "$9."
+          },
+          {
+            "label": "C",
+            "text": "$13."
+          },
+          {
+            "label": "D",
+            "text": "$30."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "Who is the audience for this talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "People who work in travel agencies."
+          },
+          {
+            "label": "B",
+            "text": "People who rent cars locally."
+          },
+          {
+            "label": "C",
+            "text": "People who work in car rental agencies."
+          },
+          {
+            "label": "D",
+            "text": "People who travel to other countries."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "When should a traveler get an international driver's license?",
+        "options": [
+          {
+            "label": "A",
+            "text": "After arriving in another country."
+          },
+          {
+            "label": "B",
+            "text": "After contacting a local rental agency."
+          },
+          {
+            "label": "C",
+            "text": "Before leaving on a trip."
+          },
+          {
+            "label": "D",
+            "text": "When signing a car rental contract."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What should a traveler do when picking up a rental car?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Look for damage."
+          },
+          {
+            "label": "B",
+            "text": "Sign a check."
+          },
+          {
+            "label": "C",
+            "text": "Drive it right away."
+          },
+          {
+            "label": "D",
+            "text": "Make an appointment."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. Who is the man speaking with? (A) An insurance agent. (B) A police officer. (C) Another customer. (D) A car rental agent. 6. How will the man pay? (A) Cash. (B) Check. (C) Credit card. (D) Money order. 5. How much does insurance cost? (A) $4. (B) $9. (C) $13. (D) $30. Listen to the talk. Then read each question and choose the best answer. 7. Who is the audience for this talk? (A) People who work in travel agencies. (B) People who rent cars locally. (C) People who work in car rental agencies. (D) People who travel to other countries. 8. When should a traveler get an international driver's license? (A) After arriving in another country. (B) After contacting a local rental agency. (C) Before leaving on a trip. (D) When signing a car rental contract. 9. What should a traveler do when picking up a rental car? (A) Look for damage. (B) Sign a check. (C) Drive it right away. (D) Make an appointment.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "Who is the man speaking with?",
+        "options": [
+          {
+            "label": "A",
+            "text": "An insurance agent."
+          },
+          {
+            "label": "B",
+            "text": "A police officer."
+          },
+          {
+            "label": "C",
+            "text": "Another customer."
+          },
+          {
+            "label": "D",
+            "text": "A car rental agent."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "How will the man pay?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Cash."
+          },
+          {
+            "label": "B",
+            "text": "Check."
+          },
+          {
+            "label": "C",
+            "text": "Credit card."
+          },
+          {
+            "label": "D",
+            "text": "Money order."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How much does insurance cost?",
+        "options": [
+          {
+            "label": "A",
+            "text": "$4."
+          },
+          {
+            "label": "B",
+            "text": "$9."
+          },
+          {
+            "label": "C",
+            "text": "$13."
+          },
+          {
+            "label": "D",
+            "text": "$30."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "Who is the audience for this talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "People who work in travel agencies."
+          },
+          {
+            "label": "B",
+            "text": "People who rent cars locally."
+          },
+          {
+            "label": "C",
+            "text": "People who work in car rental agencies."
+          },
+          {
+            "label": "D",
+            "text": "People who travel to other countries."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "When should a traveler get an international driver's license?",
+        "options": [
+          {
+            "label": "A",
+            "text": "After arriving in another country."
+          },
+          {
+            "label": "B",
+            "text": "After contacting a local rental agency."
+          },
+          {
+            "label": "C",
+            "text": "Before leaving on a trip."
+          },
+          {
+            "label": "D",
+            "text": "When signing a car rental contract."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What should a traveler do when picking up a rental car?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Look for damage."
+          },
+          {
+            "label": "B",
+            "text": "Sign a check."
+          },
+          {
+            "label": "C",
+            "text": "Drive it right away."
+          },
+          {
+            "label": "D",
+            "text": "Make an appointment."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "Study the following definitions and examples.\n\n1. busy adj., engaged in activity\n\na. Alfred was busy getting ready for his vacation.\n\nb. The airport was busy, with people catching planes and heading for car rental companies.\n\n2. coincide v., to happen at the same time a. My cousin's wedding coincided with a holiday weekend, so it was a perfect time to rent a car and go for a drive.\n\nb. Sean was hoping that the days for the special discount on car rentals would coincide with his vacation, but they did not.\n\n3. confusion n., a lack of clarity, order, or understanding a. There was some confusion about which rental discount coupons applied to which car rental agency.\n\nb. To avoid any confusion about renting the car, Yolanda asked her travel agent to make the arrangements on her behalf.\n\n4. contact v., to get in touch with\n\na. Manuel contacted at least a dozen car rental agencies to get the best deal.\n\nb. Last night I was contacted by my travel agent who said he had found a better price on a car rental.\n\n5. disappoint v., to fail to satisfy the hope, desire, or expectation of a. Leila was disappointed to discover that no rental cars were available the weekend she wished to travel.\n\nb. I hate to disappoint you, but I can't allow you to rent a car unless you have a major credit card.\n\n6. intend v., to have in mind\n\na. I never intended to drive to Los Angeles until my brother suggested we do it together.\n\nb. Do you intend to return the car to this location or to another location?\n\n7. license n., the legal permission to do or own a specified thing\n\na. First, I'll need to see your driver's license and a major credit card.\n\nb. You will need a license in order to run this business.\n\n8. nervously adv., in a distressed or uneasy manner a. As we approached the city Lonnie started driving nervously, so I volunteered to drive that part of the trip.\n\nb. I looked around nervously the entire time I was in the dark parking garage.\n\n9. optional adj., not compulsory or automatic\n\na. Check this box if you wish to have this optional insurance.\n\nb. Having a driver's license is not optional.\n\n10. tempt v., to be inviting or attractive to\n\na. I am tempted by the idea of driving across the country instead of flying.\n\nb. Gina is tempted to rent the smaller car to save a few dollars.\n\n11. thrill n., the source or cause of excitement or emotion\n\na. The thought of renting a sports car gave John a thrill.\n\nb. Just taking a vacation is thrill enough, even if we are driving instead of flying.\n\n12. tier n., a rank or class\n\na. The car rental company had a few tiers of cars, each one costing more than the previous tier.\n\nb. If you are on a budget, I suggest you think about renting a car from our lowest tier.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\n| busy | contacted | license | tempted |\n| --- | --- | --- | --- |\n| coincided | disappointment | nervous | thrill |\n| confusing | intended | optional | tier |\n\nMany travelers taking a driving vacation simply rent a car. Yoko called ahead to rent a car at her vacation destination. Although she was (1) \\_\\_\\_\\_ to book a car once she arrived at her destination, Yoko was (2) \\_\\_\\_\\_ about not having a reservation. Her vacation (3) \\_\\_\\_\\_ with a holiday, so she knew many other people would also be renting cars. Yoko wanted to avoid the (4) \\_\\_\\_\\_ of finding that a car was not available at this (5) \\_\\_\\_\\_ travel time.\n\nThere are a lot of car rental firms, so Yoko (6) \\_\\_\\_\\_ several of them to compare rates and requirements. At each company she called, she learned she would need a valid driver's (7) \\_\\_\\_\\_ and a major credit card to rent a car.\n\nYoko found the many different rates for renting cars (8) \\_\\_\\_\\_. Some companies offered substantial discounts provided that the car was reserved for a certain number of days. One company offered her a great daily rate, but it was based on a three-day rental. Since she only (9) \\_\\_\\_\\_ to rent the car for two days, the discount did not apply to her. Also, the base price did not cover (10) \\_\\_\\_\\_ costs, like collision insurance or gas refills.\n\nAnother factor influencing the rate was the type of car. Rentals are based on a (11) \\_\\_\\_\\_ price system. The more luxurious or sporty, or the larger the car, the higher the daily rate. Since Yoko needed only a small reliable car, she found a reasonable rate—although she would have liked the (12) \\_\\_\\_\\_ of driving a convertible!",
+    "word_families": "## WORD FAMILIES\n\n<table><tr><td>confuse</td><td>These long car rental contracts always confuse me.</td></tr><tr><td>confusion</td><td>The crowds at the car rental office resulted in a lot of confusion.</td></tr><tr><td>confusing</td><td>Driving in an unfamiliar city can be quite confusing.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>coincide</td><td>This year, my vacation coincides with a national holiday, which will make renting a car more expensive.</td></tr><tr><td>coincidence</td><td>By coincidence, I ran into an old friend in line waiting to rent a car.</td></tr><tr><td>coincidentally</td><td>Coincidentally, we are offering a special discount if you are over age 65.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>disappoint</td><td>The service at that car rental agency always disappoints me, so next time I plan to use a different agency.</td></tr><tr><td>disappointment</td><td>The poor condition of the car we rented was an unexpected disappointment.</td></tr><tr><td>disappointing</td><td>The weather during our trip was so disappointing that we came home early.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>intention</td><td>I have every intention of paying by cash even though I reserved the car with my credit card.</td></tr><tr><td>intent</td><td>Intent on avoiding an accident, Zola drove cautiously through the rush hour traffic.</td></tr><tr><td>intently</td><td>The tourist intently studied the road map.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>nervousness</td><td>I hope my nervousness did not show when I was filling out the forms.</td></tr><tr><td>nervous</td><td>This was Jane&#x27;s first time renting a car, so she was somewhat nervous.</td></tr><tr><td>nervously</td><td>Mr. Lane nervously parallel parked the rental car between two others in the parking garage.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>tempt</td><td>Can I tempt you to rent a larger car with a special discount?</td></tr><tr><td>temptation</td><td>The temptation to drive the sports car fast was too great for Karl to resist.</td></tr><tr><td>tempting</td><td>As tempting as it sounds to drive to Florida, I think I&#x27;d rather fly.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. Who is the man speaking with?\n(A) An insurance agent.\n(B) A police officer.\n(C) Another customer.\n(D) A car rental agent.\n\n6. How will the man pay?\n(A) Cash.\n(B) Check.\n(C) Credit card.\n(D) Money order.\n\n5. How much does insurance cost?\n(A) $4.\n(B) $9.\n(C) $13.\n(D) $30.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. Who is the audience for this talk?\n(A) People who work in travel agencies.\n(B) People who rent cars locally.\n(C) People who work in car rental agencies.\n(D) People who travel to other countries.\n\n8. When should a traveler get an international driver's license?\n(A) After arriving in another country.\n(B) After contacting a local rental agency.\n(C) Before leaving on a trip.\n(D) When signing a car rental contract.\n\n9. What should a traveler do when picking up a rental car?\n(A) Look for damage.\n(B) Sign a check.\n(C) Drive it right away.\n(D) Make an appointment.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. The constant road repair work made driving through the city \\_\\_\\_\\_.\n(A) confuse (C) confusion\n(B) confuses (D) confusing\n\n11. I don't think it is a \\_\\_\\_\\_ that the special discount rate for renting a car expires right before the holiday weekend.\n(A) coincidental (C) coincidence\n(B) coincidentally (D) coincide\n\n12. It was \\_\\_\\_\\_ to discover that the car rental company had only compact cars available.\n(A) disappointing (C) disappointment\n(B) disappointed (D) disappoints\n\n13. Our \\_\\_\\_\\_ is to rent a comfortable car and spend several weeks driving through the mountains.\n(A) intent (C) intention\n(B) intently (D) intend\n\n14. Tito \\_\\_\\_\\_ drove the rental car through the crowded garage following the signs to the car rental return location.\n(A) nerve (C) nervous\n(B) nervousness (D) nervously\n\n15. The new car rental company \\_\\_\\_\\_ me to try them by offering a discount coupon toward my next rental.\n(A) tempted (C) temptation\n(B) tempting (D) temptress\n\n## Part 6 Text Completion\n\nAre you looking for a reliable rental car? Look no more.\n\nRiverton Rent-a-Car offers the most reliable and economical rental cars in town.\n\nYou are sure to find the car you want at Riverton Rent-a-Car. We have several tiers of cars, from budget to luxury. Our rates start at $19.99 daily for a compact car, with several \\_16\\_ available including two-door and four-door sedans and hatchbacks.\n\nHave you always wanted to experience the \\_17\\_ of driving a luxury sports car? Live your dream by renting a sports car from Riverton Rent-a-Car. Daily and weekly rates are available. Contact us to find out more.\n\nRent a car from Riverton Rent-a-Car. You won't \\_18\\_.\n\n16. (A) optics  \n(B) options  \n(C) optimists  \n(D) opticians\n\n17. (A) thrill  \n(B) thriller  \n(C) thrilled  \n(D) thrilling\n\n18. (A) disappoint  \n(B) disappointed  \n(C) be disappointed  \n(D) are disappointed",
+    "reading_part7": "Part 7 Reading Comprehension Questions 19–23 refer to the following article.\n\nWill your next trip involve a rental car? With a little careful planning, you can prevent some common headaches. If your travel plans coincide with a holiday, you need to plan well ahead of time. Car rental agencies are very busy at such times, and you won't be guaranteed a car unless you make your reservation well in advance. Contact the car rental agency and specify the kind of car you want and the dates you will need it. It's a good idea to call the agency again shortly before you begin your trip to confirm your reservation. This is the best way to avoid disappointment.\n\nAnother common problem that car renters face is extra charges. Some agencies add charges for options without letting the renter know about them. Sometimes renters aren't aware of this until they receive their credit card bill. Read the contract carefully before you sign it to make sure that you are paying only for what you requested. And don't be tempted to pay for things you don't need. It might be fun to drive a large, luxury car, but if you are traveling alone and are on a budget, it probably isn't worth paying for such a car.\n\n19. Who is the audience for this article?\n(A) Car rental agents.\n(B) Travel agents.\n(C) Car renters.\n(D) Car owners.\n\n20. What is a problem for holiday travelers?\n(A) Businesses are closed.\n(B) Rental agencies are very busy.\n(C) Rental rates go up.\n(D) People get headaches.\n\n22. The word disappointment in the first paragraph, line 12 is closest in meaning to  \n(A) expense  \n(B) disagreement  \n(C) cancellation  \n(D) unhappiness\n\n21. How can a car renter avoid paying extra charges?\n(A) Read the contract.\n(B) Confirm reservations.\n(C) Pay with a credit card.\n(D) Make a budget.\n\n23. The word options in the second paragraph, line 3 is closest in meaning to  \n(A) features  \n(B) choices  \n(C) purchases  \n(D) customers"
+  },
+  "needs_review": true
+}

@@ -1,0 +1,1596 @@
+{
+  "lesson_id": 24,
+  "title": "Taxes",
+  "theme_name": "Financing and Budgeting",
+  "audio_track": "track_24.mp3",
+  "part1_photo": "part1_photos/lesson_24.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "calculation",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "computation; estimate",
+      "definition_vi": "sự tính toán, phép tính, ước tính",
+      "examples": [
+        {
+          "en": "It took my accountant some time to complete the calculations on my income tax.",
+          "vi": "Kế toán viên của tôi đã mất một khoảng thời gian để hoàn tất các phép tính về thuế thu nhập của tôi."
+        },
+        {
+          "en": "According to my calculations, I'll owe less money on my income taxes this year. f . ( ,t",
+          "vi": "Theo tính toán của tôi, năm nay tôi sẽ nợ tiền thuế thu nhập ít hơn."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "calculate",
+          "example": "The young man tries to calculate his expenses every month."
+        },
+        {
+          "pos": "noun",
+          "word": "calculation",
+          "example": "The calculation is no more difficult than high school math."
+        },
+        {
+          "pos": "",
+          "word": "calculator",
+          "example": "In order to avoid making addition and subtraction errors, I suggest you use a calculator."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "accurate calculation",
+        "according to my calculations",
+        "careful calculation",
+        "tax calculation"
+      ],
+      "usage": {
+        "structures": [
+          "according to sb's calculations (theo tính toán của ai)",
+          "make/do a calculation (thực hiện phép tính)"
+        ],
+        "prepositions": [
+          "of",
+          "on",
+          "according to"
+        ],
+        "collocations": [
+          "rough calculation",
+          "error in calculation",
+          "complex calculation",
+          "recheck calculations"
+        ],
+        "tip": "Chú ý phân biệt 'calculation' (sự tính toán/phép tính) với 'calculator' (máy tính cầm tay) và tính từ 'calculated' (có tính toán trước)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "calculated",
+          "example": "Expanding into the overseas market was a calculated risk that paid off handsomely.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The payroll software automatically _____ the exact amount of income tax to withhold from each employee's wages.",
+        "answer": "calculates",
+        "base_word": "calculation",
+        "pos_hint": "động từ chia ngôi thứ 3 số ít (V-s/es)",
+        "vi": "Phần mềm tính lương tự động tính toán chính xác số tiền thuế thu nhập cần khấu trừ từ tiền lương của mỗi nhân viên."
+      }
+    },
+    {
+      "id": 2,
+      "word": "deadline",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a time by which something must be finished",
+      "definition_vi": "hạn chót, thời hạn cuối cùng",
+      "examples": [
+        {
+          "en": "The deadline for paying this year's taxes is just two weeks away. 've\"",
+          "vi": "Hạn chót để nộp thuế năm nay chỉ còn cách hai tuần nữa."
+        },
+        {
+          "en": "My best work is done with strict deadlines. owe per",
+          "vi": "Công việc tốt nhất của tôi được thực hiện dưới những thời hạn nghiêm ngặt."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "meet a deadline",
+        "miss a deadline",
+        "extend a deadline",
+        "strict deadline"
+      ],
+      "usage": {
+        "structures": [
+          "deadline for + N/V-ing (hạn chót cho việc gì)",
+          "meet/miss/extend a deadline (kịp/trễ/gia hạn hạn chót)"
+        ],
+        "prepositions": [
+          "for",
+          "by",
+          "on"
+        ],
+        "collocations": [
+          "tight deadline",
+          "approaching deadline",
+          "application deadline",
+          "filing deadline"
+        ],
+        "tip": "Cụm từ 'meet the deadline' (hoàn thành đúng hạn) và 'deadline for + V-ing' xuất hiện liên tục trong tất cả các phần thi TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "deadlines",
+          "example": "Project managers must ensure that all departmental deadlines are realistic and achievable.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Journalists and tax accountants alike are accustomed to working under tight _____.",
+        "answer": "deadlines",
+        "base_word": "deadline",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Các nhà báo cũng như các kế toán viên thuế đều đã quen với việc làm việc dưới những thời hạn gấp rút."
+      }
+    },
+    {
+      "id": 3,
+      "word": "file",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to enter into public record",
+      "definition_vi": "nộp (hồ sơ, tờ khai thuế, đơn khiếu nại); lưu trữ hồ sơ; (n.) tập hồ sơ, tệp tin",
+      "examples": [
+        {
+          "en": "If you file your taxes late, you will have to pay a fine.",
+          "vi": "Nếu bạn nộp tờ khai thuế muộn, bạn sẽ phải nộp phạt."
+        },
+        {
+          "en": "If you believe the tax preparer gave you incorrect information, you should file a complaint with her boss. withhc d",
+          "vi": "Nếu bạn tin rằng người lập tờ khai thuế đã cung cấp thông tin không chính xác, bạn nên nộp đơn khiếu nại lên cấp trên của cô ấy."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "file",
+          "example": "Don't wait until the last minute to file your taxes."
+        },
+        {
+          "pos": "",
+          "word": "file",
+          "example": "I keep all my tax information in one file."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "file a tax return",
+        "file a complaint",
+        "file a claim",
+        "keep on file"
+      ],
+      "usage": {
+        "structures": [
+          "file + taxes / a return / a claim / a lawsuit (nộp thuế / tờ khai / yêu cầu bồi thường / đơn kiện)",
+          "file + N + with + sb/organization (nộp đơn/hồ sơ cho cơ quan nào)"
+        ],
+        "prepositions": [
+          "for",
+          "with",
+          "against",
+          "on"
+        ],
+        "collocations": [
+          "file for bankruptcy",
+          "file jointly",
+          "filing cabinet",
+          "electronic filing"
+        ],
+        "tip": "Động từ 'file' trong TOEIC thường mang nghĩa 'chính thức nộp giấy tờ/đơn từ cho cơ quan có thẩm quyền' (file taxes, file a complaint)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "filing",
+          "example": "The deadline for the annual tax filing has been extended to April 30.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "filed",
+          "example": "All filed documents are stored securely in the human resources archive.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Corporations are required to submit their quarterly regulatory _____ to the commission on time.",
+        "answer": "filings",
+        "base_word": "file",
+        "pos_hint": "danh từ số nhiều (hồ sơ nộp lên cơ quan quản lý)",
+        "vi": "Các tập đoàn được yêu cầu phải nộp các hồ sơ báo cáo định kỳ hàng quý cho ủy ban đúng hạn."
+      }
+    },
+    {
+      "id": 4,
+      "word": "fill out",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to complete",
+      "definition_vi": "điền vào, hoàn thành (biểu mẫu, đơn từ)",
+      "examples": [
+        {
+          "en": "I usually ask someone to help me fill out my tax form.",
+          "vi": "Tôi thường nhờ ai đó giúp điền vào tờ khai thuế của mình."
+        },
+        {
+          "en": "Don't forget to sign the tax form after you have filled it out.",
+          "vi": "Đừng quên ký tên vào mẫu khai thuế sau khi bạn đã điền xong."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "fill out a form",
+        "fill out an application",
+        "fill out a questionnaire",
+        "fill out completely"
+      ],
+      "usage": {
+        "structures": [
+          "fill out + a form/survey/application (điền vào biểu mẫu/khảo sát/đơn đăng ký)",
+          "fill + it/them + out (điền xong biểu mẫu - đại từ đứng giữa)"
+        ],
+        "prepositions": [
+          "out",
+          "in"
+        ],
+        "collocations": [
+          "fill out a tax form",
+          "fill out a customs declaration",
+          "fill out an order form",
+          "neatly filled out"
+        ],
+        "tip": "Đồng nghĩa với 'fill in (a form)' hoặc 'complete (a form)'; nếu tân ngữ là đại từ (it/them) thì bắt buộc phải đặt ở giữa: 'fill it out'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "fill",
+          "example": "The human resources department is working quickly to fill the vacant accounting position.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "refill",
+          "example": "Patients can request a prescription refill through the pharmacy's online portal.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "filled",
+          "example": "Improperly filled tax forms will be returned to the sender for correction.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Applicants must ensure that all required fields on the registration form are completely _____ out.",
+        "answer": "filled",
+        "base_word": "fill out",
+        "pos_hint": "động từ chia quá khứ phân từ V3/ed (bị động)",
+        "vi": "Người nộp đơn phải đảm bảo rằng tất cả các trường bắt buộc trên mẫu đăng ký đều được điền đầy đủ."
+      }
+    },
+    {
+      "id": 5,
+      "word": "give up",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to quit; to stop",
+      "definition_vi": "từ bỏ, bỏ cuộc, ngừng (làm việc gì)",
+      "examples": [
+        {
+          "en": "Bruce gave up trying to prepare his tax return himself and now hires an accountant to do it.",
+          "vi": "Bruce đã từ bỏ việc cố tự lập tờ khai thuế và giờ thuê một kế toán viên làm việc đó."
+        },
+        {
+          "en": "Ms. Gomez is so optimistic that she never gives up.",
+          "vi": "Bà Gomez lạc quan đến mức bà ấy không bao giờ bỏ cuộc."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "give up trying",
+        "never give up",
+        "give up one's seat",
+        "give up control"
+      ],
+      "usage": {
+        "structures": [
+          "give up + V-ing / N (từ bỏ việc làm gì / từ bỏ cái gì)",
+          "give up on + sb/sth (từ bỏ hy vọng vào ai/cái gì)"
+        ],
+        "prepositions": [
+          "on",
+          "to"
+        ],
+        "collocations": [
+          "give up hope",
+          "give up a claim",
+          "reluctant to give up",
+          "give up rights"
+        ],
+        "tip": "Sau 'give up' nếu là động từ thì luôn chia ở dạng danh động từ V-ing (give up trying), tương tự như 'quit + V-ing'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "give",
+          "example": "The tax advisor will give a presentation on new deduction rules tomorrow.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "giver",
+          "example": "Each charitable giver receives an official receipt for income tax purposes.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "given",
+          "example": "All tax returns must be processed within the given time frame.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "After several unsuccessful attempts to resolve the software bug internally, the team _____ up and called an external consultant.",
+        "answer": "gave",
+        "base_word": "give up",
+        "pos_hint": "động từ chia quá khứ đơn (V2)",
+        "vi": "Sau vài lần thử khắc phục lỗi phần mềm nội bộ không thành công, nhóm đã từ bỏ và gọi một chuyên gia tư vấn bên ngoài."
+      }
+    },
+    {
+      "id": 6,
+      "word": "joint",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "together; shared",
+      "definition_vi": "chung, cùng nhau, liên doanh",
+      "examples": [
+        {
+          "en": "We opened a joint bank account five years ago.",
+          "vi": "Chúng tôi đã mở một tài khoản ngân hàng chung cách đây năm năm."
+        },
+        {
+          "en": "The couple no longer files joint tax returns.",
+          "vi": "Cặp vợ chồng không còn nộp tờ khai thuế chung nữa."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "joint",
+          "example": "My husband and I filed a joint tax return."
+        },
+        {
+          "pos": "adverb",
+          "word": "jointly",
+          "example": "Even though you are separated right now, you will save money if you and your wife file your taxes jointly."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "joint account",
+        "joint venture",
+        "joint tax return",
+        "joint effort"
+      ],
+      "usage": {
+        "structures": [
+          "joint + N (tài khoản chung / liên doanh / nỗ lực chung)",
+          "jointly + V / V + jointly (cùng nhau làm gì)"
+        ],
+        "prepositions": [
+          "with",
+          "between"
+        ],
+        "collocations": [
+          "joint ownership",
+          "joint statement",
+          "joint committee",
+          "jointly responsible"
+        ],
+        "tip": "Cụm danh từ 'joint venture' (công ty liên doanh) và 'joint account' (tài khoản đồng sở hữu) rất hay xuất hiện trong TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "join",
+          "example": "Two leading pharmaceutical firms decided to join forces to develop the new vaccine.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "junction",
+          "example": "The new distribution center is located near the junction of two major highways.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The two technology companies _____ announced plans to build a new semiconductor plant.",
+        "answer": "jointly",
+        "base_word": "joint",
+        "pos_hint": "trạng từ",
+        "vi": "Hai công ty công nghệ đã cùng nhau công bố kế hoạch xây dựng một nhà máy bán dẫn mới."
+      }
+    },
+    {
+      "id": 7,
+      "word": "owe",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to have a debt; to be obligated to pay",
+      "definition_vi": "nợ (tiền, thuế), có nghĩa vụ phải trả; nhờ có",
+      "examples": [
+        {
+          "en": "People are often surprised to discover that they owe more money in income taxes at the end of the year.",
+          "vi": "Mọi người thường ngạc nhiên khi phát hiện ra rằng họ nợ thêm tiền thuế thu nhập vào cuối năm."
+        },
+        {
+          "en": "As the business grew, the owner paid back loans and owed less money.",
+          "vi": "Khi việc kinh doanh phát triển, người chủ đã trả bớt các khoản vay và nợ ít tiền hơn."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "owe money to",
+        "owe taxes",
+        "amount owed",
+        "owe one's success to"
+      ],
+      "usage": {
+        "structures": [
+          "owe + sth + to + sb / owe + sb + sth (nợ ai cái gì / nhờ ai mà có được cái gì)",
+          "money/taxes owed (số tiền/thuế còn nợ - rút gọn mệnh đề quan hệ bị động)"
+        ],
+        "prepositions": [
+          "to",
+          "for"
+        ],
+        "collocations": [
+          "still owe",
+          "balance owed",
+          "owe a refund",
+          "owing to"
+        ],
+        "tip": "Giới từ kép 'owing to + N' (= due to / because of: bởi vì, do) là cấu trúc cực kỳ quan trọng bắt nguồn từ động từ 'owe'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "owe",
+          "example": "Taxpayers who owe additional money must submit payment by the April deadline.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "owed",
+          "example": "Any interest owed on late payments will be added to next month's billing statement.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "owing",
+          "example": "Please remit the full balance owing on your corporate account within ten business days.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The company managed to pay off all the money _____ to its suppliers before the end of the fiscal year.",
+        "answer": "owed",
+        "base_word": "owe",
+        "pos_hint": "động từ chia quá khứ phân từ V3/ed (rút gọn mệnh đề bị động)",
+        "vi": "Công ty đã xoay xở trả hết toàn bộ số tiền nợ các nhà cung cấp trước khi kết thúc năm tài chính."
+      }
+    },
+    {
+      "id": 8,
+      "word": "penalty",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a punishment; a consequence",
+      "definition_vi": "hình phạt, khoản tiền phạt",
+      "examples": [
+        {
+          "en": "Anyone who pays less than they should in taxes will face a penalty.",
+          "vi": "Bất kỳ ai nộp thuế ít hơn mức phải đóng sẽ phải đối mặt với một khoản tiền phạt."
+        },
+        {
+          "en": "Penalties are imposed to discourage underpayment of taxes by adding a percentage to the taxes you already owe.",
+          "vi": "Các khoản phạt được áp dụng nhằm ngăn chặn việc nộp thiếu thuế bằng cách cộng thêm một tỷ lệ phần trăm vào số thuế bạn đang nợ."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "penalize",
+          "example": "The government will penalize taxpayers who try to evade paying their fair share of taxes."
+        },
+        {
+          "pos": "noun",
+          "word": "penalty",
+          "example": "For every dollar you owe in overdue taxes, a 10 percent penalty is imposed."
+        },
+        {
+          "pos": "",
+          "word": "penal",
+          "example": "Tax evasion is a penal offense."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "impose a penalty",
+        "face a penalty",
+        "late payment penalty",
+        "penalty fee"
+      ],
+      "usage": {
+        "structures": [
+          "impose/incur/face a penalty for + N/V-ing (áp dụng/chịu/đối mặt với khoản phạt vì điều gì)",
+          "without penalty (mà không bị phạt)"
+        ],
+        "prepositions": [
+          "for",
+          "on",
+          "under"
+        ],
+        "collocations": [
+          "heavy penalty",
+          "financial penalty",
+          "early withdrawal penalty",
+          "subject to a penalty"
+        ],
+        "tip": "Thường đi với các động từ 'impose' (áp đặt mức phạt), 'incur' (phải chịu phạt) hoặc 'avoid' (tránh bị phạt) trong ngữ cảnh hợp đồng và thuế."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "penally",
+          "example": "Fraudulent tax evasion is a serious offense that is penally prosecutable under federal law.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Policyholders will not be _____ for canceling their coverage if they notify the insurer thirty days in advance.",
+        "answer": "penalized",
+        "base_word": "penalty",
+        "pos_hint": "động từ chia quá khứ phân từ V3/ed (bị động)",
+        "vi": "Chủ hợp đồng bảo hiểm sẽ không bị phạt khi hủy gói bảo hiểm nếu họ thông báo trước cho công ty bảo hiểm ba mươi ngày."
+      }
+    },
+    {
+      "id": 9,
+      "word": "preparation",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the act of making something ready",
+      "definition_vi": "sự chuẩn bị, công tác chuẩn bị; việc lập (hồ sơ thuế)",
+      "examples": [
+        {
+          "en": "Income tax preparation can take a long time.",
+          "vi": "Việc lập hồ sơ khai thuế thu nhập có thể mất rất nhiều thời gian."
+        },
+        {
+          "en": "It is important to do some preparation on your own before hiring an accountant to work on your tax form.",
+          "vi": "Điều quan trọng là bạn phải tự chuẩn bị trước một số thứ trước khi thuê kế toán viên làm tờ khai thuế cho mình."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "prepare",
+          "example": "Most people wait until the last minute to prepare their tax returns."
+        },
+        {
+          "pos": "noun",
+          "word": "preparation",
+          "example": "If you are organized, income tax preparation takes only a few hours."
+        },
+        {
+          "pos": "adjective",
+          "word": "preparatory",
+          "example": "The preparatory work for doing my taxes is more time-consuming than filling out the forms."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "in preparation for",
+        "tax preparation",
+        "careful preparation",
+        "make preparations"
+      ],
+      "usage": {
+        "structures": [
+          "in preparation for + N (để chuẩn bị cho cái gì)",
+          "make preparations for + N (thực hiện các công tác chuẩn bị cho việc gì)"
+        ],
+        "prepositions": [
+          "for",
+          "of",
+          "in"
+        ],
+        "collocations": [
+          "advance preparation",
+          "thorough preparation",
+          "meal preparation",
+          "preparatory measures"
+        ],
+        "tip": "Cụm giới từ cố định 'in preparation for + N' (để chuẩn bị cho...) là đáp án rất quen thuộc trong TOEIC Part 5 và Part 6."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "prepared",
+          "example": "The chief accountant came to the audit meeting fully prepared with all supporting receipts.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The chief accountant came to the audit meeting fully _____ with all supporting tax documents.",
+        "answer": "prepared",
+        "base_word": "preparation",
+        "pos_hint": "tính từ (đã chuẩn bị sẵn sàng)",
+        "vi": "Kế toán trưởng đã đến cuộc họp kiểm toán trong tâm thế chuẩn bị đầy đủ tất cả các chứng từ thuế hỗ trợ."
+      }
+    },
+    {
+      "id": 10,
+      "word": "refund",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the amount paid back; v., to give back",
+      "definition_vi": "khoản tiền hoàn lại; (v.) hoàn tiền",
+      "examples": [
+        {
+          "en": "With the tax refund, we bought two plane tickets.",
+          "vi": "Với khoản tiền hoàn thuế nhận được, chúng tôi đã mua hai tấm vé máy bay."
+        },
+        {
+          "en": "The government will refund any money that you overpaid.",
+          "vi": "Chính phủ sẽ hoàn lại bất kỳ khoản tiền nào mà bạn đã nộp dư."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "refund",
+          "example": "The government should refund your overpaid taxes within a few weeks of filing your tax return."
+        },
+        {
+          "pos": "noun",
+          "word": "refund",
+          "example": "If you have overpaid your income taxes, you will get a refund at the end of the year."
+        },
+        {
+          "pos": "",
+          "word": "refundable",
+          "example": "Sales tax that tourists pay in a foreign country may be refundable when they leave the country."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "full refund",
+        "tax refund",
+        "issue a refund",
+        "non-refundable deposit"
+      ],
+      "usage": {
+        "structures": [
+          "receive/obtain/request a refund (nhận/yêu cầu hoàn tiền)",
+          "be eligible for a refund (đủ điều kiện được hoàn tiền)"
+        ],
+        "prepositions": [
+          "for",
+          "on",
+          "to"
+        ],
+        "collocations": [
+          "partial refund",
+          "claim a refund",
+          "fully refundable",
+          "refund policy"
+        ],
+        "tip": "Tính từ 'refundable' (có thể hoàn tiền) và 'non-refundable' (không hoàn tiền) xuất hiện rất nhiều trong thông báo vé máy bay, khách sạn và hóa đơn."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "nonrefundable",
+          "example": "Discounted promotional airfares are strictly nonrefundable once the booking is confirmed.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Conference registration fees are fully _____ up to fourteen days prior to the opening session.",
+        "answer": "refundable",
+        "base_word": "refund",
+        "pos_hint": "tính từ",
+        "vi": "Lệ phí đăng ký hội nghị được hoàn lại toàn bộ cho đến mười bốn ngày trước phiên khai mạc."
+      }
+    },
+    {
+      "id": 11,
+      "word": "spouse",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a husband or wife",
+      "definition_vi": "vợ hoặc chồng (người hôn phối)",
+      "examples": [
+        {
+          "en": "You can claim your spouse as a dependent on your tax return if he or she doesn't earn an income.",
+          "vi": "Bạn có thể kê khai vợ hoặc chồng mình là người phụ thuộc trên tờ khai thuế nếu người đó không có thu nhập."
+        },
+        {
+          "en": "My spouse prepares the tax return for both of us.",
+          "vi": "Chồng/vợ tôi là người chuẩn bị tờ khai thuế cho cả hai chúng tôi."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "accompanying spouse",
+        "surviving spouse",
+        "eligible spouse",
+        "spousal benefits"
+      ],
+      "usage": {
+        "structures": [
+          "employees and their spouses (nhân viên và vợ/chồng của họ)",
+          "claim a spouse as a dependent (kê khai vợ/chồng là người phụ thuộc)"
+        ],
+        "prepositions": [
+          "of",
+          "for",
+          "with"
+        ],
+        "collocations": [
+          "dependent spouse",
+          "spousal support",
+          "invite one's spouse",
+          "spouse visa"
+        ],
+        "tip": "Từ trang trọng dùng trong văn bản pháp lý, nhân sự, bảo hiểm và thuế để chỉ chung 'vợ hoặc chồng' (employees and their spouses)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "spouses",
+          "example": "All company executives and their spouses are invited to attend the annual charity gala.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "spousal",
+          "example": "The company's comprehensive health insurance plan includes full spousal coverage.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The human resources department announced that _____ health insurance benefits will be expanded next year.",
+        "answer": "spousal",
+        "base_word": "spouse",
+        "pos_hint": "tính từ (thuộc về vợ/chồng)",
+        "vi": "Phòng nhân sự thông báo rằng các quyền lợi bảo hiểm y tế dành cho vợ/chồng nhân viên sẽ được mở rộng vào năm tới."
+      }
+    },
+    {
+      "id": 12,
+      "word": "withhold",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to keep from; to refrain from",
+      "definition_vi": "khấu trừ lại, giữ lại (từ tiền lương); giấu, từ chối cung cấp (thông tin, sự đồng ý)",
+      "examples": [
+        {
+          "en": "My employer withholds money from each paycheck to apply toward my income taxes.",
+          "vi": "Chủ lao động của tôi khấu trừ tiền từ mỗi kỳ lương để đóng vào khoản thuế thu nhập của tôi."
+        },
+        {
+          "en": "Do not withhold any information from your accountant or he will not be able to prepare your tax form correctly.",
+          "vi": "Đừng giấu bất kỳ thông tin nào với kế toán viên của bạn, nếu không anh ấy sẽ không thể lập tờ khai thuế chính xác được."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "withhold tax",
+        "withhold payment",
+        "withhold information",
+        "tax withholding"
+      ],
+      "usage": {
+        "structures": [
+          "withhold + sth + from + sb/sth (giữ lại/khấu trừ cái gì từ đâu; giấu không cho ai biết cái gì)",
+          "withhold approval/consent (từ chối/chưa đưa ra sự phê duyệt)"
+        ],
+        "prepositions": [
+          "from"
+        ],
+        "collocations": [
+          "withhold funds",
+          "withhold judgment",
+          "income tax withholding",
+          "withheld amount"
+        ],
+        "tip": "Động từ bất quy tắc: withhold - withheld - withheld; trong bảng lương luôn có mục 'tax withheld / withholding tax' (thuế thu nhập khấu trừ tại nguồn)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "withhold",
+          "example": "The client threatened to withhold final payment until all building defects were repaired.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "withholding",
+          "example": "Employees may adjust their federal tax withholding by submitting a revised form to payroll.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "withheld",
+          "example": "The withheld portion of the contractor's fee will be released upon final inspection.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The total amount of income tax _____ from your salary is shown in Box 2 of your annual wage statement.",
+        "answer": "withheld",
+        "base_word": "withhold",
+        "pos_hint": "động từ bất quy tắc chia quá khứ phân từ V3 (rút gọn bị động)",
+        "vi": "Tổng số tiền thuế thu nhập được khấu trừ từ tiền lương của bạn được hiển thị ở Ô số 2 trong bản kê khai lương hàng năm."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. Every year, my wife gathers all of our pay stubs and expense reports and (1) ____ to fill out our tax forms. She tries to finish them in March, well before the April 15th (2) ____. It's a time-consuming process. There are receipts to find, records to organize, and forms to (3) ____. When we first got married, we (4) ____ separate returns. But now she marks me as her (5) ____ and files the (6) ____ return. It saves us money and saves me time! My wife is very proud of her accuracy. The government has never sent the forms back with corrections. For several years now, we have received a (7) ____. But this year, she (8) ____ the numbers over and over again and found we had not paid enough taxes throughout the year. She didn't want to (9) ____ any money. Finally, she (10) ____ and sent in our check. Actually, it was my fault. I had changed jobs and didn't ask my employer to (11) ____ enough money from my paychecks. I'm just glad we found and corrected the mistake before we got (12) ____.",
+    "word_bank": [
+      "calculated",
+      "fill out",
+      "owe",
+      "refund",
+      "deadline",
+      "gave up",
+      "penalized",
+      "spouse",
+      "filed",
+      "joint",
+      "prepares",
+      "withhold"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "calculate",
+        "example": "The young man tries to calculate his expenses every month.",
+        "pos": "verb"
+      },
+      {
+        "word": "calculation",
+        "example": "The calculation is no more difficult than high school math.",
+        "pos": "noun"
+      },
+      {
+        "word": "calculator",
+        "example": "In order to avoid making addition and subtraction errors, I suggest you use a calculator.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "file",
+        "example": "Don't wait until the last minute to file your taxes.",
+        "pos": "verb"
+      },
+      {
+        "word": "file",
+        "example": "I keep all my tax information in one file.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "joint",
+        "example": "My husband and I filed a joint tax return.",
+        "pos": ""
+      },
+      {
+        "word": "jointly",
+        "example": "Even though you are separated right now, you will save money if you and your wife file your taxes jointly.",
+        "pos": "adverb"
+      }
+    ],
+    [
+      {
+        "word": "penalize",
+        "example": "The government will penalize taxpayers who try to evade paying their fair share of taxes.",
+        "pos": ""
+      },
+      {
+        "word": "penalty",
+        "example": "For every dollar you owe in overdue taxes, a 10 percent penalty is imposed.",
+        "pos": "noun"
+      },
+      {
+        "word": "penal",
+        "example": "Tax evasion is a penal offense.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "prepare",
+        "example": "Most people wait until the last minute to prepare their tax returns.",
+        "pos": "verb"
+      },
+      {
+        "word": "preparation",
+        "example": "If you are organized, income tax preparation takes only a few hours.",
+        "pos": "noun"
+      },
+      {
+        "word": "preparatory",
+        "example": "The preparatory work for doing my taxes is more time-consuming than filling out the forms.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "refund",
+        "example": "The government should refund your overpaid taxes within a few weeks of filing your tax return.",
+        "pos": ""
+      },
+      {
+        "word": "refund",
+        "example": "If you have overpaid your income taxes, you will get a refund at the end of the year.",
+        "pos": "noun"
+      },
+      {
+        "word": "refundable",
+        "example": "Sales tax that tourists pay in a foreign country may be refundable when they leave the country.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "According to my ____, we owe a lot of money in taxes this year.",
+        "options": [
+          {
+            "label": "A",
+            "text": "calculations"
+          },
+          {
+            "label": "B",
+            "text": "calculated"
+          },
+          {
+            "label": "C",
+            "text": "calculators"
+          },
+          {
+            "label": "D",
+            "text": "calculate"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "Those ____ on my desk contain all the information we'll need for preparing our taxes.",
+        "options": [
+          {
+            "label": "A",
+            "text": "filed"
+          },
+          {
+            "label": "B",
+            "text": "files"
+          },
+          {
+            "label": "C",
+            "text": "file"
+          },
+          {
+            "label": "D",
+            "text": "filing"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "It is usually advantageous for spouses to file their income taxes ____.",
+        "options": [
+          {
+            "label": "A",
+            "text": "joints"
+          },
+          {
+            "label": "B",
+            "text": "jointly"
+          },
+          {
+            "label": "C",
+            "text": "joint"
+          },
+          {
+            "label": "D",
+            "text": "jointed"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "We didn't know we had to claim the interest from our savings account and were ____ for the error.",
+        "options": [
+          {
+            "label": "A",
+            "text": "penalize"
+          },
+          {
+            "label": "B",
+            "text": "penalizing"
+          },
+          {
+            "label": "C",
+            "text": "penalty"
+          },
+          {
+            "label": "D",
+            "text": "penalized"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "The ____ of the forms took much less time than we expected.",
+        "options": [
+          {
+            "label": "A",
+            "text": "preparatory"
+          },
+          {
+            "label": "B",
+            "text": "preparation"
+          },
+          {
+            "label": "C",
+            "text": "prepared"
+          },
+          {
+            "label": "D",
+            "text": "prepares"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "I didn't overpay my taxes this year so I didn't get a ____.",
+        "options": [
+          {
+            "label": "A",
+            "text": "refunded"
+          },
+          {
+            "label": "B",
+            "text": "refundable"
+          },
+          {
+            "label": "C",
+            "text": "refund"
+          },
+          {
+            "label": "D",
+            "text": "refunds"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Smith & Johnson Tax Preparation We take away the headaches of tax time. [16] your own taxes can be frustrating and often leads to costly errors in calculations. Are you ready to give up trying to fill [17] your tax forms on your own? Smith & Johnson Tax Preparation can help you! People who use professional tax preparers get larger refunds and avoid [18] for underpayment and missed deadlines. Make tax time easier. Call us today. You owe it to yourself.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "Prepare"
+            },
+            {
+              "label": "B",
+              "text": "To prepare"
+            },
+            {
+              "label": "C",
+              "text": "Preparing"
+            },
+            {
+              "label": "D",
+              "text": "Preparation"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "in"
+            },
+            {
+              "label": "B",
+              "text": "up"
+            },
+            {
+              "label": "C",
+              "text": "out"
+            },
+            {
+              "label": "D",
+              "text": "through"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "pennants"
+            },
+            {
+              "label": "B",
+              "text": "penalties"
+            },
+            {
+              "label": "C",
+              "text": "penumbras"
+            },
+            {
+              "label": "D",
+              "text": "peninsulas"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following letter. April 1, 20— Mr. Roger Earnshaw 2943 Northern Boulevard New Orange, NH Dear Mr. Earnshaw, Enclosed are your completed tax forms, which I have prepared for you at your request. I am sorry to report that you will not receive the $500 refund that you expected. Instead, my calculations show that you owe $450 in taxes, as well as an additional penalty of $45 for underpayment of taxes. The reason for this is that you and your spouse have chosen not to file your taxes jointly this year. You may want to reconsider this for the future since, as you can see, it is more costly for married couples to file separately. If you and your spouse wish to continue to file separately, you may want to ask your employer to withhold a greater amount from your paychecks so that you don’t end up owing money again next year. This will be even more important if you get the salary increase that you have been hoping for. Write out a check for the taxes that you still owe and the penalty and mail it together with your tax forms before the April 15 deadline. Please let me know if I can be of any further assistance. Sincerely, Kathleen O'Hara CPA 22. The word jointly in line 4 is closest in meaning to (A) together (B) apart (C) on time (D) finally",
+        "questions": [
+          {
+            "number": 19,
+            "question": "Who wrote the letter?",
+            "options": [
+              {
+                "label": "A",
+                "text": "A tax agent."
+              },
+              {
+                "label": "B",
+                "text": "A tax preparer."
+              },
+              {
+                "label": "C",
+                "text": "Mr. Earnshaw's spouse."
+              },
+              {
+                "label": "D",
+                "text": "Mr. Earnshaw's employer."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "What is the total amount that Mr. Earnshaw owes?",
+            "options": [
+              {
+                "label": "A",
+                "text": "$45."
+              },
+              {
+                "label": "B",
+                "text": "$450."
+              },
+              {
+                "label": "C",
+                "text": "$495."
+              },
+              {
+                "label": "D",
+                "text": "$500."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "What does Ms. O'Hara recommend to Mr. Earnshaw to improve his tax situation?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Get married."
+              },
+              {
+                "label": "B",
+                "text": "File separately."
+              },
+              {
+                "label": "C",
+                "text": "Ask for a salary increase."
+              },
+              {
+                "label": "D",
+                "text": "Withhold more from his checks."
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word deadline in line 9 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "holiday"
+              },
+              {
+                "label": "B",
+                "text": "schedule"
+              },
+              {
+                "label": "C",
+                "text": "anniversary"
+              },
+              {
+                "label": "D",
+                "text": "due date"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "Who usually prepares the man's taxes?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The man."
+          },
+          {
+            "label": "B",
+            "text": "His wife."
+          },
+          {
+            "label": "C",
+            "text": "The man and his wife together."
+          },
+          {
+            "label": "D",
+            "text": "An accountant."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "When did the man file his taxes last year?",
+        "options": [
+          {
+            "label": "A",
+            "text": "One month before the deadline."
+          },
+          {
+            "label": "B",
+            "text": "Two months before the deadline."
+          },
+          {
+            "label": "C",
+            "text": "One month after the deadline."
+          },
+          {
+            "label": "D",
+            "text": "Two months after the deadline."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What is the penalty for missing the deadline?",
+        "options": [
+          {
+            "label": "A",
+            "text": "1 percent."
+          },
+          {
+            "label": "B",
+            "text": "2 percent."
+          },
+          {
+            "label": "C",
+            "text": "9 percent."
+          },
+          {
+            "label": "D",
+            "text": "10 percent."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "Who is the speaker?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A tax preparer."
+          },
+          {
+            "label": "B",
+            "text": "A government tax agent."
+          },
+          {
+            "label": "C",
+            "text": "A tax filer."
+          },
+          {
+            "label": "D",
+            "text": "An employer."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "When can the refund check be expected?",
+        "options": [
+          {
+            "label": "A",
+            "text": "In eighteen weeks."
+          },
+          {
+            "label": "B",
+            "text": "Before six weeks."
+          },
+          {
+            "label": "C",
+            "text": "In four weeks."
+          },
+          {
+            "label": "D",
+            "text": "In ten weeks at the latest."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What does the speaker offer to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Calculate the amount to withhold from the paycheck."
+          },
+          {
+            "label": "B",
+            "text": "Make an arrangement with the employer."
+          },
+          {
+            "label": "C",
+            "text": "Show the listener a fee schedule."
+          },
+          {
+            "label": "D",
+            "text": "Send in the tax payment."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. Who usually prepares the man's taxes? (A) The man. (B) His wife. (C) The man and his wife together. (D) An accountant. 5. When did the man file his taxes last year? (A) One month before the deadline. (B) Two months before the deadline. (C) One month after the deadline. (D) Two months after the deadline. 6. What is the penalty for missing the deadline? (A) 1 percent. (B) 2 percent. (C) 9 percent. (D) 10 percent. Listen to the talk. Then read each question and choose the best answer. 7. Who is the speaker? (A) A tax preparer. (B) A government tax agent. (C) A tax filer. (D) An employer. 8. When can the refund check be expected? (A) In eighteen weeks. (B) Before six weeks. (C) In four weeks. (D) In ten weeks at the latest. 9. What does the speaker offer to do? (A) Calculate the amount to withhold from the paycheck. (B) Make an arrangement with the employer. (C) Show the listener a fee schedule. (D) Send in the tax payment.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question–Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "Who usually prepares the man's taxes?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The man."
+          },
+          {
+            "label": "B",
+            "text": "His wife."
+          },
+          {
+            "label": "C",
+            "text": "The man and his wife together."
+          },
+          {
+            "label": "D",
+            "text": "An accountant."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "When did the man file his taxes last year?",
+        "options": [
+          {
+            "label": "A",
+            "text": "One month before the deadline."
+          },
+          {
+            "label": "B",
+            "text": "Two months before the deadline."
+          },
+          {
+            "label": "C",
+            "text": "One month after the deadline."
+          },
+          {
+            "label": "D",
+            "text": "Two months after the deadline."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What is the penalty for missing the deadline?",
+        "options": [
+          {
+            "label": "A",
+            "text": "1 percent."
+          },
+          {
+            "label": "B",
+            "text": "2 percent."
+          },
+          {
+            "label": "C",
+            "text": "9 percent."
+          },
+          {
+            "label": "D",
+            "text": "10 percent."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "Who is the speaker?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A tax preparer."
+          },
+          {
+            "label": "B",
+            "text": "A government tax agent."
+          },
+          {
+            "label": "C",
+            "text": "A tax filer."
+          },
+          {
+            "label": "D",
+            "text": "An employer."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "When can the refund check be expected?",
+        "options": [
+          {
+            "label": "A",
+            "text": "In eighteen weeks."
+          },
+          {
+            "label": "B",
+            "text": "Before six weeks."
+          },
+          {
+            "label": "C",
+            "text": "In four weeks."
+          },
+          {
+            "label": "D",
+            "text": "In ten weeks at the latest."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What does the speaker offer to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Calculate the amount to withhold from the paycheck."
+          },
+          {
+            "label": "B",
+            "text": "Make an arrangement with the employer."
+          },
+          {
+            "label": "C",
+            "text": "Show the listener a fee schedule."
+          },
+          {
+            "label": "D",
+            "text": "Send in the tax payment."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "Lesson\n\n24\n\n## Taxes\n\nWORDS TO I ARF\n\n( 2) -\n\n( ) ${E}_{w}$\n\nStudy the following definitions and examples.\n\n1. calculation n., computation; estimate\n\na. It took my accountant some time to complete the calculations on my income tax.\n\nb. According to my calculations, I'll owe less money on my income taxes this year.\n\nf . ( ,t\n\n2. deadline n., a time by which something must be finished\n\na. The deadline for paying this year's taxes is just two weeks away.\n\n've\"\n\nb. My best work is done with strict deadlines.\n\nowe\nper\n\n3. file v., to enter into public record\n\na. If you file your taxes late, you will have to pay a fine.\n\nb. If you believe the tax preparer gave you incorrect information, you should file a complaint with her boss.\n\nwithhc d\n\n4. fill out v., to complete\n\na. I usually ask someone to help me fill out my tax form.\n\nb. Don't forget to sign the tax form after you have filled it out.\n\n5. give up v., to quit; to stop\n\na. Bruce gave up trying to prepare his tax return himself and now hires an accountant to do it.\n\nb. Ms. Gomez is so optimistic that she never gives up.\n\n6. joint adj., together; shared\n\na. We opened a joint bank account five years ago.\n\nb. The couple no longer files joint tax returns.\n\n7. owe v., to have a debt; to be obligated to pay\n\na. People are often surprised to discover that they owe more money in income taxes at the end of the year.\n\nb. As the business grew, the owner paid back loans and owed less money.\n\n8. penalty n., a punishment; a consequence\n\na. Anyone who pays less than they should in taxes will face a penalty.\n\nb. Penalties are imposed to discourage underpayment of taxes by adding a percentage to the taxes you already owe.\n\n9. preparation n., the act of making something ready\n\na. Income tax preparation can take a long time.\n\nb. It is important to do some preparation on your own before hiring an accountant to work on your tax form.\n\n10. refund n., the amount paid back; v., to give back\n\na. With the tax refund, we bought two plane tickets.\n\nb. The government will refund any money that you overpaid.\n\n11. spouse n., a husband or wife\n\na. You can claim your spouse as a dependent on your tax return if he or she doesn't earn an income.\n\nb. My spouse prepares the tax return for both of us.\n\n12. withhold v., to keep from; to refrain from\n\na. My employer withholds money from each paycheck to apply toward my income taxes.\n\nb. Do not withhold any information from your accountant or he will not be able to prepare your tax form correctly.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\n| calculated | fill out | owe | refund |\n| --- | --- | --- | --- |\n| deadline | gave up | penalized | spouse |\n| filed | joint | prepares | withhold |\n\nEvery year, my wife gathers all of our pay stubs and expense reports and (1) \\_\\_\\_\\_ to fill out our tax forms. She tries to finish them in March, well before the April 15th (2) \\_\\_\\_\\_. It's a time-consuming process. There are receipts to find, records to organize, and forms to (3) \\_\\_\\_\\_. When we first got married, we (4) \\_\\_\\_\\_ separate returns. But now she marks me as her (5) \\_\\_\\_\\_ and files the (6) \\_\\_\\_\\_ return. It saves us money and saves me time!\n\nMy wife is very proud of her accuracy. The government has never sent the forms back with corrections. For several years now, we have received a (7) \\_\\_\\_\\_. But this year, she (8) \\_\\_\\_\\_ the numbers over and over again and found we had not paid enough taxes throughout the year. She didn't want to (9) \\_\\_\\_\\_ any money. Finally, she (10) \\_\\_\\_\\_ and sent in our check. Actually, it was my fault. I had changed jobs and didn't ask my employer to (11) \\_\\_\\_\\_ enough money from my paychecks. I'm just glad we found and corrected the mistake before we got (12) \\_\\_\\_\\_.",
+    "word_families": "## WORD FAMILIES\n\n| v€ | calculate | The young man tries to calculate his expenses every month. |\n| --- | --- | --- |\n| noun | calculation | The calculation is no more difficult than high school math. |\n| not 1 | calculator | In order to avoid making addition and subtraction errors, I suggest you use a calculator. |\n\n| verb | file | Don't wait until the last minute to file your taxes. |\n| --- | --- | --- |\n| 1..1 | file | I keep all my tax information in one file. |\n\n| ( ) | joint | My husband and I filed a joint tax return. |\n| --- | --- | --- |\n| adverb | jointly | Even though you are separated right now, you will save money if you and your wife file your taxes jointly. |\n\n| b | penalize | The government will penalize taxpayers who try to evade paying their fair share of taxes. |\n| --- | --- | --- |\n| noun | penalty | For every dollar you owe in overdue taxes, a 10 percent penalty is imposed. |\n| L | penal | Tax evasion is a penal offense. |\n\n| verb | prepare | Most people wait until the last minute to prepare their tax returns. |\n| --- | --- | --- |\n| noun | preparation | If you are organized, income tax preparation takes only a few hours. |\n| adjective | preparatory | The preparatory work for doing my taxes is more time-consuming than filling out the forms. |\n\n|  | refund | The government should refund your overpaid taxes within a few weeks of filing your tax return. |\n| --- | --- | --- |\n| noun | refund | If you have overpaid your income taxes, you will get a refund at the end of the year. |\n| ( ) | refundable | Sales tax that tourists pay in a foreign country may be refundable when they leave the country. |",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question–Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. Who usually prepares the man's taxes?\n(A) The man.\n(B) His wife.\n(C) The man and his wife together.\n(D) An accountant.\n\n5. When did the man file his taxes last year?\n(A) One month before the deadline.\n(B) Two months before the deadline.\n(C) One month after the deadline.\n(D) Two months after the deadline.\n\n6. What is the penalty for missing the deadline?\n(A) 1 percent.\n(B) 2 percent.\n(C) 9 percent.\n(D) 10 percent.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. Who is the speaker?\n(A) A tax preparer.\n(B) A government tax agent.\n(C) A tax filer.\n(D) An employer.\n\n8. When can the refund check be expected?\n(A) In eighteen weeks.\n(B) Before six weeks.\n(C) In four weeks.\n(D) In ten weeks at the latest.\n\n9. What does the speaker offer to do?  \n(A) Calculate the amount to withhold from the paycheck.  \n(B) Make an arrangement with the employer.  \n(C) Show the listener a fee schedule.  \n(D) Send in the tax payment.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. According to my \\_\\_\\_\\_, we owe a lot of money in taxes this year.\n(A) calculations (C) calculators\n(B) calculated (D) calculate\n\n11. Those \\_\\_\\_\\_ on my desk contain all the information we'll need for preparing our taxes.\n(A) filed (C) file\n(B) files (D) filing\n\n12. It is usually advantageous for spouses to file their income taxes \\_\\_\\_\\_.\n(A) joints (C) joint\n(B) jointly (D) jointed\n\n13. We didn't know we had to claim the interest from our savings account and were \\_\\_\\_\\_ for the error.\n(A) penalize (C) penalty\n(B) penalizing (D) penalized\n\n14. The \\_\\_\\_\\_ of the forms took much less time than we expected.\n(A) preparatory (C) prepared\n(B) preparation (D) prepares\n\n15. I didn't overpay my taxes this year so I didn't get a \\_\\_\\_\\_.  \n(A) refunded (C) refund  \n(B) refundable (D) refunds\n\n## Part 6 Text Completion\n\n## Smith & Johnson\n\n## Tax Preparation\n\nWe take away the headaches of tax time.\n\n\\_16\\_ your own taxes can be frustrating and often leads to costly errors in calculations. Are you ready to give up trying to fill \\_17\\_ your tax forms on your own? Smith & Johnson Tax Preparation can help you! People who use professional tax preparers get larger refunds and avoid \\_18\\_ for underpayment and missed deadlines.\n\nMake tax time easier. Call us today. You owe it to yourself.\n\n16. (A) Prepare (B) To prepare (C) Preparing (D) Preparation\n\n18. (A) pennants  \n(B) penalties  \n(C) penumbras  \n(D) peninsulas\n\n17. (A) in  \n(B) up  \n(C) out  \n(D) through",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following letter.\n\nApril 1, 20—\n\nMr. Roger Earnshaw  \n2943 Northern Boulevard  \nNew Orange, NH\n\nDear Mr. Earnshaw,\n\nEnclosed are your completed tax forms, which I have prepared for you at your request. I am sorry to report that you will not receive the $500 refund that you expected. Instead, my calculations show that you owe $450 in taxes, as well as an additional penalty of $45 for underpayment of taxes. The reason for this is that you and your spouse have chosen not to file your taxes jointly this year. You may want to reconsider this for the future since, as you can see, it is more costly for married couples to file separately. If you and your spouse wish to continue to file separately, you may want to ask your employer to withhold a greater amount from your paychecks so that you don’t end up owing money again next year. This will be even more important if you get the salary increase that you have been hoping for.\n\nWrite out a check for the taxes that you still owe and the penalty and mail it together with your tax forms before the April 15 deadline. Please let me know if I can be of any further assistance.\n\nSincerely,\n\nKathleen O'Hara CPA\n\n19. Who wrote the letter?\n(A) A tax agent.\n(B) A tax preparer.\n(C) Mr. Earnshaw's spouse.\n(D) Mr. Earnshaw's employer.\n\n20. What is the total amount that Mr. Earnshaw owes?\n(A) $45.\n(B) $450.\n(C) $495.\n(D) $500.\n\n21. What does Ms. O'Hara recommend to Mr. Earnshaw to improve his tax situation?  \n(A) Get married.  \n(B) File separately.  \n(C) Ask for a salary increase.  \n(D) Withhold more from his checks.\n\n22. The word jointly in line 4 is closest in meaning to (A) together (B) apart (C) on time (D) finally\n\n23. The word deadline in line 9 is closest in meaning to  \n(A) holiday  \n(B) schedule  \n(C) anniversary  \n(D) due date"
+  },
+  "needs_review": true
+}

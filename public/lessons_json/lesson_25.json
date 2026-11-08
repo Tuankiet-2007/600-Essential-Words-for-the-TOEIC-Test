@@ -1,0 +1,1627 @@
+{
+  "lesson_id": 25,
+  "title": "Financial Statements",
+  "theme_name": "Financing and Budgeting",
+  "audio_track": "track_25.mp3",
+  "part1_photo": "part1_photos/lesson_25.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "desire",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to wish for",
+      "definition_vi": "mong muốn, khao khát; (n.) niềm mong ước, nhu cầu",
+      "examples": [
+        {
+          "en": "We desire to have our own home.",
+          "vi": "Chúng tôi mong muốn có được ngôi nhà của riêng mình."
+        },
+        {
+          "en": "He desires to retire when he becomes forty.",
+          "vi": "Anh ấy mong muốn được nghỉ hưu khi bước sang tuổi bốn mươi."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "desire",
+          "example": "Our manager is trying to predict how many customers will desire our product over the next quarter."
+        },
+        {
+          "pos": "noun",
+          "word": "desire",
+          "example": "Her desire for greater control of the business led her to discuss her need for more information with her accountant."
+        },
+        {
+          "pos": "",
+          "word": "desirable",
+          "example": "The category summary, while desirable, was time-consuming to prepare."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "desire to succeed",
+        "strong desire",
+        "desired outcome",
+        "highly desirable"
+      ],
+      "usage": {
+        "structures": [
+          "desire + to V / desire + N (mong muốn làm gì / mong muốn điều gì)",
+          "a desire for + N (sự khao khát/mong muốn có được cái gì)"
+        ],
+        "prepositions": [
+          "for",
+          "to"
+        ],
+        "collocations": [
+          "express a desire",
+          "desired effect",
+          "desirable location",
+          "leave much to be desired"
+        ],
+        "tip": "Tính từ phân từ 'desired' (được mong đợi: desired result/yield) và tính từ 'desirable' (đáng mơ ước, hấp dẫn: desirable property/skill) rất hay gặp trong Part 5."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "desired",
+          "example": "The new advertising campaign failed to produce the desired increase in quarterly sales.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "desirably",
+          "example": "Candidates should have a degree in finance and, desirably, three years of auditing experience.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Fluency in a second language is a highly _____ qualification for applicants seeking international sales positions.",
+        "answer": "desirable",
+        "base_word": "desire",
+        "pos_hint": "tính từ",
+        "vi": "Sự thông thạo ngôn ngữ thứ hai là một tiêu chuẩn rất đáng giá đối với các ứng viên tìm kiếm vị trí bán hàng quốc tế."
+      }
+    },
+    {
+      "id": 2,
+      "word": "detail",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to report or relate minutely or in particulars",
+      "definition_vi": "trình bày chi tiết, liệt kê tỉ mỉ; (n.) chi tiết",
+      "examples": [
+        {
+          "en": "The office manager detailed each step of the inventory process at the staff meeting.",
+          "vi": "Người quản lý văn phòng đã trình bày chi tiết từng bước của quy trình kiểm kê tại cuộc họp nhân viên."
+        },
+        {
+          "en": "Fabio created a financial statement that detailed every expected expenditure for the next quarter.",
+          "vi": "Fabio đã lập một báo cáo tài chính liệt kê chi tiết mọi khoản chi tiêu dự kiến cho quý tiếp theo."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "detail",
+          "example": "The job description details all the duties of this position."
+        },
+        {
+          "pos": "noun",
+          "word": "detail",
+          "example": "The budget report needs to be accurate down to the last detail."
+        },
+        {
+          "pos": "",
+          "word": "detailed",
+          "example": "The director asked for a detailed description of our meeting."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "in detail",
+        "attention to detail",
+        "detailed report",
+        "further details"
+      ],
+      "usage": {
+        "structures": [
+          "detail + N (trình bày/mô tả chi tiết cái gì - ngoại động từ)",
+          "explain/discuss in detail (giải thích/thảo luận một cách chi tiết)"
+        ],
+        "prepositions": [
+          "in",
+          "about",
+          "on"
+        ],
+        "collocations": [
+          "go into detail",
+          "detailed analysis",
+          "contact details",
+          "down to the last detail"
+        ],
+        "tip": "Khi đứng trước danh từ, hãy chọn tính từ 'detailed' (a detailed report/description: một báo cáo chi tiết); khi làm vị ngữ có tân ngữ theo sau, 'detail' có thể là động từ."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "detailed",
+          "example": "Please submit a detailed breakdown of all project expenditures by Friday afternoon.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The chief financial officer presented a _____ breakdown of third-quarter operating costs to the board.",
+        "answer": "detailed",
+        "base_word": "detail",
+        "pos_hint": "tính từ",
+        "vi": "Giám đốc tài chính đã trình bày một bản phân tích chi tiết về chi phí hoạt động quý ba trước hội đồng quản trị."
+      }
+    },
+    {
+      "id": 3,
+      "word": "forecast",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a prediction of a future event; v., to estimate or calculate in advance",
+      "definition_vi": "bản dự báo (tài chính, doanh số, thời tiết); (v.) dự báo, dự đoán trước",
+      "examples": [
+        {
+          "en": "The financial forecast indicates a deficit in the next quarter.",
+          "vi": "Dự báo tài chính cho thấy một khoản thâm hụt trong quý tiếp theo."
+        },
+        {
+          "en": "Analysts forecast a strong economic outlook.",
+          "vi": "Các nhà phân tích dự báo một triển vọng kinh tế mạnh mẽ."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "sales forecast",
+        "financial forecast",
+        "economic forecast",
+        "forecast growth"
+      ],
+      "usage": {
+        "structures": [
+          "forecast + N / forecast that + clause (dự báo điều gì)",
+          "be forecast to + V (được dự báo sẽ làm gì)"
+        ],
+        "prepositions": [
+          "for",
+          "of"
+        ],
+        "collocations": [
+          "quarterly forecast",
+          "accurate forecast",
+          "revenue forecast",
+          "long-range forecast"
+        ],
+        "tip": "Động từ 'forecast' có 3 cột giống hệt nhau (forecast - forecast - forecast, hoặc forecasted), thường dùng ở dạng bị động 'be forecast to V'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "forecast",
+          "example": "Economists forecast that consumer spending will rise steadily during the fourth quarter.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "forecaster",
+          "example": "Market forecasters expect interest rates to remain unchanged through the end of the year.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "forecasted",
+          "example": "Actual fourth-quarter revenues exceeded our forecasted figures by nearly fifteen percent.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Industry _____ predict a substantial surge in demand for electric vehicles over the next five years.",
+        "answer": "forecasters",
+        "base_word": "forecast",
+        "pos_hint": "danh từ chỉ người số nhiều",
+        "vi": "Các nhà dự báo trong ngành dự đoán nhu cầu đối với xe điện sẽ tăng vọt đáng kể trong năm năm tới."
+      }
+    },
+    {
+      "id": 4,
+      "word": "level",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a relative position or rank on a scale",
+      "definition_vi": "mức độ, cấp độ, trình độ, cấp bậc; (adj.) bằng phẳng, ngang bằng",
+      "examples": [
+        {
+          "en": "We have never had an accountant work at such a sophisticated level before.",
+          "vi": "Trước đây chúng tôi chưa từng có một kế toán viên nào làm việc ở trình độ chuyên sâu như vậy."
+        },
+        {
+          "en": "The meeting was only open to staff at the assistant director level or higher.",
+          "vi": "Cuộc họp chỉ mở cho nhân viên ở cấp bậc phó giám đốc hoặc cao hơn."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "entry level",
+        "executive level",
+        "high level of",
+        "production level"
+      ],
+      "usage": {
+        "structures": [
+          "at the + [rank] + level (ở cấp độ/cấp bậc nào)",
+          "level of + N (mức độ của cái gì: năng suất, hài lòng, lạm phát)"
+        ],
+        "prepositions": [
+          "at",
+          "of",
+          "on",
+          "to"
+        ],
+        "collocations": [
+          "senior level",
+          "inventory levels",
+          "level of satisfaction",
+          "level off"
+        ],
+        "tip": "Đi với giới từ 'at' (at the management level, at a high level); ngoài ra cụm động từ 'level off' có nghĩa là 'chững lại, ổn định sau khi tăng/giảm'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "level",
+          "example": "After rising sharply for three months, housing prices finally began to level off in October.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "level",
+          "example": "Make sure the warehouse shelving units are completely level before loading heavy crates.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "After surging during the summer months, fuel prices have finally _____ off this autumn.",
+        "answer": "leveled",
+        "base_word": "level",
+        "pos_hint": "động từ chia quá khứ phân từ V3/ed (hiện tại hoàn thành)",
+        "vi": "Sau khi tăng vọt trong những tháng mùa hè, giá nhiên liệu cuối cùng đã chững lại và ổn định vào mùa thu này."
+      }
+    },
+    {
+      "id": 5,
+      "word": "overall",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "regarded as a whole; general",
+      "definition_vi": "tổng thể, toàn bộ, nhìn chung; (adv.) nhìn chung, xét về tổng thể",
+      "examples": [
+        {
+          "en": "The company's overall expectations were out of proportion.",
+          "vi": "Kỳ vọng tổng thể của công ty đã vượt quá tỷ lệ thực tế."
+        },
+        {
+          "en": "Overall, our costs are running true to prediction.",
+          "vi": "Nhìn chung, chi phí của chúng ta đang diễn biến đúng như dự đoán."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "overall performance",
+        "overall cost",
+        "overall strategy",
+        "overall satisfaction"
+      ],
+      "usage": {
+        "structures": [
+          "overall + N (chi phí/hiệu suất/chiến lược tổng thể - tính từ đứng trước danh từ)",
+          "Overall, + S + V (Nhìn chung, ... - trạng từ đứng đầu câu)"
+        ],
+        "prepositions": [
+          "in"
+        ],
+        "collocations": [
+          "overall impression",
+          "overall growth",
+          "overall budget",
+          "overall quality"
+        ],
+        "tip": "'Overall' vừa là tính từ (đứng sau the/possessive và trước danh từ: the overall budget) vừa là trạng từ (đứng đầu câu ngăn cách bằng dấu phẩy)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "overall",
+          "example": "The director was pleased with the overall progress of the software migration project.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "overall",
+          "example": "Overall, the company experienced a twelve percent increase in net revenue this year.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Protective cotton _____ must be worn by all maintenance personnel when working inside the assembly plant.",
+        "answer": "overalls",
+        "base_word": "overall",
+        "pos_hint": "danh từ số nhiều (quần áo bảo hộ lao động)",
+        "vi": "Quần áo bảo hộ bằng vải cotton phải được mặc bởi tất cả nhân viên bảo trì khi làm việc bên trong nhà máy lắp ráp."
+      }
+    },
+    {
+      "id": 6,
+      "word": "perspective",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a mental view or outlook",
+      "definition_vi": "góc nhìn, quan điểm, cái nhìn toàn diện",
+      "examples": [
+        {
+          "en": "The budget statement will give the manager some perspective on where the costs of running the business are to be found.",
+          "vi": "Báo cáo ngân sách sẽ mang lại cho người quản lý một góc nhìn rõ ràng về nơi phát sinh các chi phí vận hành doanh nghiệp."
+        },
+        {
+          "en": "Joseph's accountant gave him some perspective as well as some data on how much he could expect to earn in his first year in business.",
+          "vi": "Kế toán viên của Joseph đã cho anh ấy một cái nhìn thực tế cũng như một số dữ liệu về mức thu nhập anh có thể kỳ vọng trong năm đầu kinh doanh."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "from a financial perspective",
+        "broad perspective",
+        "gain perspective on",
+        "put into perspective"
+      ],
+      "usage": {
+        "structures": [
+          "from sb's perspective / from a [adj] perspective (từ góc độ/quan điểm của ai / về mặt...)",
+          "give sb perspective on + N (cho ai cái nhìn tổng quan/thấu đáo về cái gì)"
+        ],
+        "prepositions": [
+          "on",
+          "from",
+          "in",
+          "into"
+        ],
+        "collocations": [
+          "different perspective",
+          "global perspective",
+          "fresh perspective",
+          "historical perspective"
+        ],
+        "tip": "Rất hay gặp trong cấu trúc 'from a business/financial perspective' (xét từ góc độ kinh doanh/tài chính) và 'perspective on + N'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "perspectives",
+          "example": "The panel discussion brought together diverse perspectives on sustainable urban development.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Hiring consultants from outside the industry brought fresh _____ on how to modernize our supply chain.",
+        "answer": "perspectives",
+        "base_word": "perspective",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Việc thuê các chuyên gia tư vấn từ bên ngoài ngành đã mang lại những góc nhìn mới mẻ về cách hiện đại hóa chuỗi cung ứng của chúng tôi."
+      }
+    },
+    {
+      "id": 7,
+      "word": "project",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to estimate or predict",
+      "definition_vi": "dự tính, dự phóng, ước tính (doanh thu, chi phí); (n.) dự án",
+      "examples": [
+        {
+          "en": "We need to project our earnings and expenses in order to plan next year's budget.",
+          "vi": "Chúng ta cần dự tính thu nhập và chi phí để lập kế hoạch ngân sách cho năm tới."
+        },
+        {
+          "en": "The director projects that the company will need to hire ten new employees this year.",
+          "vi": "Giám đốc dự kiến rằng công ty sẽ cần tuyển thêm mười nhân viên mới trong năm nay."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "project",
+          "example": "The budget summary helped us project our expenditures for the year."
+        },
+        {
+          "pos": "noun",
+          "word": "project",
+          "example": "The financial project was time-consuming and challenging."
+        },
+        {
+          "pos": "noun",
+          "word": "projection",
+          "example": "Maurice&#x27;s projections for the upcoming fiscal year were not as helpful as we had hoped."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "project earnings",
+        "projected revenue",
+        "financial projection",
+        "be projected to"
+      ],
+      "usage": {
+        "structures": [
+          "project + N / project that + clause (dự tính/ước tính cái gì)",
+          "be projected to + V (được dự kiến/dự báo sẽ tăng/giảm/đạt mức...)"
+        ],
+        "prepositions": [
+          "to",
+          "for",
+          "into"
+        ],
+        "collocations": [
+          "projected growth",
+          "projected costs",
+          "sales projections",
+          "population projection"
+        ],
+        "tip": "Khi là danh từ trọng âm rơi vào âm tiết 1 (/ˈprɒdʒekt/: dự án), nhưng khi là động từ trọng âm rơi vào âm tiết 2 (/prəˈdʒekt/: dự báo/ước tính)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "projected",
+          "example": "The new manufacturing facility was completed well below its projected construction cost.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "According to our latest financial _____, operating profits will increase by eight percent next quarter.",
+        "answer": "projections",
+        "base_word": "project",
+        "pos_hint": "danh từ số nhiều (sự dự phóng/dự báo)",
+        "vi": "Theo các dự báo tài chính mới nhất của chúng tôi, lợi nhuận hoạt động sẽ tăng tám phần trăm trong quý tới."
+      }
+    },
+    {
+      "id": 8,
+      "word": "realistic",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "tending to or expressing an awareness of things as they really are",
+      "definition_vi": "thực tế, sát với thực tiễn, khả thi",
+      "examples": [
+        {
+          "en": "Stefano found that an accurate accounting gave him a realistic idea of his business's financial direction.",
+          "vi": "Stefano nhận thấy rằng việc hạch toán kế toán chính xác đã cho anh một hình dung thực tế về hướng đi tài chính của doanh nghiệp mình."
+        },
+        {
+          "en": "Realistic expectations are important when you review your financial statements.",
+          "vi": "Những kỳ vọng thực tế là điều quan trọng khi bạn xem xét các báo cáo tài chính của mình."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "realize",
+          "example": "The plan helps her realize her dream of having the business turn a profit."
+        },
+        {
+          "pos": "noun",
+          "word": "reality",
+          "example": "The financial statement reinforced the reality that our business is in deep trouble."
+        },
+        {
+          "pos": "adjective",
+          "word": "realistic",
+          "example": "The accountant needs realistic numbers on which to base his plan."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "realistic goal",
+        "realistic expectation",
+        "realistic estimate",
+        "realistic timetable"
+      ],
+      "usage": {
+        "structures": [
+          "set realistic goals/deadlines (đặt ra các mục tiêu/thời hạn thực tế)",
+          "be realistic about + N (thực tế về vấn đề gì)"
+        ],
+        "prepositions": [
+          "about"
+        ],
+        "collocations": [
+          "realistic assessment",
+          "realistic budget",
+          "realistically speaking",
+          "unrealistic demands"
+        ],
+        "tip": "Thường bổ nghĩa cho 'goals', 'expectations', 'deadlines', 'estimates' hoặc biến đổi sang trạng từ 'realistically'."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "realistically",
+          "example": "Realistically, the software upgrade cannot be completed before the end of November.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Given our current staffing levels, we cannot _____ expect to process all applications by tomorrow.",
+        "answer": "realistically",
+        "base_word": "realistic",
+        "pos_hint": "trạng từ",
+        "vi": "Xét theo mức nhân sự hiện tại của chúng ta, chúng ta không thể kỳ vọng một cách thực tế là sẽ xử lý xong tất cả hồ sơ trước ngày mai."
+      }
+    },
+    {
+      "id": 9,
+      "word": "target",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to establish as a goal; n., a goal",
+      "definition_vi": "nhắm tới, đặt làm mục tiêu; (n.) mục tiêu, chỉ tiêu, đối tượng hướng đến",
+      "examples": [
+        {
+          "en": "We targeted March as the deadline for completing the financial statement.",
+          "vi": "Chúng tôi đã nhắm chọn tháng Ba làm hạn chót để hoàn thành báo cáo tài chính."
+        },
+        {
+          "en": "Most managers target desired income as the primary criterion for success.",
+          "vi": "Hầu hết các nhà quản lý đều đặt mức thu nhập mong muốn làm tiêu chí hàng đầu cho sự thành công."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "sales target",
+        "target audience",
+        "meet a target",
+        "target market"
+      ],
+      "usage": {
+        "structures": [
+          "target + A + at/toward + B (nhắm A vào đối tượng B)",
+          "reach/meet/exceed a target (đạt/vượt chỉ tiêu)"
+        ],
+        "prepositions": [
+          "at",
+          "for",
+          "toward",
+          "on"
+        ],
+        "collocations": [
+          "on target",
+          "set a target",
+          "targeted advertising",
+          "target date"
+        ],
+        "tip": "Cụm 'on target' (= on schedule / on track: đúng tiến độ/mục tiêu) và 'target audience/market' (khách hàng/thị trường mục tiêu) rất phổ biến."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "target",
+          "example": "The new promotional campaign is designed to target first-time homebuyers.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "target",
+          "example": "All regional sales offices exceeded their quarterly revenue targets.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "targeted",
+          "example": "Targeted online advertisements helped the retailer double its website traffic.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The marketing department developed a _____ email campaign aimed specifically at small business owners.",
+        "answer": "targeted",
+        "base_word": "target",
+        "pos_hint": "tính từ phân từ (V-ed)",
+        "vi": "Phòng tiếp thị đã phát triển một chiến dịch email có chọn lọc nhắm mục tiêu cụ thể vào các chủ doanh nghiệp nhỏ."
+      }
+    },
+    {
+      "id": 10,
+      "word": "translation",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the act or process of translating",
+      "definition_vi": "bản dịch, sự dịch thuật, sự chuyển đổi giải nghĩa",
+      "examples": [
+        {
+          "en": "The translation of the statement from Japanese into English was very helpful.",
+          "vi": "Bản dịch báo cáo tài chính từ tiếng Nhật sang tiếng Anh đã giúp ích rất nhiều."
+        },
+        {
+          "en": "The accountant was able to provide a translation of the economic terms used in the meeting.",
+          "vi": "Kế toán viên đã có thể giải nghĩa dễ hiểu các thuật ngữ kinh tế được sử dụng trong cuộc họp."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "translate",
+          "example": "The computer was able to translate data from the created spreadsheet into the spreadsheet program I prefer."
+        },
+        {
+          "pos": "",
+          "word": "translation",
+          "example": "The translation of the document was provided at no charge."
+        },
+        {
+          "pos": "",
+          "word": "translatable",
+          "example": "The data was not translatable between programs and had to be entered by hand, which took hours."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "accurate translation",
+        "translation services",
+        "certified translation",
+        "translate into"
+      ],
+      "usage": {
+        "structures": [
+          "translation of + A + from [lang1] into [lang2] (bản dịch A từ ngôn ngữ 1 sang ngôn ngữ 2)",
+          "translate into + N (dịch sang / chuyển hóa thành kết quả gì)"
+        ],
+        "prepositions": [
+          "of",
+          "from",
+          "into"
+        ],
+        "collocations": [
+          "simultaneous translation",
+          "literal translation",
+          "professional translator",
+          "translate documents"
+        ],
+        "tip": "Phân biệt 'translation' (bản dịch/việc dịch thuật) với 'translator' (người biên dịch); đi với giới từ 'into' khi chỉ ngôn ngữ/kết quả đích."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "translator",
+          "example": "The legal firm hired a certified translator to review the international contract.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Our publishing house is currently seeking freelance _____ who specialize in financial and legal documents.",
+        "answer": "translators",
+        "base_word": "translation",
+        "pos_hint": "danh từ chỉ người số nhiều",
+        "vi": "Nhà xuất bản của chúng tôi hiện đang tìm kiếm các biên dịch viên tự do chuyên về các tài liệu tài chính và pháp lý."
+      }
+    },
+    {
+      "id": 11,
+      "word": "typically",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "acting in conformity to a type; characteristically",
+      "definition_vi": "thông thường, thường lệ, điển hình",
+      "examples": [
+        {
+          "en": "Office expenses typically include such things as salaries, rent, and office supplies.",
+          "vi": "Chi phí văn phòng thông thường bao gồm những khoản như tiền lương, tiền thuê mặt bằng và văn phòng phẩm."
+        },
+        {
+          "en": "The director typically dominates the staff meetings.",
+          "vi": "Giám đốc thường là người chi phối các cuộc họp nhân viên."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "type",
+          "example": "This type of business requires a lot of start-up money."
+        },
+        {
+          "pos": "",
+          "word": "typical",
+          "example": "Part of a category summary is defining the expenses that are typical of the business in question."
+        },
+        {
+          "pos": "",
+          "word": "typically",
+          "example": "Typically, we finished preparing the budget just in time to meet the deadline."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "typically include",
+        "typically take",
+        "typically require",
+        "typical of"
+      ],
+      "usage": {
+        "structures": [
+          "typically + V (thông thường làm gì - chia thì hiện tại đơn)",
+          "be typical of + N (là điển hình/đặc trưng của cái gì)"
+        ],
+        "prepositions": [
+          "of",
+          "for"
+        ],
+        "collocations": [
+          "typically last",
+          "typically range from",
+          "typical workday",
+          "typical customer"
+        ],
+        "tip": "Trạng từ tần suất 'typically' (= usually / normally) là dấu hiệu nhận biết kinh điển của thì hiện tại đơn và thường đứng trước động từ chính."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "typify",
+          "example": "High attention to detail typifies the work of our senior auditing team.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "High volatility is _____ of emerging stock markets during periods of rapid economic transition.",
+        "answer": "typical",
+        "base_word": "typically",
+        "pos_hint": "tính từ",
+        "vi": "Tính biến động cao là đặc trưng điển hình của các thị trường chứng khoán mới nổi trong giai đoạn chuyển đổi kinh tế nhanh chóng."
+      }
+    },
+    {
+      "id": 12,
+      "word": "yield",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an amount produced; v., to produce a profit",
+      "definition_vi": "lợi suất, sản lượng, kết quả mang lại; (v.) mang lại, sinh ra (lợi nhuận, kết quả), nhường đường",
+      "examples": [
+        {
+          "en": "Henry's budget gave him the desired yield: a better indication of his expected profit.",
+          "vi": "Bản ngân sách của Henry đã mang lại cho anh kết quả mong muốn: một chỉ báo rõ hơn về lợi nhuận dự kiến của anh."
+        },
+        {
+          "en": "The company's investment yielded high returns.",
+          "vi": "Khoản đầu tư của công ty đã mang lại mức lợi nhuận cao."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "yield high returns",
+        "dividend yield",
+        "yield results",
+        "high-yield bond"
+      ],
+      "usage": {
+        "structures": [
+          "yield + a profit / results / returns (mang lại lợi nhuận / kết quả)",
+          "annual/dividend yield (lợi suất hàng năm / lợi suất cổ tức)"
+        ],
+        "prepositions": [
+          "on",
+          "to",
+          "from"
+        ],
+        "collocations": [
+          "yield positive results",
+          "bond yield",
+          "crop yield",
+          "high-yielding investment"
+        ],
+        "tip": "Trong TOEIC, động từ 'yield' thường đồng nghĩa với 'produce' (tạo ra kết quả/lợi nhuận: yield positive results / high returns)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "yield",
+          "example": "The six-month market study yielded valuable insights into consumer buying habits.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "yield",
+          "example": "Government bonds generally offer a lower yield than corporate equities but carry less risk.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "yielding",
+          "example": "Investors shifted their capital into high-yielding money market accounts.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Our newly implemented cost-cutting measures have already _____ noticeable savings in utility expenses.",
+        "answer": "yielded",
+        "base_word": "yield",
+        "pos_hint": "động từ chia quá khứ phân từ V3/ed (hiện tại hoàn thành)",
+        "vi": "Các biện pháp cắt giảm chi phí mới được triển khai của chúng tôi đã mang lại những khoản tiết kiệm đáng kể trong chi phí điện nước."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. A business budget focuses on future profits and future capital requirements. A budget can help the business owner determine the amount of profit the business is expected to make, the amount of sales it will take to reach a goal, and what (1) ____ of expenses are attached to those sales. A business establishes a (2) ____, a goal to work toward. A business (3) ____ the sales that will be needed to reach this target. Projecting or planning ahead is part of (4) ____ business planning. When creating a (5) ____ income statement, a business owner tries to determine how to reach the (6) ____ target. The annual profit must be sufficient to (7) ____ the owner a return for his or her time spent operating the business, plus a return on the investment. The owner's target income is the sum of a reasonable salary for the time spent running the business and a normal return on the amount invested in the firm. After projecting the income needed, the business owner has to (8) ____ the target profit into a net sales figure for the forecasted period. The owner has to determine whether this sales volume is (9) ____. One useful technique is to break down the required annual sales into a daily sales figure to get a better (10) ____ of the sales required to yield the annual profit. At this stage in the financial plan, the owner should create a (11) ____ picture of the firm's expected operating expenses. Many books and business organizations give (12) ____ operating statistics data, based on a percentage of net sales. The business's accountant can help you assign dollar values to anticipated expenses. Developing a projected income statement is an important part of any financial plan, as the process forces the business owner to examine the firm's future profitability.",
+    "word_bank": [
+      "desired",
+      "level",
+      "projected",
+      "translate",
+      "detailed",
+      "overall",
+      "realistic",
+      "typical",
+      "forecasts",
+      "perspective",
+      "target",
+      "yield"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "desire",
+        "example": "Our manager is trying to predict how many customers will desire our product over the next quarter.",
+        "pos": "verb"
+      },
+      {
+        "word": "desire",
+        "example": "Her desire for greater control of the business led her to discuss her need for more information with her accountant.",
+        "pos": "noun"
+      },
+      {
+        "word": "desirable",
+        "example": "The category summary, while desirable, was time-consuming to prepare.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "detail",
+        "example": "The job description details all the duties of this position.",
+        "pos": ""
+      },
+      {
+        "word": "detail",
+        "example": "The budget report needs to be accurate down to the last detail.",
+        "pos": "noun"
+      },
+      {
+        "word": "detailed",
+        "example": "The director asked for a detailed description of our meeting.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "project",
+        "example": "The budget summary helped us project our expenditures for the year.",
+        "pos": "verb"
+      },
+      {
+        "word": "project",
+        "example": "The financial project was time-consuming and challenging.",
+        "pos": "noun"
+      },
+      {
+        "word": "projection",
+        "example": "Maurice&#x27;s projections for the upcoming fiscal year were not as helpful as we had hoped.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "realize",
+        "example": "The plan helps her realize her dream of having the business turn a profit.",
+        "pos": "verb"
+      },
+      {
+        "word": "reality",
+        "example": "The financial statement reinforced the reality that our business is in deep trouble.",
+        "pos": "noun"
+      },
+      {
+        "word": "realistic",
+        "example": "The accountant needs realistic numbers on which to base his plan.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "translate",
+        "example": "The computer was able to translate data from the created spreadsheet into the spreadsheet program I prefer.",
+        "pos": "verb"
+      },
+      {
+        "word": "translation",
+        "example": "The translation of the document was provided at no charge.",
+        "pos": ""
+      },
+      {
+        "word": "translatable",
+        "example": "The data was not translatable between programs and had to be entered by hand, which took hours.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "type",
+        "example": "This type of business requires a lot of start-up money.",
+        "pos": ""
+      },
+      {
+        "word": "typical",
+        "example": "Part of a category summary is defining the expenses that are typical of the business in question.",
+        "pos": ""
+      },
+      {
+        "word": "typically",
+        "example": "Typically, we finished preparing the budget just in time to meet the deadline.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "Before we begin, I think we should all focus on the ____ outcome of this effort.",
+        "options": [
+          {
+            "label": "A",
+            "text": "desirableness"
+          },
+          {
+            "label": "B",
+            "text": "desire"
+          },
+          {
+            "label": "C",
+            "text": "desired"
+          },
+          {
+            "label": "D",
+            "text": "desirability"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "The accountant can review all the ____ of the financial statement with you.",
+        "options": [
+          {
+            "label": "A",
+            "text": "detailed"
+          },
+          {
+            "label": "B",
+            "text": "detailing"
+          },
+          {
+            "label": "C",
+            "text": "details"
+          },
+          {
+            "label": "D",
+            "text": "detail"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "The ____ figures for the next quarter will not be available until a week from tomorrow.",
+        "options": [
+          {
+            "label": "A",
+            "text": "project"
+          },
+          {
+            "label": "B",
+            "text": "projected"
+          },
+          {
+            "label": "C",
+            "text": "projection"
+          },
+          {
+            "label": "D",
+            "text": "projects"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "The projected financial statement demonstrated to Susan that her business had a ____ chance of increasing its profit over the next two quarters.",
+        "options": [
+          {
+            "label": "A",
+            "text": "realistic"
+          },
+          {
+            "label": "B",
+            "text": "realist"
+          },
+          {
+            "label": "C",
+            "text": "realistically"
+          },
+          {
+            "label": "D",
+            "text": "reality"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "To create our financial strategy, our consultant took the experiences of similar businesses and ____ relevant outcomes to our situation.",
+        "options": [
+          {
+            "label": "A",
+            "text": "translatable"
+          },
+          {
+            "label": "B",
+            "text": "translation"
+          },
+          {
+            "label": "C",
+            "text": "translator"
+          },
+          {
+            "label": "D",
+            "text": "translated"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "Our business experienced a ____ fall in profits during the third quarter of the year.",
+        "options": [
+          {
+            "label": "A",
+            "text": "typical"
+          },
+          {
+            "label": "B",
+            "text": "typically"
+          },
+          {
+            "label": "C",
+            "text": "type"
+          },
+          {
+            "label": "D",
+            "text": "typed"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "To: Department Heads From: Roy Jones, Manager Re: Planning Meeting Memo As you know, our quarterly planning meeting will take place in two weeks. I want to let you know some of the topics that will be discussed, to give you a chance to prepare. First, the overall economic situation in the country looks very good for the coming year. Economists [16] an increase in consumer spending, especially in our sector. Therefore, we should look into increasing production. I believe that a 15 percent increase by the end of the year is a realistic target. Second, since the company plans to increase sales overseas, we will need to hire several [17]. We will need to discuss how many we need and which languages should have priority. These are the most important topics for the meeting. If anyone [18] to put a special item on the meeting agenda, please let me know by the beginning of next week.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "foreclose"
+            },
+            {
+              "label": "B",
+              "text": "forebode"
+            },
+            {
+              "label": "C",
+              "text": "forego"
+            },
+            {
+              "label": "D",
+              "text": "forecast"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "translators"
+            },
+            {
+              "label": "B",
+              "text": "translates"
+            },
+            {
+              "label": "C",
+              "text": "translations"
+            },
+            {
+              "label": "D",
+              "text": "transports"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "desire"
+            },
+            {
+              "label": "B",
+              "text": "desires"
+            },
+            {
+              "label": "C",
+              "text": "will desire"
+            },
+            {
+              "label": "D",
+              "text": "have desired"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following article and e-mail message. Do you have a sound financial plan for your small business? You should. The majority of small businesses fail during the first five years, typically because they have not made realistic financial plans. A new business owner may start out with the necessary funds, a qualified staff, and office space and equipment. These things may not save the business from disaster, however, if the business owner hasn't set realistic targets and made plans to reach them. Everyone who contemplates starting a new business should sit down and write out all the details of a financial plan before doing anything else. To: Shirley Haines From: Matthew Rockwell Subject: Financial planning Attach: Financial Plans for Small Businesses Shirley, Have you seen the attached article on financial planning? It appeared in this week's issue of Small Business Owner magazine. It has given me a new perspective on things. I can't believe we have already been running our business for six months, but we still haven't sat down together to write out a financial plan. Overall, I believe our business is doing well, and we certainly have enough clients. But, I now understand that our future success depends on having a good financial plan. We need to project our earnings for the next year and set financial targets. We should get to work on this right away. Can we meet tomorrow afternoon? Three o'clock is a good time for me. Let me know soon. Matthew",
+        "questions": [
+          {
+            "number": 19,
+            "question": "According to the article, why do most small businesses fail?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Lack of financial planning."
+              },
+              {
+                "label": "B",
+                "text": "Lack of adequate office space."
+              },
+              {
+                "label": "C",
+                "text": "Lack of qualified staff."
+              },
+              {
+                "label": "D",
+                "text": "Lack of adequate funds."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "Why did Matthew write the e-mail message?",
+            "options": [
+              {
+                "label": "A",
+                "text": "He wants to start a small business with Shirley."
+              },
+              {
+                "label": "B",
+                "text": "He is writing an article for a magazine."
+              },
+              {
+                "label": "C",
+                "text": "He wants to make a financial plan."
+              },
+              {
+                "label": "D",
+                "text": "He is looking for new clients."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "When does Matthew want to meet with Shirley?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Tomorrow."
+              },
+              {
+                "label": "B",
+                "text": "Next week."
+              },
+              {
+                "label": "C",
+                "text": "In six months."
+              },
+              {
+                "label": "D",
+                "text": "Next year."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word typically in line 3 of the article is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "unfortunately"
+              },
+              {
+                "label": "B",
+                "text": "usually"
+              },
+              {
+                "label": "C",
+                "text": "really"
+              },
+              {
+                "label": "D",
+                "text": "sadly"
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word perspective in line 4 of the e-mail is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "information"
+              },
+              {
+                "label": "B",
+                "text": "advice"
+              },
+              {
+                "label": "C",
+                "text": "goal"
+              },
+              {
+                "label": "D",
+                "text": "view"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What is the woman doing?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Developing a project report."
+          },
+          {
+            "label": "B",
+            "text": "Preparing a financial statement."
+          },
+          {
+            "label": "C",
+            "text": "Making a weather forecast."
+          },
+          {
+            "label": "D",
+            "text": "Writing an expense report."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "When does she want to have this finished?",
+        "options": [
+          {
+            "label": "A",
+            "text": "By noon."
+          },
+          {
+            "label": "B",
+            "text": "Before 8:00."
+          },
+          {
+            "label": "C",
+            "text": "By the end of the week."
+          },
+          {
+            "label": "D",
+            "text": "Before the end of the year."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the man offer to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Write a check."
+          },
+          {
+            "label": "B",
+            "text": "Sign a statement."
+          },
+          {
+            "label": "C",
+            "text": "Solve her financial problems."
+          },
+          {
+            "label": "D",
+            "text": "Correct her calculations."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "Who is this talk directed at?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Large companies."
+          },
+          {
+            "label": "B",
+            "text": "Financial advisors."
+          },
+          {
+            "label": "C",
+            "text": "Small business owners."
+          },
+          {
+            "label": "D",
+            "text": "Finance companies."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "When does a business typically become profitable?",
+        "options": [
+          {
+            "label": "A",
+            "text": "During the first five years."
+          },
+          {
+            "label": "B",
+            "text": "During the first year."
+          },
+          {
+            "label": "C",
+            "text": "After five years."
+          },
+          {
+            "label": "D",
+            "text": "After two years."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "According to the speaker, what is the first step to take when starting a small business?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Get an office with a key."
+          },
+          {
+            "label": "B",
+            "text": "Write a financial statement."
+          },
+          {
+            "label": "C",
+            "text": "Raise start-up funds."
+          },
+          {
+            "label": "D",
+            "text": "Hire a project manager."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. What is the woman doing? (A) Developing a project report. (B) Preparing a financial statement. (C) Making a weather forecast. (D) Writing an expense report. 5. When does she want to have this finished? (A) By noon. (B) Before 8:00. (C) By the end of the week. (D) Before the end of the year. 6. What does the man offer to do? (A) Write a check. (B) Sign a statement. (C) Solve her financial problems. (D) Correct her calculations. Listen to the talk. Then read each question and choose the best answer. 7. Who is this talk directed at? (A) Large companies. (B) Financial advisors. (C) Small business owners. (D) Finance companies. 8. When does a business typically become profitable? (A) During the first five years. (B) During the first year. (C) After five years. (D) After two years. 9. According to the speaker, what is the first step to take when starting a small business? (A) Get an office with a key. (B) Write a financial statement. (C) Raise start-up funds. (D) Hire a project manager.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What is the woman doing?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Developing a project report."
+          },
+          {
+            "label": "B",
+            "text": "Preparing a financial statement."
+          },
+          {
+            "label": "C",
+            "text": "Making a weather forecast."
+          },
+          {
+            "label": "D",
+            "text": "Writing an expense report."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "When does she want to have this finished?",
+        "options": [
+          {
+            "label": "A",
+            "text": "By noon."
+          },
+          {
+            "label": "B",
+            "text": "Before 8:00."
+          },
+          {
+            "label": "C",
+            "text": "By the end of the week."
+          },
+          {
+            "label": "D",
+            "text": "Before the end of the year."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the man offer to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Write a check."
+          },
+          {
+            "label": "B",
+            "text": "Sign a statement."
+          },
+          {
+            "label": "C",
+            "text": "Solve her financial problems."
+          },
+          {
+            "label": "D",
+            "text": "Correct her calculations."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "Who is this talk directed at?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Large companies."
+          },
+          {
+            "label": "B",
+            "text": "Financial advisors."
+          },
+          {
+            "label": "C",
+            "text": "Small business owners."
+          },
+          {
+            "label": "D",
+            "text": "Finance companies."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "When does a business typically become profitable?",
+        "options": [
+          {
+            "label": "A",
+            "text": "During the first five years."
+          },
+          {
+            "label": "B",
+            "text": "During the first year."
+          },
+          {
+            "label": "C",
+            "text": "After five years."
+          },
+          {
+            "label": "D",
+            "text": "After two years."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "According to the speaker, what is the first step to take when starting a small business?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Get an office with a key."
+          },
+          {
+            "label": "B",
+            "text": "Write a financial statement."
+          },
+          {
+            "label": "C",
+            "text": "Raise start-up funds."
+          },
+          {
+            "label": "D",
+            "text": "Hire a project manager."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "Study the following definitions and examples.\n\n1. desire v., to wish for\n\na. We desire to have our own home.\n\nb. He desires to retire when he becomes forty.\n\n2. detail v., to report or relate minutely or in particulars a. The office manager detailed each step of the inventory process at the staff meeting.\n\nb. Fabio created a financial statement that detailed every expected expenditure for the next quarter.\n\n3. forecast n., a prediction of a future event; v., to estimate or calculate in advance\n\na. The financial forecast indicates a deficit in the next quarter.\n\nb. Analysts forecast a strong economic outlook.\n\n4. level n., a relative position or rank on a scale\n\na. We have never had an accountant work at such a sophisticated level before.\n\nb. The meeting was only open to staff at the assistant director level or higher.\n\n5. overall adj., regarded as a whole; general\n\na. The company's overall expectations were out of proportion.\n\nb. Overall, our costs are running true to prediction.\n\n6. perspective n., a mental view or outlook a. The budget statement will give the manager some perspective on where the costs of running the business are to be found.\n\nb. Joseph's accountant gave him some perspective as well as some data on how much he could expect to earn in his first year in business.\n\n7. project v., to estimate or predict\n\na. We need to project our earnings and expenses in order to plan next year's budget.\n\nb. The director projects that the company will need to hire ten new employees this year.\n\n8. realistic adj., tending to or expressing an awareness of things as they really are\n\na. Stefano found that an accurate accounting gave him a realistic idea of his business's financial direction.\n\nb. Realistic expectations are important when you review your financial statements.\n\n9. target v., to establish as a goal; n., a goal\n\na. We targeted March as the deadline for completing the financial statement.\n\nb. Most managers target desired income as the primary criterion for success.\n\n10. translation n., the act or process of translating\n\na. The translation of the statement from Japanese into English was very helpful.\n\nb. The accountant was able to provide a translation of the economic terms used in the meeting.\n\n11. typically adv., acting in conformity to a type; characteristically a. Office expenses typically include such things as salaries, rent, and office supplies.\n\nb. The director typically dominates the staff meetings.\n\n12. yield n., an amount produced; v., to produce a profit a. Henry's budget gave him the desired yield: a better indication of his expected profit.\n\nb. The company's investment yielded high returns.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\ndesired level projected translate  \ndetailed overall realistic typical  \nforecasts perspective target yield\n\nA business budget focuses on future profits and future capital requirements. A budget can help the business owner determine the amount of profit the business is expected to make, the amount of sales it will take to reach a goal, and what (1) \\_\\_\\_\\_ of expenses are attached to those sales. A business establishes a (2) \\_\\_\\_\\_, a goal to work toward. A business (3) \\_\\_\\_\\_ the sales that will be needed to reach this target.\n\nProjecting or planning ahead is part of (4) \\_\\_\\_\\_ business planning. When creating a (5) \\_\\_\\_\\_ income statement, a business owner tries to determine how to reach the (6) \\_\\_\\_\\_ target. The annual profit must be sufficient to (7) \\_\\_\\_\\_ the owner a return for his or her time spent operating the business, plus a return on the investment. The owner's target income is the sum of a reasonable salary for the time spent running the business and a normal return on the amount invested in the firm.\n\nAfter projecting the income needed, the business owner has to (8) \\_\\_\\_\\_ the target profit into a net sales figure for the forecasted period. The owner has to determine whether this sales volume is (9) \\_\\_\\_\\_. One useful technique is to break down the required annual sales into a daily sales figure to get a better (10) \\_\\_\\_\\_ of the sales required to yield the annual profit.\n\nAt this stage in the financial plan, the owner should create a (11) \\_\\_\\_\\_ picture of the firm's expected operating expenses. Many books and business organizations give (12) \\_\\_\\_\\_ operating statistics data, based on a percentage of net sales. The business's accountant can help you assign dollar values to anticipated expenses.\n\nDeveloping a projected income statement is an important part of any financial plan, as the process forces the business owner to examine the firm's future profitability.",
+    "word_families": "## WORD FAMILIES\n\n<table><tr><td>verb</td><td>desire</td><td>Our manager is trying to predict how many customers will desire our product over the next quarter.</td></tr><tr><td>noun</td><td>desire</td><td>Her desire for greater control of the business led her to discuss her need for more information with her accountant.</td></tr><tr><td>adject.</td><td>desirable</td><td>The category summary, while desirable, was time-consuming to prepare.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td></td><td>detail</td><td>The job description details all the duties of this position.</td></tr><tr><td>noun</td><td>detail</td><td>The budget report needs to be accurate down to the last detail.</td></tr><tr><td>adject.</td><td>detailed</td><td>The director asked for a detailed description of our meeting.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>project</td><td>The budget summary helped us project our expenditures for the year.</td></tr><tr><td>noun</td><td>project</td><td>The financial project was time-consuming and challenging.</td></tr><tr><td>noun</td><td>projection</td><td>Maurice&#x27;s projections for the upcoming fiscal year were not as helpful as we had hoped.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>realize</td><td>The plan helps her realize her dream of having the business turn a profit.</td></tr><tr><td>noun</td><td>reality</td><td>The financial statement reinforced the reality that our business is in deep trouble.</td></tr><tr><td>adjective</td><td>realistic</td><td>The accountant needs realistic numbers on which to base his plan.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>translate</td><td>The computer was able to translate data from the created spreadsheet into the spreadsheet program I prefer.</td></tr><tr><td></td><td>translation</td><td>The translation of the document was provided at no charge.</td></tr><tr><td></td><td>translatable</td><td>The data was not translatable between programs and had to be entered by hand, which took hours.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td></td><td>type</td><td>This type of business requires a lot of start-up money.</td></tr><tr><td></td><td>typical</td><td>Part of a category summary is defining the expenses that are typical of the business in question.</td></tr><tr><td></td><td>typically</td><td>Typically, we finished preparing the budget just in time to meet the deadline.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION - - -\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. What is the woman doing?\n(A) Developing a project report.\n(B) Preparing a financial statement.\n(C) Making a weather forecast.\n(D) Writing an expense report.\n\n5. When does she want to have this finished?\n(A) By noon.\n(B) Before 8:00.\n(C) By the end of the week.\n(D) Before the end of the year.\n\n6. What does the man offer to do?\n(A) Write a check.\n(B) Sign a statement.\n(C) Solve her financial problems.\n(D) Correct her calculations.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. Who is this talk directed at?\n(A) Large companies.\n(B) Financial advisors.\n(C) Small business owners.\n(D) Finance companies.\n\n8. When does a business typically become profitable?\n(A) During the first five years.\n(B) During the first year.\n(C) After five years.\n(D) After two years.\n\n9. According to the speaker, what is the first step to take when starting a small business?\n(A) Get an office with a key.\n(B) Write a financial statement.\n(C) Raise start-up funds.\n(D) Hire a project manager.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. Before we begin, I think we should all focus on the \\_\\_\\_\\_ outcome of this effort.\n(A) desirableness (C) desired\n(B) desire (D) desirability\n\n11. The accountant can review all the \\_\\_\\_\\_ of the financial statement with you.\n(A) detailed (C) details\n(B) detailing (D) detail\n\n12. The \\_\\_\\_\\_ figures for the next quarter will not be available until a week from tomorrow.\n(A) project (C) projection\n(B) projected (D) projects\n\n13. The projected financial statement demonstrated to Susan that her business had a \\_\\_\\_\\_ chance of increasing its profit over the next two quarters.\n(A) realistic (C) realistically\n(B) realist (D) reality\n\n14. To create our financial strategy, our consultant took the experiences of similar businesses and \\_\\_\\_\\_ relevant outcomes to our situation.\n(A) translatable (C) translator\n(B) translation (D) translated\n\n15. Our business experienced a \\_\\_\\_\\_ fall in profits during the third quarter of the year.\n(A) typical (C) type\n(B) typically (D) typed\n\n## Part 6 Text Completion\n\nTo: Department Heads  \nFrom: Roy Jones, Manager  \nRe: Planning Meeting\n\n## Memo\n\nAs you know, our quarterly planning meeting will take place in two weeks. I want to let you know some of the topics that will be discussed, to give you a chance to prepare.\n\nFirst, the overall economic situation in the country looks very good for the coming year. Economists \\_16\\_ an increase in consumer spending, especially in our sector. Therefore, we should look into increasing production. I believe that a 15 percent increase by the end of the year is a realistic target.\n\nSecond, since the company plans to increase sales overseas, we will need to hire several \\_17\\_. We will need to discuss how many we need and which languages should have priority.\n\nThese are the most important topics for the meeting. If anyone \\_18\\_ to put a special item on the meeting agenda, please let me know by the beginning of next week.\n\n16. (A) foreclose  \n(B) forebode  \n(C) forego  \n(D) forecast\n\n17. (A) translators (B) translates (C) translations (D) transports\n\n18. (A) desire  \n(B) desires  \n(C) will desire  \n(D) have desired",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following article and e-mail message.\n\nDo you have a sound financial plan for your small business? You should. The majority of small businesses fail during the first five years, typically because they have not made realistic financial plans. A new business owner may start out with the necessary funds, a qualified staff, and office space and equipment. These things may not save the business from disaster, however, if the business owner hasn't set realistic targets and made plans to reach them. Everyone who contemplates starting a new business should sit down and write out all the details of a financial plan before doing anything else.\n\n19. According to the article, why do most small businesses fail?\n(A) Lack of financial planning.\n(B) Lack of adequate office space.\n(C) Lack of qualified staff.\n(D) Lack of adequate funds.\n\n20. Why did Matthew write the e-mail message?\n(A) He wants to start a small business with Shirley.\n(B) He is writing an article for a magazine.\n(C) He wants to make a financial plan.\n(D) He is looking for new clients.\n\n21. When does Matthew want to meet with Shirley?\n(A) Tomorrow.\n(B) Next week.\n(C) In six months.\n(D) Next year.\n\nTo: Shirley Haines  \nFrom: Matthew Rockwell  \nSubject: Financial planning  \nAttach: Financial Plans for Small Businesses\n\nShirley,\n\nHave you seen the attached article on financial planning? It appeared in this week's issue of Small Business Owner magazine. It has given me a new perspective on things. I can't believe we have already been running our business for six months, but we still haven't sat down together to write out a financial plan. Overall, I believe our business is doing well, and we certainly have enough clients. But, I now understand that our future success depends on having a good financial plan. We need to project our earnings for the next year and set financial targets. We should get to work on this right away. Can we meet tomorrow afternoon? Three o'clock is a good time for me. Let me know soon.\n\nMatthew\n\n22. The word typically in line 3 of the article is closest in meaning to  \n(A) unfortunately  \n(B) usually  \n(C) really  \n(D) sadly\n\n23. The word perspective in line 4 of the e-mail is closest in meaning to  \n(A) information  \n(B) advice  \n(C) goal  \n(D) view"
+  },
+  "needs_review": true
+}

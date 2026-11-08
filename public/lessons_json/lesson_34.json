@@ -1,0 +1,1620 @@
+{
+  "lesson_id": 34,
+  "title": "Cooking as a Career",
+  "theme_name": "Restaurants and Events",
+  "audio_track": "track_34.mp3",
+  "part1_photo": "part1_photos/lesson_34.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "accustom to",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to become familiar with, to become used to",
+      "definition_vi": "làm cho quen với, tập quen với",
+      "examples": [
+        {
+          "en": "Chefs must accustom themselves to working long hours. ac, ... to",
+          "vi": "Các đầu bếp phải tự làm quen với việc làm việc nhiều giờ liền."
+        },
+        {
+          "en": "It can be hard to accustom oneself to eating new types of food.",
+          "vi": "Có thể sẽ khá khó khăn để tập làm quen với việc ăn những loại thực phẩm mới."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "accustom to",
+          "example": "Shirley could not accustom herself to the demands of her new job."
+        },
+        {
+          "pos": "",
+          "word": "custom",
+          "example": "It is the custom at this restaurant to offer free meals to patrons on their birthdays."
+        },
+        {
+          "pos": "",
+          "word": "accustomed to",
+          "example": "Janet has become accustomed to eating spicy food."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "accustom oneself to",
+        "be accustomed to",
+        "become accustomed to",
+        "customary practice"
+      ],
+      "usage": {
+        "structures": [
+          "accustom oneself to + N/V-ing (tự làm quen với việc gì)",
+          "be/become/get accustomed to + N/V-ing (quen với việc gì)"
+        ],
+        "prepositions": [
+          "to"
+        ],
+        "collocations": [
+          "be accustomed to working",
+          "grow accustomed to",
+          "local customs",
+          "as is customary"
+        ],
+        "tip": "Bẫy kinh điển của Part 5 TOEIC: Trong cấu trúc 'be/get accustomed to' hoặc 'accustom oneself to', từ 'to' là GIỚI TỪ nên theo sau bắt buộc phải là V-ing hoặc Danh từ (không dùng V nguyên mẫu)!"
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "customary",
+          "example": "In many countries, it is customary to leave a 15 percent tip for good table service.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "customarily",
+          "example": "The head chef customarily greets VIP guests in the dining room after dinner.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "New kitchen trainees quickly become _____ to the fast-paced environment of a commercial restaurant.",
+        "answer": "accustomed",
+        "base_word": "accustom to",
+        "pos_hint": "tính từ / phân từ hai V-ed",
+        "vi": "Những thực tập sinh nhà bếp mới nhanh chóng trở nên quen thuộc với môi trường nhịp độ nhanh của một nhà hàng thương mại."
+      }
+    },
+    {
+      "id": 2,
+      "word": "apprentice",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a student worker in a chosen field",
+      "definition_vi": "người học việc, thực tập sinh nghề; cho học việc",
+      "examples": [
+        {
+          "en": "Instead of attending cooking school, Raul chose to work as an apprentice with an experienced chef.",
+          "vi": "Thay vì theo học trường dạy nấu ăn, Raul đã chọn làm người học việc cho một đầu bếp giàu kinh nghiệm."
+        },
+        {
+          "en": "The cooking school has an apprentice program that places students in restaurants to gain work experience.",
+          "vi": "Trường dạy nấu ăn có một chương trình thực tập nghề giúp đưa học viên vào các nhà hàng để tích lũy kinh nghiệm làm việc."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "apprentice",
+          "example": "Instead of attending cooking school, Michael decided to apprentice to a master chef."
+        },
+        {
+          "pos": "",
+          "word": "apprentice",
+          "example": "The new group of apprentices will start working any day now."
+        },
+        {
+          "pos": "noun",
+          "word": "apprenticeship",
+          "example": "The apprenticeship was a grueling period, but George learned a lot."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "work as an apprentice",
+        "apprentice chef",
+        "serve an apprenticeship",
+        "apprentice program"
+      ],
+      "usage": {
+        "structures": [
+          "work as an apprentice (with/under somebody) (làm người học việc cho ai)",
+          "apprentice to somebody (theo học việc với ai)"
+        ],
+        "prepositions": [
+          "to",
+          "with",
+          "under"
+        ],
+        "collocations": [
+          "culinary apprentice",
+          "complete an apprenticeship",
+          "two-year apprenticeship",
+          "hire an apprentice"
+        ],
+        "tip": "Phân biệt hai danh từ: 'apprentice' là danh từ chỉ người (người học việc), còn 'apprenticeship' là danh từ chỉ kỳ học việc hoặc chương trình học nghề."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "apprenticeship",
+          "example": "She successfully completed a three-year apprenticeship as a pastry chef.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "verb",
+          "word": "apprentice",
+          "example": "Young cooks are often apprenticed to master chefs in renowned restaurants.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "apprenticed",
+          "example": "The apprenticed mechanics were carefully supervised by the shop manager.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Before opening her own patisserie, Ms. Laurent completed a rigorous three-year _____ in Paris.",
+        "answer": "apprenticeship",
+        "base_word": "apprentice",
+        "pos_hint": "danh từ (chỉ kỳ/chương trình học việc)",
+        "vi": "Trước khi mở tiệm bánh ngọt của riêng mình, cô Laurent đã hoàn thành kỳ học việc ba năm đầy khắt khe tại Paris."
+      }
+    },
+    {
+      "id": 3,
+      "word": "culinary",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "relating to the kitchen or cooking",
+      "definition_vi": "thuộc về nấu nướng, thuộc về ẩm thực",
+      "examples": [
+        {
+          "en": "The chef was widely known for his culinary artistry.",
+          "vi": "Người đầu bếp được biết đến rộng rãi nhờ nghệ thuật ẩm thực tinh tế của mình."
+        },
+        {
+          "en": "His interest in culinary arts drew him to a commercial foods program.",
+          "vi": "Niềm yêu thích nghệ thuật ẩm thực đã thu hút anh ấy đến với một chương trình đào tạo thực phẩm thương mại."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "culinary arts",
+        "culinary skills",
+        "culinary school",
+        "culinary delights"
+      ],
+      "usage": {
+        "structures": [
+          "culinary + N (arts, skills, institute, experience, masterpiece)"
+        ],
+        "prepositions": [
+          "in"
+        ],
+        "collocations": [
+          "culinary institute",
+          "culinary expertise",
+          "culinary tradition",
+          "culinary career"
+        ],
+        "tip": "'Culinary' là tính từ chuyên biệt chỉ đứng trước danh từ để nói về những gì liên quan đến bếp núc và nghệ thuật nấu ăn (culinary arts / culinary school)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "culinary",
+          "example": "Graduates of the culinary academy are highly sought after by luxury hotels.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The city's annual food festival gives young chefs an opportunity to showcase their _____ talents.",
+        "answer": "culinary",
+        "base_word": "culinary",
+        "pos_hint": "tính từ",
+        "vi": "Lễ hội ẩm thực thường niên của thành phố mang đến cho các đầu bếp trẻ cơ hội thể hiện tài năng nấu nướng của mình."
+      }
+    },
+    {
+      "id": 4,
+      "word": "demand",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to require",
+      "definition_vi": "đòi hỏi, yêu cầu; nhu cầu",
+      "examples": [
+        {
+          "en": "Theodore was always exhausted because his new job at the restaurant demanded so much of him.",
+          "vi": "Theodore luôn kiệt sức vì công việc mới tại nhà hàng đòi hỏi quá nhiều ở anh ấy."
+        },
+        {
+          "en": "This style of cooking demands many exotic ingredients and a lot of preparation time.",
+          "vi": "Phong cách nấu ăn này đòi hỏi nhiều nguyên liệu ngoại nhập và rất nhiều thời gian chuẩn bị."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "demand",
+          "example": "The head chef demands a lot from his assistants."
+        },
+        {
+          "pos": "",
+          "word": "demand",
+          "example": "Pierre could not keep up with the many demands of the customers."
+        },
+        {
+          "pos": "",
+          "word": "demanding",
+          "example": "Working as a chef is a very demanding job."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "in high demand",
+        "meet the demand",
+        "demanding job",
+        "supply and demand"
+      ],
+      "usage": {
+        "structures": [
+          "demand something from/of somebody (đòi hỏi điều gì ở ai)",
+          "demand for something (nhu cầu đối với cái gì)"
+        ],
+        "prepositions": [
+          "for",
+          "on",
+          "of",
+          "from",
+          "in"
+        ],
+        "collocations": [
+          "be in great demand",
+          "keep up with demand",
+          "a demanding schedule",
+          "on demand"
+        ],
+        "tip": "Tính từ 'demanding' xuất hiện rất nhiều trong TOEIC với nghĩa 'đòi hỏi khắt khe, vất vả' (a demanding job/boss/client)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "demandingly",
+          "example": "The head chef spoke demandingly to the kitchen staff during the dinner rush.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Although managing a busy hotel kitchen is extremely _____, it can also be a very rewarding career.",
+        "answer": "demanding",
+        "base_word": "demand",
+        "pos_hint": "tính từ (mang nghĩa đòi hỏi cao/vất vả)",
+        "vi": "Mặc dù việc quản lý một gian bếp khách sạn bận rộn là vô cùng vất vả, nhưng đó cũng có thể là một sự nghiệp rất đáng giá."
+      }
+    },
+    {
+      "id": 5,
+      "word": "draw",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to cause to come by attracting",
+      "definition_vi": "thu hút, lôi cuốn; kéo, rút ra",
+      "examples": [
+        {
+          "en": "We hope the new restaurant will draw other business to the area.",
+          "vi": "Chúng tôi hy vọng nhà hàng mới sẽ thu hút thêm các hoạt động kinh doanh khác đến khu vực này."
+        },
+        {
+          "en": "Matthew was drawn to a career in cooking.",
+          "vi": "Matthew bị thu hút bởi sự nghiệp nấu ăn."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "draw a crowd",
+        "be drawn to",
+        "draw attention to",
+        "draw a conclusion"
+      ],
+      "usage": {
+        "structures": [
+          "draw somebody to something (thu hút ai đến với cái gì)",
+          "be drawn to something (bị cuốn hút bởi cái gì)"
+        ],
+        "prepositions": [
+          "to",
+          "into",
+          "from"
+        ],
+        "collocations": [
+          "draw customers",
+          "draw attention",
+          "a major draw",
+          "draw up a contract"
+        ],
+        "tip": "Chú ý 3 dạng bất quy tắc: 'draw - drew - drawn'. Khi dùng nghĩa 'thu hút' (= attract), nó thường đi với giới từ 'to' (be drawn to a career)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "draw",
+          "example": "The outdoor patio draws hundreds of diners during the warm summer months.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "draw",
+          "example": "The celebrity chef's demonstration was the biggest draw at the culinary expo.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "drawn",
+          "example": "Many creative individuals feel naturally drawn to the pastry arts.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The newly renovated waterfront café has _____ a large number of tourists since it reopened last month.",
+        "answer": "drawn",
+        "base_word": "draw",
+        "pos_hint": "động từ chia quá khứ phân từ V3 (của draw)",
+        "vi": "Quán cà phê ven sông mới được cải tạo đã thu hút một lượng lớn khách du lịch kể từ khi mở cửa trở lại vào tháng trước."
+      }
+    },
+    {
+      "id": 6,
+      "word": "incorporate",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to unite one thing with something else already in existence",
+      "definition_vi": "kết hợp, tích hợp, đưa vào",
+      "examples": [
+        {
+          "en": "Coca incorporated the patron's suggestions into her new menu.",
+          "vi": "Coca đã đưa những gợi ý của khách hàng vào thực đơn mới của cô ấy."
+        },
+        {
+          "en": "Here are the fresh greens for you to incorporate into a salad.",
+          "vi": "Đây là rau xanh tươi để bạn kết hợp vào món salad."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "incorporate",
+          "example": "Take these items and incorporate them into a stew."
+        },
+        {
+          "pos": "",
+          "word": "incorporation",
+          "example": "The restaurant was the incorporation of every good idea the chef had thought of in his career."
+        },
+        {
+          "pos": "",
+          "word": "incorporating",
+          "example": "Chef Tao was famous for incorporating different cooking styles into one."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "incorporate into",
+        "incorporate feedback",
+        "incorporate new features",
+        "newly incorporated"
+      ],
+      "usage": {
+        "structures": [
+          "incorporate A into/in B (tích hợp/đưa A vào trong B)"
+        ],
+        "prepositions": [
+          "into",
+          "in",
+          "with"
+        ],
+        "collocations": [
+          "incorporate suggestions into",
+          "incorporate local ingredients",
+          "articles of incorporation",
+          "incorporate changes"
+        ],
+        "tip": "Động từ 'incorporate' hầu như luôn đi kèm giới từ 'into' (incorporate A into B: kết hợp/đưa A vào B); ngoài ra trong kinh doanh 'incorporated (Inc.)' còn có nghĩa là 'được thành lập công ty cổ phần'."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "incorporated",
+          "example": "The recipe features locally grown herbs incorporated into a rich butter sauce.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The revised training manual reflectively _____ several safety recommendations made by the kitchen staff.",
+        "answer": "incorporates",
+        "base_word": "incorporate",
+        "pos_hint": "động từ chia hiện tại đơn ngôi thứ 3 số ít",
+        "vi": "Cẩm nang đào tạo sửa đổi đã tích hợp một số khuyến nghị an toàn do nhân viên nhà bếp đưa ra."
+      }
+    },
+    {
+      "id": 7,
+      "word": "influx",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a flowing in",
+      "definition_vi": "sự đổ bộ, dòng người/vật ồ ạt đổ vào",
+      "examples": [
+        {
+          "en": "An influx of new chefs is constantly needed to fill open jobs.",
+          "vi": "Một làn sóng các đầu bếp mới luôn cần thiết để lấp đầy các vị trí tuyển dụng còn trống."
+        },
+        {
+          "en": "Due to the rise in popularity of cooking as a career, cooking schools report an influx of applications.",
+          "vi": "Do nghề đầu bếp ngày càng được ưa chuộng, các trường dạy nấu ăn ghi nhận một lượng lớn hồ sơ đăng ký đổ về."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "an influx of tourists",
+        "an influx of applications",
+        "sudden influx",
+        "massive influx"
+      ],
+      "usage": {
+        "structures": [
+          "an influx of + N số nhiều / N không đếm được (một lượng lớn ... đổ vào)"
+        ],
+        "prepositions": [
+          "of",
+          "into"
+        ],
+        "collocations": [
+          "an influx of visitors",
+          "an influx of capital",
+          "handle the influx",
+          "seasonal influx"
+        ],
+        "tip": "'An influx of + N' là cụm cố định chỉ một lượng lớn khách du lịch, đơn từ, hoặc tiền vốn tràn vào cùng một lúc."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "influx",
+          "example": "Downtown restaurants hired extra servers to prepare for the summer influx of tourists.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The opening of the convention center brought a steady _____ of business travelers to nearby hotels and restaurants.",
+        "answer": "influx",
+        "base_word": "influx",
+        "pos_hint": "danh từ",
+        "vi": "Việc khai trương trung tâm hội nghị đã mang lại một dòng khách doanh nhân đổ về đều đặn cho các khách sạn và nhà hàng gần đó."
+      }
+    },
+    {
+      "id": 8,
+      "word": "method",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a procedure",
+      "definition_vi": "phương pháp, cách thức, quy trình",
+      "examples": [
+        {
+          "en": "Gloria perfected a simple method for making croissants.",
+          "vi": "Gloria đã hoàn thiện một phương pháp đơn giản để làm bánh sừng bò."
+        },
+        {
+          "en": "Many chefs borrow cooking methods from a variety of cultures and incorporate them into their cooking style.",
+          "vi": "Nhiều đầu bếp học hỏi các phương pháp nấu ăn từ nhiều nền văn hóa khác nhau và kết hợp chúng vào phong cách nấu nướng của mình."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "method",
+          "example": "The chef discovered a more efficient method of peeling boiled eggs."
+        },
+        {
+          "pos": "noun",
+          "word": "methodology",
+          "example": "Even the order of adding ingredients is an unappreciated aspect of cooking methodology."
+        },
+        {
+          "pos": "",
+          "word": "methodical",
+          "example": "The head cook was not so artistic as methodical in preparing standard dishes."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "cooking method",
+        "payment method",
+        "efficient method",
+        "methodical approach"
+      ],
+      "usage": {
+        "structures": [
+          "a method of/for doing something (phương pháp làm việc gì)",
+          "methodical in doing something (ngăn nắp, có phương pháp trong việc gì)"
+        ],
+        "prepositions": [
+          "of",
+          "for",
+          "in"
+        ],
+        "collocations": [
+          "preferred payment method",
+          "traditional methods",
+          "develop a method",
+          "methodical preparation"
+        ],
+        "tip": "Danh từ 'method' đi với giới từ 'of' hoặc 'for' (a method of/for V-ing); tính từ 'methodical' mang nghĩa 'có trật tự, bài bản, cẩn thận'."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "methodically",
+          "example": "The pastry chef methodically measured each ingredient before mixing the dough.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "To ensure consistent quality across all branches, every cook must follow a _____ step-by-step recipe.",
+        "answer": "methodical",
+        "base_word": "method",
+        "pos_hint": "tính từ",
+        "vi": "Để đảm bảo chất lượng đồng nhất trên tất cả các chi nhánh, mỗi đầu bếp phải tuân theo một công thức từng bước bài bản."
+      }
+    },
+    {
+      "id": 9,
+      "word": "outlet",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a means of release or gratification, as for energies, drives, or desires",
+      "definition_vi": "lối thoát, phương tiện giải tỏa (cảm xúc/sự sáng tạo); cửa hàng tiêu thụ, ổ cắm điện",
+      "examples": [
+        {
+          "en": "Even before he became a professional baker, Jacob used baking as an outlet for frustration.",
+          "vi": "Ngay cả trước khi trở thành một thợ làm bánh chuyên nghiệp, Jacob đã dùng việc nướng bánh như một cách để giải tỏa sự căng thẳng."
+        },
+        {
+          "en": "Many people find cooking to be a hands-on outlet for their creativity.",
+          "vi": "Nhiều người nhận thấy nấu ăn là một phương tiện thực tế để thể hiện sự sáng tạo của họ."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "an outlet for creativity",
+        "retail outlet",
+        "factory outlet",
+        "electrical outlet"
+      ],
+      "usage": {
+        "structures": [
+          "an outlet for + N (emotion, energy, creativity: phương tiện giải tỏa/thể hiện...)",
+          "retail/food outlet (cửa hàng bán lẻ/điểm bán đồ ăn)"
+        ],
+        "prepositions": [
+          "for"
+        ],
+        "collocations": [
+          "creative outlet",
+          "retail outlets",
+          "media outlet",
+          "wall outlet"
+        ],
+        "tip": "Từ 'outlet' có 3 nghĩa rất hay gặp trong TOEIC: (1) phương tiện giải tỏa/thể hiện (an outlet for creativity), (2) cửa hàng phân phối/bán lẻ (retail outlet), và (3) ổ cắm điện (power/electrical outlet)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "outlet",
+          "example": "The fast-food chain plans to open twenty new retail outlets across the region.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "In addition to its flagship restaurant, the bakery operates five smaller retail _____ in local shopping malls.",
+        "answer": "outlets",
+        "base_word": "outlet",
+        "pos_hint": "danh từ số nhiều (chỉ cửa hàng bán lẻ)",
+        "vi": "Ngoài nhà hàng chính của mình, tiệm bánh còn vận hành năm cửa hàng bán lẻ nhỏ hơn tại các trung tâm mua sắm địa phương."
+      }
+    },
+    {
+      "id": 10,
+      "word": "profession",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an occupation requiring considerable training and specialized study",
+      "definition_vi": "nghề nghiệp (đòi hỏi đào tạo chuyên môn), giới chuyên môn",
+      "examples": [
+        {
+          "en": "Cooking is considered as much a profession as is law or medicine.",
+          "vi": "Nấu ăn cũng được coi là một nghề chuyên môn chẳng kém gì ngành luật hay y khoa."
+        },
+        {
+          "en": "Lulu took up cooking as her profession and is very happy with her decision.",
+          "vi": "Lulu đã chọn nấu ăn làm nghề nghiệp của mình và rất hạnh phúc với quyết định đó."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "profession",
+          "example": "The number of people choosing cooking as a profession has risen over the past decade."
+        },
+        {
+          "pos": "",
+          "word": "professional",
+          "example": "She was professional in her approach to dealing with the problem of late deliveries."
+        },
+        {
+          "pos": "",
+          "word": "professionally",
+          "example": "Although the customer was rude and loud, the waiter handled the situation very professionally."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "medical profession",
+        "culinary profession",
+        "by profession",
+        "enter a profession"
+      ],
+      "usage": {
+        "structures": [
+          "choose/enter a profession (chọn/bước chân vào một nghề)",
+          "by profession (về nghề nghiệp, ví dụ: a chef by profession)"
+        ],
+        "prepositions": [
+          "in",
+          "by",
+          "of"
+        ],
+        "collocations": [
+          "the teaching profession",
+          "professional advice",
+          "highly professional",
+          "act professionally"
+        ],
+        "tip": "Lưu ý: 'Professional' vừa là tính từ (chuyên nghiệp) vừa là danh từ đếm được chỉ người (một chuyên gia/người làm nghề chuyên nghiệp, ví dụ: seasoned professionals)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "professionalize",
+          "example": "New certification standards helped professionalize the catering industry.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "professionalism",
+          "example": "The banquet staff was praised for their outstanding professionalism and courtesy.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Even when faced with last-minute menu changes, the catering team handled the event with complete _____.",
+        "answer": "professionalism",
+        "base_word": "profession",
+        "pos_hint": "danh từ (tác phong chuyên nghiệp)",
+        "vi": "Ngay cả khi đối mặt với những thay đổi thực đơn vào phút chót, đội ngũ phục vụ tiệc vẫn xử lý sự kiện với tác phong hoàn toàn chuyên nghiệp."
+      }
+    },
+    {
+      "id": 11,
+      "word": "relinquish",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to let go; to surrender",
+      "definition_vi": "từ bỏ, nhường lại, buông bỏ",
+      "examples": [
+        {
+          "en": "People find it hard to relinquish their accustomed food preferences and try something new.",
+          "vi": "Mọi người thường thấy khó từ bỏ sở thích ăn uống quen thuộc của mình để thử một món gì đó mới."
+        },
+        {
+          "en": "After Claude married Kiki, he had to relinquish his exclusive hold on the kitchen and learn to share the joys of cooking.",
+          "vi": "Sau khi Claude kết hôn với Kiki, anh ấy đã phải từ bỏ quyền độc chiếm căn bếp và học cách chia sẻ niềm vui nấu nướng."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "relinquish control",
+        "relinquish a position",
+        "relinquish a claim",
+        "relinquish power"
+      ],
+      "usage": {
+        "structures": [
+          "relinquish + N (control, hold, leadership, right) (to somebody)"
+        ],
+        "prepositions": [
+          "to"
+        ],
+        "collocations": [
+          "relinquish control of",
+          "relinquish ownership",
+          "relinquish responsibilities",
+          "reluctant to relinquish"
+        ],
+        "tip": "'Relinquish' là từ trang trọng đồng nghĩa với 'give up' hoặc 'hand over', thường đi kèm tân ngữ là 'control', 'leadership', 'title', 'rights'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "relinquish",
+          "example": "The founder decided to relinquish daily management of the restaurant chain to his daughter.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "relinquishment",
+          "example": "The contract requires the formal relinquishment of franchise rights upon termination.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "After thirty years as executive chef, Mr. Rossi _____ control of the kitchen to his most talented apprentice.",
+        "answer": "relinquished",
+        "base_word": "relinquish",
+        "pos_hint": "động từ chia quá khứ đơn V-ed",
+        "vi": "Sau ba mươi năm làm bếp trưởng điều hành, ông Rossi đã nhường lại quyền điều hành gian bếp cho người học trò tài năng nhất của mình."
+      }
+    },
+    {
+      "id": 12,
+      "word": "theme",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an implicit or recurrent idea; a motif",
+      "definition_vi": "chủ đề, đề tài chính",
+      "examples": [
+        {
+          "en": "The caterers prepared food for a party with a tropical island theme.",
+          "vi": "Đơn vị tổ chức tiệc đã chuẩn bị đồ ăn cho một bữa tiệc mang chủ đề đảo nhiệt đới."
+        },
+        {
+          "en": "The restaurant's food and decor demonstrated its southwestern theme.",
+          "vi": "Món ăn và cách bài trí của nhà hàng thể hiện rõ chủ đề miền Tây Nam của nó."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "central theme",
+        "theme restaurant",
+        "theme park",
+        "recurring theme"
+      ],
+      "usage": {
+        "structures": [
+          "a party/event with a ... theme (bữa tiệc/sự kiện mang chủ đề...)",
+          "the theme of the conference (chủ đề của hội nghị)"
+        ],
+        "prepositions": [
+          "of",
+          "for",
+          "on"
+        ],
+        "collocations": [
+          "conference theme",
+          "tropical theme",
+          "themed dinner",
+          "thematic decor"
+        ],
+        "tip": "Trong TOEIC, 'theme' rất hay xuất hiện trong ngữ cảnh chủ đề của hội nghị (conference theme) hoặc bữa tiệc/nhà hàng theo chủ đề (themed party / theme restaurant)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "theme",
+          "example": "Sustainability in food production is the main theme of this year's culinary summit.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "thematic",
+          "example": "The banquet hall features thematic lighting that changes with each course of the meal.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "thematically",
+          "example": "All five dining rooms are thematically decorated to represent different regions of Italy.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Each booth at the international food fair was _____ decorated to reflect the culture of its home country.",
+        "answer": "thematically",
+        "base_word": "theme",
+        "pos_hint": "trạng từ",
+        "vi": "Mỗi gian hàng tại hội chợ ẩm thực quốc tế đều được trang trí theo chủ đề để phản ánh văn hóa của quốc gia mình."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "When people start thinking about careers, they may be looking for an (1) ____ for their creativity. Many people are (2) ____ to cooking as a career and see it as a (3) ____, not merely a trade. The restaurant business is (4) ____ and needs a constant (5) ____ of new talent. Chefs (6) ____ ingredients and (7) ____ of cooking from around the world into successful menus. Most chefs offer meals that are variations on standard (8) ____. They will try to stretch their patrons' range of food tastes by taking food that is still recognized as traditional and infusing it with something new, like a rare spice or seasoning. People (9) ____ to certain tastes and textures aren't going to (10) ____ their preferences immediately. Chefs attend (11) ____ school or train in restaurants with experienced chefs, in an (12) ____. For those of you who like hands-on creativity, being a chef might be a good choice.",
+    "word_bank": [
+      "accustomed",
+      "demanding",
+      "influx",
+      "profession",
+      "apprenticeship",
+      "drawn",
+      "methods",
+      "relinquish",
+      "culinary",
+      "incorporate",
+      "outlet",
+      "themes"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "accustom to",
+        "example": "Shirley could not accustom herself to the demands of her new job.",
+        "pos": "verb"
+      },
+      {
+        "word": "custom",
+        "example": "It is the custom at this restaurant to offer free meals to patrons on their birthdays.",
+        "pos": ""
+      },
+      {
+        "word": "accustomed to",
+        "example": "Janet has become accustomed to eating spicy food.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "apprentice",
+        "example": "Instead of attending cooking school, Michael decided to apprentice to a master chef.",
+        "pos": "verb"
+      },
+      {
+        "word": "apprentice",
+        "example": "The new group of apprentices will start working any day now.",
+        "pos": ""
+      },
+      {
+        "word": "apprenticeship",
+        "example": "The apprenticeship was a grueling period, but George learned a lot.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "demand",
+        "example": "The head chef demands a lot from his assistants.",
+        "pos": ""
+      },
+      {
+        "word": "demand",
+        "example": "Pierre could not keep up with the many demands of the customers.",
+        "pos": ""
+      },
+      {
+        "word": "demanding",
+        "example": "Working as a chef is a very demanding job.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "incorporate",
+        "example": "Take these items and incorporate them into a stew.",
+        "pos": "verb"
+      },
+      {
+        "word": "incorporation",
+        "example": "The restaurant was the incorporation of every good idea the chef had thought of in his career.",
+        "pos": ""
+      },
+      {
+        "word": "incorporating",
+        "example": "Chef Tao was famous for incorporating different cooking styles into one.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "method",
+        "example": "The chef discovered a more efficient method of peeling boiled eggs.",
+        "pos": ""
+      },
+      {
+        "word": "methodology",
+        "example": "Even the order of adding ingredients is an unappreciated aspect of cooking methodology.",
+        "pos": "noun"
+      },
+      {
+        "word": "methodical",
+        "example": "The head cook was not so artistic as methodical in preparing standard dishes.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "profession",
+        "example": "The number of people choosing cooking as a profession has risen over the past decade.",
+        "pos": ""
+      },
+      {
+        "word": "professional",
+        "example": "She was professional in her approach to dealing with the problem of late deliveries.",
+        "pos": ""
+      },
+      {
+        "word": "professionally",
+        "example": "Although the customer was rude and loud, the waiter handled the situation very professionally.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "Susannah is having a hard time becoming ____ to the long hours of her job at the restaurant.",
+        "options": [
+          {
+            "label": "A",
+            "text": "custom"
+          },
+          {
+            "label": "B",
+            "text": "customs"
+          },
+          {
+            "label": "C",
+            "text": "accustoms to"
+          },
+          {
+            "label": "D",
+            "text": "accustomed to"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "The student accepted a six-month ____ with a famous chef.",
+        "options": [
+          {
+            "label": "A",
+            "text": "apprentice"
+          },
+          {
+            "label": "B",
+            "text": "apprenticed"
+          },
+          {
+            "label": "C",
+            "text": "apprenticing"
+          },
+          {
+            "label": "D",
+            "text": "apprenticeship"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "The patrons at this restaurant are often ____, but they usually tip well.",
+        "options": [
+          {
+            "label": "A",
+            "text": "demands"
+          },
+          {
+            "label": "B",
+            "text": "demanded"
+          },
+          {
+            "label": "C",
+            "text": "demanding"
+          },
+          {
+            "label": "D",
+            "text": "demand"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "I love this chef's cooking style, which ____ so many different tastes.",
+        "options": [
+          {
+            "label": "A",
+            "text": "incorporation"
+          },
+          {
+            "label": "B",
+            "text": "incorporates"
+          },
+          {
+            "label": "C",
+            "text": "incorporating"
+          },
+          {
+            "label": "D",
+            "text": "incorporator"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "The experienced chef was ____ about the way he prepared his award-winning dish.",
+        "options": [
+          {
+            "label": "A",
+            "text": "method"
+          },
+          {
+            "label": "B",
+            "text": "methodical"
+          },
+          {
+            "label": "C",
+            "text": "methodically"
+          },
+          {
+            "label": "D",
+            "text": "methodology"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "The ____ attitude of the staff is one of the keys to a restaurant's success.",
+        "options": [
+          {
+            "label": "A",
+            "text": "professional"
+          },
+          {
+            "label": "B",
+            "text": "professionalism"
+          },
+          {
+            "label": "C",
+            "text": "profession"
+          },
+          {
+            "label": "D",
+            "text": "professionally"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "More and more people are choosing to become professional chefs. The number of students enrolled in culinary schools is growing every year. People choose this career for different reasons. Some [16] to a cooking career because of a love of food. Others find that cooking is the perfect [17] for their creativity. People traditionally think of Paris as the city where professional chefs are trained. However, fine culinary schools can be found all over the world. The [18] of a cooking career are great, but there are also many rewards.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "draw"
+            },
+            {
+              "label": "B",
+              "text": "are drawn"
+            },
+            {
+              "label": "C",
+              "text": "have drawn"
+            },
+            {
+              "label": "D",
+              "text": "are drawing"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "outlay"
+            },
+            {
+              "label": "B",
+              "text": "output"
+            },
+            {
+              "label": "C",
+              "text": "outage"
+            },
+            {
+              "label": "D",
+              "text": "outlet"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "demand"
+            },
+            {
+              "label": "B",
+              "text": "demands"
+            },
+            {
+              "label": "C",
+              "text": "demanders"
+            },
+            {
+              "label": "D",
+              "text": "demanding"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following article. Welcome to the National Institute of the Culinary Arts. You have chosen to enter a highly rewarding profession. People are drawn to this career for many different reasons, but you all have something in common—an appreciation of fine food. At the institute you will have the opportunity to study with some of the most highly skilled chefs in the world. In order to take the best advantage of this opportunity, you need to approach it with an open mind. Be ready to relinquish your old ideas about cooking and take in new ideas about the most artistic methods of preparing food. While at the institute, you will become accustomed to long hours, hard work, and also wonderful results. By the time you have finished with your coursework and are ready to start your apprenticeship, you will feel that you have accomplished much more than you ever expected to here at the institute. Please take the time to look over the following pages carefully as they contain all the information you need about course requirements, textbooks, apprenticeship opportunities, and the instructors at the institute.",
+        "questions": [
+          {
+            "number": 19,
+            "question": "Who is the audience for this article?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Students."
+              },
+              {
+                "label": "B",
+                "text": "Instructors."
+              },
+              {
+                "label": "C",
+                "text": "Working chefs."
+              },
+              {
+                "label": "D",
+                "text": "Restaurant patrons."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "What kind of place is the institute?",
+            "options": [
+              {
+                "label": "A",
+                "text": "A restaurant."
+              },
+              {
+                "label": "B",
+                "text": "A bookstore."
+              },
+              {
+                "label": "C",
+                "text": "An art school."
+              },
+              {
+                "label": "D",
+                "text": "A cooking school."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "What does the writer ask the readers to do?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Start cooking."
+              },
+              {
+                "label": "B",
+                "text": "Order more courses."
+              },
+              {
+                "label": "C",
+                "text": "Keep reading."
+              },
+              {
+                "label": "D",
+                "text": "Enjoy fine food."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word relinquish in line 10 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "let go"
+              },
+              {
+                "label": "B",
+                "text": "add to"
+              },
+              {
+                "label": "C",
+                "text": "share"
+              },
+              {
+                "label": "D",
+                "text": "discuss"
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The words accustomed to in line 13 are closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "interested in"
+              },
+              {
+                "label": "B",
+                "text": "tired from"
+              },
+              {
+                "label": "C",
+                "text": "bored by"
+              },
+              {
+                "label": "D",
+                "text": "used to"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "According to the conversation, what do good chefs do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Demand a lot from their assistants."
+          },
+          {
+            "label": "B",
+            "text": "Manage their restaurants well."
+          },
+          {
+            "label": "C",
+            "text": "Attract customers."
+          },
+          {
+            "label": "D",
+            "text": "Influence new chefs."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the man plan to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Take more rests."
+          },
+          {
+            "label": "B",
+            "text": "Eat at restaurants more often."
+          },
+          {
+            "label": "C",
+            "text": "Become a chef."
+          },
+          {
+            "label": "D",
+            "text": "Practice cooking"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What does the woman think of cooking as a career?",
+        "options": [
+          {
+            "label": "A",
+            "text": "It pays well."
+          },
+          {
+            "label": "B",
+            "text": "It's hard to manage."
+          },
+          {
+            "label": "C",
+            "text": "It's not worth the effort."
+          },
+          {
+            "label": "D",
+            "text": "It's very demanding."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "Who is this talk for?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Cooking instructors."
+          },
+          {
+            "label": "B",
+            "text": "People who work in the culinary arts."
+          },
+          {
+            "label": "C",
+            "text": "People looking for a profession."
+          },
+          {
+            "label": "D",
+            "text": "Career counselors."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What kind of people are attracted to the cooking profession?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Bored."
+          },
+          {
+            "label": "B",
+            "text": "Demanding."
+          },
+          {
+            "label": "C",
+            "text": "Exciting."
+          },
+          {
+            "label": "D",
+            "text": "Creative."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What does the speaker recommend to become a professional chef?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Becoming an apprentice."
+          },
+          {
+            "label": "B",
+            "text": "Reading cookbooks."
+          },
+          {
+            "label": "C",
+            "text": "Visiting restaurants around the world."
+          },
+          {
+            "label": "D",
+            "text": "Attending a culinary school."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. According to the conversation, what do good chefs do? (A) Demand a lot from their assistants. (B) Manage their restaurants well. (C) Attract customers. (D) Influence new chefs. 6. What does the man plan to do? (A) Take more rests. (B) Eat at restaurants more often. (C) Become a chef. (D) Practice cooking 5. What does the woman think of cooking as a career? (A) It pays well. (B) It's hard to manage. (C) It's not worth the effort. (D) It's very demanding. Listen to the talk. Then read each question and choose the best answer. 7. Who is this talk for? (A) Cooking instructors. (B) People who work in the culinary arts. (C) People looking for a profession. (D) Career counselors. 8. What kind of people are attracted to the cooking profession? (A) Bored. (B) Demanding. (C) Exciting. (D) Creative. 9. What does the speaker recommend to become a professional chef? (A) Becoming an apprentice. (B) Reading cookbooks. (C) Visiting restaurants around the world. (D) Attending a culinary school.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question–Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "According to the conversation, what do good chefs do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Demand a lot from their assistants."
+          },
+          {
+            "label": "B",
+            "text": "Manage their restaurants well."
+          },
+          {
+            "label": "C",
+            "text": "Attract customers."
+          },
+          {
+            "label": "D",
+            "text": "Influence new chefs."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the man plan to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Take more rests."
+          },
+          {
+            "label": "B",
+            "text": "Eat at restaurants more often."
+          },
+          {
+            "label": "C",
+            "text": "Become a chef."
+          },
+          {
+            "label": "D",
+            "text": "Practice cooking"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What does the woman think of cooking as a career?",
+        "options": [
+          {
+            "label": "A",
+            "text": "It pays well."
+          },
+          {
+            "label": "B",
+            "text": "It's hard to manage."
+          },
+          {
+            "label": "C",
+            "text": "It's not worth the effort."
+          },
+          {
+            "label": "D",
+            "text": "It's very demanding."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "Who is this talk for?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Cooking instructors."
+          },
+          {
+            "label": "B",
+            "text": "People who work in the culinary arts."
+          },
+          {
+            "label": "C",
+            "text": "People looking for a profession."
+          },
+          {
+            "label": "D",
+            "text": "Career counselors."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What kind of people are attracted to the cooking profession?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Bored."
+          },
+          {
+            "label": "B",
+            "text": "Demanding."
+          },
+          {
+            "label": "C",
+            "text": "Exciting."
+          },
+          {
+            "label": "D",
+            "text": "Creative."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What does the speaker recommend to become a professional chef?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Becoming an apprentice."
+          },
+          {
+            "label": "B",
+            "text": "Reading cookbooks."
+          },
+          {
+            "label": "C",
+            "text": "Visiting restaurants around the world."
+          },
+          {
+            "label": "D",
+            "text": "Attending a culinary school."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "Lesson\n\n34\n\n# Cooking as a Career\n\nStudy the following definitions and examples.\n\n1. accustom to v., to become familiar with, to become used to\n\na. Chefs must accustom themselves to working long hours.\n\nac, ... to\n\nb. It can be hard to accustom oneself to eating new types of food.\n\n2. apprentice n., a student worker in a chosen field a. Instead of attending cooking school, Raul chose to work as an apprentice with an experienced chef.\n\nb. The cooking school has an apprentice program that places students in restaurants to gain work experience.\n\n3. culinary adj., relating to the kitchen or cooking\n\na. The chef was widely known for his culinary artistry.\n\nb. His interest in culinary arts drew him to a commercial foods program.\n\n4. demand v., to require\n\na. Theodore was always exhausted because his new job at the restaurant demanded so much of him.\n\nb. This style of cooking demands many exotic ingredients and a lot of preparation time.\n\n5. draw v., to cause to come by attracting a. We hope the new restaurant will draw other business to the area.\nb. Matthew was drawn to a career in cooking.\n\n6. incorporate v., to unite one thing with something else already in existence a. Coca incorporated the patron's suggestions into her new menu.\n\nb. Here are the fresh greens for you to incorporate into a salad.\n\n7. influx n., a flowing in\n\na. An influx of new chefs is constantly needed to fill open jobs.\n\nb. Due to the rise in popularity of cooking as a career, cooking schools report an influx of applications.\n\n8. method n., a procedure\n\na. Gloria perfected a simple method for making croissants.\n\nb. Many chefs borrow cooking methods from a variety of cultures and incorporate them into their cooking style.\n\n9. outlet n., a means of release or gratification, as for energies, drives, or desires\n\na. Even before he became a professional baker, Jacob used baking as an outlet for frustration.\n\nb. Many people find cooking to be a hands-on outlet for their creativity.\n\n10. profession n., an occupation requiring considerable training and specialized study\n\na. Cooking is considered as much a profession as is law or medicine.\n\nb. Lulu took up cooking as her profession and is very happy with her decision.\n\n11. relinquish v., to let go; to surrender\n\na. People find it hard to relinquish their accustomed food preferences and try something new.\n\nb. After Claude married Kiki, he had to relinquish his exclusive hold on the kitchen and learn to share the joys of cooking.\n\n12. theme n., an implicit or recurrent idea; a motif\n\na. The caterers prepared food for a party with a tropical island theme.\n\nb. The restaurant's food and decor demonstrated its southwestern theme.",
+    "words_in_context": "## WORDS IN CONTEXT\n\n## Read the following passage and write the words in the blanks below.\n\n| accustomed | demanding | influx | profession |\n| --- | --- | --- | --- |\n| apprenticeship | drawn | methods | relinquish |\n| culinary | incorporate | outlet | themes |\n\nWhen people start thinking about careers, they may be looking for\n\nan (1) \\_\\_\\_\\_ for their creativity. Many people are\n\n(2) \\_\\_\\_\\_ to cooking as a career and see it as a\n\n(3) \\_\\_\\_\\_, not merely a trade. The restaurant business is\n\n(4) \\_\\_\\_\\_ and needs a constant (5) \\_\\_\\_\\_ of new talent.\n\nChefs (6) \\_\\_\\_\\_ ingredients and (7) \\_\\_\\_\\_ of cooking from around the world into successful menus. Most chefs offer meals that are variations on standard (8) \\_\\_\\_\\_. They will try to stretch their patrons' range of food tastes by taking food that is still recognized as traditional and infusing it with something new, like a rare spice or seasoning. People (9) \\_\\_\\_\\_ to certain tastes and textures aren't going to (10) \\_\\_\\_\\_ their preferences immediately.\n\nChefs attend (11) \\_\\_\\_\\_ school or train in restaurants with experienced chefs, in an (12) \\_\\_\\_\\_. For those of you who like hands-on creativity, being a chef might be a good choice.",
+    "word_families": "## WORD FAMILIES\n\n<table><tr><td>verb</td><td>accustom to</td><td>Shirley could not accustom herself to the demands of her new job.</td></tr><tr><td></td><td>custom</td><td>It is the custom at this restaurant to offer free meals to patrons on their birthdays.</td></tr><tr><td></td><td>accustomed to</td><td>Janet has become accustomed to eating spicy food.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>apprentice</td><td>Instead of attending cooking school, Michael decided to apprentice to a master chef.</td></tr><tr><td></td><td>apprentice</td><td>The new group of apprentices will start working any day now.</td></tr><tr><td>n</td><td>apprenticeship</td><td>The apprenticeship was a grueling period, but George learned a lot.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>)</td><td>demand</td><td>The head chef demands a lot from his assistants.</td></tr><tr><td></td><td>demand</td><td>Pierre could not keep up with the many demands of the customers.</td></tr><tr><td></td><td>demanding</td><td>Working as a chef is a very demanding job.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>incorporate</td><td>Take these items and incorporate them into a stew.</td></tr><tr><td></td><td>incorporation</td><td>The restaurant was the incorporation of every good idea the chef had thought of in his career.</td></tr><tr><td></td><td>incorporating</td><td>Chef Tao was famous for incorporating different cooking styles into one.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td></td><td>method</td><td>The chef discovered a more efficient method of peeling boiled eggs.</td></tr><tr><td>n</td><td>methodology</td><td>Even the order of adding ingredients is an unappreciated aspect of cooking methodology.</td></tr><tr><td></td><td>methodical</td><td>The head cook was not so artistic as methodical in preparing standard dishes.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td></td><td>profession</td><td>The number of people choosing cooking as a profession has risen over the past decade.</td></tr><tr><td></td><td>professional</td><td>She was professional in her approach to dealing with the problem of late deliveries.</td></tr><tr><td></td><td>professionally</td><td>Although the customer was rude and loud, the waiter handled the situation very professionally.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question–Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. According to the conversation, what do good chefs do?\n(A) Demand a lot from their assistants.\n(B) Manage their restaurants well.\n(C) Attract customers.\n(D) Influence new chefs.\n\n6. What does the man plan to do?  \n(A) Take more rests.  \n(B) Eat at restaurants more often.  \n(C) Become a chef.  \n(D) Practice cooking\n\n5. What does the woman think of cooking as a career?\n(A) It pays well.\n(B) It's hard to manage.\n(C) It's not worth the effort.\n(D) It's very demanding.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. Who is this talk for?  \n(A) Cooking instructors.  \n(B) People who work in the culinary arts.  \n(C) People looking for a profession.  \n(D) Career counselors.\n\n8. What kind of people are attracted to the cooking profession?\n(A) Bored.\n(B) Demanding.\n(C) Exciting.\n(D) Creative.\n\n9. What does the speaker recommend to become a professional chef?\n(A) Becoming an apprentice.\n(B) Reading cookbooks.\n(C) Visiting restaurants around the world.\n(D) Attending a culinary school.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. Susannah is having a hard time becoming \\_\\_\\_\\_ to the long hours of her job at the restaurant.\n(A) custom (C) accustoms to (B) customs (D) accustomed to\n\n11. The student accepted a six-month \\_\\_\\_\\_ with a famous chef.\n(A) apprentice (C) apprenticing\n(B) apprenticed (D) apprenticeship\n\n12. The patrons at this restaurant are often \\_\\_\\_\\_, but they usually tip well.\n(A) demands (C) demanding\n(B) demanded (D) demand\n\n13. I love this chef's cooking style, which \\_\\_\\_\\_ so many different tastes.\n(A) incorporation (C) incorporating\n(B) incorporates (D) incorporator\n\n14. The experienced chef was \\_\\_\\_\\_ about the way he prepared his award-winning dish.\n(A) method (C) methodically\n(B) methodical (D) methodology\n\n15. The \\_\\_\\_\\_ attitude of the staff is one of the keys to a restaurant's success.\n(A) professional (C) profession\n(B) professionalism (D) professionally\n\n## Part 6 Text Completion\n\nMore and more people are choosing to become professional chefs. The number of students enrolled in culinary schools is growing every year. People choose this career for different reasons. Some \\_16\\_ to a cooking career because of a love of food. Others find that cooking is the perfect \\_17\\_ for their creativity. People traditionally think of Paris as the city where professional chefs are trained. However, fine culinary schools can be found all over the world. The \\_18\\_ of a cooking career are great, but there are also many rewards.\n\n16. (A) draw 18. (A) demand  \n(B) are drawn (B) demands  \n(C) have drawn (C) demanders  \n(D) are drawing (D) demanding\n\n17. (A) outlay  \n(B) output  \n(C) outage  \n(D) outlet",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following article.\n\nWelcome to the National Institute of the Culinary Arts. You have chosen to enter a highly rewarding profession. People are drawn to this career for many different reasons, but you all have something in common—an appreciation of fine food. At the institute you will have the opportunity to study with some of the most highly skilled chefs in the world. In order to take the best advantage of this opportunity, you need to approach it with an open mind. Be ready to relinquish your old ideas about cooking and take in new ideas about the most artistic methods of preparing food. While at the institute, you will become accustomed to long hours, hard work, and also wonderful results. By the time you have finished with your coursework and are ready to start your apprenticeship, you will feel that you have accomplished much more than you ever expected to here at the institute. Please take the time to look over the following pages carefully as they contain all the information you need about course requirements, textbooks, apprenticeship opportunities, and the instructors at the institute.\n\n19. Who is the audience for this article?\n(A) Students.\n(B) Instructors.\n(C) Working chefs.\n(D) Restaurant patrons.\n\n20. What kind of place is the institute?\n(A) A restaurant.\n(B) A bookstore.\n(C) An art school.\n(D) A cooking school.\n\n21. What does the writer ask the readers to do?  \n(A) Start cooking.  \n(B) Order more courses.  \n(C) Keep reading.  \n(D) Enjoy fine food.\n\n22. The word relinquish in line 10 is closest in meaning to  \n(A) let go  \n(B) add to  \n(C) share  \n(D) discuss\n\n23. The words accustomed to in line 13 are closest in meaning to  \n(A) interested in  \n(B) tired from  \n(C) bored by  \n(D) used to"
+  },
+  "needs_review": true
+}

@@ -1,0 +1,1626 @@
+{
+  "lesson_id": 30,
+  "title": "Renting and Leasing",
+  "theme_name": "Management Issues",
+  "audio_track": "track_30.mp3",
+  "part1_photo": "part1_photos/lesson_30.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "apprehensive",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "anxious about the future",
+      "definition_vi": "e ngại, lo lắng, phấp phỏng (về điều sắp xảy ra trong tương lai)",
+      "examples": [
+        {
+          "en": "Most new home buyers are apprehensive about their decision.",
+          "vi": "Hầu hết những người mua nhà lần đầu đều cảm thấy lo lắng e ngại về quyết định của mình."
+        },
+        {
+          "en": "The mortgage lender was apprehensive about the company's ability to pay.",
+          "vi": "Bên cho vay thế chấp cảm thấy lo ngại về khả năng thanh toán của công ty."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "apprehend",
+          "example": "A child can&#x27;t apprehend the importance of saving for the future."
+        },
+        {
+          "pos": "noun",
+          "word": "apprehension",
+          "example": "The air was thick with apprehension as the landlord met with the tenants."
+        },
+        {
+          "pos": "adjective",
+          "word": "apprehensive",
+          "example": "The tenants were apprehensive about the conditions of their rental agreement."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "apprehensive about",
+        "feel apprehensive",
+        "slightly apprehensive",
+        "growing apprehension"
+      ],
+      "usage": {
+        "structures": [
+          "be/feel apprehensive about + N/V-ing (cảm thấy lo ngại/e sợ về điều gì sắp tới)"
+        ],
+        "prepositions": [
+          "about",
+          "of"
+        ],
+        "collocations": [
+          "apprehensive investors",
+          "apprehensive tenants",
+          "with some apprehension",
+          "understandably apprehensive"
+        ],
+        "tip": "Đi với giới từ 'about' (apprehensive about the future/changes), đồng nghĩa với 'anxious', 'uneasy', 'worried'."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "apprehensively",
+          "example": "Retail tenants watched apprehensively as commercial property taxes continued to climb.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Many small shopkeepers expressed _____ about the proposed rent increases in the downtown district.",
+        "answer": "apprehension",
+        "base_word": "apprehensive",
+        "pos_hint": "danh từ (sự lo ngại)",
+        "vi": "Nhiều chủ cửa hàng nhỏ đã bày tỏ sự lo ngại về mức tăng giá thuê mặt bằng được đề xuất tại khu vực trung tâm thành phố."
+      }
+    },
+    {
+      "id": 2,
+      "word": "circumstance",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a condition; a situation",
+      "definition_vi": "hoàn cảnh, tình huống, điều kiện khách quan",
+      "examples": [
+        {
+          "en": "Under the current economic circumstances, they will not be able to purchase the property.",
+          "vi": "Dưới những hoàn cảnh kinh tế hiện tại, họ sẽ không thể mua được bất động sản đó."
+        },
+        {
+          "en": "If the circumstances change in the near future and we have new properties, we will be sure to call you.",
+          "vi": "Nếu tình hình thay đổi trong tương lai gần và chúng tôi có thêm các bất động sản mới, chắc chắn chúng tôi sẽ gọi cho bạn."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "circumstantially",
+          "example": "The building owner circumstantially takes money out of the escrow account for emergency repairs."
+        },
+        {
+          "pos": "noun",
+          "word": "circumstance",
+          "example": "Because of our circumstances, the rental agent kindly allowed us to get out of our lease early."
+        },
+        {
+          "pos": "",
+          "word": "circumstantial",
+          "example": "The judge&#x27;s decision that the tenant was responsible for repairing the damage was based solely on circumstantial evidence."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "under the circumstances",
+        "under no circumstances",
+        "economic circumstances",
+        "unforeseen circumstances"
+      ],
+      "usage": {
+        "structures": [
+          "under/in the circumstances (trong hoàn cảnh/tình huống đó)",
+          "due to unforeseen circumstances (do những tình huống bất khả kháng/không lường trước được)"
+        ],
+        "prepositions": [
+          "under",
+          "in",
+          "due to"
+        ],
+        "collocations": [
+          "exceptional circumstances",
+          "special circumstances",
+          "financial circumstances",
+          "depend on circumstances"
+        ],
+        "tip": "Hầu như luôn dùng ở dạng số nhiều 'circumstances' và đi với giới từ 'under' (under the circumstances / under no circumstances) hoặc 'due to unforeseen circumstances'."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "circumstantial",
+          "example": "The arbitrator dismissed the claim because it relied entirely on circumstantial evidence.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Due to unforeseen _____, the grand opening of the new shopping plaza has been postponed until next month.",
+        "answer": "circumstances",
+        "base_word": "circumstance",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Do những tình huống bất ngờ không lường trước được, lễ khai trương trung tâm mua sắm mới đã bị hoãn lại đến tháng sau."
+      }
+    },
+    {
+      "id": 3,
+      "word": "condition",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the state of something; a requirement",
+      "definition_vi": "tình trạng (của tài sản/hàng hóa); điều kiện, điều khoản (trong hợp đồng)",
+      "examples": [
+        {
+          "en": "Except for some minor repairs, the building is in very good condition.",
+          "vi": "Ngoại trừ một vài chỗ cần sửa chữa nhỏ, tòa nhà đang ở trong tình trạng rất tốt."
+        },
+        {
+          "en": "There are certain conditions that are unique to leasing a property.",
+          "vi": "Có một số điều kiện nhất định chỉ áp dụng riêng cho việc thuê tài sản."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "condition",
+          "example": "The president conditioned her acceptance on two factors that were spelled out in the letter of agreement."
+        },
+        {
+          "pos": "",
+          "word": "condition",
+          "example": "They decided to rent the space, under the condition that the price would not be raised for the next two years."
+        },
+        {
+          "pos": "",
+          "word": "conditional",
+          "example": "If you give a conditional go-ahead, we will start drawing up the plans."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "in good condition",
+        "terms and conditions",
+        "working conditions",
+        "on condition that"
+      ],
+      "usage": {
+        "structures": [
+          "in good/excellent/mint/poor condition (ở trong tình trạng tốt/hoàn hảo/kém - không đếm được)",
+          "meet/satisfy the conditions (đáp ứng các điều kiện - đếm được)"
+        ],
+        "prepositions": [
+          "in",
+          "on",
+          "under",
+          "of"
+        ],
+        "collocations": [
+          "economic conditions",
+          "weather conditions",
+          "conditional offer",
+          "subject to conditions"
+        ],
+        "tip": "Nhớ cụm cố định 'terms and conditions' (các điều khoản và điều kiện hợp đồng) và 'in good condition' (trong tình trạng nguyên vẹn/tốt)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "conditionally",
+          "example": "The bank conditionally approved the commercial loan pending a final property appraisal.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The landlord offered a _____ lease renewal that requires the tenant to pay for interior repainting.",
+        "answer": "conditional",
+        "base_word": "condition",
+        "pos_hint": "tính từ (có kèm điều kiện)",
+        "vi": "Chủ nhà đã đưa ra đề nghị gia hạn hợp đồng thuê có điều kiện, trong đó yêu cầu người thuê phải trả chi phí sơn lại nội thất."
+      }
+    },
+    {
+      "id": 4,
+      "word": "due to",
+      "pos": "prep.",
+      "ipa": "",
+      "definition_en": "because of",
+      "definition_vi": "bởi vì, do (nguyên nhân)",
+      "examples": [
+        {
+          "en": "Due to the low interest rates, good office space is difficult to find.",
+          "vi": "Do lãi suất thấp, rất khó tìm được mặt bằng văn phòng tốt."
+        },
+        {
+          "en": "He didn't believe that the low prices were due only to the neighborhood.",
+          "vi": "Anh ấy không tin rằng mức giá thấp chỉ là do khu vực lân cận đó."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "due to low interest rates",
+        "due to unforeseen circumstances",
+        "due to inclement weather",
+        "due to high demand"
+      ],
+      "usage": {
+        "structures": [
+          "due to + N / Noun Phrase (bởi vì/do cái gì = because of / owing to / on account of)",
+          "be due to + N (là do nguyên nhân gì)"
+        ],
+        "prepositions": [
+          "to"
+        ],
+        "collocations": [
+          "due to a scheduling conflict",
+          "due to maintenance",
+          "due to renovations",
+          "due to budget cuts"
+        ],
+        "tip": "Giới từ 'due to' chỉ đi trước Cụm danh từ / V-ing (KHÔNG đi trước mệnh đề S + V; nếu trước mệnh đề phải dùng 'because / since / as')."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "due",
+          "example": "Monthly rent payments are due on the first day of each calendar month.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "overdue",
+          "example": "Tenants with overdue rent balances will be charged a five percent late fee.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "duly",
+          "example": "Both copies of the lease agreement were duly signed and witnessed by the notary.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Once the lease contract has been _____ signed by both parties, the keys will be handed over to the tenant.",
+        "answer": "duly",
+        "base_word": "due to",
+        "pos_hint": "trạng từ (họ từ due: một cách hợp lệ/đúng thủ tục)",
+        "vi": "Ngay khi hợp đồng thuê được cả hai bên ký kết hợp lệ, chìa khóa sẽ được bàn giao cho người thuê."
+      }
+    },
+    {
+      "id": 5,
+      "word": "fluctuate",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to go up and down; to change",
+      "definition_vi": "dao động, biến động lên xuống thất thường (giá cả, lãi suất, tỷ giá)",
+      "examples": [
+        {
+          "en": "No one is very comfortable making a large investment while the currency values fluctuate almost daily.",
+          "vi": "Không ai cảm thấy thực sự thoải mái khi thực hiện một khoản đầu tư lớn trong lúc giá trị tiền tệ biến động gần như hàng ngày."
+        },
+        {
+          "en": "Prime business areas fluctuate with local economies, crime rates, and cost of living indices.",
+          "vi": "Các khu vực kinh doanh đắc địa cũng biến động theo nền kinh tế địa phương, tỷ lệ tội phạm và chỉ số chi phí sinh hoạt."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "fluctuate",
+          "example": "As interest rates began to fluctuate, many investors became nervous and took their money out of the real estate market."
+        },
+        {
+          "pos": "",
+          "word": "fluctuation",
+          "example": "Construction is sensitive to any fluctuations in the economy."
+        },
+        {
+          "pos": "",
+          "word": "fluctuating",
+          "example": "Any additional fluctuating on prices will not be accepted."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "fluctuate wildly",
+        "fluctuate between",
+        "price fluctuations",
+        "fluctuating market"
+      ],
+      "usage": {
+        "structures": [
+          "fluctuate between A and B (dao động trong khoảng từ A đến B)",
+          "fluctuate with + N (biến động theo yếu tố gì)"
+        ],
+        "prepositions": [
+          "between",
+          "with",
+          "in",
+          "from"
+        ],
+        "collocations": [
+          "currency fluctuations",
+          "fluctuate daily",
+          "seasonal fluctuations",
+          "fluctuating interest rates"
+        ],
+        "tip": "Nội động từ (không chia bị động); danh từ 'fluctuation(s) in + N' (sự biến động về giá cả/thị trường) xuất hiện rất nhiều trong Part 5 & 7."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "fluctuating",
+          "example": "Many small importers struggle to plan their budgets due to fluctuating exchange rates.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Fixed-rate commercial leases protect business owners from sudden _____ in the real estate market.",
+        "answer": "fluctuations",
+        "base_word": "fluctuate",
+        "pos_hint": "danh từ số nhiều (sự biến động)",
+        "vi": "Các hợp đồng thuê thương mại có mức giá cố định giúp bảo vệ các chủ doanh nghiệp khỏi những biến động đột ngột trên thị trường bất động sản."
+      }
+    },
+    {
+      "id": 6,
+      "word": "get out of",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to escape; to exit",
+      "definition_vi": "thoát khỏi, rút khỏi (hợp đồng, cam kết, trách nhiệm); rời khỏi (một nơi)",
+      "examples": [
+        {
+          "en": "The agent wasn't sure if the executives could get out of their prior real estate arrangement.",
+          "vi": "Người đại diện bất động sản không chắc liệu các giám đốc điều hành có thể rút khỏi thỏa thuận bất động sản trước đó của họ hay không."
+        },
+        {
+          "en": "The company wanted to get out of the area before property values declined even further.",
+          "vi": "Công ty muốn rút khỏi khu vực đó trước khi giá trị bất động sản sụt giảm thêm nữa."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "get out of a lease",
+        "get out of a contract",
+        "get out of debt",
+        "get out of the business"
+      ],
+      "usage": {
+        "structures": [
+          "get out of + a lease/contract/agreement (chấm dứt/thoát khỏi hợp đồng thuê/thỏa thuận trước hạn)",
+          "get out of + V-ing (trốn tránh/thoát khỏi việc phải làm gì)"
+        ],
+        "prepositions": [
+          "of"
+        ],
+        "collocations": [
+          "get out of an obligation",
+          "get out of paying a penalty",
+          "early exit",
+          "get out of a commitment"
+        ],
+        "tip": "Trong chủ đề thuê mặt bằng (Renting and Leasing), 'get out of a lease' có nghĩa là 'hủy/chấm dứt hợp đồng thuê trước thời hạn'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "get",
+          "example": "Tenants must get written permission from the property manager before repainting walls.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "getaway",
+          "example": "The coastal resort is marketed as a relaxing weekend getaway for city executives.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The retail chain paid a substantial penalty fee in order to _____ out of its five-year lease early.",
+        "answer": "get",
+        "base_word": "get out of",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Chuỗi bán lẻ đã phải trả một khoản phí phạt khá lớn để có thể chấm dứt sớm hợp đồng thuê năm năm của mình."
+      }
+    },
+    {
+      "id": 7,
+      "word": "indicator",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a sign, a signal",
+      "definition_vi": "chỉ số, dấu hiệu, thước đo chỉ báo",
+      "examples": [
+        {
+          "en": "If the economy is an accurate indicator, rental prices will increase rapidly in the next six months.",
+          "vi": "Nếu nền kinh tế là một chỉ báo chính xác, thì giá thuê mặt bằng sẽ tăng nhanh chóng trong sáu tháng tới."
+        },
+        {
+          "en": "The results of the elections were seen as an important indicator of the stability in the area.",
+          "vi": "Kết quả của cuộc bầu cử được xem là một chỉ báo quan trọng về sự ổn định trong khu vực."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "indicate",
+          "example": "As was indicated in the terms of the lease, any changes to the property must be approved by the owners."
+        },
+        {
+          "pos": "",
+          "word": "indicator",
+          "example": "The state of local schools is a good indicator of the health of the economy."
+        },
+        {
+          "pos": "noun",
+          "word": "indication",
+          "example": "The management team had every indication that the tenants were planning to stay for the near future."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "economic indicator",
+        "key performance indicator (KPI)",
+        "reliable indicator",
+        "leading indicator"
+      ],
+      "usage": {
+        "structures": [
+          "an indicator of + N (một chỉ báo/thước đo của cái gì)",
+          "give an indication of + N (đưa ra dấu hiệu về cái gì)"
+        ],
+        "prepositions": [
+          "of",
+          "for"
+        ],
+        "collocations": [
+          "accurate indicator",
+          "strong indication",
+          "indicate a trend",
+          "market indicators"
+        ],
+        "tip": "Phân biệt 2 danh từ: 'indicator' (chỉ số kinh tế, thước đo, đèn báo: economic indicators) và 'indication' (dấu hiệu, sự biểu thị: show no indication of slowing down)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "indicative",
+          "example": "Rising commercial occupancy rates are indicative of a rebounding local economy.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "High attendance at the open house is _____ of strong buyer interest in the new condominium complex.",
+        "answer": "indicative",
+        "base_word": "indicator",
+        "pos_hint": "tính từ (cho thấy/biểu thị)",
+        "vi": "Lượng người tham dự đông đảo tại buổi mở cửa tham quan nhà là dấu hiệu cho thấy sự quan tâm mạnh mẽ của người mua đối với khu phức hợp chung cư mới."
+      }
+    },
+    {
+      "id": 8,
+      "word": "lease",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a contract to pay to use property for an amount of time; v., to make a contract to use property",
+      "definition_vi": "hợp đồng cho thuê (bất động sản, thiết bị dài hạn); (v.) thuê hoặc cho thuê theo hợp đồng",
+      "examples": [
+        {
+          "en": "With the lease expiring next year, they need to start looking for a new location as soon as possible.",
+          "vi": "Vì hợp đồng thuê sẽ hết hạn vào năm tới, họ cần bắt đầu tìm kiếm một địa điểm mới càng sớm càng tốt."
+        },
+        {
+          "en": "They decided to lease the property rather than buy it.",
+          "vi": "Họ đã quyết định thuê lại bất động sản đó thay vì mua đứt nó."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "sign a lease",
+        "renew a lease",
+        "lease agreement",
+        "expire on a lease"
+      ],
+      "usage": {
+        "structures": [
+          "sign/renew/terminate a lease (ký/gia hạn/chấm dứt hợp đồng thuê)",
+          "lease + property/equipment + from/to + sb (thuê tài sản từ ai / cho ai thuê tài sản)"
+        ],
+        "prepositions": [
+          "on",
+          "for",
+          "to",
+          "from",
+          "under"
+        ],
+        "collocations": [
+          "ten-year lease",
+          "commercial lease",
+          "lease expiration",
+          "leaseholder"
+        ],
+        "tip": "'Lease' thường dùng cho hợp đồng thuê dài hạn có ràng buộc pháp lý chặt chẽ (văn phòng, mặt bằng thương mại, xe cộ, máy móc lớn)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "lease",
+          "example": "Many logistics firms prefer to lease delivery vans rather than purchase them outright.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "lessor",
+          "example": "Under the contract, the lessor is responsible for all structural roof repairs.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "lessee",
+          "example": "The lessee must obtain written consent before making any alterations to the office space.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "leased",
+          "example": "All leased photocopiers are serviced monthly by the vendor's technicians.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "All _____ office equipment must be returned to the supplier in good working order at the end of the contract.",
+        "answer": "leased",
+        "base_word": "lease",
+        "pos_hint": "tính từ phân từ (V-ed: được thuê)",
+        "vi": "Tất cả các thiết bị văn phòng đi thuê phải được hoàn trả cho nhà cung cấp trong tình trạng hoạt động tốt khi kết thúc hợp đồng."
+      }
+    },
+    {
+      "id": 9,
+      "word": "lock into",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to commit; to be unable to change",
+      "definition_vi": "ràng buộc chặt vào, cam kết cố định không thể thay đổi (lãi suất, hợp đồng dài hạn)",
+      "examples": [
+        {
+          "en": "The company locked itself into a ten-year lease that they didn't want.",
+          "vi": "Công ty đã tự trói buộc mình vào một hợp đồng thuê kéo dài mười năm mà họ không hề mong muốn."
+        },
+        {
+          "en": "Before you lock yourself into something, check all your options.",
+          "vi": "Trước khi bạn tự ràng buộc mình vào một cam kết nào đó, hãy kiểm tra tất cả các lựa chọn của bạn."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "lock into a lease",
+        "lock into a contract",
+        "lock into a low interest rate",
+        "be locked into"
+      ],
+      "usage": {
+        "structures": [
+          "lock (oneself/sb) into + N (ràng buộc bản thân/ai vào một hợp đồng/thỏa thuận cố định)",
+          "be locked into + N (bị ràng buộc cố định vào cái gì)"
+        ],
+        "prepositions": [
+          "into"
+        ],
+        "collocations": [
+          "locked into a long-term agreement",
+          "lock into a fixed rate",
+          "lock into a supplier",
+          "lock-in period"
+        ],
+        "tip": "Thường dùng ở dạng bị động 'be locked into a contract/lease' (bị trói vào hợp đồng dài hạn) hoặc chủ động chốt mức lãi suất tốt 'lock in/into a low rate'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "lock",
+          "example": "Homebuyers rushed to lock in low mortgage rates before the central bank raised them.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "lock-in",
+          "example": "The commercial mortgage includes a three-year lock-in clause that prevents early repayment.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "locked",
+          "example": "Confidential lease files must be kept in a locked cabinet at all times.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Because the firm is _____ into a three-year service contract, it cannot switch internet providers until next June.",
+        "answer": "locked",
+        "base_word": "lock into",
+        "pos_hint": "động từ chia quá khứ phân từ V3/ed (bị động)",
+        "vi": "Vì công ty đang bị ràng buộc vào hợp đồng dịch vụ ba năm nên họ không thể chuyển đổi nhà cung cấp internet cho đến tháng Sáu năm sau."
+      }
+    },
+    {
+      "id": 10,
+      "word": "occupy",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to dwell or reside in",
+      "definition_vi": "chiếm giữ, sử dụng, cư ngụ (trong một tòa nhà, văn phòng); làm bận rộn",
+      "examples": [
+        {
+          "en": "Tenants are usually allowed to occupy their space beginning on the first day of the month.",
+          "vi": "Người thuê thường được phép dọn vào sử dụng mặt bằng bắt đầu từ ngày đầu tiên của tháng."
+        },
+        {
+          "en": "Our company has occupied this office for more than five years.",
+          "vi": "Công ty chúng tôi đã sử dụng văn phòng này được hơn năm năm."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "occupy",
+          "example": "The owner must make sure that the space is in good condition before the tenant occupies it."
+        },
+        {
+          "pos": "",
+          "word": "occupant",
+          "example": "Most of the occupants of this building are doctors and lawyers."
+        },
+        {
+          "pos": "",
+          "word": "occupancy",
+          "example": "The occupancy rate of the building has never fallen below 85 percent."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "occupy an office",
+        "occupancy rate",
+        "building occupant",
+        "fully occupied"
+      ],
+      "usage": {
+        "structures": [
+          "occupy + a building/space/seat/position (sử dụng/chiếm giữ một tòa nhà/không gian/chỗ ngồi/vị trí)",
+          "be occupied with + N (đang bận rộn với việc gì)"
+        ],
+        "prepositions": [
+          "with",
+          "by",
+          "in"
+        ],
+        "collocations": [
+          "maximum occupancy",
+          "hotel occupancy",
+          "current occupant",
+          "occupy the entire floor"
+        ],
+        "tip": "Họ từ vàng trong chủ đề khách sạn & bất động sản TOEIC: 'occupant' (người thuê/người đang ở trong phòng) và 'occupancy rate' (tỷ lệ lấp đầy phòng/văn phòng)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "occupied",
+          "example": "All retail units on the ground floor of the new tower are already fully occupied.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "unoccupied",
+          "example": "The landlord decided to renovate the two unoccupied apartments on the top floor.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Hotel _____ rates in the city center reached ninety-five percent during the international trade fair.",
+        "answer": "occupancy",
+        "base_word": "occupy",
+        "pos_hint": "danh từ (tỷ lệ lấp đầy phòng)",
+        "vi": "Tỷ lệ lấp đầy phòng khách sạn ở trung tâm thành phố đã đạt mức chín mươi lăm phần trăm trong suốt thời gian diễn ra hội chợ thương mại quốc tế."
+      }
+    },
+    {
+      "id": 11,
+      "word": "option",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a choice, an alternative",
+      "definition_vi": "sự lựa chọn, phương án, quyền chọn (mua/gia hạn trong hợp đồng)",
+      "examples": [
+        {
+          "en": "You could arrange the lease with an option to buy after a certain amount of time.",
+          "vi": "Bạn có thể thu xếp hợp đồng thuê kèm theo quyền chọn mua lại sau một khoảng thời gian nhất định."
+        },
+        {
+          "en": "With the real estate market so tight right now, you don't have that many options.",
+          "vi": "Khi thị trường bất động sản đang khan hiếm như hiện nay, bạn không có nhiều sự lựa chọn."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "have no option",
+        "viable option",
+        "option to buy",
+        "keep one's options open"
+      ],
+      "usage": {
+        "structures": [
+          "an option + to V (quyền chọn làm gì, VD: an option to renew/buy)",
+          "explore/consider all options (xem xét tất cả các phương án)"
+        ],
+        "prepositions": [
+          "of",
+          "for",
+          "to"
+        ],
+        "collocations": [
+          "payment options",
+          "stock options",
+          "renewal option",
+          "optional feature"
+        ],
+        "tip": "Trong hợp đồng thuê mặt bằng, 'an option to buy / an option to renew' là điều khoản trao cho người thuê 'quyền ưu tiên mua lại hoặc gia hạn'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "opt",
+          "example": "Tenants may opt to pay their rent electronically through the management portal.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "optional",
+          "example": "Renters can purchase optional parking passes for fifty dollars per month.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "optionally",
+          "example": "The warehouse space can optionally be divided into two smaller storage units.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Tenants may purchase _____ covered parking spaces for an additional forty dollars per month.",
+        "answer": "optional",
+        "base_word": "option",
+        "pos_hint": "tính từ (tùy chọn/không bắt buộc)",
+        "vi": "Người thuê có thể mua thêm chỗ đậu xe có mái che tùy chọn với mức phí bổ sung bốn mươi đô la mỗi tháng."
+      }
+    },
+    {
+      "id": 12,
+      "word": "subject to",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "under legal power; dependent",
+      "definition_vi": "chịu sự chi phối của, phụ thuộc vào (điều kiện, sự phê duyệt); dễ bị, có thể thay đổi",
+      "examples": [
+        {
+          "en": "This contract is subject to all the laws and regulations of the state.",
+          "vi": "Hợp đồng này chịu sự điều chỉnh của tất cả các luật lệ và quy định của tiểu bang."
+        },
+        {
+          "en": "The go-ahead to buy is subject to the president's approval.",
+          "vi": "Sự cho phép tiến hành mua phụ thuộc vào sự phê duyệt của chủ tịch."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "subject to change",
+        "subject to approval",
+        "subject to availability",
+        "subject to a fine"
+      ],
+      "usage": {
+        "structures": [
+          "be subject to + N (phụ thuộc vào / phải chịu cái gì - 'to' là giới từ!)",
+          "subject to change without notice (có thể thay đổi mà không báo trước)"
+        ],
+        "prepositions": [
+          "to"
+        ],
+        "collocations": [
+          "subject to terms and conditions",
+          "subject to inspection",
+          "subject to review",
+          "subject to taxation"
+        ],
+        "tip": "Cấu trúc siêu kinh điển trong TOEIC Part 5 & 7: 'be subject to + Danh từ' (VD: Prices are subject to change / The agreement is subject to approval)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "subject",
+          "example": "All building materials are subjected to rigorous fire-safety testing before use.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "subject",
+          "example": "The subject of commercial rent control will be discussed at tonight's council meeting.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "subjective",
+          "example": "Property appraisals should be based on market data rather than subjective opinions.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "All structural beams are _____ to rigorous stress tests before being approved for commercial construction.",
+        "answer": "subjected",
+        "base_word": "subject to",
+        "pos_hint": "động từ chia quá khứ phân từ V3/ed (bị động: be subjected to)",
+        "vi": "Tất cả các dầm kết cấu đều phải trải qua các bài kiểm tra chịu lực nghiêm ngặt trước khi được phê duyệt dùng cho xây dựng thương mại."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. Starting a new business is both an exciting and frightening undertaking. Most new business owners are (1) ____ about their ability to make all the decisions that arise during the course of opening a business. One of the first issues that will arise is whether to buy or (2) ____ property. In order to evaluate the options, business owners research the current real estate market. (3) ____ rates are a good (4) ____ of the overall business climate. Prices per square foot will increase as the occupancy rate increases. Economic change is part of the business climate. There are often large (5) ____ in prices within a given city. These fluctuations are (6) ____ many factors like the (7) ____ of the building, the surrounding neighborhood, access to public transportation, and business projections for the area. Because there is so much uncertainty in starting a business, many owners do not want to (8) ____ themselves ____ a long-term lease. Many negotiate clauses in their contracts to (9) ____ a lease under certain (10) ____. They want to insure the prices and conditions of a property before making a large commitment. Leases often provide more flexibility than buying a property. They like to leave their (11) ____ open. They don't like to be (12) ____ the whims of the marketplace.",
+    "word_bank": [
+      "apprehensive",
+      "due to",
+      "indicator",
+      "occupancy",
+      "circumstances",
+      "fluctuations",
+      "lease",
+      "options",
+      "condition",
+      "get out of",
+      "lock into",
+      "subject to"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "apprehend",
+        "example": "A child can&#x27;t apprehend the importance of saving for the future.",
+        "pos": "verb"
+      },
+      {
+        "word": "apprehension",
+        "example": "The air was thick with apprehension as the landlord met with the tenants.",
+        "pos": "noun"
+      },
+      {
+        "word": "apprehensive",
+        "example": "The tenants were apprehensive about the conditions of their rental agreement.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "circumstantially",
+        "example": "The building owner circumstantially takes money out of the escrow account for emergency repairs.",
+        "pos": ""
+      },
+      {
+        "word": "circumstance",
+        "example": "Because of our circumstances, the rental agent kindly allowed us to get out of our lease early.",
+        "pos": "noun"
+      },
+      {
+        "word": "circumstantial",
+        "example": "The judge&#x27;s decision that the tenant was responsible for repairing the damage was based solely on circumstantial evidence.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "condition",
+        "example": "The president conditioned her acceptance on two factors that were spelled out in the letter of agreement.",
+        "pos": "verb"
+      },
+      {
+        "word": "condition",
+        "example": "They decided to rent the space, under the condition that the price would not be raised for the next two years.",
+        "pos": ""
+      },
+      {
+        "word": "conditional",
+        "example": "If you give a conditional go-ahead, we will start drawing up the plans.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "indicate",
+        "example": "As was indicated in the terms of the lease, any changes to the property must be approved by the owners.",
+        "pos": "verb"
+      },
+      {
+        "word": "indicator",
+        "example": "The state of local schools is a good indicator of the health of the economy.",
+        "pos": ""
+      },
+      {
+        "word": "indication",
+        "example": "The management team had every indication that the tenants were planning to stay for the near future.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "fluctuate",
+        "example": "As interest rates began to fluctuate, many investors became nervous and took their money out of the real estate market.",
+        "pos": ""
+      },
+      {
+        "word": "fluctuation",
+        "example": "Construction is sensitive to any fluctuations in the economy.",
+        "pos": ""
+      },
+      {
+        "word": "fluctuating",
+        "example": "Any additional fluctuating on prices will not be accepted.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "occupy",
+        "example": "The owner must make sure that the space is in good condition before the tenant occupies it.",
+        "pos": ""
+      },
+      {
+        "word": "occupant",
+        "example": "Most of the occupants of this building are doctors and lawyers.",
+        "pos": ""
+      },
+      {
+        "word": "occupancy",
+        "example": "The occupancy rate of the building has never fallen below 85 percent.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "The president was ____ about adding more space to the factory.",
+        "options": [
+          {
+            "label": "A",
+            "text": "apprehend"
+          },
+          {
+            "label": "B",
+            "text": "apprehensive"
+          },
+          {
+            "label": "C",
+            "text": "apprehension"
+          },
+          {
+            "label": "D",
+            "text": "apprehended"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "The financial ____ of our business don't allow us to lease an office with such a high monthly rent.",
+        "options": [
+          {
+            "label": "A",
+            "text": "circumstances"
+          },
+          {
+            "label": "B",
+            "text": "circumstantial"
+          },
+          {
+            "label": "C",
+            "text": "circumstantially"
+          },
+          {
+            "label": "D",
+            "text": "circumstanced"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "The real estate agent couldn't determine how to best work with a company that placed so many ____ on everything that they did.",
+        "options": [
+          {
+            "label": "A",
+            "text": "conditional"
+          },
+          {
+            "label": "B",
+            "text": "condition"
+          },
+          {
+            "label": "C",
+            "text": "conditioned"
+          },
+          {
+            "label": "D",
+            "text": "conditions"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "The buyer ____ with a nod of his head that he was placing a bid on the property.",
+        "options": [
+          {
+            "label": "A",
+            "text": "indicates"
+          },
+          {
+            "label": "B",
+            "text": "indication"
+          },
+          {
+            "label": "C",
+            "text": "indicated"
+          },
+          {
+            "label": "D",
+            "text": "indicator"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "____ as it does, I don't understand how anyone can depend on that country's market to provide a safe investment.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Fluctuated"
+          },
+          {
+            "label": "B",
+            "text": "Fluctuating"
+          },
+          {
+            "label": "C",
+            "text": "Fluctuation"
+          },
+          {
+            "label": "D",
+            "text": "Fluctuate"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "The lawyers signed the papers and the company took ____ of the new building.",
+        "options": [
+          {
+            "label": "A",
+            "text": "occupied"
+          },
+          {
+            "label": "B",
+            "text": "occupants"
+          },
+          {
+            "label": "C",
+            "text": "occupancy"
+          },
+          {
+            "label": "D",
+            "text": "occupying"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "For Rent Large, sunny office in prime downtown location. We are seeking a tenant to take over the lease from the current occupant, who must leave due [16] unforeseen circumstances. The new tenant will take over the six months remaining on the lease and will have the [17] to renew for an additional year. The office has been recently repainted and is in excellent [18]. Call 567-0943 between 10:00 and 4:00 Monday through Friday to make an appointment to see the space.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "to"
+            },
+            {
+              "label": "B",
+              "text": "of"
+            },
+            {
+              "label": "C",
+              "text": "by"
+            },
+            {
+              "label": "D",
+              "text": "on"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "optionally"
+            },
+            {
+              "label": "B",
+              "text": "optional"
+            },
+            {
+              "label": "C",
+              "text": "option"
+            },
+            {
+              "label": "D",
+              "text": "opt"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "fluctuation"
+            },
+            {
+              "label": "B",
+              "text": "indication"
+            },
+            {
+              "label": "C",
+              "text": "apprehension"
+            },
+            {
+              "label": "D",
+              "text": "condition"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following e-mail message. To: Ted Van Dorn From: Bernadette Riley Subject: Office space Date: April 10 I have found the solution to our office problems. I know that you have been wanting to get out of the neighborhood where our office is currently located, but that you have been apprehensive about the cost of renting in a better neighborhood. I have found an office downtown that I am sure we can afford. It is a bit smaller than our current space, but I think it will be big enough. The best part is, the rent is the same as we are paying now. This is due to the fact that the office is not in excellent condition. However, I think it will be easy for us to paint it and make a few small repairs. The space will be available for occupancy on the fifteenth of next month. We have the option of signing a one- or two-year lease, so we won't have to lock ourselves into a long-term contract. However, in order to get the low rent, we have to sign by the thirtieth of this month. If you are interested in this, I can arrange for you to see the space this weekend. Let me know as soon as possible. Bern 23. The word option in line 8 is closest in meaning to (A) choice (B) desire (C) necessity (D) requirement",
+        "questions": [
+          {
+            "number": 19,
+            "question": "Why doesn't Ted like his current office?",
+            "options": [
+              {
+                "label": "A",
+                "text": "It is in a bad location."
+              },
+              {
+                "label": "B",
+                "text": "It is too expensive."
+              },
+              {
+                "label": "C",
+                "text": "It isn't big enough."
+              },
+              {
+                "label": "D",
+                "text": "It isn't in good condition."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "When can Ted and Bernadette move into the new office?",
+            "options": [
+              {
+                "label": "A",
+                "text": "April 10."
+              },
+              {
+                "label": "B",
+                "text": "April 15."
+              },
+              {
+                "label": "C",
+                "text": "May 10."
+              },
+              {
+                "label": "D",
+                "text": "May 15."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "What do they have to do before the end of this month?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Paint the office."
+              },
+              {
+                "label": "B",
+                "text": "Sign the lease."
+              },
+              {
+                "label": "C",
+                "text": "Change the locks."
+              },
+              {
+                "label": "D",
+                "text": "Leave their old office."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word apprehensive in line 3 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "certain"
+              },
+              {
+                "label": "B",
+                "text": "relaxed"
+              },
+              {
+                "label": "C",
+                "text": "anxious"
+              },
+              {
+                "label": "D",
+                "text": "delighted"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What does the man want to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Validate his signature."
+          },
+          {
+            "label": "B",
+            "text": "Sign a contract."
+          },
+          {
+            "label": "C",
+            "text": "Become a lawyer."
+          },
+          {
+            "label": "D",
+            "text": "Get out of a lease."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "When does he have to make a decision?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Before 10:00."
+          },
+          {
+            "label": "B",
+            "text": "Before the end of the month."
+          },
+          {
+            "label": "C",
+            "text": "In four months."
+          },
+          {
+            "label": "D",
+            "text": "In ten months."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What is he afraid of?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Wearing the wrong suit."
+          },
+          {
+            "label": "B",
+            "text": "Paying too much money."
+          },
+          {
+            "label": "C",
+            "text": "Making the wrong decision."
+          },
+          {
+            "label": "D",
+            "text": "Being sued."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "Who is the audience for this talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Customers and clients."
+          },
+          {
+            "label": "B",
+            "text": "Landlords."
+          },
+          {
+            "label": "C",
+            "text": "Lawyers."
+          },
+          {
+            "label": "D",
+            "text": "Tenants."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What should a business owner do before signing a lease?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Make sure her business is successful."
+          },
+          {
+            "label": "B",
+            "text": "Look at the neighborhood."
+          },
+          {
+            "label": "C",
+            "text": "Get more customers."
+          },
+          {
+            "label": "D",
+            "text": "Occupy the space."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What length of time does the speaker recommend for a lease?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Four years."
+          },
+          {
+            "label": "B",
+            "text": "Five years."
+          },
+          {
+            "label": "C",
+            "text": "Nine years."
+          },
+          {
+            "label": "D",
+            "text": "Ten years."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. What does the man want to do? (A) Validate his signature. (B) Sign a contract. (C) Become a lawyer. (D) Get out of a lease. 6. When does he have to make a decision? (A) Before 10:00. (B) Before the end of the month. (C) In four months. (D) In ten months. 5. What is he afraid of? (A) Wearing the wrong suit. (B) Paying too much money. (C) Making the wrong decision. (D) Being sued. Listen to the talk. Then read each question and choose the best answer. 7. Who is the audience for this talk? (A) Customers and clients. (B) Landlords. (C) Lawyers. (D) Tenants. 8. What should a business owner do before signing a lease? (A) Make sure her business is successful. (B) Look at the neighborhood. (C) Get more customers. (D) Occupy the space. 9. What length of time does the speaker recommend for a lease? (A) Four years. (B) Five years. (C) Nine years. (D) Ten years.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question–Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What does the man want to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Validate his signature."
+          },
+          {
+            "label": "B",
+            "text": "Sign a contract."
+          },
+          {
+            "label": "C",
+            "text": "Become a lawyer."
+          },
+          {
+            "label": "D",
+            "text": "Get out of a lease."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "When does he have to make a decision?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Before 10:00."
+          },
+          {
+            "label": "B",
+            "text": "Before the end of the month."
+          },
+          {
+            "label": "C",
+            "text": "In four months."
+          },
+          {
+            "label": "D",
+            "text": "In ten months."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What is he afraid of?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Wearing the wrong suit."
+          },
+          {
+            "label": "B",
+            "text": "Paying too much money."
+          },
+          {
+            "label": "C",
+            "text": "Making the wrong decision."
+          },
+          {
+            "label": "D",
+            "text": "Being sued."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "Who is the audience for this talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Customers and clients."
+          },
+          {
+            "label": "B",
+            "text": "Landlords."
+          },
+          {
+            "label": "C",
+            "text": "Lawyers."
+          },
+          {
+            "label": "D",
+            "text": "Tenants."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What should a business owner do before signing a lease?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Make sure her business is successful."
+          },
+          {
+            "label": "B",
+            "text": "Look at the neighborhood."
+          },
+          {
+            "label": "C",
+            "text": "Get more customers."
+          },
+          {
+            "label": "D",
+            "text": "Occupy the space."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What length of time does the speaker recommend for a lease?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Four years."
+          },
+          {
+            "label": "B",
+            "text": "Five years."
+          },
+          {
+            "label": "C",
+            "text": "Nine years."
+          },
+          {
+            "label": "D",
+            "text": "Ten years."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "## ' CRDS TO LEARN\n\n(2) v on no\n\ncor .... 1\n\ndue )\n\n1\n\n( : out of\n\n• • • ,\n\n1 $_{uv}\\theta$\n\n1 -k :\n\nOCCL$_{P}$ '\n\nC·π)\n\n$\\therefore -1 : 1$\n\nStudy the following definitions and examples.\n\n1. apprehensive adj., anxious about the future\n\na. Most new home buyers are apprehensive about their decision.\n\nb. The mortgage lender was apprehensive about the company's ability to pay.\n\n2. circumstance n., a condition; a situation\n\na. Under the current economic circumstances, they will not be able to purchase the property.\n\nb. If the circumstances change in the near future and we have new properties, we will be sure to call you.\n\n3. condition n., the state of something; a requirement\n\na. Except for some minor repairs, the building is in very good condition.\n\nb. There are certain conditions that are unique to leasing a property.\n\n4. due to prep., because of\n\na. Due to the low interest rates, good office space is difficult to find.\n\nb. He didn't believe that the low prices were due only to the neighborhood.\n\n5. fluctuate v., to go up and down; to change\n\na. No one is very comfortable making a large investment while the currency values fluctuate almost daily.\n\nb. Prime business areas fluctuate with local economies, crime rates, and cost of living indices.\n\n6. get out of v., to escape; to exit\n\na. The agent wasn't sure if the executives could get out of their prior real estate arrangement.\n\nb. The company wanted to get out of the area before property values declined even further.\n\n7. indicator n., a sign, a signal\n\na. If the economy is an accurate indicator, rental prices will increase rapidly in the next six months.\n\nb. The results of the elections were seen as an important indicator of the stability in the area.\n\n8. lease n., a contract to pay to use property for an amount of time; v., to make a contract to use property\n\na. With the lease expiring next year, they need to start looking for a new location as soon as possible.\n\nb. They decided to lease the property rather than buy it.\n\n9. lock into v., to commit; to be unable to change\n\na. The company locked itself into a ten-year lease that they didn't want.\n\nb. Before you lock yourself into something, check all your options.\n\n10. occupy v., to dwell or reside in\n\na. Tenants are usually allowed to occupy their space beginning on the first day of the month.\n\nb. Our company has occupied this office for more than five years.\n\n11. option n., a choice, an alternative a. You could arrange the lease with an option to buy after a certain amount of time.\n\nb. With the real estate market so tight right now, you don't have that many options.\n\n12. subject to adj., under legal power; dependent\n\na. This contract is subject to all the laws and regulations of the state.\n\nb. The go-ahead to buy is subject to the president's approval.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\napprehensive due to indicator occupancy circumstances fluctuations lease options condition get out of lock into subject to\n\nStarting a new business is both an exciting and frightening undertaking. Most new business owners are (1) \\_\\_\\_\\_ about their ability to make all the decisions that arise during the course of opening a business. One of the first issues that will arise is whether to buy or (2) \\_\\_\\_\\_ property. In order to evaluate the options, business owners research the current real estate market.\n(3) \\_\\_\\_\\_ rates are a good (4) \\_\\_\\_\\_ of the overall business climate. Prices per square foot will increase as the occupancy rate increases.\n\nEconomic change is part of the business climate. There are often large (5) \\_\\_\\_\\_ in prices within a given city. These fluctuations are (6) \\_\\_\\_\\_ many factors like the (7) \\_\\_\\_\\_ of the building, the surrounding neighborhood, access to public transportation, and business projections for the area.\n\nBecause there is so much uncertainty in starting a business, many owners do not want to (8) \\_\\_\\_\\_ themselves \\_\\_\\_\\_ a long-term lease. Many negotiate clauses in their contracts to (9) \\_\\_\\_\\_ a lease under certain (10) \\_\\_\\_\\_. They want to insure the prices and conditions of a property before making a large commitment. Leases often provide more flexibility than buying a property. They like to leave their (11) \\_\\_\\_\\_ open. They don't like to be (12) \\_\\_\\_\\_ the whims of the marketplace.",
+    "word_families": "## WORD FAMILIES\n\n<table><tr><td>verb</td><td>apprehend</td><td>A child can&#x27;t apprehend the importance of saving for the future.</td></tr><tr><td>noun</td><td>apprehension</td><td>The air was thick with apprehension as the landlord met with the tenants.</td></tr><tr><td>adjective</td><td>apprehensive</td><td>The tenants were apprehensive about the conditions of their rental agreement.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td></td><td>circumstantially</td><td>The building owner circumstantially takes money out of the escrow account for emergency repairs.</td></tr><tr><td>- n</td><td>circumstance</td><td>Because of our circumstances, the rental agent kindly allowed us to get out of our lease early.</td></tr><tr><td>a x b e</td><td>circumstantial</td><td>The judge&#x27;s decision that the tenant was responsible for repairing the damage was based solely on circumstantial evidence.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>condition</td><td>The president conditioned her acceptance on two factors that were spelled out in the letter of agreement.</td></tr><tr><td></td><td>condition</td><td>They decided to rent the space, under the condition that the price would not be raised for the next two years.</td></tr><tr><td></td><td>conditional</td><td>If you give a conditional go-ahead, we will start drawing up the plans.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>indicate</td><td>As was indicated in the terms of the lease, any changes to the property must be approved by the owners.</td></tr><tr><td></td><td>indicator</td><td>The state of local schools is a good indicator of the health of the economy.</td></tr><tr><td>noun</td><td>indication</td><td>The management team had every indication that the tenants were planning to stay for the near future.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>)</td><td>fluctuate</td><td>As interest rates began to fluctuate, many investors became nervous and took their money out of the real estate market.</td></tr><tr><td></td><td>fluctuation</td><td>Construction is sensitive to any fluctuations in the economy.</td></tr><tr><td>n i</td><td>fluctuating</td><td>Any additional fluctuating on prices will not be accepted.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>)</td><td>occupy</td><td>The owner must make sure that the space is in good condition before the tenant occupies it.</td></tr><tr><td></td><td>occupant</td><td>Most of the occupants of this building are doctors and lawyers.</td></tr><tr><td></td><td>occupancy</td><td>The occupancy rate of the building has never fallen below 85 percent.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question–Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. What does the man want to do?  \n(A) Validate his signature.  \n(B) Sign a contract.  \n(C) Become a lawyer.  \n(D) Get out of a lease.\n\n6. When does he have to make a decision?\n(A) Before 10:00.\n(B) Before the end of the month.\n(C) In four months.\n(D) In ten months.\n\n5. What is he afraid of?\n(A) Wearing the wrong suit.\n(B) Paying too much money.\n(C) Making the wrong decision.\n(D) Being sued.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. Who is the audience for this talk?\n(A) Customers and clients.\n(B) Landlords.\n(C) Lawyers.\n(D) Tenants.\n\n8. What should a business owner do before signing a lease?\n(A) Make sure her business is successful.\n(B) Look at the neighborhood.\n(C) Get more customers.\n(D) Occupy the space.\n\n9. What length of time does the speaker recommend for a lease?\n(A) Four years.\n(B) Five years.\n(C) Nine years.\n(D) Ten years.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. The president was \\_\\_\\_\\_ about adding more space to the factory.\n(A) apprehend (C) apprehension\n(B) apprehensive (D) apprehended\n\n11. The financial \\_\\_\\_\\_ of our business don't allow us to lease an office with such a high monthly rent.\n(A) circumstances (C) circumstantially\n(B) circumstantial (D) circumstanced\n\n12. The real estate agent couldn't determine how to best work with a company that placed so many \\_\\_\\_\\_ on everything that they did.\n(A) conditional (C) conditioned\n(B) condition (D) conditions\n\n13. The buyer \\_\\_\\_\\_ with a nod of his head that he was placing a bid on the property.\n(A) indicates (C) indicated\n(B) indication (D) indicator\n\n14. \\_\\_\\_\\_ as it does, I don't understand how anyone can depend on that country's market to provide a safe investment.\n(A) Fluctuated (C) Fluctuation\n(B) Fluctuating (D) Fluctuate\n\n15. The lawyers signed the papers and the company took \\_\\_\\_\\_ of the new building.\n(A) occupied (C) occupancy\n(B) occupants (D) occupying\n\n## Part 6 Text Completion\n\n## For Rent\n\nLarge, sunny office in prime downtown location. We are seeking a tenant to take over the lease from the current occupant, who must leave due \\_16\\_ unforeseen circumstances. The new tenant will take over the six months remaining on the lease and will have the \\_17\\_ to renew for an additional year. The office has been recently repainted and is in excellent \\_18\\_. Call 567-0943 between 10:00 and 4:00 Monday through Friday to make an appointment to see the space.\n\n16. (A) to (B) of (C) by (D) on\n\n17. (A) optionally  \n(B) optional  \n(C) option  \n(D) opt\n\n18. (A) fluctuation  \n(B) indication  \n(C) apprehension  \n(D) condition",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following e-mail message.\n\nTo: Ted Van Dorn  \nFrom: Bernadette Riley  \nSubject: Office space  \nDate: April 10\n\n## Ted,\n\nI have found the solution to our office problems. I know that you have been wanting to get out of the neighborhood where our office is currently located, but that you have been apprehensive about the cost of renting in a better neighborhood. I have found an office downtown that I am sure we can afford. It is a bit smaller than our current space, but I think it will be big enough. The best part is, the rent is the same as we are paying now. This is due to the fact that the office is not in excellent condition. However, I think it will be easy for us to paint it and make a few small repairs. The space will be available for occupancy on the fifteenth of next month. We have the option of signing a one- or two-year lease, so we won't have to lock ourselves into a long-term contract. However, in order to get the low rent, we have to sign by the thirtieth of this month. If you are interested in this, I can arrange for you to see the space this weekend. Let me know as soon as possible.\n\nBern\n\n19. Why doesn't Ted like his current office?\n(A) It is in a bad location.\n(B) It is too expensive.\n(C) It isn't big enough.\n(D) It isn't in good condition.\n\n20. When can Ted and Bernadette move into the new office?\n(A) April 10.\n(B) April 15.\n(C) May 10.\n(D) May 15.\n\n21. What do they have to do before the end of this month?\n(A) Paint the office.\n(B) Sign the lease.\n(C) Change the locks.\n(D) Leave their old office.\n\n22. The word apprehensive in line 3 is closest in meaning to  \n(A) certain  \n(B) relaxed  \n(C) anxious  \n(D) delighted\n\n23. The word option in line 8 is closest in meaning to (A) choice (B) desire (C) necessity (D) requirement"
+  },
+  "needs_review": true
+}

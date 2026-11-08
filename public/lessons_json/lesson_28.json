@@ -1,0 +1,1605 @@
+{
+  "lesson_id": 28,
+  "title": "Quality Control",
+  "theme_name": "Management Issues",
+  "audio_track": "track_28.mp3",
+  "part1_photo": "part1_photos/lesson_28.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "brand",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an identifying mark or label; a trademark",
+      "definition_vi": "thương hiệu, nhãn hiệu",
+      "examples": [
+        {
+          "en": "Consumers often buy highly advertised brands of athletic shoes.",
+          "vi": "Người tiêu dùng thường mua các thương hiệu giày thể thao được quảng cáo rầm rộ."
+        },
+        {
+          "en": "All brands of aspirin are the same.",
+          "vi": "Tất cả các nhãn hiệu thuốc aspirin đều giống nhau."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "brand loyalty",
+        "brand awareness",
+        "leading brand",
+        "brand image"
+      ],
+      "usage": {
+        "structures": [
+          "build/promote a brand (xây dựng/quảng bá thương hiệu)",
+          "brand-new (mới tinh, hoàn toàn mới)"
+        ],
+        "prepositions": [
+          "of"
+        ],
+        "collocations": [
+          "brand recognition",
+          "store brand",
+          "brand name",
+          "rebranding campaign"
+        ],
+        "tip": "Rất hay ghép thành các cụm danh từ tiếp thị như 'brand awareness/recognition' (độ nhận diện thương hiệu) và 'brand loyalty' (lòng trung thành thương hiệu)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "brand",
+          "example": "The company decided to brand its new line of organic snacks under a separate label.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "branding",
+          "example": "Consistent corporate branding across all platforms helped attract younger consumers.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "branded",
+          "example": "Visitors to the trade booth received complimentary branded tote bags and pens.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The marketing agency specializes in corporate _____ and visual identity design for startups.",
+        "answer": "branding",
+        "base_word": "brand",
+        "pos_hint": "danh từ (việc xây dựng thương hiệu)",
+        "vi": "Công ty tiếp thị chuyên về xây dựng thương hiệu doanh nghiệp và thiết kế bộ nhận diện hình ảnh cho các công ty khởi nghiệp."
+      }
+    },
+    {
+      "id": 2,
+      "word": "conform",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to match specifications or qualities",
+      "definition_vi": "tuân theo, làm đúng theo, phù hợp với (tiêu chuẩn, quy격, quy định)",
+      "examples": [
+        {
+          "en": "The quality control manager insisted that every product that left the plant conform to the company's rigorous standards.",
+          "vi": "Giám đốc kiểm soát chất lượng kiên quyết yêu cầu mọi sản phẩm xuất xưởng phải đáp ứng các tiêu chuẩn khắt khe của công ty."
+        },
+        {
+          "en": "Our safety standards conform to those established by the government.",
+          "vi": "Các tiêu chuẩn an toàn của chúng tôi phù hợp với những tiêu chuẩn do chính phủ thiết lập."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "conform to standards",
+        "conform to specifications",
+        "conform with regulations",
+        "strict conformity"
+      ],
+      "usage": {
+        "structures": [
+          "conform to/with + standards/rules/specifications (tuân theo/đáp ứng đúng các tiêu chuẩn/quy định/thông số kỹ thuật)"
+        ],
+        "prepositions": [
+          "to",
+          "with"
+        ],
+        "collocations": [
+          "conform to safety codes",
+          "conform to quality requirements",
+          "in conformity with",
+          "fail to conform"
+        ],
+        "tip": "Nội động từ 'conform' luôn đi với giới từ 'to' hoặc 'with' (conform to safety standards = comply with / adhere to)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "conform",
+          "example": "All imported electrical appliances must conform to national safety regulations.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "conformity",
+          "example": "Inspectors verified that the building was constructed in full conformity with local codes.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "conformable",
+          "example": "The terms of the subcontractor's agreement must be conformable to the master contract.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Quality inspectors verified that all exported goods were manufactured in strict _____ with international standards.",
+        "answer": "conformity",
+        "base_word": "conform",
+        "pos_hint": "danh từ (sự tuân thủ/phù hợp)",
+        "vi": "Các thanh tra chất lượng đã xác nhận rằng tất cả hàng hóa xuất khẩu đều được sản xuất tuân thủ nghiêm ngặt các tiêu chuẩn quốc tế."
+      }
+    },
+    {
+      "id": 3,
+      "word": "defect",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an imperfection or flaw",
+      "definition_vi": "lỗi, khuyết điểm, khiếm khuyết (của sản phẩm)",
+      "examples": [
+        {
+          "en": "Because of a defect in stitching, the entire suit was thrown out.",
+          "vi": "Vì một lỗi ở đường may, cả bộ vest đã bị vứt bỏ."
+        },
+        {
+          "en": "One way to sell a product with a defect is by labeling it as such and reducing the price.",
+          "vi": "Một cách để bán sản phẩm bị lỗi là dán nhãn ghi rõ như vậy và giảm giá bán."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "defect",
+          "example": "Disgusted by the poor quality of products at the factory, the employee defected to a plant that took pride in its work."
+        },
+        {
+          "pos": "",
+          "word": "defect",
+          "example": "Even a small defect can cause a product to fail."
+        },
+        {
+          "pos": "",
+          "word": "defective",
+          "example": "Good quality control employees will notice defective machinery before a serious breakdown occurs."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "manufacturing defect",
+        "free from defects",
+        "defective product",
+        "check for defects"
+      ],
+      "usage": {
+        "structures": [
+          "a defect in + N (một lỗi/khiếm khuyết ở đâu)",
+          "inspect/check for defects (kiểm tra để tìm lỗi sản phẩm)"
+        ],
+        "prepositions": [
+          "in",
+          "from"
+        ],
+        "collocations": [
+          "structural defect",
+          "design defect",
+          "defective merchandise",
+          "minor defect"
+        ],
+        "tip": "Họ từ cực kỳ quan trọng trong TOEIC: 'defect' (danh từ đếm được: lỗi sản phẩm) và 'defective' (tính từ: bị lỗi, hỏng = faulty/flawed)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "defectively",
+          "example": "Any defectively manufactured parts are automatically rejected by the optical scanner.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Customers who receive _____ merchandise may exchange it at any retail location free of charge.",
+        "answer": "defective",
+        "base_word": "defect",
+        "pos_hint": "tính từ (bị lỗi)",
+        "vi": "Khách hàng nhận phải hàng hóa bị lỗi có thể đổi hàng hoàn toàn miễn phí tại bất kỳ cửa hàng bán lẻ nào."
+      }
+    },
+    {
+      "id": 4,
+      "word": "enhance",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to make more attractive or valuable",
+      "definition_vi": "nâng cao, tăng cường, làm nổi bật thêm (chất lượng, uy tín, giá trị)",
+      "examples": [
+        {
+          "en": "The reason behind quality control is to enhance the company's reputation for superior products.",
+          "vi": "Lý do đằng sau việc kiểm soát chất lượng là nhằm nâng cao uy tín của công ty về các sản phẩm vượt trội."
+        },
+        {
+          "en": "A stylish color enhances the appeal of a car.",
+          "vi": "Một màu sắc thời trang sẽ làm tăng thêm sức hấp dẫn của chiếc xe hơi."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "enhance reputation",
+        "enhance quality",
+        "enhance productivity",
+        "enhance the value"
+      ],
+      "usage": {
+        "structures": [
+          "enhance + N (nâng cao chất lượng/uy tín/hiệu suất/trải nghiệm)"
+        ],
+        "prepositions": [
+          "by",
+          "with"
+        ],
+        "collocations": [
+          "enhance customer experience",
+          "enhance security",
+          "enhance performance",
+          "quality enhancement"
+        ],
+        "tip": "Ngoại động từ trang trọng rất được ưa chuộng trong TOEIC để thay cho 'improve' khi đi với 'reputation', 'value', 'efficiency', 'image'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "enhance",
+          "example": "Upgrading the lighting system will greatly enhance the appearance of our showroom.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "enhancement",
+          "example": "The latest software update includes several security enhancements and bug fixes.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "enhanced",
+          "example": "Premium members enjoy enhanced customer support and faster shipping options.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The software developer released a free patch containing several performance _____.",
+        "answer": "enhancements",
+        "base_word": "enhance",
+        "pos_hint": "danh từ số nhiều (sự cải tiến/nâng cấp)",
+        "vi": "Nhà phát triển phần mềm đã phát hành một bản vá miễn phí bao gồm một số cải tiến nâng cao hiệu suất."
+      }
+    },
+    {
+      "id": 5,
+      "word": "garment",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an article of clothing",
+      "definition_vi": "món đồ may mặc, quần áo, hàng may mặc",
+      "examples": [
+        {
+          "en": "Every garment must be carefully inspected for defects before it is shipped.",
+          "vi": "Mỗi sản phẩm may mặc đều phải được kiểm tra lỗi kỹ lưỡng trước khi xuất xưởng."
+        },
+        {
+          "en": "The garment workers are accountable for production mistakes.",
+          "vi": "Các công nhân may mặc phải chịu trách nhiệm về những sai sót trong sản xuất."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "garment industry",
+        "garment factory",
+        "garment worker",
+        "garment bag"
+      ],
+      "usage": {
+        "structures": [
+          "inspect a garment (kiểm tra một sản phẩm may mặc)",
+          "the garment industry/district (ngành/khu vực công nghiệp may mặc)"
+        ],
+        "prepositions": [
+          "in",
+          "on"
+        ],
+        "collocations": [
+          "outer garment",
+          "wool garment",
+          "garment manufacturer",
+          "delicate garments"
+        ],
+        "tip": "'Garment' là danh từ đếm được (a garment / garments) dùng trong ngữ cảnh sản xuất, giặt là và bán lẻ thời trang để chỉ 'một món quần áo' (= an item of clothing)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "garments",
+          "example": "All delicate silk garments should be dry-cleaned rather than washed in a machine.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "All delicate silk _____ must be inspected by hand before being packed for shipment.",
+        "answer": "garments",
+        "base_word": "garment",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Tất cả các sản phẩm may mặc bằng lụa mỏng nhẹ đều phải được kiểm tra thủ công trước khi đóng gói vận chuyển."
+      }
+    },
+    {
+      "id": 6,
+      "word": "inspect",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to look at closely; to examine carefully or officially",
+      "definition_vi": "kiểm tra, thanh tra, xem xét kỹ lưỡng",
+      "examples": [
+        {
+          "en": "A quality control agent who does not inspect every product carefully can ruin his company's reputation.",
+          "vi": "Một nhân viên kiểm soát chất lượng không kiểm tra kỹ từng sản phẩm có thể hủy hoại danh tiếng của công ty mình."
+        },
+        {
+          "en": "Children's car seats are thoroughly inspected and tested for safety before being put on the market.",
+          "vi": "Ghế ngồi ô tô dành cho trẻ em được kiểm tra và thử nghiệm độ an toàn kỹ lưỡng trước khi đưa ra thị trường."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "inspect",
+          "example": "We must inspect every product before we sell it."
+        },
+        {
+          "pos": "",
+          "word": "inspection",
+          "example": "Each employee must conduct a careful inspection."
+        },
+        {
+          "pos": "",
+          "word": "inspector",
+          "example": "The inspector leaves his identification number on the product to ensure accountability."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "inspect closely",
+        "inspect for damage",
+        "safety inspection",
+        "quality inspector"
+      ],
+      "usage": {
+        "structures": [
+          "inspect + N + for + N (kiểm tra cái gì để phát hiện lỗi/hư hỏng)",
+          "conduct/carry out an inspection (tiến hành một cuộc kiểm tra/thanh tra)"
+        ],
+        "prepositions": [
+          "for",
+          "by"
+        ],
+        "collocations": [
+          "thoroughly inspect",
+          "routine inspection",
+          "building inspector",
+          "pass inspection"
+        ],
+        "tip": "Phân biệt rõ 'inspection' (cuộc thanh tra/kiểm tra) và 'inspector' (thanh tra viên/người kiểm tra)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "inspected",
+          "example": "Every inspected vehicle receives an official safety sticker on its windshield.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The restaurant passed its annual health _____ without a single violation.",
+        "answer": "inspection",
+        "base_word": "inspect",
+        "pos_hint": "danh từ",
+        "vi": "Nhà hàng đã vượt qua đợt kiểm tra vệ sinh an toàn thực phẩm hàng năm mà không có bất kỳ vi phạm nào."
+      }
+    },
+    {
+      "id": 7,
+      "word": "perceptive",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "able to see or understand",
+      "definition_vi": "sắc sảo, nhạy bén, tinh tế (nhận thức nhanh và sâu sắc)",
+      "examples": [
+        {
+          "en": "Dora always hires good workers because she is very perceptive about people's abilities.",
+          "vi": "Dora luôn tuyển được những công nhân giỏi vì bà ấy rất tinh tường về năng lực của mọi người."
+        },
+        {
+          "en": "It takes a perceptive person to be a good manager.",
+          "vi": "Cần phải là một người nhạy bén mới có thể trở thành một nhà quản lý giỏi."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "perceive",
+          "example": "The worker perceived that the stitching on the seams could not withstand normal strain."
+        },
+        {
+          "pos": "noun",
+          "word": "perception",
+          "example": "Customers' perception of quality is often based on their experience with a given store or brand."
+        },
+        {
+          "pos": "",
+          "word": "perceptive",
+          "example": "Perceptive workers are excellent quality control inspectors."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "perceptive observer",
+        "perceptive comment",
+        "perceptive manager",
+        "public perception"
+      ],
+      "usage": {
+        "structures": [
+          "be perceptive about/of + N (nhạy bén/tinh tường về điều gì)",
+          "perceive A as B (nhận thức/coi A như là B)"
+        ],
+        "prepositions": [
+          "about",
+          "of"
+        ],
+        "collocations": [
+          "perceptive analysis",
+          "highly perceptive",
+          "brand perception",
+          "perceive a need"
+        ],
+        "tip": "Họ từ 'perceive' (v: nhận thức, nhận thấy), 'perception' (n: sự nhận thức/quan niệm của khách hàng) và 'perceptive' (adj: nhạy bén, sâu sắc) rất hay xuất hiện trong bài đọc."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "perceptively",
+          "example": "The consultant perceptively pointed out the hidden bottleneck in our assembly line.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The company launched a public relations campaign to improve consumer _____ of its brand.",
+        "answer": "perception",
+        "base_word": "perceptive",
+        "pos_hint": "danh từ (nhận thức/cảm nhận)",
+        "vi": "Công ty đã phát động một chiến dịch quan hệ công chúng nhằm cải thiện cảm nhận của người tiêu dùng về thương hiệu của mình."
+      }
+    },
+    {
+      "id": 8,
+      "word": "repel",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to keep away; to fight against",
+      "definition_vi": "chống lại, đẩy lùi (nước, bụi, côn trùng); làm chán ghét, đẩy khách đi xa",
+      "examples": [
+        {
+          "en": "Umbrellas that do not repel water should never be passed through quality control.",
+          "vi": "Những chiếc ô không có khả năng chống thấm nước thì không bao giờ được phép lọt qua khâu kiểm soát chất lượng."
+        },
+        {
+          "en": "Faulty products repel repeat customers.",
+          "vi": "Những sản phẩm lỗi sẽ đẩy những khách hàng quen thuộc rời xa."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "repel",
+          "example": "A quality raincoat can repel rain and keep you dry."
+        },
+        {
+          "pos": "noun",
+          "word": "repellent",
+          "example": "Testing insect repellent is never a pleasant task."
+        },
+        {
+          "pos": "adjective",
+          "word": "repellent",
+          "example": "Testing stain removers can be repellent to workers because of the toxic fumes."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "repel water",
+        "repel insects",
+        "repel dirt",
+        "water-repellent fabric"
+      ],
+      "usage": {
+        "structures": [
+          "repel + water/moisture/stains/insects (chống thấm nước / chống ẩm / chống bám bẩn / xua đuổi côn trùng)"
+        ],
+        "prepositions": [
+          "from"
+        ],
+        "collocations": [
+          "repel customers",
+          "insect repellent",
+          "stain-repellent coating",
+          "water-repellent jacket"
+        ],
+        "tip": "Trong mô tả sản phẩm TOEIC, 'repel' và 'water-repellent / stain-repellent' dùng để chỉ tính năng 'chống thấm nước / chống bám bẩn'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "repellency",
+          "example": "The outdoor fabric was treated with a special wax to increase its water repellency.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "This hiking jacket is made from a lightweight, water-_____ material suitable for rainy weather.",
+        "answer": "repellent",
+        "base_word": "repel",
+        "pos_hint": "tính từ",
+        "vi": "Chiếc áo khoác leo núi này được làm từ chất liệu nhẹ, chống thấm nước phù hợp với thời tiết mưa."
+      }
+    },
+    {
+      "id": 9,
+      "word": "take back",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to return something; to withdraw or retract",
+      "definition_vi": "nhận lại (hàng trả lại), đem trả lại; rút lại (lời nói)",
+      "examples": [
+        {
+          "en": "Good quality control significantly limits the number of products taken back for a refund.",
+          "vi": "Việc kiểm soát chất lượng tốt sẽ hạn chế đáng kể số lượng sản phẩm bị trả lại để đòi hoàn tiền."
+        },
+        {
+          "en": "The quality inspector took the shoddy work back to the assembly line to confront the workers.",
+          "vi": "Thanh tra chất lượng đã mang sản phẩm làm ẩu trả lại dây chuyền lắp ráp để chất vấn các công nhân."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "take back defective goods",
+        "take back a statement",
+        "take it back to the store",
+        "refuse to take back"
+      ],
+      "usage": {
+        "structures": [
+          "take back + faulty/damaged items (nhận lại/đem trả lại hàng bị lỗi)",
+          "take + sth + back to + N (mang cái gì trả lại cho nơi nào)"
+        ],
+        "prepositions": [
+          "to",
+          "from"
+        ],
+        "collocations": [
+          "take back merchandise",
+          "take back an offer",
+          "take back control",
+          "take back for a refund"
+        ],
+        "tip": "Từ phía cửa hàng, 'take back' là 'nhận lại hàng khách trả'; từ phía người mua, 'take back' là 'mang hàng ra cửa hàng trả lại'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "take",
+          "example": "Retailers must take responsibility for the safety of the products they sell.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "take-back",
+          "example": "The electronics manufacturer introduced a free take-back program for old batteries.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Under our satisfaction guarantee, any unopened item will be gladly _____ back within thirty days.",
+        "answer": "taken",
+        "base_word": "take back",
+        "pos_hint": "động từ chia quá khứ phân từ V3 (bị động)",
+        "vi": "Theo chính sách đảm bảo sự hài lòng của chúng tôi, bất kỳ mặt hàng nào chưa mở đều sẽ được vui vẻ nhận trả lại trong vòng ba mươi ngày."
+      }
+    },
+    {
+      "id": 10,
+      "word": "throw out",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to dispose of",
+      "definition_vi": "vứt bỏ, loại bỏ (hàng lỗi, rác); bác bỏ (đề xuất, vụ kiện)",
+      "examples": [
+        {
+          "en": "It is cheaper to throw out shoddy products than to lose customers.",
+          "vi": "Vứt bỏ những sản phẩm kém chất lượng còn rẻ hơn là để mất khách hàng."
+        },
+        {
+          "en": "The factory decided to throw out hundreds of lightbulbs that might have been damaged, rather than lose customers.",
+          "vi": "Nhà máy đã quyết định vứt bỏ hàng trăm bóng đèn có nguy cơ bị hỏng hơn là để mất khách hàng."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "throw out defective parts",
+        "throw out old files",
+        "throw out a proposal",
+        "be thrown out"
+      ],
+      "usage": {
+        "structures": [
+          "throw out + N / throw + N + out (vứt bỏ/loại bỏ cái gì)"
+        ],
+        "prepositions": [
+          "of"
+        ],
+        "collocations": [
+          "throw out damaged goods",
+          "throw out expired food",
+          "throw out an idea",
+          "throw out trash"
+        ],
+        "tip": "Đồng nghĩa với 'discard', 'dispose of', 'throw away', 'get rid of' (vứt bỏ đi)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "throw",
+          "example": "Please do not throw packaging materials into the regular office trash bins.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "throwaway",
+          "example": "Many coffee shops are replacing throwaway plastic cups with reusable containers.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "During the warehouse cleanup, hundreds of obsolete manuals were _____ out and recycled.",
+        "answer": "thrown",
+        "base_word": "throw out",
+        "pos_hint": "động từ chia quá khứ phân từ V3 (bị động)",
+        "vi": "Trong đợt dọn dẹp nhà kho, hàng trăm cuốn sổ tay hướng dẫn lỗi thời đã bị loại bỏ và đem đi tái chế."
+      }
+    },
+    {
+      "id": 11,
+      "word": "uniformly",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "in the same way; consistently",
+      "definition_vi": "một cách đồng đều, nhất quán, đồng nhất",
+      "examples": [
+        {
+          "en": "The products are checked to make sure they are uniformly packaged before they leave the factory.",
+          "vi": "Các sản phẩm được kiểm tra để đảm bảo chúng được đóng gói đồng đều trước khi rời nhà máy."
+        },
+        {
+          "en": "The food at chain restaurants is uniformly prepared so that customers will always find the same quality at each restaurant.",
+          "vi": "Thức ăn tại các nhà hàng thuộc chuỗi được chế biến theo cách đồng nhất để khách hàng luôn tìm thấy cùng một chất lượng ở mỗi nhà hàng."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "uniform",
+          "example": "The employees at this company are required to wear uniforms."
+        },
+        {
+          "pos": "",
+          "word": "uniform",
+          "example": "A successful company will ensure the uniform quality of its products."
+        },
+        {
+          "pos": "",
+          "word": "uniformly",
+          "example": "All of our company's products must be uniformly labeled."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "uniformly packaged",
+        "uniformly applied",
+        "uniformly high quality",
+        "uniform standards"
+      ],
+      "usage": {
+        "structures": [
+          "be uniformly + V3/ed / adj (được làm gì / có tính chất gì một cách đồng đều, nhất quán)"
+        ],
+        "prepositions": [
+          "across",
+          "throughout"
+        ],
+        "collocations": [
+          "uniformly distributed",
+          "uniformly labeled",
+          "wear a uniform",
+          "ensure uniformity"
+        ],
+        "tip": "Lưu ý: 'uniform' khi là danh từ có nghĩa là 'bộ đồng phục', nhưng khi là tính từ lại có nghĩa là 'đồng đều, nhất quán' (= consistent)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "uniformity",
+          "example": "Automated assembly lines ensure complete uniformity in product size and weight.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Automated optical scanners ensure complete _____ in the size and shape of every bottled product.",
+        "answer": "uniformity",
+        "base_word": "uniformly",
+        "pos_hint": "danh từ (tính đồng nhất)",
+        "vi": "Các máy quét quang học tự động đảm bảo sự đồng nhất hoàn toàn về kích thước và hình dạng của từng sản phẩm đóng chai."
+      }
+    },
+    {
+      "id": 12,
+      "word": "wrinkle",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a crease, ridge, or furrow, especially in skin or fabric",
+      "definition_vi": "nếp nhăn (trên vải, da), trục trặc nhỏ; (v.) làm nhăn, bị nhăn",
+      "examples": [
+        {
+          "en": "A wrinkle that is ironed into a permanent-press product will annoy the consumer each time the garment is worn.",
+          "vi": "Một nếp nhăn bị ủi lẹm vào sản phẩm chống nhăn sẽ làm người tiêu dùng khó chịu mỗi khi mặc món đồ đó."
+        },
+        {
+          "en": "A wrinkle in the finish can be repaired more economically before a sale than after.",
+          "vi": "Một vết nhăn/lỗi nhỏ trên lớp hoàn thiện có thể được sửa chữa tiết kiệm hơn trước khi bán ra so với sau khi đã bán."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "wrinkle",
+          "example": "Linen is not a practical fabric because it wrinkles easily."
+        },
+        {
+          "pos": "",
+          "word": "wrinkle",
+          "example": "Inspect garments carefully and remove any wrinkles that you find."
+        },
+        {
+          "pos": "",
+          "word": "wrinkled",
+          "example": "Garments become wrinkled after they have been tried on several times at the store."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "wrinkle-resistant fabric",
+        "wrinkle-free shirt",
+        "iron out wrinkles",
+        "wrinkle easily"
+      ],
+      "usage": {
+        "structures": [
+          "remove/smooth out wrinkles (làm phẳng các nếp nhăn)",
+          "iron out the wrinkles (san phẳng nếp nhăn / giải quyết các trục trặc nhỏ cuối cùng)"
+        ],
+        "prepositions": [
+          "in",
+          "on"
+        ],
+        "collocations": [
+          "fine wrinkles",
+          "wrinkled clothing",
+          "anti-wrinkle cream",
+          "minor wrinkle in a plan"
+        ],
+        "tip": "Ngoài nghĩa đen là 'nếp nhăn quần áo', thành ngữ 'iron out the wrinkles' trong kinh doanh có nghĩa là 'xử lý êm đẹp những vướng mắc/trục trặc nhỏ'."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "wrinkle-free",
+          "example": "Business travelers prefer wrinkle-free dress shirts that do not require ironing.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Before hanging the display items in the showroom, staff members steamed every _____ shirt.",
+        "answer": "wrinkled",
+        "base_word": "wrinkle",
+        "pos_hint": "tính từ (bị nhăn)",
+        "vi": "Trước khi treo các mặt hàng trưng bày trong phòng giới thiệu, các nhân viên đã là hơi phẳng phiu từng chiếc áo sơ mi bị nhăn."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. Alex is excited about his new job with Parapluie Rain Wear. As quality control manager, his job is to make sure that his company's goods (1) ____ to standardized quality criteria and are free from (2) ____. Before any (3) ____ leaves the factory, Alex must (4) ____ it. He knows that if he (5) ____ a damaged garment before a customer sees it, he will (6) ____ his company's reputation and increase the demand for their products. Alex must ensure that all products meet certain criteria: A customer who buys a raincoat that does not (7) ____ rain will probably (8) ____ the raincoat to the store and buy another (9) ____. The same is true if the seams are not sewn tightly or the color is not (10) ____. Alex knows that, in addition to keeping out rain, the product must be attractive to look at and to touch. It should not (11) ____ easily, and it should last a long time. Alex knows that it is important for customers to (12) ____ his company's goods as quality products so that his company will profit—and he can get a raise.",
+    "word_bank": [
+      "brand",
+      "enhance",
+      "perceive",
+      "throws out",
+      "conform",
+      "garment",
+      "repel",
+      "uniform",
+      "defects",
+      "inspect",
+      "take back",
+      "wrinkle"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "defect",
+        "example": "Disgusted by the poor quality of products at the factory, the employee defected to a plant that took pride in its work.",
+        "pos": ""
+      },
+      {
+        "word": "defect",
+        "example": "Even a small defect can cause a product to fail.",
+        "pos": ""
+      },
+      {
+        "word": "defective",
+        "example": "Good quality control employees will notice defective machinery before a serious breakdown occurs.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "inspect",
+        "example": "We must inspect every product before we sell it.",
+        "pos": ""
+      },
+      {
+        "word": "inspection",
+        "example": "Each employee must conduct a careful inspection.",
+        "pos": ""
+      },
+      {
+        "word": "inspector",
+        "example": "The inspector leaves his identification number on the product to ensure accountability.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "perceive",
+        "example": "The worker perceived that the stitching on the seams could not withstand normal strain.",
+        "pos": ""
+      },
+      {
+        "word": "perception",
+        "example": "Customers' perception of quality is often based on their experience with a given store or brand.",
+        "pos": "noun"
+      },
+      {
+        "word": "perceptive",
+        "example": "Perceptive workers are excellent quality control inspectors.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "repel",
+        "example": "A quality raincoat can repel rain and keep you dry.",
+        "pos": ""
+      },
+      {
+        "word": "repellent",
+        "example": "Testing insect repellent is never a pleasant task.",
+        "pos": "noun"
+      },
+      {
+        "word": "repellent",
+        "example": "Testing stain removers can be repellent to workers because of the toxic fumes.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "uniform",
+        "example": "The employees at this company are required to wear uniforms.",
+        "pos": "noun"
+      },
+      {
+        "word": "uniform",
+        "example": "A successful company will ensure the uniform quality of its products.",
+        "pos": ""
+      },
+      {
+        "word": "uniformly",
+        "example": "All of our company's products must be uniformly labeled.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "wrinkle",
+        "example": "Linen is not a practical fabric because it wrinkles easily.",
+        "pos": ""
+      },
+      {
+        "word": "wrinkle",
+        "example": "Inspect garments carefully and remove any wrinkles that you find.",
+        "pos": ""
+      },
+      {
+        "word": "wrinkled",
+        "example": "Garments become wrinkled after they have been tried on several times at the store.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "____ equipment on a new car is not only costly, but also dangerous.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Defect"
+          },
+          {
+            "label": "B",
+            "text": "Defector"
+          },
+          {
+            "label": "C",
+            "text": "Defective"
+          },
+          {
+            "label": "D",
+            "text": "Defection"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "Rebecca is known as ____ #321 among her quality control coworkers.",
+        "options": [
+          {
+            "label": "A",
+            "text": "inspect"
+          },
+          {
+            "label": "B",
+            "text": "inspection"
+          },
+          {
+            "label": "C",
+            "text": "inspector"
+          },
+          {
+            "label": "D",
+            "text": "inspecting"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "An employee who ____ his job as important performs better than one who wants only a paycheck.",
+        "options": [
+          {
+            "label": "A",
+            "text": "perceives"
+          },
+          {
+            "label": "B",
+            "text": "perceived"
+          },
+          {
+            "label": "C",
+            "text": "perceptive"
+          },
+          {
+            "label": "D",
+            "text": "perception"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "Agnes was ____ by the odor of the waterproofing.",
+        "options": [
+          {
+            "label": "A",
+            "text": "repel"
+          },
+          {
+            "label": "B",
+            "text": "repellent"
+          },
+          {
+            "label": "C",
+            "text": "repelled"
+          },
+          {
+            "label": "D",
+            "text": "repelling"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "Standardized products are ____ in appearance.",
+        "options": [
+          {
+            "label": "A",
+            "text": "uniforms"
+          },
+          {
+            "label": "B",
+            "text": "uniformly"
+          },
+          {
+            "label": "C",
+            "text": "uniform"
+          },
+          {
+            "label": "D",
+            "text": "unformed"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "Sarah wants to return her dress to the store because it ____ too easily.",
+        "options": [
+          {
+            "label": "A",
+            "text": "wrinkles"
+          },
+          {
+            "label": "B",
+            "text": "wrinkly"
+          },
+          {
+            "label": "C",
+            "text": "wrinkle"
+          },
+          {
+            "label": "D",
+            "text": "wrinkling"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Thank you for buying a Flexco product. Flexco is a top name in women's clothing, and the Flexco brand carries a reputation for excellence. Customer satisfaction is our top priority, and all Flexco garments carry the Flexco guarantee. All our products must [16] to high standards. They [17] by trained professionals before they leave the factory. If your purchase is defective in any way, you may take it [18] to the store for a complete refund.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "conform"
+            },
+            {
+              "label": "B",
+              "text": "conforms"
+            },
+            {
+              "label": "C",
+              "text": "conforming"
+            },
+            {
+              "label": "D",
+              "text": "to conform"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "inspect"
+            },
+            {
+              "label": "B",
+              "text": "inspected"
+            },
+            {
+              "label": "C",
+              "text": "are inspected"
+            },
+            {
+              "label": "D",
+              "text": "have inspected"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "up"
+            },
+            {
+              "label": "B",
+              "text": "out"
+            },
+            {
+              "label": "C",
+              "text": "off"
+            },
+            {
+              "label": "D",
+              "text": "back"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following letter. October 10, 20— Customer Service Department Flexco Women's Clothing 234502 Anthony Place Woodston, NY 12229 Dear Customer Service, I am writing to express my extreme dissatisfaction with a recent purchase of a Flexco garment. Last week I went to our local department store to buy a gift for my wife. I chose a very handsome Flexco raincoat and gave it to my wife on her birthday last Saturday. She was pleased with the gift and wore it yesterday because we had a big rainstorm. We were both surprised to find out that the raincoat is not water repellant at all. My wife returned from her walk very, very wet. In addition, the fabric of the coat became wrinkled in the rain. I bought the Flexco raincoat for my wife because Flexco is one of her favorite brands. She already owns several Flexco dresses, skirts, and blouses. We never expected to be disappointed by a Flexco product. I took the raincoat back to the store this morning. The manager there said that he did not see any defects in the coat, but he offered me a different coat in exchange. Since I understand that Flexco guarantees a complete refund on all its products, I did not accept the manager's offer. I hope that Flexco will stand by its guarantee. I am returning the raincoat with this letter, together with the receipt from the department store, and hope to receive a complete refund before the end of the month. Thank you for your attention to this matter. Sincerely, Thomas Jamison",
+        "questions": [
+          {
+            "number": 19,
+            "question": "Why did Mr. Jamison write this letter?",
+            "options": [
+              {
+                "label": "A",
+                "text": "He wants to order more garments from Flexco."
+              },
+              {
+                "label": "B",
+                "text": "He is unhappy with his purchase."
+              },
+              {
+                "label": "C",
+                "text": "He is looking for a present for his wife."
+              },
+              {
+                "label": "D",
+                "text": "He wants to express his appreciation of Flexco products."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "What Flexco product did Mr. Jamison buy?",
+            "options": [
+              {
+                "label": "A",
+                "text": "A dress."
+              },
+              {
+                "label": "B",
+                "text": "A skirt."
+              },
+              {
+                "label": "C",
+                "text": "A blouse."
+              },
+              {
+                "label": "D",
+                "text": "A raincoat."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "What happened when Mr. Jamison returned to the store?",
+            "options": [
+              {
+                "label": "A",
+                "text": "He bought more garments."
+              },
+              {
+                "label": "B",
+                "text": "He was offered a refund."
+              },
+              {
+                "label": "C",
+                "text": "He was offered a new coat."
+              },
+              {
+                "label": "D",
+                "text": "He noticed some defective clothes."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word wrinkled in line 5 of the first paragraph is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "creased"
+              },
+              {
+                "label": "B",
+                "text": "wet"
+              },
+              {
+                "label": "C",
+                "text": "destroyed"
+              },
+              {
+                "label": "D",
+                "text": "dirty"
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word brands in line 6 of the first paragraph is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "gifts"
+              },
+              {
+                "label": "B",
+                "text": "names"
+              },
+              {
+                "label": "C",
+                "text": "stores"
+              },
+              {
+                "label": "D",
+                "text": "styles"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What does the company do with garments that have defects?",
+        "options": [
+          {
+            "label": "A",
+            "text": "It exchanges them for better products."
+          },
+          {
+            "label": "B",
+            "text": "It throws them out."
+          },
+          {
+            "label": "C",
+            "text": "It stores them at the factory."
+          },
+          {
+            "label": "D",
+            "text": "It sells them at a discount."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How many of the garments end up with defects?",
+        "options": [
+          {
+            "label": "A",
+            "text": "15 percent."
+          },
+          {
+            "label": "B",
+            "text": "16 percent."
+          },
+          {
+            "label": "C",
+            "text": "50 percent."
+          },
+          {
+            "label": "D",
+            "text": "60 percent."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What type of garment does the company manufacture?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Shirts."
+          },
+          {
+            "label": "B",
+            "text": "Skirts."
+          },
+          {
+            "label": "C",
+            "text": "Sweaters."
+          },
+          {
+            "label": "D",
+            "text": "Uniforms."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "Who is this talk directed at?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Store employees."
+          },
+          {
+            "label": "B",
+            "text": "Factory workers."
+          },
+          {
+            "label": "C",
+            "text": "Product inspectors."
+          },
+          {
+            "label": "D",
+            "text": "Customers."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "When is a product inspected?",
+        "options": [
+          {
+            "label": "A",
+            "text": "When it reaches the store."
+          },
+          {
+            "label": "B",
+            "text": "Before it leaves the factory."
+          },
+          {
+            "label": "C",
+            "text": "Before the customer takes it home."
+          },
+          {
+            "label": "D",
+            "text": "When the customer returns it."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What can a customer do with a defective product?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Ask for a new product in exchange."
+          },
+          {
+            "label": "B",
+            "text": "Send it back to the factory."
+          },
+          {
+            "label": "C",
+            "text": "Show it to an inspector."
+          },
+          {
+            "label": "D",
+            "text": "Return it to the store."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. What does the company do with garments that have defects? (A) It exchanges them for better products. (B) It throws them out. (C) It stores them at the factory. (D) It sells them at a discount. 5. How many of the garments end up with defects? (A) 15 percent. (B) 16 percent. (C) 50 percent. (D) 60 percent. 6. What type of garment does the company manufacture? (A) Shirts. (B) Skirts. (C) Sweaters. (D) Uniforms. Listen to the talk. Then read each question and choose the best answer. 7. Who is this talk directed at? (A) Store employees. (B) Factory workers. (C) Product inspectors. (D) Customers. 8. When is a product inspected? (A) When it reaches the store. (B) Before it leaves the factory. (C) Before the customer takes it home. (D) When the customer returns it. 9. What can a customer do with a defective product? (A) Ask for a new product in exchange. (B) Send it back to the factory. (C) Show it to an inspector. (D) Return it to the store.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question–Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What does the company do with garments that have defects?",
+        "options": [
+          {
+            "label": "A",
+            "text": "It exchanges them for better products."
+          },
+          {
+            "label": "B",
+            "text": "It throws them out."
+          },
+          {
+            "label": "C",
+            "text": "It stores them at the factory."
+          },
+          {
+            "label": "D",
+            "text": "It sells them at a discount."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How many of the garments end up with defects?",
+        "options": [
+          {
+            "label": "A",
+            "text": "15 percent."
+          },
+          {
+            "label": "B",
+            "text": "16 percent."
+          },
+          {
+            "label": "C",
+            "text": "50 percent."
+          },
+          {
+            "label": "D",
+            "text": "60 percent."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What type of garment does the company manufacture?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Shirts."
+          },
+          {
+            "label": "B",
+            "text": "Skirts."
+          },
+          {
+            "label": "C",
+            "text": "Sweaters."
+          },
+          {
+            "label": "D",
+            "text": "Uniforms."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "Who is this talk directed at?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Store employees."
+          },
+          {
+            "label": "B",
+            "text": "Factory workers."
+          },
+          {
+            "label": "C",
+            "text": "Product inspectors."
+          },
+          {
+            "label": "D",
+            "text": "Customers."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "When is a product inspected?",
+        "options": [
+          {
+            "label": "A",
+            "text": "When it reaches the store."
+          },
+          {
+            "label": "B",
+            "text": "Before it leaves the factory."
+          },
+          {
+            "label": "C",
+            "text": "Before the customer takes it home."
+          },
+          {
+            "label": "D",
+            "text": "When the customer returns it."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What can a customer do with a defective product?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Ask for a new product in exchange."
+          },
+          {
+            "label": "B",
+            "text": "Send it back to the factory."
+          },
+          {
+            "label": "C",
+            "text": "Show it to an inspector."
+          },
+          {
+            "label": "D",
+            "text": "Return it to the store."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "Lesson\n\n28\n\n## WORDS TO LEARN\n\n| |\n\ncor' n\n\n1 3\n\ntake back\n\nmly\n\n## Quality Control\n\nStudy the following definitions and examples.\n\n1. brand n., an identifying mark or label; a trademark\n\na. Consumers often buy highly advertised brands of athletic shoes.\n\nb. All brands of aspirin are the same.\n\n2. conform v., to match specifications or qualities a. The quality control manager insisted that every product that left the plant conform to the company's rigorous standards.\n\nb. Our safety standards conform to those established by the government.\n\n3. defect n., an imperfection or flaw\n\na. Because of a defect in stitching, the entire suit was thrown out.\n\nb. One way to sell a product with a defect is by labeling it as such and reducing the price.\n\n4. enhance v., to make more attractive or valuable a. The reason behind quality control is to enhance the company's reputation for superior products.\n\nb. A stylish color enhances the appeal of a car.\n\n5. garment n., an article of clothing a. Every garment must be carefully inspected for defects before it is shipped.\n\nb. The garment workers are accountable for production mistakes.\n\n6. inspect v., to look at closely; to examine carefully or officially a. A quality control agent who does not inspect every product carefully can ruin his company's reputation.\n\nb. Children's car seats are thoroughly inspected and tested for safety before being put on the market.\n\n7. perceptive adj., able to see or understand a. Dora always hires good workers because she is very perceptive about people's abilities.\n\nb. It takes a perceptive person to be a good manager.\n\n8. repel v., to keep away; to fight against a. Umbrellas that do not repel water should never be passed through quality control.\n\nb. Faulty products repel repeat customers.\n\n9. take back v., to return something; to withdraw or retract a. Good quality control significantly limits the number of products taken back for a refund.\n\nb. The quality inspector took the shoddy work back to the assembly line to confront the workers.\n\n10. throw out v., to dispose of\n\na. It is cheaper to throw out shoddy products than to lose customers.\n\nb. The factory decided to throw out hundreds of lightbulbs that might have been damaged, rather than lose customers.\n\n11. uniformly adv., in the same way; consistently a. The products are checked to make sure they are uniformly packaged before they leave the factory.\n\nb. The food at chain restaurants is uniformly prepared so that customers will always find the same quality at each restaurant.\n\n12. wrinkle n., a crease, ridge, or furrow, especially in skin or fabric\n\na. A wrinkle that is ironed into a permanent-press product will annoy the consumer each time the garment is worn.\n\nb. A wrinkle in the finish can be repaired more economically before a sale than after.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\n| brand | enhance | perceive | throws out |\n| --- | --- | --- | --- |\n| conform | garment | repel | uniform |\n| defects | inspect | take back | wrinkle |\n\nAlex is excited about his new job with Parapluie Rain Wear. As quality control manager, his job is to make sure that his company's goods (1) \\_\\_\\_\\_ to standardized quality criteria and are free from (2) \\_\\_\\_\\_. Before any (3) \\_\\_\\_\\_ leaves the factory, Alex must (4) \\_\\_\\_\\_ it. He knows that if he (5) \\_\\_\\_\\_ a damaged garment before a customer sees it, he will (6) \\_\\_\\_\\_ his company's reputation and increase the demand for their products. Alex must ensure that all products meet certain criteria: A customer who buys a raincoat that does not (7) \\_\\_\\_\\_ rain will probably (8) \\_\\_\\_\\_ the raincoat to the store and buy another (9) \\_\\_\\_\\_. The same is true if the seams are not sewn tightly or the color is not (10) \\_\\_\\_\\_. Alex knows that, in addition to keeping out rain, the product must be attractive to look at and to touch. It should not (11) \\_\\_\\_\\_ easily, and it should last a long time. Alex knows that it is important for customers to (12) \\_\\_\\_\\_ his company's goods as quality products so that his company will profit—and he can get a raise.",
+    "word_families": "## WORD FAMILIES\n\n| defect | Disgusted by the poor quality of products at the factory, the employee defected to a plant that took pride in its work. |\n| --- | --- |\n| defect | Even a small defect can cause a product to fail. |\n| defective | Good quality control employees will notice defective machinery before a serious breakdown occurs. |\n\n| inspect | We must inspect every product before we sell it. |\n| --- | --- |\n| inspection | Each employee must conduct a careful inspection. |\n| inspector | The inspector leaves his identification number on the product to ensure accountability. |\n\n|  | perceive | The worker perceived that the stitching on the seams could not withstand normal strain. |\n| --- | --- | --- |\n| noun | perception | Customers' perception of quality is often based on their experience with a given store or brand. |\n|  | perceptive | Perceptive workers are excellent quality control inspectors. |\n\n| t. t. | repel | A quality raincoat can repel rain and keep you dry. |\n| --- | --- | --- |\n| noun | repellent | Testing insect repellent is never a pleasant task. |\n| a √ə | repellent | Testing stain removers can be repellent to workers because of the toxic fumes. |\n\n| noun | uniform | The employees at this company are required to wear uniforms. |\n| --- | --- | --- |\n| i | uniform | A successful company will ensure the uniform quality of its products. |\n| i'v'k h | uniformly | All of our company's products must be uniformly labeled. |\n\n| ..b | wrinkle | Linen is not a practical fabric because it wrinkles easily. |\n| --- | --- | --- |\n| I | wrinkle | Inspect garments carefully and remove any wrinkles that you find. |\n| i | wrinkled | Garments become wrinkled after they have been tried on several times at the store. |",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question–Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. What does the company do with garments that have defects?\n(A) It exchanges them for better products.\n(B) It throws them out.\n(C) It stores them at the factory.\n(D) It sells them at a discount.\n\n5. How many of the garments end up with defects?\n(A) 15 percent.\n(B) 16 percent.\n(C) 50 percent.\n(D) 60 percent.\n\n6. What type of garment does the company manufacture?\n(A) Shirts.\n(B) Skirts.\n(C) Sweaters.\n(D) Uniforms.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. Who is this talk directed at?\n(A) Store employees.\n(B) Factory workers.\n(C) Product inspectors.\n(D) Customers.\n\n8. When is a product inspected?\n(A) When it reaches the store.\n(B) Before it leaves the factory.\n(C) Before the customer takes it home.\n(D) When the customer returns it.\n\n9. What can a customer do with a defective product?\n(A) Ask for a new product in exchange.\n(B) Send it back to the factory.\n(C) Show it to an inspector.\n(D) Return it to the store.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. \\_\\_\\_\\_ equipment on a new car is not only costly, but also dangerous.\n(A) Defect (C) Defective\n(B) Defector (D) Defection\n\n11. Rebecca is known as \\_\\_\\_\\_ #321 among her quality control coworkers.\n(A) inspect (C) inspector\n(B) inspection (D) inspecting\n\n12. An employee who \\_\\_\\_\\_ his job as important performs better than one who wants only a paycheck.\n(A) perceives (C) perceptive\n(B) perceived (D) perception\n\n13. Agnes was \\_\\_\\_\\_ by the odor of the waterproofing.\n(A) repel (C) repelled\n(B) repellent (D) repelling\n\n14. Standardized products are \\_\\_\\_\\_ in appearance.\n(A) uniforms (C) uniform\n(B) uniformly (D) unformed\n\n15. Sarah wants to return her dress to the store because it \\_\\_\\_\\_ too easily.\n(A) wrinkles (C) wrinkle\n(B) wrinkly (D) wrinkling\n\n## Part 6 Text Completion\n\nThank you for buying a Flexco product. Flexco is a top name in women's clothing, and the Flexco brand carries a reputation for excellence. Customer satisfaction is our top priority, and all Flexco garments carry the Flexco guarantee. All our products must \\_16\\_ to high standards. They \\_17\\_ by trained professionals before they leave the factory. If your purchase is defective in any way, you may take it \\_18\\_ to the store for a complete refund.\n\n16. (A) conform 18. (A) up  \n(B) conforms (B) out  \n(C) conforming (C) off  \n(D) to conform (D) back\n\n17. (A) inspect  \n(B) inspected  \n(C) are inspected  \n(D) have inspected",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following letter.\n\nOctober 10, 20—\n\nCustomer Service Department Flexco Women's Clothing 234502 Anthony Place Woodston, NY 12229\n\nDear Customer Service,\n\nI am writing to express my extreme dissatisfaction with a recent purchase of a Flexco garment. Last week I went to our local department store to buy a gift for my wife. I chose a very handsome Flexco raincoat and gave it to my wife on her birthday last Saturday. She was pleased with the gift and wore it yesterday because we had a big rainstorm. We were both surprised to find out that the raincoat is not water repellant at all. My wife returned from her walk very, very wet. In addition, the fabric of the coat became wrinkled in the rain. I bought the Flexco raincoat for my wife because Flexco is one of her favorite brands. She already owns several Flexco dresses, skirts, and blouses. We never expected to be disappointed by a Flexco product.\n\nI took the raincoat back to the store this morning. The manager there said that he did not see any defects in the coat, but he offered me a different coat in exchange. Since I understand that Flexco guarantees a complete refund on all its products, I did not accept the manager's offer. I hope that Flexco will stand by its guarantee. I am returning the raincoat with this letter, together with the receipt from the department store, and hope to receive a complete refund before the end of the month. Thank you for your attention to this matter.\n\nSincerely,\n\nThomas Jamison\n\n19. Why did Mr. Jamison write this letter?\n(A) He wants to order more garments from Flexco.\n(B) He is unhappy with his purchase.\n(C) He is looking for a present for his wife.\n(D) He wants to express his appreciation of Flexco products.\n\n20. What Flexco product did Mr. Jamison buy?\n(A) A dress.\n(B) A skirt.\n(C) A blouse.\n(D) A raincoat.\n\n21. What happened when Mr. Jamison returned to the store?\n(A) He bought more garments.\n(B) He was offered a refund.\n(C) He was offered a new coat.\n(D) He noticed some defective clothes.\n\n22. The word wrinkled in line 5 of the first paragraph is closest in meaning to  \n(A) creased  \n(B) wet  \n(C) destroyed  \n(D) dirty\n\n23. The word brands in line 6 of the first paragraph is closest in meaning to  \n(A) gifts  \n(B) names  \n(C) stores  \n(D) styles"
+  },
+  "needs_review": true
+}

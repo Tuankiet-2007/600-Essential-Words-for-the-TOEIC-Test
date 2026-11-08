@@ -1,0 +1,1611 @@
+{
+  "lesson_id": 27,
+  "title": "Board Meetings and Committees",
+  "theme_name": "Management Issues",
+  "audio_track": "track_27.mp3",
+  "part1_photo": "part1_photos/lesson_27.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "adhere to",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to follow; to pay attention to",
+      "definition_vi": "tuân thủ, bám sát, làm đúng theo (quy định, nguyên tắc, lịch trình)",
+      "examples": [
+        {
+          "en": "The chairman never adhered to his own rules. here to",
+          "vi": "Chủ tịch không bao giờ tuân thủ các quy tắc do chính ông ấy đặt ra."
+        },
+        {
+          "en": "The best committee members are those who adhere to the time limits and speak only when they have something important to add.",
+          "vi": "Những thành viên ủy ban tốt nhất là những người tuân thủ giới hạn thời gian và chỉ phát biểu khi có điều quan trọng cần bổ sung."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "adhere",
+          "example": "The chairperson asked us to adhere to the items on the agenda."
+        },
+        {
+          "pos": "",
+          "word": "adherence",
+          "example": "Your adherence to these guidelines would be appreciated."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "adhere to guidelines",
+        "adhere to a schedule",
+        "strictly adhere to",
+        "strict adherence to"
+      ],
+      "usage": {
+        "structures": [
+          "adhere (strictly) to + N (tuân thủ nghiêm ngặt quy định/tiêu chuẩn/thời gian biểu)",
+          "adherence to + N (sự tuân thủ cái gì)"
+        ],
+        "prepositions": [
+          "to"
+        ],
+        "collocations": [
+          "adhere to safety standards",
+          "adhere to the agenda",
+          "adhere to the terms",
+          "adhere to regulations"
+        ],
+        "tip": "Một trong những cụm từ tủ của TOEIC Part 5: cả động từ 'adhere' và danh từ 'adherence' đều LUÔN đi với giới từ 'to' (= comply with / abide by / conform to)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "adherent",
+          "example": "The new quality director is a strict adherent of international manufacturing standards.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "adherent",
+          "example": "The protective coating is highly adherent to both metal and plastic surfaces.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Strict _____ to the safety protocols is mandatory for all personnel entering the laboratory.",
+        "answer": "adherence",
+        "base_word": "adhere to",
+        "pos_hint": "danh từ",
+        "vi": "Việc tuân thủ nghiêm ngặt các quy trình an toàn là bắt buộc đối với tất cả nhân sự vào phòng thí nghiệm."
+      }
+    },
+    {
+      "id": 2,
+      "word": "agenda",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a list of topics to be discussed",
+      "definition_vi": "chương trình nghị sự, danh sách các nội dung cần bàn trong cuộc họp",
+      "examples": [
+        {
+          "en": "The board was able to cover fifteen items on the agenda.",
+          "vi": "Hội đồng quản trị đã có thể thảo luận hết mười lăm mục trong chương trình nghị sự."
+        },
+        {
+          "en": "The agenda was sent out three weeks ago so that everyone could prepare for the meeting.",
+          "vi": "Chương trình họp đã được gửi đi từ ba tuần trước để mọi người có thể chuẩn bị cho cuộc họp."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "on the agenda",
+        "meeting agenda",
+        "set the agenda",
+        "item on the agenda"
+      ],
+      "usage": {
+        "structures": [
+          "on the agenda (có trong chương trình cuộc họp)",
+          "top of the agenda (vấn đề ưu tiên hàng đầu trong chương trình)"
+        ],
+        "prepositions": [
+          "on",
+          "for"
+        ],
+        "collocations": [
+          "circulate the agenda",
+          "agenda item",
+          "hidden agenda",
+          "draw up an agenda"
+        ],
+        "tip": "Đi với giới từ 'on' (items on the agenda: các mục trong chương trình họp)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "agendas",
+          "example": "Copies of the meeting agendas were distributed to all board members on Monday morning.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Printed copies of the meeting _____ were distributed to all committee members upon arrival.",
+        "answer": "agendas",
+        "base_word": "agenda",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Các bản in chương trình nghị sự của cuộc họp đã được phát cho tất cả các thành viên ủy ban khi họ đến nơi."
+      }
+    },
+    {
+      "id": 3,
+      "word": "bring up",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to introduce a topic",
+      "definition_vi": "đề cập đến, nêu ra (một vấn đề, chủ đề để thảo luận)",
+      "examples": [
+        {
+          "en": "Just as the meeting was about to finish, the manager brought up a controversial issue.",
+          "vi": "Ngay khi cuộc họp sắp kết thúc, người quản lý đã nêu ra một vấn đề gây tranh cãi."
+        },
+        {
+          "en": "No one brought up the resignation of the director.",
+          "vi": "Không ai đề cập đến việc từ chức của vị giám đốc."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "bring up an issue",
+        "bring up a topic",
+        "bring up a question",
+        "bring up at a meeting"
+      ],
+      "usage": {
+        "structures": [
+          "bring up + a matter/topic/point (nêu ra một vấn đề/chủ đề)",
+          "bring + it + up (đề cập đến nó)"
+        ],
+        "prepositions": [
+          "at",
+          "in",
+          "during"
+        ],
+        "collocations": [
+          "bring up a subject",
+          "bring up concerns",
+          "bring up a proposal",
+          "hesitate to bring up"
+        ],
+        "tip": "Trong ngữ cảnh hội họp TOEIC, 'bring up' đồng nghĩa với 'raise' hoặc 'introduce' (nêu ra một vấn đề để bàn luận)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "bring",
+          "example": "Hiring an experienced marketing director will bring fresh energy to the division.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "upbringing",
+          "example": "Her international upbringing helped her communicate effortlessly with overseas clients.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Several important budget concerns were _____ up during yesterday's executive committee session.",
+        "answer": "brought",
+        "base_word": "bring up",
+        "pos_hint": "động từ chia quá khứ phân từ V3 (bị động)",
+        "vi": "Một số mối quan ngại quan trọng về ngân sách đã được nêu ra trong phiên họp ủy ban điều hành ngày hôm qua."
+      }
+    },
+    {
+      "id": 4,
+      "word": "conclude",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to stop; to come to a decision",
+      "definition_vi": "kết thúc, bế mạc; đi đến kết luận, quyết định; ký kết (hợp đồng)",
+      "examples": [
+        {
+          "en": "The committee members concluded the meeting early so that they could finish their budgets.",
+          "vi": "Các thành viên ủy ban đã kết thúc cuộc họp sớm để họ có thể hoàn thành bản ngân sách của mình."
+        },
+        {
+          "en": "After long discussions, the board has concluded that the project has to be canceled.",
+          "vi": "Sau những cuộc thảo luận dài, hội đồng quản trị đã đi đến kết luận rằng dự án phải bị hủy bỏ."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "conclude",
+          "example": "To conclude, we must all focus on the year ahead of us and the challenges that we will face."
+        },
+        {
+          "pos": "",
+          "word": "conclusion",
+          "example": "Unfortunately, the conclusion of the meeting was that they needed to downsize their workforce."
+        },
+        {
+          "pos": "",
+          "word": "conclusive",
+          "example": "There is no conclusive evidence to back up the report."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "conclude a meeting",
+        "conclude an agreement",
+        "reach a conclusion",
+        "conclusive evidence"
+      ],
+      "usage": {
+        "structures": [
+          "conclude + N / conclude with + N (kết thúc cuộc họp/bài phát biểu bằng cái gì)",
+          "conclude that + clause (kết luận rằng...)"
+        ],
+        "prepositions": [
+          "with",
+          "from",
+          "by"
+        ],
+        "collocations": [
+          "conclude negotiations",
+          "draw a conclusion",
+          "in conclusion",
+          "conclusive proof"
+        ],
+        "tip": "Ngoài nghĩa 'kết thúc' và 'kết luận', trong thương mại 'conclude a contract/agreement/deal' còn có nghĩa là 'ký kết/hoàn tất đàm phán hợp đồng'."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "conclusively",
+          "example": "The laboratory tests proved conclusively that the new material is fire-resistant.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The audit failed to provide _____ proof of how the accounting error had occurred.",
+        "answer": "conclusive",
+        "base_word": "conclude",
+        "pos_hint": "tính từ (mang tính thuyết phục/xác đáng)",
+        "vi": "Cuộc kiểm toán đã không đưa ra được bằng chứng xác đáng về việc lỗi kế toán đó đã xảy ra như thế nào."
+      }
+    },
+    {
+      "id": 5,
+      "word": "go ahead",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to proceed with; n., permission to do something",
+      "definition_vi": "tiến hành, tiếp tục làm; (n. go-ahead) sự cho phép, sự bật đèn xanh",
+      "examples": [
+        {
+          "en": "Five of the six members felt that they should go ahead with the plan.",
+          "vi": "Năm trong số sáu thành viên cảm thấy rằng họ nên tiến hành kế hoạch đó."
+        },
+        {
+          "en": "The manager was just waiting for the go ahead from her boss before mailing the report.",
+          "vi": "Người quản lý chỉ đang chờ sự cho phép từ sếp của mình trước khi gửi bản báo cáo đi."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "go ahead with",
+        "give the go-ahead",
+        "get the go-ahead",
+        "official go-ahead"
+      ],
+      "usage": {
+        "structures": [
+          "go ahead with + N (tiến hành/tiếp tục thực hiện kế hoạch/dự án)",
+          "give/get/receive the go-ahead (cho phép / nhận được sự cho phép tiến hành)"
+        ],
+        "prepositions": [
+          "with",
+          "for"
+        ],
+        "collocations": [
+          "go ahead as planned",
+          "wait for the go-ahead",
+          "final go-ahead",
+          "go ahead and do"
+        ],
+        "tip": "Khi là cụm động từ đi với 'with' (go ahead with the project = proceed with); khi có mạo từ 'the go-ahead' thì là danh từ nghĩa là 'sự phê duyệt/bật đèn xanh'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "go",
+          "example": "Everything is expected to go smoothly at tomorrow's shareholder meeting.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "go-ahead",
+          "example": "Once we receive the official go-ahead from city council, construction will begin immediately.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The product launch will _____ ahead as scheduled despite the recent change in management.",
+        "answer": "go",
+        "base_word": "go ahead",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Buổi ra mắt sản phẩm sẽ diễn ra đúng như lịch trình bất chấp sự thay đổi nhân sự quản lý gần đây."
+      }
+    },
+    {
+      "id": 6,
+      "word": "goal",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "objective, purpose",
+      "definition_vi": "mục tiêu, đích hướng tới",
+      "examples": [
+        {
+          "en": "Employees are expected to analyze and evaluate their annual goals.",
+          "vi": "Nhân viên được kỳ vọng sẽ phân tích và đánh giá các mục tiêu hàng năm của mình."
+        },
+        {
+          "en": "The director had to report to the committee that his department would not reach its goal of 35 percent growth.",
+          "vi": "Vị giám đốc đã phải báo cáo với ủy ban rằng bộ phận của ông sẽ không đạt được mục tiêu tăng trưởng 35 phần trăm."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "achieve a goal",
+        "set a goal",
+        "reach a goal",
+        "long-term goal"
+      ],
+      "usage": {
+        "structures": [
+          "set/establish a goal (đặt ra mục tiêu)",
+          "achieve/attain/reach/meet a goal (đạt được mục tiêu)"
+        ],
+        "prepositions": [
+          "of",
+          "for",
+          "toward"
+        ],
+        "collocations": [
+          "ultimate goal",
+          "common goal",
+          "primary goal",
+          "career goals"
+        ],
+        "tip": "Đồng nghĩa với 'objective', 'aim', 'target'; rất hay đi với các động từ 'achieve', 'accomplish', 'reach', 'set', 'pursue'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "goals",
+          "example": "Setting clear departmental goals helps employees prioritize their daily tasks.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "goal-oriented",
+          "example": "We are looking for a dynamic, goal-oriented sales manager to lead our new branch.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "During the annual performance review, supervisors help staff members establish realistic career _____.",
+        "answer": "goals",
+        "base_word": "goal",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Trong đợt đánh giá năng lực hàng năm, người giám sát giúp các nhân viên thiết lập những mục tiêu nghề nghiệp thực tế."
+      }
+    },
+    {
+      "id": 7,
+      "word": "lengthy",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "long in time, duration, or distance",
+      "definition_vi": "dài dòng, kéo dài (về thời gian hoặc độ dài văn bản)",
+      "examples": [
+        {
+          "en": "After lengthy discussions, the chairperson was reelected for another term.",
+          "vi": "Sau những cuộc thảo luận kéo dài, vị chủ tịch đã tái đắc cử thêm một nhiệm kỳ nữa."
+        },
+        {
+          "en": "The report was so lengthy that members had to take it home and read it over the weekend.",
+          "vi": "Bản báo cáo dài đến mức các thành viên phải mang về nhà và đọc vào dịp cuối tuần."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "lengthen",
+          "example": "Ms. Greene decided to lengthen the time allotted to the meeting to allow each person a chance to speak."
+        },
+        {
+          "pos": "",
+          "word": "length",
+          "example": "Because of its length, we decided not to read the entire report at the meeting."
+        },
+        {
+          "pos": "",
+          "word": "lengthy",
+          "example": "A presentation that is too lengthy will only put the audience to sleep."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "lengthy discussion",
+        "lengthy process",
+        "lengthy report",
+        "lengthy delay"
+      ],
+      "usage": {
+        "structures": [
+          "lengthy + N (cuộc thảo luận/quy trình/báo cáo kéo dài)",
+          "at length (một cách chi tiết, kéo dài)"
+        ],
+        "prepositions": [
+          "in",
+          "at"
+        ],
+        "collocations": [
+          "lengthy negotiations",
+          "lengthy review",
+          "lengthen the deadline",
+          "at great length"
+        ],
+        "tip": "Đừng nhầm hậu tố: 'length' là danh từ (độ dài), 'lengthen' là động từ (làm dài ra), còn 'lengthy' là tính từ (dài dòng/kéo dài lâu)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "lengthily",
+          "example": "The committee chairperson spoke lengthily about the history of the organization.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The city council voted to _____ the public comment period for the proposed zoning law by two weeks.",
+        "answer": "lengthen",
+        "base_word": "lengthy",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Hội đồng thành phố đã bỏ phiếu kéo dài thời gian lấy ý kiến công chúng đối với dự thảo luật quy hoạch thêm hai tuần."
+      }
+    },
+    {
+      "id": 8,
+      "word": "matter",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an item, issue, topic of interest",
+      "definition_vi": "vấn đề, chuyện, việc cần giải quyết; (v.) có tầm quan trọng",
+      "examples": [
+        {
+          "en": "If there are no other matters to discuss, we will conclude the meeting.",
+          "vi": "Nếu không còn vấn đề nào khác cần thảo luận, chúng ta sẽ kết thúc cuộc họp."
+        },
+        {
+          "en": "This is not the place to bring up personal matters.",
+          "vi": "Đây không phải là nơi để mang chuyện cá nhân ra bàn."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "urgent matter",
+        "personal matter",
+        "look into the matter",
+        "as a matter of fact"
+      ],
+      "usage": {
+        "structures": [
+          "look into / handle / resolve a matter (điều tra / xử lý / giải quyết một vấn đề)",
+          "be a matter of + N (là vấn đề về cái gì: thời gian, nguyên tắc)"
+        ],
+        "prepositions": [
+          "of",
+          "with",
+          "for",
+          "to"
+        ],
+        "collocations": [
+          "financial matters",
+          "legal matter",
+          "confidential matter",
+          "a matter of time"
+        ],
+        "tip": "Trong thư tín TOEIC, cụm 'look into the matter' (xem xét/điều tra vấn đề này) xuất hiện rất thường xuyên."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "matter",
+          "example": "Customer satisfaction matters more to our company than short-term profits.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "matters",
+          "example": "The vice president of legal affairs handles all contractual matters for the corporation.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The vice president of legal affairs handles all contractual _____ on behalf of the corporation.",
+        "answer": "matters",
+        "base_word": "matter",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Phó chủ tịch phụ trách pháp chế giải quyết mọi vấn đề liên quan đến hợp đồng thay mặt cho tập đoàn."
+      }
+    },
+    {
+      "id": 9,
+      "word": "periodically",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "from time to time",
+      "definition_vi": "định kỳ, thỉnh thoảng, theo từng chu kỳ",
+      "examples": [
+        {
+          "en": "The group tried to meet periodically.",
+          "vi": "Nhóm đã cố gắng tổ chức họp định kỳ."
+        },
+        {
+          "en": "Periodically, new members were nominated to the committee.",
+          "vi": "Định kỳ theo từng đợt, các thành viên mới lại được đề cử vào ủy ban."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "period",
+          "example": "The sales reports for the current period are excellent."
+        },
+        {
+          "pos": "",
+          "word": "periodic",
+          "example": "They received periodic updates from the overseas licensees."
+        },
+        {
+          "pos": "",
+          "word": "periodically",
+          "example": "The employee checked his messages periodically during the week-long seminar."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "meet periodically",
+        "review periodically",
+        "check periodically",
+        "update periodically"
+      ],
+      "usage": {
+        "structures": [
+          "V + periodically / periodically + V (làm gì một cách định kỳ)",
+          "periodic + inspection/review/maintenance (kiểm tra/đánh giá/bảo trì định kỳ)"
+        ],
+        "prepositions": [
+          "for",
+          "over",
+          "during"
+        ],
+        "collocations": [
+          "inspect periodically",
+          "periodic updates",
+          "probationary period",
+          "trial period"
+        ],
+        "tip": "Trạng từ 'periodically' bổ nghĩa cho động từ (inspect/update periodically), còn tính từ 'periodic' đứng trước danh từ (periodic maintenance)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "periodical",
+          "example": "The library subscribes to over fifty trade periodicals and business journals.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "All factory machinery undergoes _____ safety inspections to prevent unexpected breakdowns.",
+        "answer": "periodic",
+        "base_word": "periodically",
+        "pos_hint": "tính từ (định kỳ)",
+        "vi": "Tất cả máy móc trong nhà máy đều trải qua các cuộc kiểm tra an toàn định kỳ để ngăn ngừa sự cố hỏng hóc bất ngờ."
+      }
+    },
+    {
+      "id": 10,
+      "word": "priority",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "something of importance, something that should be done before other things",
+      "definition_vi": "sự ưu tiên, điều ưu tiên hàng đầu",
+      "examples": [
+        {
+          "en": "Since the remaining issues were not a priority, the group decided to move them to the next week's agenda.",
+          "vi": "Vì những vấn đề còn lại không phải là ưu tiên cấp bách, nhóm đã quyết định chuyển chúng sang chương trình họp tuần tới."
+        },
+        {
+          "en": "The manager was ineffective because she was unable to set priorities.",
+          "vi": "Người quản lý làm việc kém hiệu quả vì bà ấy không biết cách sắp xếp thứ tự ưu tiên."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "prioritize",
+          "example": "Once the team members learned to prioritize their work, they were much more productive."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "top priority",
+        "high priority",
+        "set priorities",
+        "give priority to"
+      ],
+      "usage": {
+        "structures": [
+          "give priority to + N (dành sự ưu tiên cho cái gì)",
+          "take priority over + N (được ưu tiên hơn cái gì)",
+          "be a top/first priority (là ưu tiên hàng đầu)"
+        ],
+        "prepositions": [
+          "to",
+          "over",
+          "for"
+        ],
+        "collocations": [
+          "first priority",
+          "urgent priority",
+          "prioritize tasks",
+          "prior approval"
+        ],
+        "tip": "Chú ý họ từ: 'priority' (danh từ: điều ưu tiên), 'prioritize' (động từ: sắp xếp ưu tiên) và 'prior to' (giới từ: trước khi = before)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "priority",
+          "example": "Ensuring passenger safety is always the airline's highest priority.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "prior",
+          "example": "All expense reimbursements require prior approval from the department head.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "During the training workshop, new managers learn how to _____ their daily tasks effectively.",
+        "answer": "prioritize",
+        "base_word": "priority",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Trong buổi hội thảo đào tạo, các quản lý mới học cách sắp xếp thứ tự ưu tiên cho các công việc hàng ngày một cách hiệu quả."
+      }
+    },
+    {
+      "id": 11,
+      "word": "progress",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a movement forward; v., to move forward on something, especially work or a project",
+      "definition_vi": "sự tiến bộ, tiến độ, sự tiến triển; (v.) tiến triển, tiến bộ",
+      "examples": [
+        {
+          "en": "The executive committee asked each group to present a report showing their progress for the year.",
+          "vi": "Ủy ban điều hành đã yêu cầu mỗi nhóm trình bày một báo cáo cho thấy tiến độ của họ trong năm qua."
+        },
+        {
+          "en": "Progress is being made on the annual report; we expect to see a finished product by next week.",
+          "vi": "Báo cáo thường niên đang có tiến triển tốt; chúng tôi dự kiến sẽ thấy sản phẩm hoàn chỉnh vào tuần tới."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "progress",
+          "example": "Everyone was surprised at how quickly the meeting had progressed."
+        },
+        {
+          "pos": "noun",
+          "word": "progression",
+          "example": "The quick progression of events didn&#x27;t surprise anyone."
+        },
+        {
+          "pos": "",
+          "word": "progressive",
+          "example": "The new president is very progressive and is always looking for ways to improve the business."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "make progress",
+        "in progress",
+        "steady progress",
+        "monitor progress"
+      ],
+      "usage": {
+        "structures": [
+          "make (good/steady/rapid) progress on/toward + N (đạt được tiến bộ/tiến triển tốt về cái gì)",
+          "be in progress (đang được tiến hành = be underway)"
+        ],
+        "prepositions": [
+          "in",
+          "on",
+          "toward",
+          "with"
+        ],
+        "collocations": [
+          "work in progress",
+          "progress report",
+          "career progression",
+          "progressive policies"
+        ],
+        "tip": "'Progress' là danh từ KHÔNG đếm được (không bao giờ có 'a progress' hay 'progresses' khi là danh từ); cụm 'in progress' = đang diễn ra."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "progressively",
+          "example": "The software interface has become progressively easier to use with each update.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Negotiations between the two merging banks have _____ much faster than industry analysts anticipated.",
+        "answer": "progressed",
+        "base_word": "progress",
+        "pos_hint": "động từ chia quá khứ phân từ V3/ed (hiện tại hoàn thành)",
+        "vi": "Các cuộc đàm phán giữa hai ngân hàng sáp nhập đã tiến triển nhanh hơn nhiều so với dự đoán của các nhà phân tích trong ngành."
+      }
+    },
+    {
+      "id": 12,
+      "word": "waste",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "not to use wisely; n., not worthwhile",
+      "definition_vi": "lãng phí (thời gian, tiền bạc, tài nguyên); (n.) sự lãng phí, rác thải",
+      "examples": [
+        {
+          "en": "Without a leader, the group members wasted time and energy trying to organize themselves.",
+          "vi": "Không có người lãnh đạo, các thành viên trong nhóm đã lãng phí thời gian và công sức để cố tự tổ chức."
+        },
+        {
+          "en": "The meeting wasn't a waste of time, but the members had hoped to accomplish more than they did.",
+          "vi": "Cuộc họp không phải là một sự lãng phí thời gian, nhưng các thành viên đã hy vọng đạt được nhiều kết quả hơn những gì họ đã làm."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "waste of time",
+        "waste resources",
+        "industrial waste",
+        "waste management"
+      ],
+      "usage": {
+        "structures": [
+          "waste + time/money/energy + (on) N / V-ing (lãng phí thời gian/tiền bạc/năng lượng vào việc gì)",
+          "a waste of + time/money/effort (một sự lãng phí thời gian/tiền bạc/công sức)"
+        ],
+        "prepositions": [
+          "of",
+          "on",
+          "in"
+        ],
+        "collocations": [
+          "reduce waste",
+          "waste disposal",
+          "hazardous waste",
+          "wasteful spending"
+        ],
+        "tip": "Sau 'waste + time/money' ta dùng trực tiếp 'V-ing' (waste time trying to...) hoặc 'on + Noun'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "waste",
+          "example": "Automated scheduling software ensures that employees do not waste time on manual data entry.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "waste",
+          "example": "The factory implemented a new recycling program to minimize industrial waste.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "wasteful",
+          "example": "The audit identified several wasteful practices in the procurement department.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "wastefully",
+          "example": "Lights and air conditioners should not be left running wastefully in empty offices.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Switching to digital invoicing has helped the company eliminate _____ paper consumption.",
+        "answer": "wasteful",
+        "base_word": "waste",
+        "pos_hint": "tính từ (gây lãng phí)",
+        "vi": "Việc chuyển sang hóa đơn điện tử đã giúp công ty loại bỏ việc tiêu thụ giấy tờ gây lãng phí."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. Committee meetings are a frequent and necessary event at almost every company. In order for meetings to be productive and not viewed as a (1) ____ of time, they should be run efficiently. Critical to the success of any meeting is the (2) ____. Everyone who attends the meeting should be aware of the agenda and be prepared to discuss the (3) ____ at hand and the (4) ____ to be accomplished. To avoid (5) ____ discussions, time frames should be set and (6) ____. The meeting is called to order by the chairperson. Attendance is taken and agenda items are (7) ____ one by one. In general, (8) ____ topics should be at the beginning of the agenda, to make sure that the attendees are able to discuss them fully and make timely decisions. Once the (9) ____ is given for a plan or project, a plan of action is developed. The committee must then (10) ____ check up on the (11) ____ of that plan. The meeting is (12) ____ without any outstanding issues and a date for the next meeting is set.",
+    "word_bank": [
+      "adhered to",
+      "concluded",
+      "lengthy",
+      "priority",
+      "agenda",
+      "go ahead",
+      "matters",
+      "progress",
+      "brought up",
+      "goals",
+      "periodically",
+      "waste"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "adhere",
+        "example": "The chairperson asked us to adhere to the items on the agenda.",
+        "pos": ""
+      },
+      {
+        "word": "adherence",
+        "example": "Your adherence to these guidelines would be appreciated.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "conclude",
+        "example": "To conclude, we must all focus on the year ahead of us and the challenges that we will face.",
+        "pos": ""
+      },
+      {
+        "word": "conclusion",
+        "example": "Unfortunately, the conclusion of the meeting was that they needed to downsize their workforce.",
+        "pos": ""
+      },
+      {
+        "word": "conclusive",
+        "example": "There is no conclusive evidence to back up the report.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "lengthen",
+        "example": "Ms. Greene decided to lengthen the time allotted to the meeting to allow each person a chance to speak.",
+        "pos": ""
+      },
+      {
+        "word": "length",
+        "example": "Because of its length, we decided not to read the entire report at the meeting.",
+        "pos": ""
+      },
+      {
+        "word": "lengthy",
+        "example": "A presentation that is too lengthy will only put the audience to sleep.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "period",
+        "example": "The sales reports for the current period are excellent.",
+        "pos": ""
+      },
+      {
+        "word": "periodic",
+        "example": "They received periodic updates from the overseas licensees.",
+        "pos": ""
+      },
+      {
+        "word": "periodically",
+        "example": "The employee checked his messages periodically during the week-long seminar.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "prioritize",
+        "example": "Once the team members learned to prioritize their work, they were much more productive.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "priority",
+        "example": "The committee member has difficulties setting priorities for herself.",
+        "pos": ""
+      },
+      {
+        "word": "prior",
+        "example": "The director did not give much attention to Ellen&#x27;s proposal as he had several prior matters to attend to.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "progress",
+        "example": "Everyone was surprised at how quickly the meeting had progressed.",
+        "pos": "verb"
+      },
+      {
+        "word": "progression",
+        "example": "The quick progression of events didn&#x27;t surprise anyone.",
+        "pos": "noun"
+      },
+      {
+        "word": "progressive",
+        "example": "The new president is very progressive and is always looking for ways to improve the business.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "When using these facilities, please ____ to the rules posted by the door.",
+        "options": [
+          {
+            "label": "A",
+            "text": "adhere"
+          },
+          {
+            "label": "B",
+            "text": "adhering"
+          },
+          {
+            "label": "C",
+            "text": "adherence"
+          },
+          {
+            "label": "D",
+            "text": "adhered"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "As the chairman stood to give his ____, everyone in the room was listening.",
+        "options": [
+          {
+            "label": "A",
+            "text": "conclusion"
+          },
+          {
+            "label": "B",
+            "text": "conclude"
+          },
+          {
+            "label": "C",
+            "text": "conclusive"
+          },
+          {
+            "label": "D",
+            "text": "concluding"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "George decided to ____ his business trip by a few days so he could do some sightseeing.",
+        "options": [
+          {
+            "label": "A",
+            "text": "length"
+          },
+          {
+            "label": "B",
+            "text": "lengthen"
+          },
+          {
+            "label": "C",
+            "text": "lengthy"
+          },
+          {
+            "label": "D",
+            "text": "lengthened"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "The original members of the committee met ____ for lunch or dinner.",
+        "options": [
+          {
+            "label": "A",
+            "text": "period"
+          },
+          {
+            "label": "B",
+            "text": "periods"
+          },
+          {
+            "label": "C",
+            "text": "periodically"
+          },
+          {
+            "label": "D",
+            "text": "periodic"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "As her first ____, the committee chairwoman wanted to attract new, energetic members to the group.",
+        "options": [
+          {
+            "label": "A",
+            "text": "prior"
+          },
+          {
+            "label": "B",
+            "text": "priority"
+          },
+          {
+            "label": "C",
+            "text": "prioritize"
+          },
+          {
+            "label": "D",
+            "text": "prioritized"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "Even as they ____ through the hundreds of pages of supporting material, the committee was still not convinced that the project was justified.",
+        "options": [
+          {
+            "label": "A",
+            "text": "progression"
+          },
+          {
+            "label": "B",
+            "text": "progressed"
+          },
+          {
+            "label": "C",
+            "text": "progresses"
+          },
+          {
+            "label": "D",
+            "text": "progressive"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Memo To: Department Staff From: Alison Roth, Department Manager Re: Meeting All members of the department staff are requested to attend a department meeting next Friday morning. As you know, we meet [16] to review our work of the past months and finalize plans for the coming months. The goal of this Friday's meeting is to set our priorities for the next six months. The meeting agenda is attached for your review. Let's agree to follow the agenda and not [17] other matters at this time so that we can finish the meeting in a timely manner. The most important item on the agenda is the budget. We need to take a careful look at our spending practices. We [18] too much money over the past six months. Please come with ideas about how we can use our funds more efficiently in the future. Please arrive at the meeting on time so that we can conclude before 12:00.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "period"
+            },
+            {
+              "label": "B",
+              "text": "periodic"
+            },
+            {
+              "label": "C",
+              "text": "periodical"
+            },
+            {
+              "label": "D",
+              "text": "periodically"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "set back"
+            },
+            {
+              "label": "B",
+              "text": "go ahead"
+            },
+            {
+              "label": "C",
+              "text": "bring up"
+            },
+            {
+              "label": "D",
+              "text": "adhere to"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "waste"
+            },
+            {
+              "label": "B",
+              "text": "have wasted"
+            },
+            {
+              "label": "C",
+              "text": "will waste"
+            },
+            {
+              "label": "D",
+              "text": "are wasting"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following agenda and e-mail message. Annual Meeting May 17, 20— 1:00 p.m. 1. Progress report on overseas expansion Robert Fleurat 2. Reducing waste in our plants Madeline Costello 3. Reassessing our financial goals Jean Duprey 4. Hiring and firing policies Cynthia Weinstein 5. Looking ahead: priorities for the next decade Samuel Lyon To: Cynthia Weinstein From: Samuel Lyon Subject: Yesterday's meeting We all missed you at yesterday's meeting. We were concerned that a medical emergency prevented your attendance but are glad to know that you are all right now. The meeting went well, and we were able to adhere to the agenda for the most part. There was only one small change. Jean gave his presentation on finance right after Robert since he had to leave early. Your secretary faxed a copy of your report to me, and I read it in your place. There were a few questions which will be submitted to you by e-mail. The meeting was not lengthy at all. In fact, even though we had scheduled three hours for the entire meeting, we actually concluded half an hour earlier than that. You see how efficient we have become. A copy of the meeting minutes will be faxed to you before 5:00 today. I hope to speak with you soon. Hello Cynthia, Samuel",
+        "questions": [
+          {
+            "number": 19,
+            "question": "What was the second item presented at the meeting?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Progress report on overseas expansion."
+              },
+              {
+                "label": "B",
+                "text": "Reducing waste in our plants."
+              },
+              {
+                "label": "C",
+                "text": "Reassessing our financial goals."
+              },
+              {
+                "label": "D",
+                "text": "Hiring and firing policies."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "Who read the report on hiring and firing policies?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Madeline Costello."
+              },
+              {
+                "label": "B",
+                "text": "Jean Duprey."
+              },
+              {
+                "label": "C",
+                "text": "Cynthia Weinstein."
+              },
+              {
+                "label": "D",
+                "text": "Samuel Lyon."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "What time did the meeting end?",
+            "options": [
+              {
+                "label": "A",
+                "text": "1:00."
+              },
+              {
+                "label": "B",
+                "text": "3:30."
+              },
+              {
+                "label": "C",
+                "text": "4:00."
+              },
+              {
+                "label": "D",
+                "text": "4:30."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word goals in line 3 of the agenda is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "objectives"
+              },
+              {
+                "label": "B",
+                "text": "problems"
+              },
+              {
+                "label": "C",
+                "text": "needs"
+              },
+              {
+                "label": "D",
+                "text": "decisions"
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The words adhere to in line 6 of the e-mail are closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "study"
+              },
+              {
+                "label": "B",
+                "text": "design"
+              },
+              {
+                "label": "C",
+                "text": "follow"
+              },
+              {
+                "label": "D",
+                "text": "understand"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What do the speakers say about the meeting?",
+        "options": [
+          {
+            "label": "A",
+            "text": "They had a good time."
+          },
+          {
+            "label": "B",
+            "text": "A lot was accomplished."
+          },
+          {
+            "label": "C",
+            "text": "Important matters were discussed."
+          },
+          {
+            "label": "D",
+            "text": "It was too long."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How long did the meeting last?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Two hours."
+          },
+          {
+            "label": "B",
+            "text": "Three hours."
+          },
+          {
+            "label": "C",
+            "text": "Four hours."
+          },
+          {
+            "label": "D",
+            "text": "Nine hours."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What will the speakers do the next time there is a meeting?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Look at the agenda."
+          },
+          {
+            "label": "B",
+            "text": "Accomplish more things."
+          },
+          {
+            "label": "C",
+            "text": "Avoid attending it."
+          },
+          {
+            "label": "D",
+            "text": "Plan it better."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "What is this talk about?",
+        "options": [
+          {
+            "label": "A",
+            "text": "How to have a better staff meeting."
+          },
+          {
+            "label": "B",
+            "text": "How to make speeches."
+          },
+          {
+            "label": "C",
+            "text": "How to write an agenda."
+          },
+          {
+            "label": "D",
+            "text": "How to develop guidelines."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What are the listeners asked to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Make long speeches."
+          },
+          {
+            "label": "B",
+            "text": "Discuss personal matters."
+          },
+          {
+            "label": "C",
+            "text": "Bring something to the meeting."
+          },
+          {
+            "label": "D",
+            "text": "Follow the agenda."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What will happen at 4:30?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The meeting will end."
+          },
+          {
+            "label": "B",
+            "text": "Goals will be discussed."
+          },
+          {
+            "label": "C",
+            "text": "Guidelines will be presented."
+          },
+          {
+            "label": "D",
+            "text": "A new item will be introduced."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. What do the speakers say about the meeting? (A) They had a good time. (B) A lot was accomplished. (C) Important matters were discussed. (D) It was too long. 5. How long did the meeting last? (A) Two hours. (B) Three hours. (C) Four hours. (D) Nine hours. 6. What will the speakers do the next time there is a meeting? (A) Look at the agenda. (B) Accomplish more things. (C) Avoid attending it. (D) Plan it better. Listen to the talk. Then read each question and choose the best answer. 7. What is this talk about? (A) How to have a better staff meeting. (B) How to make speeches. (C) How to write an agenda. (D) How to develop guidelines. 8. What are the listeners asked to do? (A) Make long speeches. (B) Discuss personal matters. (C) Bring something to the meeting. (D) Follow the agenda. 9. What will happen at 4:30? (A) The meeting will end. (B) Goals will be discussed. (C) Guidelines will be presented. (D) A new item will be introduced.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question–Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What do the speakers say about the meeting?",
+        "options": [
+          {
+            "label": "A",
+            "text": "They had a good time."
+          },
+          {
+            "label": "B",
+            "text": "A lot was accomplished."
+          },
+          {
+            "label": "C",
+            "text": "Important matters were discussed."
+          },
+          {
+            "label": "D",
+            "text": "It was too long."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How long did the meeting last?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Two hours."
+          },
+          {
+            "label": "B",
+            "text": "Three hours."
+          },
+          {
+            "label": "C",
+            "text": "Four hours."
+          },
+          {
+            "label": "D",
+            "text": "Nine hours."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What will the speakers do the next time there is a meeting?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Look at the agenda."
+          },
+          {
+            "label": "B",
+            "text": "Accomplish more things."
+          },
+          {
+            "label": "C",
+            "text": "Avoid attending it."
+          },
+          {
+            "label": "D",
+            "text": "Plan it better."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "What is this talk about?",
+        "options": [
+          {
+            "label": "A",
+            "text": "How to have a better staff meeting."
+          },
+          {
+            "label": "B",
+            "text": "How to make speeches."
+          },
+          {
+            "label": "C",
+            "text": "How to write an agenda."
+          },
+          {
+            "label": "D",
+            "text": "How to develop guidelines."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What are the listeners asked to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Make long speeches."
+          },
+          {
+            "label": "B",
+            "text": "Discuss personal matters."
+          },
+          {
+            "label": "C",
+            "text": "Bring something to the meeting."
+          },
+          {
+            "label": "D",
+            "text": "Follow the agenda."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What will happen at 4:30?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The meeting will end."
+          },
+          {
+            "label": "B",
+            "text": "Goals will be discussed."
+          },
+          {
+            "label": "C",
+            "text": "Guidelines will be presented."
+          },
+          {
+            "label": "D",
+            "text": "A new item will be introduced."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "Lesson\n\n27\n\n# Board Meetings and Committees\n\nStudy the following definitions and examples.\n\n1. adhere to v., to follow; to pay attention to\n\na. The chairman never adhered to his own rules.\n\nhere to\n\nb. The best committee members are those who adhere to the time limits and speak only when they have something important to add.\n\n2. agenda n., a list of topics to be discussed\n\na. The board was able to cover fifteen items on the agenda.\n\nb. The agenda was sent out three weeks ago so that everyone could prepare for the meeting.\n\n3. bring up v., to introduce a topic\n\na. Just as the meeting was about to finish, the manager brought up a controversial issue.\n\nb. No one brought up the resignation of the director.\n\n4. conclude v., to stop; to come to a decision a. The committee members concluded the meeting early so that they could finish their budgets.\n\nb. After long discussions, the board has concluded that the project has to be canceled.\n\n5. go ahead v., to proceed with; n., permission to do something\n\na. Five of the six members felt that they should go ahead with the plan.\n\nb. The manager was just waiting for the go ahead from her boss before mailing the report.\n\n6. goal n., objective, purpose\n\na. Employees are expected to analyze and evaluate their annual goals.\n\nb. The director had to report to the committee that his department would not reach its goal of 35 percent growth.\n\n7. lengthy adj., long in time, duration, or distance\n\na. After lengthy discussions, the chairperson was reelected for another term.\n\nb. The report was so lengthy that members had to take it home and read it over the weekend.\n\n8. matter n., an item, issue, topic of interest  \na. If there are no other matters to discuss, we will conclude the meeting.  \nb. This is not the place to bring up personal matters.\n\n9. periodically adv., from time to time\n\na. The group tried to meet periodically.\n\nb. Periodically, new members were nominated to the committee.\n\n10. priority n., something of importance, something that should be done before other things\n\na. Since the remaining issues were not a priority, the group decided to move them to the next week's agenda.\n\nb. The manager was ineffective because she was unable to set priorities.\n\n11. progress n., a movement forward; v., to move forward on something, especially work or a project\n\na. The executive committee asked each group to present a report showing their progress for the year.\n\nb. Progress is being made on the annual report; we expect to see a finished product by next week.\n\n12. waste v., not to use wisely; n., not worthwhile\n\na. Without a leader, the group members wasted time and energy trying to organize themselves.\n\nb. The meeting wasn't a waste of time, but the members had hoped to accomplish more than they did.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\n| adhered to | concluded | lengthy | priority |\n| --- | --- | --- | --- |\n| agenda | go ahead | matters | progress |\n| brought up | goals | periodically | waste |\n\nCommittee meetings are a frequent and necessary event at almost every company. In order for meetings to be productive and not viewed as a (1) \\_\\_\\_\\_ of time, they should be run efficiently. Critical to the success of any meeting is the (2) \\_\\_\\_\\_. Everyone who attends the meeting should be aware of the agenda and be prepared to discuss the (3) \\_\\_\\_\\_ at hand and the (4) \\_\\_\\_\\_ to be accomplished. To avoid (5) \\_\\_\\_\\_ discussions, time frames should be set and (6) \\_\\_\\_\\_.\n\nThe meeting is called to order by the chairperson. Attendance is taken and agenda items are (7) \\_\\_\\_\\_ one by one. In general, (8) \\_\\_\\_\\_ topics should be at the beginning of the agenda, to make sure that the attendees are able to discuss them fully and make timely decisions. Once the (9) \\_\\_\\_\\_ is given for a plan or project, a plan of action is developed. The committee must then (10) \\_\\_\\_\\_ check up on the (11) \\_\\_\\_\\_ of that plan. The meeting is (12) \\_\\_\\_\\_ without any outstanding issues and a date for the next meeting is set.",
+    "word_families": "## WORD FAMILIES\n\n<table><tr><td rowspan=\"2\"></td><td>adhere</td><td>The chairperson asked us to adhere to the items on the agenda.</td></tr><tr><td>adherence</td><td>Your adherence to these guidelines would be appreciated.</td></tr><tr><td rowspan=\"4\" colspan=\"3\"></td></tr><tr><td>conclude</td><td>To conclude, we must all focus on the year ahead of us and the challenges that we will face.</td></tr><tr><td>conclusion</td><td>Unfortunately, the conclusion of the meeting was that they needed to downsize their workforce.</td></tr><tr><td>conclusive</td><td>There is no conclusive evidence to back up the report.</td></tr><tr><td rowspan=\"4\" colspan=\"3\"></td></tr><tr><td>lengthen</td><td>Ms. Greene decided to lengthen the time allotted to the meeting to allow each person a chance to speak.</td></tr><tr><td>length</td><td>Because of its length, we decided not to read the entire report at the meeting.</td></tr><tr><td>lengthy</td><td>A presentation that is too lengthy will only put the audience to sleep.</td></tr><tr><td rowspan=\"4\" colspan=\"3\"></td></tr><tr><td>period</td><td>The sales reports for the current period are excellent.</td></tr><tr><td>periodic</td><td>They received periodic updates from the overseas licensees.</td></tr><tr><td>periodically</td><td>The employee checked his messages periodically during the week-long seminar.</td></tr><tr><td rowspan=\"2\" colspan=\"3\"></td></tr><tr><td>prioritize</td><td>Once the team members learned to prioritize their work, they were much more productive.</td></tr><tr><td rowspan=\"3\" colspan=\"3\"></td></tr><tr><td>priority</td><td>The committee member has difficulties setting priorities for herself.</td></tr><tr><td>prior</td><td>The director did not give much attention to Ellen&#x27;s proposal as he had several prior matters to attend to.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>progress</td><td>Everyone was surprised at how quickly the meeting had progressed.</td></tr><tr><td rowspan=\"2\">noun</td><td>progression</td><td>The quick progression of events didn&#x27;t surprise anyone.</td></tr><tr><td>progressive</td><td>The new president is very progressive and is always looking for ways to improve the business.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n## Part 2 Question–Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. What do the speakers say about the meeting?\n(A) They had a good time.\n(B) A lot was accomplished.\n(C) Important matters were discussed.\n(D) It was too long.\n\n5. How long did the meeting last?\n(A) Two hours.\n(B) Three hours.\n(C) Four hours.\n(D) Nine hours.\n\n6. What will the speakers do the next time there is a meeting?\n(A) Look at the agenda.\n(B) Accomplish more things.\n(C) Avoid attending it.\n(D) Plan it better.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. What is this talk about?  \n(A) How to have a better staff meeting.  \n(B) How to make speeches.  \n(C) How to write an agenda.  \n(D) How to develop guidelines.\n\n8. What are the listeners asked to do?  \n(A) Make long speeches.  \n(B) Discuss personal matters.  \n(C) Bring something to the meeting.  \n(D) Follow the agenda.\n\n9. What will happen at 4:30?\n(A) The meeting will end.\n(B) Goals will be discussed.\n(C) Guidelines will be presented.\n(D) A new item will be introduced.",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. When using these facilities, please \\_\\_\\_\\_ to the rules posted by the door.\n(A) adhere    (C) adherence\n(B) adhering    (D) adhered\n\n11. As the chairman stood to give his \\_\\_\\_\\_, everyone in the room was listening.\n(A) conclusion (C) conclusive\n(B) conclude (D) concluding\n\n12. George decided to \\_\\_\\_\\_ his business trip by a few days so he could do some sightseeing.\n(A) length (C) lengthy\n(B) lengthen (D) lengthened\n\n13. The original members of the committee met \\_\\_\\_\\_ for lunch or dinner.\n(A) period (C) periodically\n(B) periods (D) periodic\n\n14. As her first \\_\\_\\_\\_, the committee chairwoman wanted to attract new, energetic members to the group.\n(A) prior (C) prioritize\n(B) priority (D) prioritized\n\n15. Even as they \\_\\_\\_\\_ through the hundreds of pages of supporting material, the committee was still not convinced that the project was justified.\n(A) progression (C) progresses\n(B) progressed (D) progressive\n\n## Part 6 Text Completion\n\n## Memo\n\nTo: Department Staff\n\nFrom: Alison Roth, Department Manager\n\nRe: Meeting\n\nAll members of the department staff are requested to attend a department meeting next Friday morning. As you know, we meet \\_16\\_ to review our work of the past months and finalize plans for the coming months. The goal of this Friday's meeting is to set our priorities for the next six months. The meeting agenda is attached for your review. Let's agree to follow the agenda and not \\_17\\_ other matters at this time so that we can finish the meeting in a timely manner. The most important item on the agenda is the budget. We need to take a careful look at our spending practices. We \\_18\\_ too much money over the past six months. Please come with ideas about how we can use our funds more efficiently in the future. Please arrive at the meeting on time so that we can conclude before 12:00.\n\n16. (A) period (B) periodic (C) periodical (D) periodically\n\n17. (A) set back  \n(B) go ahead  \n(C) bring up  \n(D) adhere to\n\n18. (A) waste  \n(B) have wasted  \n(C) will waste  \n(D) are wasting",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following agenda and e-mail message.\n\n## Perruche, Inc.\n\nAnnual Meeting\nMay 17, 20—\n1:00 p.m.\n\n## Agenda\n\n1. Progress report on overseas expansion Robert Fleurat  \n2. Reducing waste in our plants Madeline Costello  \n3. Reassessing our financial goals Jean Duprey  \n4. Hiring and firing policies Cynthia Weinstein  \n5. Looking ahead: priorities for the next decade Samuel Lyon\n\n19. What was the second item presented at the meeting?\n(A) Progress report on overseas expansion.\n(B) Reducing waste in our plants.\n(C) Reassessing our financial goals.\n(D) Hiring and firing policies.\n\n20. Who read the report on hiring and firing policies?\n(A) Madeline Costello.\n(B) Jean Duprey.\n(C) Cynthia Weinstein.\n(D) Samuel Lyon.\n\n21. What time did the meeting end?\n(A) 1:00.\n(B) 3:30.\n(C) 4:00.\n(D) 4:30.\n\nTo: Cynthia Weinstein  \nFrom: Samuel Lyon  \nSubject: Yesterday's meeting\n\nWe all missed you at yesterday's meeting. We were concerned that a medical emergency prevented your attendance but are glad to know that you are all right now. The meeting went well, and we were able to adhere to the agenda for the most part. There was only one small change. Jean gave his presentation on finance right after Robert since he had to leave early. Your secretary faxed a copy of your report to me, and I read it in your place. There were a few questions which will be submitted to you by e-mail. The meeting was not lengthy at all. In fact, even though we had scheduled three hours for the entire meeting, we actually concluded half an hour earlier than that. You see how efficient we have become. A copy of the meeting minutes will be faxed to you before 5:00 today. I hope to speak with you soon.\n\nHello Cynthia,\n\nSamuel\n\n22. The word goals in line 3 of the agenda is closest in meaning to  \n(A) objectives  \n(B) problems  \n(C) needs  \n(D) decisions\n\n23. The words adhere to in line 6 of the e-mail are closest in meaning to  \n(A) study  \n(B) design  \n(C) follow  \n(D) understand"
+  },
+  "needs_review": true
+}

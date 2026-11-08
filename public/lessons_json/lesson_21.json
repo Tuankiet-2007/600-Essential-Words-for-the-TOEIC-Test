@@ -1,0 +1,1632 @@
+{
+  "lesson_id": 21,
+  "title": "Banking",
+  "theme_name": "Financing and Budgeting",
+  "audio_track": "track_21.mp3",
+  "part1_photo": "part1_photos/lesson_21.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "accept",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to receive; to respond favorably",
+      "definition_vi": "chấp nhận, nhận lấy; đồng ý tiếp nhận",
+      "examples": [
+        {
+          "en": "The receptionist accepted the package from the courier.",
+          "vi": "Nhân viên lễ tân đã nhận kiện hàng từ người chuyển phát nhanh."
+        },
+        {
+          "en": "Without hesitating, she accepted the job of teller.",
+          "vi": "Không chút do dự, cô ấy đã nhận công việc giao dịch viên ngân hàng."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "adjective",
+          "word": "accept",
+          "example": "The bank will not accept a student ID as a valid form of identification."
+        },
+        {
+          "pos": "",
+          "word": "acceptance",
+          "example": "The bank&#x27;s acceptance of checks allows extra time for out-of-state checks to clear before they are credited to your account."
+        },
+        {
+          "pos": "",
+          "word": "acceptable",
+          "example": "Shorter banking hours would not be acceptable to many customers, who might close their accounts as a result."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "accept a package",
+        "accept a job offer",
+        "accept credit cards",
+        "accept responsibility"
+      ],
+      "usage": {
+        "structures": [
+          "accept + N (nhận/chấp nhận cái gì)",
+          "be widely accepted as + N (được chấp nhận rộng rãi như là)"
+        ],
+        "prepositions": [
+          "from",
+          "as",
+          "by"
+        ],
+        "collocations": [
+          "accept an invitation",
+          "accept an apology",
+          "readily accept",
+          "mutually acceptable"
+        ],
+        "tip": "Chú ý phân biệt 'accept' (ngoại động từ: nhận/chấp nhận) với giới từ 'except' (ngoại trừ)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "acceptably",
+          "example": "All newly hired bank tellers performed acceptably during their probation period.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Please note that personal checks are no longer _____ at any of our retail branches.",
+        "answer": "accepted",
+        "base_word": "accept",
+        "pos_hint": "động từ chia quá khứ phân từ V3/ed (bị động)",
+        "vi": "Xin lưu ý rằng séc cá nhân không còn được chấp nhận tại bất kỳ chi nhánh bán lẻ nào của chúng tôi."
+      }
+    },
+    {
+      "id": 2,
+      "word": "balance",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the remainder; v. to compute the difference between credits and debits of an account",
+      "definition_vi": "số dư tài khoản, phần còn lại; (v.) cân đối thu chi tài khoản",
+      "examples": [
+        {
+          "en": "His healthy bank balance showed a long habit of savings.",
+          "vi": "Số dư ngân hàng dồi dào của anh ấy cho thấy thói quen tiết kiệm lâu dài."
+        },
+        {
+          "en": "It took him over an hour to balance his checkbook.",
+          "vi": "Anh ấy đã mất hơn một tiếng đồng hồ để cân đối sổ séc của mình."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "bank balance",
+        "account balance",
+        "outstanding balance",
+        "balance the budget"
+      ],
+      "usage": {
+        "structures": [
+          "check one's account balance (kiểm tra số dư tài khoản)",
+          "balance A against/with B (cân đối A với B)"
+        ],
+        "prepositions": [
+          "on",
+          "between",
+          "of"
+        ],
+        "collocations": [
+          "remaining balance",
+          "minimum balance",
+          "balance sheet",
+          "pay off the balance"
+        ],
+        "tip": "Trong ngữ cảnh ngân hàng/tài chính TOEIC, 'balance' thường mang nghĩa 'số dư tài khoản' hoặc 'số tiền còn nợ lại'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "balance",
+          "example": "The accounting team worked late to balance the quarterly financial ledgers.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "balance",
+          "example": "Customers must maintain a minimum balance of $500 to avoid monthly service charges.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "balanced",
+          "example": "A balanced investment portfolio helps minimize financial risks during market downturns.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The accounting clerk spent the entire afternoon _____ the company's monthly bank statements.",
+        "answer": "balancing",
+        "base_word": "balance",
+        "pos_hint": "động từ dạng V-ing",
+        "vi": "Nhân viên kế toán đã dành cả buổi chiều để cân đối các bản sao kê ngân hàng hàng tháng của công ty."
+      }
+    },
+    {
+      "id": 3,
+      "word": "borrow",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to use temporarily",
+      "definition_vi": "vay, mượn (để sử dụng tạm thời)",
+      "examples": [
+        {
+          "en": "Do you want to borrow a pen?",
+          "vi": "Bạn có muốn mượn một chiếc bút không?"
+        },
+        {
+          "en": "The couple borrowed money from the bank to buy a home.",
+          "vi": "Cặp vợ chồng đã vay tiền từ ngân hàng để mua một căn nhà."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "borrow money from a bank",
+        "borrow heavily",
+        "borrow at low interest",
+        "borrowing costs"
+      ],
+      "usage": {
+        "structures": [
+          "borrow + sth + from + sb/sth (vay/mượn cái gì từ ai/đâu)",
+          "borrow against + N (vay thế chấp bằng tài sản gì)"
+        ],
+        "prepositions": [
+          "from",
+          "against",
+          "at"
+        ],
+        "collocations": [
+          "eligible borrower",
+          "short-term borrowing",
+          "borrow capital",
+          "borrow funds"
+        ],
+        "tip": "Luôn đi kèm giới từ 'from' khi chỉ nguồn vay mượn (borrow from), ngược với 'lend to' (cho ai mượn)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "borrow",
+          "example": "Small businesses often borrow capital to finance their expansion projects.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "borrower",
+          "example": "Each borrower is required to provide proof of steady income before loan approval.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "borrowed",
+          "example": "The startup operated entirely on borrowed funds during its first fiscal year.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "First-time _____ with a strong credit history may qualify for reduced interest rates on home loans.",
+        "answer": "borrowers",
+        "base_word": "borrow",
+        "pos_hint": "danh từ chỉ người số nhiều",
+        "vi": "Những người đi vay lần đầu có lịch sử tín dụng tốt có thể đủ điều kiện hưởng lãi suất ưu đãi cho khoản vay mua nhà."
+      }
+    },
+    {
+      "id": 4,
+      "word": "cautiously",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "carefully, warily",
+      "definition_vi": "một cách thận trọng, dè dặt, cẩn trọng",
+      "examples": [
+        {
+          "en": "The bank manager spoke cautiously when giving out information to people she did not know.",
+          "vi": "Giám đốc ngân hàng đã nói chuyện một cách thận trọng khi cung cấp thông tin cho những người bà không quen biết."
+        },
+        {
+          "en": "Act cautiously when signing contracts and read them thoroughly first.",
+          "vi": "Hãy hành động thận trọng khi ký kết hợp đồng và đọc kỹ chúng trước tiên."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "caution",
+          "example": "Our friends cautioned us against putting our money into an account that pays such a low interest rate."
+        },
+        {
+          "pos": "",
+          "word": "cautious",
+          "example": "The bank officer was cautious about approving Chen&#x27;s loan because of his unfavorable credit history."
+        },
+        {
+          "pos": "",
+          "word": "cautiously",
+          "example": "We spent our money cautiously because we were not sure we would be able to borrow more."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "proceed cautiously",
+        "act cautiously",
+        "cautiously optimistic",
+        "invest cautiously"
+      ],
+      "usage": {
+        "structures": [
+          "V + cautiously (hành động một cách thận trọng)",
+          "be cautiously + adj (thận trọng ở mức độ nào, VD: cautiously optimistic)"
+        ],
+        "prepositions": [
+          "about",
+          "with"
+        ],
+        "collocations": [
+          "speak cautiously",
+          "move cautiously",
+          "tread cautiously",
+          "exercise caution"
+        ],
+        "tip": "Trạng từ 'cautiously' thường đứng sau động từ thường (invest/proceed cautiously) hoặc đứng trước tính từ 'optimistic'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "caution",
+          "example": "Financial advisors cautioned clients against putting all their savings into volatile stocks.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Market analysts remain _____ about predicting a rapid recovery in the commercial banking sector.",
+        "answer": "cautious",
+        "base_word": "cautiously",
+        "pos_hint": "tính từ",
+        "vi": "Các nhà phân tích thị trường vẫn thận trọng về việc dự đoán sự phục hồi nhanh chóng trong lĩnh vực ngân hàng thương mại."
+      }
+    },
+    {
+      "id": 5,
+      "word": "deduct",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to take away from a total; to subtract",
+      "definition_vi": "khấu trừ, trừ đi (từ tổng số tiền)",
+      "examples": [
+        {
+          "en": "Before computing his taxes, Christophe remembered to deduct allowable home improvement expenses.",
+          "vi": "Trước khi tính thuế, Christophe đã nhớ khấu trừ các chi phí cải tạo nhà được phép."
+        },
+        {
+          "en": "By deducting the monthly fee from her checking account, Yi was able to make her account balance.",
+          "vi": "Bằng cách trừ đi khoản phí hàng tháng từ tài khoản thanh toán, Yi đã có thể cân đối tài khoản của mình."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "deduct",
+          "example": "Remember to deduct the monthly bank fee from your statement."
+        },
+        {
+          "pos": "noun",
+          "word": "deductible",
+          "example": "Taxes and health insurance payments are called deductibles because they are deducted from your paycheck."
+        },
+        {
+          "pos": "",
+          "word": "deduction",
+          "example": "Deductions are made electronically every month and will appear on your statement."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "deduct expenses",
+        "deduct from a paycheck",
+        "tax deductible",
+        "automatic deduction"
+      ],
+      "usage": {
+        "structures": [
+          "deduct + sth + from + sth (khấu trừ khoản gì từ tổng số nào)",
+          "be deducted automatically (được khấu trừ tự động)"
+        ],
+        "prepositions": [
+          "from"
+        ],
+        "collocations": [
+          "deduct a fee",
+          "deduct taxes",
+          "payroll deductions",
+          "allowable deductions"
+        ],
+        "tip": "Đi với giới từ 'from' (deduct A from B); tính từ 'deductible' cũng dùng như danh từ chỉ khoản tiền được khấu trừ."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "deductible",
+          "example": "Business travel expenses are fully deductible from your taxable corporate income.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Charitable donations made to registered nonprofit organizations are eligible for tax _____.",
+        "answer": "deductions",
+        "base_word": "deduct",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Các khoản quyên góp từ thiện cho các tổ chức phi lợi nhuận đã đăng ký sẽ đủ điều kiện được khấu trừ thuế."
+      }
+    },
+    {
+      "id": 6,
+      "word": "dividend",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a share in a distribution",
+      "definition_vi": "cổ tức, tiền lãi cổ phần được chia",
+      "examples": [
+        {
+          "en": "The stockholders were outraged when their quarterly dividends were so small.",
+          "vi": "Các cổ đông đã vô cùng tức giận khi khoản cổ tức hàng quý của họ quá ít ỏi."
+        },
+        {
+          "en": "The dividend was calculated and distributed to the group.",
+          "vi": "Cổ tức đã được tính toán và phân bổ cho cả nhóm."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "quarterly dividend",
+        "pay a dividend",
+        "dividend distribution",
+        "annual dividend"
+      ],
+      "usage": {
+        "structures": [
+          "pay/declare/distribute dividends to + N (chi trả/công bố/phân phối cổ tức cho ai)",
+          "yield a high dividend (mang lại cổ tức cao)"
+        ],
+        "prepositions": [
+          "on",
+          "to",
+          "from"
+        ],
+        "collocations": [
+          "cash dividend",
+          "stock dividend",
+          "dividend yield",
+          "reinvest dividends"
+        ],
+        "tip": "Từ vựng chuyên ngành tài chính quen thuộc trong Part 7 khi nói về lợi nhuận chia cho cổ đông (shareholders/stockholders)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "divide",
+          "example": "The board voted to divide the surplus profits equally among preferred shareholders.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "division",
+          "example": "The retail banking division reported a significant increase in quarterly revenue.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "divisible",
+          "example": "Each share lot is divisible into smaller units for individual retail investors.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The corporation has consistently paid quarterly _____ to its common shareholders for over twenty years.",
+        "answer": "dividends",
+        "base_word": "dividend",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Tập đoàn đã liên tục chi trả cổ tức hàng quý cho các cổ đông phổ thông trong hơn hai mươi năm qua."
+      }
+    },
+    {
+      "id": 7,
+      "word": "down payment",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an initial partial payment",
+      "definition_vi": "khoản tiền trả trước, tiền đặt cọc ban đầu (khi mua trả góp)",
+      "examples": [
+        {
+          "en": "By making a large down payment, the couple saved a great deal in mortgage interest.",
+          "vi": "Bằng việc trả trước một khoản tiền lớn, cặp vợ chồng đã tiết kiệm được rất nhiều tiền lãi thế chấp."
+        },
+        {
+          "en": "Karl was disappointed when the real estate agent told him he needed a larger down payment on the house.",
+          "vi": "Karl đã thất vọng khi nhân viên bất động sản nói rằng anh cần một khoản tiền trả trước lớn hơn cho ngôi nhà."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "make a down payment",
+        "put a down payment on",
+        "initial down payment",
+        "require a down payment"
+      ],
+      "usage": {
+        "structures": [
+          "make/put a down payment on + sth (đặt cọc/trả trước tiền mua cái gì)",
+          "save for a down payment (tiết kiệm tiền trả trước)"
+        ],
+        "prepositions": [
+          "on",
+          "for",
+          "toward"
+        ],
+        "collocations": [
+          "substantial down payment",
+          "20 percent down payment",
+          "minimum down payment",
+          "upfront payment"
+        ],
+        "tip": "Cụm danh từ cố định rất hay đi với động từ 'make' hoặc 'put' và giới từ 'on' (make a down payment on a house/car)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "pay",
+          "example": "Buyers must pay at least ten percent of the purchase price upfront.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "payment",
+          "example": "Monthly loan payments are due on the first business day of each month.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "payable",
+          "example": "Please make the check payable to Continental Mortgage Services.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "All remaining balances are _____ within thirty days of the invoice date.",
+        "answer": "payable",
+        "base_word": "down payment",
+        "pos_hint": "tính từ (họ từ pay)",
+        "vi": "Tất cả số dư còn lại phải được thanh toán trong vòng ba mươi ngày kể từ ngày ghi trên hóa đơn."
+      }
+    },
+    {
+      "id": 8,
+      "word": "mortgage",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the amount due on a property; v., to borrow money with your house as collateral",
+      "definition_vi": "khoản vay thế chấp, hợp đồng thế chấp; (v.) thế chấp (nhà/tài sản)",
+      "examples": [
+        {
+          "en": "Due to low interest rates, Sheila moved quickly to find a good deal on a mortgage.",
+          "vi": "Do lãi suất thấp, Sheila đã nhanh chóng tìm kiếm một thỏa thuận vay thế chấp có lợi."
+        },
+        {
+          "en": "Hiram mortgaged his home to get extra money to invest in his business.",
+          "vi": "Hiram đã thế chấp ngôi nhà của mình để lấy thêm tiền đầu tư vào việc kinh doanh."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "apply for a mortgage",
+        "mortgage rate",
+        "pay off a mortgage",
+        "mortgage lender"
+      ],
+      "usage": {
+        "structures": [
+          "take out a mortgage on + N (vay thế chấp cho bất động sản nào)",
+          "mortgage + N + to V (thế chấp tài sản để làm gì)"
+        ],
+        "prepositions": [
+          "on",
+          "with",
+          "for"
+        ],
+        "collocations": [
+          "fixed-rate mortgage",
+          "mortgage payment",
+          "mortgage broker",
+          "refinance a mortgage"
+        ],
+        "tip": "Vừa là danh từ (khoản vay mua nhà thế chấp) vừa là ngoại động từ (thế chấp tài sản)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "mortgage",
+          "example": "The owners decided to mortgage their commercial building to fund the renovation.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "mortgagee",
+          "example": "The bank acts as the mortgagee and holds legal title until the debt is repaid.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "mortgaged",
+          "example": "The heavily mortgaged property was eventually sold to cover outstanding debts.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The business owner _____ his warehouse last year in order to secure emergency operating capital.",
+        "answer": "mortgaged",
+        "base_word": "mortgage",
+        "pos_hint": "động từ chia quá khứ đơn V-ed",
+        "vi": "Chủ doanh nghiệp đã thế chấp nhà kho của mình vào năm ngoái để đảm bảo nguồn vốn hoạt động khẩn cấp."
+      }
+    },
+    {
+      "id": 9,
+      "word": "restricted",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "limited",
+      "definition_vi": "bị hạn chế, bị giới hạn (chỉ dành cho đối tượng nhất định)",
+      "examples": [
+        {
+          "en": "The number of free withdrawals a customer can make from his or her account each month is restricted to five.",
+          "vi": "Số lần rút tiền miễn phí mà khách hàng có thể thực hiện từ tài khoản mỗi tháng bị giới hạn ở mức năm lần."
+        },
+        {
+          "en": "Access to the safe deposit box vault is restricted to key holders.",
+          "vi": "Quyền tiếp cận hầm két an toàn chỉ giới hạn cho những người giữ chìa khóa."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "restrict",
+          "example": "The bank&#x27;s policies restrict the number of deductions you can make from your account without a penalty."
+        },
+        {
+          "pos": "noun",
+          "word": "restriction",
+          "example": "The restrictions on who was eligible for a mortgage made it impossible for many low-income families to borrow money."
+        },
+        {
+          "pos": "adjective",
+          "word": "restricted",
+          "example": "Information about your account is confidential and its use without your permission is restricted."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "restricted access",
+        "restricted area",
+        "be restricted to",
+        "restricted funds"
+      ],
+      "usage": {
+        "structures": [
+          "be restricted to + N (bị giới hạn ở mức/chỉ dành cho đối tượng nào)",
+          "restricted + N (khu vực/quyền hạn bị hạn chế)"
+        ],
+        "prepositions": [
+          "to",
+          "by",
+          "from"
+        ],
+        "collocations": [
+          "strictly restricted",
+          "impose restrictions",
+          "without restriction",
+          "restrictive policy"
+        ],
+        "tip": "Cấu trúc 'be restricted to + N' (chỉ giới hạn cho...) xuất hiện cực kỳ phổ biến trong cả Part 5 và Part 7."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "restrictively",
+          "example": "The lending criteria were interpreted too restrictively by the regional branch.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The central bank has announced new _____ on foreign currency transfers starting next month.",
+        "answer": "restrictions",
+        "base_word": "restricted",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Ngân hàng trung ương đã công bố các hạn chế mới đối với việc chuyển ngoại tệ bắt đầu từ tháng tới."
+      }
+    },
+    {
+      "id": 10,
+      "word": "signature",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the name of a person written by the person",
+      "definition_vi": "chữ ký",
+      "examples": [
+        {
+          "en": "Once we have your signature, the contract will be complete.",
+          "vi": "Ngay khi chúng tôi có chữ ký của bạn, hợp đồng sẽ được hoàn tất."
+        },
+        {
+          "en": "The customer's signature was kept on file for identification purposes.",
+          "vi": "Chữ ký của khách hàng đã được lưu vào hồ sơ cho mục đích xác minh danh tính."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "sign",
+          "example": "Once you have signed the mortgage contract, the bank will make a check payable to you."
+        },
+        {
+          "pos": "noun",
+          "word": "sign",
+          "example": "The sign in the bank&#x27;s lobby announces their rates for savings accounts and for loans."
+        },
+        {
+          "pos": "noun",
+          "word": "signature",
+          "example": "Your signature can be electronically recorded to be verified later."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "authorized signature",
+        "digital signature",
+        "require a signature",
+        "verify a signature"
+      ],
+      "usage": {
+        "structures": [
+          "obtain/require sb's signature on + N (lấy/yêu cầu chữ ký của ai trên tài liệu gì)",
+          "bear a signature (có mang chữ ký)"
+        ],
+        "prepositions": [
+          "on",
+          "of",
+          "for"
+        ],
+        "collocations": [
+          "electronic signature",
+          "specimen signature",
+          "put one's signature on",
+          "forged signature"
+        ],
+        "tip": "Không nhầm danh từ 'signature' (chữ ký của một người) với danh từ 'sign' (biển báo, dấu hiệu)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "signed",
+          "example": "Please return the signed loan agreement to our main office by Friday.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The cashier could not process the check because the account holder had forgotten to _____ it.",
+        "answer": "sign",
+        "base_word": "signature",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Thu ngân không thể xử lý tấm séc vì chủ tài khoản đã quên ký tên vào đó."
+      }
+    },
+    {
+      "id": 11,
+      "word": "take out",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "withdraw; remove",
+      "definition_vi": "rút (tiền); đăng ký vay/mua (bảo hiểm, khoản vay); lấy ra, dọn đi",
+      "examples": [
+        {
+          "en": "My checking account allows me to take out money at any bank branch without a fee.",
+          "vi": "Tài khoản thanh toán của tôi cho phép tôi rút tiền tại bất kỳ chi nhánh ngân hàng nào mà không mất phí."
+        },
+        {
+          "en": "They took out the chairs in the bank lobby so now there is no place to sit.",
+          "vi": "Họ đã dọn hết ghế trong sảnh ngân hàng nên giờ không còn chỗ nào để ngồi."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "take out money",
+        "take out a loan",
+        "take out a mortgage",
+        "take out an insurance policy"
+      ],
+      "usage": {
+        "structures": [
+          "take out + money/cash from + N (rút tiền từ đâu)",
+          "take out + a loan/mortgage/policy (làm thủ tục vay tiền/mua bảo hiểm)"
+        ],
+        "prepositions": [
+          "from",
+          "of",
+          "on"
+        ],
+        "collocations": [
+          "take out cash",
+          "take out a business loan",
+          "take out a subscription",
+          "take out a patent"
+        ],
+        "tip": "Trong TOEIC Tài chính, ngoài nghĩa 'rút tiền' (= withdraw), 'take out a loan/mortgage' còn có nghĩa là 'đăng ký một khoản vay'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "take",
+          "example": "It usually takes three business days for an international wire transfer to clear.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "undertaking",
+          "example": "Launching a new commercial bank branch is a major financial undertaking.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "taken",
+          "example": "All security measures taken by the bank complied with federal regulations.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Several small business owners have _____ out low-interest loans to upgrade their equipment.",
+        "answer": "taken",
+        "base_word": "take out",
+        "pos_hint": "động từ chia quá khứ phân từ V3 (hiện tại hoàn thành)",
+        "vi": "Nhiều chủ doanh nghiệp nhỏ đã vay các khoản vay lãi suất thấp để nâng cấp thiết bị của họ."
+      }
+    },
+    {
+      "id": 12,
+      "word": "transaction",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a business deal",
+      "definition_vi": "giao dịch (ngân hàng, thương mại), thương vụ",
+      "examples": [
+        {
+          "en": "Banking transactions will appear on your monthly statement.",
+          "vi": "Các giao dịch ngân hàng sẽ xuất hiện trên bảng sao kê hàng tháng của bạn."
+        },
+        {
+          "en": "The most common transactions can be made from your personal computer.",
+          "vi": "Hầu hết các giao dịch phổ biến đều có thể được thực hiện từ máy tính cá nhân của bạn."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "transact",
+          "example": "Our company transacts all its financial business at this bank."
+        },
+        {
+          "pos": "noun",
+          "word": "transaction",
+          "example": "All parties concerned were pleased with the results of the business transactions."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "banking transaction",
+        "financial transaction",
+        "online transaction",
+        "transaction fee"
+      ],
+      "usage": {
+        "structures": [
+          "conduct/complete/process a transaction (thực hiện/hoàn tất/xử lý một giao dịch)",
+          "appear on a transaction history (hiển thị trong lịch sử giao dịch)"
+        ],
+        "prepositions": [
+          "between",
+          "with",
+          "for"
+        ],
+        "collocations": [
+          "cashless transaction",
+          "business transaction",
+          "foreign exchange transaction",
+          "secure transaction"
+        ],
+        "tip": "Danh từ đếm được (a transaction / transactions), rất hay ghép với 'process', 'complete', hoặc 'conduct'."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "transactional",
+          "example": "The bank upgraded its servers to handle high-volume transactional data securely.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Customers can now _____ almost all of their routine banking business through our mobile application.",
+        "answer": "transact",
+        "base_word": "transaction",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Khách hàng hiện có thể thực hiện hầu như tất cả các giao dịch ngân hàng thường ngày thông qua ứng dụng di động của chúng tôi."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. Banks are not only places in which to save money or to (1) ____ your financial business, but also institutions from which people can (2) ____ money. Every day, people look to banks for loans, such as (3) ____ for new homes. A loan is essentially a contract that binds the lender to a schedule of payments, so both parties should be (4) ____ and not enter into the arrangement without thinking. Banks will look at such factors as how much people have saved towards a (5) ____ in determining whether to make a loan. Banks have different kinds of accounts. Some pay high quarterly (6) ____. Some accounts even severely (7) ____ the number of times, if any, that you can access your account, or the amount of cash you can (8) ____. Today, electronic banking can be used to check the (9) ____ on an account, or to see if automatic (10) ____ have been made. This can all be done from your home or office computer. When you go to the bank, be sure to bring identification. Usually a bank will only (11) ____ a photo ID; a (12) ____ is not a valid ID.",
+    "word_bank": [
+      "accept",
+      "cautious",
+      "down payment",
+      "signature",
+      "balance",
+      "deductions",
+      "mortgages",
+      "take out",
+      "borrow",
+      "dividends",
+      "restrict",
+      "transact"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "accept",
+        "example": "The bank will not accept a student ID as a valid form of identification.",
+        "pos": "adjective"
+      },
+      {
+        "word": "acceptance",
+        "example": "The bank&#x27;s acceptance of checks allows extra time for out-of-state checks to clear before they are credited to your account.",
+        "pos": ""
+      },
+      {
+        "word": "acceptable",
+        "example": "Shorter banking hours would not be acceptable to many customers, who might close their accounts as a result.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "caution",
+        "example": "Our friends cautioned us against putting our money into an account that pays such a low interest rate.",
+        "pos": ""
+      },
+      {
+        "word": "cautious",
+        "example": "The bank officer was cautious about approving Chen&#x27;s loan because of his unfavorable credit history.",
+        "pos": ""
+      },
+      {
+        "word": "cautiously",
+        "example": "We spent our money cautiously because we were not sure we would be able to borrow more.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "deduct",
+        "example": "Remember to deduct the monthly bank fee from your statement.",
+        "pos": ""
+      },
+      {
+        "word": "deductible",
+        "example": "Taxes and health insurance payments are called deductibles because they are deducted from your paycheck.",
+        "pos": "noun"
+      },
+      {
+        "word": "deduction",
+        "example": "Deductions are made electronically every month and will appear on your statement.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "restrict",
+        "example": "The bank&#x27;s policies restrict the number of deductions you can make from your account without a penalty.",
+        "pos": "verb"
+      },
+      {
+        "word": "restriction",
+        "example": "The restrictions on who was eligible for a mortgage made it impossible for many low-income families to borrow money.",
+        "pos": "noun"
+      },
+      {
+        "word": "restricted",
+        "example": "Information about your account is confidential and its use without your permission is restricted.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "sign",
+        "example": "Once you have signed the mortgage contract, the bank will make a check payable to you.",
+        "pos": ""
+      },
+      {
+        "word": "sign",
+        "example": "The sign in the bank&#x27;s lobby announces their rates for savings accounts and for loans.",
+        "pos": "noun"
+      },
+      {
+        "word": "signature",
+        "example": "Your signature can be electronically recorded to be verified later.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "transact",
+        "example": "Our company transacts all its financial business at this bank.",
+        "pos": "verb"
+      },
+      {
+        "word": "transaction",
+        "example": "All parties concerned were pleased with the results of the business transactions.",
+        "pos": "noun"
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "I'm going to call the bank manager ahead of time to make certain that she will ____ a personal check to start a new account.",
+        "options": [
+          {
+            "label": "A",
+            "text": "accept"
+          },
+          {
+            "label": "B",
+            "text": "accepted"
+          },
+          {
+            "label": "C",
+            "text": "acceptance"
+          },
+          {
+            "label": "D",
+            "text": "acceptable"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "We felt ____ about applying for such a large loan.",
+        "options": [
+          {
+            "label": "A",
+            "text": "cautiously"
+          },
+          {
+            "label": "B",
+            "text": "caution"
+          },
+          {
+            "label": "C",
+            "text": "cautioning"
+          },
+          {
+            "label": "D",
+            "text": "cautious"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "Every month my automatic car loan payment shows up as a ____ on my monthly statement.",
+        "options": [
+          {
+            "label": "A",
+            "text": "deduct"
+          },
+          {
+            "label": "B",
+            "text": "deduction"
+          },
+          {
+            "label": "C",
+            "text": "deducting"
+          },
+          {
+            "label": "D",
+            "text": "deducted"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "The number of withdrawals at no charge from your savings account is ____ to three.",
+        "options": [
+          {
+            "label": "A",
+            "text": "restricting"
+          },
+          {
+            "label": "B",
+            "text": "restricted"
+          },
+          {
+            "label": "C",
+            "text": "restrict"
+          },
+          {
+            "label": "D",
+            "text": "restriction"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "There is a counter in the bank lobby where customers can ____ their documents.",
+        "options": [
+          {
+            "label": "A",
+            "text": "signing"
+          },
+          {
+            "label": "B",
+            "text": "signed"
+          },
+          {
+            "label": "C",
+            "text": "sign"
+          },
+          {
+            "label": "D",
+            "text": "signature"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "These ____ must be completed before the close of business today.",
+        "options": [
+          {
+            "label": "A",
+            "text": "transacts"
+          },
+          {
+            "label": "B",
+            "text": "transacting"
+          },
+          {
+            "label": "C",
+            "text": "transacted"
+          },
+          {
+            "label": "D",
+            "text": "transactions"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Dear Customer, Our records show that you qualify for our new automatic mortgage payment plan. Under this plan, your monthly mortgage payments [16] from your savings account automatically. Now you no longer have to worry about making your payments on time! We do it all for you. You must maintain a sufficient [17] in your account to cover the monthly payments. If you are interested in participating in this plan, simply complete the enclosed form. Certain [18] apply to this plan, so read the explanation on the back of the form carefully. You may return the form in the enclosed envelope. Don't forget to sign it at the bottom. Your automatic deductions could begin as early as next month.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "deduct"
+            },
+            {
+              "label": "B",
+              "text": "deducted"
+            },
+            {
+              "label": "C",
+              "text": "are deducted"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "dividend"
+            },
+            {
+              "label": "B",
+              "text": "balance"
+            },
+            {
+              "label": "C",
+              "text": "transaction"
+            },
+            {
+              "label": "D",
+              "text": "down payment"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "restrictions"
+            },
+            {
+              "label": "B",
+              "text": "restrictive"
+            },
+            {
+              "label": "C",
+              "text": "restricted"
+            },
+            {
+              "label": "D",
+              "text": "restricts"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following two letters. July 16, 20— Customer Service Office National Bank of Augusta 1398 State Street Augusta, MD Dear Customer Service Office, I am a new customer at your bank. I opened an account with you last month, and I have recently received my first monthly statement. I find that there is a service charge on three of the checks that I wrote. I understood that this account had free checking, so I was surprised to see this charge. Perhaps it is a mistake. I am enclosing a copy of the statement. Please clarify this matter for me. Thank you. Sincerely, Marvin Gardner August 3, 20— Marvin Gardner 145 Merrywood Lane Augusta, MD Dear Mr. Gardner, We recently received your letter asking about charges to your account. While it is true that your account has free checking, some restrictions apply. You may write five checks a month free of charge. After that, you must maintain a minimum average balance of $600 in your account in order to continue with free checking. Since your average account balance last month was only $435, you were entitled to only five free checks. A service charge was applied to the checks you wrote beyond that minimum. I hope this explanation is satisfactory to you. Let me take this opportunity to make sure that you are aware of other services you can get with your account. You can arrange to have your monthly utility bills deducted from your account. You are also eligible to borrow small amounts of money from the bank at a low interest rate. If you are interested in these or any other services, please visit us at the bank, and an officer will be happy to explain all the details to you. Thank you for being a National Bank of Augusta customer. Sincerely, Eloise Lockwood Customer Service Officer",
+        "questions": [
+          {
+            "number": 19,
+            "question": "Why did Mr. Gardner write this letter?",
+            "options": [
+              {
+                "label": "A",
+                "text": "To pay his monthly utility bills."
+              },
+              {
+                "label": "B",
+                "text": "To find out about borrowing money."
+              },
+              {
+                "label": "C",
+                "text": "To ask a question about his monthly statement."
+              },
+              {
+                "label": "D",
+                "text": "To order some free checks."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "When did he open an account at the National Bank of Augusta?",
+            "options": [
+              {
+                "label": "A",
+                "text": "May."
+              },
+              {
+                "label": "B",
+                "text": "June."
+              },
+              {
+                "label": "C",
+                "text": "July."
+              },
+              {
+                "label": "D",
+                "text": "August."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "How many checks did he write last month?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Three."
+              },
+              {
+                "label": "B",
+                "text": "Five."
+              },
+              {
+                "label": "C",
+                "text": "Six."
+              },
+              {
+                "label": "D",
+                "text": "Eight."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word restrictions in line 3 of the second letter is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "limitations"
+              },
+              {
+                "label": "B",
+                "text": "fees"
+              },
+              {
+                "label": "C",
+                "text": "customers"
+              },
+              {
+                "label": "D",
+                "text": "numbers"
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word deducted in line 13 of the second letter is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "borrowed"
+              },
+              {
+                "label": "B",
+                "text": "attached"
+              },
+              {
+                "label": "C",
+                "text": "subtracted"
+              },
+              {
+                "label": "D",
+                "text": "added"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What does the man want to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Open a bank account."
+          },
+          {
+            "label": "B",
+            "text": "Get a new driver's license."
+          },
+          {
+            "label": "C",
+            "text": "Put his signature on file."
+          },
+          {
+            "label": "D",
+            "text": "Cash a check."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "According to the woman, what is required?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A photo ID."
+          },
+          {
+            "label": "B",
+            "text": "An order form."
+          },
+          {
+            "label": "C",
+            "text": "A large deposit."
+          },
+          {
+            "label": "D",
+            "text": "A signed check."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "When will the man's check clear?",
+        "options": [
+          {
+            "label": "A",
+            "text": "In seven days."
+          },
+          {
+            "label": "B",
+            "text": "In eight days."
+          },
+          {
+            "label": "C",
+            "text": "In ten days."
+          },
+          {
+            "label": "D",
+            "text": "In eleven days."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "Who is this talk for?",
+        "options": [
+          {
+            "label": "A",
+            "text": "People who are looking for a job."
+          },
+          {
+            "label": "B",
+            "text": "People who want to borrow money."
+          },
+          {
+            "label": "C",
+            "text": "People who work in a bank."
+          },
+          {
+            "label": "D",
+            "text": "People who want to open a bank account."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "How big a down payment is required?",
+        "options": [
+          {
+            "label": "A",
+            "text": "10 percent."
+          },
+          {
+            "label": "B",
+            "text": "3 percent."
+          },
+          {
+            "label": "C",
+            "text": "1 percent."
+          },
+          {
+            "label": "D",
+            "text": "4 percent."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What is a requirement?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A new job."
+          },
+          {
+            "label": "B",
+            "text": "An important address."
+          },
+          {
+            "label": "C",
+            "text": "Money in the bank."
+          },
+          {
+            "label": "D",
+            "text": "An accountant."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. What does the man want to do? (A) Open a bank account. (B) Get a new driver's license. (C) Put his signature on file. (D) Cash a check. 5. According to the woman, what is required? (A) A photo ID. (B) An order form. (C) A large deposit. (D) A signed check. 6. When will the man's check clear? (A) In seven days. (B) In eight days. (C) In ten days. (D) In eleven days. Listen to the talk. Then read each question and choose the best answer. 7. Who is this talk for? (A) People who are looking for a job. (B) People who want to borrow money. (C) People who work in a bank. (D) People who want to open a bank account. 8. How big a down payment is required? (A) 10 percent. (B) 3 percent. (C) 1 percent. (D) 4 percent. 9. What is a requirement? (A) A new job. (B) An important address. (C) Money in the bank. (D) An accountant.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What does the man want to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Open a bank account."
+          },
+          {
+            "label": "B",
+            "text": "Get a new driver's license."
+          },
+          {
+            "label": "C",
+            "text": "Put his signature on file."
+          },
+          {
+            "label": "D",
+            "text": "Cash a check."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "According to the woman, what is required?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A photo ID."
+          },
+          {
+            "label": "B",
+            "text": "An order form."
+          },
+          {
+            "label": "C",
+            "text": "A large deposit."
+          },
+          {
+            "label": "D",
+            "text": "A signed check."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "When will the man's check clear?",
+        "options": [
+          {
+            "label": "A",
+            "text": "In seven days."
+          },
+          {
+            "label": "B",
+            "text": "In eight days."
+          },
+          {
+            "label": "C",
+            "text": "In ten days."
+          },
+          {
+            "label": "D",
+            "text": "In eleven days."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "Who is this talk for?",
+        "options": [
+          {
+            "label": "A",
+            "text": "People who are looking for a job."
+          },
+          {
+            "label": "B",
+            "text": "People who want to borrow money."
+          },
+          {
+            "label": "C",
+            "text": "People who work in a bank."
+          },
+          {
+            "label": "D",
+            "text": "People who want to open a bank account."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "How big a down payment is required?",
+        "options": [
+          {
+            "label": "A",
+            "text": "10 percent."
+          },
+          {
+            "label": "B",
+            "text": "3 percent."
+          },
+          {
+            "label": "C",
+            "text": "1 percent."
+          },
+          {
+            "label": "D",
+            "text": "4 percent."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What is a requirement?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A new job."
+          },
+          {
+            "label": "B",
+            "text": "An important address."
+          },
+          {
+            "label": "C",
+            "text": "Money in the bank."
+          },
+          {
+            "label": "D",
+            "text": "An accountant."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "Lesson\n\n21\n\n## Banking\n\nStudy the following definitions and examples.\n\n1. accept v., to receive; to respond favorably\n\na. The receptionist accepted the package from the courier.\n\nb. Without hesitating, she accepted the job of teller.\n\n2. balance n., the remainder; v. to compute the difference between credits and debits of an account\n\na. His healthy bank balance showed a long habit of savings.\n\nb. It took him over an hour to balance his checkbook.\n\n3. borrow v., to use temporarily\n\na. Do you want to borrow a pen?\n\nb. The couple borrowed money from the bank to buy a home.\n\n4. cautiously adv., carefully, warily\n\na. The bank manager spoke cautiously when giving out information to people she did not know.\n\nb. Act cautiously when signing contracts and read them thoroughly first.\n\n5. deduct v., to take away from a total; to subtract a. Before computing his taxes, Christophe remembered to deduct allowable home improvement expenses.\n\nb. By deducting the monthly fee from her checking account, Yi was able to make her account balance.\n\n6. dividend n., a share in a distribution\n\na. The stockholders were outraged when their quarterly dividends were so small.\n\nb. The dividend was calculated and distributed to the group.\n\n7. down payment n., an initial partial payment\n\na. By making a large down payment, the couple saved a great deal in mortgage interest.\n\nb. Karl was disappointed when the real estate agent told him he needed a larger down payment on the house.\n\n8. mortgage n., the amount due on a property; v., to borrow money with your house as collateral\n\na. Due to low interest rates, Sheila moved quickly to find a good deal on a mortgage.\n\nb. Hiram mortgaged his home to get extra money to invest in his business.\n\n9. restricted adj., limited\n\na. The number of free withdrawals a customer can make from his or her account each month is restricted to five.\n\nb. Access to the safe deposit box vault is restricted to key holders.\n\n10. signature n., the name of a person written by the person\n\na. Once we have your signature, the contract will be complete.\n\nb. The customer's signature was kept on file for identification purposes.\n\n11. take out v., withdraw; remove\n\na. My checking account allows me to take out money at any bank branch without a fee.\n\nb. They took out the chairs in the bank lobby so now there is no place to sit.\n\n12. transaction n., a business deal\n\na. Banking transactions will appear on your monthly statement.\n\nb. The most common transactions can be made from your personal computer.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\n| accept | cautious | down payment | signature |\n| --- | --- | --- | --- |\n| balance | deductions | mortgages | take out |\n| borrow | dividends | restrict | transact |\n\nBanks are not only places in which to save money or to (1) \\_\\_\\_\\_ your financial business, but also institutions from which people can (2) \\_\\_\\_\\_ money. Every day, people look to banks for loans, such as (3) \\_\\_\\_\\_ for new homes. A loan is essentially a contract that binds the lender to a schedule of payments, so both parties should be (4) \\_\\_\\_\\_ and not enter into the arrangement without thinking. Banks will look at such factors as how much people have saved towards a (5) \\_\\_\\_\\_ in determining whether to make a loan.\n\nBanks have different kinds of accounts. Some pay high quarterly (6) \\_\\_\\_\\_. Some accounts even severely (7) \\_\\_\\_\\_ the number of times, if any, that you can access your account, or the amount of cash you can (8) \\_\\_\\_\\_.\n\nToday, electronic banking can be used to check the (9) \\_\\_\\_\\_ on an account, or to see if automatic (10) \\_\\_\\_\\_ have been made. This can all be done from your home or office computer. When you go to the bank, be sure to bring identification. Usually a bank will only (11) \\_\\_\\_\\_ a photo ID; a (12) \\_\\_\\_\\_ is not a valid ID.",
+    "word_families": "## WORD FAMILIES\n\n<table><tr><td rowspan=\"3\">a</td><td>accept</td><td>The bank will not accept a student ID as a valid form of identification.</td></tr><tr><td>acceptance</td><td>The bank&#x27;s acceptance of checks allows extra time for out-of-state checks to clear before they are credited to your account.</td></tr><tr><td>acceptable</td><td>Shorter banking hours would not be acceptable to many customers, who might close their accounts as a result.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>b</td><td>caution</td><td>Our friends cautioned us against putting our money into an account that pays such a low interest rate.</td></tr><tr><td rowspan=\"2\">activ-</td><td>cautious</td><td>The bank officer was cautious about approving Chen&#x27;s loan because of his unfavorable credit history.</td></tr><tr><td>cautiously</td><td>We spent our money cautiously because we were not sure we would be able to borrow more.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>..b</td><td>deduct</td><td>Remember to deduct the monthly bank fee from your statement.</td></tr><tr><td>noun</td><td>deductible</td><td>Taxes and health insurance payments are called deductibles because they are deducted from your paycheck.</td></tr><tr><td>1 1</td><td>deduction</td><td>Deductions are made electronically every month and will appear on your statement.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>restrict</td><td>The bank&#x27;s policies restrict the number of deductions you can make from your account without a penalty.</td></tr><tr><td>noun</td><td>restriction</td><td>The restrictions on who was eligible for a mortgage made it impossible for many low-income families to borrow money.</td></tr><tr><td>a ... 3</td><td>restricted</td><td>Information about your account is confidential and its use without your permission is restricted.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>_</td><td>sign</td><td>Once you have signed the mortgage contract, the bank will make a check payable to you.</td></tr><tr><td>noun</td><td>sign</td><td>The sign in the bank&#x27;s lobby announces their rates for savings accounts and for loans.</td></tr><tr><td>noun</td><td>signature</td><td>Your signature can be electronically recorded to be verified later.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>transact</td><td>Our company transacts all its financial business at this bank.</td></tr><tr><td>noun</td><td>transaction</td><td>All parties concerned were pleased with the results of the business transactions.</td></tr></table>",
+    "listening_practice": "# WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences.\nChoose the sentence that best describes the picture.\n\n\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. What does the man want to do?  \n(A) Open a bank account.  \n(B) Get a new driver's license.  \n(C) Put his signature on file.  \n(D) Cash a check.\n\n5. According to the woman, what is required?\n(A) A photo ID.\n(B) An order form.\n(C) A large deposit.\n(D) A signed check.\n\n6. When will the man's check clear?\n(A) In seven days.\n(B) In eight days.\n(C) In ten days.\n(D) In eleven days.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. Who is this talk for?  \n(A) People who are looking for a job.  \n(B) People who want to borrow money.  \n(C) People who work in a bank.  \n(D) People who want to open a bank account.\n\n8. How big a down payment is required?\n(A) 10 percent.\n(B) 3 percent.\n(C) 1 percent.\n(D) 4 percent.\n\n9. What is a requirement?\n(A) A new job.\n(B) An important address.\n(C) Money in the bank.\n(D) An accountant.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. I'm going to call the bank manager ahead of time to make certain that she will \\_\\_\\_\\_ a personal check to start a new account.\n(A) accept (C) acceptance\n(B) accepted (D) acceptable\n\n11. We felt \\_\\_\\_\\_ about applying for such a large loan.\n(A) cautiously (C) cautioning\n(B) caution (D) cautious\n\n12. Every month my automatic car loan payment shows up as a \\_\\_\\_\\_ on my monthly statement.\n(A) deduct (C) deducting\n(B) deduction (D) deducted\n\n13. The number of withdrawals at no charge from your savings account is \\_\\_\\_\\_ to three.\n(A) restricting (C) restrict\n(B) restricted (D) restriction\n\n14. There is a counter in the bank lobby where customers can \\_\\_\\_\\_ their documents.\n(A) signing (C) sign\n(B) signed (D) signature\n\n15. These \\_\\_\\_\\_ must be completed before the close of business today.\n(A) transacts (C) transacted\n(B) transacting (D) transactions\n\n## Part 6 Text Completion\n\nDear Customer,\n\nOur records show that you qualify for our new automatic mortgage payment plan. Under this plan, your monthly mortgage payments \\_16\\_ from your savings account automatically. Now you no longer have to worry about making your payments on time! We do it all for you. You must maintain a sufficient \\_17\\_ in your account to cover the monthly payments. If you are interested in participating in this plan, simply complete the enclosed form. Certain \\_18\\_ apply to this plan, so read the explanation on the back of the form carefully. You may return the form in the enclosed envelope. Don't forget to sign it at the bottom. Your automatic deductions could begin as early as next month.\n\n16. (A) deduct  \n(B) deducted  \n(C) are deducted  \n(B) are deducting\n\n17. (A) dividend  \n(B) balance  \n(C) transaction  \n(D) down payment\n\n18. (A) restrictions  \n(B) restrictive  \n(C) restricted  \n(D) restricts",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following two letters.\n\nJuly 16, 20—\n\nCustomer Service Office\nNational Bank of Augusta\n1398 State Street\nAugusta, MD\n\nDear Customer Service Office,\n\nI am a new customer at your bank. I opened an account with you last month, and I have recently received my first monthly statement. I find that there is a service charge on three of the checks that I wrote. I understood that this account had free checking, so I was surprised to see this charge. Perhaps it is a mistake. I am enclosing a copy of the statement. Please clarify this matter for me. Thank you.\n\nSincerely,\n\nMarvin Gardner\n\n19. Why did Mr. Gardner write this letter?\n(A) To pay his monthly utility bills.\n(B) To find out about borrowing money.\n(C) To ask a question about his monthly statement.\n(D) To order some free checks.\n\n20. When did he open an account at the National Bank of Augusta?\n(A) May.\n(B) June.\n(C) July.\n(D) August.\n\n21. How many checks did he write last month?\n(A) Three.\n(B) Five.\n(C) Six.\n(D) Eight.\n\nAugust 3, 20—\n\nMarvin Gardner  \n145 Merrywood Lane  \nAugusta, MD\n\nDear Mr. Gardner,\n\nWe recently received your letter asking about charges to your account. While it is true that your account has free checking, some restrictions apply. You may write five checks a month free of charge. After that, you must maintain a minimum average balance of $600 in your account in order to continue with free checking. Since your average account balance last month was only $435, you were entitled to only five free checks. A service charge was applied to the checks you wrote beyond that minimum. I hope this explanation is satisfactory to you.\n\nLet me take this opportunity to make sure that you are aware of other services you can get with your account. You can arrange to have your monthly utility bills deducted from your account. You are also eligible to borrow small amounts of money from the bank at a low interest rate. If you are interested in these or any other services, please visit us at the bank, and an officer will be happy to explain all the details to you. Thank you for being a National Bank of Augusta customer.\n\nSincerely,\n\nEloise Lockwood Customer Service Officer\n\n22. The word restrictions in line 3 of the second letter is closest in meaning to  \n(A) limitations  \n(B) fees  \n(C) customers  \n(D) numbers\n\n23. The word deducted in line 13 of the second letter is closest in meaning to  \n(A) borrowed  \n(B) attached  \n(C) subtracted  \n(D) added"
+  },
+  "needs_review": true
+}

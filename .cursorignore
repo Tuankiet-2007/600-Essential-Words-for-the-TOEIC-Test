@@ -1,0 +1,22 @@
+# Cursor Context Window Guard — mirrors .gitignore
+# The 11MB source PDF and its raw OCR dump must never enter an AI context.
+600 est_.pdf
+extracted_data/
+
+node_modules/
+dist/
+.npm-cache/
+.vite/
+
+# Multi-GB Python/OCR toolchain — keep out of AI context entirely.
+.mineru/
+.mineru-home/
+.uv-cache/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+.env
+.env.*
+!.env.example

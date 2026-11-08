@@ -1,0 +1,1557 @@
+{
+  "lesson_id": 36,
+  "title": "General Travel",
+  "theme_name": "Travel",
+  "audio_track": "track_36.mp3",
+  "part1_photo": "part1_photos/lesson_36.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "agent",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a representative of a company",
+      "definition_vi": "đại lý, nhân viên đại diện",
+      "examples": [
+        {
+          "en": "A travel agent can usually find you the best deals on tickets and hotels.",
+          "vi": "Một đại lý du lịch thường có thể tìm cho bạn những ưu đãi tốt nhất về vé và khách sạn."
+        },
+        {
+          "en": "You can buy your ticket from the ticket agent at the train station right before you get on the train.",
+          "vi": "Bạn có thể mua vé từ nhân viên bán vé tại ga xe lửa ngay trước khi lên tàu."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "travel agent",
+        "ticket agent",
+        "real estate agent",
+        "authorized agent"
+      ],
+      "usage": {
+        "structures": [
+          "agent for somebody/something (đại diện cho ai/cái gì)",
+          "act as an agent (đóng vai trò là đại lý)"
+        ],
+        "prepositions": [
+          "for"
+        ],
+        "collocations": [
+          "travel agent",
+          "ticket agent",
+          "customer service agent",
+          "authorized agent"
+        ],
+        "tip": "Trong đề thi TOEIC, 'travel agent' (đại lý du lịch) và 'customer service agent' (nhân viên dịch vụ khách hàng) là các cụm từ xuất hiện rất thường xuyên."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "agency",
+          "example": "She decided to book her holiday through a local travel agency.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "We consulted a reputable travel _____ to organize our company retreat.",
+        "answer": "agency",
+        "base_word": "agent",
+        "pos_hint": "danh từ",
+        "vi": "Chúng tôi đã tham khảo ý kiến của một công ty du lịch uy tín để tổ chức chuyến nghỉ dưỡng cho công ty."
+      }
+    },
+    {
+      "id": 2,
+      "word": "announcement",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a public notification",
+      "definition_vi": "thông báo công khai, lời thông báo",
+      "examples": [
+        {
+          "en": "Did you hear an announcement about our new departure time?",
+          "vi": "Bạn có nghe thấy thông báo về giờ khởi hành mới của chúng ta không?"
+        },
+        {
+          "en": "I expect an announcement any time now about a snow emergency at the airport.",
+          "vi": "Tôi dự đoán bất kỳ lúc nào lúc này cũng sẽ có thông báo về tình trạng khẩn cấp do tuyết tại sân bay."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "announce",
+          "example": "The captain announced that the flight would be landing in approximately 15 minutes."
+        },
+        {
+          "pos": "",
+          "word": "announcement",
+          "example": "The flight attendant made an announcement reminding the passengers that this was a no-smoking flight."
+        },
+        {
+          "pos": "noun",
+          "word": "announcer",
+          "example": "The announcer gave the instructions for boarding, in three languages."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "make an announcement",
+        "public announcement",
+        "official announcement",
+        "flight announcement"
+      ],
+      "usage": {
+        "structures": [
+          "make an announcement about/that (đưa ra thông báo về/rằng)",
+          "announcement of something (thông báo về việc gì)"
+        ],
+        "prepositions": [
+          "about",
+          "of"
+        ],
+        "collocations": [
+          "make an announcement",
+          "official announcement",
+          "important announcement",
+          "boarding announcement"
+        ],
+        "tip": "'Announcement' thường đi với động từ 'make' (make an announcement). Trong bài nghe Part 4, các bài nói tại sân bay hay nhà ga thường là 'airport/train announcements'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "announce",
+          "example": "The pilot announced that the flight would be delayed due to bad weather.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "announcer",
+          "example": "The station announcer informed passengers about the platform change.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The flight captain _____ that we would be landing in approximately twenty minutes.",
+        "answer": "announced",
+        "base_word": "announcement",
+        "pos_hint": "động từ (quá khứ)",
+        "vi": "Cơ trưởng chuyến bay đã thông báo rằng chúng tôi sẽ hạ cánh trong khoảng hai mươi phút nữa."
+      }
+    },
+    {
+      "id": 3,
+      "word": "beverage",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a drink other than plain water",
+      "definition_vi": "đồ uống, thức uống (ngoại trừ nước lọc)",
+      "examples": [
+        {
+          "en": "The flight attendant offered all passengers a cold beverage during the flight.",
+          "vi": "Tiếp viên hàng không đã phục vụ đồ uống lạnh cho tất cả hành khách trong suốt chuyến bay."
+        },
+        {
+          "en": "The restaurant had a range of beverages on the drinks menu, including soft drinks and juices.",
+          "vi": "Nhà hàng có nhiều loại đồ uống trong thực đơn thức uống, bao gồm nước ngọt và nước trái cây."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "cold beverage",
+        "hot beverage",
+        "alcoholic beverage",
+        "beverage service"
+      ],
+      "usage": {
+        "structures": [
+          "beverage service (dịch vụ phục vụ đồ uống)",
+          "selection of beverages (nhiều lựa chọn đồ uống)"
+        ],
+        "prepositions": [
+          "of",
+          "during"
+        ],
+        "collocations": [
+          "hot/cold beverage",
+          "alcoholic/non-alcoholic beverage",
+          "complimentary beverage",
+          "beverage industry"
+        ],
+        "tip": "'Beverage' là từ trang trọng hơn 'drink'. Trong phần nghe Listening Part 1 và Part 4, 'complimentary beverage' nghĩa là đồ uống miễn phí đi kèm."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "drink",
+          "example": "Passengers can enjoy complimentary drinks during the long flight.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Complimentary _____ and light snacks were served shortly after takeoff.",
+        "answer": "beverages",
+        "base_word": "beverage",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Đồ uống miễn phí và đồ ăn nhẹ đã được phục vụ ngay sau khi máy bay cất cánh."
+      }
+    },
+    {
+      "id": 4,
+      "word": "blanket",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a covering for keeping warm, especially during sleep; any full coverage; v., to cover uniformly",
+      "definition_vi": "chiếc chăn; bao phủ, phủ kín",
+      "examples": [
+        {
+          "en": "It's going to be a cold night so I'll ask housekeeping to send an extra blanket for our bed.",
+          "vi": "Đêm nay trời sẽ lạnh nên tôi sẽ yêu cầu bộ phận dọn phòng mang thêm một chiếc chăn cho giường của chúng tôi."
+        },
+        {
+          "en": "The snow blanketed the windshield, making it difficult to see the roads.",
+          "vi": "Tuyết phủ kín kính chắn gió, khiến cho việc nhìn đường trở nên khó khăn."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "extra blanket",
+        "warm blanket",
+        "blanket coverage",
+        "blanketed with snow"
+      ],
+      "usage": {
+        "structures": [
+          "be blanketed with/in something (bị phủ kín bởi)",
+          "blanket of snow/fog (lớp tuyết/sương mù bao phủ)"
+        ],
+        "prepositions": [
+          "with",
+          "in",
+          "of"
+        ],
+        "collocations": [
+          "extra blanket",
+          "heavy blanket",
+          "blanket decision",
+          "blanketed in fog"
+        ],
+        "tip": "Từ 'blanket' vừa là danh từ (cái chăn) vừa là động từ (phủ kín toàn bộ: 'snow blanketed the runway')."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "blanketed",
+          "example": "The mountain roads were completely blanketed in thick snow.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Because of the freezing weather, the hotel room was supplied with two extra _____.",
+        "answer": "blankets",
+        "base_word": "blanket",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Vì thời tiết băng giá, phòng khách sạn đã được cung cấp thêm hai chiếc chăn ấm."
+      }
+    },
+    {
+      "id": 5,
+      "word": "board",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to enter a boat, plane, or train",
+      "definition_vi": "lên tàu, máy bay, xe lửa; ban giám đốc, tấm bảng",
+      "examples": [
+        {
+          "en": "For security reasons, visitors are not allowed in the area of the airport where passengers board the planes.",
+          "vi": "Vì lý do an ninh, du khách không được phép vào khu vực sân bay nơi hành khách lên máy bay."
+        },
+        {
+          "en": "We will board the train for New York in ten minutes.",
+          "vi": "Chúng tôi sẽ lên tàu đi New York trong mười phút nữa."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "board",
+          "example": "You can&#x27;t board the flight without an embarkation card."
+        },
+        {
+          "pos": "noun",
+          "word": "board",
+          "example": "The board of directors met to discuss problems with the striking pilots."
+        },
+        {
+          "pos": "",
+          "word": "onboard",
+          "example": "The onboard telephone was expensive to use, but a true time-saver."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "board a plane",
+        "board a flight",
+        "boarding pass",
+        "board of directors"
+      ],
+      "usage": {
+        "structures": [
+          "board a plane/train/ship (lên máy bay/tàu hỏa/tàu thủy)",
+          "boarding gate (cổng lên máy bay)"
+        ],
+        "prepositions": [
+          "for"
+        ],
+        "collocations": [
+          "boarding pass",
+          "boarding gate",
+          "board of directors",
+          "on board"
+        ],
+        "tip": "'Board' là động từ ngoại động (không cần giới từ: 'board the plane', KHÔNG nói 'board into the plane'). Cụm 'boarding pass' nghĩa là thẻ lên máy bay."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "boarding",
+          "example": "Boarding will commence approximately twenty minutes before departure.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Passengers are requested to present their _____ passes before entering the aircraft.",
+        "answer": "boarding",
+        "base_word": "board",
+        "pos_hint": "danh từ / tính từ bổ nghĩa",
+        "vi": "Hành khách được yêu cầu xuất trình thẻ lên máy bay trước khi bước vào máy bay."
+      }
+    },
+    {
+      "id": 6,
+      "word": "claim",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to take as rightful; to retrieve",
+      "definition_vi": "yêu cầu bồi thường, lấy lại, nhận đồ; tuyên bố",
+      "examples": [
+        {
+          "en": "Please proceed directly to the baggage arrival area to claim your luggage.",
+          "vi": "Xin vui lòng đi thẳng đến khu vực nhận hành lý để lấy lại hành lý của bạn."
+        },
+        {
+          "en": "Lost luggage can be claimed at the airline office.",
+          "vi": "Hành lý thất lạc có thể được nhận lại tại văn phòng của hãng hàng không."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "claim",
+          "example": "International passengers must proceed to customs as soon as they claim their baggage."
+        },
+        {
+          "pos": "noun",
+          "word": "claim",
+          "example": "If the airline has lost your luggage, you can file a claim with the insurance company."
+        },
+        {
+          "pos": "",
+          "word": "claimant",
+          "example": "There was a long line of claimants waiting at the lost luggage office."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "baggage claim",
+        "claim luggage",
+        "file an insurance claim",
+        "claim compensation"
+      ],
+      "usage": {
+        "structures": [
+          "claim baggage/luggage (nhận lại hành lý)",
+          "file a claim for something (nộp đơn yêu cầu bồi thường)"
+        ],
+        "prepositions": [
+          "for",
+          "at"
+        ],
+        "collocations": [
+          "baggage claim area",
+          "claim form",
+          "insurance claim",
+          "warranty claim"
+        ],
+        "tip": "Trong sân bay, 'baggage claim area' là khu vực lấy hành lý ký gửi. Trong bảo hiểm, 'claim' là yêu cầu chi trả bồi thường."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "claimant",
+          "example": "The claimant submitted all the medical receipts to the insurance company.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Passengers should report directly to the baggage _____ area on the ground floor.",
+        "answer": "claim",
+        "base_word": "claim",
+        "pos_hint": "danh từ",
+        "vi": "Hành khách nên đến thẳng khu vực lấy hành lý ở tầng trệt."
+      }
+    },
+    {
+      "id": 7,
+      "word": "delay",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to postpone until a later time",
+      "definition_vi": "trì hoãn, làm chậm lại; sự trì hoãn",
+      "examples": [
+        {
+          "en": "The bus was delayed due to inclement weather.",
+          "vi": "Chiếc xe buýt đã bị hoãn do thời tiết khắc nghiệt."
+        },
+        {
+          "en": "The heavy traffic delayed our arrival at the train station.",
+          "vi": "Giao thông đông đúc đã làm chậm giờ đến ga xe lửa của chúng tôi."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "delay",
+          "example": "Please don&#x27;t delay me; I need to get to my gate immediately."
+        },
+        {
+          "pos": "noun",
+          "word": "delay",
+          "example": "The delay in takeoff times was caused by a bad storm."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "flight delay",
+        "without delay",
+        "delay in departure",
+        "suffer a delay"
+      ],
+      "usage": {
+        "structures": [
+          "delay in doing something (sự chậm trễ trong việc làm gì)",
+          "be delayed due to something (bị hoãn do cái gì)"
+        ],
+        "prepositions": [
+          "in",
+          "due to"
+        ],
+        "collocations": [
+          "unavoidable delay",
+          "flight delay",
+          "without delay",
+          "cause a delay"
+        ],
+        "tip": "'Without delay' là một cụm trạng từ phổ biến nghĩa là 'ngay lập tức, không chậm trễ'."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "delayed",
+          "example": "Due to a technical issue, the 9:00 AM flight has been delayed by two hours.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The departure of Flight 204 has been _____ by three hours because of dense fog.",
+        "answer": "delayed",
+        "base_word": "delay",
+        "pos_hint": "động từ (quá khứ phân từ)",
+        "vi": "Chuyến bay 204 đã bị hoãn ba tiếng đồng hồ vì sương mù dày đặc."
+      }
+    },
+    {
+      "id": 8,
+      "word": "depart",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to go away or leave; to vary from a regular course of action",
+      "definition_vi": "khởi hành, rời đi; đi chệch khỏi quy tắc",
+      "examples": [
+        {
+          "en": "After the wedding, the married couple departed for their honeymoon in Morocco.",
+          "vi": "Sau đám cưới, cặp đôi mới cưới đã lên đường đi nghỉ tuần trăng mật ở Ma-rốc."
+        },
+        {
+          "en": "We're going to depart from our usual policy and allow you to leave work early one day a week.",
+          "vi": "Chúng tôi sẽ đi chệch khỏi chính sách thường lệ và cho phép bạn rời nơi làm việc sớm một ngày mỗi tuần."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "depart",
+          "example": "The flight will depart from Gate 25."
+        },
+        {
+          "pos": "noun",
+          "word": "departure",
+          "example": "The pilot always reminds the flight attendants to make sure that all passengers are ready for departure."
+        },
+        {
+          "pos": "",
+          "word": "departed",
+          "example": "The house felt empty without the departed guests."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "depart for a destination",
+        "depart from a station",
+        "scheduled to depart",
+        "depart from standard procedure"
+      ],
+      "usage": {
+        "structures": [
+          "depart for (khởi hành đi đến đâu)",
+          "depart from (khởi hành từ đâu, hoặc lệch khỏi quy chuẩn)"
+        ],
+        "prepositions": [
+          "for",
+          "from"
+        ],
+        "collocations": [
+          "depart on time",
+          "depart promptly",
+          "depart from the station",
+          "depart for Tokyo"
+        ],
+        "tip": "'Depart for' đi với nơi đến ('depart for Paris'), còn 'depart from' đi với nơi xuất phát ('depart from Hanoi') hoặc đi chệch khỏi quy chuẩn ('depart from the policy')."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "departure",
+          "example": "Passengers are advised to arrive at the airport two hours prior to departure.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "All passengers must be seated with their seatbelts fastened prior to _____.",
+        "answer": "departure",
+        "base_word": "depart",
+        "pos_hint": "danh từ",
+        "vi": "Tất cả hành khách phải ngồi vào chỗ và thắt dây an toàn trước khi khởi hành."
+      }
+    },
+    {
+      "id": 9,
+      "word": "embarkation",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the process of getting on a plane or ship",
+      "definition_vi": "sự lên tàu, máy bay",
+      "examples": [
+        {
+          "en": "Cruise passengers are given a pass for embarkation when they check in at the dock.",
+          "vi": "Hành khách đi tàu du lịch được cấp thẻ lên tàu khi họ làm thủ tục tại bến cảng."
+        },
+        {
+          "en": "The flight crew must check the passengers' documents before embarkation.",
+          "vi": "Phi hành đoàn phải kiểm tra giấy tờ của hành khách trước khi lên máy bay."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "port of embarkation",
+        "embarkation pass",
+        "embarkation card",
+        "embarkation time"
+      ],
+      "usage": {
+        "structures": [
+          "port of embarkation (cảng lên tàu)",
+          "prior to embarkation (trước khi lên tàu/máy bay)"
+        ],
+        "prepositions": [
+          "for",
+          "of",
+          "before"
+        ],
+        "collocations": [
+          "port of embarkation",
+          "embarkation process",
+          "embarkation gate",
+          "embarkation procedures"
+        ],
+        "tip": "'Embarkation' đối nghĩa với 'disembarkation' (sự xuống tàu/máy bay). Động từ tương ứng là 'embark on' (lên tàu, bắt đầu một chuyến đi/dự án)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "embark",
+          "example": "The travelers will embark on their European tour early tomorrow morning.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "disembarkation",
+          "example": "Disembarkation will begin once the ship has completely docked.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The cruise passengers gathered on the dock, waiting eagerly to _____ onto the luxury liner.",
+        "answer": "embark",
+        "base_word": "embarkation",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Các hành khách đi du thuyền tập trung trên bến cảng, háo hức chờ đợi để bước lên chiếc tàu sang trọng."
+      }
+    },
+    {
+      "id": 10,
+      "word": "itinerary",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a proposed route for a journey, showing dates and means of travel",
+      "definition_vi": "lịch trình chuyến đi, hành trình",
+      "examples": [
+        {
+          "en": "He reviewed the itinerary the travel agent had faxed him before purchasing the ticket.",
+          "vi": "Anh ấy đã xem lại lịch trình mà đại lý du lịch gửi fax cho trước khi mua vé."
+        },
+        {
+          "en": "I had to change my itinerary when I decided to add two more countries to my vacation.",
+          "vi": "Tôi đã phải thay đổi lịch trình khi quyết định bổ sung thêm hai quốc gia nữa vào kỳ nghỉ của mình."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "detailed itinerary",
+        "travel itinerary",
+        "change the itinerary",
+        "planned itinerary"
+      ],
+      "usage": {
+        "structures": [
+          "itinerary for a trip (lịch trình cho chuyến đi)",
+          "on the itinerary (nằm trong lịch trình)"
+        ],
+        "prepositions": [
+          "for",
+          "on"
+        ],
+        "collocations": [
+          "business itinerary",
+          "flight itinerary",
+          "finalize an itinerary",
+          "tight itinerary"
+        ],
+        "tip": "'Itinerary' là bảng lịch trình chi tiết ghi rõ ngày giờ, phương tiện, điểm đến. Thường xuất hiện trong các bài đọc Part 7 về công tác hoặc du lịch."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "itinerant",
+          "example": "The company employs itinerant technicians who travel between branch offices.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The travel assistant sent me a copy of my flight and hotel _____ for next week's conference.",
+        "answer": "itinerary",
+        "base_word": "itinerary",
+        "pos_hint": "danh từ",
+        "vi": "Trợ lý du lịch đã gửi cho tôi một bản sao lịch trình chuyến bay và khách sạn cho hội nghị tuần tới."
+      }
+    },
+    {
+      "id": 11,
+      "word": "prohibit",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to forbid by authority or to prevent",
+      "definition_vi": "cấm, ngăn cấm (bằng luật lệ/thẩm quyền)",
+      "examples": [
+        {
+          "en": "We were prohibited from wearing casual clothes in the office.",
+          "vi": "Chúng tôi bị cấm mặc quần áo thường phục trong văn phòng."
+        },
+        {
+          "en": "Airline regulations prohibit the passengers from having beverages open during takeoff and landing.",
+          "vi": "Các quy định của hãng hàng không cấm hành khách mở đồ uống trong lúc cất cánh và hạ cánh."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "strictly prohibit",
+        "prohibit somebody from doing something",
+        "prohibited items",
+        "prohibit smoking"
+      ],
+      "usage": {
+        "structures": [
+          "prohibit somebody from V-ing (cấm ai làm gì)",
+          "be prohibited by law/regulation (bị cấm bởi luật/quy định)"
+        ],
+        "prepositions": [
+          "from",
+          "by"
+        ],
+        "collocations": [
+          "strictly prohibited",
+          "prohibited area",
+          "prohibit the use of",
+          "regulations prohibit"
+        ],
+        "tip": "Cấu trúc kinh điển trong TOEIC: 'prohibit someone FROM doing something' (giống 'prevent/stop someone from doing something')."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "prohibition",
+          "example": "There is a strict prohibition against smoking throughout the terminal building.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "prohibitive",
+          "example": "The high cost of first-class airfare was prohibitive for the small business.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Smoking is strictly _____ in all cabins and restrooms aboard the aircraft.",
+        "answer": "prohibited",
+        "base_word": "prohibit",
+        "pos_hint": "động từ (quá khứ phân từ)",
+        "vi": "Hút thuốc bị nghiêm cấm trong tất cả các khoang và phòng vệ sinh trên máy bay."
+      }
+    },
+    {
+      "id": 12,
+      "word": "valid",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "having legal efficacy or correctness",
+      "definition_vi": "có hiệu lực, hợp lệ, có giá trị",
+      "examples": [
+        {
+          "en": "I need to make certain that my passport is valid if we plan to go overseas this December.",
+          "vi": "Tôi cần đảm bảo rằng hộ chiếu của mình vẫn còn hiệu lực nếu chúng tôi dự định đi nước ngoài vào tháng 12 này."
+        },
+        {
+          "en": "The officer's argument for increased airport security seemed valid at the time.",
+          "vi": "Lập luận của viên sĩ quan về việc tăng cường an ninh sân bay có vẻ xác đáng vào thời điểm đó."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "validate",
+          "example": "You can get your parking ticket validated at the concierge desk."
+        },
+        {
+          "pos": "noun",
+          "word": "validation",
+          "example": "The restaurant received three stars, which is quite a validation of the chef&#x27;s skills."
+        },
+        {
+          "pos": "",
+          "word": "valid",
+          "example": "Your ticket is no longer valid because it was issued over a year ago."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "valid passport",
+        "remain valid",
+        "valid for 30 days",
+        "valid argument"
+      ],
+      "usage": {
+        "structures": [
+          "valid for a period of time (có hiệu lực trong bao lâu)",
+          "valid until a date (có giá trị đến ngày nào)"
+        ],
+        "prepositions": [
+          "for",
+          "until"
+        ],
+        "collocations": [
+          "valid license",
+          "valid ticket",
+          "remain valid",
+          "valid identification"
+        ],
+        "tip": "Trong TOEIC, 'valid' thường bổ nghĩa cho giấy tờ: 'valid passport', 'valid driver's license', 'valid voucher'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "validate",
+          "example": "Please validate your parking ticket at the reception desk before leaving.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "validity",
+          "example": "The validity of the coupon expires at the end of this month.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "International travelers must present a _____ passport with at least six months of remaining validity.",
+        "answer": "valid",
+        "base_word": "valid",
+        "pos_hint": "tính từ",
+        "vi": "Hành khách quốc tế phải xuất trình hộ chiếu hợp lệ còn hạn ít nhất sáu tháng."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. When Ms. Tan has to go on business travel, she calls her favorite travel (1) ____. He reminds her to make sure that she takes a (2) ____ passport on her trip. Once her reservations have been made and confirmed, the travel agent will issue a ticket and an (3) ____. Before leaving for the airport, she calls the airline to check if the flight is on time and has not been (4) ____. At the airport, after checking in her suitcase at the check-in counter, since she is (5) ____ from taking more than one piece of carry-on luggage onto the plane, Ms. Tan receives her (6) ____ card. She will present this at the gate when it is time to (7) ____ her flight. She is told to be at the gate 15 minutes before the flight is to (8) ____. During the flight, the attendant may offer her a (9) ____, and she can even request a (10) ____ if she is cold. The captain will make (11) ____ during the flight to let the passengers know at what altitude they are flying, and when they may expect to arrive at their destination. Once the flight has landed, Ms. Tan disembarks and must go through customs after she (12) ____ her baggage. After this, she will take a cab to the hotel where she is staying, so she can rest and prepare for her meeting the next day. She will also reconfirm her return flight a day or two before she leaves to return home.",
+    "word_bank": [
+      "agent",
+      "blanket",
+      "delayed",
+      "itinerary",
+      "announcements",
+      "board",
+      "depart",
+      "prohibited",
+      "beverage",
+      "claims",
+      "embarkation",
+      "valid"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "announce",
+        "example": "The captain announced that the flight would be landing in approximately 15 minutes.",
+        "pos": ""
+      },
+      {
+        "word": "announcement",
+        "example": "The flight attendant made an announcement reminding the passengers that this was a no-smoking flight.",
+        "pos": ""
+      },
+      {
+        "word": "announcer",
+        "example": "The announcer gave the instructions for boarding, in three languages.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "board",
+        "example": "You can&#x27;t board the flight without an embarkation card.",
+        "pos": "verb"
+      },
+      {
+        "word": "board",
+        "example": "The board of directors met to discuss problems with the striking pilots.",
+        "pos": "noun"
+      },
+      {
+        "word": "onboard",
+        "example": "The onboard telephone was expensive to use, but a true time-saver.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "claim",
+        "example": "International passengers must proceed to customs as soon as they claim their baggage.",
+        "pos": "verb"
+      },
+      {
+        "word": "claim",
+        "example": "If the airline has lost your luggage, you can file a claim with the insurance company.",
+        "pos": "noun"
+      },
+      {
+        "word": "claimant",
+        "example": "There was a long line of claimants waiting at the lost luggage office.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "delay",
+        "example": "Please don&#x27;t delay me; I need to get to my gate immediately.",
+        "pos": ""
+      },
+      {
+        "word": "delay",
+        "example": "The delay in takeoff times was caused by a bad storm.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "depart",
+        "example": "The flight will depart from Gate 25.",
+        "pos": "verb"
+      },
+      {
+        "word": "departure",
+        "example": "The pilot always reminds the flight attendants to make sure that all passengers are ready for departure.",
+        "pos": "noun"
+      },
+      {
+        "word": "departed",
+        "example": "The house felt empty without the departed guests.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "validate",
+        "example": "You can get your parking ticket validated at the concierge desk.",
+        "pos": ""
+      },
+      {
+        "word": "validation",
+        "example": "The restaurant received three stars, which is quite a validation of the chef&#x27;s skills.",
+        "pos": "noun"
+      },
+      {
+        "word": "valid",
+        "example": "Your ticket is no longer valid because it was issued over a year ago.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "The desk clerk ____ the change in gate numbers at least an hour ago.",
+        "options": [
+          {
+            "label": "A",
+            "text": "announcement"
+          },
+          {
+            "label": "B",
+            "text": "announcing"
+          },
+          {
+            "label": "C",
+            "text": "announcer"
+          },
+          {
+            "label": "D",
+            "text": "announced"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "When it's time to ____ the flight, an announcement will be made.",
+        "options": [
+          {
+            "label": "A",
+            "text": "boarded"
+          },
+          {
+            "label": "B",
+            "text": "boarding"
+          },
+          {
+            "label": "C",
+            "text": "board"
+          },
+          {
+            "label": "D",
+            "text": "boarder"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "As soon as John ____ his luggage, he went outside to look for a taxi.",
+        "options": [
+          {
+            "label": "A",
+            "text": "claim"
+          },
+          {
+            "label": "B",
+            "text": "claimed"
+          },
+          {
+            "label": "C",
+            "text": "claimant"
+          },
+          {
+            "label": "D",
+            "text": "claims"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "The man had to ____ his travel plans because an emergency came up at work.",
+        "options": [
+          {
+            "label": "A",
+            "text": "delay"
+          },
+          {
+            "label": "B",
+            "text": "delaying"
+          },
+          {
+            "label": "C",
+            "text": "delayed"
+          },
+          {
+            "label": "D",
+            "text": "delays"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "The train's ____ was delayed because of a problem on the track.",
+        "options": [
+          {
+            "label": "A",
+            "text": "departed"
+          },
+          {
+            "label": "B",
+            "text": "departure"
+          },
+          {
+            "label": "C",
+            "text": "departs"
+          },
+          {
+            "label": "D",
+            "text": "depart"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "The airport applied a blanket rule that all passengers must be in possession of ____ tickets in order to enter the waiting area.",
+        "options": [
+          {
+            "label": "A",
+            "text": "valid"
+          },
+          {
+            "label": "B",
+            "text": "validity"
+          },
+          {
+            "label": "C",
+            "text": "validate"
+          },
+          {
+            "label": "D",
+            "text": "validation"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Information for Travelers \\* We make every effort to leave on time. To avoid [16], please plan to arrive at least one hour before your scheduled departure time. This is especially important because all passengers must pass through security control. \\* Scissors, nail clippers, and other sharp instruments [17] on board. Leave these items at home or surrender them to the security officer in charge. \\* Each passenger is allowed two small carry-on bags. Check your excess luggage with the attendant. You can claim it at the end of your trip. \\* We request that passengers remain in the waiting area until the attendant [18] the embarkation time. Please don't attempt to board ahead of time. \\* Your comfort is our priority. Snack service is available on board. Please ask the attendant for pillows and blankets if you require them. Thank you for traveling with us. Have a safe and happy trip.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "delays"
+            },
+            {
+              "label": "B",
+              "text": "delights"
+            },
+            {
+              "label": "C",
+              "text": "deliveries"
+            },
+            {
+              "label": "D",
+              "text": "delusions"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "prohibit"
+            },
+            {
+              "label": "B",
+              "text": "prohibits"
+            },
+            {
+              "label": "C",
+              "text": "are prohibited"
+            },
+            {
+              "label": "D",
+              "text": "are prohibiting"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "announce"
+            },
+            {
+              "label": "B",
+              "text": "announces"
+            },
+            {
+              "label": "C",
+              "text": "will announce"
+            },
+            {
+              "label": "D",
+              "text": "does announce"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Breezeway Travel Agency Itinerary for: Edward Rochester April 15 Depart New York City — 10:30 P.M. *Solar Airlines flight 133 Arrive Seattle, WA — 12:15 P.M. Hotel: Puget Inn 1764 Capital Street Seattle, WA April 18 Depart Seattle — 8:05 A.M. Train # 10 *Arrive Vancouver, Canada 11:20 A.M. Hotel: Gas Town Hotel 375 Alaska Avenue Vancouver, Canada April 20 Depart Vancouver — 11:30 P.M. *Solar Airlines flight 136 April 21 Arrive New York City — 5:10 A.M. * Please arrive at airport at least one hour ahead of scheduled departure time. Plane will begin boarding 20 minutes ahead of scheduled departure time. It is prohibited to bring firearms, explosive devices, or sharp instruments on board any Solar Airlines flight. There is no meal service on board any Solar Airlines flight. Beverages will be available for sale. Please arrive at train station 30 minutes before scheduled departure time. * A valid passport is required for entry into Canada. Questions 19–23 refer to the following travel itinerary. 22. The word itinerary in line 2 is closest in meaning to (A) bill (B) ticket (C) advice (D) schedule",
+        "questions": [
+          {
+            "number": 19,
+            "question": "How many nights will Mr. Rochester stay at the Puget Inn?",
+            "options": [
+              {
+                "label": "A",
+                "text": "One."
+              },
+              {
+                "label": "B",
+                "text": "Two."
+              },
+              {
+                "label": "C",
+                "text": "Three."
+              },
+              {
+                "label": "D",
+                "text": "Four."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "What time can he get on the return flight to New York City?",
+            "options": [
+              {
+                "label": "A",
+                "text": "10:30."
+              },
+              {
+                "label": "B",
+                "text": "11:10."
+              },
+              {
+                "label": "C",
+                "text": "11:30."
+              },
+              {
+                "label": "D",
+                "text": "5:10."
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word prohibited in line 20 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "not encouraged"
+              },
+              {
+                "label": "B",
+                "text": "uncommon"
+              },
+              {
+                "label": "C",
+                "text": "permitted"
+              },
+              {
+                "label": "D",
+                "text": "not allowed"
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "What can he buy during the flight?",
+            "options": [
+              {
+                "label": "A",
+                "text": "A meal."
+              },
+              {
+                "label": "B",
+                "text": "A drink."
+              },
+              {
+                "label": "C",
+                "text": "A passport."
+              },
+              {
+                "label": "D",
+                "text": "A train ticket."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "Who is the man speaking with?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A pilot."
+          },
+          {
+            "label": "B",
+            "text": "A waitress."
+          },
+          {
+            "label": "C",
+            "text": "A travel agent."
+          },
+          {
+            "label": "D",
+            "text": "A flight attendant."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "When will they arrive?",
+        "options": [
+          {
+            "label": "A",
+            "text": "In one hour."
+          },
+          {
+            "label": "B",
+            "text": "In two hours."
+          },
+          {
+            "label": "C",
+            "text": "In three hours."
+          },
+          {
+            "label": "D",
+            "text": "In four hours."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What does the woman offer the man?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Something to eat."
+          },
+          {
+            "label": "B",
+            "text": "Something to read."
+          },
+          {
+            "label": "C",
+            "text": "Something to drink."
+          },
+          {
+            "label": "D",
+            "text": "Something to listen to."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "What do passengers have to show the flight attendant?",
+        "options": [
+          {
+            "label": "A",
+            "text": "An embarkation card."
+          },
+          {
+            "label": "B",
+            "text": "A passport."
+          },
+          {
+            "label": "C",
+            "text": "A trip itinerary."
+          },
+          {
+            "label": "D",
+            "text": "A boarding pass."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "When will the flight leave?",
+        "options": [
+          {
+            "label": "A",
+            "text": "At 1:15."
+          },
+          {
+            "label": "B",
+            "text": "In twenty minutes."
+          },
+          {
+            "label": "C",
+            "text": "At nine o'clock."
+          },
+          {
+            "label": "D",
+            "text": "In five minutes."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What is not allowed before takeoff?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Talking on the phone."
+          },
+          {
+            "label": "B",
+            "text": "Selling things."
+          },
+          {
+            "label": "C",
+            "text": "Drinking."
+          },
+          {
+            "label": "D",
+            "text": "Dining."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. Who is the man speaking with? (A) A pilot. (B) A waitress. (C) A travel agent. (D) A flight attendant. 6. When will they arrive? (A) In one hour. (B) In two hours. (C) In three hours. (D) In four hours. 5. What does the woman offer the man? (A) Something to eat. (B) Something to read. (C) Something to drink. (D) Something to listen to. Listen to the talk. Then read each question and choose the best answer. 7. What do passengers have to show the flight attendant? (A) An embarkation card. (B) A passport. (C) A trip itinerary. (D) A boarding pass. 8. When will the flight leave? (A) At 1:15. (B) In twenty minutes. (C) At nine o'clock. (D) In five minutes. 9. What is not allowed before takeoff? (A) Talking on the phone. (B) Selling things. (C) Drinking. (D) Dining.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "Who is the man speaking with?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A pilot."
+          },
+          {
+            "label": "B",
+            "text": "A waitress."
+          },
+          {
+            "label": "C",
+            "text": "A travel agent."
+          },
+          {
+            "label": "D",
+            "text": "A flight attendant."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "When will they arrive?",
+        "options": [
+          {
+            "label": "A",
+            "text": "In one hour."
+          },
+          {
+            "label": "B",
+            "text": "In two hours."
+          },
+          {
+            "label": "C",
+            "text": "In three hours."
+          },
+          {
+            "label": "D",
+            "text": "In four hours."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What does the woman offer the man?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Something to eat."
+          },
+          {
+            "label": "B",
+            "text": "Something to read."
+          },
+          {
+            "label": "C",
+            "text": "Something to drink."
+          },
+          {
+            "label": "D",
+            "text": "Something to listen to."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "What do passengers have to show the flight attendant?",
+        "options": [
+          {
+            "label": "A",
+            "text": "An embarkation card."
+          },
+          {
+            "label": "B",
+            "text": "A passport."
+          },
+          {
+            "label": "C",
+            "text": "A trip itinerary."
+          },
+          {
+            "label": "D",
+            "text": "A boarding pass."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "When will the flight leave?",
+        "options": [
+          {
+            "label": "A",
+            "text": "At 1:15."
+          },
+          {
+            "label": "B",
+            "text": "In twenty minutes."
+          },
+          {
+            "label": "C",
+            "text": "At nine o'clock."
+          },
+          {
+            "label": "D",
+            "text": "In five minutes."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What is not allowed before takeoff?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Talking on the phone."
+          },
+          {
+            "label": "B",
+            "text": "Selling things."
+          },
+          {
+            "label": "C",
+            "text": "Drinking."
+          },
+          {
+            "label": "D",
+            "text": "Dining."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "# General Travel\n\nStudy the following definitions and examples.\n\n1. agent n., a representative of a company\n\na. A travel agent can usually find you the best deals on tickets and hotels.\n\nb. You can buy your ticket from the ticket agent at the train station right before you get on the train.\n\n2. announcement n., a public notification\n\na. Did you hear an announcement about our new departure time?\n\nb. I expect an announcement any time now about a snow emergency at the airport.\n\n3. beverage n., a drink other than plain water\n\na. The flight attendant offered all passengers a cold beverage during the flight.\n\nb. The restaurant had a range of beverages on the drinks menu, including soft drinks and juices.\n\n4. blanket n., a covering for keeping warm, especially during sleep; any full coverage; v., to cover uniformly\n\na. It's going to be a cold night so I'll ask housekeeping to send an extra blanket for our bed.\n\nb. The snow blanketed the windshield, making it difficult to see the roads.\n\n5. board v., to enter a boat, plane, or train a. For security reasons, visitors are not allowed in the area of the airport where passengers board the planes.\n\nb. We will board the train for New York in ten minutes.\n\n6. claim v., to take as rightful; to retrieve a. Please proceed directly to the baggage arrival area to claim your luggage.\nb. Lost luggage can be claimed at the airline office.\n\n7. delay v., to postpone until a later time\n\na. The bus was delayed due to inclement weather.\n\nb. The heavy traffic delayed our arrival at the train station.\n\n8. depart v., to go away or leave; to vary from a regular course of action.\n\na. After the wedding, the married couple departed for their honeymoon in Morocco.\n\nb. We're going to depart from our usual policy and allow you to leave work early one day a week.\n\n9. embarkation n., the process of getting on a plane or ship a. Cruise passengers are given a pass for embarkation when they check in at the dock.\n\nb. The flight crew must check the passengers' documents before embarkation.\n\n10. itinerary n., a proposed route for a journey, showing dates and means of travel a. He reviewed the itinerary the travel agent had faxed him before purchasing the ticket.\n\nb. I had to change my itinerary when I decided to add two more countries to my vacation.\n\n11. prohibit v., to forbid by authority or to prevent\n\na. We were prohibited from wearing casual clothes in the office.\n\nb. Airline regulations prohibit the passengers from having beverages open during takeoff and landing.\n\n12. valid adj., having legal efficacy or correctness\n\na. I need to make certain that my passport is valid if we plan to go overseas this December.\n\nb. The officer's argument for increased airport security seemed valid at the time.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\n| agent | blanket | delayed | itinerary |\n| --- | --- | --- | --- |\n| announcements | board | depart | prohibited |\n| beverage | claims | embarkation | valid |\n\nWhen Ms. Tan has to go on business travel, she calls her favorite travel (1) \\_\\_\\_\\_. He reminds her to make sure that she takes a (2) \\_\\_\\_\\_ passport on her trip. Once her reservations have been made and confirmed, the travel agent will issue a ticket and an (3) \\_\\_\\_\\_. Before leaving for the airport, she calls the airline to check if the flight is on time and has not been (4) \\_\\_\\_\\_.\n\nAt the airport, after checking in her suitcase at the check-in counter, since she is (5) \\_\\_\\_\\_ from taking more than one piece of carry-on luggage onto the plane, Ms. Tan receives her (6) \\_\\_\\_\\_ card. She will present this at the gate when it is time to (7) \\_\\_\\_\\_ her flight. She is told to be at the gate 15 minutes before the flight is to (8) \\_\\_\\_\\_. During the flight, the attendant may offer her a (9) \\_\\_\\_\\_, and she can even request a (10) \\_\\_\\_\\_ if she is cold. The captain will make (11) \\_\\_\\_\\_ during the flight to let the passengers know at what altitude they are flying, and when they may expect to arrive at their destination.\n\nOnce the flight has landed, Ms. Tan disembarks and must go through customs after she (12) \\_\\_\\_\\_ her baggage. After this, she will take a cab to the hotel where she is staying, so she can rest and prepare for her meeting the next day. She will also reconfirm her return flight a day or two before she leaves to return home.",
+    "word_families": "## WORD FAMILIES\n\n<table><tr><td>π</td><td>announce</td><td>The captain announced that the flight would be landing in approximately 15 minutes.</td></tr><tr><td>- -</td><td>announcement</td><td>The flight attendant made an announcement reminding the passengers that this was a no-smoking flight.</td></tr><tr><td>noun</td><td>announcer</td><td>The announcer gave the instructions for boarding, in three languages.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>board</td><td>You can&#x27;t board the flight without an embarkation card.</td></tr><tr><td>noun</td><td>board</td><td>The board of directors met to discuss problems with the striking pilots.</td></tr><tr><td>- - -</td><td>onboard</td><td>The onboard telephone was expensive to use, but a true time-saver.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>claim</td><td>International passengers must proceed to customs as soon as they claim their baggage.</td></tr><tr><td>noun</td><td>claim</td><td>If the airline has lost your luggage, you can file a claim with the insurance company.</td></tr><tr><td>- - -</td><td>claimant</td><td>There was a long line of claimants waiting at the lost luggage office.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>- - -</td><td>delay</td><td>Please don&#x27;t delay me; I need to get to my gate immediately.</td></tr><tr><td>noun</td><td>delay</td><td>The delay in takeoff times was caused by a bad storm.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>depart</td><td>The flight will depart from Gate 25.</td></tr><tr><td>noun</td><td>departure</td><td>The pilot always reminds the flight attendants to make sure that all passengers are ready for departure.</td></tr><tr><td>- - -</td><td>departed</td><td>The house felt empty without the departed guests.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>- - -</td><td>validate</td><td>You can get your parking ticket validated at the concierge desk.</td></tr><tr><td>noun</td><td>validation</td><td>The restaurant received three stars, which is quite a validation of the chef&#x27;s skills.</td></tr><tr><td>- - -</td><td>valid</td><td>Your ticket is no longer valid because it was issued over a year ago.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. Who is the man speaking with?\n(A) A pilot.\n(B) A waitress.\n(C) A travel agent.\n(D) A flight attendant.\n\n6. When will they arrive?\n(A) In one hour.\n(B) In two hours.\n(C) In three hours.\n(D) In four hours.\n\n5. What does the woman offer the man?  \n(A) Something to eat.  \n(B) Something to read.  \n(C) Something to drink.  \n(D) Something to listen to.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. What do passengers have to show the flight attendant?\n(A) An embarkation card.\n(B) A passport.\n(C) A trip itinerary.\n(D) A boarding pass.\n\n8. When will the flight leave?\n(A) At 1:15.\n(B) In twenty minutes.\n(C) At nine o'clock.\n(D) In five minutes.\n\n9. What is not allowed before takeoff?\n(A) Talking on the phone.\n(B) Selling things.\n(C) Drinking.\n(D) Dining.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. The desk clerk \\_\\_\\_\\_ the change in gate numbers at least an hour ago.\n(A) announcement (C) announcer\n(B) announcing (D) announced\n\n11. When it's time to \\_\\_\\_\\_ the flight, an announcement will be made.\n(A) boarded (C) board\n(B) boarding (D) boarder\n\n12. As soon as John \\_\\_\\_\\_ his luggage, he went outside to look for a taxi.\n(A) claim (C) claimant\n(B) claimed (D) claims\n\n13. The man had to \\_\\_\\_\\_ his travel plans because an emergency came up at work.\n(A) delay (C) delayed\n(B) delaying (D) delays\n\n14. The train's \\_\\_\\_\\_ was delayed because of a problem on the track.\n(A) departed (C) departs\n(B) departure (D) depart\n\n15. The airport applied a blanket rule that all passengers must be in possession of \\_\\_\\_\\_ tickets in order to enter the waiting area.\n(A) valid (C) validate\n(B) validity (D) validation\n\n## Part 6 Text Completion\n\n## Information for Travelers\n\n\\* We make every effort to leave on time. To avoid \\_16\\_, please plan to arrive at least one hour before your scheduled departure time. This is especially important because all passengers must pass through security control.\n\n\\* Scissors, nail clippers, and other sharp instruments \\_17\\_ on board. Leave these items at home or surrender them to the security officer in charge.\n\n\\* Each passenger is allowed two small carry-on bags. Check your excess luggage with the attendant. You can claim it at the end of your trip.\n\n\\* We request that passengers remain in the waiting area until the attendant \\_18\\_ the embarkation time. Please don't attempt to board ahead of time.\n\n\\* Your comfort is our priority. Snack service is available on board. Please ask the attendant for pillows and blankets if you require them.\n\nThank you for traveling with us. Have a safe and happy trip.\n\n16. (A) delays  \n(B) delights  \n(C) deliveries  \n(D) delusions\n\n18. (A) announce\n\n(B) announces\n\n(C) will announce\n\n(D) does announce\n\n17. (A) prohibit (B) prohibits (C) are prohibited (D) are prohibiting",
+    "reading_part7": "<table><tr><td colspan=\"2\">Breezeway Travel Agency</td></tr><tr><td colspan=\"2\">Itinerary for: Edward Rochester</td></tr><tr><td>April 15</td><td>Depart New York City — 10:30 P.M.\n*Solar Airlines flight 133\nArrive Seattle, WA — 12:15 P.M.</td></tr><tr><td></td><td>Hotel: Puget Inn\n1764 Capital Street\nSeattle, WA</td></tr><tr><td>April 18</td><td>Depart Seattle — 8:05 A.M.\n**Train # 10\n***Arrive Vancouver, Canada 11:20 A.M.</td></tr><tr><td></td><td>Hotel: Gas Town Hotel\n375 Alaska Avenue\nVancouver, Canada</td></tr><tr><td>April 20</td><td>Depart Vancouver — 11:30 P.M.\n*Solar Airlines flight 136</td></tr><tr><td>April 21</td><td>Arrive New York City — 5:10 A.M.</td></tr><tr><td colspan=\"2\">* Please arrive at airport at least one hour ahead of scheduled departure time.\nPlane will begin boarding 20 minutes ahead of scheduled departure time.\nIt is prohibited to bring firearms, explosive devices, or sharp instruments on board any Solar Airlines flight.\nThere is no meal service on board any Solar Airlines flight. Beverages will be available for sale.\n** Please arrive at train station 30 minutes before scheduled departure time.\n*** A valid passport is required for entry into Canada.</td></tr></table>\n\n## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following travel itinerary.\n\n19. How many nights will Mr. Rochester stay at the Puget Inn?\n(A) One.\n(B) Two.\n(C) Three.\n(D) Four.\n\n22. The word itinerary in line 2 is closest in meaning to (A) bill (B) ticket (C) advice (D) schedule\n\n20. What time can he get on the return flight to New York City?\n(A) 10:30.\n(B) 11:10.\n(C) 11:30.\n(D) 5:10.\n\n23. The word prohibited in line 20 is closest in meaning to  \n(A) not encouraged  \n(B) uncommon  \n(C) permitted  \n(D) not allowed\n\n21. What can he buy during the flight?\n(A) A meal.\n(B) A drink.\n(C) A passport.\n(D) A train ticket."
+  },
+  "needs_review": true
+}

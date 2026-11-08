@@ -1,0 +1,1646 @@
+{
+  "lesson_id": 43,
+  "title": "Music",
+  "theme_name": "Entertainment",
+  "audio_track": "track_43.mp3",
+  "part1_photo": "part1_photos/lesson_43.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "available",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "ready for use; willing to serve",
+      "definition_vi": "có sẵn, sẵn có để dùng; rảnh rỗi (người)",
+      "examples": [
+        {
+          "en": "In order to understand all the words to the opera, Sue Lin kept an Italian dictionary available at all times.",
+          "vi": "Để hiểu hết lời của vở nhạc kịch opera, Sue Lin luôn để sẵn một cuốn từ điển tiếng Ý bên mình mọi lúc."
+        },
+        {
+          "en": "I checked the list of available compact discs before ordering.",
+          "vi": "Tôi đã kiểm tra danh sách các đĩa CD hiện có trước khi đặt hàng."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "readily available",
+        "available for purchase",
+        "available seats",
+        "make available to"
+      ],
+      "usage": {
+        "structures": [
+          "be available + to sb / for sth",
+          "make + sth + available to sb"
+        ],
+        "prepositions": [
+          "to",
+          "for",
+          "at",
+          "in"
+        ],
+        "collocations": [
+          "readily available",
+          "widely available",
+          "available upon request",
+          "subject to availability"
+        ],
+        "tip": "'Available' có thể đứng trước danh từ (available tickets) hoặc đứng SAU danh từ làm mệnh đề quan hệ rút gọn (all the tickets available)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "availability",
+          "example": "Please call the box office to check the availability of front-row seats.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "unavailable",
+          "example": "The lead soprano was unavailable for interviews prior to the concert.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "availably",
+          "example": "The digital recordings are stored availably on the conservatory's internal server.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Discounted concert passes are offered subject to _____ and must be reserved online.",
+        "answer": "availability",
+        "base_word": "available",
+        "pos_hint": "danh từ",
+        "vi": "Vé xem hòa nhạc giảm giá được cung cấp tùy theo tình trạng còn vé và phải được đặt trước trực tuyến."
+      }
+    },
+    {
+      "id": 2,
+      "word": "broaden",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to make wider",
+      "definition_vi": "mở rộng, làm phong phú thêm",
+      "examples": [
+        {
+          "en": "Dominique wants to broaden her knowledge of opera history.",
+          "vi": "Dominique muốn mở rộng kiến thức của mình về lịch sử nhạc kịch opera."
+        },
+        {
+          "en": "You will appreciate music more if you broaden your tastes and listen to several types of music.",
+          "vi": "Bạn sẽ cảm thụ âm nhạc tốt hơn nếu bạn mở rộng gu thưởng thức và nghe nhiều thể loại âm nhạc khác nhau."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "broaden",
+          "example": "Connie would like to broaden her collection of CDs and add a few more music categories to it."
+        },
+        {
+          "pos": "",
+          "word": "broad",
+          "example": "We&#x27;ll cover a broad range of music in the music appreciation class."
+        },
+        {
+          "pos": "",
+          "word": "broadly",
+          "example": "The orchestra director travels broadly in search of new musical talent."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "broaden one's horizons",
+        "broaden knowledge",
+        "broaden the scope",
+        "broaden appeal"
+      ],
+      "usage": {
+        "structures": [
+          "broaden + N (knowledge/tastes/horizons/appeal)"
+        ],
+        "prepositions": [
+          "into",
+          "to"
+        ],
+        "collocations": [
+          "broaden one's knowledge",
+          "broaden one's tastes",
+          "broad range of",
+          "travel broadly"
+        ],
+        "tip": "Đuôi '-en' gắn vào tính từ 'broad' tạo thành động từ 'broaden' (mở rộng), thường đi với tân ngữ trừu tượng như knowledge, horizons, appeal."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "breadth",
+          "example": "Critics admired the impressive breadth of the composer's musical repertoire.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The music appreciation course covers a _____ range of classical and contemporary styles.",
+        "answer": "broad",
+        "base_word": "broaden",
+        "pos_hint": "tính từ",
+        "vi": "Khóa học cảm thụ âm nhạc bao gồm một phạm vi rộng các phong cách cổ điển và đương đại."
+      }
+    },
+    {
+      "id": 3,
+      "word": "category",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a division in a system of classification; a general class of ideas",
+      "definition_vi": "hạng mục, thể loại, loại",
+      "examples": [
+        {
+          "en": "Jazz is one of many categories of music.",
+          "vi": "Nhạc Jazz là một trong nhiều thể loại âm nhạc."
+        },
+        {
+          "en": "The works of Mozart are in a category by themselves.",
+          "vi": "Các tác phẩm của Mozart tự thân chúng đã thuộc một đẳng cấp/hạng mục riêng biệt."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "categorize",
+          "example": "Some singers have a broad range of styles and are difficult to categorize."
+        },
+        {
+          "pos": "",
+          "word": "category",
+          "example": "Most of Sam&#x27;s compact discs fall into the category of classical music."
+        },
+        {
+          "pos": "",
+          "word": "categorical",
+          "example": "The sheet music follows the categorical system used in most libraries."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "fall into a category",
+        "in a category by itself",
+        "broad category",
+        "product category"
+      ],
+      "usage": {
+        "structures": [
+          "fall into the category of + N",
+          "divide into categories",
+          "in a category of one's own"
+        ],
+        "prepositions": [
+          "of",
+          "into",
+          "under"
+        ],
+        "collocations": [
+          "fall into the category",
+          "distinct categories",
+          "categorize by genre",
+          "special category"
+        ],
+        "tip": "Cụm động từ 'fall into the category of...' (thuộc vào thể loại/nhóm...) rất hay xuất hiện trong Part 5 và Part 7."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "categorically",
+          "example": "The band's manager categorically denied rumors that the tour had been canceled.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "categorization",
+          "example": "The library's categorization of folk music recordings makes research much easier.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Some experimental musicians blend so many genres that their work is difficult to _____.",
+        "answer": "categorize",
+        "base_word": "category",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Một số nhạc sĩ thử nghiệm pha trộn nhiều thể loại đến mức tác phẩm của họ rất khó để phân loại."
+      }
+    },
+    {
+      "id": 4,
+      "word": "disparate",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "fundamentally distinct or different",
+      "definition_vi": "khác biệt hoàn toàn, khác hẳn nhau",
+      "examples": [
+        {
+          "en": "In the song, the disparate voices hauntingly join a blended chorus.",
+          "vi": "Trong bài hát, những giọng ca khác biệt nhau lại hòa quyện một cách đầy ám ảnh vào một dàn đồng ca hài hòa."
+        },
+        {
+          "en": "Religious songs cut across disparate categories of music.",
+          "vi": "Những bài thánh ca vượt qua nhiều thể loại âm nhạc hoàn toàn khác biệt nhau."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "disparate groups",
+        "disparate elements",
+        "disparate styles",
+        "disparate cultures"
+      ],
+      "usage": {
+        "structures": [
+          "disparate + N (số nhiều: groups/elements/categories)"
+        ],
+        "prepositions": [
+          "from"
+        ],
+        "collocations": [
+          "disparate musical styles",
+          "disparate backgrounds",
+          "bring together disparate elements",
+          "widely disparate"
+        ],
+        "tip": "Luôn bổ nghĩa cho danh từ số nhiều hoặc tập hợp để nhấn mạnh sự khác biệt về bản chất giữa các thành phần."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "disparity",
+          "example": "There is a noticeable disparity between ticket prices for orchestra seats and balcony seats.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "disparately",
+          "example": "The two conductors interpreted the symphony quite disparately.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The composer became famous for blending _____ musical traditions from East and West into a single symphony.",
+        "answer": "disparate",
+        "base_word": "disparate",
+        "pos_hint": "tính từ",
+        "vi": "Nhà soạn nhạc trở nên nổi tiếng nhờ việc pha trộn các truyền thống âm nhạc khác biệt từ Đông sang Tây vào một bản giao hưởng duy nhất."
+      }
+    },
+    {
+      "id": 5,
+      "word": "divide",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to separate into parts",
+      "definition_vi": "chia, phân chia, tách ra",
+      "examples": [
+        {
+          "en": "The music class was evenly divided between those who liked country and western music and those who do not.",
+          "vi": "Lớp học âm nhạc được chia đều giữa những người thích nhạc đồng quê và miền Tây với những người không thích."
+        },
+        {
+          "en": "The broad topic of music can be divided into manageable parts, such as themes, styles, or centuries.",
+          "vi": "Chủ đề rộng lớn về âm nhạc có thể được chia thành các phần dễ quản lý, chẳng hạn như chủ đề, phong cách hoặc thế kỷ."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "divide into parts",
+        "evenly divided",
+        "divide between A and B",
+        "divide up"
+      ],
+      "usage": {
+        "structures": [
+          "divide + A + into + B",
+          "be divided between A and B",
+          "divide + A + among + B"
+        ],
+        "prepositions": [
+          "into",
+          "between",
+          "among",
+          "by"
+        ],
+        "collocations": [
+          "be divided into four sections",
+          "evenly divided",
+          "deep division",
+          "divisive issue"
+        ],
+        "tip": "Đi với giới từ 'into' khi mang nghĩa chia nhỏ thành các phần (be divided into sections/parts)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "divide",
+          "example": "The symphony is divided into four distinct movements.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "division",
+          "example": "She was recently promoted to head of the classical music division.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "divided",
+          "example": "The judging panel remained evenly divided over which pianist deserved first prize.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "divisible",
+          "example": "The concert hall can be made divisible into smaller recital rooms using movable walls.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The two-hour music lecture was _____ into three segments covering baroque, classical, and romantic eras.",
+        "answer": "divided",
+        "base_word": "divide",
+        "pos_hint": "động từ chia quá khứ phân từ V3/ed (bị động)",
+        "vi": "Bài giảng âm nhạc kéo dài hai giờ được chia thành ba phần bao gồm các thời kỳ baroque, cổ điển và lãng mạn."
+      }
+    },
+    {
+      "id": 6,
+      "word": "favor",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to be partial to",
+      "definition_vi": "ưa chuộng, thiên vị, ủng hộ; sự giúp đỡ",
+      "examples": [
+        {
+          "en": "Sam enjoys the works of several composers but he tends to favor Mozart.",
+          "vi": "Sam yêu thích tác phẩm của một số nhà soạn nhạc nhưng anh có xu hướng ưa chuộng Mozart hơn."
+        },
+        {
+          "en": "I'd favor an evening at a jazz concert over an evening at the opera any time.",
+          "vi": "Bất cứ lúc nào tôi cũng sẽ thích một buổi tối ở buổi hòa nhạc jazz hơn là một buổi tối ở nhà hát opera."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "favor",
+          "example": "The music critic clearly favors some musicians over others."
+        },
+        {
+          "pos": "",
+          "word": "favorite",
+          "example": "The teenager had an extensive collection of music by all her favorite groups."
+        },
+        {
+          "pos": "",
+          "word": "favorable",
+          "example": "The favorable reviews of the group&#x27;s new album helped to push the album up the sales charts."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "favor A over B",
+        "favorable review",
+        "in favor of",
+        "do somebody a favor"
+      ],
+      "usage": {
+        "structures": [
+          "favor A over B",
+          "be in favor of + N/V-ing",
+          "do sb a favor"
+        ],
+        "prepositions": [
+          "over",
+          "of",
+          "with"
+        ],
+        "collocations": [
+          "favor one candidate over another",
+          "favorable conditions",
+          "favorable reviews",
+          "in favor of the proposal"
+        ],
+        "tip": "Cấu trúc động từ 'favor A over B' (chuộng A hơn B) và tính từ 'favorable' (thuận lợi/tích cực) rất hay được hỏi trong bài thi."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "favorably",
+          "example": "Audience members responded very favorably to the orchestra's outdoor concert series.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The _____ reviews of the band's debut album helped propel it to the top of the sales charts.",
+        "answer": "favorable",
+        "base_word": "favor",
+        "pos_hint": "tính từ",
+        "vi": "Những bài đánh giá tích cực về album đầu tay của ban nhạc đã giúp đẩy nó lên vị trí dẫn đầu bảng xếp hạng doanh số."
+      }
+    },
+    {
+      "id": 7,
+      "word": "instinct",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an inborn pattern that is a powerful motivation",
+      "definition_vi": "bản năng, năng khiếu bẩm sinh",
+      "examples": [
+        {
+          "en": "The student's ability to play the cello was so natural, it seemed an instinct.",
+          "vi": "Khả năng chơi đàn cello của cậu học sinh tự nhiên đến mức nó có vẻ như là một bản năng."
+        },
+        {
+          "en": "The music lover followed his instincts and collected only music that he enjoyed.",
+          "vi": "Người yêu âm nhạc đã nghe theo trực giác/bản năng của mình và chỉ sưu tầm những bản nhạc mà ông yêu thích."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "follow one's instincts",
+        "natural instinct",
+        "by instinct",
+        "instinct for music"
+      ],
+      "usage": {
+        "structures": [
+          "trust/follow one's instincts",
+          "by instinct",
+          "an instinct for + N/V-ing"
+        ],
+        "prepositions": [
+          "for",
+          "by"
+        ],
+        "collocations": [
+          "follow one's instincts",
+          "natural instinct",
+          "instinctive reaction",
+          "trust your instincts"
+        ],
+        "tip": "Thường đi trong cụm 'follow/trust one's instincts' (tin vào bản năng/trực giác của mình) hoặc 'by instinct'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "instinct",
+          "example": "The young conductor has an unerring instinct for tempo and rhythm.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "instinctive",
+          "example": "Her expressive phrasing on the violin seems completely instinctive.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "instinctively",
+          "example": "Experienced jazz musicians instinctively adjust to changes in the soloist's rhythm.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The accomplished pianist knew _____ when to soften the melody during the emotional solo.",
+        "answer": "instinctively",
+        "base_word": "instinct",
+        "pos_hint": "trạng từ",
+        "vi": "Nghệ sĩ dương cầm tài năng biết một cách bản năng khi nào cần làm dịu giai điệu trong đoạn độc tấu đầy cảm xúc."
+      }
+    },
+    {
+      "id": 8,
+      "word": "prefer",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to like someone or something more than another or others",
+      "definition_vi": "thích hơn, ưa hơn",
+      "examples": [
+        {
+          "en": "He preferred contemporary music to any other type.",
+          "vi": "Anh ấy thích nhạc đương đại hơn bất kỳ thể loại nào khác."
+        },
+        {
+          "en": "Ms. Lanet prefers to get a seat near the aisle when she attends a concert.",
+          "vi": "Cô Lanet thích chọn một chỗ ngồi gần lối đi hơn khi cô tham dự một buổi hòa nhạc."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "prefer",
+          "example": "I would prefer tickets for Saturday&#x27;s concert, but will accept Sunday tickets if that is all that is available."
+        },
+        {
+          "pos": "",
+          "word": "preference",
+          "example": "Jazz is his preference, but he is usually happy to hear anything playing locally."
+        },
+        {
+          "pos": "",
+          "word": "preferential",
+          "example": "The stage manager gave the opera diva preferential treatment, fearing her famous temper."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "prefer A to B",
+        "prefer to do",
+        "personal preference",
+        "preferential treatment"
+      ],
+      "usage": {
+        "structures": [
+          "prefer A to B",
+          "prefer + to V (rather than V)",
+          "prefer V-ing to V-ing"
+        ],
+        "prepositions": [
+          "to",
+          "over"
+        ],
+        "collocations": [
+          "prefer classical music to pop",
+          "express a preference for",
+          "preferential rates",
+          "preferably before noon"
+        ],
+        "tip": "Nhớ cấu trúc kinh điển 'prefer A to B' (thích A hơn B - dùng giới từ 'to' chứ không dùng 'than') và gấp đôi 'r' khi chia 'preferred'."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "preferable",
+          "example": "Acoustic instruments are preferable to electronic ones for this chamber piece.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "preferably",
+          "example": "Concertgoers should arrive early, preferably thirty minutes before the show begins.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Season ticket holders receive _____ seating and early access to special guest recitals.",
+        "answer": "preferential",
+        "base_word": "prefer",
+        "pos_hint": "tính từ",
+        "vi": "Những người sở hữu vé cả mùa nhận được chỗ ngồi ưu tiên và quyền đăng ký sớm các buổi biểu diễn có khách mời đặc biệt."
+      }
+    },
+    {
+      "id": 9,
+      "word": "reason",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the basis or motive for an action; an underlying fact or cause",
+      "definition_vi": "lý do, nguyên nhân; suy luận",
+      "examples": [
+        {
+          "en": "We'll never understand the reason why some music is popular and some is not.",
+          "vi": "Chúng ta sẽ không bao giờ hiểu được lý do tại sao một số bản nhạc lại nổi tiếng còn một số khác thì không."
+        },
+        {
+          "en": "There is every reason to believe that Beethoven will still be popular in the next century.",
+          "vi": "Có đủ mọi lý do để tin rằng Beethoven vẫn sẽ được yêu thích trong thế kỷ tới."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "the reason why",
+        "reason for delay",
+        "within reason",
+        "every reason to believe"
+      ],
+      "usage": {
+        "structures": [
+          "the reason why + S + V",
+          "the reason for + N",
+          "have every reason + to V"
+        ],
+        "prepositions": [
+          "for",
+          "behind"
+        ],
+        "collocations": [
+          "main reason for",
+          "every reason to believe",
+          "reasonable price",
+          "within reason"
+        ],
+        "tip": "Đi với 'for + cụm danh từ' (reason for the cancellation) hoặc 'why + mệnh đề' (reason why it was canceled)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "reason",
+          "example": "The organizers reasoned that outdoor concerts would attract younger families.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "reasonable",
+          "example": "The symphony offers student tickets at a very reasonable price.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "reasonably",
+          "example": "The vintage guitar is in reasonably good condition despite its age.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The festival organizers offered _____ priced tickets so that local families could attend.",
+        "answer": "reasonably",
+        "base_word": "reason",
+        "pos_hint": "trạng từ",
+        "vi": "Ban tổ chức lễ hội đã đưa ra mức giá vé hợp lý để các gia đình địa phương có thể tham dự."
+      }
+    },
+    {
+      "id": 10,
+      "word": "relaxation",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the act of relaxing or the state of being relaxed; refreshment of body or mind",
+      "definition_vi": "sự thư giãn, sự nghỉ ngơi giải trí",
+      "examples": [
+        {
+          "en": "Listening to soothing music before bedtime provides good relaxation.",
+          "vi": "Nghe nhạc êm dịu trước giờ đi ngủ mang lại sự thư giãn rất tốt."
+        },
+        {
+          "en": "He played the piano for relaxation and pleasure.",
+          "vi": "Ông ấy chơi đàn piano để thư giãn và giải trí."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "relax",
+          "example": "After a long concert tour, the singer liked to relax by the pool."
+        },
+        {
+          "pos": "",
+          "word": "relaxation",
+          "example": "Listening to music is an enduring form of relaxation."
+        },
+        {
+          "pos": "",
+          "word": "relaxing",
+          "example": "There is nothing more relaxing than listening to music."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "for relaxation",
+        "relaxation techniques",
+        "relaxation of rules",
+        "rest and relaxation"
+      ],
+      "usage": {
+        "structures": [
+          "for relaxation and pleasure",
+          "provide relaxation",
+          "relaxation of + N (rules/restrictions)"
+        ],
+        "prepositions": [
+          "for",
+          "of"
+        ],
+        "collocations": [
+          "form of relaxation",
+          "pure relaxation",
+          "relaxing atmosphere",
+          "feel relaxed"
+        ],
+        "tip": "Phân biệt tính từ 'relaxing' (mang tính thư giãn - bổ nghĩa cho vật/hoạt động: relaxing music) và 'relaxed' (cảm thấy thư giãn - chỉ người)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "relaxed",
+          "example": "The acoustic café provides a relaxed setting for amateur songwriters.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "There is nothing more _____ after a hectic workday than listening to soft instrumental music.",
+        "answer": "relaxing",
+        "base_word": "relaxation",
+        "pos_hint": "tính từ đuôi -ing",
+        "vi": "Không có gì thư giãn hơn sau một ngày làm việc bận rộn bằng việc nghe nhạc không lời êm dịu."
+      }
+    },
+    {
+      "id": 11,
+      "word": "taste",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the ability to discern what is excellent or appropriate",
+      "definition_vi": "gu thẩm mỹ, sở thích, thị hiếu; vị giác",
+      "examples": [
+        {
+          "en": "Ella had the taste required to select a musical program for the visiting dignitaries.",
+          "vi": "Ella có gu thẩm mỹ tinh tế cần thiết để chọn một chương trình âm nhạc cho các quan khách cấp cao đến thăm."
+        },
+        {
+          "en": "This music does not appeal to my tastes; but I'm old-fashioned.",
+          "vi": "Thứ âm nhạc này không hợp với thị hiếu của tôi; nhưng tôi vốn là người hoài cổ."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "appeal to one's taste",
+        "diverse tastes",
+        "good taste in",
+        "matter of taste"
+      ],
+      "usage": {
+        "structures": [
+          "have good/poor taste in + N",
+          "appeal to/suit one's taste(s)",
+          "a matter of personal taste"
+        ],
+        "prepositions": [
+          "in",
+          "for",
+          "to"
+        ],
+        "collocations": [
+          "musical tastes",
+          "good taste in art",
+          "cater to all tastes",
+          "tastefully decorated"
+        ],
+        "tip": "Khi mang nghĩa 'gu/thị hiếu', 'taste' thường đi với giới từ 'in' (taste in music/clothes) hoặc cụm 'suit/appeal to one's tastes'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "taste",
+          "example": "Guests were invited to taste regional wines during the concert intermission.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "tasteful",
+          "example": "The lobby of the concert hall features tasteful floral arrangements.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "tastefully",
+          "example": "The lounge was tastefully furnished with antique pianos and velvet chairs.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The summer festival program was designed to cater to a wide variety of musical _____.",
+        "answer": "tastes",
+        "base_word": "taste",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Chương trình lễ hội mùa hè được thiết kế để phục vụ đa dạng các thị hiếu âm nhạc khác nhau."
+      }
+    },
+    {
+      "id": 12,
+      "word": "urge",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to advocate earnestly",
+      "definition_vi": "thúc giục, khuyên nhủ tha thiết; sự thôi thúc",
+      "examples": [
+        {
+          "en": "His mother urged him to study the piano; the rest is musical history.",
+          "vi": "Mẹ của ông đã thúc giục ông học đàn piano; và phần còn lại đã đi vào lịch sử âm nhạc."
+        },
+        {
+          "en": "Despite my reluctance, my friends urged me to attend an opera.",
+          "vi": "Bất chấp sự miễn cưỡng của tôi, bạn bè vẫn thúc giục tôi đi xem một vở nhạc kịch opera."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "urge",
+          "example": "My music teacher urged me not to give up the violin even though I was having such a hard time with it."
+        },
+        {
+          "pos": "",
+          "word": "urge",
+          "example": "Richard gets the urge to play the guitar every time he passes a music store window."
+        },
+        {
+          "pos": "",
+          "word": "urgent",
+          "example": "It&#x27;s urgent to order those concert tickets as soon as possible because they will sell out quickly."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "urge somebody to do",
+        "strong urge",
+        "urgent need",
+        "urgently require"
+      ],
+      "usage": {
+        "structures": [
+          "urge + sb + to V",
+          "urge + that + S + (should) V nguyên mẫu",
+          "feel/get an urge + to V"
+        ],
+        "prepositions": [
+          "to",
+          "on"
+        ],
+        "collocations": [
+          "urge visitors to arrive early",
+          "resist the urge to",
+          "urgent matter",
+          "urgent request"
+        ],
+        "tip": "Cấu trúc 'urge sb to V' (thúc giục ai làm gì) và giả định thức 'urge that S + V nguyên mẫu' là trọng tâm ngữ pháp TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "urgency",
+          "example": "The conductor stressed the urgency of replacing the damaged stage microphones.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "urgently",
+          "example": "The festival organizers urgently needed a sound technician before the show started.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Because the benefit concert will sell out fast, it is _____ that you reserve your tickets today.",
+        "answer": "urgent",
+        "base_word": "urge",
+        "pos_hint": "tính từ",
+        "vi": "Vì buổi hòa nhạc từ thiện sẽ bán hết vé rất nhanh, việc bạn đặt vé ngay hôm nay là vô cùng cấp bách."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. Everyone loves music, it seems. And there's little (1) ____ to wonder why. There is so much music (2) ____ from which to choose, and there is a (3) ____ of music to appeal to every (4) ____. The major groups of music are (5) ____ broadly into classical, popular, and jazz. Within these (6) ____ groups are many other subcategories. For example, such (7) ____ types of music as movie sound tracks, rhythm and blues, rock, and rap all fit within the category of popular music. The (8) ____ to make and enjoy music may be (9) ____. Even small children will (10) ____ certain kinds of music. Another reason that music is so popular is the variety of settings in which one can enjoy his or her (11) ____ kind of music. You can go to a church to hear great religious music, or to a concert hall to hear a well-known classical symphony. On another night, you might go to a small club to listen to an up-and-coming jazz group while you enjoy a drink. A few nights later, you might go with some friends to join thousands of other people in a stadium to hear your favorite rock band play in your city on a world tour. And, back at your house or apartment, you can (12) ____ while you put in a tape or CD and listen to your favorite artists again and again in your own home.",
+    "word_bank": [
+      "available",
+      "disparate",
+      "instinctive",
+      "relax",
+      "broad",
+      "divided",
+      "prefer",
+      "taste",
+      "category",
+      "favorite",
+      "reason",
+      "urge"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "broaden",
+        "example": "Connie would like to broaden her collection of CDs and add a few more music categories to it.",
+        "pos": ""
+      },
+      {
+        "word": "broad",
+        "example": "We&#x27;ll cover a broad range of music in the music appreciation class.",
+        "pos": ""
+      },
+      {
+        "word": "broadly",
+        "example": "The orchestra director travels broadly in search of new musical talent.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "categorize",
+        "example": "Some singers have a broad range of styles and are difficult to categorize.",
+        "pos": ""
+      },
+      {
+        "word": "category",
+        "example": "Most of Sam&#x27;s compact discs fall into the category of classical music.",
+        "pos": ""
+      },
+      {
+        "word": "categorical",
+        "example": "The sheet music follows the categorical system used in most libraries.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "favor",
+        "example": "The music critic clearly favors some musicians over others.",
+        "pos": ""
+      },
+      {
+        "word": "favorite",
+        "example": "The teenager had an extensive collection of music by all her favorite groups.",
+        "pos": ""
+      },
+      {
+        "word": "favorable",
+        "example": "The favorable reviews of the group&#x27;s new album helped to push the album up the sales charts.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "prefer",
+        "example": "I would prefer tickets for Saturday&#x27;s concert, but will accept Sunday tickets if that is all that is available.",
+        "pos": ""
+      },
+      {
+        "word": "preference",
+        "example": "Jazz is his preference, but he is usually happy to hear anything playing locally.",
+        "pos": ""
+      },
+      {
+        "word": "preferential",
+        "example": "The stage manager gave the opera diva preferential treatment, fearing her famous temper.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "relax",
+        "example": "After a long concert tour, the singer liked to relax by the pool.",
+        "pos": ""
+      },
+      {
+        "word": "relaxation",
+        "example": "Listening to music is an enduring form of relaxation.",
+        "pos": ""
+      },
+      {
+        "word": "relaxing",
+        "example": "There is nothing more relaxing than listening to music.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "urge",
+        "example": "My music teacher urged me not to give up the violin even though I was having such a hard time with it.",
+        "pos": ""
+      },
+      {
+        "word": "urge",
+        "example": "Richard gets the urge to play the guitar every time he passes a music store window.",
+        "pos": ""
+      },
+      {
+        "word": "urgent",
+        "example": "It&#x27;s urgent to order those concert tickets as soon as possible because they will sell out quickly.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "My friends have urged me to ____ my tastes to include more classical music.",
+        "options": [
+          {
+            "label": "A",
+            "text": "broad"
+          },
+          {
+            "label": "B",
+            "text": "broadly"
+          },
+          {
+            "label": "C",
+            "text": "broaden"
+          },
+          {
+            "label": "D",
+            "text": "broadened"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "I don't know how to ____ my taste in music.",
+        "options": [
+          {
+            "label": "A",
+            "text": "categorize"
+          },
+          {
+            "label": "B",
+            "text": "categories"
+          },
+          {
+            "label": "C",
+            "text": "categorical"
+          },
+          {
+            "label": "D",
+            "text": "categorically"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "The string quartet received a ____ comparison to the best of the genre.",
+        "options": [
+          {
+            "label": "A",
+            "text": "favor"
+          },
+          {
+            "label": "B",
+            "text": "favoritism"
+          },
+          {
+            "label": "C",
+            "text": "favorably"
+          },
+          {
+            "label": "D",
+            "text": "favorable"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "The symphony members ____ to travel abroad only once a year.",
+        "options": [
+          {
+            "label": "A",
+            "text": "prefer"
+          },
+          {
+            "label": "B",
+            "text": "preferable"
+          },
+          {
+            "label": "C",
+            "text": "preference"
+          },
+          {
+            "label": "D",
+            "text": "preferential"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "After a hard day at work, we like to ____ to soothing music.",
+        "options": [
+          {
+            "label": "A",
+            "text": "relaxation"
+          },
+          {
+            "label": "B",
+            "text": "relaxes"
+          },
+          {
+            "label": "C",
+            "text": "relaxing"
+          },
+          {
+            "label": "D",
+            "text": "relax"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "Sometimes I get an ____ to learn how to play a musical instrument.",
+        "options": [
+          {
+            "label": "A",
+            "text": "urgent"
+          },
+          {
+            "label": "B",
+            "text": "urge"
+          },
+          {
+            "label": "C",
+            "text": "urges"
+          },
+          {
+            "label": "D",
+            "text": "urgently"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Music Library User's Guide The library's music collection is [16] into the following categories: classical, jazz, musicals, rock, folk, and international. The map below shows where each category is located. To find out if a particular CD is currently [17], please use the computers up front to check the catalog. If you remove a CD from the shelf, we [18] you not to attempt to replace it yourself. Please give it to a librarian who will reshelf it properly. CDs can be enjoyed in the adjacent listening room. Patrons who prefer to enjoy the CDs at home may use their library card to check out up to five CDs at a time for a period of two weeks. If you need help for any reason, please ask the librarian on duty.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "divide"
+            },
+            {
+              "label": "B",
+              "text": "divides"
+            },
+            {
+              "label": "C",
+              "text": "divided"
+            },
+            {
+              "label": "D",
+              "text": "dividing"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "avowal"
+            },
+            {
+              "label": "B",
+              "text": "avuncular"
+            },
+            {
+              "label": "C",
+              "text": "avoidable"
+            },
+            {
+              "label": "D",
+              "text": "available"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "urge"
+            },
+            {
+              "label": "B",
+              "text": "urgent"
+            },
+            {
+              "label": "C",
+              "text": "unguent"
+            },
+            {
+              "label": "D",
+              "text": "urgently"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following review and e-mail message. We were fortunate to have internationally acclaimed violinist Maria Rogoff play at Symphony Hall last Saturday night. Ms. Rogoff appears to have been born with a musical instinct. She played her violin quite naturally, as if it were an old friend. The selection of pieces she played was superb. She favored lively, interesting pieces that kept the audience enthralled during the entire performance. All in all, it was a thoroughly enjoyable and relaxing evening. Music lovers everywhere are urged to hear Ms. Rogoff play anytime there is an opportunity. To: Polly Andrews From: Gus Hall Subject: Concert Hi Polly, Did you see the review of Maria Rogoff's concert in the Sunday paper? Can you believe they gave her such a good review? I didn't agree at all with what the reviewer said about her selection of pieces. In fact, I thought quite the opposite. And she made several mistakes in her playing. Did you notice? Oh, well. I prefer cello music anyhow. It is much more to my taste. Maybe that's the real reason I didn't enjoy the concert. By the way, there is another concert this Friday. A pianist will be playing at Symphony Hall. Do you want to go? I am pretty sure there are still tickets available. I think there is a performance on Thursday, too, but I have a meeting that night. Let me know if you can make it, and I'll order the tickets. Gus 22. The word instinct in line 4 of the review is closest in meaning to (A) preference (B) knowledge (C) parentage (D) nature",
+        "questions": [
+          {
+            "number": 19,
+            "question": "When was Maria Rogoff's concert?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Thursday."
+              },
+              {
+                "label": "B",
+                "text": "Friday."
+              },
+              {
+                "label": "C",
+                "text": "Saturday."
+              },
+              {
+                "label": "D",
+                "text": "Sunday."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "What is Gus's opinion of the music at the concert?",
+            "options": [
+              {
+                "label": "A",
+                "text": "It was lively."
+              },
+              {
+                "label": "B",
+                "text": "It was boring."
+              },
+              {
+                "label": "C",
+                "text": "It was relaxing."
+              },
+              {
+                "label": "D",
+                "text": "It was enthralling."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "What instrument does Gus prefer?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Viola."
+              },
+              {
+                "label": "B",
+                "text": "Cello."
+              },
+              {
+                "label": "C",
+                "text": "Violin."
+              },
+              {
+                "label": "D",
+                "text": "Piano."
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word relaxing in line 10 of the review is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "fun"
+              },
+              {
+                "label": "B",
+                "text": "exciting"
+              },
+              {
+                "label": "C",
+                "text": "peaceful"
+              },
+              {
+                "label": "D",
+                "text": "educational"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What does the man say about the music at the store?",
+        "options": [
+          {
+            "label": "A",
+            "text": "It matches his tastes."
+          },
+          {
+            "label": "B",
+            "text": "It is boring."
+          },
+          {
+            "label": "C",
+            "text": "It sounds pretty."
+          },
+          {
+            "label": "D",
+            "text": "It is interesting."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the woman suggest that the man do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Go to another store."
+          },
+          {
+            "label": "B",
+            "text": "Take a music class."
+          },
+          {
+            "label": "C",
+            "text": "Listen to the radio."
+          },
+          {
+            "label": "D",
+            "text": "Improve his taste."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "Why does the man want to buy a CD?",
+        "options": [
+          {
+            "label": "A",
+            "text": "For relaxation."
+          },
+          {
+            "label": "B",
+            "text": "For school."
+          },
+          {
+            "label": "C",
+            "text": "For a present."
+          },
+          {
+            "label": "D",
+            "text": "For a dance party."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "What is the class about?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The history of music."
+          },
+          {
+            "label": "B",
+            "text": "Playing musical instruments."
+          },
+          {
+            "label": "C",
+            "text": "Music appreciation."
+          },
+          {
+            "label": "D",
+            "text": "Reading music."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What does the speaker urge the listeners to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Buy the text right away."
+          },
+          {
+            "label": "B",
+            "text": "Try a musical instrument."
+          },
+          {
+            "label": "C",
+            "text": "Take a test."
+          },
+          {
+            "label": "D",
+            "text": "Start listening to music every day."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "How much will students pay for concert tickets?",
+        "options": [
+          {
+            "label": "A",
+            "text": "$3."
+          },
+          {
+            "label": "B",
+            "text": "$13."
+          },
+          {
+            "label": "C",
+            "text": "$25."
+          },
+          {
+            "label": "D",
+            "text": "$30."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. What does the man say about the music at the store? (A) It matches his tastes. (B) It is boring. (C) It sounds pretty. (D) It is interesting. 6. What does the woman suggest that the man do? (A) Go to another store. (B) Take a music class. (C) Listen to the radio. (D) Improve his taste. 5. Why does the man want to buy a CD? (A) For relaxation. (B) For school. (C) For a present. (D) For a dance party. Listen to the talk. Then read each question and choose the best answer. 7. What is the class about? (A) The history of music. (B) Playing musical instruments. (C) Music appreciation. (D) Reading music. 8. What does the speaker urge the listeners to do? (A) Buy the text right away. (B) Try a musical instrument. (C) Take a test. (D) Start listening to music every day. 9. How much will students pay for concert tickets? (A) $3. (B) $13. (C) $25. (D) $30.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What does the man say about the music at the store?",
+        "options": [
+          {
+            "label": "A",
+            "text": "It matches his tastes."
+          },
+          {
+            "label": "B",
+            "text": "It is boring."
+          },
+          {
+            "label": "C",
+            "text": "It sounds pretty."
+          },
+          {
+            "label": "D",
+            "text": "It is interesting."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the woman suggest that the man do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Go to another store."
+          },
+          {
+            "label": "B",
+            "text": "Take a music class."
+          },
+          {
+            "label": "C",
+            "text": "Listen to the radio."
+          },
+          {
+            "label": "D",
+            "text": "Improve his taste."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "Why does the man want to buy a CD?",
+        "options": [
+          {
+            "label": "A",
+            "text": "For relaxation."
+          },
+          {
+            "label": "B",
+            "text": "For school."
+          },
+          {
+            "label": "C",
+            "text": "For a present."
+          },
+          {
+            "label": "D",
+            "text": "For a dance party."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "What is the class about?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The history of music."
+          },
+          {
+            "label": "B",
+            "text": "Playing musical instruments."
+          },
+          {
+            "label": "C",
+            "text": "Music appreciation."
+          },
+          {
+            "label": "D",
+            "text": "Reading music."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What does the speaker urge the listeners to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Buy the text right away."
+          },
+          {
+            "label": "B",
+            "text": "Try a musical instrument."
+          },
+          {
+            "label": "C",
+            "text": "Take a test."
+          },
+          {
+            "label": "D",
+            "text": "Start listening to music every day."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "How much will students pay for concert tickets?",
+        "options": [
+          {
+            "label": "A",
+            "text": "$3."
+          },
+          {
+            "label": "B",
+            "text": "$13."
+          },
+          {
+            "label": "C",
+            "text": "$25."
+          },
+          {
+            "label": "D",
+            "text": "$30."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "## Music\n\nStudy the following definitions and examples.\n\n1. available adj., ready for use; willing to serve a. In order to understand all the words to the opera, Sue Lin kept an Italian dictionary available at all times.\n\nb. I checked the list of available compact discs before ordering.\n\n2. broaden v., to make wider\n\na. Dominique wants to broaden her knowledge of opera history.\n\nb. You will appreciate music more if you broaden your tastes and listen to several types of music.\n\n3. category n., a division in a system of classification; a general class of ideas a. Jazz is one of many categories of music.\n\nb. The works of Mozart are in a category by themselves.\n\n4. disparate adj., fundamentally distinct or different\n\na. In the song, the disparate voices hauntingly join a blended chorus.\n\nb. Religious songs cut across disparate categories of music.\n\n5. divide v., to separate into parts\n\na. The music class was evenly divided between those who liked country and western music and those who do not.\n\nb. The broad topic of music can be divided into manageable parts, such as themes, styles, or centuries.\n\n6. favor v., to be partial to\n\na. Sam enjoys the works of several composers but he tends to favor Mozart.\n\nb. I'd favor an evening at a jazz concert over an evening at the opera any time.\n\n7. instinct n., an inborn pattern that is a powerful motivation a. The student's ability to play the cello was so natural, it seemed an instinct.\n\nb. The music lover followed his instincts and collected only music that he enjoyed.\n\n8. prefer v., to like someone or something more than another or others a. He preferred contemporary music to any other type.\n\nb. Ms. Lanet prefers to get a seat near the aisle when she attends a concert.\n\n9. reason n., the basis or motive for an action; an underlying fact or cause\n\na. We'll never understand the reason why some music is popular and some is not.\n\nb. There is every reason to believe that Beethoven will still be popular in the next century.\n\n10. relaxation n., the act of relaxing or the state of being relaxed; refreshment of body or mind\n\na. Listening to soothing music before bedtime provides good relaxation.\n\nb. He played the piano for relaxation and pleasure.\n\n11. taste n., the ability to discern what is excellent or appropriate a. Ella had the taste required to select a musical program for the visiting dignitaries.\n\nb. This music does not appeal to my tastes; but I'm old-fashioned.\n\n12. urge v., to advocate earnestly\n\na. His mother urged him to study the piano; the rest is musical history.\n\nb. Despite my reluctance, my friends urged me to attend an opera.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\n| available | disparate | instinctive | relax |\n| --- | --- | --- | --- |\n| broad | divided | prefer | taste |\n| category | favorite | reason | urge |\n\nEveryone loves music, it seems. And there's little (1) \\_\\_\\_\\_ to wonder why. There is so much music (2) \\_\\_\\_\\_ from which to choose, and there is a (3) \\_\\_\\_\\_ of music to appeal to every (4) \\_\\_\\_\\_. The major groups of music are (5) \\_\\_\\_\\_ broadly into classical, popular, and jazz. Within these (6) \\_\\_\\_\\_ groups are many other subcategories. For example, such (7) \\_\\_\\_\\_ types of music as movie sound tracks, rhythm and blues, rock, and rap all fit within the category of popular music.\n\nThe (8) \\_\\_\\_\\_ to make and enjoy music may be (9) \\_\\_\\_\\_. Even small children will (10) \\_\\_\\_\\_ certain kinds of music.\n\nAnother reason that music is so popular is the variety of settings in which one can enjoy his or her (11) \\_\\_\\_\\_ kind of music. You can go to a church to hear great religious music, or to a concert hall to hear a well-known classical symphony. On another night, you might go to a small club to listen to an up-and-coming jazz group while you enjoy a drink. A few nights later, you might go with some friends to join thousands of other people in a stadium to hear your favorite rock band play in your city on a world tour. And, back at your house or apartment, you can (12) \\_\\_\\_\\_ while you put in a tape or CD and listen to your favorite artists again and again in your own home.",
+    "word_families": "## WORD FAMILIES\n\n$$\n4 1..\n$$\n\n<table><tr><td>broaden</td><td>Connie would like to broaden her collection of CDs and add a few more music categories to it.</td></tr><tr><td>broad</td><td>We&#x27;ll cover a broad range of music in the music appreciation class.</td></tr><tr><td>broadly</td><td>The orchestra director travels broadly in search of new musical talent.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>categorize</td><td>Some singers have a broad range of styles and are difficult to categorize.</td></tr><tr><td>category</td><td>Most of Sam&#x27;s compact discs fall into the category of classical music.</td></tr><tr><td>categorical</td><td>The sheet music follows the categorical system used in most libraries.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>favor</td><td>The music critic clearly favors some musicians over others.</td></tr><tr><td>favorite</td><td>The teenager had an extensive collection of music by all her favorite groups.</td></tr><tr><td>favorable</td><td>The favorable reviews of the group&#x27;s new album helped to push the album up the sales charts.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>prefer</td><td>I would prefer tickets for Saturday&#x27;s concert, but will accept Sunday tickets if that is all that is available.</td></tr><tr><td>preference</td><td>Jazz is his preference, but he is usually happy to hear anything playing locally.</td></tr><tr><td>preferential</td><td>The stage manager gave the opera diva preferential treatment, fearing her famous temper.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>relax</td><td>After a long concert tour, the singer liked to relax by the pool.</td></tr><tr><td>relaxation</td><td>Listening to music is an enduring form of relaxation.</td></tr><tr><td>relaxing</td><td>There is nothing more relaxing than listening to music.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>urge</td><td>My music teacher urged me not to give up the violin even though I was having such a hard time with it.</td></tr><tr><td>urge</td><td>Richard gets the urge to play the guitar every time he passes a music store window.</td></tr><tr><td>urgent</td><td>It&#x27;s urgent to order those concert tickets as soon as possible because they will sell out quickly.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question-Response\n\n\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. What does the man say about the music at the store?\n(A) It matches his tastes.\n(B) It is boring.\n(C) It sounds pretty.\n(D) It is interesting.\n\n6. What does the woman suggest that the man do?  \n(A) Go to another store.  \n(B) Take a music class.  \n(C) Listen to the radio.  \n(D) Improve his taste.\n\n5. Why does the man want to buy a CD?\n(A) For relaxation.\n(B) For school.\n(C) For a present.\n(D) For a dance party.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. What is the class about?\n(A) The history of music.\n(B) Playing musical instruments.\n(C) Music appreciation.\n(D) Reading music.\n\n8. What does the speaker urge the listeners to do?  \n(A) Buy the text right away.  \n(B) Try a musical instrument.  \n(C) Take a test.  \n(D) Start listening to music every day.\n\n9. How much will students pay for concert tickets?\n(A) $3.\n(B) $13.\n(C) $25.\n(D) $30.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. My friends have urged me to \\_\\_\\_\\_ my tastes to include more classical music.\n(A) broad (C) broaden\n(B) broadly (D) broadened\n\n11. I don't know how to \\_\\_\\_\\_ my taste in music.\n(A) categorize (C) categorical\n(B) categories (D) categorically\n\n12. The string quartet received a \\_\\_\\_\\_ comparison to the best of the genre.\n(A) favor (C) favorably\n(B) favoritism (D) favorable\n\n13. The symphony members \\_\\_\\_\\_ to travel abroad only once a year.\n(A) prefer (C) preference\n(B) preferable (D) preferential\n\n14. After a hard day at work, we like to \\_\\_\\_\\_ to soothing music.\n(A) relaxation (C) relaxing\n(B) relaxes (D) relax\n\n15. Sometimes I get an \\_\\_\\_\\_ to learn how to play a musical instrument.\n(A) urgent    (C) urges\n(B) urge    (D) urgently\n\n## Part 6 Text Completion\n\n## Music Library\n\n## User's Guide\n\nThe library's music collection is \\_16\\_ into the following categories: classical, jazz, musicals, rock, folk, and international. The map below shows where each category is located. To find out if a particular CD is currently \\_17\\_, please use the computers up front to check the catalog. If you remove a CD from the shelf, we \\_18\\_ you not to attempt to replace it yourself. Please give it to a librarian who will reshelf it properly. CDs can be enjoyed in the adjacent listening room. Patrons who prefer to enjoy the CDs at home may use their library card to check out up to five CDs at a time for a period of two weeks. If you need help for any reason, please ask the librarian on duty.\n\n16. (A) divide  \n(B) divides  \n(C) divided  \n(D) dividing\n\n17. (A) avowal  \n(B) avuncular  \n(C) avoidable  \n(D) available\n\n18. (A) urge  \n(B) urgent  \n(C) unguent  \n(D) urgently",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following review and e-mail message.\n\nWe were fortunate to have internationally acclaimed violinist Maria Rogoff play at Symphony Hall last Saturday night. Ms. Rogoff appears to have been born with a musical instinct. She played her violin quite naturally, as if it were an old friend. The selection of pieces she played was superb. She favored lively, interesting pieces that kept the audience enthralled during the entire performance. All in all, it was a thoroughly enjoyable and relaxing evening. Music lovers everywhere are urged to hear Ms. Rogoff play anytime there is an opportunity.\n\n19. When was Maria Rogoff's concert?\n(A) Thursday.\n(B) Friday.\n(C) Saturday.\n(D) Sunday.\n\n20. What is Gus's opinion of the music at the concert?\n(A) It was lively.\n(B) It was boring.\n(C) It was relaxing.\n(D) It was enthralling.\n\n21. What instrument does Gus prefer?\n(A) Viola.\n(B) Cello.\n(C) Violin.\n(D) Piano.\n\nTo: Polly Andrews  \nFrom: Gus Hall  \nSubject: Concert\n\nHi Polly,\n\nDid you see the review of Maria Rogoff's concert in the Sunday paper? Can you believe they gave her such a good review? I didn't agree at all with what the reviewer said about her selection of pieces. In fact, I thought quite the opposite. And she made several mistakes in her playing. Did you notice? Oh, well. I prefer cello music anyhow. It is much more to my taste. Maybe that's the real reason I didn't enjoy the concert. By the way, there is another concert this Friday. A pianist will be playing at Symphony Hall. Do you want to go? I am pretty sure there are still tickets available. I think there is a performance on Thursday, too, but I have a meeting that night. Let me know if you can make it, and I'll order the tickets.\n\nGus\n\n22. The word instinct in line 4 of the review is closest in meaning to (A) preference (B) knowledge (C) parentage (D) nature\n\n23. The word relaxing in line 10 of the review is closest in meaning to  \n(A) fun  \n(B) exciting  \n(C) peaceful  \n(D) educational"
+  },
+  "needs_review": true
+}

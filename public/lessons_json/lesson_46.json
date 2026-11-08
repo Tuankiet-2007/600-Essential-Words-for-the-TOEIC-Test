@@ -1,0 +1,1591 @@
+{
+  "lesson_id": 46,
+  "title": "Doctor's Office",
+  "theme_name": "Health",
+  "audio_track": "track_46.mp3",
+  "part1_photo": "part1_photos/lesson_46.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "annually",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "once a year",
+      "definition_vi": "hàng năm, mỗi năm một lần",
+      "examples": [
+        {
+          "en": "Everyone should get a physical exam annually.",
+          "vi": "Mọi người đều nên đi khám sức khỏe tổng quát mỗi năm một lần."
+        },
+        {
+          "en": "A number of tests are provided annually by my insurance plan.",
+          "vi": "Một số xét nghiệm được gói bảo hiểm của tôi chi trả hàng năm."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "held annually",
+        "published annually",
+        "review annually",
+        "increase annually"
+      ],
+      "usage": {
+        "structures": [
+          "V + annually",
+          "be held/conducted/reviewed annually"
+        ],
+        "prepositions": [],
+        "collocations": [
+          "physical exam annually",
+          "conducted annually",
+          "annual checkup",
+          "annual report"
+        ],
+        "tip": "Trạng từ chỉ tần suất 'annually' (= once a year / every year) thường đứng sau động từ hoặc sau phân từ hai trong câu bị động."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "annual",
+          "example": "Doctors recommend scheduling an annual physical examination to monitor overall health.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "biannual",
+          "example": "The clinic conducts biannual training sessions on emergency response procedures.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "All hospital staff members are required to complete an _____ health and safety certification course.",
+        "answer": "annual",
+        "base_word": "annually",
+        "pos_hint": "tính từ",
+        "vi": "Tất cả nhân viên bệnh viện được yêu cầu hoàn thành khóa chứng nhận an toàn và sức khỏe hàng năm."
+      }
+    },
+    {
+      "id": 2,
+      "word": "appointment",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "arrangements for a meeting; a position in a profession",
+      "definition_vi": "cuộc hẹn (với bác sĩ, đối tác); sự bổ nhiệm chức vụ",
+      "examples": [
+        {
+          "en": "To get the most out of your appointment, keep a log of your symptoms and concerns.",
+          "vi": "Để tận dụng tối đa buổi hẹn khám của bạn, hãy ghi chép lại nhật ký các triệu chứng và mối lo ngại của mình."
+        },
+        {
+          "en": "The psychiatrist holds an academic appointment at the university hospital as well as having a private practice.",
+          "vi": "Bác sĩ tâm thần vừa giữ một chức vụ giảng dạy tại bệnh viện đại học vừa có phòng khám tư nhân."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "make an appointment",
+        "keep an appointment",
+        "cancel an appointment",
+        "by appointment only"
+      ],
+      "usage": {
+        "structures": [
+          "make/schedule/book an appointment (with sb)",
+          "by appointment only",
+          "appointment to + a post"
+        ],
+        "prepositions": [
+          "with",
+          "for",
+          "by",
+          "to"
+        ],
+        "collocations": [
+          "schedule an appointment with",
+          "dental appointment",
+          "by appointment only",
+          "academic appointment"
+        ],
+        "tip": "Trong ngữ cảnh phòng khám mang nghĩa 'cuộc hẹn' (schedule an appointment with a doctor); trong nhân sự còn mang nghĩa 'sự bổ nhiệm' (appointment to the board)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "appoint",
+          "example": "The hospital board voted to appoint Dr. Patel as chief of internal medicine.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "appointee",
+          "example": "The new appointee brings twenty years of clinical management experience.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "appointed",
+          "example": "Patients should arrive fifteen minutes before their appointed consultation time.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Please notify the receptionist at least 24 hours in advance if you need to reschedule your _____.",
+        "answer": "appointment",
+        "base_word": "appointment",
+        "pos_hint": "danh từ",
+        "vi": "Vui lòng thông báo cho nhân viên lễ tân trước ít nhất 24 giờ nếu bạn cần dời lịch hẹn của mình."
+      }
+    },
+    {
+      "id": 3,
+      "word": "assess",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to determine the value or rate of something",
+      "definition_vi": "đánh giá, định giá, ước định",
+      "examples": [
+        {
+          "en": "The physical therapist assessed the amount of mobility Ms. Crowl had lost after her stroke.",
+          "vi": "Chuyên viên vật lý trị liệu đã đánh giá mức độ khả năng vận động mà bà Crowl bị mất sau cơn đột quỵ."
+        },
+        {
+          "en": "The insurance rate Mr. Victor was assessed went up this year after he admitted that he had started smoking again.",
+          "vi": "Mức phí bảo hiểm mà ông Victor bị áp định đã tăng lên trong năm nay sau khi ông thừa nhận đã hút thuốc trở lại."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "assess",
+          "example": "He was able to assess her health problems with the help of her detailed medical history."
+        },
+        {
+          "pos": "noun",
+          "word": "assessment",
+          "example": "The specialist's assessment of the patient's condition was consistent with the general practitioner's."
+        },
+        {
+          "pos": "",
+          "word": "assessable",
+          "example": "That medical condition is not assessable by this laboratory test."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "assess the situation",
+        "assess damage",
+        "risk assessment",
+        "accurately assess"
+      ],
+      "usage": {
+        "structures": [
+          "assess + N (the value/impact/condition)",
+          "assess + sth + at + số tiền"
+        ],
+        "prepositions": [
+          "at",
+          "for"
+        ],
+        "collocations": [
+          "assess the patient's condition",
+          "risk assessment",
+          "annual performance assessment",
+          "accurately assess"
+        ],
+        "tip": "Đồng nghĩa với 'evaluate'; danh từ 'assessment' rất hay ghép với danh từ đứng trước như 'risk assessment' hoặc 'needs assessment'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "assessor",
+          "example": "An independent medical assessor reviewed the clinic's quality standards.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The specialist's initial _____ of the patient's recovery was much more optimistic than expected.",
+        "answer": "assessment",
+        "base_word": "assess",
+        "pos_hint": "danh từ",
+        "vi": "Đánh giá ban đầu của bác sĩ chuyên khoa về sự hồi phục của bệnh nhân lạc quan hơn nhiều so với dự kiến."
+      }
+    },
+    {
+      "id": 4,
+      "word": "diagnose",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to recognize a disease; to analyze the nature of something",
+      "definition_vi": "chẩn đoán (bệnh hoặc nguyên nhân sự cố)",
+      "examples": [
+        {
+          "en": "After considering the patient's symptoms and looking at his test results, the doctor diagnosed the lump as benign.",
+          "vi": "Sau khi xem xét các triệu chứng của bệnh nhân và nhìn vào kết quả xét nghiệm, bác sĩ đã chẩn đoán khối u là lành tính."
+        },
+        {
+          "en": "She diagnosed the problem as a failure to follow the directions for taking the medication.",
+          "vi": "Bà chẩn đoán vấn đề là do không tuân thủ hướng dẫn sử dụng thuốc."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "diagnose",
+          "example": "Her symptoms are overlapping, making it difficult to diagnose the exact cause of her chest pain."
+        },
+        {
+          "pos": "noun",
+          "word": "diagnosis",
+          "example": "Phil did a much better job of taking care of himself once his father had a diagnosis of lung cancer."
+        },
+        {
+          "pos": "",
+          "word": "diagnostic",
+          "example": "The new X-ray suite has all the latest diagnostic equipment."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "diagnose a disease",
+        "diagnose as",
+        "be diagnosed with",
+        "early diagnosis"
+      ],
+      "usage": {
+        "structures": [
+          "diagnose + sb + with + bệnh",
+          "diagnose + N + as + N/adj",
+          "make a diagnosis"
+        ],
+        "prepositions": [
+          "with",
+          "as"
+        ],
+        "collocations": [
+          "be diagnosed with diabetes",
+          "accurate diagnosis",
+          "diagnostic equipment",
+          "diagnostic test"
+        ],
+        "tip": "Cấu trúc bị động chỉ người 'be diagnosed WITH + tên bệnh' (được chẩn đoán mắc bệnh gì) rất hay gặp trong các bài đọc về y tế."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "diagnostically",
+          "example": "The new blood test proved diagnostically reliable in clinical trials.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The clinic recently invested in state-of-the-art _____ imaging equipment to detect illnesses earlier.",
+        "answer": "diagnostic",
+        "base_word": "diagnose",
+        "pos_hint": "tính từ",
+        "vi": "Phòng khám gần đây đã đầu tư vào thiết bị chẩn đoán hình ảnh hiện đại bậc nhất để phát hiện bệnh sớm hơn."
+      }
+    },
+    {
+      "id": 5,
+      "word": "effective",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "producing the desired effect; being in effect",
+      "definition_vi": "có hiệu quả, hữu hiệu; có hiệu lực (từ ngày nào)",
+      "examples": [
+        {
+          "en": "Howard was pleased to find that the diet recommended by his doctor was quite effective.",
+          "vi": "Howard rất vui khi thấy rằng chế độ ăn kiêng do bác sĩ khuyên dùng khá hiệu quả."
+        },
+        {
+          "en": "The new policies, effective the beginning of the fiscal year, change the amount charged to see the physician.",
+          "vi": "Các chính sách mới, có hiệu lực từ đầu năm tài chính, làm thay đổi mức phí khám bác sĩ."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "highly effective",
+        "cost-effective",
+        "effective immediately",
+        "become effective"
+      ],
+      "usage": {
+        "structures": [
+          "be effective in + V-ing",
+          "effective + mốc thời gian (effective immediately / effective May 1)"
+        ],
+        "prepositions": [
+          "in",
+          "against",
+          "from"
+        ],
+        "collocations": [
+          "highly effective treatment",
+          "cost-effective solution",
+          "effective immediately",
+          "take effect"
+        ],
+        "tip": "Ngoài nghĩa 'hiệu quả', trong thông báo TOEIC 'effective + ngày/tháng' hoặc 'effective immediately' mang nghĩa 'bắt đầu có hiệu lực từ...'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "effect",
+          "example": "The new pain medication takes effect within twenty minutes.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "effectiveness",
+          "example": "Clinical studies confirmed the effectiveness of the physical therapy program.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "effectively",
+          "example": "The vaccine effectively protects patients against seasonal influenza.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The new clinic co-payment rates will become _____ on the first day of next month.",
+        "answer": "effective",
+        "base_word": "effective",
+        "pos_hint": "tính từ",
+        "vi": "Mức phí đồng chi trả mới của phòng khám sẽ bắt đầu có hiệu lực vào ngày đầu tiên của tháng tới."
+      }
+    },
+    {
+      "id": 6,
+      "word": "instrument",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a tool for precise work; the means whereby something is achieved",
+      "definition_vi": "dụng cụ (y khoa, đo lường chính xác), nhạc cụ; công cụ",
+      "examples": [
+        {
+          "en": "The pediatrician tried not to frighten the children with her strange-looking instruments.",
+          "vi": "Bác sĩ nhi khoa cố gắng không làm bọn trẻ hoảng sợ với những dụng cụ có hình thù kỳ lạ của cô."
+        },
+        {
+          "en": "The senior physician carried his instruments in a black leather bag.",
+          "vi": "Bác sĩ trưởng khoa mang theo các dụng cụ y tế của ông trong một chiếc túi da màu đen."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "surgical instruments",
+        "precision instruments",
+        "musical instrument",
+        "instrumental in"
+      ],
+      "usage": {
+        "structures": [
+          "surgical/medical/precision instruments",
+          "be instrumental in + V-ing/N"
+        ],
+        "prepositions": [
+          "of",
+          "in"
+        ],
+        "collocations": [
+          "sterilize surgical instruments",
+          "precision instruments",
+          "be instrumental in developing",
+          "optical instruments"
+        ],
+        "tip": "Tính từ 'instrumental' rất hay đi trong cấu trúc 'be instrumental in V-ing' nghĩa là 'đóng vai trò quan trọng/then chốt trong việc gì'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "instrumentation",
+          "example": "The laboratory is equipped with advanced medical instrumentation.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "instrumental",
+          "example": "Dr. Gomez was instrumental in establishing the community health center.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "instrumentally",
+          "example": "All vital signs are monitored instrumentally during the operation.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "All surgical _____ must be thoroughly sterilized before being placed in the examination room.",
+        "answer": "instruments",
+        "base_word": "instrument",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Tất cả các dụng cụ phẫu thuật phải được khử trùng kỹ lưỡng trước khi được đặt vào phòng khám."
+      }
+    },
+    {
+      "id": 7,
+      "word": "manage",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to handle; to deal with; to guide",
+      "definition_vi": "quản lý, điều hành; xoay xở, kiểm soát được",
+      "examples": [
+        {
+          "en": "The head nurse's ability to manage her staff through a difficult time caught the hospital administrator's attention.",
+          "vi": "Khả năng của y tá trưởng trong việc quản lý nhân viên vượt qua thời điểm khó khăn đã thu hút sự chú ý của giám đốc bệnh viện."
+        },
+        {
+          "en": "By carefully managing their limited resources, the couple found the money for the elective surgery.",
+          "vi": "Bằng cách quản lý cẩn thận nguồn lực hạn chế của mình, cặp vợ chồng đã tìm đủ tiền cho ca phẫu thuật tự chọn."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "manage a team",
+        "manage resources",
+        "manage to do",
+        "pain management"
+      ],
+      "usage": {
+        "structures": [
+          "manage + N (staff/time/resources)",
+          "manage + to V (xoay xở làm được việc gì khó)"
+        ],
+        "prepositions": [
+          "with",
+          "without"
+        ],
+        "collocations": [
+          "manage a clinic",
+          "carefully manage resources",
+          "manage to finish on time",
+          "manageable workload"
+        ],
+        "tip": "Khi đi với động từ nguyên mẫu có 'to' (manage to V), nó mang nghĩa là 'xoay xở/cố gắng và đã làm thành công việc gì'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "management",
+          "example": "Effective time management allows the physician to see twenty patients a day.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "manager",
+          "example": "The office manager oversees patient billing and appointment scheduling.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "manageable",
+          "example": "Hiring two additional nurses made the evening shift much more manageable.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Regular exercise and a low-sodium diet can help patients achieve better blood pressure _____.",
+        "answer": "management",
+        "base_word": "manage",
+        "pos_hint": "danh từ",
+        "vi": "Tập thể dục thường xuyên và chế độ ăn ít muối có thể giúp bệnh nhân kiểm soát huyết áp tốt hơn."
+      }
+    },
+    {
+      "id": 8,
+      "word": "prevent",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to keep from happening; to hinder",
+      "definition_vi": "ngăn ngừa, phòng chống, ngăn cản",
+      "examples": [
+        {
+          "en": "By encouraging teenagers not to smoke, doctors are hoping to prevent many cases of cancer.",
+          "vi": "Bằng cách khuyến khích thanh thiếu niên không hút thuốc, các bác sĩ hy vọng sẽ ngăn ngừa được nhiều ca bệnh ung thư."
+        },
+        {
+          "en": "His full caseload prevented the doctor from taking on new patients.",
+          "vi": "Lượng bệnh nhân quá tải đã ngăn cản vị bác sĩ nhận thêm bệnh nhân mới."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "prevent",
+          "example": "By stopping smoking now, you may be able to prevent lung cancer."
+        },
+        {
+          "pos": "noun",
+          "word": "prevention",
+          "example": "He made a career of disease prevention through mass vaccinations."
+        },
+        {
+          "pos": "",
+          "word": "preventive",
+          "example": "Eloise took preventive steps against gum disease by more thorough toothbrushing."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "prevent disease",
+        "prevent accidents",
+        "prevent sb from doing",
+        "preventive medicine"
+      ],
+      "usage": {
+        "structures": [
+          "prevent + N",
+          "prevent + sb/sth + from + V-ing"
+        ],
+        "prepositions": [
+          "from"
+        ],
+        "collocations": [
+          "prevent the spread of infection",
+          "prevent sb from attending",
+          "disease prevention",
+          "preventive measures"
+        ],
+        "tip": "Cấu trúc 'prevent + O + from + V-ing' (ngăn cản ai/cái gì làm gì) và cụm 'preventive measures/care' (biện pháp/chăm sóc dự phòng) là trọng tâm thi TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "preventable",
+          "example": "Many chronic illnesses are largely preventable through healthy lifestyle choices.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The health clinic offers free workshops on _____ care, including nutrition and vaccination.",
+        "answer": "preventive",
+        "base_word": "prevent",
+        "pos_hint": "tính từ",
+        "vi": "Phòng khám sức khỏe cung cấp các buổi hội thảo miễn phí về chăm sóc dự phòng, bao gồm dinh dưỡng và tiêm chủng."
+      }
+    },
+    {
+      "id": 9,
+      "word": "recommendation",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "advice; endorsement",
+      "definition_vi": "lời khuyên, sự khuyến nghị; thư giới thiệu",
+      "examples": [
+        {
+          "en": "It is important to follow the doctor's recommendations if you want to improve your health.",
+          "vi": "Điều quan trọng là phải làm theo các khuyến nghị của bác sĩ nếu bạn muốn cải thiện sức khỏe của mình."
+        },
+        {
+          "en": "The professor gave her former student a recommendation when he applied for a job at the hospital.",
+          "vi": "Vị giáo sư đã viết cho cựu sinh viên của bà một bức thư giới thiệu khi anh nộp đơn xin việc tại bệnh viện."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "recommend",
+          "example": "I recommend that you have this test annually starting at age 40."
+        },
+        {
+          "pos": "",
+          "word": "recommendation",
+          "example": "Against my doctor's recommendation, I decided to purchase the generic brand of medication."
+        },
+        {
+          "pos": "",
+          "word": "recommendable",
+          "example": "There is nothing particularly recommendable about this therapy over the other therapy I mentioned."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "follow a recommendation",
+        "make a recommendation",
+        "letter of recommendation",
+        "on the recommendation of"
+      ],
+      "usage": {
+        "structures": [
+          "follow/accept/ignore a recommendation",
+          "letter of recommendation",
+          "recommend + that + S + (should) V nguyên mẫu"
+        ],
+        "prepositions": [
+          "of",
+          "for",
+          "on",
+          "against"
+        ],
+        "collocations": [
+          "doctor's recommendation",
+          "letter of recommendation",
+          "make recommendations for",
+          "highly recommended"
+        ],
+        "tip": "Động từ 'recommend' khi có tân ngữ chỉ người thì dùng 'recommend sb to V', khi KHÔNG có tân ngữ chỉ người thì dùng 'recommend + V-ing' hoặc 'recommend that S + V nguyên mẫu'."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "recommended",
+          "example": "Do not exceed the recommended dosage printed on the medicine label.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Family physicians strongly _____ that adults over forty undergo routine cholesterol screenings.",
+        "answer": "recommend",
+        "base_word": "recommendation",
+        "pos_hint": "động từ chia hiện tại đơn số nhiều",
+        "vi": "Các bác sĩ gia đình đặc biệt khuyến nghị rằng người lớn trên bốn mươi tuổi nên thực hiện xét nghiệm tầm soát cholesterol định kỳ."
+      }
+    },
+    {
+      "id": 10,
+      "word": "record",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an official copy of documents",
+      "definition_vi": "hồ sơ, sổ sách ghi chép; kỷ lục; ghi chép lại, thu âm",
+      "examples": [
+        {
+          "en": "Ms. Han typed a written request for her medical records.",
+          "vi": "Cô Han đã đánh máy một văn bản yêu cầu cung cấp hồ sơ bệnh án của mình."
+        },
+        {
+          "en": "The official records kept in the city archives showed that an unusually high number of babies are born in the summer months.",
+          "vi": "Các hồ sơ chính thức được lưu giữ tại kho lưu trữ thành phố cho thấy một số lượng cao bất thường trẻ sơ sinh được sinh ra vào những tháng mùa hè."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "record",
+          "example": "The doctor records the patient's description of her symptoms in the patient's medical chart."
+        },
+        {
+          "pos": "noun",
+          "word": "record",
+          "example": "When you apply for health insurance, the insurance company will probably want to look at your medical records."
+        },
+        {
+          "pos": "",
+          "word": "recorded",
+          "example": "After office hours there is a recorded message on the doctor's answering machine that gives an emergency telephone number."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "medical records",
+        "keep a record of",
+        "track record",
+        "on record"
+      ],
+      "usage": {
+        "structures": [
+          "keep/maintain a record of + N",
+          "medical/financial/employment records",
+          "proven track record"
+        ],
+        "prepositions": [
+          "of",
+          "on",
+          "for"
+        ],
+        "collocations": [
+          "medical records",
+          "keep accurate records",
+          "proven track record",
+          "recorded message"
+        ],
+        "tip": "Cụm 'medical records' (hồ sơ bệnh án), 'keep a record of' (lưu giữ ghi chép về) và 'track record' (thành tích quá khứ) rất thông dụng."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "recording",
+          "example": "A digital recording of the medical seminar is available on the hospital portal.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Patients must sign a consent form before the clinic can transfer their medical _____ to another physician.",
+        "answer": "records",
+        "base_word": "record",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Bệnh nhân phải ký vào mẫu đơn đồng ý trước khi phòng khám có thể chuyển hồ sơ bệnh án của họ cho một bác sĩ khác."
+      }
+    },
+    {
+      "id": 11,
+      "word": "refer",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to direct for treatment or information; to mention",
+      "definition_vi": "chuyển (bệnh nhân đến bác sĩ chuyên khoa), giới thiệu; tham khảo, đề cập đến",
+      "examples": [
+        {
+          "en": "I was referred to this specialist by the family practice nurse.",
+          "vi": "Tôi đã được y tá phòng khám gia đình giới thiệu/chuyển đến bác sĩ chuyên khoa này."
+        },
+        {
+          "en": "As soon as Agnes referred to the failed treatment, everyone's mood soured.",
+          "vi": "Ngay khi Agnes nhắc đến phương pháp điều trị thất bại đó, tâm trạng của mọi người đều chùng xuống."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "refer a patient to",
+        "refer to a manual",
+        "for future reference",
+        "referral from a doctor"
+      ],
+      "usage": {
+        "structures": [
+          "refer + sb + to + a specialist",
+          "refer + to + N (đề cập đến / tham khảo)"
+        ],
+        "prepositions": [
+          "to"
+        ],
+        "collocations": [
+          "refer a patient to a specialist",
+          "refer to the attached document",
+          "letter of referral",
+          "for your reference"
+        ],
+        "tip": "Luôn đi với giới từ 'to'; gấp đôi chữ 'r' khi thêm -ed/-ing (referred, referring). Danh từ là 'referral' (sự giới thiệu chuyển tuyến) và 'reference' (sự tham khảo)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "refer",
+          "example": "Please refer to the patient handbook for our clinic's cancellation policy.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "referral",
+          "example": "My insurance plan requires a referral from a primary care doctor before I can see a cardiologist.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "reference",
+          "example": "Keep this medical summary in your files for future reference.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Because the rash did not improve, the general practitioner _____ the patient to a dermatologist.",
+        "answer": "referred",
+        "base_word": "refer",
+        "pos_hint": "động từ chia quá khứ đơn V2/ed",
+        "vi": "Vì vết phát ban không thuyên giảm, bác sĩ đa khoa đã chuyển bệnh nhân đến một bác sĩ chuyên khoa da liễu."
+      }
+    },
+    {
+      "id": 12,
+      "word": "serious",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "weighty",
+      "definition_vi": "nghiêm trọng, trầm trọng; nghiêm túc",
+      "examples": [
+        {
+          "en": "The impact of the serious news could be read on everyone's face.",
+          "vi": "Tác động của tin tức nghiêm trọng đó có thể đọc được trên gương mặt của mọi người."
+        },
+        {
+          "en": "For her dissertation, she made a serious study of women's health care needs in developing nations.",
+          "vi": "Cho luận án của mình, cô đã thực hiện một nghiên cứu nghiêm túc về nhu cầu chăm sóc sức khỏe của phụ nữ ở các quốc gia đang phát triển."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "seriousness",
+          "example": "Martha's doctor tried to make her understand the seriousness of her condition."
+        },
+        {
+          "pos": "",
+          "word": "serious",
+          "example": "Mr. Kim was relieved to find out that his disease was not serious."
+        },
+        {
+          "pos": "",
+          "word": "seriously",
+          "example": "The doctor spoke seriously with Arthur about the need to lose weight."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "serious condition",
+        "serious injury",
+        "take seriously",
+        "serious consideration"
+      ],
+      "usage": {
+        "structures": [
+          "take + sb/sth + seriously",
+          "serious + N (illness/injury/problem/consideration)"
+        ],
+        "prepositions": [
+          "about"
+        ],
+        "collocations": [
+          "serious medical condition",
+          "take symptoms seriously",
+          "seriously injured",
+          "seriousness of the situation"
+        ],
+        "tip": "Cụm 'take sth seriously' (coi trọng/nghiêm túc với việc gì) sử dụng trạng từ 'seriously' bổ nghĩa cho động từ 'take'."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "unserious",
+          "example": "The physician dismissed the tabloid health article as completely unserious.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Patients should take any persistent chest pain _____ and seek medical attention right away.",
+        "answer": "seriously",
+        "base_word": "serious",
+        "pos_hint": "trạng từ",
+        "vi": "Bệnh nhân nên coi trọng bất kỳ cơn đau ngực kéo dài nào và tìm kiếm sự chăm sóc y tế ngay lập tức."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. Sooner or later, everyone needs to go to the doctor's office. In fact, it's in your best interest to see your doctor at least (1) ____. The better he or she knows you and your health, the more (2) ____ your doctor can be. Most people need help in (3) ____ routine medical problems they are experiencing, such as symptoms of colds and the flu, allergies, rashes, and earaches. Other times, people visit a doctor for help in (4) ____ health problems from ever occurring, through lowering their risk of heart attack or stroke by dieting or exercising. When you arrive for your (5) ____, the doctor's office staff will have ready a (6) ____ of all your visits, so that the doctor has a complete reference of your health. The visit will begin with an (7) ____ of your general health and a discussion of any problems that concern you. The doctors may use a variety of (8) ____ to get a closer look at you. The doctor will (9) ____ your problem and (10) ____ a treatment plan. The doctor may prescribe medication, (11) ____ you to a specialist more experienced in treating your condition, or order tests to gain more information. In (12) ____ cases, he or she may send you to the hospital for care.",
+    "word_bank": [
+      "annually",
+      "diagnosing",
+      "manage",
+      "record",
+      "appointment",
+      "effective",
+      "preventing",
+      "refer",
+      "assessment",
+      "instruments",
+      "recommend",
+      "serious"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "assess",
+        "example": "He was able to assess her health problems with the help of her detailed medical history.",
+        "pos": "verb"
+      },
+      {
+        "word": "assessment",
+        "example": "The specialist's assessment of the patient's condition was consistent with the general practitioner's.",
+        "pos": "noun"
+      },
+      {
+        "word": "assessable",
+        "example": "That medical condition is not assessable by this laboratory test.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "diagnose",
+        "example": "Her symptoms are overlapping, making it difficult to diagnose the exact cause of her chest pain.",
+        "pos": "verb"
+      },
+      {
+        "word": "diagnosis",
+        "example": "Phil did a much better job of taking care of himself once his father had a diagnosis of lung cancer.",
+        "pos": "noun"
+      },
+      {
+        "word": "diagnostic",
+        "example": "The new X-ray suite has all the latest diagnostic equipment.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "prevent",
+        "example": "By stopping smoking now, you may be able to prevent lung cancer.",
+        "pos": "verb"
+      },
+      {
+        "word": "prevention",
+        "example": "He made a career of disease prevention through mass vaccinations.",
+        "pos": "noun"
+      },
+      {
+        "word": "preventive",
+        "example": "Eloise took preventive steps against gum disease by more thorough toothbrushing.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "recommend",
+        "example": "I recommend that you have this test annually starting at age 40.",
+        "pos": ""
+      },
+      {
+        "word": "recommendation",
+        "example": "Against my doctor's recommendation, I decided to purchase the generic brand of medication.",
+        "pos": ""
+      },
+      {
+        "word": "recommendable",
+        "example": "There is nothing particularly recommendable about this therapy over the other therapy I mentioned.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "record",
+        "example": "The doctor records the patient's description of her symptoms in the patient's medical chart.",
+        "pos": ""
+      },
+      {
+        "word": "record",
+        "example": "When you apply for health insurance, the insurance company will probably want to look at your medical records.",
+        "pos": "noun"
+      },
+      {
+        "word": "recorded",
+        "example": "After office hours there is a recorded message on the doctor's answering machine that gives an emergency telephone number.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "seriousness",
+        "example": "Martha's doctor tried to make her understand the seriousness of her condition.",
+        "pos": ""
+      },
+      {
+        "word": "serious",
+        "example": "Mr. Kim was relieved to find out that his disease was not serious.",
+        "pos": ""
+      },
+      {
+        "word": "seriously",
+        "example": "The doctor spoke seriously with Arthur about the need to lose weight.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "Luckily, the test results show no ____ damage from the accident.",
+        "options": [
+          {
+            "label": "A",
+            "text": "assess"
+          },
+          {
+            "label": "B",
+            "text": "assessment"
+          },
+          {
+            "label": "C",
+            "text": "assessing"
+          },
+          {
+            "label": "D",
+            "text": "assessable"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "This is not an easy ____ to make without the benefit of numerous test results.",
+        "options": [
+          {
+            "label": "A",
+            "text": "diagnosis"
+          },
+          {
+            "label": "B",
+            "text": "diagnose"
+          },
+          {
+            "label": "C",
+            "text": "diagnostic"
+          },
+          {
+            "label": "D",
+            "text": "diagnosed"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "Gabriela did not consistently follow her doctor's ____ and her condition did not improve.",
+        "options": [
+          {
+            "label": "A",
+            "text": "recommendations"
+          },
+          {
+            "label": "B",
+            "text": "recommendable"
+          },
+          {
+            "label": "C",
+            "text": "recommended"
+          },
+          {
+            "label": "D",
+            "text": "recommending"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "Jane's doctor asked her to ____ everything she ate for a week.",
+        "options": [
+          {
+            "label": "A",
+            "text": "records"
+          },
+          {
+            "label": "B",
+            "text": "record"
+          },
+          {
+            "label": "C",
+            "text": "recording"
+          },
+          {
+            "label": "D",
+            "text": "recorded"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "The most effective way to treat illness is to ____ it from ever occurring.",
+        "options": [
+          {
+            "label": "A",
+            "text": "prevention"
+          },
+          {
+            "label": "B",
+            "text": "preventable"
+          },
+          {
+            "label": "C",
+            "text": "preventing"
+          },
+          {
+            "label": "D",
+            "text": "prevent"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Welcome to the office of Dr. Shaw. The following office policies are in effect. \\- Please check in with the receptionist when you arrive. If you were given a referral, please tell the receptionist the name of the doctor who [16] you. \\- We recognize that sometimes you must cancel your appointment. Cancellations must be made 24 hours ahead of time or you will [17] a missed appointment fee. \\- Please don't call us to find out the results of [18] tests. We will call you when the results are ready. – Effective January 1, all bills must be paid in full at the time of your visit. We accept all major credit cards.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "will refer"
+            },
+            {
+              "label": "B",
+              "text": "did refer"
+            },
+            {
+              "label": "C",
+              "text": "referred"
+            },
+            {
+              "label": "D",
+              "text": "refers"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "assess"
+            },
+            {
+              "label": "B",
+              "text": "assessed"
+            },
+            {
+              "label": "C",
+              "text": "be assessed"
+            },
+            {
+              "label": "D",
+              "text": "be assessing"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "diagnostically"
+            },
+            {
+              "label": "B",
+              "text": "diagnostic"
+            },
+            {
+              "label": "C",
+              "text": "diagnosed"
+            },
+            {
+              "label": "D",
+              "text": "diagnose"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following article. Your health is one of your most valuable assets, so caring for it properly is very important. Regular visits to the doctor can help prevent any health problems from becoming serious. You should visit your doctor annually if you are in good health. If you have certain health conditions or if your doctor recommends it, you may need more frequent appointments. It is important to have a doctor you can trust. The best way to find one is to get a recommendation from a trustworthy person such as a friend or relative. Call to make an appointment several weeks or even a month ahead of time. When you call, you can also ask a few questions about the doctor's background, such as which university he got his degree from and how long he has been practicing in the area. You will also want to find out which hospital the doctor is affiliated with. When you arrive for your appointment, make sure you bring a copy of your medical records with you. When you meet with the doctor, you will want to ask him what his approach to treatment is and what diagnostic tools he uses. This way you can find out something about his skills, as well as whether or not he is a person you can talk to and feel comfortable with. Also, take a look around the office. Is it comfortable and organized? Do the instruments look clean and well-maintained? If your appointment goes well and you feel comfortable with the doctor, then don't forget to make an appointment for your next physical before you leave the office. If you have any doubts, look around for another doctor. Having a good doctor is an essential part of your health care plan. 22. The word records in the second paragraph, line 6 is closest in meaning to (A) plans (B) documents (C) descriptions (D) instructions",
+        "questions": [
+          {
+            "number": 19,
+            "question": "Who is this article for?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Patients."
+              },
+              {
+                "label": "B",
+                "text": "Doctors."
+              },
+              {
+                "label": "C",
+                "text": "Hospital staff."
+              },
+              {
+                "label": "D",
+                "text": "Medical equipment salespeople."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "How often should a healthy person visit the doctor?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Once a month."
+              },
+              {
+                "label": "B",
+                "text": "Twice a month."
+              },
+              {
+                "label": "C",
+                "text": "Once a year."
+              },
+              {
+                "label": "D",
+                "text": "Twice a year."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "What is the best way to find a good doctor?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Look in the phone book."
+              },
+              {
+                "label": "B",
+                "text": "Call the hospital."
+              },
+              {
+                "label": "C",
+                "text": "Go to a university."
+              },
+              {
+                "label": "D",
+                "text": "Ask a friend."
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word instruments in the third paragraph, line 4 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "equipment"
+              },
+              {
+                "label": "B",
+                "text": "furniture"
+              },
+              {
+                "label": "C",
+                "text": "environment"
+              },
+              {
+                "label": "D",
+                "text": "clothing"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What does the doctor recommend that the man do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Research diagnostic methods."
+          },
+          {
+            "label": "B",
+            "text": "Visit patients."
+          },
+          {
+            "label": "C",
+            "text": "See a specialist."
+          },
+          {
+            "label": "D",
+            "text": "Check into the best hospital."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "When does the doctor say that the man should do this?",
+        "options": [
+          {
+            "label": "A",
+            "text": "This afternoon."
+          },
+          {
+            "label": "B",
+            "text": "Before 10:00."
+          },
+          {
+            "label": "C",
+            "text": "This month."
+          },
+          {
+            "label": "D",
+            "text": "In ten months."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the man ask the doctor to give him?",
+        "options": [
+          {
+            "label": "A",
+            "text": "An appointment."
+          },
+          {
+            "label": "B",
+            "text": "A new diagnosis."
+          },
+          {
+            "label": "C",
+            "text": "A special treatment."
+          },
+          {
+            "label": "D",
+            "text": "A copy of his record."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "What kind of job is being advertised?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Doctor."
+          },
+          {
+            "label": "B",
+            "text": "Office manager."
+          },
+          {
+            "label": "C",
+            "text": "Director."
+          },
+          {
+            "label": "D",
+            "text": "Office assistant."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "How can someone apply for this job?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Send in a résumé."
+          },
+          {
+            "label": "B",
+            "text": "Make an appointment."
+          },
+          {
+            "label": "C",
+            "text": "Telephone the office."
+          },
+          {
+            "label": "D",
+            "text": "Submit records."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What is a benefit of the job?",
+        "options": [
+          {
+            "label": "A",
+            "text": "An annual doctor's appointment."
+          },
+          {
+            "label": "B",
+            "text": "Three weeks of vacation a year."
+          },
+          {
+            "label": "C",
+            "text": "A yearly salary raise."
+          },
+          {
+            "label": "D",
+            "text": "Health insurance."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. What does the doctor recommend that the man do? (A) Research diagnostic methods. (B) Visit patients. (C) See a specialist. (D) Check into the best hospital. 5. When does the doctor say that the man should do this? (A) This afternoon. (B) Before 10:00. (C) This month. (D) In ten months. 6. What does the man ask the doctor to give him? (A) An appointment. (B) A new diagnosis. (C) A special treatment. (D) A copy of his record. Listen to the talk. Then read each question and choose the best answer. 7. What kind of job is being advertised? (A) Doctor. (B) Office manager. (C) Director. (D) Office assistant. 8. How can someone apply for this job? (A) Send in a résumé. (B) Make an appointment. (C) Telephone the office. (D) Submit records. 9. What is a benefit of the job? (A) An annual doctor's appointment. (B) Three weeks of vacation a year. (C) A yearly salary raise. (D) Health insurance.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What does the doctor recommend that the man do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Research diagnostic methods."
+          },
+          {
+            "label": "B",
+            "text": "Visit patients."
+          },
+          {
+            "label": "C",
+            "text": "See a specialist."
+          },
+          {
+            "label": "D",
+            "text": "Check into the best hospital."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "When does the doctor say that the man should do this?",
+        "options": [
+          {
+            "label": "A",
+            "text": "This afternoon."
+          },
+          {
+            "label": "B",
+            "text": "Before 10:00."
+          },
+          {
+            "label": "C",
+            "text": "This month."
+          },
+          {
+            "label": "D",
+            "text": "In ten months."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the man ask the doctor to give him?",
+        "options": [
+          {
+            "label": "A",
+            "text": "An appointment."
+          },
+          {
+            "label": "B",
+            "text": "A new diagnosis."
+          },
+          {
+            "label": "C",
+            "text": "A special treatment."
+          },
+          {
+            "label": "D",
+            "text": "A copy of his record."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "What kind of job is being advertised?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Doctor."
+          },
+          {
+            "label": "B",
+            "text": "Office manager."
+          },
+          {
+            "label": "C",
+            "text": "Director."
+          },
+          {
+            "label": "D",
+            "text": "Office assistant."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "How can someone apply for this job?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Send in a résumé."
+          },
+          {
+            "label": "B",
+            "text": "Make an appointment."
+          },
+          {
+            "label": "C",
+            "text": "Telephone the office."
+          },
+          {
+            "label": "D",
+            "text": "Submit records."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What is a benefit of the job?",
+        "options": [
+          {
+            "label": "A",
+            "text": "An annual doctor's appointment."
+          },
+          {
+            "label": "B",
+            "text": "Three weeks of vacation a year."
+          },
+          {
+            "label": "C",
+            "text": "A yearly salary raise."
+          },
+          {
+            "label": "D",
+            "text": "Health insurance."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "# Doctor's Office\n\nStudy the following definitions and examples.\n\n1. annually adv., once a year\n\na. Everyone should get a physical exam annually.\n\nb. A number of tests are provided annually by my insurance plan.\n\n2. appointment n., arrangements for a meeting; a position in a profession a. To get the most out of your appointment, keep a log of your symptoms and concerns.\n\nb. The psychiatrist holds an academic appointment at the university hospital as well as having a private practice.\n\n3. assess v., to determine the value or rate of something a. The physical therapist assessed the amount of mobility Ms. Crowl had lost after her stroke.\n\nb. The insurance rate Mr. Victor was assessed went up this year after he admitted that he had started smoking again.\n\n4. diagnose v., to recognize a disease; to analyze the nature of something a. After considering the patient's symptoms and looking at his test results, the doctor diagnosed the lump as benign.\n\nb. She diagnosed the problem as a failure to follow the directions for taking the medication.\n\n5. effective adj., producing the desired effect; being in effect\n\na. Howard was pleased to find that the diet recommended by his doctor was quite effective.\n\nb. The new policies, effective the beginning of the fiscal year, change the amount charged to see the physician.\n\n6. instrument n., a tool for precise work; the means whereby something is achieved a. The pediatrician tried not to frighten the children with her strange-looking instruments.\n\nb. The senior physician carried his instruments in a black leather bag.\n\n7. manage v., to handle; to deal with; to guide a. The head nurse's ability to manage her staff through a difficult time caught the hospital administrator's attention.\n\nb. By carefully managing their limited resources, the couple found the money for the elective surgery.\n\n8. prevent v., to keep from happening; to hinder\n\na. By encouraging teenagers not to smoke, doctors are hoping to prevent many cases of cancer.\n\nb. His full caseload prevented the doctor from taking on new patients.\n\n9. recommendation n., advice; endorsement\n\na. It is important to follow the doctor's recommendations if you want to improve your health.\n\nb. The professor gave her former student a recommendation when he applied for a job at the hospital.\n\n10. record n., an official copy of documents\n\na. Ms. Han typed a written request for her medical records.\n\nb. The official records kept in the city archives showed that an unusually high number of babies are born in the summer months.\n\n11. refer v., to direct for treatment or information; to mention\n\na. I was referred to this specialist by the family practice nurse.\n\nb. As soon as Agnes referred to the failed treatment, everyone's mood soured.\n\n12. serious adj., weighty\n\na. The impact of the serious news could be read on everyone's face.\n\nb. For her dissertation, she made a serious study of women's health care needs in developing nations.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\n| annually | diagnosing | manage | record |\n| --- | --- | --- | --- |\n| appointment | effective | preventing | refer |\n| assessment | instruments | recommend | serious |\n\nSooner or later, everyone needs to go to the doctor's office. In fact, it's in your best interest to see your doctor at least (1) \\_\\_\\_\\_. The better he or she knows you and your health, the more (2) \\_\\_\\_\\_ your doctor can be. Most people need help in (3) \\_\\_\\_\\_ routine medical problems they are experiencing, such as symptoms of colds and the flu, allergies, rashes, and earaches. Other times, people visit a doctor for help in (4) \\_\\_\\_\\_ health problems from ever occurring, through lowering their risk of heart attack or stroke by dieting or exercising.\n\nWhen you arrive for your (5) \\_\\_\\_\\_, the doctor's office staff will have ready a (6) \\_\\_\\_\\_ of all your visits, so that the doctor has a complete reference of your health. The visit will begin with an (7) \\_\\_\\_\\_ of your general health and a discussion of any problems that concern you.\n\nThe doctors may use a variety of (8) \\_\\_\\_\\_ to get a closer look at you. The doctor will (9) \\_\\_\\_\\_ your problem and (10) \\_\\_\\_\\_ a treatment plan. The doctor may prescribe medication, (11) \\_\\_\\_\\_ you to a specialist more experienced in treating your condition, or order tests to gain more information. In (12) \\_\\_\\_\\_ cases, he or she may send you to the hospital for care.",
+    "word_families": "## WORD FAMILIES\n\n| verb | assess | He was able to assess her health problems with the help of her detailed medical history. |\n| --- | --- | --- |\n| noun | assessment | The specialist's assessment of the patient's condition was consistent with the general practitioner's. |\n| _ | assessable | That medical condition is not assessable by this laboratory test. |\n| verb | diagnose | Her symptoms are overlapping, making it difficult to diagnose the exact cause of her chest pain. |\n| noun | diagnosis | Phil did a much better job of taking care of himself once his father had a diagnosis of lung cancer. |\n| _..live | diagnostic | The new X-ray suite has all the latest diagnostic equipment. |\n| verb | prevent | By stopping smoking now, you may be able to prevent lung cancer. |\n| noun | prevention | He made a career of disease prevention through mass vaccinations. |\n| _ | preventive | Eloise took preventive steps against gum disease by more thorough toothbrushing. |\n| . b | recommend | I recommend that you have this test annually starting at age 40. |\n| ( ) | recommendation | Against my doctor's recommendation, I decided to purchase the generic brand of medication. |\n| ε~ ) | recommendable | There is nothing particularly recommendable about this therapy over the other therapy I mentioned. |\n| ..b | record | The doctor records the patient's description of her symptoms in the patient's medical chart. |\n| noun | record | When you apply for health insurance, the insurance company will probably want to look at your medical records. |\n| _ | recorded | After office hours there is a recorded message on the doctor's answering machine that gives an emergency telephone number. |\n| 1 | seriousness | Martha's doctor tried to make her understand the seriousness of her condition. |\n| _ | serious | Mr. Kim was relieved to find out that his disease was not serious. |\n| ä | seriously | The doctor spoke seriously with Arthur about the need to lose weight. |",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. What does the doctor recommend that the man do?  \n(A) Research diagnostic methods.  \n(B) Visit patients.  \n(C) See a specialist.  \n(D) Check into the best hospital.\n\n5. When does the doctor say that the man should do this?\n(A) This afternoon.\n(B) Before 10:00.\n(C) This month.\n(D) In ten months.\n\n6. What does the man ask the doctor to give him?  \n(A) An appointment.  \n(B) A new diagnosis.  \n(C) A special treatment.  \n(D) A copy of his record.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. What kind of job is being advertised?\n(A) Doctor.\n(B) Office manager.\n(C) Director.\n(D) Office assistant.\n\n8. How can someone apply for this job?\n(A) Send in a résumé.\n(B) Make an appointment.\n(C) Telephone the office.\n(D) Submit records.\n\n9. What is a benefit of the job?\n(A) An annual doctor's appointment.\n(B) Three weeks of vacation a year.\n(C) A yearly salary raise.\n(D) Health insurance.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. Luckily, the test results show no \\_\\_\\_\\_ damage from the accident.\n(A) assess (C) assessing\n(B) assessment (D) assessable\n\n11. This is not an easy \\_\\_\\_\\_ to make without the benefit of numerous test results.\n(A) diagnosis (C) diagnostic\n(B) diagnose (D) diagnosed\n\n13. Gabriela did not consistently follow her doctor's \\_\\_\\_\\_ and her condition did not improve.\n(A) recommendations (C) recommended\n(B) recommendable (D) recommending\n\n14. Jane's doctor asked her to \\_\\_\\_\\_ everything she ate for a week.\n(A) records (C) recording\n(B) record (D) recorded\n\n12. The most effective way to treat illness is to \\_\\_\\_\\_ it from ever occurring.\n(A) prevention (C) preventing (A) seriousness (C) seriously (B) preventable (D) prevent (B) serious (D) series\n\n## Part 6 Text Completion\n\nWelcome to the office of Dr. Shaw. The following office policies are in effect.\n\n\\- Please check in with the receptionist when you arrive. If you were given a referral, please tell the receptionist the name of the doctor who \\_16\\_ you.\n\n\\- We recognize that sometimes you must cancel your appointment. Cancellations must be made 24 hours ahead of time or you will \\_17\\_ a missed appointment fee.\n\n\\- Please don't call us to find out the results of \\_18\\_ tests. We will call you when the results are ready.\n\n– Effective January 1, all bills must be paid in full at the time of your visit. We accept all major credit cards.\n\n16. (A) will refer  \n(B) did refer  \n(C) referred  \n(D) refers\n\n17. (A) assess  \n(B) assessed  \n(C) be assessed  \n(D) be assessing\n\n18. (A) diagnostically  \n(B) diagnostic  \n(C) diagnosed  \n(D) diagnose",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following article.\n\n## Caring for Your Health\n\nYour health is one of your most valuable assets, so caring for it properly is very important. Regular visits to the doctor can help prevent any health problems from becoming serious. You should visit your doctor annually if you are in good health. If you have certain health conditions or if your doctor recommends it, you may need more frequent appointments.\n\nIt is important to have a doctor you can trust. The best way to find one is to get a recommendation from a trustworthy person such as a friend or relative. Call to make an appointment several weeks or even a month ahead of time. When you call, you can also ask a few questions about the doctor's background, such as which university he got his degree from and how long he has been practicing in the area. You will also want to find out which hospital the doctor is affiliated with. When you arrive for your appointment, make sure you bring a copy of your medical records with you.\n\nWhen you meet with the doctor, you will want to ask him what his approach to treatment is and what diagnostic tools he uses. This way you can find out something about his skills, as well as whether or not he is a person you can talk to and feel comfortable with. Also, take a look around the office. Is it comfortable and organized? Do the instruments look clean and well-maintained?\n\nIf your appointment goes well and you feel comfortable with the doctor, then don't forget to make an appointment for your next physical before you leave the office. If you have any doubts, look around for another doctor. Having a good doctor is an essential part of your health care plan.\n\n19. Who is this article for?  \n(A) Patients.  \n(B) Doctors.  \n(C) Hospital staff.  \n(D) Medical equipment salespeople.\n\n20. How often should a healthy person visit the doctor?\n(A) Once a month.\n(B) Twice a month.\n(C) Once a year.\n(D) Twice a year.\n\n21. What is the best way to find a good doctor?\n(A) Look in the phone book.\n(B) Call the hospital.\n(C) Go to a university.\n(D) Ask a friend.\n\n22. The word records in the second paragraph, line 6 is closest in meaning to (A) plans (B) documents (C) descriptions (D) instructions\n\n23. The word instruments in the third paragraph, line 4 is closest in meaning to  \n(A) equipment  \n(B) furniture  \n(C) environment  \n(D) clothing"
+  },
+  "needs_review": true
+}

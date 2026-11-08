@@ -1,0 +1,1624 @@
+{
+  "lesson_id": 16,
+  "title": "Shopping",
+  "theme_name": "Purchasing",
+  "audio_track": "track_16.mp3",
+  "part1_photo": "part1_photos/lesson_16.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "bargain",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to negotiate; n., an advantageous purchase",
+      "definition_vi": "(v) mặc cả, thương lượng giá; (n) món hời, mặt hàng giá rẻ",
+      "examples": [
+        {
+          "en": "She bargained for over an hour, finally reducing the price by half.",
+          "vi": "Cô ấy đã mặc cả hơn một tiếng đồng hồ và cuối cùng giảm được một nửa giá."
+        },
+        {
+          "en": "Lois compared the sweaters carefully to determine which was a better bargain.",
+          "vi": "Lois đã so sánh những chiếc áo len một cách cẩn thận để xác định xem chiếc nào là món hời tốt hơn."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "a real bargain",
+        "bargain price",
+        "bargain for a lower price",
+        "collective bargaining"
+      ],
+      "usage": {
+        "structures": [
+          "bargain with + sb + over/for + sth (mặc cả/thương lượng với ai về cái gì)",
+          "at a bargain price (ở mức giá hời)"
+        ],
+        "prepositions": [
+          "with",
+          "for",
+          "over",
+          "at"
+        ],
+        "collocations": [
+          "bargain hunter",
+          "strike a bargain",
+          "into the bargain",
+          "bargain basement"
+        ],
+        "tip": "Danh từ 'bargain' thường đi với tính từ 'good/great/real' (a great bargain = một món hời lớn) hoặc đứng trước 'price' (bargain prices)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "bargain",
+          "example": "Tourists often bargain with street vendors at the local market.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "bargain",
+          "example": "At fifty percent off, this winter coat is an absolute bargain.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "bargaining",
+          "example": "Another round of collective bargaining will begin next Monday.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Shoppers arrived early in the morning to hunt for _____ during the annual clearance sale.",
+        "answer": "bargains",
+        "base_word": "bargain",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Người mua sắm đã đến từ sáng sớm để săn lùng những món hời trong đợt giảm giá xả kho thường niên."
+      }
+    },
+    {
+      "id": 2,
+      "word": "bear",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to have tolerance for; to endure",
+      "definition_vi": "chịu đựng; gánh vác (chi phí/trách nhiệm)",
+      "examples": [
+        {
+          "en": "Moya doesn't like crowds so she cannot bear to shop during the holiday rush.",
+          "vi": "Moya không thích đám đông nên cô không thể chịu đựng được việc đi mua sắm vào dịp cao điểm lễ hội."
+        },
+        {
+          "en": "If you can bear with me, I'd like to stop in one more store.",
+          "vi": "Nếu bạn có thể kiên nhẫn chờ tôi một chút, tôi muốn ghé thêm một cửa hàng nữa."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "bear with someone",
+        "bear in mind",
+        "bear the cost",
+        "cannot bear to"
+      ],
+      "usage": {
+        "structures": [
+          "bear with + sb (kiên nhẫn chờ/thông cảm cho ai)",
+          "bear in mind (that) (ghi nhớ rằng)",
+          "bear the cost/responsibility (chịu chi phí/trách nhiệm)"
+        ],
+        "prepositions": [
+          "with",
+          "in"
+        ],
+        "collocations": [
+          "bear the expense",
+          "bear a resemblance to",
+          "bear witness to",
+          "more than one can bear"
+        ],
+        "tip": "Trong TOEIC Listening và Reading, cụm lịch sự 'Please bear with us while we...' (Xin hãy kiên nhẫn chờ chúng tôi trong khi...) và 'bear the cost' (chịu chi phí) xuất hiện rất nhiều."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "bear",
+          "example": "The manufacturer agreed to bear the full cost of replacing the faulty parts.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "bearer",
+          "example": "This voucher entitles the bearer to a ten-dollar discount on any purchase.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "bearable",
+          "example": "Installing air conditioning made working in the warehouse much more bearable.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "unbearable",
+          "example": "The noise from the adjacent construction site became unbearable by noon.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Under the terms of the warranty, the buyer must _____ the shipping charges for returned merchandise.",
+        "answer": "bear",
+        "base_word": "bear",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Theo các điều khoản bảo hành, người mua phải chịu phí vận chuyển đối với hàng hóa trả lại."
+      }
+    },
+    {
+      "id": 3,
+      "word": "behavior",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the manner of one's actions",
+      "definition_vi": "hành vi, cách cư xử, thái độ",
+      "examples": [
+        {
+          "en": "Annu is conducting a survey on whether consumer behavior differs between men and women.",
+          "vi": "Annu đang tiến hành một cuộc khảo sát xem liệu hành vi tiêu dùng có khác biệt giữa nam giới và nữ giới hay không."
+        },
+        {
+          "en": "Suspicious behavior in a department store will draw the attention of the security guards.",
+          "vi": "Hành vi đáng ngờ trong cửa hàng bách hóa sẽ thu hút sự chú ý của các nhân viên bảo vệ."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "consumer behavior",
+        "buying behavior",
+        "professional behavior",
+        "unacceptable behavior"
+      ],
+      "usage": {
+        "structures": [
+          "behavior toward + sb (cách cư xử đối với ai)",
+          "consumer/customer behavior (hành vi của người tiêu dùng)"
+        ],
+        "prepositions": [
+          "toward",
+          "of"
+        ],
+        "collocations": [
+          "purchasing behavior",
+          "ethical behavior",
+          "code of behavior",
+          "study market behavior"
+        ],
+        "tip": "Danh từ không đếm được, rất hay kết hợp thành cụm danh từ ghép 'consumer behavior / purchasing behavior' trong chủ đề Marketing & Purchasing."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "behave",
+          "example": "All representatives are expected to behave professionally at trade fairs.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "behavior",
+          "example": "Recent surveys show a shift in online shopping behavior.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "behavioral",
+          "example": "The marketing firm analyzes behavioral data to predict seasonal trends.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "behaviorally",
+          "example": "Loyalty members differ behaviorally from occasional bargain shoppers.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The research team used _____ analytics to understand how shoppers navigate the online store.",
+        "answer": "behavioral",
+        "base_word": "behavior",
+        "pos_hint": "tính từ",
+        "vi": "Nhóm nghiên cứu đã sử dụng phân tích hành vi để tìm hiểu cách người mua sắm điều hướng trên cửa hàng trực tuyến."
+      }
+    },
+    {
+      "id": 4,
+      "word": "checkout",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the act, time, or place of checking out, as at a hotel, library, or supermarket",
+      "definition_vi": "quầy thanh toán; thủ tục/giờ trả phòng (khách sạn)",
+      "examples": [
+        {
+          "en": "The line at this checkout is too long, so let's look for another.",
+          "vi": "Hàng người chờ ở quầy thanh toán này quá dài, vì vậy chúng ta hãy tìm một quầy khác."
+        },
+        {
+          "en": "Get in the checkout line now and I'll join you with the last items.",
+          "vi": "Bạn cứ xếp hàng ở quầy thanh toán ngay bây giờ đi và tôi sẽ mang những món đồ cuối cùng ra chỗ bạn."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "checkout counter",
+        "checkout line",
+        "express checkout",
+        "late checkout"
+      ],
+      "usage": {
+        "structures": [
+          "at the checkout (counter) (tại quầy thanh toán)",
+          "checkout time (giờ trả phòng khách sạn)"
+        ],
+        "prepositions": [
+          "at"
+        ],
+        "collocations": [
+          "checkout aisle",
+          "self-service checkout",
+          "online checkout process",
+          "checkout clerk"
+        ],
+        "tip": "Viết liền 'checkout' là danh từ (quầy thanh toán/thủ tục trả phòng), còn viết rời 'check out' là cụm động từ (thanh toán / trả phòng / kiểm tra)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "check out",
+          "example": "Hotel guests must check out before eleven o'clock in the morning.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "checkout",
+          "example": "Please present your discount coupon to the cashier at the checkout.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Supermarket patrons with ten items or fewer may use the express _____ lane.",
+        "answer": "checkout",
+        "base_word": "checkout",
+        "pos_hint": "danh từ bổ nghĩa",
+        "vi": "Khách hàng siêu thị mua từ mười món đồ trở xuống có thể sử dụng làn thanh toán nhanh."
+      }
+    },
+    {
+      "id": 5,
+      "word": "comfort",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to calm somebody; n., a condition or feeling of pleasurable ease, well-being, and contentment",
+      "definition_vi": "(n) sự thoải mái, sự tiện nghi; (v) an ủi, làm dịu lại",
+      "examples": [
+        {
+          "en": "Comfort yourself with a down quilt this winter.",
+          "vi": "Hãy tự mang lại sự ấm áp dễ chịu cho bản thân bằng một chiếc chăn lông vũ vào mùa đông này."
+        },
+        {
+          "en": "I like to dress for comfort if I'm spending the day shopping.",
+          "vi": "Tôi thích ăn mặc sao cho thoải mái nếu phải dành cả ngày để đi mua sắm."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "comfort",
+          "example": "This car is designed with plush seats for your comfort and air bags for your safety."
+        },
+        {
+          "pos": "",
+          "word": "comfortable",
+          "example": "I prefer this sweater because it&#x27;s more comfortable."
+        },
+        {
+          "pos": "",
+          "word": "comfortably",
+          "example": "I&#x27;d suggest buying the larger table, which comfortably seats six."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "for comfort",
+        "in comfort",
+        "creature comforts",
+        "comfort zone"
+      ],
+      "usage": {
+        "structures": [
+          "dress for comfort (mặc đồ ưu tiên sự thoải mái)",
+          "travel in comfort (di chuyển một cách tiện nghi, thoải mái)"
+        ],
+        "prepositions": [
+          "for",
+          "in",
+          "with"
+        ],
+        "collocations": [
+          "designed for maximum comfort",
+          "comfortable seating",
+          "comfortably furnished",
+          "take comfort in"
+        ],
+        "tip": "Họ từ này rất hay xuất hiện trong quảng cáo ghế văn phòng, khách sạn, giày dép và phương tiện vận chuyển (designed for your comfort / comfortably seats six)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "uncomfortable",
+          "example": "Employees complained that the old desk chairs were uncomfortable.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The newly renovated airport lounge features _____ leather armchairs and complimentary Wi-Fi.",
+        "answer": "comfortable",
+        "base_word": "comfort",
+        "pos_hint": "tính từ",
+        "vi": "Phòng chờ sân bay mới được tân trang có những chiếc ghế bành bọc da êm ái và Wi-Fi miễn phí."
+      }
+    },
+    {
+      "id": 6,
+      "word": "expand",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to increase the size, volume, quantity, or scope of; to enlarge",
+      "definition_vi": "mở rộng, phát triển thêm",
+      "examples": [
+        {
+          "en": "The new manager has significantly expanded the store's inventory. a. The new manager has significantly expanded the store's inventory.",
+          "vi": "Người quản lý mới đã mở rộng đáng kể lượng hàng hóa lưu kho của cửa hàng."
+        },
+        {
+          "en": "The shoe store is out of room and is thinking about expanding into the adjacent vacant building.",
+          "vi": "Cửa hàng giày đã hết chỗ và đang cân nhắc việc mở rộng sang tòa nhà trống liền kề."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "expand",
+          "example": "The music store expanded its selection by offering more classical music on compact discs."
+        },
+        {
+          "pos": "noun",
+          "word": "expansion",
+          "example": "The expansion of our sales territory into a new region will mean more stock will have to be ordered."
+        },
+        {
+          "pos": "adjective",
+          "word": "expanded",
+          "example": "The expanded inventory is great, but it&#x27;s hard to find room to store it."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "expand into new markets",
+        "expand the product line",
+        "expand operations",
+        "rapid expansion"
+      ],
+      "usage": {
+        "structures": [
+          "expand + into + N (mở rộng sang thị trường/khu vực mới)",
+          "expand + O (mở rộng quy mô/danh mục sản phẩm)"
+        ],
+        "prepositions": [
+          "into",
+          "by",
+          "beyond"
+        ],
+        "collocations": [
+          "expand business overseas",
+          "expansion plan",
+          "expand capacity",
+          "expanding client base"
+        ],
+        "tip": "Đi với giới từ 'into' khi nói về việc mở rộng hoạt động kinh doanh sang một thị trường, lĩnh vực hoặc mặt bằng mới (expand into Asia)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "expansive",
+          "example": "The hotel suite offers an expansive view of the harbor.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "expansively",
+          "example": "The CEO spoke expansively about the company's five-year growth strategy.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Following strong domestic sales, the apparel retailer announced plans for international _____.",
+        "answer": "expansion",
+        "base_word": "expand",
+        "pos_hint": "danh từ",
+        "vi": "Tiếp nối doanh số nội địa mạnh mẽ, nhà bán lẻ trang phục đã công bố kế hoạch mở rộng ra quốc tế."
+      }
+    },
+    {
+      "id": 7,
+      "word": "explore",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to investigate systematically",
+      "definition_vi": "khám phá, tìm hiểu, thăm dò, khảo sát",
+      "examples": [
+        {
+          "en": "The collector likes to explore antique shops looking for bargains.",
+          "vi": "Nhà sưu tập thích dạo quanh khám phá các cửa hàng đồ cổ để tìm kiếm những món hời."
+        },
+        {
+          "en": "While his mother shopped for clothes, Michael wandered off to explore the toy section.",
+          "vi": "Trong khi mẹ mua quần áo, Michael đã đi sang khám phá khu vực đồ chơi."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "explore",
+          "example": "Ms. Marce explored the bins of hardware, looking for the right size nails."
+        },
+        {
+          "pos": "noun",
+          "word": "exploration",
+          "example": "The store designer&#x27;s exploration of the art of different cultures gave the store an exotic look."
+        },
+        {
+          "pos": "adjective",
+          "word": "exploratory",
+          "example": "The oil company&#x27;s exploratory drill led to a new supply of petroleum."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "explore new possibilities",
+        "explore options",
+        "explore a market",
+        "explore ways to"
+      ],
+      "usage": {
+        "structures": [
+          "explore + possibilities/options/opportunities (tìm hiểu các khả năng/lựa chọn/cơ hội)",
+          "explore + ways to V (tìm kiếm các cách thức để làm gì)"
+        ],
+        "prepositions": [
+          "for"
+        ],
+        "collocations": [
+          "explore potential partnerships",
+          "exploratory talks",
+          "explore every avenue",
+          "market exploration"
+        ],
+        "tip": "Trong tiếng Anh thương mại, 'explore' thường mang nghĩa bóng là 'nghiên cứu, thăm dò' các phương án hoặc cơ hội hợp tác (explore business opportunities)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "explorer",
+          "example": "Early market explorers often gain a strong competitive advantage.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The two pharmaceutical companies held _____ discussions regarding a possible joint venture.",
+        "answer": "exploratory",
+        "base_word": "explore",
+        "pos_hint": "tính từ",
+        "vi": "Hai công ty dược phẩm đã tổ chức các cuộc thảo luận thăm dò liên quan đến một liên doanh tiềm năng."
+      }
+    },
+    {
+      "id": 8,
+      "word": "item",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a single article or unit",
+      "definition_vi": "món hàng, mặt hàng; mục, khoản",
+      "examples": [
+        {
+          "en": "The grocery store has a special checkout line for people who are purchasing fewer than ten items.",
+          "vi": "Cửa hàng tạp hóa có một làn thanh toán đặc biệt dành cho những người mua ít hơn mười món hàng."
+        },
+        {
+          "en": "Do you think I can get all these items into one bag?",
+          "vi": "Bạn có nghĩ tôi có thể cho hết tất cả những món đồ này vào một chiếc túi không?"
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "sale item",
+        "item on the agenda",
+        "defective item",
+        "itemized receipt"
+      ],
+      "usage": {
+        "structures": [
+          "an item on the agenda/list (một mục trong chương trình nghị sự / danh sách)",
+          "household/luxury/promotional items (các mặt hàng gia dụng/xa xỉ/khuyến mãi)"
+        ],
+        "prepositions": [
+          "on",
+          "in"
+        ],
+        "collocations": [
+          "complimentary item",
+          "next item on the agenda",
+          "out-of-stock item",
+          "individual items"
+        ],
+        "tip": "Là danh từ đếm được (a single item / ten items), trái ngược với 'merchandise' là danh từ không đếm được."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "itemize",
+          "example": "Contractors must itemize all labor and material costs on the invoice.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "itemization",
+          "example": "The client requested a full itemization of the consulting expenses.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "itemized",
+          "example": "Employees must attach an itemized receipt to every reimbursement claim.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "For tax purposes, please request an _____ bill from the hotel front desk upon checkout.",
+        "answer": "itemized",
+        "base_word": "item",
+        "pos_hint": "tính từ (V-ed)",
+        "vi": "Vì mục đích thuế, vui lòng yêu cầu hóa đơn liệt kê chi tiết từng khoản từ quầy lễ tân khách sạn khi trả phòng."
+      }
+    },
+    {
+      "id": 9,
+      "word": "mandatory",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "required or commanded; obligatory",
+      "definition_vi": "bắt buộc, theo quy định",
+      "examples": [
+        {
+          "en": "The jewelry store has a mandatory policy of showing customers only one item at a time.",
+          "vi": "Cửa hàng trang sức có chính sách bắt buộc là mỗi lần chỉ cho khách hàng xem một món đồ."
+        },
+        {
+          "en": "There is a mandatory limit of nine items for use of this checkout line.",
+          "vi": "Có quy định giới hạn bắt buộc là chín món hàng khi sử dụng làn thanh toán này."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "adjective",
+          "word": "mandatory",
+          "example": "Ankle-high boots are mandatory with that skirt."
+        },
+        {
+          "pos": "noun",
+          "word": "mandate",
+          "example": "One of the company mandates is to treat the customer with the greatest respect."
+        },
+        {
+          "pos": "",
+          "word": "mandate",
+          "example": "The handbook mandates that all keys be turned in to the night shift supervisor by 9:00."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "mandatory training",
+        "mandatory attendance",
+        "mandatory requirement",
+        "mandatory inspection"
+      ],
+      "usage": {
+        "structures": [
+          "be mandatory for + sb (to V) (bắt buộc đối với ai phải làm gì)",
+          "mandatory + N (meeting/training/retirement) (buổi họp/đào tạo/nghỉ hưu bắt buộc)"
+        ],
+        "prepositions": [
+          "for"
+        ],
+        "collocations": [
+          "mandatory safety gear",
+          "mandatory overtime",
+          "make it mandatory",
+          "mandatory policy"
+        ],
+        "tip": "Đồng nghĩa với 'compulsory, obligatory, required' và trái nghĩa với 'optional, voluntary' trong các câu hỏi từ vựng TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "mandatorily",
+          "example": "All food-handling personnel are mandatorily tested for hygiene compliance.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "New federal regulations _____ that all commercial vehicles undergo emission testing twice a year.",
+        "answer": "mandate",
+        "base_word": "mandatory",
+        "pos_hint": "động từ chia hiện tại đơn",
+        "vi": "Các quy định liên bang mới bắt buộc tất cả các phương tiện thương mại phải trải qua kiểm tra khí thải hai lần một năm."
+      }
+    },
+    {
+      "id": 10,
+      "word": "merchandise",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "items available in stores",
+      "definition_vi": "(n) hàng hóa (bày bán); (v) kinh doanh, tiếp thị hàng hóa",
+      "examples": [
+        {
+          "en": "I am very impressed with the selection of merchandise at this store.",
+          "vi": "Tôi rất ấn tượng với sự đa dạng hàng hóa tại cửa hàng này."
+        },
+        {
+          "en": "Helen wanted to make sure that the store had a wide variety of merchandise before she committed to buying a gift certificate.",
+          "vi": "Helen muốn đảm bảo rằng cửa hàng có nhiều chủng loại hàng hóa phong phú trước khi quyết định mua phiếu quà tặng."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "merchandise",
+          "example": "The store&#x27;s buyer is aggressive about finding unique, high-quality merchandise."
+        },
+        {
+          "pos": "verb",
+          "word": "merchandise",
+          "example": "The home superstore merchandises hardware and other goods for do-it-yourself home improvements."
+        },
+        {
+          "pos": "noun",
+          "word": "merchant",
+          "example": "The Downtown Merchants Association is offering free gift wrapping this year."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "display merchandise",
+        "defective merchandise",
+        "return merchandise",
+        "wide variety of merchandise"
+      ],
+      "usage": {
+        "structures": [
+          "a wide selection/variety of merchandise (nhiều chủng loại hàng hóa đa dạng)"
+        ],
+        "prepositions": [
+          "of"
+        ],
+        "collocations": [
+          "damaged merchandise",
+          "promotional merchandise",
+          "general merchandise",
+          "merchandise Mart"
+        ],
+        "tip": "Cực kỳ quan trọng: 'merchandise' là DANH TỪ KHÔNG ĐẾM ĐƯỢC (không bao giờ có -s hay a/an), luôn đồng nghĩa với 'goods, wares, items'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "merchandising",
+          "example": "Effective visual merchandising can significantly boost impulse purchases.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Local _____ in the historic district agreed to extend their opening hours during the summer festival.",
+        "answer": "merchants",
+        "base_word": "merchandise",
+        "pos_hint": "danh từ chỉ người (thương nhân/chủ cửa hàng) số nhiều",
+        "vi": "Các chủ cửa hàng địa phương trong khu phố cổ đã đồng ý kéo dài giờ mở cửa trong suốt lễ hội mùa hè."
+      }
+    },
+    {
+      "id": 11,
+      "word": "strictly",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "rigidly, without flexibility",
+      "definition_vi": "một cách nghiêm ngặt, chặt chẽ, tuyệt đối",
+      "examples": [
+        {
+          "en": "Our store strictly enforces its return policy.",
+          "vi": "Cửa hàng của chúng tôi thực thi chính sách đổi trả hàng một cách nghiêm ngặt."
+        },
+        {
+          "en": "Their high turnover rate is no surprise, considering how strictly the manager deals with them.",
+          "vi": "Tỷ lệ nghỉ việc cao của họ không có gì đáng ngạc nhiên khi xét đến việc người quản lý đối xử khắt khe với họ như thế nào."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "strictness",
+          "example": "Ms. Judd was appalled by the strictness of the store&#x27;s policy not to renew her gift certificate after it had expired."
+        },
+        {
+          "pos": "adjective",
+          "word": "strict",
+          "example": "Our store has a strict policy of no returns."
+        },
+        {
+          "pos": "adverb",
+          "word": "strictly",
+          "example": "The no-food-or-drinks rule is strictly enforced in the bookstore."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "strictly prohibited",
+        "strictly enforced",
+        "strictly confidential",
+        "strictly adhere to"
+      ],
+      "usage": {
+        "structures": [
+          "be strictly prohibited/forbidden/enforced (bị nghiêm cấm tuyệt đối / được thực thi nghiêm ngặt)",
+          "strictly confidential (tuyệt mật)"
+        ],
+        "prepositions": [],
+        "collocations": [
+          "strictly speaking",
+          "strictly limited",
+          "strictly regulated",
+          "strictly comply with"
+        ],
+        "tip": "Ba cụm từ tủ trong đề thi TOEIC: 'strictly prohibited' (nghiêm cấm), 'strictly confidential' (tuyệt mật), và 'strictly enforced' (được thực thi nghiêm ngặt)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "restrict",
+          "example": "Access to the server room is restricted to authorized IT personnel.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "All laboratories must adhere to _____ safety guidelines when handling chemical samples.",
+        "answer": "strict",
+        "base_word": "strictly",
+        "pos_hint": "tính từ",
+        "vi": "Tất cả các phòng thí nghiệm phải tuân thủ các hướng dẫn an toàn nghiêm ngặt khi xử lý mẫu hóa chất."
+      }
+    },
+    {
+      "id": 12,
+      "word": "trend",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the current style; vogue",
+      "definition_vi": "(n) xu hướng, trào lưu; (v) có xu hướng",
+      "examples": [
+        {
+          "en": "The clothing store tries to stay on top of all the new trends.",
+          "vi": "Cửa hàng quần áo cố gắng nắm bắt dẫn đầu tất cả các xu hướng mới."
+        },
+        {
+          "en": "Mioshi followed market trends closely before she bought a clothing franchise.",
+          "vi": "Mioshi đã theo dõi sát sao các xu hướng thị trường trước khi cô mua nhượng quyền một thương hiệu quần áo."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "market trend",
+        "current trend",
+        "set a trend",
+        "upward trend"
+      ],
+      "usage": {
+        "structures": [
+          "trend toward + N (xu hướng nghiêng về cái gì)",
+          "trend in + N (xu hướng trong lĩnh vực gì)"
+        ],
+        "prepositions": [
+          "toward",
+          "in"
+        ],
+        "collocations": [
+          "downward trend",
+          "industry trends",
+          "follow a trend",
+          "economic trends"
+        ],
+        "tip": "Thường đi với các tính từ chỉ chiều hướng biến động trên biểu đồ báo cáo như 'upward/downward/recent/current/emerging trend'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "trend",
+          "example": "Raw material prices have been trending upward over the past six months.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "trend",
+          "example": "The report analyzes recent trends in e-commerce logistics.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "trendy",
+          "example": "The boutique attracts young shoppers with its trendy accessories.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The newly opened café quickly became popular among young professionals for its _____ decor.",
+        "answer": "trendy",
+        "base_word": "trend",
+        "pos_hint": "tính từ",
+        "vi": "Quán cà phê mới mở nhanh chóng trở nên nổi tiếng trong giới chuyên gia trẻ nhờ lối trang trí thời thượng."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. Some people love to shop. Others can't (1) ____ ____ shopping and only go when their clothes are completely worn-out. No one can get away from shopping—unless you can do without eating! Consumption and consumer (2) ____ affects everything we do. Some purchases are absolutely (3) ____. Everyone needs to eat, wear clothing, and sit on furniture. Other purchases are (4) ____ for luxury (5) ____. The vast majority of what most of us buy is somewhere in between essential items and frivolous items. Most people shop by visiting stores on the weekend. It's fun to (6) ____ the number of places you shop in by (7) ____ new stores—even if you don't make a purchase. It's also (8) ____ to return to stores you know well, where you know what the (9) ____ selection is likely to be. Most shoppers are looking for (10) ____. Some people even check out all the aisles looking to see if the items they normally use have been marked down. Everyone loves finding that their favorite items are discounted to a lower price. A sale makes going to the (11) ____ counter a happier event. A steadily growing (12) ____ is shopping from the comfort of home. Many people like to shop by catalogs and over the Internet. You can get almost everything, from books to apparel, by mail, without having to leave your home.",
+    "word_bank": [
+      "bargains",
+      "checkout",
+      "exploring",
+      "merchandise",
+      "bear",
+      "comforting",
+      "items",
+      "strictly",
+      "behavior",
+      "expand",
+      "mandatory",
+      "trend"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "comfort",
+        "example": "This car is designed with plush seats for your comfort and air bags for your safety.",
+        "pos": ""
+      },
+      {
+        "word": "comfortable",
+        "example": "I prefer this sweater because it&#x27;s more comfortable.",
+        "pos": ""
+      },
+      {
+        "word": "comfortably",
+        "example": "I&#x27;d suggest buying the larger table, which comfortably seats six.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "expand",
+        "example": "The music store expanded its selection by offering more classical music on compact discs.",
+        "pos": ""
+      },
+      {
+        "word": "expansion",
+        "example": "The expansion of our sales territory into a new region will mean more stock will have to be ordered.",
+        "pos": "noun"
+      },
+      {
+        "word": "expanded",
+        "example": "The expanded inventory is great, but it&#x27;s hard to find room to store it.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "explore",
+        "example": "Ms. Marce explored the bins of hardware, looking for the right size nails.",
+        "pos": "verb"
+      },
+      {
+        "word": "exploration",
+        "example": "The store designer&#x27;s exploration of the art of different cultures gave the store an exotic look.",
+        "pos": "noun"
+      },
+      {
+        "word": "exploratory",
+        "example": "The oil company&#x27;s exploratory drill led to a new supply of petroleum.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "mandatory",
+        "example": "Ankle-high boots are mandatory with that skirt.",
+        "pos": "adjective"
+      },
+      {
+        "word": "mandate",
+        "example": "One of the company mandates is to treat the customer with the greatest respect.",
+        "pos": "noun"
+      },
+      {
+        "word": "mandate",
+        "example": "The handbook mandates that all keys be turned in to the night shift supervisor by 9:00.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "merchandise",
+        "example": "The store&#x27;s buyer is aggressive about finding unique, high-quality merchandise.",
+        "pos": "noun"
+      },
+      {
+        "word": "merchandise",
+        "example": "The home superstore merchandises hardware and other goods for do-it-yourself home improvements.",
+        "pos": "verb"
+      },
+      {
+        "word": "merchant",
+        "example": "The Downtown Merchants Association is offering free gift wrapping this year.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "strictness",
+        "example": "Ms. Judd was appalled by the strictness of the store&#x27;s policy not to renew her gift certificate after it had expired.",
+        "pos": "noun"
+      },
+      {
+        "word": "strict",
+        "example": "Our store has a strict policy of no returns.",
+        "pos": "adjective"
+      },
+      {
+        "word": "strictly",
+        "example": "The no-food-or-drinks rule is strictly enforced in the bookstore.",
+        "pos": "adverb"
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "It's hard to tell if these shoes will be ____ because the leather is so stiff.",
+        "options": [
+          {
+            "label": "A",
+            "text": "comfort"
+          },
+          {
+            "label": "B",
+            "text": "comfortably"
+          },
+          {
+            "label": "C",
+            "text": "comfortable"
+          },
+          {
+            "label": "D",
+            "text": "comforting"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "Due to the store's success, the owners began to plan an ____ into a larger location.",
+        "options": [
+          {
+            "label": "A",
+            "text": "expansion"
+          },
+          {
+            "label": "B",
+            "text": "expand"
+          },
+          {
+            "label": "C",
+            "text": "expanse"
+          },
+          {
+            "label": "D",
+            "text": "expanded"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "I'd like to ____ this issue with you, but I don't have time today.",
+        "options": [
+          {
+            "label": "A",
+            "text": "exploratory"
+          },
+          {
+            "label": "B",
+            "text": "exploration"
+          },
+          {
+            "label": "C",
+            "text": "explorer"
+          },
+          {
+            "label": "D",
+            "text": "explore"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "Our company policy used to ____ that male employees keep their hair short, but that policy was considered sexist.",
+        "options": [
+          {
+            "label": "A",
+            "text": "mandate"
+          },
+          {
+            "label": "B",
+            "text": "mandates"
+          },
+          {
+            "label": "C",
+            "text": "mandated"
+          },
+          {
+            "label": "D",
+            "text": "mandatory"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "When you select ____ for the display windows, be sure to include seasonal gifts and clothing.",
+        "options": [
+          {
+            "label": "A",
+            "text": "merchant"
+          },
+          {
+            "label": "B",
+            "text": "merchants"
+          },
+          {
+            "label": "C",
+            "text": "merchandise"
+          },
+          {
+            "label": "D",
+            "text": "merchandising"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "We ____ adhere to the store's policy of only specially ordering products that have been paid for in advance.",
+        "options": [
+          {
+            "label": "A",
+            "text": "strictness"
+          },
+          {
+            "label": "B",
+            "text": "strict"
+          },
+          {
+            "label": "C",
+            "text": "strictly"
+          },
+          {
+            "label": "D",
+            "text": "strictest"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Attention Bargain Hunters! Greene's Department Store is having its biggest sale ever. Every single item in the store is on sale at unbelievable prices. That's right—all merchandise, including clothes, shoes, toys, sports equipment, home furnishing, music, and music equipment, is 25 to 75 percent off the usual price. \\* Have you always wanted [16] the underwater world? We have diving equipment on sale at 50 percent off. \\* Would you like to sleep in a more [17] bed? The prices of beds, mattresses, and bedroom furniture have been reduced by 35 percent. \\* Do you dream of [18] your CD collection? Now you can, at a more than affordable price. All CDs, including classical, jazz, rock, and pop, are on sale at three for the price of one. Visit Greene's for the bargains of a lifetime. Sale ends Sunday.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "explore"
+            },
+            {
+              "label": "B",
+              "text": "explores"
+            },
+            {
+              "label": "C",
+              "text": "to explore"
+            },
+            {
+              "label": "D",
+              "text": "exploring"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "comfort"
+            },
+            {
+              "label": "B",
+              "text": "comforter"
+            },
+            {
+              "label": "C",
+              "text": "comfortable"
+            },
+            {
+              "label": "D",
+              "text": "comfortably"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "will expand"
+            },
+            {
+              "label": "B",
+              "text": "can expand"
+            },
+            {
+              "label": "C",
+              "text": "expansion"
+            },
+            {
+              "label": "D",
+              "text": "expanding"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following article. Designing retail space takes careful planning. Attention should be paid to what research tells us about consumer behavior. Stores must be designed with the comfort of shoppers in mind. The aisles should be wide enough to allow shoppers to move through them comfortably. Items should be placed where they can be easily seen by shoppers. Nothing should be put on high shelves where it cannot be reached. Pleasant lighting and music also contribute to the comfort and good feeling of shoppers. Shoppers who feel happy and relaxed will make more purchases. When organizing the merchandise in a store, the trends of each season should be kept in mind. Picnic and beach equipment should be prominently displayed in the summer, for example, while warm clothing should be featured in the winter. Then, shoppers will return to the store because they will see it as a place that provides what they need. There should be plenty of checkout aisles so that long lines are avoided. Many people cannot bear long waits, and long checkout lines scare shoppers away from stores. Many stores are now using self-service checkout aisles, although they have not yet been completely accepted by shoppers. They are often confusing to use, and many shoppers find them impersonal. The old-fashioned human cashier is still popular in most retail outlets. Therefore, it is still considered mandatory for stores to have at least some full-service checkout lines manned by cashiers. When a store is properly designed, shoppers have a pleasant experience and will want to return. This helps the bottom line of the store owner which is, of course, increased sales. 23. The word bear in line 9 is closest in meaning to (A) tolerate (B) understand (C) refuse (D) decrease",
+        "questions": [
+          {
+            "number": 19,
+            "question": "According to the article, which shoppers buy more?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Those who have more money."
+              },
+              {
+                "label": "B",
+                "text": "Those who can reach high shelves."
+              },
+              {
+                "label": "C",
+                "text": "Those who feel comfortable in the store."
+              },
+              {
+                "label": "D",
+                "text": "Those who shop in the summer."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "What does the article say about self-service checkout aisles?",
+            "options": [
+              {
+                "label": "A",
+                "text": "They are popular everywhere."
+              },
+              {
+                "label": "B",
+                "text": "They aren't always easy to use."
+              },
+              {
+                "label": "C",
+                "text": "They are personal."
+              },
+              {
+                "label": "D",
+                "text": "They are mandatory."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "According to the article, what is the most important thing for a store owner?",
+            "options": [
+              {
+                "label": "A",
+                "text": "More sales."
+              },
+              {
+                "label": "B",
+                "text": "Lighting and music."
+              },
+              {
+                "label": "C",
+                "text": "Pleasant cashiers."
+              },
+              {
+                "label": "D",
+                "text": "Wide aisles."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word behavior in line 2 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "questions"
+              },
+              {
+                "label": "B",
+                "text": "desires"
+              },
+              {
+                "label": "C",
+                "text": "interests"
+              },
+              {
+                "label": "D",
+                "text": "actions"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What class is the man taking?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Psychology."
+          },
+          {
+            "label": "B",
+            "text": "Sociology."
+          },
+          {
+            "label": "C",
+            "text": "Economics."
+          },
+          {
+            "label": "D",
+            "text": "Marketing."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How much time did he spend watching consumers?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Two weeks."
+          },
+          {
+            "label": "B",
+            "text": "Three weeks."
+          },
+          {
+            "label": "C",
+            "text": "Four weeks."
+          },
+          {
+            "label": "D",
+            "text": "Five weeks."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What did he learn about consumers' shopping habits?",
+        "options": [
+          {
+            "label": "A",
+            "text": "They hunt for bargains."
+          },
+          {
+            "label": "B",
+            "text": "They buy more during sales."
+          },
+          {
+            "label": "C",
+            "text": "Color is a key motivator in clothing selections."
+          },
+          {
+            "label": "D",
+            "text": "They feel comfortable with the brands they know."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "What items are reduced in price?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Scarves."
+          },
+          {
+            "label": "B",
+            "text": "Boots."
+          },
+          {
+            "label": "C",
+            "text": "Hats."
+          },
+          {
+            "label": "D",
+            "text": "Coats."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What kind of merchandise does the store carry?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Winter sports equipment."
+          },
+          {
+            "label": "B",
+            "text": "Gift items."
+          },
+          {
+            "label": "C",
+            "text": "Clothing."
+          },
+          {
+            "label": "D",
+            "text": "Work uniforms."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "How many store visits are required to get a gift?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Three."
+          },
+          {
+            "label": "B",
+            "text": "Four."
+          },
+          {
+            "label": "C",
+            "text": "Nine."
+          },
+          {
+            "label": "D",
+            "text": "Ten."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best response. 4. What class is the man taking? (A) Psychology. (B) Sociology. (C) Economics. (D) Marketing. 5. How much time did he spend watching consumers? (A) Two weeks. (B) Three weeks. (C) Four weeks. (D) Five weeks. 6. What did he learn about consumers' shopping habits? (A) They hunt for bargains. (B) They buy more during sales. (C) Color is a key motivator in clothing selections. (D) They feel comfortable with the brands they know. Listen to the talk. Then read each question and choose the best answer. 7. What items are reduced in price? (A) Scarves. (B) Boots. (C) Hats. (D) Coats. 8. What kind of merchandise does the store carry? (A) Winter sports equipment. (B) Gift items. (C) Clothing. (D) Work uniforms. 9. How many store visits are required to get a gift? (A) Three. (B) Four. (C) Nine. (D) Ten.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question–Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What class is the man taking?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Psychology."
+          },
+          {
+            "label": "B",
+            "text": "Sociology."
+          },
+          {
+            "label": "C",
+            "text": "Economics."
+          },
+          {
+            "label": "D",
+            "text": "Marketing."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How much time did he spend watching consumers?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Two weeks."
+          },
+          {
+            "label": "B",
+            "text": "Three weeks."
+          },
+          {
+            "label": "C",
+            "text": "Four weeks."
+          },
+          {
+            "label": "D",
+            "text": "Five weeks."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What did he learn about consumers' shopping habits?",
+        "options": [
+          {
+            "label": "A",
+            "text": "They hunt for bargains."
+          },
+          {
+            "label": "B",
+            "text": "They buy more during sales."
+          },
+          {
+            "label": "C",
+            "text": "Color is a key motivator in clothing selections."
+          },
+          {
+            "label": "D",
+            "text": "They feel comfortable with the brands they know."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "What items are reduced in price?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Scarves."
+          },
+          {
+            "label": "B",
+            "text": "Boots."
+          },
+          {
+            "label": "C",
+            "text": "Hats."
+          },
+          {
+            "label": "D",
+            "text": "Coats."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What kind of merchandise does the store carry?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Winter sports equipment."
+          },
+          {
+            "label": "B",
+            "text": "Gift items."
+          },
+          {
+            "label": "C",
+            "text": "Clothing."
+          },
+          {
+            "label": "D",
+            "text": "Work uniforms."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "How many store visits are required to get a gift?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Three."
+          },
+          {
+            "label": "B",
+            "text": "Four."
+          },
+          {
+            "label": "C",
+            "text": "Nine."
+          },
+          {
+            "label": "D",
+            "text": "Ten."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "## Shopping\n\nStudy the following definitions and examples.\n\n1. bargain v., to negotiate; n., an advantageous purchase\n\na. She bargained for over an hour, finally reducing the price by half.\n\nb. Lois compared the sweaters carefully to determine which was a better bargain.\n\n2. bear v., to have tolerance for; to endure a. Moya doesn't like crowds so she cannot bear to shop during the holiday rush.\n\nb. If you can bear with me, I'd like to stop in one more store.\n\n3. behavior n., the manner of one's actions a. Annu is conducting a survey on whether consumer behavior differs between men and women.\n\nb. Suspicious behavior in a department store will draw the attention of the security guards.\n\n4. checkout n., the act, time, or place of checking out, as at a hotel, library, or supermarket\n\na. The line at this checkout is too long, so let's look for another.\n\nb. Get in the checkout line now and I'll join you with the last items.\n\n5. comfort v., to calm somebody; n., a condition or feeling of pleasurable ease, well-being, and contentment\n\na. Comfort yourself with a down quilt this winter.\n\nb. I like to dress for comfort if I'm spending the day shopping.\n\n6. expand v., to increase the size, volume, quantity, or scope of; to enlarge\n\na. The new manager has significantly expanded the store's inventory.\n\na. The new manager has significantly expanded the store's inventory.\nb. The shoe store is out of room and is thinking about expanding into the adjacent vacant building.\n\n7. explore v., to investigate systematically\n\na. The collector likes to explore antique shops looking for bargains.\n\nb. While his mother shopped for clothes, Michael wandered off to explore the toy section.\n\n8. item n., a single article or unit\n\na. The grocery store has a special checkout line for people who are purchasing fewer than ten items.\n\nb. Do you think I can get all these items into one bag?\n\n9. mandatory adj., required or commanded; obligatory a. The jewelry store has a mandatory policy of showing customers only one item at a time.\n\nb. There is a mandatory limit of nine items for use of this checkout line.\n\n10. merchandise n., items available in stores\n\na. I am very impressed with the selection of merchandise at this store.\n\nb. Helen wanted to make sure that the store had a wide variety of merchandise before she committed to buying a gift certificate.\n\n11. strictly adv., rigidly, without flexibility\n\na. Our store strictly enforces its return policy.\n\nb. Their high turnover rate is no surprise, considering how strictly the manager deals with them.\n\n12. trend n., the current style; vogue\n\na. The clothing store tries to stay on top of all the new trends.\n\nb. Mioshi followed market trends closely before she bought a clothing franchise.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\n| bargains | checkout | exploring | merchandise |\n| --- | --- | --- | --- |\n| bear | comforting | items | strictly |\n| behavior | expand | mandatory | trend |\n\nSome people love to shop. Others can't (1) \\_\\_\\_\\_ \\_\\_\\_\\_ shopping and only go when their clothes are completely worn-out. No one can get away from shopping—unless you can do without eating! Consumption and consumer (2) \\_\\_\\_\\_ affects everything we do.\n\nSome purchases are absolutely (3) \\_\\_\\_\\_. Everyone needs to eat, wear clothing, and sit on furniture. Other purchases are (4) \\_\\_\\_\\_ for luxury (5) \\_\\_\\_\\_. The vast majority of what most of us buy is somewhere in between essential items and frivolous items.\n\nMost people shop by visiting stores on the weekend. It's fun to (6) \\_\\_\\_\\_ the number of places you shop in by (7) \\_\\_\\_\\_ new stores—even if you don't make a purchase. It's also (8) \\_\\_\\_\\_ to return to stores you know well, where you know what the (9) \\_\\_\\_\\_ selection is likely to be.\n\nMost shoppers are looking for (10) \\_\\_\\_\\_. Some people even check out all the aisles looking to see if the items they normally use have been marked down. Everyone loves finding that their favorite items are discounted to a lower price. A sale makes going to the (11) \\_\\_\\_\\_ counter a happier event.\n\nA steadily growing (12) \\_\\_\\_\\_ is shopping from the comfort of home. Many people like to shop by catalogs and over the Internet. You can get almost everything, from books to apparel, by mail, without having to leave your home.",
+    "word_families": "## WORD FAMILIES\n\n<table><tr><td>ou</td><td>comfort</td><td>This car is designed with plush seats for your comfort and air bags for your safety.</td></tr><tr><td rowspan=\"2\">ə</td><td>comfortable</td><td>I prefer this sweater because it&#x27;s more comfortable.</td></tr><tr><td>comfortably</td><td>I&#x27;d suggest buying the larger table, which comfortably seats six.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>eHL</td><td>expand</td><td>The music store expanded its selection by offering more classical music on compact discs.</td></tr><tr><td>noun</td><td>expansion</td><td>The expansion of our sales territory into a new region will mean more stock will have to be ordered.</td></tr><tr><td>adjective</td><td>expanded</td><td>The expanded inventory is great, but it&#x27;s hard to find room to store it.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>explore</td><td>Ms. Marce explored the bins of hardware, looking for the right size nails.</td></tr><tr><td>noun</td><td>exploration</td><td>The store designer&#x27;s exploration of the art of different cultures gave the store an exotic look.</td></tr><tr><td>adjective</td><td>exploratory</td><td>The oil company&#x27;s exploratory drill led to a new supply of petroleum.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>adjective</td><td>mandatory</td><td>Ankle-high boots are mandatory with that skirt.</td></tr><tr><td rowspan=\"2\">noun</td><td>mandate</td><td>One of the company mandates is to treat the customer with the greatest respect.</td></tr><tr><td>mandate</td><td>The handbook mandates that all keys be turned in to the night shift supervisor by 9:00.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>noun</td><td>merchandise</td><td>The store&#x27;s buyer is aggressive about finding unique, high-quality merchandise.</td></tr><tr><td>verb</td><td>merchandise</td><td>The home superstore merchandises hardware and other goods for do-it-yourself home improvements.</td></tr><tr><td>noun</td><td>merchant</td><td>The Downtown Merchants Association is offering free gift wrapping this year.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>noun</td><td>strictness</td><td>Ms. Judd was appalled by the strictness of the store&#x27;s policy not to renew her gift certificate after it had expired.</td></tr><tr><td>adjective</td><td>strict</td><td>Our store has a strict policy of no returns.</td></tr><tr><td>adverb</td><td>strictly</td><td>The no-food-or-drinks rule is strictly enforced in the bookstore.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question–Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best response.\n\n4. What class is the man taking?\n(A) Psychology.\n(B) Sociology.\n(C) Economics.\n(D) Marketing.\n\n5. How much time did he spend watching consumers?  \n(A) Two weeks.  \n(B) Three weeks.  \n(C) Four weeks.  \n(D) Five weeks.\n\n6. What did he learn about consumers' shopping habits?\n(A) They hunt for bargains.\n(B) They buy more during sales.\n(C) Color is a key motivator in clothing selections.\n(D) They feel comfortable with the brands they know.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. What items are reduced in price?\n(A) Scarves.\n(B) Boots.\n(C) Hats.\n(D) Coats.\n\n8. What kind of merchandise does the store carry?\n(A) Winter sports equipment.\n(B) Gift items.\n(C) Clothing.\n(D) Work uniforms.\n\n9. How many store visits are required to get a gift?\n(A) Three.\n(B) Four.\n(C) Nine.\n(D) Ten.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. It's hard to tell if these shoes will be \\_\\_\\_\\_ because the leather is so stiff.\n(A) comfort (C) comfortable\n(B) comfortably (D) comforting\n\n11. Due to the store's success, the owners began to plan an \\_\\_\\_\\_ into a larger location.\n(A) expansion (C) expanse\n(B) expand (D) expanded\n\n12. I'd like to \\_\\_\\_\\_ this issue with you, but I don't have time today.\n(A) exploratory (C) explorer\n(B) exploration (D) explore\n\n13. Our company policy used to \\_\\_\\_\\_ that male employees keep their hair short, but that policy was considered sexist.\n(A) mandate (C) mandated\n(B) mandates (D) mandatory\n\n14. When you select \\_\\_\\_\\_ for the display windows, be sure to include seasonal gifts and clothing.\n(A) merchant (C) merchandise\n(B) merchants (D) merchandising\n\n15. We \\_\\_\\_\\_ adhere to the store's policy of only specially ordering products that have been paid for in advance.\n(A) strictness (C) strictly\n(B) strict (D) strictest\n\n## Part 6 Text Completion\n\n## Attention Bargain Hunters!\n\nGreene's Department Store is having its biggest sale ever. Every single item in the store is on sale at unbelievable prices. That's right—all merchandise, including clothes, shoes, toys, sports equipment, home furnishing, music, and music equipment, is 25 to 75 percent off the usual price.\n\n\\* Have you always wanted \\_16\\_ the underwater world? We have diving equipment on sale at 50 percent off.\n\n\\* Would you like to sleep in a more \\_17\\_ bed? The prices of beds, mattresses, and bedroom furniture have been reduced by 35 percent.\n\n\\* Do you dream of \\_18\\_ your CD collection? Now you can, at a more than affordable price. All CDs, including classical, jazz, rock, and pop, are on sale at three for the price of one.\n\nVisit Greene's for the bargains of a lifetime. Sale ends Sunday.\n\n16. (A) explore 18. (A) will expand (B) explores (B) can expand (C) to explore (C) expansion (D) exploring (D) expanding\n\n17. (A) comfort  \n(B) comforter  \n(C) comfortable  \n(D) comfortably",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following article.\n\nDesigning retail space takes careful planning. Attention should be paid to what research tells us about consumer behavior. Stores must be designed with the comfort of shoppers in mind. The aisles should be wide enough to allow shoppers to move through them comfortably. Items should be placed where they can be easily seen by shoppers. Nothing should be put on high shelves where it cannot be reached. Pleasant lighting and music also contribute to the comfort and good feeling of shoppers. Shoppers who feel happy and relaxed will make more purchases.\n\nWhen organizing the merchandise in a store, the trends of each season should be kept in mind. Picnic and beach equipment should be prominently displayed in the summer, for example, while warm clothing should be featured in the winter. Then, shoppers will return to the store because they will see it as a place that provides what they need.\n\nThere should be plenty of checkout aisles so that long lines are avoided. Many people cannot bear long waits, and long checkout lines scare shoppers away from stores. Many stores are now using self-service checkout aisles, although they have not yet been completely accepted by shoppers. They are often confusing to use, and many shoppers find them impersonal. The old-fashioned human cashier is still popular in most retail outlets. Therefore, it is still considered mandatory for stores to have at least some full-service checkout lines manned by cashiers.\n\nWhen a store is properly designed, shoppers have a pleasant experience and will want to return. This helps the bottom line of the store owner which is, of course, increased sales.\n\n19. According to the article, which shoppers buy more?\n(A) Those who have more money.\n(B) Those who can reach high shelves.\n(C) Those who feel comfortable in the store.\n(D) Those who shop in the summer.\n\n20. What does the article say about self-service checkout aisles?\n(A) They are popular everywhere.\n(B) They aren't always easy to use.\n(C) They are personal.\n(D) They are mandatory.\n\n21. According to the article, what is the most important thing for a store owner?\n(A) More sales.\n(B) Lighting and music.\n(C) Pleasant cashiers.\n(D) Wide aisles.\n\n22. The word behavior in line 2 is closest in meaning to  \n(A) questions  \n(B) desires  \n(C) interests  \n(D) actions\n\n23. The word bear in line 9 is closest in meaning to (A) tolerate (B) understand (C) refuse (D) decrease"
+  },
+  "needs_review": true
+}

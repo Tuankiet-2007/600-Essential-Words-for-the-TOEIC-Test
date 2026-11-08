@@ -1,0 +1,1617 @@
+{
+  "lesson_id": 26,
+  "title": "Property and Departments",
+  "theme_name": "Management Issues",
+  "audio_track": "track_26.mp3",
+  "part1_photo": "part1_photos/lesson_26.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "adjacent",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "next to",
+      "definition_vi": "liền kề, kế bên, sát cạnh",
+      "examples": [
+        {
+          "en": "My office is adjacent to the receptionist area on the third floor.",
+          "vi": "Văn phòng của tôi nằm liền kề với khu vực lễ tân trên tầng ba."
+        },
+        {
+          "en": "The office manager found it very efficient to have the copier adjacent to the mail room.",
+          "vi": "Người quản lý văn phòng thấy rất hiệu quả khi đặt máy photocopy ngay sát phòng văn thư."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "adjacent to",
+        "adjacent building",
+        "adjacent room",
+        "immediately adjacent"
+      ],
+      "usage": {
+        "structures": [
+          "be adjacent to + N (nằm liền kề/sát cạnh cái gì)",
+          "adjacent + N (tòa nhà/phòng/lô đất kế bên)"
+        ],
+        "prepositions": [
+          "to"
+        ],
+        "collocations": [
+          "adjacent parking lot",
+          "adjacent property",
+          "adjacent offices",
+          "directly adjacent to"
+        ],
+        "tip": "Trong TOEIC Part 1 và Part 5, 'adjacent' luôn đi với giới từ 'to' (adjacent to = next to)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "adjacency",
+          "example": "The adjacency of the warehouse to the main highway reduces shipping times.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "adjacent",
+          "example": "Conference participants may park in the lot adjacent to the hotel entrance.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "adjacently",
+          "example": "The two sister departments are located adjacently on the fourth floor.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The close _____ of the warehouse to the international airport significantly reduces air freight transit times.",
+        "answer": "adjacency",
+        "base_word": "adjacent",
+        "pos_hint": "danh từ (sự liền kề)",
+        "vi": "Vị trí liền kề rất gần của nhà kho với sân bay quốc tế giúp giảm đáng kể thời gian vận chuyển hàng không."
+      }
+    },
+    {
+      "id": 2,
+      "word": "collaboration",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the act of working with someone",
+      "definition_vi": "sự hợp tác, sự cộng tác",
+      "examples": [
+        {
+          "en": "The manager had never seen such effective collaboration between two groups.",
+          "vi": "Người quản lý chưa từng thấy sự hợp tác hiệu quả đến vậy giữa hai nhóm."
+        },
+        {
+          "en": "We believe that it was our collaboration that enabled us to achieve such favorable results.",
+          "vi": "Chúng tôi tin rằng chính sự hợp tác của chúng tôi đã giúp đạt được những kết quả khả quan như vậy."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "collaborate",
+          "example": "If we collaborate on this project, you will be sure to receive credit."
+        },
+        {
+          "pos": "",
+          "word": "collaboration",
+          "example": "Collaboration often brings about results that no one could have predicted."
+        },
+        {
+          "pos": "",
+          "word": "collaborative",
+          "example": "The new project is a collaborative effort among several departments."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "in collaboration with",
+        "close collaboration",
+        "effective collaboration",
+        "collaborative effort"
+      ],
+      "usage": {
+        "structures": [
+          "in collaboration with + sb/sth (hợp tác cùng với ai/tổ chức nào)",
+          "collaboration between A and B (sự hợp tác giữa A và B)"
+        ],
+        "prepositions": [
+          "with",
+          "between",
+          "on",
+          "in"
+        ],
+        "collocations": [
+          "collaborate on a project",
+          "foster collaboration",
+          "international collaboration",
+          "collaborative workspace"
+        ],
+        "tip": "Nhớ cụm giới từ 'in collaboration with' (phối hợp với) và cấu trúc động từ 'collaborate with sb on sth' (hợp tác với ai về việc gì)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "collaborator",
+          "example": "Dr. Patel thanked her international collaborators for their contributions to the study.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "collaboratively",
+          "example": "The engineering and design teams worked collaboratively to develop the prototype.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The new training program was developed _____ by the human resources and IT departments.",
+        "answer": "collaboratively",
+        "base_word": "collaboration",
+        "pos_hint": "trạng từ",
+        "vi": "Chương trình đào tạo mới đã được phát triển với sự phối hợp giữa phòng nhân sự và phòng công nghệ thông tin."
+      }
+    },
+    {
+      "id": 3,
+      "word": "concentrate",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to focus; to think about",
+      "definition_vi": "tập trung (sự chú ý, nỗ lực, nguồn lực)",
+      "examples": [
+        {
+          "en": "In his quiet, corner office, the manager could finally concentrate and finish his work.",
+          "vi": "Trong văn phòng yên tĩnh ở góc tầng của mình, người quản lý cuối cùng đã có thể tập trung và hoàn thành công việc."
+        },
+        {
+          "en": "We should concentrate our efforts on the last quarter of the year.",
+          "vi": "Chúng ta nên tập trung nỗ lực vào quý cuối cùng của năm."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "concentrate",
+          "example": "Some people find it difficult to concentrate when there is a lot of noise and activity around them."
+        },
+        {
+          "pos": "",
+          "word": "concentration",
+          "example": "The concentration of a large percentage of the company&#x27;s funds in just a few areas left several departments underfunded."
+        },
+        {
+          "pos": "",
+          "word": "concentrated",
+          "example": "With some concentrated effort, we should be able to finish this work by the deadline."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "concentrate on",
+        "concentrate one's efforts",
+        "intense concentration",
+        "concentrated effort"
+      ],
+      "usage": {
+        "structures": [
+          "concentrate (sth) on + N/V-ing (tập trung cái gì vào việc gì)",
+          "require deep concentration (đòi hỏi sự tập trung cao độ)"
+        ],
+        "prepositions": [
+          "on",
+          "upon",
+          "in"
+        ],
+        "collocations": [
+          "concentrate resources",
+          "lose concentration",
+          "market concentration",
+          "concentrate fully"
+        ],
+        "tip": "Động từ 'concentrate' luôn đi với giới từ 'on' (= focus on)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "concentrated",
+          "example": "Through a concentrated marketing effort, the firm doubled its regional sales.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Open-plan offices with excessive background noise can make it difficult for programmers to maintain their _____.",
+        "answer": "concentration",
+        "base_word": "concentrate",
+        "pos_hint": "danh từ",
+        "vi": "Các văn phòng thiết kế mở với quá nhiều tiếng ồn xung quanh có thể khiến các lập trình viên khó duy trì sự tập trung."
+      }
+    },
+    {
+      "id": 4,
+      "word": "conducive",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "contributing to; leading to",
+      "definition_vi": "có lợi cho, tạo điều kiện thuận lợi cho",
+      "examples": [
+        {
+          "en": "The new office arrangement is much more conducive to work than the dark, depressing space the company had before.",
+          "vi": "Cách bố trí văn phòng mới thuận lợi cho công việc hơn nhiều so với không gian tối tăm, u ám trước đây của công ty."
+        },
+        {
+          "en": "Arranging chairs so that participants can see each other easily is conducive to open communication.",
+          "vi": "Việc sắp xếp ghế ngồi sao cho người tham gia dễ dàng nhìn thấy nhau sẽ tạo điều kiện thuận lợi cho việc giao tiếp cởi mở."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "conducive to work",
+        "conducive to learning",
+        "conducive environment",
+        "conducive to productivity"
+      ],
+      "usage": {
+        "structures": [
+          "be conducive to + N/V-ing (tạo điều kiện thuận lợi cho cái gì / việc làm gì)"
+        ],
+        "prepositions": [
+          "to"
+        ],
+        "collocations": [
+          "conducive to growth",
+          "conducive to open communication",
+          "conducive atmosphere",
+          "conducive to success"
+        ],
+        "tip": "Tính từ 'conducive' LUÔN đi kèm giới từ 'to' + Danh từ / V-ing (be conducive to productivity/working)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "conduce",
+          "example": "Flexible working hours often conduce to higher employee morale and retention.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "conduciveness",
+          "example": "The architect evaluated the building's layout for its conduciveness to teamwork.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "conducive",
+          "example": "Proper lighting and ergonomic chairs create an environment conducive to high productivity.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The architect assessed the new office layout for its _____ to cross-departmental collaboration.",
+        "answer": "conduciveness",
+        "base_word": "conducive",
+        "pos_hint": "danh từ (tính thuận lợi)",
+        "vi": "Kiến trúc sư đã đánh giá cách bố trí văn phòng mới về tính thuận lợi của nó đối với sự hợp tác liên phòng ban."
+      }
+    },
+    {
+      "id": 5,
+      "word": "disruption",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "interruption; disturbance",
+      "definition_vi": "sự gián đoạn, sự xáo trộn, sự đình trệ",
+      "examples": [
+        {
+          "en": "If there are no disruptions, the office renovations will be finished this week.",
+          "vi": "Nếu không có sự gián đoạn nào, việc cải tạo văn phòng sẽ được hoàn tất trong tuần này."
+        },
+        {
+          "en": "The strike caused a disruption in production at the factory.",
+          "vi": "Cuộc đình công đã gây ra sự gián đoạn trong hoạt động sản xuất tại nhà máy."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "disrupt",
+          "example": "Try not to disrupt the meeting being held in the sales department."
+        },
+        {
+          "pos": "noun",
+          "word": "disruption",
+          "example": "I&#x27;m sorry for the disruption, but this phone call is very important."
+        },
+        {
+          "pos": "adjective",
+          "word": "disruptive",
+          "example": "Having to temporarily move the offices proved to be very disruptive and sales decreased during that quarter."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "cause a disruption",
+        "minimal disruption",
+        "supply chain disruption",
+        "service disruption"
+      ],
+      "usage": {
+        "structures": [
+          "disruption to/in + N (sự gián đoạn đối với/trong hoạt động gì)",
+          "with minimal/without disruption (với sự xáo trộn tối thiểu / không bị gián đoạn)"
+        ],
+        "prepositions": [
+          "to",
+          "in",
+          "of"
+        ],
+        "collocations": [
+          "major disruption",
+          "traffic disruption",
+          "temporary disruption",
+          "disruptive behavior"
+        ],
+        "tip": "Thường gặp trong các thông báo bảo trì/sửa chữa: 'We apologize for any disruption to your service' hoặc 'keep disruption to a minimum'."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "disruptively",
+          "example": "The construction crew was asked not to work disruptively during normal business hours.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Severe weather conditions _____ flights across the region for nearly forty-eight hours.",
+        "answer": "disrupted",
+        "base_word": "disruption",
+        "pos_hint": "động từ chia quá khứ đơn V-ed",
+        "vi": "Điều kiện thời tiết khắc nghiệt đã làm gián đoạn các chuyến bay trên khắp khu vực trong gần bốn mươi tám giờ."
+      }
+    },
+    {
+      "id": 6,
+      "word": "hamper",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to impede or interfere",
+      "definition_vi": "cản trở, gây trở ngại, làm chậm trễ",
+      "examples": [
+        {
+          "en": "When the weight of the freezing rain broke the telephone lines, the telemarketers' jobs were seriously hampered.",
+          "vi": "Khi sức nặng của cơn mưa đóng băng làm đứt đường dây điện thoại, công việc của các nhân viên tiếp thị qua điện thoại đã bị cản trở nghiêm trọng."
+        },
+        {
+          "en": "The lack of supplies hampered our ability to finish on schedule.",
+          "vi": "Việc thiếu hụt vật tư đã cản trở khả năng hoàn thành đúng tiến độ của chúng tôi."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "hamper progress",
+        "hamper efforts",
+        "be hampered by",
+        "severely hamper"
+      ],
+      "usage": {
+        "structures": [
+          "hamper + N (cản trở tiến độ/nỗ lực/ sự phát triển)",
+          "be hampered by + N (bị cản trở bởi cái gì)"
+        ],
+        "prepositions": [
+          "by",
+          "in"
+        ],
+        "collocations": [
+          "hamper productivity",
+          "hamper economic growth",
+          "hamper operations",
+          "hamper recovery"
+        ],
+        "tip": "Đồng nghĩa với 'hinder', 'impede', 'obstruct'; rất hay chia ở thể bị động 'be hampered by' (bị cản trở bởi thời tiết xấu/thiếu kinh phí)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "hamper",
+          "example": "Outdated computer systems continue to hamper the efficiency of our customer support team.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "hampered",
+          "example": "Rescue operations were severely hampered by heavy snowfall and strong winds.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Construction of the new bridge was repeatedly _____ by unexpected material shortages.",
+        "answer": "hampered",
+        "base_word": "hamper",
+        "pos_hint": "động từ chia quá khứ phân từ V3/ed (bị động)",
+        "vi": "Việc xây dựng cây cầu mới đã liên tục bị cản trở bởi tình trạng thiếu hụt vật liệu ngoài dự kiến."
+      }
+    },
+    {
+      "id": 7,
+      "word": "inconsiderately",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "rudely; impolitely",
+      "definition_vi": "một cách thiếu suy nghĩ, thiếu chu đáo, bất lịch sự (không quan tâm tới người khác)",
+      "examples": [
+        {
+          "en": "The manager inconsiderately scheduled the meeting for late Friday afternoon.",
+          "vi": "Người quản lý đã thiếu tâm lý khi xếp lịch họp vào cuối buổi chiều thứ Sáu."
+        },
+        {
+          "en": "Mr. Peterson inconsiderately disrupted the meeting by asking a lot of irrelevant questions.",
+          "vi": "Ông Peterson đã bất lịch sự làm gián đoạn cuộc họp bằng cách đặt rất nhiều câu hỏi không liên quan."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "inconsiderateness",
+          "example": "The inconsiderateness of many of the customers caused several employees to quit their jobs."
+        },
+        {
+          "pos": "adjective",
+          "word": "inconsiderate",
+          "example": "Would it be inconsiderate to ask to use your office while you are away?"
+        },
+        {
+          "pos": "",
+          "word": "inconsiderately",
+          "example": "John inconsiderately looked through his coworker&#x27;s mail before putting it on his desk."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "act inconsiderately",
+        "behave inconsiderately",
+        "inconsiderate remark",
+        "inconsiderate of others"
+      ],
+      "usage": {
+        "structures": [
+          "be inconsiderate of + sb (thiếu chu đáo/không nghĩ đến ai)",
+          "inconsiderately + V (làm gì một cách thiếu ý tứ)"
+        ],
+        "prepositions": [
+          "of",
+          "to",
+          "toward"
+        ],
+        "collocations": [
+          "inconsiderate behavior",
+          "park inconsiderately",
+          "inconsiderate colleague",
+          "thoughtless and inconsiderate"
+        ],
+        "tip": "Chú ý phân biệt cặp từ dễ nhầm: 'considerate / inconsiderate' (chu đáo / thiếu chu đáo) với 'considerable' (đáng kể, to lớn)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "consider",
+          "example": "Employees should always consider how their actions affect coworkers in shared spaces.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "It was _____ of the contractor to leave building materials blocking the main hallway.",
+        "answer": "inconsiderate",
+        "base_word": "inconsiderately",
+        "pos_hint": "tính từ",
+        "vi": "Nhà thầu đã thật thiếu ý tứ khi để vật liệu xây dựng chắn ngang hành lang chính."
+      }
+    },
+    {
+      "id": 8,
+      "word": "lobby",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an anteroom, foyer, or waiting room",
+      "definition_vi": "tiền sảnh, sảnh chờ (khách sạn, tòa nhà); (v.) vận động hành lang",
+      "examples": [
+        {
+          "en": "The salesperson waited in the busy lobby for the buyer to see him.",
+          "vi": "Nhân viên bán hàng đã đợi trong tiền sảnh nhộn nhịp để gặp người mua hàng."
+        },
+        {
+          "en": "The reception area was moved from the lobby of the building to the third floor.",
+          "vi": "Khu vực lễ tân đã được chuyển từ sảnh chính của tòa nhà lên tầng ba."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "hotel lobby",
+        "main lobby",
+        "wait in the lobby",
+        "lobbyist group"
+      ],
+      "usage": {
+        "structures": [
+          "in the main lobby (ở tiền sảnh chính)",
+          "lobby + for/against + N (vận động hành lang ủng hộ/phản đối cái gì)"
+        ],
+        "prepositions": [
+          "in",
+          "at",
+          "for",
+          "against"
+        ],
+        "collocations": [
+          "building lobby",
+          "elevator lobby",
+          "reception lobby",
+          "lobby lawmakers"
+        ],
+        "tip": "Trong TOEIC, 'lobby' chủ yếu mang nghĩa là 'sảnh chờ tầng trệt của tòa nhà/khách sạn' (meet in the lobby)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "lobby",
+          "example": "The chamber of commerce continues to lobby for lower corporate tax rates.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "lobbyist",
+          "example": "An industry lobbyist met with the committee to discuss the proposed trade bill.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The trade association has actively _____ lawmakers to reduce import tariffs on raw materials.",
+        "answer": "lobbied",
+        "base_word": "lobby",
+        "pos_hint": "động từ chia quá khứ phân từ V3/ed (hiện tại hoàn thành)",
+        "vi": "Hiệp hội thương mại đã tích cực vận động các nhà lập pháp giảm thuế nhập khẩu đối với nguyên liệu thô."
+      }
+    },
+    {
+      "id": 9,
+      "word": "move up",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to advance, improve position",
+      "definition_vi": "thăng tiến (trong công việc); đẩy lịch sớm lên",
+      "examples": [
+        {
+          "en": "As the employee moved up the corporate ladder, she never forgot where she started.",
+          "vi": "Khi người nhân viên đó thăng tiến trên nấc thang sự nghiệp, cô ấy không bao giờ quên nơi mình đã bắt đầu."
+        },
+        {
+          "en": "In order to move up in the company, employees had to demonstrate their loyalty.",
+          "vi": "Để được thăng tiến trong công ty, nhân viên phải chứng minh được lòng trung thành của mình."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "move up the corporate ladder",
+        "move up in the company",
+        "move up a meeting",
+        "move up the ranks"
+      ],
+      "usage": {
+        "structures": [
+          "move up in + the company/world (thăng tiến trong công ty/xã hội)",
+          "move up + a date/meeting/deadline (đẩy lịch họp/hạn chót sớm lên)"
+        ],
+        "prepositions": [
+          "in",
+          "to",
+          "from"
+        ],
+        "collocations": [
+          "move up to management",
+          "move up the schedule",
+          "opportunity to move up",
+          "move up quickly"
+        ],
+        "tip": "Lưu ý 2 nghĩa vàng trong TOEIC: (1) thăng chức (= advance/be promoted) và (2) dời lịch sớm hơn dự kiến (move up the meeting from Friday to Wednesday)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "move",
+          "example": "The accounting department will move to the fifth floor next Monday.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "movement",
+          "example": "Sensors in the warehouse detect any movement after business hours.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "movable",
+          "example": "The conference room features movable partitions to accommodate groups of various sizes.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Because the director has an overseas flight on Friday, the budget review meeting has been _____ up to Wednesday morning.",
+        "answer": "moved",
+        "base_word": "move up",
+        "pos_hint": "động từ chia quá khứ phân từ V3/ed (bị động)",
+        "vi": "Vì giám đốc có chuyến bay ra nước ngoài vào thứ Sáu, cuộc họp rà soát ngân sách đã được đẩy sớm lên sáng thứ Tư."
+      }
+    },
+    {
+      "id": 10,
+      "word": "open to",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "receptive to; vulnerable",
+      "definition_vi": "cởi mở đón nhận (ý kiến, đề xuất); dành cho (đối tượng nào); dễ hứng chịu (chỉ trích)",
+      "examples": [
+        {
+          "en": "What I valued most in my previous supervisor was that she was always open to ideas and suggestions.",
+          "vi": "Điều tôi trân trọng nhất ở người giám sát cũ là bà ấy luôn cởi mở đón nhận các ý tưởng và đề xuất."
+        },
+        {
+          "en": "Since the junior executive was still on probation, he was open to much scrutiny and criticism.",
+          "vi": "Vì vị quản lý cấp dưới vẫn đang trong thời gian thử việc, anh ấy dễ bị soi xét kỹ lưỡng và chỉ trích."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "open to suggestions",
+        "open to the public",
+        "open to interpretation",
+        "open to negotiation"
+      ],
+      "usage": {
+        "structures": [
+          "be open to + N (cởi mở đón nhận ý tưởng/đề xuất/đàm phán)",
+          "be open to + [group of people] (mở cửa dành cho đối tượng nào)"
+        ],
+        "prepositions": [
+          "to"
+        ],
+        "collocations": [
+          "open to new ideas",
+          "open to criticism",
+          "open to all employees",
+          "remain open to"
+        ],
+        "tip": "Rất hay gặp trong 2 ngữ cảnh: 'open to suggestions/negotiation' (sẵn sàng đón nhận đề xuất/thương lượng) và 'open to the public/members' (mở cửa cho công chúng/hội viên)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "open",
+          "example": "The retail chain plans to open five new stores in the metropolitan area.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "openness",
+          "example": "The CEO's openness to employee feedback helped improve workplace morale.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "openly",
+          "example": "Team members are encouraged to discuss project challenges openly during weekly meetings.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Management encouraged staff to speak _____ about ways to improve workflow between departments.",
+        "answer": "openly",
+        "base_word": "open to",
+        "pos_hint": "trạng từ (họ từ open)",
+        "vi": "Ban quản lý khuyến khích nhân viên phát biểu một cách cởi mở về các cách cải thiện quy trình làm việc giữa các phòng ban."
+      }
+    },
+    {
+      "id": 11,
+      "word": "opt",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to choose, to decide on",
+      "definition_vi": "lựa chọn, quyết định chọn",
+      "examples": [
+        {
+          "en": "The operations manager opted for the less expensive office design.",
+          "vi": "Giám đốc vận hành đã chọn mẫu thiết kế văn phòng ít tốn kém hơn."
+        },
+        {
+          "en": "If Mary opts to join that department, you will be working together.",
+          "vi": "Nếu Mary quyết định chọn gia nhập bộ phận đó, hai bạn sẽ làm việc cùng nhau."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "opt",
+          "example": "When we moved offices, I opted for the one without a window."
+        },
+        {
+          "pos": "noun",
+          "word": "option",
+          "example": "Presented with several options, we chose the one that required the least amount of effort."
+        },
+        {
+          "pos": "adjective",
+          "word": "optional",
+          "example": "Attendance at tomorrow&#x27;s meeting is optional for the people working in this department."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "opt for",
+        "opt to do",
+        "opt out of",
+        "opt in"
+      ],
+      "usage": {
+        "structures": [
+          "opt for + N (lựa chọn cái gì)",
+          "opt + to V (lựa chọn làm gì)",
+          "opt out of + N (chọn không tham gia / rút khỏi cái gì)"
+        ],
+        "prepositions": [
+          "for",
+          "out of",
+          "in",
+          "to"
+        ],
+        "collocations": [
+          "opt for early retirement",
+          "opt for electronic billing",
+          "optional attendance",
+          "viable option"
+        ],
+        "tip": "Nhớ quy tắc giới từ của 'opt': 'opt FOR + danh từ' nhưng 'opt TO + động từ nguyên mẫu', và 'opt OUT OF' (từ chối tham gia)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "optionally",
+          "example": "Conference attendees may optionally register for the evening networking banquet.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Participation in the weekend leadership workshop is completely _____ for junior staff members.",
+        "answer": "optional",
+        "base_word": "opt",
+        "pos_hint": "tính từ",
+        "vi": "Việc tham gia hội thảo kỹ năng lãnh đạo vào cuối tuần là hoàn toàn tự chọn (không bắt buộc) đối với các nhân viên cấp dưới."
+      }
+    },
+    {
+      "id": 12,
+      "word": "scrutiny",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "close, careful examination",
+      "definition_vi": "sự xem xét kỹ lưỡng, sự giám sát/kiểm tra chặt chẽ",
+      "examples": [
+        {
+          "en": "After a great deal of scrutiny, the manager decided that the employee's work had improved considerably.",
+          "vi": "Sau khi xem xét rất kỹ lưỡng, người quản lý kết luận rằng công việc của nhân viên đó đã tiến bộ đáng kể."
+        },
+        {
+          "en": "Jim left his old job because he found it difficult to work under the close scrutiny of his boss.",
+          "vi": "Jim đã rời bỏ công việc cũ vì anh thấy khó làm việc dưới sự giám sát săm soi quá mức của sếp."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "scrutinize",
+          "example": "The auditor carefully scrutinized the financial records."
+        },
+        {
+          "pos": "noun",
+          "word": "scrutiny",
+          "example": "Employees under constant scrutiny tend to perform worse than those employees who have more freedom."
+        },
+        {
+          "pos": "adjective",
+          "word": "inscrutable",
+          "example": "You can never tell what she is thinking, since her facial expressions are inscrutable."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "close scrutiny",
+        "under scrutiny",
+        "careful scrutiny",
+        "public scrutiny"
+      ],
+      "usage": {
+        "structures": [
+          "come under (close) scrutiny (bị đưa vào tầm ngắm/xem xét kỹ lưỡng)",
+          "stand up to scrutiny (vượt qua được sự kiểm tra khắt khe)"
+        ],
+        "prepositions": [
+          "under",
+          "of",
+          "by"
+        ],
+        "collocations": [
+          "intense scrutiny",
+          "regulatory scrutiny",
+          "scrutinize documents",
+          "bear scrutiny"
+        ],
+        "tip": "Danh từ không đếm được 'scrutiny' thường đi sau giới từ 'under' (under close scrutiny: dưới sự giám sát/kiểm tra chặt chẽ)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "inscrutably",
+          "example": "The chief negotiator smiled inscrutably without revealing whether he would accept the offer.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Customs officials _____ every shipping manifest to ensure full compliance with import regulations.",
+        "answer": "scrutinize",
+        "base_word": "scrutiny",
+        "pos_hint": "động từ",
+        "vi": "Các nhân viên hải quan kiểm tra kỹ lưỡng mọi bản kê khai hàng hóa để đảm bảo tuân thủ đầy đủ các quy định nhập khẩu."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "The layout of any office has an important influence on the atmosphere and operations in the company. The shipping department most likely will not be located next to the customer service department. The noise would be too (1) ____. Likewise, locating a kitchen (2) ____ to the (3) ____ would be (4) ____ for office visitors and clients. The marketing department is often situated close to the sales department due to their necessary (5) ____. Employee productivity may be (6) ____ or improved by the arrangement of workers and departments. Employees vie for corner offices as they (7) ____ the corporate ladder. They want to be accessible to top management, but not so close that everything that they do is (8) ____. At the same time, many companies are (9) ____ for open work spaces versus traditional offices. Open spaces are more (10) ____ to team projects, where employees interact freely. However, some employees feel that such an environment makes it difficult to (11) ____. Employees know under which conditions they work the best. If employers are willing to listen and are (12) ____ suggestions, they can take advantage of office space and help employees to realize their full potential.",
+    "word_bank": [
+      "adjacent",
+      "conducive",
+      "inconsiderate",
+      "open to",
+      "collaboration",
+      "disruptive",
+      "lobby",
+      "opting",
+      "concentrate",
+      "hampered",
+      "move up",
+      "scrutinized"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "collaborate",
+        "example": "If we collaborate on this project, you will be sure to receive credit.",
+        "pos": "verb"
+      },
+      {
+        "word": "collaboration",
+        "example": "Collaboration often brings about results that no one could have predicted.",
+        "pos": ""
+      },
+      {
+        "word": "collaborative",
+        "example": "The new project is a collaborative effort among several departments.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "concentrate",
+        "example": "Some people find it difficult to concentrate when there is a lot of noise and activity around them.",
+        "pos": "verb"
+      },
+      {
+        "word": "concentration",
+        "example": "The concentration of a large percentage of the company&#x27;s funds in just a few areas left several departments underfunded.",
+        "pos": ""
+      },
+      {
+        "word": "concentrated",
+        "example": "With some concentrated effort, we should be able to finish this work by the deadline.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "disrupt",
+        "example": "Try not to disrupt the meeting being held in the sales department.",
+        "pos": ""
+      },
+      {
+        "word": "disruption",
+        "example": "I&#x27;m sorry for the disruption, but this phone call is very important.",
+        "pos": "noun"
+      },
+      {
+        "word": "disruptive",
+        "example": "Having to temporarily move the offices proved to be very disruptive and sales decreased during that quarter.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "inconsiderateness",
+        "example": "The inconsiderateness of many of the customers caused several employees to quit their jobs.",
+        "pos": "noun"
+      },
+      {
+        "word": "inconsiderate",
+        "example": "Would it be inconsiderate to ask to use your office while you are away?",
+        "pos": "adjective"
+      },
+      {
+        "word": "inconsiderately",
+        "example": "John inconsiderately looked through his coworker&#x27;s mail before putting it on his desk.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "opt",
+        "example": "When we moved offices, I opted for the one without a window.",
+        "pos": "verb"
+      },
+      {
+        "word": "option",
+        "example": "Presented with several options, we chose the one that required the least amount of effort.",
+        "pos": "noun"
+      },
+      {
+        "word": "optional",
+        "example": "Attendance at tomorrow&#x27;s meeting is optional for the people working in this department.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "scrutinize",
+        "example": "The auditor carefully scrutinized the financial records.",
+        "pos": "verb"
+      },
+      {
+        "word": "scrutiny",
+        "example": "Employees under constant scrutiny tend to perform worse than those employees who have more freedom.",
+        "pos": "noun"
+      },
+      {
+        "word": "inscrutable",
+        "example": "You can never tell what she is thinking, since her facial expressions are inscrutable.",
+        "pos": "adjective"
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "The data entry clerk is so accustomed to working by herself that I really doubt if she is capable of ____ on this project.",
+        "options": [
+          {
+            "label": "A",
+            "text": "collaborated"
+          },
+          {
+            "label": "B",
+            "text": "collaborating"
+          },
+          {
+            "label": "C",
+            "text": "collaborator"
+          },
+          {
+            "label": "D",
+            "text": "collaborates"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "Sue always ____ so hard on her work that she forgets where she is.",
+        "options": [
+          {
+            "label": "A",
+            "text": "concentrated"
+          },
+          {
+            "label": "B",
+            "text": "concentrates"
+          },
+          {
+            "label": "C",
+            "text": "concentration"
+          },
+          {
+            "label": "D",
+            "text": "concentrating"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "The constant flow of traffic by the researcher's desk proved to be very ____",
+        "options": [
+          {
+            "label": "A",
+            "text": "disruptive"
+          },
+          {
+            "label": "B",
+            "text": "disrupts"
+          },
+          {
+            "label": "C",
+            "text": "disruption"
+          },
+          {
+            "label": "D",
+            "text": "disrupted"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "The employee lounge is for everyone's enjoyment so please don't use it ____.",
+        "options": [
+          {
+            "label": "A",
+            "text": "inconsiderate"
+          },
+          {
+            "label": "B",
+            "text": "inconsiderateness"
+          },
+          {
+            "label": "C",
+            "text": "inconsiderately"
+          },
+          {
+            "label": "D",
+            "text": "inconsideration"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "Some people always ____ for the easy way out.",
+        "options": [
+          {
+            "label": "A",
+            "text": "opt"
+          },
+          {
+            "label": "B",
+            "text": "option"
+          },
+          {
+            "label": "C",
+            "text": "optional"
+          },
+          {
+            "label": "D",
+            "text": "options"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "After close ____ of the options, the managers chose an advertising company to do all the publicity for the new campaign.",
+        "options": [
+          {
+            "label": "A",
+            "text": "scrutinize"
+          },
+          {
+            "label": "B",
+            "text": "scrutinizing"
+          },
+          {
+            "label": "C",
+            "text": "scrutiny"
+          },
+          {
+            "label": "D",
+            "text": "scrutable"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Notice In order to maintain a professional office environment that is [16] to work, all staff members are asked to observe the following guidelines. \\- Be [17] of your coworkers. When using an open work area, do not speak in loud voices or turn on radios. \\- Our clients are important. Do not disrupt your coworkers when they are meeting with clients. \\- Remember that the lobby is the first place our clients see when they enter the office. Please [18] by doing your best to keep this area clean and neat.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "optional"
+            },
+            {
+              "label": "B",
+              "text": "conducive"
+            },
+            {
+              "label": "C",
+              "text": "inscrutable"
+            },
+            {
+              "label": "D",
+              "text": "collaborative"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "consideration"
+            },
+            {
+              "label": "B",
+              "text": "considerably"
+            },
+            {
+              "label": "C",
+              "text": "considerate"
+            },
+            {
+              "label": "D",
+              "text": "consider"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "can cooperate"
+            },
+            {
+              "label": "B",
+              "text": "to cooperate"
+            },
+            {
+              "label": "C",
+              "text": "cooperating"
+            },
+            {
+              "label": "D",
+              "text": "cooperate"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following memo. To: All office staff From: P. Windermere, Office Manager Re: Parking situation As you may be aware, starting next week, the parking garage will be closed for repairs to the upper level due to damage caused by the heavy rains last month. There will be no parking allowed on any level of the garage while the repairs are taking place, as parked cars may hamper the work. Cars parked in the garage will be towed at the owner's expense. While the garage is closed, you may opt to park on the street or in the lot adjacent to the building. Remember that it is a private lot and a fee will be charged. I realize that the parking options will be limited, and I am open to any suggestions for solutions to this parking situation that any of you may have. Unfortunately, the repair work will take more than a few weeks. We cannot expect the garage to open again until two months from now. In the meantime, I thank you for your cooperation. 22. The word hamper in line 6 is closest in meaning to (A) allow (B) interfere (C) encourage (D) contribute",
+        "questions": [
+          {
+            "number": 19,
+            "question": "Why will the garage be closed?",
+            "options": [
+              {
+                "label": "A",
+                "text": "It needs repairs."
+              },
+              {
+                "label": "B",
+                "text": "The fees are too high."
+              },
+              {
+                "label": "C",
+                "text": "Its parking options are limited."
+              },
+              {
+                "label": "D",
+                "text": "Street parking is better."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "What will happen to cars that are parked in the garage?",
+            "options": [
+              {
+                "label": "A",
+                "text": "They will be charged a fee."
+              },
+              {
+                "label": "B",
+                "text": "They will be repaired."
+              },
+              {
+                "label": "C",
+                "text": "They will be towed."
+              },
+              {
+                "label": "D",
+                "text": "They will be used for work."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "When will the garage reopen?",
+            "options": [
+              {
+                "label": "A",
+                "text": "In a week."
+              },
+              {
+                "label": "B",
+                "text": "In just a few weeks."
+              },
+              {
+                "label": "C",
+                "text": "In a month."
+              },
+              {
+                "label": "D",
+                "text": "In two months."
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word adjacent in line 9 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "distant"
+              },
+              {
+                "label": "B",
+                "text": "underneath"
+              },
+              {
+                "label": "C",
+                "text": "next to"
+              },
+              {
+                "label": "D",
+                "text": "across from"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What does the man think of the current lobby?",
+        "options": [
+          {
+            "label": "A",
+            "text": "People conduct a lot of conversations there."
+          },
+          {
+            "label": "B",
+            "text": "It's quite pleasant."
+          },
+          {
+            "label": "C",
+            "text": "More people should use it."
+          },
+          {
+            "label": "D",
+            "text": "It's not a good place for conversations."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What might be disruptive to the business?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Loud conversations in the lobby."
+          },
+          {
+            "label": "B",
+            "text": "Remodeling work."
+          },
+          {
+            "label": "C",
+            "text": "The need to scrutinize plans."
+          },
+          {
+            "label": "D",
+            "text": "A heavy workload."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "When will the new lobby be finished?",
+        "options": [
+          {
+            "label": "A",
+            "text": "This afternoon."
+          },
+          {
+            "label": "B",
+            "text": "In two weeks."
+          },
+          {
+            "label": "C",
+            "text": "Next month."
+          },
+          {
+            "label": "D",
+            "text": "In four months."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "What is this talk about?",
+        "options": [
+          {
+            "label": "A",
+            "text": "How to encourage collaboration."
+          },
+          {
+            "label": "B",
+            "text": "How to increase productivity."
+          },
+          {
+            "label": "C",
+            "text": "How to concentrate."
+          },
+          {
+            "label": "D",
+            "text": "How to design an office."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What is the problem with a large, open office?",
+        "options": [
+          {
+            "label": "A",
+            "text": "It isn't conducive to collaboration."
+          },
+          {
+            "label": "B",
+            "text": "It doesn't include options."
+          },
+          {
+            "label": "C",
+            "text": "Work is easily disrupted."
+          },
+          {
+            "label": "D",
+            "text": "It isn't adjacent to a lobby."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "Why is it important to have a large work room?",
+        "options": [
+          {
+            "label": "A",
+            "text": "To allow staff members to work together."
+          },
+          {
+            "label": "B",
+            "text": "To maintain a high level of activity."
+          },
+          {
+            "label": "C",
+            "text": "To increase concentration."
+          },
+          {
+            "label": "D",
+            "text": "To have a more attractive design."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. What does the man think of the current lobby? (A) People conduct a lot of conversations there. (B) It's quite pleasant. (C) More people should use it. (D) It's not a good place for conversations. 5. What might be disruptive to the business? (A) Loud conversations in the lobby. (B) Remodeling work. (C) The need to scrutinize plans. (D) A heavy workload. 6. When will the new lobby be finished? (A) This afternoon. (B) In two weeks. (C) Next month. (D) In four months. Listen to the talk. Then read each question and choose the best answer. 7. What is this talk about? (A) How to encourage collaboration. (B) How to increase productivity. (C) How to concentrate. (D) How to design an office. 8. What is the problem with a large, open office? (A) It isn't conducive to collaboration. (B) It doesn't include options. (C) Work is easily disrupted. (D) It isn't adjacent to a lobby. 9. Why is it important to have a large work room? (A) To allow staff members to work together. (B) To maintain a high level of activity. (C) To increase concentration. (D) To have a more attractive design.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What does the man think of the current lobby?",
+        "options": [
+          {
+            "label": "A",
+            "text": "People conduct a lot of conversations there."
+          },
+          {
+            "label": "B",
+            "text": "It's quite pleasant."
+          },
+          {
+            "label": "C",
+            "text": "More people should use it."
+          },
+          {
+            "label": "D",
+            "text": "It's not a good place for conversations."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What might be disruptive to the business?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Loud conversations in the lobby."
+          },
+          {
+            "label": "B",
+            "text": "Remodeling work."
+          },
+          {
+            "label": "C",
+            "text": "The need to scrutinize plans."
+          },
+          {
+            "label": "D",
+            "text": "A heavy workload."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "When will the new lobby be finished?",
+        "options": [
+          {
+            "label": "A",
+            "text": "This afternoon."
+          },
+          {
+            "label": "B",
+            "text": "In two weeks."
+          },
+          {
+            "label": "C",
+            "text": "Next month."
+          },
+          {
+            "label": "D",
+            "text": "In four months."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "What is this talk about?",
+        "options": [
+          {
+            "label": "A",
+            "text": "How to encourage collaboration."
+          },
+          {
+            "label": "B",
+            "text": "How to increase productivity."
+          },
+          {
+            "label": "C",
+            "text": "How to concentrate."
+          },
+          {
+            "label": "D",
+            "text": "How to design an office."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What is the problem with a large, open office?",
+        "options": [
+          {
+            "label": "A",
+            "text": "It isn't conducive to collaboration."
+          },
+          {
+            "label": "B",
+            "text": "It doesn't include options."
+          },
+          {
+            "label": "C",
+            "text": "Work is easily disrupted."
+          },
+          {
+            "label": "D",
+            "text": "It isn't adjacent to a lobby."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "Why is it important to have a large work room?",
+        "options": [
+          {
+            "label": "A",
+            "text": "To allow staff members to work together."
+          },
+          {
+            "label": "B",
+            "text": "To maintain a high level of activity."
+          },
+          {
+            "label": "C",
+            "text": "To increase concentration."
+          },
+          {
+            "label": "D",
+            "text": "To have a more attractive design."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "Lesson\n\n26\n\n## WORDS\n\nTO I \\`RN\n\n&amp;cent\n\n“7”\n\n( ... )\n\nCC\"\n\ndist\\_\n\nham\n\n|k y|\n\nmove up\n\n# Property and Departments\n\nc 1 to\n\nStudy the following definitions and examples.\n\n1. adjacent adj., next to\n\na. My office is adjacent to the receptionist area on the third floor.\n\nb. The office manager found it very efficient to have the copier adjacent to the mail room.\n\n2. collaboration n., the act of working with someone\n\na. The manager had never seen such effective collaboration between two groups.\n\nb. We believe that it was our collaboration that enabled us to achieve such favorable results.\n\n3. concentrate v., to focus; to think about\n\na. In his quiet, corner office, the manager could finally concentrate and finish his work.\n\nb. We should concentrate our efforts on the last quarter of the year.\n\n4. conducive adj., contributing to; leading to a. The new office arrangement is much more conducive to work than the dark, depressing space the company had before.\n\nb. Arranging chairs so that participants can see each other easily is conducive to open communication.\n\n5. disruption n., interruption; disturbance\n\na. If there are no disruptions, the office renovations will be finished this week.\n\nb. The strike caused a disruption in production at the factory.\n\n6. hamper v., to impede or interfere\n\na. When the weight of the freezing rain broke the telephone lines, the telemarketers' jobs were seriously hampered.\n\nb. The lack of supplies hampered our ability to finish on schedule.\n\n7. inconsiderately adv., rudely; impolitely\n\na. The manager inconsiderately scheduled the meeting for late Friday afternoon.\n\nb. Mr. Peterson inconsiderately disrupted the meeting by asking a lot of irrelevant questions.\n\n8. lobby n., an anteroom, foyer, or waiting room\n\na. The salesperson waited in the busy lobby for the buyer to see him.\n\nb. The reception area was moved from the lobby of the building to the third floor.\n\n9. move up v., to advance, improve position\n\na. As the employee moved up the corporate ladder, she never forgot where she started.\n\nb. In order to move up in the company, employees had to demonstrate their loyalty.\n\n10. open to adj., receptive to; vulnerable\n\na. What I valued most in my previous supervisor was that she was always open to ideas and suggestions.\n\nb. Since the junior executive was still on probation, he was open to much scrutiny and criticism.\n\n11. opt v., to choose, to decide on\n\na. The operations manager opted for the less expensive office design.\n\nb. If Mary opts to join that department, you will be working together.\n\n12. scrutiny n., close, careful examination\n\na. After a great deal of scrutiny, the manager decided that the employee's work had improved considerably.\n\nb. Jim left his old job because he found it difficult to work under the close scrutiny of his boss.",
+    "words_in_context": "## WORDS IN CONTEXT\n\n## Read the following passage and write the words in the blanks below.\n\n| adjacent | conducive | inconsiderate | open to |\n| --- | --- | --- | --- |\n| collaboration | disruptive | lobby | opting |\n| concentrate | hampered | move up | scrutinized |\n\nThe layout of any office has an important influence on the atmosphere and operations in the company. The shipping department most likely will not be located next to the customer service department. The noise would be too (1) \\_\\_\\_\\_. Likewise, locating a kitchen (2) \\_\\_\\_\\_ to the (3) \\_\\_\\_\\_ would be (4) \\_\\_\\_\\_ for office visitors and clients. The marketing department is often situated close to the sales department due to their necessary (5) \\_\\_\\_\\_.\n\nEmployee productivity may be (6) \\_\\_\\_\\_ or improved by the arrangement of workers and departments. Employees vie for corner offices as they (7) \\_\\_\\_\\_ the corporate ladder. They want to be accessible to top management, but not so close that everything that they do is (8) \\_\\_\\_\\_. At the same time, many companies are (9) \\_\\_\\_\\_ for open work spaces versus traditional offices. Open spaces are more (10) \\_\\_\\_\\_ to team projects, where employees interact freely. However, some employees feel that such an environment makes it difficult to (11) \\_\\_\\_\\_. Employees know under which conditions they work the best. If employers are willing to listen and are (12) \\_\\_\\_\\_ suggestions, they can take advantage of office space and help employees to realize their full potential.",
+    "word_families": "## WORD FAMILIES\n\n<table><tr><td>verb</td><td>collaborate</td><td>If we collaborate on this project, you will be sure to receive credit.</td></tr><tr><td>nou..</td><td>collaboration</td><td>Collaboration often brings about results that no one could have predicted.</td></tr><tr><td>adjecti</td><td>collaborative</td><td>The new project is a collaborative effort among several departments.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>concentrate</td><td>Some people find it difficult to concentrate when there is a lot of noise and activity around them.</td></tr><tr><td>nou..</td><td>concentration</td><td>The concentration of a large percentage of the company&#x27;s funds in just a few areas left several departments underfunded.</td></tr><tr><td>adje.</td><td>concentrated</td><td>With some concentrated effort, we should be able to finish this work by the deadline.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>b</td><td>disrupt</td><td>Try not to disrupt the meeting being held in the sales department.</td></tr><tr><td>noun</td><td>disruption</td><td>I&#x27;m sorry for the disruption, but this phone call is very important.</td></tr><tr><td>adjective</td><td>disruptive</td><td>Having to temporarily move the offices proved to be very disruptive and sales decreased during that quarter.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>noun</td><td>inconsiderateness</td><td>The inconsiderateness of many of the customers caused several employees to quit their jobs.</td></tr><tr><td>adjective</td><td>inconsiderate</td><td>Would it be inconsiderate to ask to use your office while you are away?</td></tr><tr><td>ad..b</td><td>inconsiderately</td><td>John inconsiderately looked through his coworker&#x27;s mail before putting it on his desk.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>opt</td><td>When we moved offices, I opted for the one without a window.</td></tr><tr><td>noun</td><td>option</td><td>Presented with several options, we chose the one that required the least amount of effort.</td></tr><tr><td>adjective</td><td>optional</td><td>Attendance at tomorrow&#x27;s meeting is optional for the people working in this department.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>scrutinize</td><td>The auditor carefully scrutinized the financial records.</td></tr><tr><td>noun</td><td>scrutiny</td><td>Employees under constant scrutiny tend to perform worse than those employees who have more freedom.</td></tr><tr><td>adjective</td><td>inscrutable</td><td>You can never tell what she is thinking, since her facial expressions are inscrutable.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. What does the man think of the current lobby?\n(A) People conduct a lot of conversations there.\n(B) It's quite pleasant.\n(C) More people should use it.\n(D) It's not a good place for conversations.\n\n5. What might be disruptive to the business?\n(A) Loud conversations in the lobby.\n(B) Remodeling work.\n(C) The need to scrutinize plans.\n(D) A heavy workload.\n\n6. When will the new lobby be finished?\n(A) This afternoon.\n(B) In two weeks.\n(C) Next month.\n(D) In four months.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. What is this talk about?\n(A) How to encourage collaboration.\n(B) How to increase productivity.\n(C) How to concentrate.\n(D) How to design an office.\n\n8. What is the problem with a large, open office?\n(A) It isn't conducive to collaboration.\n(B) It doesn't include options.\n(C) Work is easily disrupted.\n(D) It isn't adjacent to a lobby.\n\n9. Why is it important to have a large work room?\n(A) To allow staff members to work together.\n(B) To maintain a high level of activity.\n(C) To increase concentration.\n(D) To have a more attractive design.",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. The data entry clerk is so accustomed to working by herself that I really doubt if she is capable of \\_\\_\\_\\_ on this project.\n(A) collaborated (C) collaborator\n(B) collaborating (D) collaborates\n\n11. Sue always \\_\\_\\_\\_ so hard on her work that she forgets where she is.\n(A) concentrated (C) concentration\n(B) concentrates (D) concentrating\n\n12. The constant flow of traffic by the researcher's desk proved to be very \\_\\_\\_\\_\n(A) disruptive (C) disruption\n(B) disrupts (D) disrupted\n\n13. The employee lounge is for everyone's enjoyment so please don't use it \\_\\_\\_\\_.\n(A) inconsiderate (C) inconsiderately\n(B) inconsiderateness (D) inconsideration\n\n14. Some people always \\_\\_\\_\\_ for the easy way out.\n(A) opt (C) optional\n(B) option (D) options\n\n15. After close \\_\\_\\_\\_ of the options, the managers chose an advertising company to do all the publicity for the new campaign.\n(A) scrutinize (C) scrutiny\n(B) scrutinizing (D) scrutable\n\n## Part 6 Text Completion\n\n## Notice\n\nIn order to maintain a professional office environment that is \\_16\\_ to work, all staff members are asked to observe the following guidelines.\n\n\\- Be \\_17\\_ of your coworkers. When using an open work area, do not speak in loud voices or turn on radios.\n\n\\- Our clients are important. Do not disrupt your coworkers when they are meeting with clients.\n\n\\- Remember that the lobby is the first place our clients see when they enter the office. Please \\_18\\_ by doing your best to keep this area clean and neat.\n\n16. (A) optional  \n(B) conducive  \n(C) inscrutable  \n(D) collaborative\n\n17. (A) consideration (B) considerably (C) considerate (D) consider\n\n18. (A) can cooperate (B) to cooperate (C) cooperating (D) cooperate",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following memo.\n\n## Memo\n\nTo: All office staff\n\nFrom: P. Windermere, Office Manager\n\nRe: Parking situation\n\nAs you may be aware, starting next week, the parking garage will be closed for repairs to the upper level due to damage caused by the heavy rains last month. There will be no parking allowed on any level of the garage while the repairs are taking place, as parked cars may hamper the work. Cars parked in the garage will be towed at the owner's expense. While the garage is closed, you may opt to park on the street or in the lot adjacent to the building. Remember that it is a private lot and a fee will be charged. I realize that the parking options will be limited, and I am open to any suggestions for solutions to this parking situation that any of you may have. Unfortunately, the repair work will take more than a few weeks. We cannot expect the garage to open again until two months from now. In the meantime, I thank you for your cooperation.\n\n19. Why will the garage be closed?\n(A) It needs repairs.\n(B) The fees are too high.\n(C) Its parking options are limited.\n(D) Street parking is better.\n\n20. What will happen to cars that are parked in the garage?\n(A) They will be charged a fee.\n(B) They will be repaired.\n(C) They will be towed.\n(D) They will be used for work.\n\n21. When will the garage reopen?\n(A) In a week.\n(B) In just a few weeks.\n(C) In a month.\n(D) In two months.\n\n22. The word hamper in line 6 is closest in meaning to (A) allow (B) interfere (C) encourage (D) contribute\n\n23. The word adjacent in line 9 is closest in meaning to  \n(A) distant  \n(B) underneath  \n(C) next to  \n(D) across from"
+  },
+  "needs_review": true
+}

@@ -1,0 +1,32 @@
+# --- Context Window Guard -------------------------------------------------
+# NEVER read the source PDF or its raw extraction dump into an LLM context.
+600 est_.pdf
+extracted_data/
+
+# --- Node / build ---------------------------------------------------------
+node_modules/
+dist/
+.npm-cache/
+*.local
+.vite/
+
+# --- Python / OCR toolchain ----------------------------------------------
+# Nếu bạn tự cài MinerU hoặc công cụ OCR khác, các thư mục dưới đây rất nặng
+# (nhiều GB) nên không commit.
+.mineru/
+.mineru-home/
+.uv-cache/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# --- Local secrets / user data -------------------------------------------
+.env
+.env.*
+!.env.example
+
+# --- OS -------------------------------------------------------------------
+Thumbs.db
+desktop.ini
+.DS_Store

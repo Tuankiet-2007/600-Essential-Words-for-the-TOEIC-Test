@@ -1,0 +1,1595 @@
+{
+  "lesson_id": 38,
+  "title": "Trains",
+  "theme_name": "Travel",
+  "audio_track": "track_38.mp3",
+  "part1_photo": "part1_photos/lesson_38.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "comprehensive",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "covering broadly; inclusive",
+      "definition_vi": "toàn diện, bao quát, đầy đủ mọi khía cạnh",
+      "examples": [
+        {
+          "en": "The conductor has a comprehensive knowledge of rail systems from all over the world.",
+          "vi": "Tập sách hướng dẫn du lịch cung cấp một cái nhìn toàn diện về lịch sử và văn hóa của hòn đảo."
+        },
+        {
+          "en": "Our travel agent gave us a comprehensive travel package, including rail passes.",
+          "vi": "Gói bảo hiểm du lịch toàn diện bao gồm cả chi phí y tế và đền bù hủy chuyến bay."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "comprehensiveness",
+          "example": "Due to the comprehensiveness of the train system, the complete timetable was a thick document."
+        },
+        {
+          "pos": "",
+          "word": "comprehensive",
+          "example": "Due to the comprehensive reach of the rail system, the train can take you to every major city and many smaller ones."
+        },
+        {
+          "pos": "",
+          "word": "comprehensively",
+          "example": "The surveyors comprehensively studied the terrain before planning the site for the new train tracks."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "comprehensive guide",
+        "comprehensive insurance",
+        "comprehensive review",
+        "comprehensive list"
+      ],
+      "usage": {
+        "structures": [
+          "comprehensive guide to something (hướng dẫn toàn diện về cái gì)",
+          "comprehensive insurance coverage (bảo hiểm toàn diện)"
+        ],
+        "prepositions": [
+          "of",
+          "to"
+        ],
+        "collocations": [
+          "comprehensive coverage",
+          "comprehensive training",
+          "comprehensive plan",
+          "comprehensive assessment"
+        ],
+        "tip": "'Comprehensive' (toàn diện, đầy đủ) hay đi với các danh từ như 'insurance', 'guide', 'report', 'study'. Đừng nhầm với 'comprehensible' (dễ hiểu)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "comprehensively",
+          "example": "The safety procedures were comprehensively explained to all new flight attendants.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "comprehensiveness",
+          "example": "The comprehensiveness of the training manual impressed the senior managers.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "We purchased a _____ travel insurance policy that protects against trip cancellations and medical emergencies.",
+        "answer": "comprehensive",
+        "base_word": "comprehensive",
+        "pos_hint": "tính từ",
+        "vi": "Chúng tôi đã mua một gói bảo hiểm du lịch toàn diện bảo vệ khỏi việc hủy chuyến và các tình huống y tế khẩn cấp."
+      }
+    },
+    {
+      "id": 2,
+      "word": "deluxe",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "noticeably luxurious",
+      "definition_vi": "hạng sang, cao cấp, xa xỉ",
+      "examples": [
+        {
+          "en": "My parents decided to splurge on deluxe accommodations for their trip.",
+          "vi": "Họ đã đặt một phòng cao cấp nhìn ra đại dương cho kỳ nghỉ kỷ niệm ngày cưới của mình."
+        },
+        {
+          "en": "The train station is not near any of the deluxe hotels, so we will have to take a taxi.",
+          "vi": "Gói tour du lịch hạng sang bao gồm tài xế riêng và hướng dẫn viên cá nhân suốt chuyến đi."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "deluxe room",
+        "deluxe suite",
+        "deluxe package",
+        "deluxe hotel"
+      ],
+      "usage": {
+        "structures": [
+          "deluxe room/suite (phòng/phòng suite hạng sang)",
+          "deluxe edition (phiên bản cao cấp)"
+        ],
+        "prepositions": [
+          "at",
+          "with"
+        ],
+        "collocations": [
+          "deluxe accommodation",
+          "deluxe edition",
+          "deluxe tour",
+          "deluxe resort"
+        ],
+        "tip": "Từ 'deluxe' phát âm là /dɪˈlʌks/ hoặc /dɪˈlʊks/, luôn dùng trước danh từ để chỉ chất lượng cao cấp vượt trội so với tiêu chuẩn thông thường."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "luxury",
+          "example": "Guests can enjoy ultimate luxury and exceptional service at the beachfront hotel.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "luxurious",
+          "example": "The cruise ship features luxurious cabins with private balconies.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The honeymoon couple upgraded their booking to a _____ suite with a panoramic view of the coastline.",
+        "answer": "deluxe",
+        "base_word": "deluxe",
+        "pos_hint": "tính từ",
+        "vi": "Cặp đôi đi tuần trăng mật đã nâng cấp phòng đặt của mình lên một phòng suite hạng sang với tầm nhìn toàn cảnh ra bờ biển."
+      }
+    },
+    {
+      "id": 3,
+      "word": "directory",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a book or collection of information or directions",
+      "definition_vi": "danh bạ, sách chỉ dẫn, thư mục",
+      "examples": [
+        {
+          "en": "We consulted the directory to see where the train station was located.",
+          "vi": "Bạn có thể tìm số điện thoại của bộ phận dịch vụ phòng trong danh bạ dịch vụ khách sạn cạnh giường."
+        },
+        {
+          "en": "By calling directory assistance, Mr. Scannel was able to get the phone number for the train station.",
+          "vi": "Bảng chỉ dẫn của trung tâm mua sắm giúp người mua sắm dễ dàng tìm thấy các cửa hàng cụ thể."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "direct",
+          "example": "We were unfamiliar with the city, so the hotel manager directed us to the train station."
+        },
+        {
+          "pos": "noun",
+          "word": "direction",
+          "example": "The ticket agent at the train station gave us directions to the nearest restaurant."
+        },
+        {
+          "pos": "noun",
+          "word": "directory",
+          "example": "At the train station you can pick up a free directory to local restaurants, museums, and other places of interest to visitors."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "telephone directory",
+        "hotel directory",
+        "online directory",
+        "business directory"
+      ],
+      "usage": {
+        "structures": [
+          "listed in the directory (được liệt kê trong danh bạ)",
+          "check the directory (tra cứu danh bạ)"
+        ],
+        "prepositions": [
+          "in"
+        ],
+        "collocations": [
+          "staff directory",
+          "company directory",
+          "service directory",
+          "building directory"
+        ],
+        "tip": "'Directory' là danh mục hoặc danh bạ chứa thông tin liên lạc hoặc sơ đồ định vị phòng/cửa hàng."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "direct",
+          "example": "The front desk agent directed the arriving guests to the elevator.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "direction",
+          "example": "Follow the directions on the map to reach the historical monument.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Please consult the hotel services _____ on the desk for information about breakfast hours and gym access.",
+        "answer": "directory",
+        "base_word": "directory",
+        "pos_hint": "danh từ",
+        "vi": "Vui lòng tham khảo cuốn sách chỉ dẫn dịch vụ khách sạn trên bàn để biết thông tin về giờ ăn sáng và cách vào phòng tập thể dục."
+      }
+    },
+    {
+      "id": 4,
+      "word": "duration",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the time during which something lasts",
+      "definition_vi": "khoảng thời gian, thời lượng kéo dài",
+      "examples": [
+        {
+          "en": "Mother lent me her spare jacket for the duration of the trip.",
+          "vi": "Thời lượng của chuyến bay thẳng từ New York đến London là khoảng bảy giờ."
+        },
+        {
+          "en": "Despite our personal differences, my roommate and I agreed to be as pleasant as possible for the duration of the train ride.",
+          "vi": "Hành khách phải thắt dây an toàn trong suốt thời gian cất cánh và hạ cánh."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "for the duration of",
+        "flight duration",
+        "short duration",
+        "entire duration"
+      ],
+      "usage": {
+        "structures": [
+          "for the duration of something (trong suốt khoảng thời gian diễn ra cái gì)",
+          "duration of the flight/trip (thời lượng của chuyến bay/chuyến đi)"
+        ],
+        "prepositions": [
+          "of",
+          "for"
+        ],
+        "collocations": [
+          "short duration",
+          "extended duration",
+          "for the duration of the stay",
+          "average duration"
+        ],
+        "tip": "Cụm cố định cực kỳ phổ biến trong TOEIC: 'for the duration of the flight/stay/meeting' (trong suốt thời gian của...)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "durable",
+          "example": "Luggage made from durable polycarbonate can withstand rough handling.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "verb",
+          "word": "endure",
+          "example": "The passengers had to endure a lengthy delay due to a mechanical problem.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Guests are entitled to complimentary high-speed Internet for the _____ of their stay.",
+        "answer": "duration",
+        "base_word": "duration",
+        "pos_hint": "danh từ",
+        "vi": "Khách hàng được quyền sử dụng Internet tốc độ cao miễn phí trong suốt thời gian lưu trú của họ."
+      }
+    },
+    {
+      "id": 5,
+      "word": "entitle",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to allow or qualify",
+      "definition_vi": "cho quyền, trao quyền hưởng",
+      "examples": [
+        {
+          "en": "During the holiday rush, a train ticket entitled the passenger to a ride, but not necessarily a seat.",
+          "vi": "Chiếc vé hạng thương gia này cho phép bạn được vào phòng chờ VIP của sân bay."
+        },
+        {
+          "en": "The mess the train line made of Pedro's sleeping room reservations entitled him to a free upgrade to a better room.",
+          "vi": "Nhân viên làm việc hơn một năm được hưởng hai mươi ngày nghỉ phép có lương mỗi năm."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "be entitled to",
+        "entitle somebody to something",
+        "entitled to a refund",
+        "entitled to benefits"
+      ],
+      "usage": {
+        "structures": [
+          "be entitled to something / to do something (được quyền hưởng cái gì / làm gì)",
+          "entitle somebody to something (cho phép ai có quyền gì)"
+        ],
+        "prepositions": [
+          "to"
+        ],
+        "collocations": [
+          "entitled to compensation",
+          "entitled to a discount",
+          "entitle passengers to",
+          "legally entitled"
+        ],
+        "tip": "Gần như 95% trường hợp trong bài thi TOEIC xuất hiện dưới cấu trúc bị động: 'be entitled to + N/V-inf' (được quyền hưởng cái gì)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "entitlement",
+          "example": "Your annual leave entitlement increases after your second year of employment.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Membership in the airline's frequent flyer club _____ travelers to priority boarding and extra baggage allowance.",
+        "answer": "entitles",
+        "base_word": "entitle",
+        "pos_hint": "động từ (chia ngôi thứ ba số ít)",
+        "vi": "Tư cách thành viên trong câu lạc bộ khách hàng bay thường xuyên của hãng hàng không cho phép hành khách được ưu tiên lên máy bay và tăng hạn mức hành lý."
+      }
+    },
+    {
+      "id": 6,
+      "word": "fare",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the money paid for transportation",
+      "definition_vi": "tiền vé, cước phí (tàu, xe, máy bay)",
+      "examples": [
+        {
+          "en": "The train fare has increased since I rode last.",
+          "vi": "Giá vé máy bay khứ hồi bao gồm tất cả các loại thuế và phí dịch vụ sân bay."
+        },
+        {
+          "en": "Pay your fare at the ticket office and you will get a ticket to board the train.",
+          "vi": "Bạn có thể trả tiền vé xe buýt bằng tiền mặt hoặc thẻ nạp tiền điện tử."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "airfare",
+        "bus fare",
+        "train fare",
+        "standard fare",
+        "fare reduction"
+      ],
+      "usage": {
+        "structures": [
+          "pay a fare (trả tiền vé)",
+          "fare for something (cước phí cho cái gì)"
+        ],
+        "prepositions": [
+          "for"
+        ],
+        "collocations": [
+          "discount fare",
+          "full fare",
+          "one-way fare",
+          "round-trip fare"
+        ],
+        "tip": "Phân biệt 'fare' (tiền vé đi lại: bus/taxi/air fare), 'fee' (phí dịch vụ: admission/consulting fee) và 'fine' (tiền phạt vi phạm)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "fare",
+          "example": "The regional tourism sector fared reasonably well despite the economic downturn.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Passengers traveling during weekends may have to pay a higher train _____ than weekday commuters.",
+        "answer": "fare",
+        "base_word": "fare",
+        "pos_hint": "danh từ",
+        "vi": "Hành khách đi lại vào các ngày cuối tuần có thể phải trả giá vé tàu cao hơn so với những người đi làm vào các ngày trong tuần."
+      }
+    },
+    {
+      "id": 7,
+      "word": "offset",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to counterbalance",
+      "definition_vi": "bù đắp, bù lại, cân bằng lại",
+      "examples": [
+        {
+          "en": "The high cost of the hotel room offset the savings we made by taking the train instead of the plane.",
+          "vi": "Lợi nhuận cao từ các tuyến bay mùa hè đã bù đắp cho những khoản lỗ trong mùa đông."
+        },
+        {
+          "en": "By reducing her transportation costs once in the United States, Mrs. Sato offset the cost of getting to this country.",
+          "vi": "Hãng hàng không đã tăng phụ phí nhiên liệu để bù đắp cho giá dầu mỏ ngày càng leo thang."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "offset costs",
+        "offset the deficit",
+        "offset losses",
+        "carbon offset"
+      ],
+      "usage": {
+        "structures": [
+          "offset something by/with something (bù đắp cái gì bằng cái gì)"
+        ],
+        "prepositions": [
+          "by",
+          "with"
+        ],
+        "collocations": [
+          "offset expenses",
+          "offset inflation",
+          "partially offset",
+          "help offset"
+        ],
+        "tip": "Động từ 'offset' có quá khứ và phân từ hai vẫn là 'offset'. Thường đi với tân ngữ là 'cost', 'expense', 'loss', 'carbon emissions'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "offsetting",
+          "example": "Carbon offsetting has become popular among environmentally conscious travelers.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The airline introduced cost-saving measures in order to _____ the rising price of jet fuel.",
+        "answer": "offset",
+        "base_word": "offset",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Hãng hàng không đã đưa ra các biện pháp tiết kiệm chi phí nhằm bù đắp giá nhiên liệu máy bay đang tăng."
+      }
+    },
+    {
+      "id": 8,
+      "word": "operate",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to perform a function",
+      "definition_vi": "vận hành, hoạt động, điều hành (tuyến đường/thiết bị)",
+      "examples": [
+        {
+          "en": "The train operates on a punctual schedule.",
+          "vi": "Hãng hàng không này khai thác các chuyến bay hàng ngày giữa San Francisco và Tokyo."
+        },
+        {
+          "en": "The train only operates in this area at the height of the tourist season.",
+          "vi": "Chỉ những kỹ thuật viên được đào tạo chuyên môn mới được phép vận hành máy quét hành lý."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "operate",
+          "example": "Trains don&#x27;t operate in this town after the summer tourism season is over."
+        },
+        {
+          "pos": "noun",
+          "word": "operation",
+          "example": "The train system is a massive operation with thousands of large and small stations across the country."
+        },
+        {
+          "pos": "adjective",
+          "word": "operational",
+          "example": "As the operational expenses for the train system rose, the managers were forced to either cut services or raise prices."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "operate a service",
+        "operate daily",
+        "operate flights",
+        "operate machinery"
+      ],
+      "usage": {
+        "structures": [
+          "operate between A and B (chạy/khai thác giữa A và B)",
+          "operate on a schedule (hoạt động theo lịch trình)"
+        ],
+        "prepositions": [
+          "between",
+          "on",
+          "from"
+        ],
+        "collocations": [
+          "operate smoothly",
+          "operate efficiently",
+          "operate round the clock",
+          "operate under regulations"
+        ],
+        "tip": "Trong ngành giao thông du lịch, 'operate' dùng với nghĩa 'khai thác tuyến đường' ('The train operates hourly between the city and airport')."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "operation",
+          "example": "Flight operations returned to normal once the snow storm passed.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "operational",
+          "example": "The airport runway will become fully operational by next Monday.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "operator",
+          "example": "Contact the local tour operator to confirm your bus pickup location.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The high-speed rail line _____ regular shuttle services between downtown and the airport terminal.",
+        "answer": "operates",
+        "base_word": "operate",
+        "pos_hint": "động từ (chia ngôi thứ ba số ít)",
+        "vi": "Tuyến đường sắt cao tốc vận hành các chuyến xe đưa đón đều đặn giữa trung tâm thành phố và nhà ga sân bay."
+      }
+    },
+    {
+      "id": 9,
+      "word": "punctually",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "promptly; on time",
+      "definition_vi": "đúng giờ, không chậm trễ",
+      "examples": [
+        {
+          "en": "Please be on time; the train leaves punctually at noon.",
+          "vi": "Chuyến tàu tốc hành đã khởi hành đúng giờ bất chấp điều kiện thời tiết có mưa lớn."
+        },
+        {
+          "en": "The train usually arrives punctually; I can't imagine what is delaying it today.",
+          "vi": "Hành khách được yêu cầu có mặt đúng giờ tại cổng lên máy bay trước khi cửa đóng."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "punctuality",
+          "example": "The Swiss trains are legendary for their punctuality."
+        },
+        {
+          "pos": "adjective",
+          "word": "punctual",
+          "example": "For a transportation service to have any credibility, it must be punctual."
+        },
+        {
+          "pos": "adverb",
+          "word": "punctually",
+          "example": "The conductor arrived punctually at the train station."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "arrive punctually",
+        "depart punctually",
+        "deliver punctually",
+        "start punctually"
+      ],
+      "usage": {
+        "structures": [
+          "arrive/depart punctually (đến/khởi hành đúng giờ)"
+        ],
+        "prepositions": [
+          "at"
+        ],
+        "collocations": [
+          "arrive punctually",
+          "attend punctually",
+          "complete punctually",
+          "perform punctually"
+        ],
+        "tip": "Trạng từ 'punctually' bổ nghĩa cho động từ đi lại ('arrive', 'depart', 'leave') mang nghĩa 'đúng giờ quy định'."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "punctual",
+          "example": "The train service in Japan is renowned worldwide for being exceptionally punctual.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "punctuality",
+          "example": "Punctuality is essential when you have a connecting flight with a tight layover.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The express shuttle leaves _____ at eight o'clock every morning from the main hotel entrance.",
+        "answer": "punctually",
+        "base_word": "punctually",
+        "pos_hint": "trạng từ",
+        "vi": "Chiếc xe đưa đón tốc hành khởi hành đúng giờ vào lúc tám giờ mỗi sáng từ cổng chính của khách sạn."
+      }
+    },
+    {
+      "id": 10,
+      "word": "relatively",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "somewhat",
+      "definition_vi": "tương đối, so sánh với cái khác",
+      "examples": [
+        {
+          "en": "The train is relatively empty for this time of day.",
+          "vi": "So với các khách sạn khác trong khu vực, giá phòng ở đây là tương đối rẻ."
+        },
+        {
+          "en": "The train station has been relatively busy for a weekday.",
+          "vi": "Chuyến bay đường dài trôi qua tương đối nhanh chóng nhờ hệ thống giải trí tuyệt vời."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "relatively inexpensive",
+        "relatively small",
+        "relatively easy",
+        "relatively new"
+      ],
+      "usage": {
+        "structures": [
+          "relatively + adjective/adverb (tương đối như thế nào)"
+        ],
+        "prepositions": [
+          "to"
+        ],
+        "collocations": [
+          "relatively low",
+          "relatively high",
+          "relatively speaking",
+          "relatively calm"
+        ],
+        "tip": "Trạng từ 'relatively' rất hay đứng trước tính từ ('relatively cheap/small/stable') để giảm nhẹ mức độ so sánh."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "relative",
+          "example": "We compared the relative costs of traveling by train versus renting a passenger van.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "relation",
+          "example": "There is a close relation between travel demand and seasonal fare pricing.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Booking hotels during the shoulder season is _____ inexpensive compared to peak holiday months.",
+        "answer": "relatively",
+        "base_word": "relatively",
+        "pos_hint": "trạng từ",
+        "vi": "Đặt phòng khách sạn vào mùa chuyển tiếp là tương đối rẻ so với các tháng nghỉ lễ cao điểm."
+      }
+    },
+    {
+      "id": 11,
+      "word": "remainder",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the part that is left; leftover",
+      "definition_vi": "phần còn lại, số người còn lại",
+      "examples": [
+        {
+          "en": "The Alaskan frontier has train service in the summer, but for the remainder of the year the tracks are impassable.",
+          "vi": "Sau khi trả tiền vé máy bay, tôi dùng phần tiền còn lại để chi trả cho các bữa ăn và quà lưu niệm."
+        },
+        {
+          "en": "We will move you to a less expensive room and credit the remainder of what you've already paid to your charge card.",
+          "vi": "Năm người đã lên chiếc taxi đầu tiên, trong khi những người còn lại chờ chiếc tiếp theo."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "remain",
+          "example": "It is safer for all passengers to remain in their seats until the train comes to a complete stop."
+        },
+        {
+          "pos": "noun",
+          "word": "remains",
+          "example": "The waiter cleared off the remains of our meal after we left the dining car."
+        },
+        {
+          "pos": "",
+          "word": "remainder",
+          "example": "After our exciting stay in New York, the remainder of the trip seemed dull."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "the remainder of the trip",
+        "the remainder of the day",
+        "the remainder of the staff",
+        "spend the remainder"
+      ],
+      "usage": {
+        "structures": [
+          "the remainder of something (phần còn lại của cái gì)"
+        ],
+        "prepositions": [
+          "of",
+          "for"
+        ],
+        "collocations": [
+          "remainder of the week",
+          "remainder of the journey",
+          "for the remainder of",
+          "remainder of the money"
+        ],
+        "tip": "Cụm 'the remainder of...' luôn có mạo từ 'the'. Cần phân biệt với 'reminder' (lời nhắc nhở)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "remain",
+          "example": "Passengers must remain seated until the seatbelt sign has been switched off.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "remaining",
+          "example": "The remaining tickets will be sold at the box office right before showtime.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "We spent the _____ of our vacation relaxing on the tranquil beaches of the southern coast.",
+        "answer": "remainder",
+        "base_word": "remainder",
+        "pos_hint": "danh từ",
+        "vi": "Chúng tôi đã dành phần còn lại của kỳ nghỉ để thư giãn trên những bãi biển yên bình ở bờ biển phía nam."
+      }
+    },
+    {
+      "id": 12,
+      "word": "remote",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "far away; not close to populated areas",
+      "definition_vi": "xa xôi, hẻo lánh; từ xa (điều khiển, làm việc)",
+      "examples": [
+        {
+          "en": "I was surprised to find train service to such a remote location.",
+          "vi": "Khu nghỉ dưỡng tọa lạc tại một vị trí hẻo lánh, chỉ có thể tiếp cận bằng trực thăng hoặc thuyền."
+        },
+        {
+          "en": "We took the train out of the city and found a remote hotel in the country for the weekend.",
+          "vi": "Làm việc từ xa cho phép cô ấy có thể đi du lịch khắp thế giới trong khi vẫn duy trì công việc của mình."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "remoteness",
+          "example": "The remoteness of the state park was part of its attraction, but since it&#x27;s not served by a train line, I couldn&#x27;t get to it."
+        },
+        {
+          "pos": "adjective",
+          "word": "remote",
+          "example": "The remote cabin in the woods can only be reached by car; the nearest train station or airport is more than 100 miles away."
+        },
+        {
+          "pos": "adverb",
+          "word": "remotely",
+          "example": "I wasn&#x27;t remotely interested in taking a cross-country trip by train since I can&#x27;t stand to be confined for a long time."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "remote area",
+        "remote island",
+        "remote control",
+        "remote work"
+      ],
+      "usage": {
+        "structures": [
+          "remote from somewhere (xa xôi so với nơi nào)",
+          "remote access/work (truy cập/làm việc từ xa)"
+        ],
+        "prepositions": [
+          "from"
+        ],
+        "collocations": [
+          "remote location",
+          "remote village",
+          "remote possibility",
+          "remote monitoring"
+        ],
+        "tip": "'Remote' vừa có nghĩa vị trí địa lý 'xa xôi, hẻo lánh' ('remote area'), vừa có nghĩa công nghệ 'từ xa' ('remote work', 'remote access')."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "remotely",
+          "example": "Travel agents can remotely access the central reservation database from home.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "remoteness",
+          "example": "The peaceful remoteness of the mountain cabin attracted visitors seeking complete quiet.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The eco-lodge is located in a _____ mountainous region where cell phone reception is unavailable.",
+        "answer": "remote",
+        "base_word": "remote",
+        "pos_hint": "tính từ",
+        "vi": "Khu nghỉ dưỡng sinh thái nằm ở một vùng miền núi hẻo lánh, nơi sóng điện thoại di động không thể bắt được."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Trains are among the best ways to see a lot of a country in a (1) ____ short amount of time. In addition to the consideration of time, traveling by train allows you to really see the country you are passing through. You need only get to the station on time; after that you can relax and watch from the window. Most trains are on time and run on a (2) ____ schedule. Routes, schedules, and (3) ____ are listed in a timetable available at a train station, in many travel (4) ____, or posted on the World Wide Web. Directories that are (5) ____ list all the trains, the cities they serve, the stations they depart from, and the class of services available. A few (6) ____ travel destinations are accessible only during the peak tourist season; the train does not (7) ____ there the (8) ____ of the year. The fare is based on how far you travel and the quality of your accommodations. The basic fare buys you a seat for the (9) ____ of the trip. To be more precise, an unreserved seat guarantees a passenger transportation only; seats are allocated on a first-come, first-served basis. On busy holidays, it is possible that you could stand for at least some of your trip. For long trips, you will want to reserve a seat. If you are traveling overnight, the cost of your room accommodation will depend on how (10) ____ your room is. Although taking the train is less expensive than flying, the savings may be (11) ____ by the cost of booking a sleeping room. Travelers coming to the United States can take advantage of special rates not available in the United States. These passes (12) ____ the bearer to unlimited coach travel on trains for a fixed period of days, usually a month.",
+    "word_bank": [
+      "comprehensive",
+      "duration",
+      "offset",
+      "relatively",
+      "deluxe",
+      "entitle",
+      "operate",
+      "remainder",
+      "directories",
+      "fares",
+      "punctual",
+      "remote"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "comprehensiveness",
+        "example": "Due to the comprehensiveness of the train system, the complete timetable was a thick document.",
+        "pos": "noun"
+      },
+      {
+        "word": "comprehensive",
+        "example": "Due to the comprehensive reach of the rail system, the train can take you to every major city and many smaller ones.",
+        "pos": ""
+      },
+      {
+        "word": "comprehensively",
+        "example": "The surveyors comprehensively studied the terrain before planning the site for the new train tracks.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "direct",
+        "example": "We were unfamiliar with the city, so the hotel manager directed us to the train station.",
+        "pos": "verb"
+      },
+      {
+        "word": "direction",
+        "example": "The ticket agent at the train station gave us directions to the nearest restaurant.",
+        "pos": "noun"
+      },
+      {
+        "word": "directory",
+        "example": "At the train station you can pick up a free directory to local restaurants, museums, and other places of interest to visitors.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "operate",
+        "example": "Trains don&#x27;t operate in this town after the summer tourism season is over.",
+        "pos": "verb"
+      },
+      {
+        "word": "operation",
+        "example": "The train system is a massive operation with thousands of large and small stations across the country.",
+        "pos": "noun"
+      },
+      {
+        "word": "operational",
+        "example": "As the operational expenses for the train system rose, the managers were forced to either cut services or raise prices.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "punctuality",
+        "example": "The Swiss trains are legendary for their punctuality.",
+        "pos": ""
+      },
+      {
+        "word": "punctual",
+        "example": "For a transportation service to have any credibility, it must be punctual.",
+        "pos": "adjective"
+      },
+      {
+        "word": "punctually",
+        "example": "The conductor arrived punctually at the train station.",
+        "pos": "adverb"
+      }
+    ],
+    [
+      {
+        "word": "remain",
+        "example": "It is safer for all passengers to remain in their seats until the train comes to a complete stop.",
+        "pos": ""
+      },
+      {
+        "word": "remains",
+        "example": "The waiter cleared off the remains of our meal after we left the dining car.",
+        "pos": "noun"
+      },
+      {
+        "word": "remainder",
+        "example": "After our exciting stay in New York, the remainder of the trip seemed dull.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "remoteness",
+        "example": "The remoteness of the state park was part of its attraction, but since it&#x27;s not served by a train line, I couldn&#x27;t get to it.",
+        "pos": ""
+      },
+      {
+        "word": "remote",
+        "example": "The remote cabin in the woods can only be reached by car; the nearest train station or airport is more than 100 miles away.",
+        "pos": "adjective"
+      },
+      {
+        "word": "remotely",
+        "example": "I wasn&#x27;t remotely interested in taking a cross-country trip by train since I can&#x27;t stand to be confined for a long time.",
+        "pos": "adverb"
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "Do you have a ____ map that shows all the station stops west of the Mississippi?",
+        "options": [
+          {
+            "label": "A",
+            "text": "comprehension"
+          },
+          {
+            "label": "B",
+            "text": "comprehensively"
+          },
+          {
+            "label": "C",
+            "text": "comprehensive"
+          },
+          {
+            "label": "D",
+            "text": "comprehensiveness"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "We got lost in the train station and had to ask for ____ to the gate that our train was leaving from.",
+        "options": [
+          {
+            "label": "A",
+            "text": "directions"
+          },
+          {
+            "label": "B",
+            "text": "directed"
+          },
+          {
+            "label": "C",
+            "text": "directory"
+          },
+          {
+            "label": "D",
+            "text": "directs"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "The train has stopped because of a malfunction, but we expect it to be ____ again within minutes.",
+        "options": [
+          {
+            "label": "A",
+            "text": "operational"
+          },
+          {
+            "label": "B",
+            "text": "operate"
+          },
+          {
+            "label": "C",
+            "text": "operation"
+          },
+          {
+            "label": "D",
+            "text": "operationally"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "John never arrives ____, so I am always anxious when we travel together for fear of missing a train.",
+        "options": [
+          {
+            "label": "A",
+            "text": "punctualness"
+          },
+          {
+            "label": "B",
+            "text": "punctually"
+          },
+          {
+            "label": "C",
+            "text": "punctual"
+          },
+          {
+            "label": "D",
+            "text": "punctuality"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "Sylvia's family ____ with her in the station until she was ready to board the train.",
+        "options": [
+          {
+            "label": "A",
+            "text": "remains"
+          },
+          {
+            "label": "B",
+            "text": "remainder"
+          },
+          {
+            "label": "C",
+            "text": "remained"
+          },
+          {
+            "label": "D",
+            "text": "remaining"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "With this traffic, there isn't even a ____ chance that we will get to the train station on time.",
+        "options": [
+          {
+            "label": "A",
+            "text": "remotely"
+          },
+          {
+            "label": "B",
+            "text": "remote"
+          },
+          {
+            "label": "C",
+            "text": "remoteness"
+          },
+          {
+            "label": "D",
+            "text": "remotest"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Dear Henry, I have made your train reservations for you. The tickets are enclosed. Your train leaves Sunday morning at 11:15. You should arrive at the train station on time since the trains all leave punctually. All the first-class tickets were sold out, so I wasn't able to get you deluxe accommodations. The tourist-class ticket I got you is considerably cheaper than a first-class ticket, so I hope the lower [16] offsets your disappointment in not getting to ride first-class. I think you won't notice the difference since the trip is [17] short. I am sure you will be quite comfortable for the [18] of the ride. I will be waiting at the station for you when you arrive. I look forward to seeing you. Eliza",
+      "questions": [
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "far"
+            },
+            {
+              "label": "B",
+              "text": "fair"
+            },
+            {
+              "label": "C",
+              "text": "fore"
+            },
+            {
+              "label": "D",
+              "text": "fare"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "relatively"
+            },
+            {
+              "label": "B",
+              "text": "relation"
+            },
+            {
+              "label": "C",
+              "text": "relative"
+            },
+            {
+              "label": "D",
+              "text": "related"
+            }
+          ]
+        },
+        {
+          "number": 19,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "duration"
+            },
+            {
+              "label": "B",
+              "text": "during"
+            },
+            {
+              "label": "C",
+              "text": "endure"
+            },
+            {
+              "label": "D",
+              "text": "endurance"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following brochure. This comprehensive travel package includes round-trip train fare with sleeping car accommodations, deluxe hotel accommodations and meals at all overnight stops, and guided tours of selected cities along the way. In addition, your train ticket entitles you to three meals a day in the dining car or snack car while on board the train. We will travel through some remote areas with spectacular scenery. Every morning, a professional guide will provide information about the geology, natural history, and flora and fauna native to the areas we will travel through. You can spend the remainder of the day relaxing in your seat, chatting with your fellow passengers, or viewing movies. They will be shown twice a day in the lounge car, following lunch and dinner. An optional boat excursion to Victoria Island will be available at the western end of the trip for an extra fee. This special excursion is two days in duration and must be reserved and paid for two weeks prior to the trip departure date. The following trip departure dates are available: June 7 June 28 July 21 August 8 See your travel agent for reservations, or visit our web site at www.trainadventures.com. 23. The word entitles in line 4 is closest in meaning to (A) suggest (B) reminds (C) expects (D) qualifies",
+        "questions": [
+          {
+            "number": 19,
+            "question": "Who is this information for?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Travel agents."
+              },
+              {
+                "label": "B",
+                "text": "Tour guides."
+              },
+              {
+                "label": "C",
+                "text": "Vacationers."
+              },
+              {
+                "label": "D",
+                "text": "Business travelers."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "Where can passengers watch movies?",
+            "options": [
+              {
+                "label": "A",
+                "text": "In the dining car."
+              },
+              {
+                "label": "B",
+                "text": "In the lounge car."
+              },
+              {
+                "label": "C",
+                "text": "In the sleeping car."
+              },
+              {
+                "label": "D",
+                "text": "In the snack car."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "What is not included in the price of the travel package?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Hotel accommodations."
+              },
+              {
+                "label": "B",
+                "text": "Meals."
+              },
+              {
+                "label": "C",
+                "text": "Guided tours."
+              },
+              {
+                "label": "D",
+                "text": "A trip to an island."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word comprehensive in line 2 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "inclusive"
+              },
+              {
+                "label": "B",
+                "text": "selected"
+              },
+              {
+                "label": "C",
+                "text": "reserved"
+              },
+              {
+                "label": "D",
+                "text": "popular"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What are the speakers discussing?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The operator of the train."
+          },
+          {
+            "label": "B",
+            "text": "The comfort of the train ride."
+          },
+          {
+            "label": "C",
+            "text": "The directions to the train station."
+          },
+          {
+            "label": "D",
+            "text": "The time the train leaves."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How long will their train ride be?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Three and a half hours."
+          },
+          {
+            "label": "B",
+            "text": "Five hours."
+          },
+          {
+            "label": "C",
+            "text": "Ten hours."
+          },
+          {
+            "label": "D",
+            "text": "Thirty hours."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What will they do now?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Eat some snacks."
+          },
+          {
+            "label": "B",
+            "text": "Buy their train tickets."
+          },
+          {
+            "label": "C",
+            "text": "Get on the train."
+          },
+          {
+            "label": "D",
+            "text": "Buy something to read."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "What is an advantage of riding a high-speed train?",
+        "options": [
+          {
+            "label": "A",
+            "text": "It is always on time."
+          },
+          {
+            "label": "B",
+            "text": "It goes to many cities."
+          },
+          {
+            "label": "C",
+            "text": "You can get off anytime you want."
+          },
+          {
+            "label": "D",
+            "text": "It is cheaper than a plane."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What is true about a high-speed train?",
+        "options": [
+          {
+            "label": "A",
+            "text": "It operates in most cities."
+          },
+          {
+            "label": "B",
+            "text": "It is almost as slow as a traditional train."
+          },
+          {
+            "label": "C",
+            "text": "It is almost as fast as a plane in some cases."
+          },
+          {
+            "label": "D",
+            "text": "It is just as fast as a traditional train."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What is included in the cost of a high-speed train ticket?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A comfortable seat."
+          },
+          {
+            "label": "B",
+            "text": "A movie."
+          },
+          {
+            "label": "C",
+            "text": "A class."
+          },
+          {
+            "label": "D",
+            "text": "A free meal."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. What are the speakers discussing? (A) The operator of the train. (B) The comfort of the train ride. (C) The directions to the train station. (D) The time the train leaves. 5. How long will their train ride be? (A) Three and a half hours. (B) Five hours. (C) Ten hours. (D) Thirty hours. 6. What will they do now? (A) Eat some snacks. (B) Buy their train tickets. (C) Get on the train. (D) Buy something to read. Listen to the talk. Then read each question and choose the best answer. 7. What is an advantage of riding a high-speed train? (A) It is always on time. (B) It goes to many cities. (C) You can get off anytime you want. (D) It is cheaper than a plane. 8. What is true about a high-speed train? (A) It operates in most cities. (B) It is almost as slow as a traditional train. (C) It is almost as fast as a plane in some cases. (D) It is just as fast as a traditional train. 9. What is included in the cost of a high-speed train ticket? (A) A comfortable seat. (B) A movie. (C) A class. (D) A free meal.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What are the speakers discussing?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The operator of the train."
+          },
+          {
+            "label": "B",
+            "text": "The comfort of the train ride."
+          },
+          {
+            "label": "C",
+            "text": "The directions to the train station."
+          },
+          {
+            "label": "D",
+            "text": "The time the train leaves."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How long will their train ride be?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Three and a half hours."
+          },
+          {
+            "label": "B",
+            "text": "Five hours."
+          },
+          {
+            "label": "C",
+            "text": "Ten hours."
+          },
+          {
+            "label": "D",
+            "text": "Thirty hours."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What will they do now?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Eat some snacks."
+          },
+          {
+            "label": "B",
+            "text": "Buy their train tickets."
+          },
+          {
+            "label": "C",
+            "text": "Get on the train."
+          },
+          {
+            "label": "D",
+            "text": "Buy something to read."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "What is an advantage of riding a high-speed train?",
+        "options": [
+          {
+            "label": "A",
+            "text": "It is always on time."
+          },
+          {
+            "label": "B",
+            "text": "It goes to many cities."
+          },
+          {
+            "label": "C",
+            "text": "You can get off anytime you want."
+          },
+          {
+            "label": "D",
+            "text": "It is cheaper than a plane."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What is true about a high-speed train?",
+        "options": [
+          {
+            "label": "A",
+            "text": "It operates in most cities."
+          },
+          {
+            "label": "B",
+            "text": "It is almost as slow as a traditional train."
+          },
+          {
+            "label": "C",
+            "text": "It is almost as fast as a plane in some cases."
+          },
+          {
+            "label": "D",
+            "text": "It is just as fast as a traditional train."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What is included in the cost of a high-speed train ticket?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A comfortable seat."
+          },
+          {
+            "label": "B",
+            "text": "A movie."
+          },
+          {
+            "label": "C",
+            "text": "A class."
+          },
+          {
+            "label": "D",
+            "text": "A free meal."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "## Trains\n\nV ORL TO 'F\n\nStudy the following definitions and examples.\n\n1. comprehensive adj., covering broadly; inclusive a. The conductor has a comprehensive knowledge of rail systems from all over the world.\n\nb. Our travel agent gave us a comprehensive travel package, including rail passes.\n\n2. deluxe adj., noticeably luxurious\n\na. My parents decided to splurge on deluxe accommodations for their trip.\n\nb. The train station is not near any of the deluxe hotels, so we will have to take a taxi.\n\n3. directory n., a book or collection of information or directions\n\na. We consulted the directory to see where the train station was located.\n\nb. By calling directory assistance, Mr. Scannel was able to get the phone number for the train station.\n\n4. duration n., the time during which something lasts\n\na. Mother lent me her spare jacket for the duration of the trip.\n\nb. Despite our personal differences, my roommate and I agreed to be as pleasant as possible for the duration of the train ride.\n\n5. entitle v., to allow or qualify\n\na. During the holiday rush, a train ticket entitled the passenger to a ride, but not necessarily a seat.\n\nb. The mess the train line made of Pedro's sleeping room reservations entitled him to a free upgrade to a better room.\n\n6. fare n., the money paid for transportation\n\na. The train fare has increased since I rode last.\n\nb. Pay your fare at the ticket office and you will get a ticket to board the train.\n\n7. offset v., to counterbalance\n\na. The high cost of the hotel room offset the savings we made by taking the train instead of the plane.\n\nb. By reducing her transportation costs once in the United States, Mrs. Sato offset the cost of getting to this country.\n\n8. operate v., to perform a function\n\na. The train operates on a punctual schedule.\n\nb. The train only operates in this area at the height of the tourist season.\n\n9. punctually adv., promptly; on time\n\na. Please be on time; the train leaves punctually at noon.\n\nb. The train usually arrives punctually; I can't imagine what is delaying it today.\n\n10. relatively adv., somewhat\n\na. The train is relatively empty for this time of day.\n\nb. The train station has been relatively busy for a weekday.\n\n11. remainder n., the part that is left; leftover\n\na. The Alaskan frontier has train service in the summer, but for the remainder of the year the tracks are impassable.\n\nb. We will move you to a less expensive room and credit the remainder of what you've already paid to your charge card.\n\n12. remote adj., far away; not close to populated areas\n\na. I was surprised to find train service to such a remote location.\n\nb. We took the train out of the city and found a remote hotel in the country for the weekend.",
+    "words_in_context": "## WORDS IN CONTEXT\n\n## Read the following passage and write the words in the blanks below.\n\n| comprehensive | duration | offset | relatively |\n| --- | --- | --- | --- |\n| deluxe | entitle | operate | remainder |\n| directories | fares | punctual | remote |\n\nTrains are among the best ways to see a lot of a country in a (1) \\_\\_\\_\\_ short amount of time. In addition to the consideration of time, traveling by train allows you to really see the country you are passing through. You need only get to the station on time; after that you can relax and watch from the window.\n\nMost trains are on time and run on a (2) \\_\\_\\_\\_ schedule. Routes, schedules, and (3) \\_\\_\\_\\_ are listed in a timetable available at a train station, in many travel (4) \\_\\_\\_\\_, or posted on the World Wide Web. Directories that are (5) \\_\\_\\_\\_ list all the trains, the cities they serve, the stations they depart from, and the class of services available. A few (6) \\_\\_\\_\\_ travel destinations are accessible only during the peak tourist season; the train does not (7) \\_\\_\\_\\_ there the (8) \\_\\_\\_\\_ of the year.\n\nThe fare is based on how far you travel and the quality of your accommodations. The basic fare buys you a seat for the (9) \\_\\_\\_\\_ of the trip. To be more precise, an unreserved seat guarantees a passenger transportation only; seats are allocated on a first-come, first-served basis. On busy holidays, it is possible that you could stand for at least some of your trip. For long trips, you will want to reserve a seat.\n\nIf you are traveling overnight, the cost of your room accommodation will depend on how (10) \\_\\_\\_\\_ your room is. Although taking the train is less expensive than flying, the savings may be (11) \\_\\_\\_\\_ by the cost of booking a sleeping room.\n\nTravelers coming to the United States can take advantage of special rates not available in the United States. These passes (12) \\_\\_\\_\\_ the bearer to unlimited coach travel on trains for a fixed period of days, usually a month.",
+    "word_families": "<table><tr><td>noun</td><td>comprehensiveness</td><td>Due to the comprehensiveness of the train system, the complete timetable was a thick document.</td></tr><tr><td>a_ - . . .e</td><td>comprehensive</td><td>Due to the comprehensive reach of the rail system, the train can take you to every major city and many smaller ones.</td></tr><tr><td>ad )</td><td>comprehensively</td><td>The surveyors comprehensively studied the terrain before planning the site for the new train tracks.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>direct</td><td>We were unfamiliar with the city, so the hotel manager directed us to the train station.</td></tr><tr><td>noun</td><td>direction</td><td>The ticket agent at the train station gave us directions to the nearest restaurant.</td></tr><tr><td>noun</td><td>directory</td><td>At the train station you can pick up a free directory to local restaurants, museums, and other places of interest to visitors.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>operate</td><td>Trains don&#x27;t operate in this town after the summer tourism season is over.</td></tr><tr><td>noun</td><td>operation</td><td>The train system is a massive operation with thousands of large and small stations across the country.</td></tr><tr><td>adjective</td><td>operational</td><td>As the operational expenses for the train system rose, the managers were forced to either cut services or raise prices.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>-</td><td>punctuality</td><td>The Swiss trains are legendary for their punctuality.</td></tr><tr><td>adjective</td><td>punctual</td><td>For a transportation service to have any credibility, it must be punctual.</td></tr><tr><td>adverb</td><td>punctually</td><td>The conductor arrived punctually at the train station.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>.. )</td><td>remain</td><td>It is safer for all passengers to remain in their seats until the train comes to a complete stop.</td></tr><tr><td>noun</td><td>remains</td><td>The waiter cleared off the remains of our meal after we left the dining car.</td></tr><tr><td>...un</td><td>remainder</td><td>After our exciting stay in New York, the remainder of the trip seemed dull.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>-</td><td>remoteness</td><td>The remoteness of the state park was part of its attraction, but since it&#x27;s not served by a train line, I couldn&#x27;t get to it.</td></tr><tr><td>adjective</td><td>remote</td><td>The remote cabin in the woods can only be reached by car; the nearest train station or airport is more than 100 miles away.</td></tr><tr><td>adverb</td><td>remotely</td><td>I wasn&#x27;t remotely interested in taking a cross-country trip by train since I can&#x27;t stand to be confined for a long time.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. What are the speakers discussing?\n(A) The operator of the train.\n(B) The comfort of the train ride.\n(C) The directions to the train station.\n(D) The time the train leaves.\n\n5. How long will their train ride be?\n(A) Three and a half hours.\n(B) Five hours.\n(C) Ten hours.\n(D) Thirty hours.\n\n6. What will they do now?\n(A) Eat some snacks.\n(B) Buy their train tickets.\n(C) Get on the train.\n(D) Buy something to read.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. What is an advantage of riding a high-speed train?\n(A) It is always on time.\n(B) It goes to many cities.\n(C) You can get off anytime you want.\n(D) It is cheaper than a plane.\n\n8. What is true about a high-speed train?\n(A) It operates in most cities.\n(B) It is almost as slow as a traditional train.\n(C) It is almost as fast as a plane in some cases.\n(D) It is just as fast as a traditional train.\n\n9. What is included in the cost of a high-speed train ticket?\n(A) A comfortable seat.\n(B) A movie.\n(C) A class.\n(D) A free meal.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. Do you have a \\_\\_\\_\\_ map that shows all the station stops west of the Mississippi?\n(A) comprehension (C) comprehensive\n(B) comprehensively (D) comprehensiveness\n\n11. We got lost in the train station and had to ask for \\_\\_\\_\\_ to the gate that our train was leaving from.\n(A) directions (C) directory\n(B) directed (D) directs\n\n12. The train has stopped because of a malfunction, but we expect it to be \\_\\_\\_\\_ again within minutes.\n(A) operational (C) operation\n(B) operate (D) operationally\n\n13. John never arrives \\_\\_\\_\\_, so I am always anxious when we travel together for fear of missing a train.\n(A) punctualness (C) punctual\n(B) punctually (D) punctuality\n\n14. Sylvia's family \\_\\_\\_\\_ with her in the station until she was ready to board the train.\n(A) remains (C) remained\n(B) remainder (D) remaining\n\n15. With this traffic, there isn't even a \\_\\_\\_\\_ chance that we will get to the train station on time.\n(A) remotely (C) remoteness\n(B) remote (D) remotest\n\n## Part 6 Text Completion\n\nDear Henry,\n\nI have made your train reservations for you. The tickets are enclosed. Your train leaves Sunday morning at 11:15. You should arrive at the train station on time since the trains all leave punctually. All the first-class tickets were sold out, so I wasn't able to get you deluxe accommodations. The tourist-class ticket I got you is considerably cheaper than a first-class ticket, so I hope the lower \\_16\\_ offsets your disappointment in not getting to ride first-class. I think you won't notice the difference since the trip is \\_17\\_ short. I am sure you will be quite comfortable for the \\_18\\_ of the ride. I will be waiting at the station for you when you arrive. I look forward to seeing you.\n\nEliza\n\n17. (A) far  \n(B) fair  \n(C) fore  \n(D) fare\n\n18. (A) relatively  \n(B) relation  \n(C) relative  \n(D) related\n\n19. (A) duration  \n(B) during  \n(C) endure  \n(D) endurance",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following brochure.\n\n## Western Train Adventure\n\nThis comprehensive travel package includes round-trip train fare with sleeping car accommodations, deluxe hotel accommodations and meals at all overnight stops, and guided tours of selected cities along the way. In addition, your train ticket entitles you to three meals a day in the dining car or snack car while on board the train. We will travel through some remote areas with spectacular scenery. Every morning, a professional guide will provide information about the geology, natural history, and flora and fauna native to the areas we will travel through. You can spend the remainder of the day relaxing in your seat, chatting with your fellow passengers, or viewing movies. They will be shown twice a day in the lounge car, following lunch and dinner. An optional boat excursion to Victoria Island will be available at the western end of the trip for an extra fee. This special excursion is two days in duration and must be reserved and paid for two weeks prior to the trip departure date. The following trip departure dates are available:\n\nJune 7  \nJune 28  \nJuly 21  \nAugust 8\n\nSee your travel agent for reservations, or visit our web site at www.trainadventures.com.\n\n19. Who is this information for?\n(A) Travel agents.\n(B) Tour guides.\n(C) Vacationers.\n(D) Business travelers.\n\n20. Where can passengers watch movies?\n(A) In the dining car.\n(B) In the lounge car.\n(C) In the sleeping car.\n(D) In the snack car.\n\n21. What is not included in the price of the travel package?\n(A) Hotel accommodations.\n(B) Meals.\n(C) Guided tours.\n(D) A trip to an island.\n\n22. The word comprehensive in line 2 is closest in meaning to  \n(A) inclusive  \n(B) selected  \n(C) reserved  \n(D) popular\n\n23. The word entitles in line 4 is closest in meaning to (A) suggest (B) reminds (C) expects (D) qualifies"
+  },
+  "needs_review": true
+}

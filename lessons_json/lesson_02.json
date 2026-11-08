@@ -1,0 +1,1638 @@
+{
+  "lesson_id": 2,
+  "title": "Marketing",
+  "theme_name": "General Business",
+  "audio_track": "track_02.mp3",
+  "part1_photo": "part1_photos/lesson_02.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "attract",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to draw by appeal",
+      "definition_vi": "thu hút, hấp dẫn, lôi cuốn (khách hàng, sự chú ý, đầu tư)",
+      "examples": [
+        {
+          "en": "The display attracted a number of people at the convention.",
+          "vi": "Gian trưng bày đã thu hút rất nhiều người tại hội nghị."
+        },
+        {
+          "en": "The new advertising attracts the wrong kind of customer into the store.",
+          "vi": "Quảng cáo mới lại thu hút nhầm đối tượng khách hàng vào cửa hàng."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "attract",
+          "example": "The store's poor location did not help it attract customers."
+        },
+        {
+          "pos": "",
+          "word": "attraction",
+          "example": "Having a clown in the toy store was a foolproof attraction for getting kids to enter."
+        },
+        {
+          "pos": "",
+          "word": "attractive",
+          "example": "Lou ran his store on an old-fashioned premise: quality merchandise at attractive prices."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "attract customers",
+        "attract attention",
+        "attract investment",
+        "tourist attraction"
+      ],
+      "usage": {
+        "structures": [
+          "attract + sb/sth (to + N)",
+          "attract attention / interest / criticism"
+        ],
+        "prepositions": [
+          "to",
+          "by"
+        ],
+        "collocations": [
+          "attract new clients",
+          "attractive price",
+          "main attraction",
+          "attract qualified applicants"
+        ],
+        "tip": "Tính từ 'attractive' ngoài nghĩa 'đẹp' còn rất hay đi với 'price/offer/salary/package' (mức giá/đãi ngộ hấp dẫn)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "attractively",
+          "example": "Merchandise that is attractively displayed tends to sell much faster.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The company offers a highly _____ benefits package in order to recruit top engineering talent.",
+        "answer": "attractive",
+        "base_word": "attract",
+        "pos_hint": "tính từ",
+        "vi": "Công ty đưa ra một gói phúc lợi vô cùng hấp dẫn nhằm tuyển dụng những nhân tài kỹ thuật hàng đầu."
+      }
+    },
+    {
+      "id": 2,
+      "word": "compare",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to examine similarities and differences",
+      "definition_vi": "so sánh, đối chiếu; sánh được với",
+      "examples": [
+        {
+          "en": "Once the customer compared the two products, her choice was easy.",
+          "vi": "Một khi khách hàng đã so sánh hai sản phẩm, sự lựa chọn của cô ấy trở nên thật dễ dàng."
+        },
+        {
+          "en": "The price for this brand is high compared to the other brands on the market.",
+          "vi": "Giá của thương hiệu này khá cao khi so với các thương hiệu khác trên thị trường."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "compare",
+          "example": "She compared the prices before she made a decision."
+        },
+        {
+          "pos": "",
+          "word": "comparison",
+          "example": "There was no comparison in the quality of the two brands."
+        },
+        {
+          "pos": "",
+          "word": "comparable",
+          "example": "To get an average for home costs, the agent sought prices on comparable homes."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "compare prices",
+        "compared to / with",
+        "in comparison with",
+        "beyond compare"
+      ],
+      "usage": {
+        "structures": [
+          "compare A with/to B",
+          "compared to/with + N (khi so với - thường đứng đầu hoặc cuối câu)"
+        ],
+        "prepositions": [
+          "to",
+          "with"
+        ],
+        "collocations": [
+          "draw a comparison",
+          "pale in comparison",
+          "comparable quality",
+          "favorable comparison"
+        ],
+        "tip": "Đứng đầu câu trước dấu phẩy và đi với giới từ 'to/with' luôn là phân từ quá khứ 'Compared to/with...' (So với...)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "comparably",
+          "example": "Our new laptop performs comparably to models that cost twice as much.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "In _____ with last year's figures, domestic sales have risen by nearly fifteen percent.",
+        "answer": "comparison",
+        "base_word": "compare",
+        "pos_hint": "danh từ",
+        "vi": "So với số liệu năm ngoái, doanh số bán hàng trong nước đã tăng gần mười lăm phần trăm."
+      }
+    },
+    {
+      "id": 3,
+      "word": "competition",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a contest or struggle",
+      "definition_vi": "sự cạnh tranh; cuộc thi đấu; đối thủ cạnh tranh",
+      "examples": [
+        {
+          "en": "In the competition for afternoon diners, Hector's has come out on top.",
+          "vi": "Trong cuộc cạnh tranh giành thực khách buổi chiều, nhà hàng của Hector đã vươn lên dẫn đầu."
+        },
+        {
+          "en": "The company has decided not to join the growing competition for dominance in the semiconductor market.",
+          "vi": "Công ty đã quyết định không tham gia vào cuộc cạnh tranh ngày càng gay gắt để giành vị thế thống lĩnh trên thị trường bán dẫn."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "competition",
+          "example": "Try to think of yourself as someone who leads the competition."
+        },
+        {
+          "pos": "",
+          "word": "compete",
+          "example": "We competed against three or four other agencies to get this contract."
+        },
+        {
+          "pos": "",
+          "word": "competitive",
+          "example": "His competitive character made him quite successful in his department."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "fierce competition",
+        "compete with / against",
+        "competitive edge",
+        "competitive prices"
+      ],
+      "usage": {
+        "structures": [
+          "competition between A and B (for sth)",
+          "compete with/against sb for sth"
+        ],
+        "prepositions": [
+          "for",
+          "with",
+          "against",
+          "between"
+        ],
+        "collocations": [
+          "intense competition",
+          "stay ahead of the competition",
+          "competitive advantage",
+          "outdo the competition"
+        ],
+        "tip": "Chú ý phân biệt hai danh từ: 'competition' (sự cạnh tranh / cuộc thi) và 'competitor' (đối thủ cạnh tranh - danh từ đếm được)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "competitor",
+          "example": "Our main competitor just launched a similar product at a lower price.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "competitively",
+          "example": "All of our organic food products are competitively priced.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Because our products are _____ priced, we have been able to capture a large share of the market.",
+        "answer": "competitively",
+        "base_word": "competition",
+        "pos_hint": "trạng từ",
+        "vi": "Bởi vì sản phẩm của chúng tôi được định giá một cách cạnh tranh, chúng tôi đã có thể chiếm lĩnh một thị phần lớn."
+      }
+    },
+    {
+      "id": 4,
+      "word": "consume",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to absorb; to use up",
+      "definition_vi": "tiêu thụ, sử dụng hết (năng lượng, thời gian, tài nguyên); choáng hết (tâm trí)",
+      "examples": [
+        {
+          "en": "The business plans consumed all of Fritz's attention this fall.",
+          "vi": "Các kế hoạch kinh doanh đã chiếm hết mọi sự chú ý của Fritz vào mùa thu này."
+        },
+        {
+          "en": "This printer consumes more toner than the downstairs printer.",
+          "vi": "Chiếc máy in này tiêu tốn nhiều mực hơn chiếc máy in ở tầng dưới."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "consume",
+          "example": "The analyst was able to consume new information quickly."
+        },
+        {
+          "pos": "",
+          "word": "consumer",
+          "example": "The government tracks consumer spending closely."
+        },
+        {
+          "pos": "",
+          "word": "consumable",
+          "example": "He ran a study of the use of consumable goods."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "consume energy",
+        "time-consuming",
+        "consumer goods",
+        "fuel consumption"
+      ],
+      "usage": {
+        "structures": [
+          "consume + N (energy / time / resources / food)",
+          "be consumed with/by + N (bị choáng ngợp bởi)"
+        ],
+        "prepositions": [
+          "by",
+          "with"
+        ],
+        "collocations": [
+          "consumer spending",
+          "consumer electronics",
+          "energy consumption",
+          "consumable supplies"
+        ],
+        "tip": "Danh từ chỉ người 'consumer' (người tiêu dùng) và danh từ chỉ sự việc 'consumption' (sự tiêu thụ) xuất hiện cực nhiều trong bài đọc TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "consumption",
+          "example": "Installing LED lighting has drastically reduced our electricity consumption.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "consuming",
+          "example": "Auditing the international accounts was a very time-consuming process.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The government closely monitors _____ spending to evaluate the health of the national economy.",
+        "answer": "consumer",
+        "base_word": "consume",
+        "pos_hint": "danh từ (đứng trước danh từ khác làm định ngữ)",
+        "vi": "Chính phủ theo dõi chặt chẽ chi tiêu của người tiêu dùng để đánh giá sức khỏe của nền kinh tế quốc gia."
+      }
+    },
+    {
+      "id": 5,
+      "word": "convince",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to bring to believe by argument; to persuade",
+      "definition_vi": "thuyết phục (ai đó tin vào điều gì hoặc làm gì)",
+      "examples": [
+        {
+          "en": "The salesman convinced his customer to buy his entire inventory of pens.",
+          "vi": "Người bán hàng đã thuyết phục khách hàng mua toàn bộ số bút tồn kho của anh ta."
+        },
+        {
+          "en": "Before a business can convince customers that it provides a quality product, it must convince its marketing staff.",
+          "vi": "Trước khi một doanh nghiệp có thể thuyết phục khách hàng rằng họ cung cấp sản phẩm chất lượng, họ phải thuyết phục được đội ngũ tiếp thị của chính mình."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "convince sb to do sth",
+        "convince sb of sth",
+        "be convinced that",
+        "convincing argument"
+      ],
+      "usage": {
+        "structures": [
+          "convince + sb + to V",
+          "convince + sb + of + N / that + mệnh đề",
+          "be convinced of + N / that + mệnh đề (tin chắc rằng)"
+        ],
+        "prepositions": [
+          "of",
+          "to",
+          "that"
+        ],
+        "collocations": [
+          "convincing evidence",
+          "hard to convince",
+          "fully convinced",
+          "convince investors"
+        ],
+        "tip": "'Convince' là ngoại động từ, sau nó bắt buộc phải có tân ngữ chỉ người (convince sb to V / convince sb that...), trừ khi chia bị động (be convinced that...)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "convince",
+          "example": "We need solid data to convince the board to approve the expansion.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "conviction",
+          "example": "She spoke with deep conviction about the importance of customer service.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "convincing",
+          "example": "The sales director presented a very convincing case for hiring more staff.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "convincingly",
+          "example": "The applicant demonstrated convincingly that he had the skills for the job.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The marketing team made a very _____ presentation that won over the skeptical investors.",
+        "answer": "convincing",
+        "base_word": "convince",
+        "pos_hint": "tính từ (đuôi -ing bổ nghĩa cho sự vật)",
+        "vi": "Đội ngũ tiếp thị đã thực hiện một bài thuyết trình rất thuyết phục khiến các nhà đầu tư hoài nghi cũng phải đồng tình."
+      }
+    },
+    {
+      "id": 6,
+      "word": "currently",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "happening at the present time; now",
+      "definition_vi": "hiện tại, hiện nay, vào lúc này",
+      "examples": [
+        {
+          "en": "We are currently exploring plans to update the MX3 model.",
+          "vi": "Hiện tại chúng tôi đang tìm hiểu các kế hoạch để nâng cấp mẫu sản phẩm MX3."
+        },
+        {
+          "en": "Currently, customers are demanding big discounts for bulk orders.",
+          "vi": "Hiện nay, khách hàng đang đòi hỏi mức chiết khấu lớn cho các đơn hàng số lượng nhiều."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "currently available",
+        "currently under construction",
+        "currently employed",
+        "currently working on"
+      ],
+      "usage": {
+        "structures": [
+          "be + currently + V-ing / V3-ed / Adj",
+          "Currently, + S + V (thường chia thì hiện tại tiếp diễn hoặc hiện tại đơn)"
+        ],
+        "prepositions": [
+          "at",
+          "in"
+        ],
+        "collocations": [
+          "currently in progress",
+          "currently under review",
+          "currently unavailable",
+          "currently hold the position"
+        ],
+        "tip": "Khi thấy trạng từ 'currently' trong câu, động từ chính thường chia ở thì hiện tại tiếp diễn (is/are + V-ing) hoặc hiện tại đơn."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "currency",
+          "example": "Foreign currency exchange services are available at the main branch.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "current",
+          "example": "Please make sure we have your current mailing address on file.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "currently",
+          "example": "The system is currently undergoing scheduled maintenance.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "All job applicants must submit a resume along with two references from _____ or former employers.",
+        "answer": "current",
+        "base_word": "currently",
+        "pos_hint": "tính từ",
+        "vi": "Tất cả các ứng viên xin việc phải nộp sơ yếu lý lịch cùng với hai thư giới thiệu từ người sử dụng lao động hiện tại hoặc trước đây."
+      }
+    },
+    {
+      "id": 7,
+      "word": "fad",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a practice followed enthusiastically for a short time; a craze",
+      "definition_vi": "mốt nhất thời, trào lưu tạm bợ, cơn sốt ngắn hạn",
+      "examples": [
+        {
+          "en": "The mini dress was a fad once thought to be finished, but now it is making a comeback.",
+          "vi": "Váy ngắn từng là một mốt nhất thời được cho là đã lỗi thời, nhưng giờ đây nó đang quay trở lại."
+        },
+        {
+          "en": "Classic tastes may seem boring but they have proven to resist fads.",
+          "vi": "Gu thẩm mỹ cổ điển có vẻ nhàm chán nhưng đã được chứng minh là đứng vững trước các trào lưu nhất thời."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "passing fad",
+        "latest fad",
+        "mere fad",
+        "resist fads"
+      ],
+      "usage": {
+        "structures": [
+          "a passing fad (một trào lưu thoáng qua)",
+          "follow / resist a fad"
+        ],
+        "prepositions": [
+          "for",
+          "in"
+        ],
+        "collocations": [
+          "diet fad",
+          "fashion fad",
+          "short-lived fad",
+          "temporary fad"
+        ],
+        "tip": "Trong bài đọc Part 7 về Marketing, 'fad' luôn mang hàm ý trào lưu ngắn hạn (short-lived), đối lập với xu hướng lâu dài (long-term trend)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "fad",
+          "example": "Many analysts dismissed the new gadget as just a passing fad.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "faddish",
+          "example": "Investors generally avoid companies that rely on faddish consumer products.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "faddishly",
+          "example": "The boutique caters to teenagers who dress faddishly.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Rather than investing in _____ products, our firm focuses on household essentials with steady demand.",
+        "answer": "faddish",
+        "base_word": "fad",
+        "pos_hint": "tính từ",
+        "vi": "Thay vì đầu tư vào các sản phẩm chạy theo mốt nhất thời, công ty chúng tôi tập trung vào các nhu yếu phẩm gia đình có nhu cầu ổn định."
+      }
+    },
+    {
+      "id": 8,
+      "word": "inspiration",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a thing or person that arouses a feeling",
+      "definition_vi": "nguồn cảm hứng, sự truyền cảm hứng; ý tưởng sáng tạo chợt đến",
+      "examples": [
+        {
+          "en": "His work is an inspiration to the marketing department.",
+          "vi": "Công việc của anh ấy là một nguồn cảm hứng cho phòng tiếp thị."
+        },
+        {
+          "en": "Marta's high sales in Spain were an inspiration to other European reps.",
+          "vi": "Doanh số bán hàng cao của Marta ở Tây Ban Nha là nguồn cảm hứng cho các đại diện bán hàng châu Âu khác."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "draw inspiration from",
+        "be an inspiration to",
+        "source of inspiration",
+        "sudden inspiration"
+      ],
+      "usage": {
+        "structures": [
+          "an inspiration to + sb",
+          "draw / find / get inspiration from + N"
+        ],
+        "prepositions": [
+          "to",
+          "for",
+          "from"
+        ],
+        "collocations": [
+          "creative inspiration",
+          "constant inspiration",
+          "serve as an inspiration",
+          "lack inspiration"
+        ],
+        "tip": "Động từ tương ứng 'inspire' thường đi với cấu trúc 'inspire sb to V' (truyền cảm hứng cho ai làm gì)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "inspire",
+          "example": "Her dedication inspired the entire team to work harder.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "inspiration",
+          "example": "The architect drew inspiration from traditional Japanese gardens.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "inspirational",
+          "example": "The founder gave an inspirational speech at the annual company retreat.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "inspirationally",
+          "example": "She led the department inspirationally through a difficult transition.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The keynote speaker delivered an _____ talk about overcoming obstacles in entrepreneurship.",
+        "answer": "inspirational",
+        "base_word": "inspiration",
+        "pos_hint": "tính từ",
+        "vi": "Diễn giả chính đã có một bài phát biểu đầy cảm hứng về việc vượt qua những trở ngại trong quá trình khởi nghiệp."
+      }
+    },
+    {
+      "id": 9,
+      "word": "market",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "the course of buying and selling a product; n., the demand for a product",
+      "definition_vi": "tiếp thị, tung ra thị trường (v.); thị trường, sức cầu đối với sản phẩm (n.)",
+      "examples": [
+        {
+          "en": "When Omar first began making his chutneys, he marketed them door-to-door to gourmet shops.",
+          "vi": "Khi Omar mới bắt đầu làm món tương ớt ngọt, anh đã tiếp thị chúng tận nơi cho các cửa hàng thực phẩm cao cấp."
+        },
+        {
+          "en": "The market for brightly colored clothing was brisk last year, but it's moving sluggishly this year.",
+          "vi": "Thị trường quần áo màu sắc sặc sỡ rất sôi động vào năm ngoái, nhưng năm nay lại đang chuyển dịch khá chậm chạp."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "market",
+          "example": "The sales department disagreed about how to market their newest product."
+        },
+        {
+          "pos": "",
+          "word": "marketing",
+          "example": "A good director of marketing can find a way to sell even an unattractive product."
+        },
+        {
+          "pos": "",
+          "word": "marketable",
+          "example": "Once the sales manager decided to change the packaging, the product became much more marketable."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "target market",
+        "market share",
+        "on the market",
+        "market research"
+      ],
+      "usage": {
+        "structures": [
+          "market + N + to sb (tiếp thị sản phẩm tới đối tượng nào)",
+          "the market for + N (thị trường tiêu thụ cho sản phẩm gì)"
+        ],
+        "prepositions": [
+          "for",
+          "to",
+          "on",
+          "in"
+        ],
+        "collocations": [
+          "put on the market",
+          "housing market",
+          "competitive market",
+          "emerging market"
+        ],
+        "tip": "Chú ý giới từ: 'on the market' (đang được bày bán trên thị trường) và 'the market for + N' (nhu cầu thị trường đối với mặt hàng gì)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "marketer",
+          "example": "Digital marketers use social media analytics to reach younger consumers.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Improving the packaging design will make our organic tea much more _____ to overseas buyers.",
+        "answer": "marketable",
+        "base_word": "market",
+        "pos_hint": "tính từ",
+        "vi": "Việc cải thiện thiết kế bao bì sẽ giúp trà hữu cơ của chúng ta dễ tiêu thụ hơn nhiều đối với người mua ở nước ngoài."
+      }
+    },
+    {
+      "id": 10,
+      "word": "persuasion",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the power to influence; a deep conviction or belief",
+      "definition_vi": "sự thuyết phục, tài thuyết phục; niềm tin vững chắc",
+      "examples": [
+        {
+          "en": "The seminar teaches techniques of persuasion to increase sales.",
+          "vi": "Hội thảo giảng dạy các kỹ thuật thuyết phục nhằm gia tăng doanh số bán hàng."
+        },
+        {
+          "en": "Under his persuasion, she returned to school for her MBA.",
+          "vi": "Dưới sự thuyết phục của anh ấy, cô đã quay lại trường để học bằng Thạc sĩ Quản trị Kinh doanh (MBA)."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "powers of persuasion",
+        "art of persuasion",
+        "gentle persuasion",
+        "under sb's persuasion"
+      ],
+      "usage": {
+        "structures": [
+          "persuade + sb + to V (thuyết phục ai làm gì)",
+          "persuade + sb + into V-ing / out of V-ing"
+        ],
+        "prepositions": [
+          "of",
+          "by",
+          "under"
+        ],
+        "collocations": [
+          "persuasive argument",
+          "persuasive speaker",
+          "skillful persuasion",
+          "take a lot of persuasion"
+        ],
+        "tip": "Gia đình từ 'persuade (v) - persuasion (n) - persuasive (adj) - persuasively (adv)' là nhóm từ vựng kinh điển trong TOEIC Part 5."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "persuade",
+          "example": "We finally persuaded the client to sign a two-year service contract.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "persuasion",
+          "example": "After a bit of gentle persuasion, Mr. Kim agreed to chair the committee.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "persuasive",
+          "example": "A successful salesperson must be both knowledgeable and persuasive.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "persuasively",
+          "example": "The attorney argued persuasively that the patent had not been infringed.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Thanks to her _____ negotiation skills, we secured a 15 percent discount from the supplier.",
+        "answer": "persuasive",
+        "base_word": "persuasion",
+        "pos_hint": "tính từ",
+        "vi": "Nhờ kỹ năng đàm phán đầy thuyết phục của cô ấy, chúng tôi đã giành được mức chiết khấu 15 phần trăm từ nhà cung cấp."
+      }
+    },
+    {
+      "id": 11,
+      "word": "productive",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "constructive; high yield",
+      "definition_vi": "năng suất cao, có hiệu quả, sinh lời nhiều",
+      "examples": [
+        {
+          "en": "The unproductive sales meeting brought many staff complaints.",
+          "vi": "Cuộc họp bán hàng kém hiệu quả đã dẫn đến nhiều lời phàn nàn từ nhân viên."
+        },
+        {
+          "en": "Alonzo is excited about his productive staff.",
+          "vi": "Alonzo rất hào hứng về đội ngũ nhân viên làm việc đầy năng suất của mình."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "productive meeting",
+        "highly productive",
+        "productive workforce",
+        "increase productivity"
+      ],
+      "usage": {
+        "structures": [
+          "be productive (of + N)",
+          "boost / increase / improve productivity"
+        ],
+        "prepositions": [
+          "of",
+          "in"
+        ],
+        "collocations": [
+          "productive discussion",
+          "workplace productivity",
+          "counterproductive",
+          "productive capacity"
+        ],
+        "tip": "Phân biệt kỹ hai tính từ của 'produce': 'productive' (có năng suất/hiệu quả cao) và 'produced' (được sản xuất)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "produce",
+          "example": "The factory produces over ten thousand solar panels each month.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "productivity",
+          "example": "Flexible working hours have led to a noticeable rise in employee productivity.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "productive",
+          "example": "We had a very productive brainstorming session this morning.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "productively",
+          "example": "Remote software tools allow our teams to collaborate productively from home.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Upgrading the assembly line machinery has boosted overall factory _____ by twenty percent.",
+        "answer": "productivity",
+        "base_word": "productive",
+        "pos_hint": "danh từ",
+        "vi": "Việc nâng cấp máy móc dây chuyền lắp ráp đã thúc đẩy năng suất tổng thể của nhà máy tăng hai mươi phần trăm."
+      }
+    },
+    {
+      "id": 12,
+      "word": "satisfaction",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "happiness",
+      "definition_vi": "sự hài lòng, sự thỏa mãn",
+      "examples": [
+        {
+          "en": "Your satisfaction is guaranteed or you'll get your money back.",
+          "vi": "Sự hài lòng của quý khách được bảo đảm, nếu không quý khách sẽ được hoàn lại tiền."
+        },
+        {
+          "en": "We will print the advertisement to your satisfaction.",
+          "vi": "Chúng tôi sẽ in ấn phẩm quảng cáo cho đến khi quý khách hài lòng."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "satisfaction",
+          "example": "Our highest priority is customer satisfaction."
+        },
+        {
+          "pos": "",
+          "word": "satisfy",
+          "example": "Henri was perfectly satisfied with his new fishing rod."
+        },
+        {
+          "pos": "",
+          "word": "satisfactory",
+          "example": "The rods were not in satisfactory condition."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "customer satisfaction",
+        "to sb's satisfaction",
+        "job satisfaction",
+        "satisfaction guaranteed"
+      ],
+      "usage": {
+        "structures": [
+          "to one's satisfaction (đến mức ai đó hài lòng)",
+          "be satisfied with + N (hài lòng với cái gì)"
+        ],
+        "prepositions": [
+          "with",
+          "to",
+          "of"
+        ],
+        "collocations": [
+          "express satisfaction",
+          "satisfactory performance",
+          "satisfaction survey",
+          "completely satisfied"
+        ],
+        "tip": "Chú ý phân biệt: 'satisfied' (hài lòng - chỉ cảm xúc của người) và 'satisfactory' (thỏa đáng, đạt yêu cầu - chỉ chất lượng của sự vật/kết quả)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "satisfactorily",
+          "example": "All customer complaints must be resolved satisfactorily within 48 hours.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "If the audit results are _____, the company will proceed with the public stock offering.",
+        "answer": "satisfactory",
+        "base_word": "satisfaction",
+        "pos_hint": "tính từ (bổ nghĩa cho sự vật/kết quả)",
+        "vi": "Nếu kết quả kiểm toán đạt yêu cầu, công ty sẽ tiến hành đợt chào bán cổ phiếu ra công chúng."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. Yassir is getting ready to realize his dream: opening a business that sells plants on the Internet. After completing a business plan that helped him to determine that there was demand for his (1) ____ in the (2) ____, Yassir is ready to start promoting his business. Having (3) ____ the bank that there was a market—that there were consumers willing to buy plants on the Internet—he needed to find these (4) ____. Once he has an established base, Yassir, like other business owners, will have to continually (5) ____ new customers. At the same time, he must make sure current customers are (6) ____. In order to be satisfied, (7) ____ customers must be happy with the product they receive. Yassir's job is to (8) ____ these customers to gain their repeat business. To do this, he will have to (9) ____ consumers that he offers a good product at a good price, especially when (10) ____ to the businesses with which he (11) ____. He hopes that Internet plant buyers are here to stay and not just part of a (12) ____.",
+    "word_bank": [
+      "attract",
+      "consumers",
+      "fad",
+      "persuaded",
+      "compared",
+      "convince",
+      "inspire",
+      "product",
+      "competes",
+      "current",
+      "market",
+      "satisfied"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "attract",
+        "example": "The store's poor location did not help it attract customers.",
+        "pos": ""
+      },
+      {
+        "word": "attraction",
+        "example": "Having a clown in the toy store was a foolproof attraction for getting kids to enter.",
+        "pos": ""
+      },
+      {
+        "word": "attractive",
+        "example": "Lou ran his store on an old-fashioned premise: quality merchandise at attractive prices.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "compare",
+        "example": "She compared the prices before she made a decision.",
+        "pos": ""
+      },
+      {
+        "word": "comparison",
+        "example": "There was no comparison in the quality of the two brands.",
+        "pos": ""
+      },
+      {
+        "word": "comparable",
+        "example": "To get an average for home costs, the agent sought prices on comparable homes.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "competition",
+        "example": "Try to think of yourself as someone who leads the competition.",
+        "pos": ""
+      },
+      {
+        "word": "compete",
+        "example": "We competed against three or four other agencies to get this contract.",
+        "pos": ""
+      },
+      {
+        "word": "competitive",
+        "example": "His competitive character made him quite successful in his department.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "consume",
+        "example": "The analyst was able to consume new information quickly.",
+        "pos": ""
+      },
+      {
+        "word": "consumer",
+        "example": "The government tracks consumer spending closely.",
+        "pos": ""
+      },
+      {
+        "word": "consumable",
+        "example": "He ran a study of the use of consumable goods.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "market",
+        "example": "The sales department disagreed about how to market their newest product.",
+        "pos": ""
+      },
+      {
+        "word": "marketing",
+        "example": "A good director of marketing can find a way to sell even an unattractive product.",
+        "pos": ""
+      },
+      {
+        "word": "marketable",
+        "example": "Once the sales manager decided to change the packaging, the product became much more marketable.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "satisfaction",
+        "example": "Our highest priority is customer satisfaction.",
+        "pos": ""
+      },
+      {
+        "word": "satisfy",
+        "example": "Henri was perfectly satisfied with his new fishing rod.",
+        "pos": ""
+      },
+      {
+        "word": "satisfactory",
+        "example": "The rods were not in satisfactory condition.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "Marketing specialists have conducted extensive studies of what ____ customers to a particular product.",
+        "options": [
+          {
+            "label": "A",
+            "text": "attractive"
+          },
+          {
+            "label": "B",
+            "text": "attraction"
+          },
+          {
+            "label": "C",
+            "text": "attracts"
+          },
+          {
+            "label": "D",
+            "text": "attracting"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "Smart shoppers will ____ similar brands of an item before making a decision.",
+        "options": [
+          {
+            "label": "A",
+            "text": "compare"
+          },
+          {
+            "label": "B",
+            "text": "comparison"
+          },
+          {
+            "label": "C",
+            "text": "comparative"
+          },
+          {
+            "label": "D",
+            "text": "comparable"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "If our work isn't to your ____, please notify us within 60 days.",
+        "options": [
+          {
+            "label": "A",
+            "text": "satisfy"
+          },
+          {
+            "label": "B",
+            "text": "satisfactory"
+          },
+          {
+            "label": "C",
+            "text": "satisfaction"
+          },
+          {
+            "label": "D",
+            "text": "satisfied"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "Manufacturers like to know what features ____ find useful.",
+        "options": [
+          {
+            "label": "A",
+            "text": "consumers"
+          },
+          {
+            "label": "B",
+            "text": "consume"
+          },
+          {
+            "label": "C",
+            "text": "consumption"
+          },
+          {
+            "label": "D",
+            "text": "consumable"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "Without good ____, good products can go unsold.",
+        "options": [
+          {
+            "label": "A",
+            "text": "market"
+          },
+          {
+            "label": "B",
+            "text": "marketable"
+          },
+          {
+            "label": "C",
+            "text": "marketed"
+          },
+          {
+            "label": "D",
+            "text": "marketing"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "A careful analysis of the ____ products on the market indicated that our product lacked innovation and optional features.",
+        "options": [
+          {
+            "label": "A",
+            "text": "compete"
+          },
+          {
+            "label": "B",
+            "text": "competing"
+          },
+          {
+            "label": "C",
+            "text": "competed"
+          },
+          {
+            "label": "D",
+            "text": "competition"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Dear Valued Customer, Smart consumers like yourself are concerned about your family's nutrition. Health is a top priority, and so is value. You want high-quality food products at competitive prices. That's why we are introducing Farm Fresh, our new line of 100% natural and organic frozen dinners. We know you'll love the great natural taste of Farm Fresh dinners such as Turkey and Wild Rice, Wild Salmon with Spring Greens, and Country Chicken with Vegetables. Farm Fresh dinners are [16] packaged with 100% recyclable materials. But we don't have to use a lot of fancy words to convince you to enjoy Farm Fresh frozen dinners. We will let their great taste [17] you to keep coming back for more. Please use the enclosed coupons to buy up to six Farm Fresh dinners of your choice at 25% off the usual retail price. We know you [18] by the great taste and the great price. Sincerely, Rosa Martello National Frozen Foods, Inc.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "attract"
+            },
+            {
+              "label": "B",
+              "text": "attractive"
+            },
+            {
+              "label": "C",
+              "text": "attractively"
+            },
+            {
+              "label": "D",
+              "text": "attraction"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "persuade"
+            },
+            {
+              "label": "B",
+              "text": "persuades"
+            },
+            {
+              "label": "C",
+              "text": "to persuade"
+            },
+            {
+              "label": "D",
+              "text": "will persuade"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "satisfy"
+            },
+            {
+              "label": "B",
+              "text": "satisfied"
+            },
+            {
+              "label": "C",
+              "text": "will satisfy"
+            },
+            {
+              "label": "D",
+              "text": "will be satisfied"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following report. Catherine Cosmetics Company Sales Department Meeting Report March 29, 20— We reviewed the sales figures for the past quarter. We are currently experiencing a significant drop in sales in our hair care products. This has been going on since the beginning of the year when we introduced the improved version of our top-selling hair care line, Catherine's Curls. Our advertising has not been successful in convincing more consumers to buy these products. We know there is a market for products such as these manufactured with 100% natural ingredients and no testing on animals. In fact, our competitors are doing quite well in this area and have been for a number of years. We know from our research that the popularity of all-natural cosmetic products is more than just a passing fad, and this is why we decided to branch out into this area. We have carefully compared our products to those of our three largest competitors. We have looked at product ingredients, packaging, target consumers, pricing, and sales strategies. Our product is similar, or even better, in all ways but one. Our packaging is significantly less eye-catching than that of our competitors, and it does not convey the important aspects of the products to the consumer, that is, that these products are entirely made with natural ingredients. Therefore, in order to attract more customers, we recommend employing a new designer to create better packaging for the Catherine's Curls line of products. 22. The word market in line 5 is closest in meaning to (A) product (B) factory (C) purchase (D) demand 23. The word $fad$ in line 8 is closest in meaning to (A) need (B) fashion (C) event (D) wish",
+        "questions": [
+          {
+            "number": 19,
+            "question": "When did the sales department have a meeting?",
+            "options": [
+              {
+                "label": "A",
+                "text": "At the beginning of the year."
+              },
+              {
+                "label": "B",
+                "text": "In March."
+              },
+              {
+                "label": "C",
+                "text": "A quarter of a year ago."
+              },
+              {
+                "label": "D",
+                "text": "At the end of last year."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "Which of the following might be part of the Catherine's Curls line of products?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Shampoo."
+              },
+              {
+                "label": "B",
+                "text": "Hand lotion."
+              },
+              {
+                "label": "C",
+                "text": "Nail polish."
+              },
+              {
+                "label": "D",
+                "text": "Lipstick."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "According to the report, why are fewer people buying Catherine's Curls products?",
+            "options": [
+              {
+                "label": "A",
+                "text": "The prices are too high."
+              },
+              {
+                "label": "B",
+                "text": "The ingredients aren't natural."
+              },
+              {
+                "label": "C",
+                "text": "The packages aren't attractive."
+              },
+              {
+                "label": "D",
+                "text": "The type of product is not popular."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "Why does the store need to be more competitive?",
+        "options": [
+          {
+            "label": "A",
+            "text": "There's currently a recession."
+          },
+          {
+            "label": "B",
+            "text": "Productivity has dropped lately."
+          },
+          {
+            "label": "C",
+            "text": "There's a new competitor nearby."
+          },
+          {
+            "label": "D",
+            "text": "New employees have little experience."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How will the store attract more customers?",
+        "options": [
+          {
+            "label": "A",
+            "text": "By giving them trial products."
+          },
+          {
+            "label": "B",
+            "text": "By giving them discounts."
+          },
+          {
+            "label": "C",
+            "text": "By selling new products."
+          },
+          {
+            "label": "D",
+            "text": "By featuring happy customers in ads."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "Who will the woman call?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A photographer."
+          },
+          {
+            "label": "B",
+            "text": "A photocopy salesperson."
+          },
+          {
+            "label": "C",
+            "text": "A customer."
+          },
+          {
+            "label": "D",
+            "text": "A marketing executive."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "Who would listen to this talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Customers."
+          },
+          {
+            "label": "B",
+            "text": "Competitors."
+          },
+          {
+            "label": "C",
+            "text": "Students."
+          },
+          {
+            "label": "D",
+            "text": "Salespeople."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What are they trying to identify?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Their weaknesses."
+          },
+          {
+            "label": "B",
+            "text": "How to price their service."
+          },
+          {
+            "label": "C",
+            "text": "Their strong points."
+          },
+          {
+            "label": "D",
+            "text": "Who the competition is."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "Where will the listeners be this afternoon?",
+        "options": [
+          {
+            "label": "A",
+            "text": "At home."
+          },
+          {
+            "label": "B",
+            "text": "In a workshop."
+          },
+          {
+            "label": "C",
+            "text": "At a store."
+          },
+          {
+            "label": "D",
+            "text": "With a client."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three possible responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best response. 4. Why does the store need to be more competitive? (A) There's currently a recession. (B) Productivity has dropped lately. (C) There's a new competitor nearby. (D) New employees have little experience. 5. How will the store attract more customers? (A) By giving them trial products. (B) By giving them discounts. (C) By selling new products. (D) By featuring happy customers in ads. 6. Who will the woman call? (A) A photographer. (B) A photocopy salesperson. (C) A customer. (D) A marketing executive. Listen to the talk. Then read each question and choose the best answer. 7. Who would listen to this talk? (A) Customers. (B) Competitors. (C) Students. (D) Salespeople. 8. What are they trying to identify? (A) Their weaknesses. (B) How to price their service. (C) Their strong points. (D) Who the competition is. 9. Where will the listeners be this afternoon? (A) At home. (B) In a workshop. (C) At a store. (D) With a client.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "Why does the store need to be more competitive?",
+        "options": [
+          {
+            "label": "A",
+            "text": "There's currently a recession."
+          },
+          {
+            "label": "B",
+            "text": "Productivity has dropped lately."
+          },
+          {
+            "label": "C",
+            "text": "There's a new competitor nearby."
+          },
+          {
+            "label": "D",
+            "text": "New employees have little experience."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How will the store attract more customers?",
+        "options": [
+          {
+            "label": "A",
+            "text": "By giving them trial products."
+          },
+          {
+            "label": "B",
+            "text": "By giving them discounts."
+          },
+          {
+            "label": "C",
+            "text": "By selling new products."
+          },
+          {
+            "label": "D",
+            "text": "By featuring happy customers in ads."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "Who will the woman call?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A photographer."
+          },
+          {
+            "label": "B",
+            "text": "A photocopy salesperson."
+          },
+          {
+            "label": "C",
+            "text": "A customer."
+          },
+          {
+            "label": "D",
+            "text": "A marketing executive."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "Who would listen to this talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Customers."
+          },
+          {
+            "label": "B",
+            "text": "Competitors."
+          },
+          {
+            "label": "C",
+            "text": "Students."
+          },
+          {
+            "label": "D",
+            "text": "Salespeople."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What are they trying to identify?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Their weaknesses."
+          },
+          {
+            "label": "B",
+            "text": "How to price their service."
+          },
+          {
+            "label": "C",
+            "text": "Their strong points."
+          },
+          {
+            "label": "D",
+            "text": "Who the competition is."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "Where will the listeners be this afternoon?",
+        "options": [
+          {
+            "label": "A",
+            "text": "At home."
+          },
+          {
+            "label": "B",
+            "text": "In a workshop."
+          },
+          {
+            "label": "C",
+            "text": "At a store."
+          },
+          {
+            "label": "D",
+            "text": "With a client."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "## Marketing\n\nStudy the following definitions and examples.\n\n1. attract v., to draw by appeal\n\na. The display attracted a number of people at the convention.\n\nb. The new advertising attracts the wrong kind of customer into the store.\n\n2. compare v., to examine similarities and differences\n\na. Once the customer compared the two products, her choice was easy.\n\nb. The price for this brand is high compared to the other brands on the market.\n\n3. competition n., a contest or struggle\n\na. In the competition for afternoon diners, Hector's has come out on top.\n\nb. The company has decided not to join the growing competition for dominance in the semiconductor market.\n\n4. consume v., to absorb; to use up\n\na. The business plans consumed all of Fritz's attention this fall.\n\nb. This printer consumes more toner than the downstairs printer.\n\n5. convince v., to bring to believe by argument; to persuade\n\na. The salesman convinced his customer to buy his entire inventory of pens.\n\nb. Before a business can convince customers that it provides a quality product, it must convince its marketing staff.\n\n6. currently adv., happening at the present time; now\n\na. We are currently exploring plans to update the MX3 model.\n\nb. Currently, customers are demanding big discounts for bulk orders.\n\n7. fad n., a practice followed enthusiastically for a short time; a craze a. The mini dress was a fad once thought to be finished, but now it is making a comeback.\n\nb. Classic tastes may seem boring but they have proven to resist fads.\n\n8. inspiration n., a thing or person that arouses a feeling\n\na. His work is an inspiration to the marketing department.\n\nb. Marta's high sales in Spain were an inspiration to other European reps.\n\n9. market v., the course of buying and selling a product; n., the demand for a product\n\na. When Omar first began making his chutneys, he marketed them door-to-door to gourmet shops.\n\nb. The market for brightly colored clothing was brisk last year, but it's moving sluggishly this year.\n\n10. persuasion n., the power to influence; a deep conviction or belief\n\na. The seminar teaches techniques of persuasion to increase sales.\n\nb. Under his persuasion, she returned to school for her MBA.\n\n11. productive adj., constructive; high yield\n\na. The unproductive sales meeting brought many staff complaints.\n\nb. Alonzo is excited about his productive staff.\n\n12. satisfaction n., happiness\n\na. Your satisfaction is guaranteed or you'll get your money back.\n\nb. We will print the advertisement to your satisfaction.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\n| attract | consumers | fad | persuaded |\n| --- | --- | --- | --- |\n| compared | convince | inspire | product |\n| competes | current | market | satisfied |\n\nYassir is getting ready to realize his dream: opening a business that sells plants on the Internet. After completing a business plan that helped him to determine that there was demand for his (1) \\_\\_\\_\\_ in the (2) \\_\\_\\_\\_, Yassir is ready to start promoting his business. Having (3) \\_\\_\\_\\_ the bank that there was a market—that there were consumers willing to buy plants on the Internet—he needed to find these (4) \\_\\_\\_\\_.\n\nOnce he has an established base, Yassir, like other business owners, will have to continually (5) \\_\\_\\_\\_ new customers. At the same time, he must make sure current customers are (6) \\_\\_\\_\\_. In order to be satisfied, (7) \\_\\_\\_\\_ customers must be happy with the product they receive. Yassir's job is to (8) \\_\\_\\_\\_ these customers to gain their repeat business. To do this, he will have to (9) \\_\\_\\_\\_ consumers that he offers a good product at a good price, especially when (10) \\_\\_\\_\\_ to the businesses with which he (11) \\_\\_\\_\\_. He hopes that Internet plant buyers are here to stay and not just part of a (12) \\_\\_\\_\\_.",
+    "word_families": "## WORD FAMILIES\n\n| attract | The store's poor location did not help it attract customers. |\n| --- | --- |\n| attraction | Having a clown in the toy store was a foolproof attraction for getting kids to enter. |\n| attractive | Lou ran his store on an old-fashioned premise: quality merchandise at attractive prices. |\n\n| compare | She compared the prices before she made a decision. |\n| --- | --- |\n| comparison | There was no comparison in the quality of the two brands. |\n| comparable | To get an average for home costs, the agent sought prices on comparable homes. |\n\n| competition | Try to think of yourself as someone who leads the competition. |\n| --- | --- |\n| compete | We competed against three or four other agencies to get this contract. |\n| competitive | His competitive character made him quite successful in his department. |\n\n| consume | The analyst was able to consume new information quickly. |\n| --- | --- |\n| consumer | The government tracks consumer spending closely. |\n| consumable | He ran a study of the use of consumable goods. |\n\n| market | The sales department disagreed about how to market their newest product. |\n| --- | --- |\n| marketing | A good director of marketing can find a way to sell even an unattractive product. |\n| marketable | Once the sales manager decided to change the packaging, the product became much more marketable. |\n\n| satisfaction | Our highest priority is customer satisfaction. |\n| --- | --- |\n| satisfy | Henri was perfectly satisfied with his new fishing rod. |\n| satisfactory | The rods were not in satisfactory condition. |",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question-Response\n\nListen to the question and the three possible responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best response.\n\n4. Why does the store need to be more competitive?  \n(A) There's currently a recession.  \n(B) Productivity has dropped lately.  \n(C) There's a new competitor nearby.  \n(D) New employees have little experience.\n\n5. How will the store attract more customers?  \n(A) By giving them trial products.  \n(B) By giving them discounts.  \n(C) By selling new products.  \n(D) By featuring happy customers in ads.\n\n6. Who will the woman call?  \n(A) A photographer.  \n(B) A photocopy salesperson.  \n(C) A customer.  \n(D) A marketing executive.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. Who would listen to this talk?\n(A) Customers.\n(B) Competitors.\n(C) Students.\n(D) Salespeople.\n\n8. What are they trying to identify?\n(A) Their weaknesses.\n(B) How to price their service.\n(C) Their strong points.\n(D) Who the competition is.\n\n9. Where will the listeners be this afternoon?\n(A) At home.\n(B) In a workshop.\n(C) At a store.\n(D) With a client.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. Marketing specialists have conducted extensive studies of what \\_\\_\\_\\_ customers to a particular product.\n(A) attractive (C) attracts\n(B) attraction (D) attracting\n\n11. Smart shoppers will \\_\\_\\_\\_ similar brands of an item before making a decision.\n(A) compare (C) comparative\n(B) comparison (D) comparable\n\n12. If our work isn't to your \\_\\_\\_\\_, please notify us within 60 days.\n(A) satisfy (C) satisfaction\n(B) satisfactory (D) satisfied\n\n13. Manufacturers like to know what features \\_\\_\\_\\_ find useful.\n(A) consumers (C) consumption\n(B) consume (D) consumable\n\n14. Without good \\_\\_\\_\\_, good products can go unsold.\n(A) market (C) marketed\n(B) marketable (D) marketing\n\n15. A careful analysis of the \\_\\_\\_\\_ products on the market indicated that our product lacked innovation and optional features.\n(A) compete (C) competed\n(B) competing (D) competition\n\n## Part 6 Text Completion\n\nChoose the word or phrase that best completes the sentence.\n\nDear Valued Customer,\n\nSmart consumers like yourself are concerned about your family's nutrition. Health is a top priority, and so is value. You want high-quality food products at competitive prices. That's why we are introducing Farm Fresh, our new line of 100% natural and organic frozen dinners. We know you'll love the great natural taste of Farm Fresh dinners such as Turkey and Wild Rice, Wild Salmon with Spring Greens, and Country Chicken with Vegetables. Farm Fresh dinners are \\_16\\_ packaged with 100% recyclable materials. But we don't have to use a lot of fancy words to convince you to enjoy Farm Fresh frozen dinners. We will let their great taste \\_17\\_ you to keep coming back for more. Please use the enclosed coupons to buy up to six Farm Fresh dinners of your choice at 25% off the usual retail price. We know you \\_18\\_ by the great taste and the great price.\n\nSincerely,\n\nRosa Martello  \nNational Frozen Foods, Inc.\n\n16. (A) attract (B) attractive (C) attractively (D) attraction\n\n17. (A) persuade (B) persuades (C) to persuade (D) will persuade\n\n18. (A) satisfy (B) satisfied (C) will satisfy (D) will be satisfied",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following report.\n\nCatherine Cosmetics Company Sales Department Meeting Report March 29, 20—\n\nWe reviewed the sales figures for the past quarter. We are currently experiencing a significant drop in sales in our hair care products. This has been going on since the beginning of the year when we introduced the improved version of our top-selling hair care line, Catherine's Curls. Our advertising has not been successful in convincing more consumers to buy these products. We know there is a market for products such as these manufactured with 100% natural ingredients and no testing on animals. In fact, our competitors are doing quite well in this area and have been for a number of years. We know from our research that the popularity of all-natural cosmetic products is more than just a passing fad, and this is why we decided to branch out into this area. We have carefully compared our products to those of our three largest competitors. We have looked at product ingredients, packaging, target consumers, pricing, and sales strategies. Our product is similar, or even better, in all ways but one. Our packaging is significantly less eye-catching than that of our competitors, and it does not convey the important aspects of the products to the consumer, that is, that these products are entirely made with natural ingredients. Therefore, in order to attract more customers, we recommend employing a new designer to create better packaging for the Catherine's Curls line of products.\n\n19. When did the sales department have a meeting?\n(A) At the beginning of the year.\n(B) In March.\n(C) A quarter of a year ago.\n(D) At the end of last year.\n\n20. Which of the following might be part of the Catherine's Curls line of products?  \n(A) Shampoo.  \n(B) Hand lotion.  \n(C) Nail polish.  \n(D) Lipstick.\n\n21. According to the report, why are fewer people buying Catherine's Curls products?\n(A) The prices are too high.\n(B) The ingredients aren't natural.\n(C) The packages aren't attractive.\n(D) The type of product is not popular.\n\n22. The word market in line 5 is closest in meaning to (A) product (B) factory (C) purchase (D) demand\n\n23. The word $fad$ in line 8 is closest in meaning to (A) need (B) fashion (C) event (D) wish"
+  },
+  "needs_review": true
+}

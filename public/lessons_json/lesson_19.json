@@ -1,0 +1,1662 @@
+{
+  "lesson_id": 19,
+  "title": "Invoices",
+  "theme_name": "Purchasing",
+  "audio_track": "track_19.mp3",
+  "part1_photo": "part1_photos/lesson_19.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "charge",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to demand payment; n., an expense or a cost",
+      "definition_vi": "(v) tính phí, thu tiền; (n) chi phí, khoản phí; sự phụ trách",
+      "examples": [
+        {
+          "en": "The customer service representative was responsible for telling all existing customers that higher prices would be charged next month.",
+          "vi": "Nhân viên đại diện chăm sóc khách hàng chịu trách nhiệm thông báo cho tất cả các khách hàng hiện tại rằng mức giá cao hơn sẽ được áp dụng vào tháng tới."
+        },
+        {
+          "en": "The extra charge for gift wrapping your purchase will appear on your invoice.",
+          "vi": "Khoản phí phụ thu cho việc gói quà món hàng bạn mua sẽ hiển thị trên hóa đơn của bạn."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "free of charge",
+        "at no extra charge",
+        "in charge of",
+        "shipping charges"
+      ],
+      "usage": {
+        "structures": [
+          "charge + (sb) + [số tiền] + for + sth (tính phí ai bao nhiêu tiền cho cái gì)",
+          "charge + sth + to + an account/credit card (ghi nợ khoản gì vào tài khoản/thẻ)",
+          "be in charge of + N (chịu trách nhiệm phụ trách cái gì)"
+        ],
+        "prepositions": [
+          "for",
+          "to",
+          "of",
+          "at"
+        ],
+        "collocations": [
+          "service charge",
+          "admission charge",
+          "surcharge",
+          "overcharge a customer"
+        ],
+        "tip": "Ba cụm cố định xuất hiện liên tục trong TOEIC: 'free of charge' (miễn phí), 'at no additional charge' (không mất thêm phí), và 'in charge of' (phụ trách)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "charge",
+          "example": "The hotel does not charge guests for local telephone calls.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "charge",
+          "example": "A ten percent service charge is automatically added to group bills.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "verb",
+          "word": "overcharge",
+          "example": "The client called to complain that he had been overcharged on his monthly invoice.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "chargeable",
+          "example": "Any repairs not covered by the warranty will be chargeable to the owner.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Replacement parts will be provided free of _____ if the appliance fails within the warranty period.",
+        "answer": "charge",
+        "base_word": "charge",
+        "pos_hint": "danh từ trong cụm free of charge",
+        "vi": "Phụ tùng thay thế sẽ được cung cấp miễn phí nếu thiết bị gặp sự cố trong thời gian bảo hành."
+      }
+    },
+    {
+      "id": 2,
+      "word": "compile",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to gather together from several sources",
+      "definition_vi": "biên soạn, tập hợp, tổng hợp (tài liệu, dữ liệu, danh sách)",
+      "examples": [
+        {
+          "en": "I have compiled a list of the most popular items in our sales catalog",
+          "vi": "Tôi đã tổng hợp một danh sách các mặt hàng phổ biến nhất trong cuốn danh mục bán hàng của chúng ta."
+        },
+        {
+          "en": "The clerk is responsible for compiling the orders at the end of the day.",
+          "vi": "Nhân viên văn phòng chịu trách nhiệm tập hợp các đơn đặt hàng vào cuối ngày."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "compile",
+          "example": "Once the data is compiled, we will know more about sales of the R500 model."
+        },
+        {
+          "pos": "noun",
+          "word": "compilation",
+          "example": "A compilation of factors led us to believe that employee theft had led to the missing inventory."
+        },
+        {
+          "pos": "",
+          "word": "compiled",
+          "example": "According to the numbers we’ve compiled, sales remained flat in the second quarter."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "compile a list",
+        "compile data",
+        "compile a report",
+        "compile statistics"
+      ],
+      "usage": {
+        "structures": [
+          "compile + data/information/a list/a report + from + N (tổng hợp dữ liệu/danh sách/báo cáo từ nhiều nguồn)"
+        ],
+        "prepositions": [
+          "from",
+          "into"
+        ],
+        "collocations": [
+          "compile a directory",
+          "compile survey results",
+          "newly compiled figures",
+          "data compilation"
+        ],
+        "tip": "Thường đi với các tân ngữ chỉ dữ liệu hoặc tài liệu được thu thập từ nhiều nguồn: 'compile a report / list / directory / statistics / data'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "compiler",
+          "example": "The compiler of the annual industry directory verified every company address.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The market research team spent six weeks _____ data on consumer spending habits.",
+        "answer": "compiling",
+        "base_word": "compile",
+        "pos_hint": "danh động từ (V-ing) sau spend time",
+        "vi": "Nhóm nghiên cứu thị trường đã dành sáu tuần để tổng hợp dữ liệu về thói quen chi tiêu của người tiêu dùng."
+      }
+    },
+    {
+      "id": 3,
+      "word": "customer",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "one who purchases a commodity or service",
+      "definition_vi": "khách hàng (người mua hàng hóa hoặc dịch vụ)",
+      "examples": [
+        {
+          "en": "Let's make sure all invoices sent to customers are kept in alphabetical order.",
+          "vi": "Chúng ta hãy đảm bảo tất cả các hóa đơn gửi cho khách hàng được lưu giữ theo thứ tự bảng chữ cái."
+        },
+        {
+          "en": "As part of our customer satisfaction plan, let's offer a discount to customers who pay their invoices within a week.",
+          "vi": "Như một phần trong kế hoạch làm hài lòng khách hàng của chúng ta, hãy chiết khấu cho những khách hàng thanh toán hóa đơn trong vòng một tuần."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "customer service",
+        "customer satisfaction",
+        "regular customer",
+        "prospective customer"
+      ],
+      "usage": {
+        "structures": [
+          "customer + N (danh từ ghép: customer service/support/satisfaction/loyalty/base)"
+        ],
+        "prepositions": [
+          "to",
+          "for"
+        ],
+        "collocations": [
+          "valued customer",
+          "loyal customer",
+          "customer base",
+          "attract new customers"
+        ],
+        "tip": "Họ từ liên quan cần chú ý trong TOEIC: 'custom' (phong tục / hải quan / đặt làm riêng), 'customs' (thuế/cơ quan hải quan), và 'customize' (tùy chỉnh theo yêu cầu khách hàng)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "customize",
+          "example": "We can customize the billing software to meet your accounting department's needs.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "customer",
+          "example": "Every customer receives an automated e-mail receipt after payment.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "customizable",
+          "example": "The enterprise platform features fully customizable invoice templates.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "customary",
+          "example": "It is customary in this industry to offer a discount for early payment.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Our software engineers can _____ the dashboard layout according to each client's preferences.",
+        "answer": "customize",
+        "base_word": "customer",
+        "pos_hint": "động từ nguyên mẫu (tùy chỉnh)",
+        "vi": "Các kỹ sư phần mềm của chúng tôi có thể tùy chỉnh bố cục bảng điều khiển theo sở thích của từng khách hàng."
+      }
+    },
+    {
+      "id": 4,
+      "word": "discount",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a reduction in price; v., to reduce in price",
+      "definition_vi": "(n) khoản giảm giá, sự chiết khấu; (v) giảm giá, chiết khấu",
+      "examples": [
+        {
+          "en": "We are offering a 10 percent discount to all new customers.",
+          "vi": "Chúng tôi đang áp dụng mức giảm giá 10 phần trăm cho tất cả các khách hàng mới."
+        },
+        {
+          "en": "They discounted the price on the merchandise damaged in shipment.",
+          "vi": "Họ đã giảm giá đối với những hàng hóa bị hư hỏng trong quá trình vận chuyển."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "offer a discount",
+        "at a discount",
+        "bulk discount",
+        "employee discount"
+      ],
+      "usage": {
+        "structures": [
+          "a discount on + N (giảm giá cho mặt hàng gì)",
+          "at a discount (với mức giá đã giảm)",
+          "discount + O (giảm giá mặt hàng gì)"
+        ],
+        "prepositions": [
+          "on",
+          "at",
+          "off"
+        ],
+        "collocations": [
+          "steep discount",
+          "ten percent discount",
+          "discounted price",
+          "discount coupon"
+        ],
+        "tip": "Chú ý giới từ: 'a discount ON + mặt hàng' (a 15% discount on all office furniture) và 'AT a discount' (bán với giá chiết khấu)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "discount",
+          "example": "The bookstore discounts all hardcover bestsellers by twenty percent.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "discount",
+          "example": "Members receive an exclusive discount on conference registration fees.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "discounted",
+          "example": "Discounted tickets are available for groups of ten or more.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Subscribers who renew their memberships before December 31 will receive a _____ rate.",
+        "answer": "discounted",
+        "base_word": "discount",
+        "pos_hint": "tính từ (V-ed) bổ nghĩa cho rate",
+        "vi": "Những người đăng ký gia hạn tư cách thành viên trước ngày 31 tháng 12 sẽ nhận được mức giá ưu đãi giảm giá."
+      }
+    },
+    {
+      "id": 5,
+      "word": "efficient",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "acting or producing effectively with a minimum of waste or unnecessary effort",
+      "definition_vi": "hiệu quả, năng suất cao (ít tốn thời gian, công sức hoặc chi phí)",
+      "examples": [
+        {
+          "en": "The accountant was so efficient in processing the customer receipts that she had the job done before lunch.",
+          "vi": "Nhân viên kế toán xử lý các biên lai của khách hàng hiệu quả đến mức cô đã hoàn thành công việc trước bữa trưa."
+        },
+        {
+          "en": "Electronic invoicing has helped us to be efficient.",
+          "vi": "Việc lập hóa đơn điện tử đã giúp chúng tôi làm việc hiệu quả."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "adjective",
+          "word": "efficient",
+          "example": "Counting by twos or threes is much more efficient than counting by one."
+        },
+        {
+          "pos": "",
+          "word": "efficiently",
+          "example": "If we work efficiently, we may be done by midnight."
+        },
+        {
+          "pos": "noun",
+          "word": "efficiency",
+          "example": "His efficiency makes him one of the finest operators in the company."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "cost-efficient",
+        "fuel-efficient",
+        "energy-efficient",
+        "work efficiently"
+      ],
+      "usage": {
+        "structures": [
+          "be efficient in/at + V-ing (hiệu quả trong việc làm gì)",
+          "energy-efficient / cost-efficient (tiết kiệm năng lượng / tối ưu chi phí)"
+        ],
+        "prepositions": [
+          "in",
+          "at"
+        ],
+        "collocations": [
+          "highly efficient system",
+          "improve operational efficiency",
+          "process orders efficiently",
+          "efficient use of resources"
+        ],
+        "tip": "Phân biệt 'effective' (hiệu quả = đạt được kết quả mong muốn) và 'efficient' (hiệu suất cao = làm nhanh, tiết kiệm thời gian/chi phí/năng lượng)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "inefficient",
+          "example": "The old manual filing system was slow and inefficient.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Automating the billing process has enabled the accounting staff to handle invoices much more _____.",
+        "answer": "efficiently",
+        "base_word": "efficient",
+        "pos_hint": "trạng từ",
+        "vi": "Việc tự động hóa quy trình lập hóa đơn đã giúp nhân viên kế toán xử lý hóa đơn hiệu quả hơn rất nhiều."
+      }
+    },
+    {
+      "id": 6,
+      "word": "estimate",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to approximate the amount or value of something; to form an opinion about something; n., an approximation",
+      "definition_vi": "(v) ước tính, định giá sơ bộ; (n) bản ước tính, bảng báo giá ước lượng",
+      "examples": [
+        {
+          "en": "We estimated our losses this year at about five thousand dollars.",
+          "vi": "Chúng tôi ước tính khoản thua lỗ trong năm nay vào khoảng năm nghìn đô la."
+        },
+        {
+          "en": "In the owner's estimation, the high level of customer satisfaction was an adequate measure of how well the company was doing.",
+          "vi": "Theo đánh giá của người chủ, mức độ hài lòng cao của khách hàng là thước đo thỏa đáng cho thấy công ty đang hoạt động tốt ra sao."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "estimate",
+          "example": "We need to estimate the number of work hours spent on this project."
+        },
+        {
+          "pos": "noun",
+          "word": "estimation",
+          "example": "Clients prefer itemization to estimation on their invoices."
+        },
+        {
+          "pos": "",
+          "word": "estimating",
+          "example": "Estimating an order for office supplies is difficult because of the increased size of the staff."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "cost estimate",
+        "rough estimate",
+        "estimate at",
+        "written estimate"
+      ],
+      "usage": {
+        "structures": [
+          "estimate + sth + at + [con số/số tiền] (ước tính cái gì ở mức bao nhiêu)",
+          "provide a free estimate (cung cấp bảng báo giá ước tính miễn phí)"
+        ],
+        "prepositions": [
+          "at",
+          "for"
+        ],
+        "collocations": [
+          "conservative estimate",
+          "preliminary estimate",
+          "estimated time of arrival",
+          "repair estimate"
+        ],
+        "tip": "Trong TOEIC, 'an estimate' là danh từ đếm được rất phổ biến chỉ 'bảng báo giá dự toán' mà nhà thầu/thợ sửa chữa đưa cho khách trước khi làm việc."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "estimated",
+          "example": "The estimated cost of the warehouse renovation is two hundred thousand dollars.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The contractor provided a detailed written _____ of the materials and labor required for the roof repair.",
+        "answer": "estimate",
+        "base_word": "estimate",
+        "pos_hint": "danh từ chỉ bảng báo giá dự toán",
+        "vi": "Nhà thầu đã cung cấp một bản dự toán chi tiết bằng văn bản về vật liệu và nhân công cần thiết để sửa mái nhà."
+      }
+    },
+    {
+      "id": 7,
+      "word": "impose",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to establish or apply as compulsory; to force upon others",
+      "definition_vi": "áp đặt (thuế, phí phạt, quy định); gây phiền hà",
+      "examples": [
+        {
+          "en": "The company will impose a surcharge for any items returned.",
+          "vi": "Công ty sẽ áp dụng một khoản phụ phí đối với bất kỳ mặt hàng nào bị trả lại."
+        },
+        {
+          "en": "We should not impose upon our staff by requiring them to work on weekends.",
+          "vi": "Chúng ta không nên áp đặt gánh nặng lên nhân viên bằng cách yêu cầu họ làm việc vào cuối tuần."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "impose",
+          "example": "The state intends to impose an additional tax on certain office equipment."
+        },
+        {
+          "pos": "",
+          "word": "imposition",
+          "example": "Clients complained when they discovered the contractor's imposition of charges that should have been included under the terms of the contract."
+        },
+        {
+          "pos": "adjective",
+          "word": "imposing",
+          "example": "The new clients found the company's reputation imposing."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "impose a fine",
+        "impose a tax",
+        "impose a surcharge",
+        "impose restrictions"
+      ],
+      "usage": {
+        "structures": [
+          "impose + A (a tax/fine/fee/ban/limit) + on/upon + B (áp đặt thuế/phạt/phí/lệnh cấm lên ai/cái gì)",
+          "impose on/upon + sb (làm phiền / ép buộc ai)"
+        ],
+        "prepositions": [
+          "on",
+          "upon"
+        ],
+        "collocations": [
+          "impose a penalty",
+          "impose strict regulations",
+          "impose tariffs on imports",
+          "newly imposed rules"
+        ],
+        "tip": "Luôn đi kèm giới từ 'on' hoặc 'upon' và các tân ngữ chỉ khoản phạt, thuế, phí hoặc hạn chế (impose a fee/fine/tax/penalty/restriction on...)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "imposed",
+          "example": "Government-imposed safety standards must be met by all manufacturers.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "A five percent late fee will be _____ on all invoices that remain unpaid after thirty days.",
+        "answer": "imposed",
+        "base_word": "impose",
+        "pos_hint": "động từ chia quá khứ phân từ (V3/ed) ở câu bị động",
+        "vi": "Một khoản phí trả chậm năm phần trăm sẽ được áp dụng cho tất cả các hóa đơn chưa thanh toán sau ba mươi ngày."
+      }
+    },
+    {
+      "id": 8,
+      "word": "mistake",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an error or a fault",
+      "definition_vi": "(n) lỗi, sai lầm, sự nhầm lẫn; (v) nhầm lẫn",
+      "examples": [
+        {
+          "en": "I made a mistake in adding up your bill and we overcharged you twenty dollars.",
+          "vi": "Tôi đã mắc một sai sót khi cộng hóa đơn của quý khách và chúng tôi đã tính thừa của quý khách hai mươi đô la."
+        },
+        {
+          "en": "It was a mistake thinking that my boss would be reasonable when I explained my situation to him.",
+          "vi": "Thật là một sai lầm khi nghĩ rằng sếp của tôi sẽ biết điều khi tôi giải thích hoàn cảnh của mình cho ông ấy."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "mistaken",
+          "example": "The receptionist dialed the wrong number because she had mistaken a “7” for a “4” in the phone number she wrote down."
+        },
+        {
+          "pos": "",
+          "word": "mistake",
+          "example": "The manager called the supplier as soon as he saw the mistake on his invoice."
+        },
+        {
+          "pos": "adjective",
+          "word": "mistaken",
+          "example": "The director admitted that he was mistaken about the amount of the discount for payment received in 30 days."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "make a mistake",
+        "by mistake",
+        "billing mistake",
+        "mistake A for B"
+      ],
+      "usage": {
+        "structures": [
+          "make a mistake (mắc lỗi)",
+          "by mistake (do nhầm lẫn / vô tình)",
+          "mistake + A + for + B (nhầm A với B)"
+        ],
+        "prepositions": [
+          "by",
+          "in",
+          "for",
+          "about"
+        ],
+        "collocations": [
+          "common mistake",
+          "costly mistake",
+          "correct a mistake",
+          "mistaken identity"
+        ],
+        "tip": "Nhớ cụm giới từ 'by mistake' (do nhầm lẫn, đồng nghĩa với accidentally / inadvertently) và tính từ 'mistaken' (hiểu nhầm: be mistaken about sth)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "mistakenly",
+          "example": "The accounting clerk mistakenly sent the invoice to the wrong client.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Your credit card was _____ billed twice for the same transaction, and a refund has already been issued.",
+        "answer": "mistakenly",
+        "base_word": "mistake",
+        "pos_hint": "trạng từ",
+        "vi": "Thẻ tín dụng của quý khách đã bị tính tiền nhầm hai lần cho cùng một giao dịch và khoản hoàn tiền đã được thực hiện."
+      }
+    },
+    {
+      "id": 9,
+      "word": "order",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a request made to purchase something; v., to command or direct",
+      "definition_vi": "(n) đơn đặt hàng; mệnh lệnh; thứ tự; (v) đặt hàng; ra lệnh",
+      "examples": [
+        {
+          "en": "The customer placed an order for ten new chairs.",
+          "vi": "Khách hàng đã đặt một đơn hàng mua mười chiếc ghế mới."
+        },
+        {
+          "en": "We were ordered to take inventory immediately, so we could account for the missing items.",
+          "vi": "Chúng tôi được lệnh phải kiểm kê kho ngay lập tức để có thể giải trình về những món đồ bị thất lạc."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "place an order",
+        "fill an order",
+        "out of order",
+        "in order to"
+      ],
+      "usage": {
+        "structures": [
+          "place/cancel/fill/process an order for + N (đặt/hủy/thực hiện/xử lý đơn hàng mua cái gì)",
+          "out of order (bị hỏng - dùng cho máy móc)"
+        ],
+        "prepositions": [
+          "for",
+          "on",
+          "in",
+          "out of"
+        ],
+        "collocations": [
+          "purchase order",
+          "back order",
+          "bulk order",
+          "in alphabetical order"
+        ],
+        "tip": "Nằm lòng các cụm từ với 'order' trong TOEIC: 'place an order' (đặt hàng), 'on order' (đã đặt nhưng chưa về), 'on back order' (tạm hết hàng chờ nhập), và 'out of order' (máy hỏng)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "order",
+          "example": "You can order replacement ink cartridges directly from our website.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "order",
+          "example": "Please quote your order number when inquiring about a delivery.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "verb",
+          "word": "reorder",
+          "example": "The system automatically reorders items when stock falls below fifty units.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "orderly",
+          "example": "Please exit the building in a calm and orderly manner during the fire drill.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Customers who place an _____ before 3:00 P.M. will receive next-day delivery.",
+        "answer": "order",
+        "base_word": "order",
+        "pos_hint": "danh từ trong cụm place an order",
+        "vi": "Những khách hàng đặt hàng trước 3 giờ chiều sẽ nhận được hàng giao vào ngày hôm sau."
+      }
+    },
+    {
+      "id": 10,
+      "word": "promptly",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "on time, punctually",
+      "definition_vi": "ngay lập tức, nhanh chóng; đúng giờ",
+      "examples": [
+        {
+          "en": "We always reply promptly to customers' letters.",
+          "vi": "Chúng tôi luôn trả lời thư của khách hàng một cách nhanh chóng."
+        },
+        {
+          "en": "The new sales agent promptly offered a full refund for the damaged goods.",
+          "vi": "Nhân viên bán hàng mới đã nhanh chóng đề nghị hoàn tiền đầy đủ cho số hàng hóa bị hư hỏng."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "prompt",
+          "example": "The computer cursor prompted the temporary employee about where to insert information on the billing form."
+        },
+        {
+          "pos": "",
+          "word": "promptness",
+          "example": "Employers appreciate promptness in their employees."
+        },
+        {
+          "pos": "",
+          "word": "prompt",
+          "example": "I am happy to receive statements that thank me for prompt payment."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "reply promptly",
+        "pay promptly",
+        "promptly at 9:00",
+        "prompt service"
+      ],
+      "usage": {
+        "structures": [
+          "respond/reply/pay/act + promptly (phản hồi/thanh toán/hành động ngay lập tức)",
+          "promptly at + [giờ] (đúng vào lúc mấy giờ)"
+        ],
+        "prepositions": [
+          "at",
+          "to"
+        ],
+        "collocations": [
+          "prompt payment",
+          "prompt attention",
+          "handle complaints promptly",
+          "prompt delivery"
+        ],
+        "tip": "'Promptly' vừa mang nghĩa 'ngay lập tức' (reply promptly) vừa mang nghĩa 'đúng giờ' khi đứng trước mốc thời gian (The meeting starts promptly at 9:00 A.M.)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "promptly",
+          "example": "All billing inquiries are addressed promptly by our accounting team.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "We appreciate your _____ payment of the enclosed invoice within fifteen days.",
+        "answer": "prompt",
+        "base_word": "promptly",
+        "pos_hint": "tính từ bổ nghĩa cho payment",
+        "vi": "Chúng tôi trân trọng việc quý khách thanh toán nhanh chóng hóa đơn đính kèm trong vòng mười lăm ngày."
+      }
+    },
+    {
+      "id": 11,
+      "word": "rectify",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to set right or correct",
+      "definition_vi": "sửa chữa, khắc phục (sai sót, sự cố, tình hình)",
+      "examples": [
+        {
+          "en": "He rectified the problem by giving the customer credit for the unused items that she returned.",
+          "vi": "Anh ấy đã khắc phục vấn đề bằng cách hoàn lại tiền tích lũy cho khách hàng đối với những món đồ chưa sử dụng mà cô trả lại."
+        },
+        {
+          "en": "Embarrassed at his behavior, he rectified the situation by writing a letter of apology.",
+          "vi": "Xấu hổ vì hành vi của mình, anh ấy đã sửa chữa tình hình bằng cách viết một bức thư xin lỗi."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "rectify an error",
+        "rectify a mistake",
+        "rectify the situation",
+        "rectify a problem"
+      ],
+      "usage": {
+        "structures": [
+          "rectify + an error/mistake/problem/omission/discrepancy (khắc phục lỗi/sai sót/vấn đề/sự chênh lệch)"
+        ],
+        "prepositions": [
+          "by"
+        ],
+        "collocations": [
+          "rectify a billing error",
+          "take steps to rectify",
+          "immediately rectify",
+          "rectify an oversight"
+        ],
+        "tip": "Từ trang trọng đồng nghĩa với 'correct / fix / remedy', rất hay gặp trong thư xin lỗi khách hàng về lỗi hóa đơn (rectify the billing error)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "rectify",
+          "example": "The payroll department promised to rectify the underpayment on Friday's check.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "rectification",
+          "example": "Prompt rectification of invoice errors helps maintain client trust.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "rectifiable",
+          "example": "Fortunately, the software glitch was easily rectifiable.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Once the accounting discrepancy was discovered, the manager took immediate action to _____ it.",
+        "answer": "rectify",
+        "base_word": "rectify",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Ngay khi phát hiện ra sự chênh lệch kế toán, người quản lý đã có hành động ngay lập tức để khắc phục nó."
+      }
+    },
+    {
+      "id": 12,
+      "word": "terms",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "conditions",
+      "definition_vi": "các điều khoản, điều kiện (trong hợp đồng, thanh toán)",
+      "examples": [
+        {
+          "en": "The terms of payment were clearly listed at the bottom of the invoice.",
+          "vi": "Các điều khoản thanh toán đã được liệt kê rõ ràng ở cuối hóa đơn."
+        },
+        {
+          "en": "The terms of the agreement required that items be fully paid for before they would be shipped.",
+          "vi": "Các điều khoản của thỏa thuận yêu cầu các mặt hàng phải được thanh toán đầy đủ trước khi được vận chuyển đi."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "terms of payment",
+        "terms and conditions",
+        "under the terms of",
+        "favorable terms"
+      ],
+      "usage": {
+        "structures": [
+          "under the terms of + the contract/agreement (theo các điều khoản của hợp đồng/thỏa thuận)",
+          "terms of payment/service/delivery (điều khoản thanh toán/dịch vụ/giao hàng)"
+        ],
+        "prepositions": [
+          "under",
+          "of",
+          "on"
+        ],
+        "collocations": [
+          "negotiate terms",
+          "violate the terms",
+          "come to terms",
+          "in terms of"
+        ],
+        "tip": "Khi mang nghĩa 'điều khoản hợp đồng/thanh toán', danh từ này LUÔN ở dạng số nhiều 'terms' (under the terms of the agreement / terms and conditions)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "term",
+          "example": "The lease runs for an initial term of three years.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "terms",
+          "example": "Please read the terms and conditions carefully before signing.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "long-term",
+          "example": "We offer special credit terms to our long-term corporate partners.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Under the _____ of the service agreement, routine maintenance is provided at no additional cost.",
+        "answer": "terms",
+        "base_word": "terms",
+        "pos_hint": "danh từ số nhiều chỉ điều khoản",
+        "vi": "Theo các điều khoản của thỏa thuận dịch vụ, việc bảo trì định kỳ được cung cấp mà không tính thêm phí."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. Mail-order companies need to have an (1) ____ process for invoicing and billing customers. When a customer places an (2) ____, a list of items must be (3) ____ and an invoice generated. The invoice will list the items purchased, along with the cost of each item, and the quantity desired. (4) ____ that will be incurred in shipping the items to the (5) ____ are also added to the invoice. Sometimes shipping charges are simply (6) ____ based on the weight or value of the items ordered. The invoice also shows the (7) ____ of payment. Payment is usually due within 30 days. Extra charges are often (8) ____ on overdue accounts. Many companies also offer a small (9) ____ if invoices are paid promptly. Sometimes items get damaged or lost in transit, or customers discover that the wrong items have been shipped by (10) ____. They will usually call the company to have the problem (11) ____. Such complaints should be dealt with (12) ____. If an item is missing, a replacement will be sent, usually at no additional charge to the customer.",
+    "word_bank": [
+      "charges",
+      "discount",
+      "imposed",
+      "promptly",
+      "compiled",
+      "efficient",
+      "mistake",
+      "rectified",
+      "customer",
+      "estimated",
+      "order",
+      "terms"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "compile",
+        "example": "Once the data is compiled, we will know more about sales of the R500 model.",
+        "pos": ""
+      },
+      {
+        "word": "compilation",
+        "example": "A compilation of factors led us to believe that employee theft had led to the missing inventory.",
+        "pos": "noun"
+      },
+      {
+        "word": "compiled",
+        "example": "According to the numbers we’ve compiled, sales remained flat in the second quarter.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "efficient",
+        "example": "Counting by twos or threes is much more efficient than counting by one.",
+        "pos": "adjective"
+      },
+      {
+        "word": "efficiently",
+        "example": "If we work efficiently, we may be done by midnight.",
+        "pos": ""
+      },
+      {
+        "word": "efficiency",
+        "example": "His efficiency makes him one of the finest operators in the company.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "estimate",
+        "example": "We need to estimate the number of work hours spent on this project.",
+        "pos": "verb"
+      },
+      {
+        "word": "estimation",
+        "example": "Clients prefer itemization to estimation on their invoices.",
+        "pos": "noun"
+      },
+      {
+        "word": "estimating",
+        "example": "Estimating an order for office supplies is difficult because of the increased size of the staff.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "impose",
+        "example": "The state intends to impose an additional tax on certain office equipment.",
+        "pos": ""
+      },
+      {
+        "word": "imposition",
+        "example": "Clients complained when they discovered the contractor's imposition of charges that should have been included under the terms of the contract.",
+        "pos": ""
+      },
+      {
+        "word": "imposing",
+        "example": "The new clients found the company's reputation imposing.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "prompt",
+        "example": "The computer cursor prompted the temporary employee about where to insert information on the billing form.",
+        "pos": "verb"
+      },
+      {
+        "word": "promptness",
+        "example": "Employers appreciate promptness in their employees.",
+        "pos": ""
+      },
+      {
+        "word": "prompt",
+        "example": "I am happy to receive statements that thank me for prompt payment.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "mistaken",
+        "example": "The receptionist dialed the wrong number because she had mistaken a “7” for a “4” in the phone number she wrote down.",
+        "pos": "verb"
+      },
+      {
+        "word": "mistake",
+        "example": "The manager called the supplier as soon as he saw the mistake on his invoice.",
+        "pos": ""
+      },
+      {
+        "word": "mistaken",
+        "example": "The director admitted that he was mistaken about the amount of the discount for payment received in 30 days.",
+        "pos": "adjective"
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "After we have ____ all of the necessary documents, we will begin our analysis of the data.",
+        "options": [
+          {
+            "label": "A",
+            "text": "compile"
+          },
+          {
+            "label": "B",
+            "text": "compiled"
+          },
+          {
+            "label": "C",
+            "text": "compiling"
+          },
+          {
+            "label": "D",
+            "text": "compilation"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "Though he worked very ____ with machines and figures, he was slow and awkward with customers and coworkers.",
+        "options": [
+          {
+            "label": "A",
+            "text": "efficient"
+          },
+          {
+            "label": "B",
+            "text": "efficiently"
+          },
+          {
+            "label": "C",
+            "text": "efficiency"
+          },
+          {
+            "label": "D",
+            "text": "efficacy"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "Although ____ expenses works well when applying for a contract, clients appreciate itemization on their invoices.",
+        "options": [
+          {
+            "label": "A",
+            "text": "estimate"
+          },
+          {
+            "label": "B",
+            "text": "estimator"
+          },
+          {
+            "label": "C",
+            "text": "estimated"
+          },
+          {
+            "label": "D",
+            "text": "estimation"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "The customers usually pay their invoices promptly in order to avoid the ____ of late charges.",
+        "options": [
+          {
+            "label": "A",
+            "text": "imposed"
+          },
+          {
+            "label": "B",
+            "text": "imposingly"
+          },
+          {
+            "label": "C",
+            "text": "impose"
+          },
+          {
+            "label": "D",
+            "text": "imposition"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "The customer was angry at the ____ on her invoice.",
+        "options": [
+          {
+            "label": "A",
+            "text": "mistakes"
+          },
+          {
+            "label": "B",
+            "text": "mistaken"
+          },
+          {
+            "label": "C",
+            "text": "mistakable"
+          },
+          {
+            "label": "D",
+            "text": "mistaking"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "The client would appreciate it if the invoice could be sent ____ so he can pay it before the end of the fiscal year.",
+        "options": [
+          {
+            "label": "A",
+            "text": "promptly"
+          },
+          {
+            "label": "B",
+            "text": "promptness"
+          },
+          {
+            "label": "C",
+            "text": "prompted"
+          },
+          {
+            "label": "D",
+            "text": "prompt"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Invoices are an essential part of any business and should be given their due attention. Without invoices, after all, a business would not receive payment for services rendered. The [16] of the invoice must be stated clearly, that is, the customer needs to know exactly what he is being charged for and when the payment is due. If a customer discovers a mistake on the invoice, it should be rectified as soon as possible. If a final charge is much greater than the original estimate, the reason for this should be explained as clearly and simply as possible on the invoice. Some businesses [17] a late fee on late payments. In such cases, this must also be made clear on the invoice. Finally, the invoice must be sent to the customer [18] in order to encourage timely payment.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "terms"
+            },
+            {
+              "label": "B",
+              "text": "orders"
+            },
+            {
+              "label": "C",
+              "text": "discounts"
+            },
+            {
+              "label": "D",
+              "text": "compilations"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "imposition"
+            },
+            {
+              "label": "B",
+              "text": "imposing"
+            },
+            {
+              "label": "C",
+              "text": "imposter"
+            },
+            {
+              "label": "D",
+              "text": "impose"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "prompt"
+            },
+            {
+              "label": "B",
+              "text": "prompter"
+            },
+            {
+              "label": "C",
+              "text": "promptly"
+            },
+            {
+              "label": "D",
+              "text": "promptness"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following invoice and letter. Clary Closets &quot;Making your world more organized.&quot; Invoice To: Millicent Pensky 752 Montrose Avenue Proctorville, VT Date: November 10, 20- Initial consultation fee $ 75 Organizing four closets $ 800 Supplies $ 225 Total due $1100 Thank you for doing business with us. Please pay by November 30. A 10 percent late fee will be imposed on late payments. Clary Closets 18 North Main Street Chester, VT Dear Ms. Clary, I am writing to dispute the charges on the invoice I recently received from your company. The invoice contained several mistakes. First, I was told that I would not be charged an initial consultation fee if I decided to use your services. Since I did go ahead and hire you to organize my closets, I should not have to pay this fee. Second, the final charge for organizing my four closets was $250 higher than the original estimate. I think this is too much and that I should be charged no more than the original estimate. Finally, I was charged for supplies that you ordered without my authorization. I could have obtained these same supplies myself at a lower price. Since I did not authorize this charge, I think I should pay a lower price for the supplies. I chose Clary Closets to organize my closets because several of my friends and business associates have been satisfied customers of yours. However, I find it difficult to believe that an organizing business can be so inefficient when it comes to invoices. Please rectify these mistakes and send me a corrected invoice promptly. Sincerely, Millicent Pensky",
+        "questions": [
+          {
+            "number": 19,
+            "question": "What did Ms. Pensky hire Ms. Clary to do?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Write invoices."
+              },
+              {
+                "label": "B",
+                "text": "Collect fees."
+              },
+              {
+                "label": "C",
+                "text": "Organize closets."
+              },
+              {
+                "label": "D",
+                "text": "Buy supplies."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "According to the terms of the invoice, how much will Ms. Pensky owe if she pays on December 1?",
+            "options": [
+              {
+                "label": "A",
+                "text": "$110."
+              },
+              {
+                "label": "B",
+                "text": "$1100."
+              },
+              {
+                "label": "C",
+                "text": "$1110."
+              },
+              {
+                "label": "D",
+                "text": "$1210."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "How much was the original estimate?",
+            "options": [
+              {
+                "label": "A",
+                "text": "$250."
+              },
+              {
+                "label": "B",
+                "text": "$550."
+              },
+              {
+                "label": "C",
+                "text": "$800."
+              },
+              {
+                "label": "D",
+                "text": "$850."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word ordered in line 11 of the letter is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "bought"
+              },
+              {
+                "label": "B",
+                "text": "used"
+              },
+              {
+                "label": "C",
+                "text": "borrowed"
+              },
+              {
+                "label": "D",
+                "text": "enjoyed"
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word rectify in line 20 of the letter is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "explain"
+              },
+              {
+                "label": "B",
+                "text": "calculate"
+              },
+              {
+                "label": "C",
+                "text": "fix"
+              },
+              {
+                "label": "D",
+                "text": "see"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What do they need to order?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Computers."
+          },
+          {
+            "label": "B",
+            "text": "Temporary workers."
+          },
+          {
+            "label": "C",
+            "text": "Order forms."
+          },
+          {
+            "label": "D",
+            "text": "Office supplies."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "When will the woman place the order?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Before noon."
+          },
+          {
+            "label": "B",
+            "text": "Tonight."
+          },
+          {
+            "label": "C",
+            "text": "Tomorrow."
+          },
+          {
+            "label": "D",
+            "text": "Tuesday."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What does the man ask the woman to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Compile a list."
+          },
+          {
+            "label": "B",
+            "text": "Clean the supply closet."
+          },
+          {
+            "label": "C",
+            "text": "Read the invoice carefully."
+          },
+          {
+            "label": "D",
+            "text": "Write a check."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "What is the topic of the talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Late payments."
+          },
+          {
+            "label": "B",
+            "text": "Billing customers."
+          },
+          {
+            "label": "C",
+            "text": "Immediate payment."
+          },
+          {
+            "label": "D",
+            "text": "Discounts."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "How does immediate payment benefit the company?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The company doesn't have to use collections agencies."
+          },
+          {
+            "label": "B",
+            "text": "The company doesn't have to charge late fees."
+          },
+          {
+            "label": "C",
+            "text": "The company gains customers."
+          },
+          {
+            "label": "D",
+            "text": "The company doesn't have to send a bill to the customer."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "How much do immediate payments save per project?",
+        "options": [
+          {
+            "label": "A",
+            "text": "4 percent."
+          },
+          {
+            "label": "B",
+            "text": "14 percent."
+          },
+          {
+            "label": "C",
+            "text": "15 percent."
+          },
+          {
+            "label": "D",
+            "text": "50 percent."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best response. 4. What do they need to order? (A) Computers. (B) Temporary workers. (C) Order forms. (D) Office supplies. 6. When will the woman place the order? (A) Before noon. (B) Tonight. (C) Tomorrow. (D) Tuesday. 5. What does the man ask the woman to do? (A) Compile a list. (B) Clean the supply closet. (C) Read the invoice carefully. (D) Write a check. Listen to the talk. Then read each question and choose the best answer. 7. What is the topic of the talk? (A) Late payments. (B) Billing customers. (C) Immediate payment. (D) Discounts. 8. How does immediate payment benefit the company? (A) The company doesn't have to use collections agencies. (B) The company doesn't have to charge late fees. (C) The company gains customers. (D) The company doesn't have to send a bill to the customer. 9. How much do immediate payments save per project? (A) 4 percent. (B) 14 percent. (C) 15 percent. (D) 50 percent.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What do they need to order?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Computers."
+          },
+          {
+            "label": "B",
+            "text": "Temporary workers."
+          },
+          {
+            "label": "C",
+            "text": "Order forms."
+          },
+          {
+            "label": "D",
+            "text": "Office supplies."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "When will the woman place the order?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Before noon."
+          },
+          {
+            "label": "B",
+            "text": "Tonight."
+          },
+          {
+            "label": "C",
+            "text": "Tomorrow."
+          },
+          {
+            "label": "D",
+            "text": "Tuesday."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What does the man ask the woman to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Compile a list."
+          },
+          {
+            "label": "B",
+            "text": "Clean the supply closet."
+          },
+          {
+            "label": "C",
+            "text": "Read the invoice carefully."
+          },
+          {
+            "label": "D",
+            "text": "Write a check."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "What is the topic of the talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Late payments."
+          },
+          {
+            "label": "B",
+            "text": "Billing customers."
+          },
+          {
+            "label": "C",
+            "text": "Immediate payment."
+          },
+          {
+            "label": "D",
+            "text": "Discounts."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "How does immediate payment benefit the company?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The company doesn't have to use collections agencies."
+          },
+          {
+            "label": "B",
+            "text": "The company doesn't have to charge late fees."
+          },
+          {
+            "label": "C",
+            "text": "The company gains customers."
+          },
+          {
+            "label": "D",
+            "text": "The company doesn't have to send a bill to the customer."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "How much do immediate payments save per project?",
+        "options": [
+          {
+            "label": "A",
+            "text": "4 percent."
+          },
+          {
+            "label": "B",
+            "text": "14 percent."
+          },
+          {
+            "label": "C",
+            "text": "15 percent."
+          },
+          {
+            "label": "D",
+            "text": "50 percent."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "Lesson\n\n19\n\n## Invoices\n\nStudy the following definitions and examples.\n\n1. charge v., to demand payment; n., an expense or a cost\n\na. The customer service representative was responsible for telling all existing customers that higher prices would be charged next month.\n\nb. The extra charge for gift wrapping your purchase will appear on your invoice.\n\n2. compile v., to gather together from several sources\n\na. I have compiled a list of the most popular items in our sales catalog\n\nb. The clerk is responsible for compiling the orders at the end of the day.\n\n3. customer n., one who purchases a commodity or service a. Let's make sure all invoices sent to customers are kept in alphabetical order.\n\nb. As part of our customer satisfaction plan, let's offer a discount to customers who pay their invoices within a week.\n\n4. discount n., a reduction in price; v., to reduce in price\n\na. We are offering a 10 percent discount to all new customers.\n\nb. They discounted the price on the merchandise damaged in shipment.\n\n5. efficient adj., acting or producing effectively with a minimum of waste or unnecessary effort\n\na. The accountant was so efficient in processing the customer receipts that she had the job done before lunch.\n\nb. Electronic invoicing has helped us to be efficient.\n\n6. estimate v., to approximate the amount or value of something; to form an opinion about something; n., an approximation\n\na. We estimated our losses this year at about five thousand dollars.\n\nb. In the owner's estimation, the high level of customer satisfaction was an adequate measure of how well the company was doing.\n\n7. impose v., to establish or apply as compulsory; to force upon others\n\na. The company will impose a surcharge for any items returned.\n\nb. We should not impose upon our staff by requiring them to work on weekends.\n\n8. mistake n., an error or a fault\n\na. I made a mistake in adding up your bill and we overcharged you twenty dollars.\n\nb. It was a mistake thinking that my boss would be reasonable when I explained my situation to him.\n\n9. order n., a request made to purchase something; v., to command or direct\n\na. The customer placed an order for ten new chairs.\n\nb. We were ordered to take inventory immediately, so we could account for the missing items.\n\n10 promptly adv., on time, punctually\n\na. We always reply promptly to customers' letters.\n\nb. The new sales agent promptly offered a full refund for the damaged goods.\n\n11. rectify v., to set right or correct\n\na. He rectified the problem by giving the customer credit for the unused items that she returned.\n\nb. Embarrassed at his behavior, he rectified the situation by writing a letter of apology.\n\n12. terms n., conditions\n\na. The terms of payment were clearly listed at the bottom of the invoice.\n\nb. The terms of the agreement required that items be fully paid for before they would be shipped.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\n| charges | discount | imposed | promptly |\n| --- | --- | --- | --- |\n| compiled | efficient | mistake | rectified |\n| customer | estimated | order | terms |\n\nMail-order companies need to have an (1) \\_\\_\\_\\_ process for invoicing and billing customers. When a customer places an (2) \\_\\_\\_\\_, a list of items must be (3) \\_\\_\\_\\_ and an invoice generated. The invoice will list the items purchased, along with the cost of each item, and the quantity desired. (4) \\_\\_\\_\\_ that will be incurred in shipping the items to the (5) \\_\\_\\_\\_ are also added to the invoice. Sometimes shipping charges are simply (6) \\_\\_\\_\\_ based on the weight or value of the items ordered.\n\nThe invoice also shows the (7) \\_\\_\\_\\_ of payment. Payment is usually due within 30 days. Extra charges are often (8) \\_\\_\\_\\_ on overdue accounts. Many companies also offer a small (9) \\_\\_\\_\\_ if invoices are paid promptly.\n\nSometimes items get damaged or lost in transit, or customers discover that the wrong items have been shipped by (10) \\_\\_\\_\\_. They will usually call the company to have the problem (11) \\_\\_\\_\\_. Such complaints should be dealt with (12) \\_\\_\\_\\_. If an item is missing, a replacement will be sent, usually at no additional charge to the customer.",
+    "word_families": "## WORD FAMILIES\n\n| ) | compile | Once the data is compiled, we will know more about sales of the R500 model. |\n| --- | --- | --- |\n| noun | compilation | A compilation of factors led us to believe that employee theft had led to the missing inventory. |\n| jective | compiled | According to the numbers we’ve compiled, sales remained flat in the second quarter. |\n\n| adjective | efficient | Counting by twos or threes is much more efficient than counting by one. |\n| --- | --- | --- |\n| -1) | efficiently | If we work efficiently, we may be done by midnight. |\n| noun | efficiency | His efficiency makes him one of the finest operators in the company. |\n\n| verb | estimate | We need to estimate the number of work hours spent on this project. |\n| --- | --- | --- |\n| noun | estimation | Clients prefer itemization to estimation on their invoices. |\n| 1 | estimating | Estimating an order for office supplies is difficult because of the increased size of the staff. |\n\n|  | impose | The state intends to impose an additional tax on certain office equipment. |\n| --- | --- | --- |\n|  | imposition | Clients complained when they discovered the contractor's imposition of charges that should have been included under the terms of the contract. |\n| adjective | imposing | The new clients found the company's reputation imposing. |\n\n<table><tr><td rowspan=\"2\">verb</td><td>mistaken</td><td>The receptionist dialed the wrong number because she had mistaken a “7” for a “4” in the phone number she wrote down.</td></tr><tr><td>mistake</td><td>The manager called the supplier as soon as he saw the mistake on his invoice.</td></tr><tr><td>a.”</td><td>mistaken</td><td>The director admitted that he was mistaken about the amount of the discount for payment received in 30 days.</td></tr></table>\n\n| verb | prompt | The computer cursor prompted the temporary employee about where to insert information on the billing form. |\n| --- | --- | --- |\n|  | promptness | Employers appreciate promptness in their employees. |\n|  | prompt | I am happy to receive statements that thank me for prompt payment. |",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best response.\n\n4. What do they need to order?\n(A) Computers.\n(B) Temporary workers.\n(C) Order forms.\n(D) Office supplies.\n\n6. When will the woman place the order?\n(A) Before noon.\n(B) Tonight.\n(C) Tomorrow.\n(D) Tuesday.\n\n5. What does the man ask the woman to do?  \n(A) Compile a list.  \n(B) Clean the supply closet.  \n(C) Read the invoice carefully.  \n(D) Write a check.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. What is the topic of the talk?  \n(A) Late payments.  \n(B) Billing customers.  \n(C) Immediate payment.  \n(D) Discounts.\n\n8. How does immediate payment benefit the company?\n(A) The company doesn't have to use collections agencies.\n(B) The company doesn't have to charge late fees.\n(C) The company gains customers.\n(D) The company doesn't have to send a bill to the customer.\n\n9. How much do immediate payments save per project?\n(A) 4 percent.\n(B) 14 percent.\n(C) 15 percent.\n(D) 50 percent.",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. After we have \\_\\_\\_\\_ all of the necessary documents, we will begin our analysis of the data.\n(A) compile (C) compiling\n(B) compiled (D) compilation\n\n11. Though he worked very \\_\\_\\_\\_ with machines and figures, he was slow and awkward with customers and coworkers.\n(A) efficient (C) efficiency\n(B) efficiently (D) efficacy\n\n12. Although \\_\\_\\_\\_ expenses works well when applying for a contract, clients appreciate itemization on their invoices.\n(A) estimate (C) estimated\n(B) estimator (D) estimation\n\n13. The customers usually pay their invoices promptly in order to avoid the \\_\\_\\_\\_ of late charges.\n(A) imposed (C) impose\n(B) imposingly (D) imposition\n\n14. The customer was angry at the \\_\\_\\_\\_ on her invoice.\n(A) mistakes (C) mistakable\n(B) mistaken (D) mistaking\n\n15. The client would appreciate it if the invoice could be sent \\_\\_\\_\\_ so he can pay it before the end of the fiscal year.\n(A) promptly (C) prompted\n(B) promptness (D) prompt\n\n## Part 6 Text Completion\n\nInvoices are an essential part of any business and should be given their due attention. Without invoices, after all, a business would not receive payment for services rendered. The \\_16\\_ of the invoice must be stated clearly, that is, the customer needs to know exactly what he is being charged for and when the payment is due. If a customer discovers a mistake on the invoice, it should be rectified as soon as possible. If a final charge is much greater than the original estimate, the reason for this should be explained as clearly and simply as possible on the invoice. Some businesses \\_17\\_ a late fee on late payments. In such cases, this must also be made clear on the invoice. Finally, the invoice must be sent to the customer \\_18\\_ in order to encourage timely payment.\n\n16. (A) terms  \n(B) orders  \n(C) discounts  \n(D) compilations\n\n17. (A) imposition  \n(B) imposing  \n(C) imposter  \n(D) impose\n\n18. (A) prompt  \n(B) prompter  \n(C) promptly  \n(D) promptness",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following invoice and letter.\n\n<table><tr><td colspan=\"2\">Clary Closets\n&quot;Making your world more organized.&quot;</td></tr><tr><td colspan=\"2\">Invoice</td></tr><tr><td colspan=\"2\">To: Millicent Pensky\n752 Montrose Avenue\nProctorville, VT</td></tr><tr><td colspan=\"2\">Date: November 10, 20-</td></tr><tr><td>Initial consultation fee</td><td>$ 75</td></tr><tr><td>Organizing four closets</td><td>$ 800</td></tr><tr><td>Supplies</td><td>$ 225</td></tr><tr><td>Total due</td><td>$1100</td></tr><tr><td colspan=\"2\">Thank you for doing business with us.</td></tr><tr><td colspan=\"2\">Please pay by November 30. A 10 percent late fee will be imposed on late payments.</td></tr></table>\n\n19. What did Ms. Pensky hire Ms. Clary to do?\n(A) Write invoices.\n(B) Collect fees.\n(C) Organize closets.\n(D) Buy supplies.\n\n20. According to the terms of the invoice, how much will Ms. Pensky owe if she pays on December 1?\n(A) $110.\n(B) $1100.\n(C) $1110.\n(D) $1210.\n\n21. How much was the original estimate?\n(A) $250.\n(B) $550.\n(C) $800.\n(D) $850.\n\n## November 15, 20—\n\nClary Closets  \n18 North Main Street  \nChester, VT\n\nDear Ms. Clary,\n\nI am writing to dispute the charges on the invoice I recently received from your company. The invoice contained several mistakes. First, I was told that I would not be charged an initial consultation fee if I decided to use your services. Since I did go ahead and hire you to organize my closets, I should not have to pay this fee. Second, the final charge for organizing my four closets was $250 higher than the original estimate. I think this is too much and that I should be charged no more than the original estimate. Finally, I was charged for supplies that you ordered without my authorization. I could have obtained these same supplies myself at a lower price. Since I did not authorize this charge, I think I should pay a lower price for the supplies.\n\nI chose Clary Closets to organize my closets because several of my friends and business associates have been satisfied customers of yours. However, I find it difficult to believe that an organizing business can be so inefficient when it comes to invoices. Please rectify these mistakes and send me a corrected invoice promptly.\n\nSincerely,\n\nMillicent Pensky\n\n22. The word ordered in line 11 of the letter is closest in meaning to  \n(A) bought  \n(B) used  \n(C) borrowed  \n(D) enjoyed\n\n23. The word rectify in line 20 of the letter is closest in meaning to  \n(A) explain  \n(B) calculate  \n(C) fix  \n(D) see"
+  },
+  "needs_review": true
+}

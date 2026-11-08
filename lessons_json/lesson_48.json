@@ -1,0 +1,1634 @@
+{
+  "lesson_id": 48,
+  "title": "Health Insurance",
+  "theme_name": "Health",
+  "audio_track": "track_48.mp3",
+  "part1_photo": "part1_photos/lesson_48.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "allow",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to let do or happen; to permit",
+      "definition_vi": "cho phép, để cho",
+      "examples": [
+        {
+          "en": "My insurance does not allow me to choose my own hospital.",
+          "vi": "Bảo hiểm của tôi không cho phép tôi tự chọn bệnh viện cho mình."
+        },
+        {
+          "en": "The health plan made an exception by allowing me to go directly to a dermatologist.",
+          "vi": "Chương trình bảo hiểm sức khỏe đã tạo một ngoại lệ bằng cách cho phép tôi đến khám trực tiếp tại bác sĩ da liễu."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "allow",
+          "example": "The insurance policy did not allow multiple prescription refills."
+        },
+        {
+          "pos": "",
+          "word": "allowance",
+          "example": "The policy is liberal in its allowance for optometry services."
+        },
+        {
+          "pos": "",
+          "word": "allowable",
+          "example": "A maximum of two dental visits is allowable under the plan."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "allow sb to do",
+        "allow for",
+        "travel allowance",
+        "allowable expenses"
+      ],
+      "usage": {
+        "structures": [
+          "allow + sb + to V",
+          "allow + V-ing",
+          "be allowed + to V",
+          "allow for + N (tính đến/dự trù)"
+        ],
+        "prepositions": [
+          "for"
+        ],
+        "collocations": [
+          "allow employees to choose",
+          "please allow 5 business days",
+          "annual allowance",
+          "maximum allowable"
+        ],
+        "tip": "Bẫy ngữ pháp kinh điển: có tân ngữ chỉ người dùng 'allow sb to V' (hoặc bị động 'be allowed to V'), KHÔNG có tân ngữ chỉ người dùng 'allow + V-ing'. Danh từ 'allowance' còn có nghĩa là 'tiền phụ cấp/trợ cấp'."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "allowably",
+          "example": "Up to five hundred dollars in unused wellness funds may be allowably carried over to next year.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The company's comprehensive health plan includes an annual _____ of two hundred dollars for prescription eyeglasses.",
+        "answer": "allowance",
+        "base_word": "allow",
+        "pos_hint": "danh từ",
+        "vi": "Gói bảo hiểm sức khỏe toàn diện của công ty bao gồm khoản trợ cấp hàng năm hai trăm đô la cho kính thuốc."
+      }
+    },
+    {
+      "id": 2,
+      "word": "alternative",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "allowing a choice; other",
+      "definition_vi": "thay thế, khác; phương án thay thế",
+      "examples": [
+        {
+          "en": "To lower the cost of health insurance, my employer chose an alternative method of insuring us.",
+          "vi": "Để giảm chi phí bảo hiểm y tế, chủ sử dụng lao động của tôi đã chọn một phương thức bảo hiểm thay thế cho chúng tôi."
+        },
+        {
+          "en": "I'd like to discuss alternative treatments before I agree to anything.",
+          "vi": "Tôi muốn thảo luận về các phương pháp điều trị thay thế trước khi đồng ý bất cứ điều gì."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "alternate",
+          "example": "We alternate turns in taking the kids to the doctor."
+        },
+        {
+          "pos": "",
+          "word": "alternative",
+          "example": "Our medical insurance was too expensive, so we sought a cheaper alternative."
+        },
+        {
+          "pos": "",
+          "word": "alternative",
+          "example": "We need to find an alternative health plan as this one is too expensive."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "viable alternative",
+        "alternative medicine",
+        "have no alternative",
+        "alternative energy"
+      ],
+      "usage": {
+        "structures": [
+          "an alternative + to + N",
+          "have no alternative but + to V",
+          "alternative + N (method/treatment/route)"
+        ],
+        "prepositions": [
+          "to"
+        ],
+        "collocations": [
+          "cost-effective alternative to",
+          "alternative treatments",
+          "seek an alternative",
+          "alternatively, you can"
+        ],
+        "tip": "'Alternative' vừa là tính từ (alternative treatments) vừa là danh từ đếm được (find a cheaper alternative to...) dù có đuôi '-ive'!"
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "alternatively",
+          "example": "You may submit your claim form by mail; alternatively, you can upload it through our member portal.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Patients may pick up their medications at the clinic pharmacy or, _____, have them delivered by mail.",
+        "answer": "alternatively",
+        "base_word": "alternative",
+        "pos_hint": "trạng từ",
+        "vi": "Bệnh nhân có thể nhận thuốc tại hiệu thuốc của phòng khám hoặc, như một lựa chọn thay thế, yêu cầu gửi thuốc qua đường bưu điện."
+      }
+    },
+    {
+      "id": 3,
+      "word": "aspect",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a feature element; an appearance",
+      "definition_vi": "khía cạnh, mặt, phương diện",
+      "examples": [
+        {
+          "en": "The right to choose their own doctor is an important aspect of health coverage for many people.",
+          "vi": "Quyền được tự chọn bác sĩ là một khía cạnh quan trọng của bảo hiểm y tế đối với nhiều người."
+        },
+        {
+          "en": "The aspect of HMOs that people most dislike is the lack of personal service.",
+          "vi": "Khía cạnh của các tổ chức bảo hiểm sức khỏe (HMO) mà mọi người không thích nhất là sự thiếu dịch vụ chăm sóc cá nhân."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "every aspect of",
+        "key aspect",
+        "positive aspect",
+        "financial aspect"
+      ],
+      "usage": {
+        "structures": [
+          "an (important/key) aspect of + N",
+          "in every aspect"
+        ],
+        "prepositions": [
+          "of",
+          "in"
+        ],
+        "collocations": [
+          "important aspect of",
+          "every aspect of the business",
+          "financial aspects",
+          "practical aspect"
+        ],
+        "tip": "Luôn đi trước giới từ 'of' (an aspect of / every aspect of) để chỉ một mặt/khía cạnh của vấn đề lớn."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "aspect",
+          "example": "The human resources seminar covered every aspect of the new employee benefits package.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "aspectual",
+          "example": "Analysts examined the aspectual differences between the two regional healthcare models.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Preventive wellness programs are one of the most attractive _____ of the company's revised insurance policy.",
+        "answer": "aspects",
+        "base_word": "aspect",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Các chương trình chăm sóc sức khỏe dự phòng là một trong những khía cạnh hấp dẫn nhất của chính sách bảo hiểm sửa đổi của công ty."
+      }
+    },
+    {
+      "id": 4,
+      "word": "concern",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "anxiety; worry",
+      "definition_vi": "mối lo ngại, sự quan tâm; làm lo lắng, liên quan đến",
+      "examples": [
+        {
+          "en": "Whenever I have health concerns, I call my doctor.",
+          "vi": "Bất cứ khi nào tôi có những mối lo ngại về sức khỏe, tôi đều gọi cho bác sĩ của mình."
+        },
+        {
+          "en": "The rising cost of health care is of great concern to many people.",
+          "vi": "Chi phí chăm sóc y tế ngày càng tăng là mối quan ngại lớn đối với nhiều người."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "concern",
+          "example": "It concerns me that we haven&#x27;t been able to find a suitable health insurance plan."
+        },
+        {
+          "pos": "",
+          "word": "concern",
+          "example": "A good doctor will pay attention to any and all concerns the patient expresses about his or her health."
+        },
+        {
+          "pos": "",
+          "word": "concerned",
+          "example": "I am concerned about the limited benefits this insurance plan offers."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "express concern",
+        "of great concern",
+        "cause for concern",
+        "be concerned about"
+      ],
+      "usage": {
+        "structures": [
+          "concern + about/over + N",
+          "be of (great) concern to + sb",
+          "be concerned about/with + N"
+        ],
+        "prepositions": [
+          "about",
+          "over",
+          "for",
+          "with",
+          "to"
+        ],
+        "collocations": [
+          "express concern about",
+          "rising health concerns",
+          "of great concern to",
+          "as far as I am concerned"
+        ],
+        "tip": "Chú ý giới từ: 'be concerned ABOUT' (lo lắng về) khác với 'be concerned WITH' (liên quan đến / quan tâm giải quyết); 'concerning' dùng như giới từ (= about/regarding)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "concerning",
+          "example": "Employees raised several questions concerning the new dental coverage limits.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "unconcerned",
+          "example": "Younger workers often seem unconcerned about long-term disability insurance.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Many staff members are _____ about the proposed increase in monthly health insurance premiums.",
+        "answer": "concerned",
+        "base_word": "concern",
+        "pos_hint": "tính từ",
+        "vi": "Nhiều nhân viên cảm thấy lo lắng về mức tăng phí bảo hiểm y tế hàng tháng đang được đề xuất."
+      }
+    },
+    {
+      "id": 5,
+      "word": "emphasize",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to stress",
+      "definition_vi": "nhấn mạnh, làm nổi bật",
+      "examples": [
+        {
+          "en": "The nurse emphasized the importance of eating a balanced diet.",
+          "vi": "Cô y tá đã nhấn mạnh tầm quan trọng của việc ăn một chế độ dinh dưỡng cân bằng."
+        },
+        {
+          "en": "The new insurance plan emphasizes wellness by providing reimbursement for health club memberships.",
+          "vi": "Gói bảo hiểm mới chú trọng/nhấn mạnh việc duy trì sức khỏe bằng cách hoàn tiền cho thẻ hội viên câu lạc bộ thể dục."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "emphasize",
+          "example": "The plan representative emphasized the need for a second medical opinion."
+        },
+        {
+          "pos": "",
+          "word": "emphasis",
+          "example": "The emphasis of the health plan is on staying well."
+        },
+        {
+          "pos": "",
+          "word": "emphatic",
+          "example": "Hassan made an emphatic appeal to the medical insurance director."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "emphasize the importance of",
+        "emphasize the need for",
+        "place emphasis on",
+        "strongly emphasize"
+      ],
+      "usage": {
+        "structures": [
+          "emphasize + N (không có giới từ 'on')",
+          "emphasize + that + S + V",
+          "place/put emphasis ON + N"
+        ],
+        "prepositions": [
+          "on"
+        ],
+        "collocations": [
+          "emphasize the importance of",
+          "place strong emphasis on",
+          "emphatic denial",
+          "emphatically state"
+        ],
+        "tip": "Động từ 'emphasize' là ngoại động từ (emphasize the need - KHÔNG có 'on'), nhưng danh từ 'emphasis' lại đi với 'on' (put/place emphasis on)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "emphatically",
+          "example": "The human resources director emphatically assured staff that benefits would not be reduced.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Our new corporate health plan places a strong _____ on preventive screenings and fitness.",
+        "answer": "emphasis",
+        "base_word": "emphasize",
+        "pos_hint": "danh từ",
+        "vi": "Chương trình bảo hiểm sức khỏe doanh nghiệp mới của chúng tôi đặt trọng tâm lớn vào việc khám tầm soát dự phòng và rèn luyện thể chất."
+      }
+    },
+    {
+      "id": 6,
+      "word": "incur",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to become subject to",
+      "definition_vi": "gánh chịu, chịu, phát sinh (chi phí, nợ, phí phạt)",
+      "examples": [
+        {
+          "en": "I incurred substantial expenses that my health plan does not cover.",
+          "vi": "Tôi đã phải gánh chịu những khoản chi phí đáng kể mà gói bảo hiểm y tế của tôi không chi trả."
+        },
+        {
+          "en": "Dominic incurs the cost of a co-payment at each doctor's visit.",
+          "vi": "Dominic phải chịu một khoản phí đồng chi trả trong mỗi lần đi khám bác sĩ."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "incur expenses",
+        "incur costs",
+        "incur a penalty",
+        "incur debts"
+      ],
+      "usage": {
+        "structures": [
+          "incur + N (expenses/costs/debts/losses/penalties/fees)"
+        ],
+        "prepositions": [
+          "by",
+          "during"
+        ],
+        "collocations": [
+          "incur substantial expenses",
+          "incur additional costs",
+          "incur a late fee",
+          "expenses incurred"
+        ],
+        "tip": "Gần như 100% trong TOEIC, 'incur' đi với tân ngữ chỉ tiền bạc/tổn thất: 'expenses, costs, fees, debts, losses, penalties'; gấp đôi 'r' khi thêm -ed (incurred)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "incur",
+          "example": "Policyholders who visit out-of-network hospitals may incur higher out-of-pocket fees.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "incurred",
+          "example": "The company will reimburse all medical expenses incurred during overseas business trips.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "incurrence",
+          "example": "Prior approval is required before the incurrence of any non-emergency surgical costs.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Employees must submit original receipts to be reimbursed for any travel expenses _____ while attending the conference.",
+        "answer": "incurred",
+        "base_word": "incur",
+        "pos_hint": "quá khứ phân từ V3/ed (rút gọn mệnh đề quan hệ bị động)",
+        "vi": "Nhân viên phải nộp hóa đơn gốc để được hoàn tiền cho bất kỳ chi phí đi lại nào phát sinh trong khi tham dự hội nghị."
+      }
+    },
+    {
+      "id": 7,
+      "word": "personnel",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a group of employees or workers",
+      "definition_vi": "nhân sự, toàn thể cán bộ nhân viên; phòng nhân sự",
+      "examples": [
+        {
+          "en": "The office manager insisted that she needed more personnel to finish the project on time.",
+          "vi": "Quản lý văn phòng khăng khăng rằng cô cần thêm nhân sự để hoàn thành dự án đúng hạn."
+        },
+        {
+          "en": "The employee went to see the director of personnel about taking an extended leave of absence.",
+          "vi": "Người nhân viên đã đến gặp giám đốc nhân sự để xin nghỉ phép dài hạn."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "medical personnel",
+        "authorized personnel",
+        "personnel department",
+        "qualified personnel"
+      ],
+      "usage": {
+        "structures": [
+          "authorized/qualified/medical personnel",
+          "personnel department/director"
+        ],
+        "prepositions": [],
+        "collocations": [
+          "authorized personnel only",
+          "director of personnel",
+          "shortage of personnel",
+          "trained personnel"
+        ],
+        "tip": "'Personnel' là danh từ tập hợp (luôn số nhiều, không bao giờ thêm 's'); đừng nhầm với tính từ 'personal' (cá nhân)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "person",
+          "example": "Each insured person will receive a plastic identification card in the mail.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "personal",
+          "example": "All personal medical information is kept strictly confidential by the insurer.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "personally",
+          "example": "The benefits coordinator personally answered every employee's questions after the meeting.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Only authorized _____ are permitted to access the electronic database containing employee health records.",
+        "answer": "personnel",
+        "base_word": "personnel",
+        "pos_hint": "danh từ tập hợp",
+        "vi": "Chỉ những nhân sự được ủy quyền mới được phép truy cập cơ sở dữ liệu điện tử chứa hồ sơ sức khỏe của nhân viên."
+      }
+    },
+    {
+      "id": 8,
+      "word": "policy",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a set of rules and regulations",
+      "definition_vi": "chính sách, quy định; hợp đồng bảo hiểm",
+      "examples": [
+        {
+          "en": "Company policy did not provide for overtime pay.",
+          "vi": "Chính sách của công ty không quy định việc trả lương làm thêm giờ."
+        },
+        {
+          "en": "The company's insurance policy did not cover cosmetic surgery.",
+          "vi": "Hợp đồng bảo hiểm của công ty không chi trả cho phẫu thuật thẩm mỹ."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "insurance policy",
+        "company policy",
+        "strict policy",
+        "policyholder"
+      ],
+      "usage": {
+        "structures": [
+          "insurance policy",
+          "company policy on + N",
+          "adopt/implement a policy"
+        ],
+        "prepositions": [
+          "on",
+          "regarding",
+          "toward"
+        ],
+        "collocations": [
+          "insurance policy",
+          "company policy",
+          "return policy",
+          "strict policy against"
+        ],
+        "tip": "Trong chủ đề bảo hiểm, 'policy' chính là 'hợp đồng/đơn bảo hiểm' (insurance policy), và người mua bảo hiểm gọi là 'policyholder'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "policyholder",
+          "example": "Policyholders must notify the insurance provider within thirty days of a change of address.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "policymaker",
+          "example": "Healthcare policymakers met to discuss ways to lower prescription drug prices.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Before signing up for coverage, read the insurance _____ carefully to understand what treatments are excluded.",
+        "answer": "policy",
+        "base_word": "policy",
+        "pos_hint": "danh từ",
+        "vi": "Trước khi đăng ký gói bảo hiểm, hãy đọc kỹ hợp đồng bảo hiểm để hiểu những phương pháp điều trị nào bị loại trừ."
+      }
+    },
+    {
+      "id": 9,
+      "word": "portion",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a section or quantity within a larger thing; a part of a whole",
+      "definition_vi": "một phần, phần chia; khẩu phần ăn",
+      "examples": [
+        {
+          "en": "A portion of my benefits is my health care coverage.",
+          "vi": "Một phần trong gói phúc lợi của tôi là chế độ bảo hiểm chăm sóc sức khỏe."
+        },
+        {
+          "en": "I am keeping a record of the portion of my income I spend on health care.",
+          "vi": "Tôi đang ghi chép lại phần thu nhập mà mình chi tiêu cho việc chăm sóc sức khỏe."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "a large portion of",
+        "a significant portion",
+        "dedicate a portion to",
+        "generous portion"
+      ],
+      "usage": {
+        "structures": [
+          "a (large/small/significant) portion of + N",
+          "portion + out + N"
+        ],
+        "prepositions": [
+          "of"
+        ],
+        "collocations": [
+          "a large portion of the cost",
+          "portion of one's salary",
+          "substantial portion",
+          "pay a portion of"
+        ],
+        "tip": "Thường đứng trong cấu trúc 'a + adj + portion of + N' (một phần lớn/nhỏ của cái gì), rất hay dùng khi nói về ngân sách hoặc chi phí."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "portion",
+          "example": "The clinic's annual budget is portioned among its four regional branches.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "verb",
+          "word": "apportion",
+          "example": "Insurance premiums are apportioned between the employer and the employee.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "proportional",
+          "example": "Part-time workers receive health benefits proportional to the number of hours they work.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The employer pays the majority of the monthly premium, while employees contribute only a small _____.",
+        "answer": "portion",
+        "base_word": "portion",
+        "pos_hint": "danh từ",
+        "vi": "Người sử dụng lao động đóng phần lớn phí bảo hiểm hàng tháng, trong khi nhân viên chỉ đóng góp một phần nhỏ."
+      }
+    },
+    {
+      "id": 10,
+      "word": "regardless",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "in spite of",
+      "definition_vi": "bất kể, bất chấp, không màng đến",
+      "examples": [
+        {
+          "en": "Regardless of the cost, we all need health insurance.",
+          "vi": "Bất kể chi phí ra sao, tất cả chúng ta đều cần có bảo hiểm y tế."
+        },
+        {
+          "en": "I keep going to the same doctor, regardless of the fact that she does not take my pain seriously.",
+          "vi": "Tôi vẫn tiếp tục đến khám ở cùng một bác sĩ đó, bất chấp thực tế là bà ấy không coi trọng cơn đau của tôi."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "regard",
+          "example": "We regard this health insurance plan as one of the best options available."
+        },
+        {
+          "pos": "",
+          "word": "regardful",
+          "example": "The company was not regardful of the needs of most of the employees when it chose this health insurance plan."
+        },
+        {
+          "pos": "",
+          "word": "regardless",
+          "example": "I took the job regardless of the poor health benefits the company offers."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "regardless of",
+        "regardless of cost",
+        "regardless of age",
+        "continue regardless"
+      ],
+      "usage": {
+        "structures": [
+          "regardless + of + N / V-ing / wh-clause"
+        ],
+        "prepositions": [
+          "of"
+        ],
+        "collocations": [
+          "regardless of the cost",
+          "regardless of whether",
+          "regardless of age",
+          "regard as"
+        ],
+        "tip": "Luôn ghi nhớ cụm giới từ cố định 'regardless of + N/V-ing' (bất kể/không phân biệt cái gì) — câu hỏi điền từ cực kỳ quen thuộc ở Part 5."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "regard",
+          "example": "Please contact the benefits office with regard to your maternity leave coverage.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "regarding",
+          "example": "We have sent an email regarding the upcoming open enrollment period.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "All full-time staff members are eligible for the wellness program, _____ of how long they have worked at the firm.",
+        "answer": "regardless",
+        "base_word": "regardless",
+        "pos_hint": "trạng từ (đi với of)",
+        "vi": "Tất cả nhân viên toàn thời gian đều đủ điều kiện tham gia chương trình chăm sóc sức khỏe, bất kể họ đã làm việc tại công ty bao lâu."
+      }
+    },
+    {
+      "id": 11,
+      "word": "salary",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a fixed compensation paid regularly for work done; one's pay",
+      "definition_vi": "tiền lương (cố định hàng tháng/năm)",
+      "examples": [
+        {
+          "en": "The receptionist believed that he worked too hard for such a small salary.",
+          "vi": "Nhân viên lễ tân tin rằng anh đã làm việc quá vất vả so với mức lương ít ỏi như vậy."
+        },
+        {
+          "en": "The technician was pleased to have a raise in salary after only six months on the job.",
+          "vi": "Kỹ thuật viên rất vui mừng khi được tăng lương chỉ sau sáu tháng làm việc."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "competitive salary",
+        "annual salary",
+        "salary increase",
+        "negotiate a salary"
+      ],
+      "usage": {
+        "structures": [
+          "earn/receive a salary",
+          "a raise/increase in salary",
+          "competitive/starting salary"
+        ],
+        "prepositions": [
+          "on",
+          "in",
+          "at"
+        ],
+        "collocations": [
+          "competitive salary and benefits",
+          "starting salary",
+          "annual salary review",
+          "salaried employee"
+        ],
+        "tip": "Hay xuất hiện trong thông báo tuyển dụng với cụm 'competitive salary and comprehensive benefits package' (lương cạnh tranh và gói phúc lợi toàn diện)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "salary",
+          "example": "A small percentage of each employee's salary is deducted for health insurance.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "salaried",
+          "example": "All salaried employees receive paid sick leave and full medical coverage.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The hospital offers newly hired nurses a highly competitive starting _____ along with tuition reimbursement.",
+        "answer": "salary",
+        "base_word": "salary",
+        "pos_hint": "danh từ",
+        "vi": "Bệnh viện đề xuất cho các y tá mới tuyển một mức lương khởi điểm rất cạnh tranh cùng với chế độ hoàn trả học phí."
+      }
+    },
+    {
+      "id": 12,
+      "word": "suit",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to be appropriate; to satisfy",
+      "definition_vi": "phù hợp với, thích hợp với, đáp ứng; bộ vest",
+      "examples": [
+        {
+          "en": "This insurance plan doesn't suit our family as it doesn't cover well-baby care.",
+          "vi": "Gói bảo hiểm này không phù hợp với gia đình chúng tôi vì nó không chi trả cho dịch vụ chăm sóc sức khỏe định kỳ cho trẻ nhỏ."
+        },
+        {
+          "en": "I have finally found a health plan that suits my needs.",
+          "vi": "Cuối cùng tôi cũng tìm được một chương trình bảo hiểm sức khỏe phù hợp với nhu cầu của mình."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "suit",
+          "example": "I&#x27;m dropping my health plan because it does not suit my needs."
+        },
+        {
+          "pos": "",
+          "word": "suitable",
+          "example": "Not every kind of health insurance is suitable for every family."
+        },
+        {
+          "pos": "",
+          "word": "suitably",
+          "example": "The errors on my insurance statement were caught and suitably fixed."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "suit one's needs",
+        "suit a schedule",
+        "be suited for",
+        "suitable for"
+      ],
+      "usage": {
+        "structures": [
+          "suit + N (one's needs / one's schedule / one's budget)",
+          "be suitable for + sb/sth",
+          "be suited to/for + N"
+        ],
+        "prepositions": [
+          "for",
+          "to"
+        ],
+        "collocations": [
+          "suit your needs",
+          "suit your budget",
+          "suitable for families",
+          "ideally suited to"
+        ],
+        "tip": "Động từ 'suit' đi trực tiếp với tân ngữ (suit your needs/schedule), còn tính từ 'suitable' đi với giới từ 'for' (suitable for your needs)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "suitability",
+          "example": "A financial advisor can help you evaluate the suitability of each insurance tier.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Our benefits specialist can help you select an insurance plan that is _____ for your family's budget.",
+        "answer": "suitable",
+        "base_word": "suit",
+        "pos_hint": "tính từ",
+        "vi": "Chuyên viên phúc lợi của chúng tôi có thể giúp bạn chọn một gói bảo hiểm phù hợp với ngân sách của gia đình bạn."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. The cost and availability of health insurance is one of the greatest (1) ____ of company (2) ____. A covered employee should be familiar with the terms and conditions of the insurance (3) ____. Although the insured pays a (4) ____ of the cost of his or her coverage through (5) ____ deductions, the employer generally covers most of the cost. Self-employed persons can arrange for their own insurance or join an association of those performing similar work in order to get lower premiums. Traditionally, the insurance carrier will (6) ____ most of the charges related to medical care, although the insured might be responsible for a small portion. Although the company or association negotiates the most (7) ____ terms they can, most experts (8) ____ that employees should be on the lookout for (9) ____ that might better suit their needs. (10) ____ of the cost of premiums, the most important (11) ____ of good health insurance is that it meets the needs of the insured and (12) ____ the least possible cost for necessary procedures.",
+    "word_bank": [
+      "allow",
+      "concerns",
+      "personnel",
+      "regardless",
+      "alternatives",
+      "emphasize",
+      "policy",
+      "salary",
+      "aspect",
+      "incurs",
+      "portion",
+      "suitable"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "allow",
+        "example": "The insurance policy did not allow multiple prescription refills.",
+        "pos": ""
+      },
+      {
+        "word": "allowance",
+        "example": "The policy is liberal in its allowance for optometry services.",
+        "pos": ""
+      },
+      {
+        "word": "allowable",
+        "example": "A maximum of two dental visits is allowable under the plan.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "alternate",
+        "example": "We alternate turns in taking the kids to the doctor.",
+        "pos": ""
+      },
+      {
+        "word": "alternative",
+        "example": "Our medical insurance was too expensive, so we sought a cheaper alternative.",
+        "pos": ""
+      },
+      {
+        "word": "alternative",
+        "example": "We need to find an alternative health plan as this one is too expensive.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "concern",
+        "example": "It concerns me that we haven&#x27;t been able to find a suitable health insurance plan.",
+        "pos": ""
+      },
+      {
+        "word": "concern",
+        "example": "A good doctor will pay attention to any and all concerns the patient expresses about his or her health.",
+        "pos": ""
+      },
+      {
+        "word": "concerned",
+        "example": "I am concerned about the limited benefits this insurance plan offers.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "emphasize",
+        "example": "The plan representative emphasized the need for a second medical opinion.",
+        "pos": ""
+      },
+      {
+        "word": "emphasis",
+        "example": "The emphasis of the health plan is on staying well.",
+        "pos": ""
+      },
+      {
+        "word": "emphatic",
+        "example": "Hassan made an emphatic appeal to the medical insurance director.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "regard",
+        "example": "We regard this health insurance plan as one of the best options available.",
+        "pos": ""
+      },
+      {
+        "word": "regardful",
+        "example": "The company was not regardful of the needs of most of the employees when it chose this health insurance plan.",
+        "pos": ""
+      },
+      {
+        "word": "regardless",
+        "example": "I took the job regardless of the poor health benefits the company offers.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "suit",
+        "example": "I&#x27;m dropping my health plan because it does not suit my needs.",
+        "pos": ""
+      },
+      {
+        "word": "suitable",
+        "example": "Not every kind of health insurance is suitable for every family.",
+        "pos": ""
+      },
+      {
+        "word": "suitably",
+        "example": "The errors on my insurance statement were caught and suitably fixed.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "Office policy does not ____ employees to leave the office for medical appointments.",
+        "options": [
+          {
+            "label": "A",
+            "text": "allow"
+          },
+          {
+            "label": "B",
+            "text": "allowing"
+          },
+          {
+            "label": "C",
+            "text": "allowable"
+          },
+          {
+            "label": "D",
+            "text": "allowance"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "You should investigate to see if there are any ____ to costly hospital stays.",
+        "options": [
+          {
+            "label": "A",
+            "text": "alternate"
+          },
+          {
+            "label": "B",
+            "text": "alternatively"
+          },
+          {
+            "label": "C",
+            "text": "alternatives"
+          },
+          {
+            "label": "D",
+            "text": "alternating"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "It ____ me that our company is not willing to look for an alternative to our current health insurance plan.",
+        "options": [
+          {
+            "label": "A",
+            "text": "concern"
+          },
+          {
+            "label": "B",
+            "text": "concerned"
+          },
+          {
+            "label": "C",
+            "text": "concerns"
+          },
+          {
+            "label": "D",
+            "text": "concerning"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "I'm really pleased that my health plan provider is paying for my gym membership as a way to ____ its concern for my health.",
+        "options": [
+          {
+            "label": "A",
+            "text": "emphasis"
+          },
+          {
+            "label": "B",
+            "text": "emphasize"
+          },
+          {
+            "label": "C",
+            "text": "emphatic"
+          },
+          {
+            "label": "D",
+            "text": "emphasizing"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "I ____ health insurance as an indispensable job benefit.",
+        "options": [
+          {
+            "label": "A",
+            "text": "regardless"
+          },
+          {
+            "label": "B",
+            "text": "regardful"
+          },
+          {
+            "label": "C",
+            "text": "regarding"
+          },
+          {
+            "label": "D",
+            "text": "regard"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "The employee's goal is to find her family ____ health coverage.",
+        "options": [
+          {
+            "label": "A",
+            "text": "suit"
+          },
+          {
+            "label": "B",
+            "text": "suitable"
+          },
+          {
+            "label": "C",
+            "text": "suitably"
+          },
+          {
+            "label": "D",
+            "text": "suitability"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Memo To: All personnel From: Human Resources Office Re: Health Insurance Many of you have expressed an interest in certain [16] health care treatments such as acupuncture and massage. In response to this, we have negotiated a new health insurance [17] with our provider, and benefits now include a discount on visits to acupuncturists, massage therapists, and naturopaths. In order to take advantage of this discount, you need only to present your insurance card on your first visit to an approved provider. Please be advised that this discount [18] only on visits to providers from the approved list. Please notify this office if you would like a copy of the list of approved alternative health care providers.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "alter"
+            },
+            {
+              "label": "B",
+              "text": "alternate"
+            },
+            {
+              "label": "C",
+              "text": "alternative"
+            },
+            {
+              "label": "D",
+              "text": "alternatively"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "policy"
+            },
+            {
+              "label": "B",
+              "text": "police"
+            },
+            {
+              "label": "C",
+              "text": "politic"
+            },
+            {
+              "label": "D",
+              "text": "polite"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "allow"
+            },
+            {
+              "label": "B",
+              "text": "allows"
+            },
+            {
+              "label": "C",
+              "text": "is allowed"
+            },
+            {
+              "label": "D",
+              "text": "are allowed"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following notice. Did you know that full medical coverage is available to all company employees and their families, regardless of position or salary? If you need to know more, attend the workshop that will be held in Conference Room 3 next Friday at 11:00. All aspects of our health care policy will be explained. This workshop will be particularly useful to new personnel, although all are welcome. However, you must register to attend. Please contact the Human Resources Office before 5:00 Thursday. We will go over the various alternative plans available to company employees and discuss what criteria you need to consider in selecting the plan that best suits your needs. We will explain exactly what is covered and what is not under each alternative, and what portion of each doctor's visit or treatment that you must pay out of pocket. We will leave time at the end for a question-and-answer session to make sure that all your concerns are addressed. This workshop will last two hours.",
+        "questions": [
+          {
+            "number": 19,
+            "question": "What is the workshop about?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Choosing a doctor."
+              },
+              {
+                "label": "B",
+                "text": "Health insurance."
+              },
+              {
+                "label": "C",
+                "text": "Alternative medicine."
+              },
+              {
+                "label": "D",
+                "text": "Planning a medical treatment."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "Who can attend the workshop?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Anyone."
+              },
+              {
+                "label": "B",
+                "text": "New personnel only."
+              },
+              {
+                "label": "C",
+                "text": "The Human Resources staff."
+              },
+              {
+                "label": "D",
+                "text": "Only employees with families."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "What time will the workshop end?",
+            "options": [
+              {
+                "label": "A",
+                "text": "11:00."
+              },
+              {
+                "label": "B",
+                "text": "1:00."
+              },
+              {
+                "label": "C",
+                "text": "2:00."
+              },
+              {
+                "label": "D",
+                "text": "5:00."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word suits in the second paragraph, line 4 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "depends"
+              },
+              {
+                "label": "B",
+                "text": "satisfies"
+              },
+              {
+                "label": "C",
+                "text": "expresses"
+              },
+              {
+                "label": "D",
+                "text": "emphasizes"
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word concerns in the second paragraph, line 9 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "assignments"
+              },
+              {
+                "label": "B",
+                "text": "answers"
+              },
+              {
+                "label": "C",
+                "text": "benefits"
+              },
+              {
+                "label": "D",
+                "text": "worries"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What will happen if the man sees a specialist without a referral?",
+        "options": [
+          {
+            "label": "A",
+            "text": "He will be dropped from his health plan."
+          },
+          {
+            "label": "B",
+            "text": "He will see only a portion of the bill."
+          },
+          {
+            "label": "C",
+            "text": "He won't be provided with good care."
+          },
+          {
+            "label": "D",
+            "text": "He will pay a higher percentage of the cost."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "When can the man get an appointment with his primary care provider?",
+        "options": [
+          {
+            "label": "A",
+            "text": "In three days."
+          },
+          {
+            "label": "B",
+            "text": "In ten days."
+          },
+          {
+            "label": "C",
+            "text": "In two weeks."
+          },
+          {
+            "label": "D",
+            "text": "In three weeks."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the woman recommend to the man?",
+        "options": [
+          {
+            "label": "A",
+            "text": "See a specialist soon."
+          },
+          {
+            "label": "B",
+            "text": "See his primary care provider first."
+          },
+          {
+            "label": "C",
+            "text": "Get a treatment for his headache."
+          },
+          {
+            "label": "D",
+            "text": "Get a special procedure."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "Why has a new health plan been chosen?",
+        "options": [
+          {
+            "label": "A",
+            "text": "To help people save money."
+          },
+          {
+            "label": "B",
+            "text": "Because the old plan is no longer available."
+          },
+          {
+            "label": "C",
+            "text": "To get more benefits."
+          },
+          {
+            "label": "D",
+            "text": "Because people are interested in alternative medicine."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "Who will the new plan be available to?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Only people who earn a low salary."
+          },
+          {
+            "label": "B",
+            "text": "Anyone who is interested."
+          },
+          {
+            "label": "C",
+            "text": "Only people who have special health concerns."
+          },
+          {
+            "label": "D",
+            "text": "Just those who have worked at the company for a long time."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "When will the new health plan be in effect?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Today."
+          },
+          {
+            "label": "B",
+            "text": "In two weeks."
+          },
+          {
+            "label": "C",
+            "text": "In several months."
+          },
+          {
+            "label": "D",
+            "text": "Next year."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. What will happen if the man sees a specialist without a referral? (A) He will be dropped from his health plan. (B) He will see only a portion of the bill. (C) He won't be provided with good care. (D) He will pay a higher percentage of the cost. 5. When can the man get an appointment with his primary care provider? (A) In three days. (B) In ten days. (C) In two weeks. (D) In three weeks. 6. What does the woman recommend to the man? (A) See a specialist soon. (B) See his primary care provider first. (C) Get a treatment for his headache. (D) Get a special procedure. Listen to the talk. Then read each question and choose the best answer. 7. Why has a new health plan been chosen? (A) To help people save money. (B) Because the old plan is no longer available. (C) To get more benefits. (D) Because people are interested in alternative medicine. 8. Who will the new plan be available to? (A) Only people who earn a low salary. (B) Anyone who is interested. (C) Only people who have special health concerns. (D) Just those who have worked at the company for a long time. 9. When will the new health plan be in effect? (A) Today. (B) In two weeks. (C) In several months. (D) Next year.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What will happen if the man sees a specialist without a referral?",
+        "options": [
+          {
+            "label": "A",
+            "text": "He will be dropped from his health plan."
+          },
+          {
+            "label": "B",
+            "text": "He will see only a portion of the bill."
+          },
+          {
+            "label": "C",
+            "text": "He won't be provided with good care."
+          },
+          {
+            "label": "D",
+            "text": "He will pay a higher percentage of the cost."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "When can the man get an appointment with his primary care provider?",
+        "options": [
+          {
+            "label": "A",
+            "text": "In three days."
+          },
+          {
+            "label": "B",
+            "text": "In ten days."
+          },
+          {
+            "label": "C",
+            "text": "In two weeks."
+          },
+          {
+            "label": "D",
+            "text": "In three weeks."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the woman recommend to the man?",
+        "options": [
+          {
+            "label": "A",
+            "text": "See a specialist soon."
+          },
+          {
+            "label": "B",
+            "text": "See his primary care provider first."
+          },
+          {
+            "label": "C",
+            "text": "Get a treatment for his headache."
+          },
+          {
+            "label": "D",
+            "text": "Get a special procedure."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "Why has a new health plan been chosen?",
+        "options": [
+          {
+            "label": "A",
+            "text": "To help people save money."
+          },
+          {
+            "label": "B",
+            "text": "Because the old plan is no longer available."
+          },
+          {
+            "label": "C",
+            "text": "To get more benefits."
+          },
+          {
+            "label": "D",
+            "text": "Because people are interested in alternative medicine."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "Who will the new plan be available to?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Only people who earn a low salary."
+          },
+          {
+            "label": "B",
+            "text": "Anyone who is interested."
+          },
+          {
+            "label": "C",
+            "text": "Only people who have special health concerns."
+          },
+          {
+            "label": "D",
+            "text": "Just those who have worked at the company for a long time."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "When will the new health plan be in effect?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Today."
+          },
+          {
+            "label": "B",
+            "text": "In two weeks."
+          },
+          {
+            "label": "C",
+            "text": "In several months."
+          },
+          {
+            "label": "D",
+            "text": "Next year."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "# Health Insurance\n\nStudy the following definitions and examples.\n\n1. allow v., to let do or happen; to permit\n\na. My insurance does not allow me to choose my own hospital.\n\nb. The health plan made an exception by allowing me to go directly to a dermatologist.\n\n2. alternative adj., allowing a choice; other a. To lower the cost of health insurance, my employer chose an alternative method of insuring us.\n\nb. I'd like to discuss alternative treatments before I agree to anything.\n\n3. aspect n., a feature element; an appearance\n\na. The right to choose their own doctor is an important aspect of health coverage for many people.\n\nb. The aspect of HMOs that people most dislike is the lack of personal service.\n\n4. concern n., anxiety; worry\n\na. Whenever I have health concerns, I call my doctor.\n\nb. The rising cost of health care is of great concern to many people.\n\n5. emphasize v., to stress\n\na. The nurse emphasized the importance of eating a balanced diet.\n\nb. The new insurance plan emphasizes wellness by providing reimbursement for health club memberships.\n\n6. incur v., to become subject to\n\na. I incurred substantial expenses that my health plan does not cover.\n\nb. Dominic incurs the cost of a co-payment at each doctor's visit.\n\n7. personnel n., a group of employees or workers a. The office manager insisted that she needed more personnel to finish the project on time.\n\nb. The employee went to see the director of personnel about taking an extended leave of absence.\n\n8. policy n., a set of rules and regulations\n\na. Company policy did not provide for overtime pay.\n\nb. The company's insurance policy did not cover cosmetic surgery.\n\n9. portion n., a section or quantity within a larger thing; a part of a whole\n\na. A portion of my benefits is my health care coverage.\n\nb. I am keeping a record of the portion of my income I spend on health care.\n\n10. regardless adv., in spite of\n\na. Regardless of the cost, we all need health insurance.\n\nb. I keep going to the same doctor, regardless of the fact that she does not take my pain seriously.\n\n11. salary n., a fixed compensation paid regularly for work done; one's pay\n\na. The receptionist believed that he worked too hard for such a small salary.\n\nb. The technician was pleased to have a raise in salary after only six months on the job.\n\n12. suit v., to be appropriate; to satisfy a. This insurance plan doesn't suit our family as it doesn't cover well-baby care.\n\nb. I have finally found a health plan that suits my needs.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\n| allow | concerns | personnel | regardless |\n| --- | --- | --- | --- |\n| alternatives | emphasize | policy | salary |\n| aspect | incurs | portion | suitable |\n\nThe cost and availability of health insurance is one of the greatest (1) \\_\\_\\_\\_ of company (2) \\_\\_\\_\\_. A covered employee should be familiar with the terms and conditions of the insurance (3) \\_\\_\\_\\_. Although the insured pays a (4) \\_\\_\\_\\_ of the cost of his or her coverage through (5) \\_\\_\\_\\_ deductions, the employer generally covers most of the cost.\n\nSelf-employed persons can arrange for their own insurance or join an association of those performing similar work in order to get lower premiums. Traditionally, the insurance carrier will (6) \\_\\_\\_\\_ most of the charges related to medical care, although the insured might be responsible for a small portion.\n\nAlthough the company or association negotiates the most (7) \\_\\_\\_\\_ terms they can, most experts (8) \\_\\_\\_\\_ that employees should be on the lookout for (9) \\_\\_\\_\\_ that might better suit their needs. (10) \\_\\_\\_\\_ of the cost of premiums, the most important (11) \\_\\_\\_\\_ of good health insurance is that it meets the needs of the insured and (12) \\_\\_\\_\\_ the least possible cost for necessary procedures.",
+    "word_families": "## WORD FAMILIES\n\n<table><tr><td>allow</td><td>The insurance policy did not allow multiple prescription refills.</td></tr><tr><td>allowance</td><td>The policy is liberal in its allowance for optometry services.</td></tr><tr><td>allowable</td><td>A maximum of two dental visits is allowable under the plan.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>alternate</td><td>We alternate turns in taking the kids to the doctor.</td></tr><tr><td>alternative</td><td>Our medical insurance was too expensive, so we sought a cheaper alternative.</td></tr><tr><td>alternative</td><td>We need to find an alternative health plan as this one is too expensive.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>concern</td><td>It concerns me that we haven&#x27;t been able to find a suitable health insurance plan.</td></tr><tr><td>concern</td><td>A good doctor will pay attention to any and all concerns the patient expresses about his or her health.</td></tr><tr><td>concerned</td><td>I am concerned about the limited benefits this insurance plan offers.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>emphasize</td><td>The plan representative emphasized the need for a second medical opinion.</td></tr><tr><td>emphasis</td><td>The emphasis of the health plan is on staying well.</td></tr><tr><td>emphatic</td><td>Hassan made an emphatic appeal to the medical insurance director.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>regard</td><td>We regard this health insurance plan as one of the best options available.</td></tr><tr><td>regardful</td><td>The company was not regardful of the needs of most of the employees when it chose this health insurance plan.</td></tr><tr><td>regardless</td><td>I took the job regardless of the poor health benefits the company offers.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>suit</td><td>I&#x27;m dropping my health plan because it does not suit my needs.</td></tr><tr><td>suitable</td><td>Not every kind of health insurance is suitable for every family.</td></tr><tr><td>suitably</td><td>The errors on my insurance statement were caught and suitably fixed.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. What will happen if the man sees a specialist without a referral?\n(A) He will be dropped from his health plan.\n(B) He will see only a portion of the bill.\n(C) He won't be provided with good care.\n(D) He will pay a higher percentage of the cost.\n\n5. When can the man get an appointment with his primary care provider?\n(A) In three days.\n(B) In ten days.\n(C) In two weeks.\n(D) In three weeks.\n\n6. What does the woman recommend to the man?\n(A) See a specialist soon.\n(B) See his primary care provider first.\n(C) Get a treatment for his headache.\n(D) Get a special procedure.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. Why has a new health plan been chosen?  \n(A) To help people save money.  \n(B) Because the old plan is no longer available.  \n(C) To get more benefits.  \n(D) Because people are interested in alternative medicine.\n\n8. Who will the new plan be available to?\n(A) Only people who earn a low salary.\n(B) Anyone who is interested.\n(C) Only people who have special health concerns.\n(D) Just those who have worked at the company for a long time.\n\n9. When will the new health plan be in effect?\n(A) Today.\n(B) In two weeks.\n(C) In several months.\n(D) Next year.",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. Office policy does not \\_\\_\\_\\_ employees to leave the office for medical appointments.\n(A) allow (C) allowable\n(B) allowing (D) allowance\n\n11. You should investigate to see if there are any \\_\\_\\_\\_ to costly hospital stays.\n(A) alternate (C) alternatives\n(B) alternatively (D) alternating\n\n12. It \\_\\_\\_\\_ me that our company is not willing to look for an alternative to our current health insurance plan.\n(A) concern (C) concerns\n(B) concerned (D) concerning\n\n13. I'm really pleased that my health plan provider is paying for my gym membership as a way to \\_\\_\\_\\_ its concern for my health.\n(A) emphasis (C) emphatic\n(B) emphasize (D) emphasizing\n\n14. I \\_\\_\\_\\_ health insurance as an indispensable job benefit.\n(A) regardless (C) regarding\n(B) regardful (D) regard\n\n15. The employee's goal is to find her family \\_\\_\\_\\_ health coverage.\n(A) suit (C) suitably\n(B) suitable (D) suitability\n\n## Part 6 Text Completion\n\n## Memo\n\nTo: All personnel\n\nFrom: Human Resources Office\n\nRe: Health Insurance\n\nMany of you have expressed an interest in certain \\_16\\_ health care treatments such as acupuncture and massage. In response to this, we have negotiated a new health insurance \\_17\\_ with our provider, and benefits now include a discount on visits to acupuncturists, massage therapists, and naturopaths. In order to take advantage of this discount, you need only to present your insurance card on your first visit to an approved provider. Please be advised that this discount \\_18\\_ only on visits to providers from the approved list. Please notify this office if you would like a copy of the list of approved alternative health care providers.\n\n16. (A) alter  \n(B) alternate  \n(C) alternative  \n(D) alternatively\n\n17. (A) policy (B) police (C) politic (D) polite\n\n18. (A) allow (B) allows (C) is allowed (D) are allowed",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following notice.\n\n## Workshop\n\nDid you know that full medical coverage is available to all company employees and their families, regardless of position or salary? If you need to know more, attend the workshop that will be held in Conference Room 3 next Friday at 11:00. All aspects of our health care policy will be explained. This workshop will be particularly useful to new personnel, although all are welcome. However, you must register to attend. Please contact the Human Resources Office before 5:00 Thursday.\nWe will go over the various alternative plans available to company employees and discuss what criteria you need to consider in selecting the plan that best suits your needs. We will explain exactly what is covered and what is not under each alternative, and what portion of each doctor's visit or treatment that you must pay out of pocket. We will leave time at the end for a question-and-answer session to make sure that all your concerns are addressed. This workshop will last two hours.\n\n19. What is the workshop about?\n(A) Choosing a doctor.\n(B) Health insurance.\n(C) Alternative medicine.\n(D) Planning a medical treatment.\n\n20. Who can attend the workshop?\n(A) Anyone.\n(B) New personnel only.\n(C) The Human Resources staff.\n(D) Only employees with families.\n\n21. What time will the workshop end?\n(A) 11:00.\n(B) 1:00.\n(C) 2:00.\n(D) 5:00.\n\n22. The word suits in the second paragraph, line 4 is closest in meaning to  \n(A) depends  \n(B) satisfies  \n(C) expresses  \n(D) emphasizes\n\n23. The word concerns in the second paragraph, line 9 is closest in meaning to  \n(A) assignments  \n(B) answers  \n(C) benefits  \n(D) worries"
+  },
+  "needs_review": true
+}

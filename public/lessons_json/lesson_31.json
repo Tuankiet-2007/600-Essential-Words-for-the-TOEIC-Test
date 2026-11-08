@@ -1,0 +1,1633 @@
+{
+  "lesson_id": 31,
+  "title": "Selecting a Restaurant",
+  "theme_name": "Restaurants and Events",
+  "audio_track": "track_31.mp3",
+  "part1_photo": "part1_photos/lesson_31.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "appeal",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the ability to attract",
+      "definition_vi": "sức hấp dẫn, sự lôi cuốn; thu hút, kêu gọi",
+      "examples": [
+        {
+          "en": "A restaurant with good food and reasonable prices has a lot of appeal.",
+          "vi": "Một nhà hàng với đồ ăn ngon và giá cả hợp lý có sức hấp dẫn rất lớn."
+        },
+        {
+          "en": "The pleasing decor and friendly waiters are what give that restaurant its appeal.",
+          "vi": "Cách trang trí đẹp mắt và đội ngũ bồi bàn thân thiện chính là điều tạo nên sức hút cho nhà hàng đó."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "appeal",
+          "example": "On a beautiful spring day, a sidewalk café appeals to many people."
+        },
+        {
+          "pos": "noun",
+          "word": "appeal",
+          "example": "That restaurant has been around for a long time but it hasn't lost its appeal."
+        },
+        {
+          "pos": "adjective",
+          "word": "appealing",
+          "example": "An ice-cold drink seems very appealing on a hot day."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "have a lot of appeal",
+        "appeal to customers",
+        "broad appeal",
+        "lose its appeal"
+      ],
+      "usage": {
+        "structures": [
+          "appeal to somebody (hấp dẫn/thu hút ai)",
+          "have/hold appeal for somebody (có sức hút đối với ai)"
+        ],
+        "prepositions": [
+          "to",
+          "for"
+        ],
+        "collocations": [
+          "have a lot of appeal",
+          "appeal to a wide audience",
+          "visual appeal",
+          "lose its appeal"
+        ],
+        "tip": "Trong TOEIC, động từ 'appeal' luôn đi kèm giới từ 'to' (appeal to someone: thu hút ai hoặc kêu gọi ai)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "appealingly",
+          "example": "The desserts were appealingly displayed in a glass case near the entrance.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The new menu is designed to be more _____ to health-conscious diners.",
+        "answer": "appealing",
+        "base_word": "appeal",
+        "pos_hint": "tính từ",
+        "vi": "Thực đơn mới được thiết kế để trở nên hấp dẫn hơn đối với những thực khách quan tâm đến sức khỏe."
+      }
+    },
+    {
+      "id": 2,
+      "word": "arrive",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to reach a destination",
+      "definition_vi": "đến, tới nơi",
+      "examples": [
+        {
+          "en": "By the time our meal arrived, it was cold.",
+          "vi": "Đến lúc bữa ăn của chúng tôi được mang ra thì nó đã nguội lạnh."
+        },
+        {
+          "en": "Frank arrived at the restaurant only minutes after Claudia left.",
+          "vi": "Frank đến nhà hàng chỉ vài phút sau khi Claudia rời đi."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "arrive at the restaurant",
+        "arrive in the city",
+        "arrive on time",
+        "arrive safely"
+      ],
+      "usage": {
+        "structures": [
+          "arrive at + địa điểm nhỏ (station, restaurant, airport)",
+          "arrive in + địa điểm lớn (city, country)"
+        ],
+        "prepositions": [
+          "at",
+          "in",
+          "on"
+        ],
+        "collocations": [
+          "arrive on schedule",
+          "arrive at a conclusion",
+          "upon arrival",
+          "early arrival"
+        ],
+        "tip": "Chú ý phân biệt 'arrive at' (địa điểm cụ thể như nhà hàng, sân bay) và 'arrive in' (thành phố, quốc gia); danh từ của nó là 'arrival' rất hay xuất hiện sau giới từ 'upon'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "arrive",
+          "example": "All banquet guests are requested to arrive at least fifteen minutes early.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "arrival",
+          "example": "Upon arrival at the restaurant, please give your name to the hostess.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Complimentary welcome drinks will be served to all guests immediately upon their _____.",
+        "answer": "arrival",
+        "base_word": "arrive",
+        "pos_hint": "danh từ",
+        "vi": "Đồ uống chào mừng miễn phí sẽ được phục vụ cho tất cả khách mời ngay khi họ đến nơi."
+      }
+    },
+    {
+      "id": 3,
+      "word": "compromise",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a settlement of differences; v., to settle differences",
+      "definition_vi": "sự thỏa hiệp, sự nhượng bộ; thỏa hiệp, dàn xếp",
+      "examples": [
+        {
+          "en": "The couple made a compromise and ordered food to take out.",
+          "vi": "Cặp đôi đã đi đến thỏa hiệp và gọi đồ ăn mang về."
+        },
+        {
+          "en": "John doesn't like sweet dishes so I compromised by adding just a small amount of sugar.",
+          "vi": "John không thích các món ngọt nên tôi đã nhượng bộ bằng cách chỉ cho thêm một chút đường."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "make a compromise",
+        "reach a compromise",
+        "compromise on price",
+        "refuse to compromise"
+      ],
+      "usage": {
+        "structures": [
+          "reach/make a compromise (đạt được/thực hiện sự thỏa hiệp)",
+          "compromise with somebody on something (thỏa hiệp với ai về việc gì)"
+        ],
+        "prepositions": [
+          "with",
+          "on",
+          "between"
+        ],
+        "collocations": [
+          "reach a compromise",
+          "make a compromise",
+          "acceptable compromise",
+          "compromise on quality"
+        ],
+        "tip": "Cụm cố định phổ biến nhất trong TOEIC là 'reach a compromise' (đạt được thỏa thuận nhượng bộ lẫn nhau)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "compromise",
+          "example": "The chef refuses to compromise on the freshness of the seafood.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "compromise",
+          "example": "After a long discussion, the committee reached a compromise regarding the catering budget.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "compromising",
+          "example": "Both parties showed a compromising attitude during the contract negotiations.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Although the two partners disagreed on the menu, they eventually _____ by offering both Italian and French dishes.",
+        "answer": "compromised",
+        "base_word": "compromise",
+        "pos_hint": "động từ chia quá khứ đơn V-ed",
+        "vi": "Mặc dù hai đối tác bất đồng về thực đơn, cuối cùng họ đã thỏa hiệp bằng cách phục vụ cả món Ý lẫn món Pháp."
+      }
+    },
+    {
+      "id": 4,
+      "word": "daringly",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "bravely",
+      "definition_vi": "một cách táo bạo, mạnh dạn",
+      "examples": [
+        {
+          "en": "We daringly ordered the raw squid.",
+          "vi": "Chúng tôi đã táo bạo gọi món mực sống."
+        },
+        {
+          "en": "Bob daringly asked to see the menu in French.",
+          "vi": "Bob mạnh dạn yêu cầu được xem thực đơn bằng tiếng Pháp."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "dare",
+          "example": "I prefer familiar things and don't usually dare to try new restaurants."
+        },
+        {
+          "pos": "adjective",
+          "word": "daring",
+          "example": "Kobi had more daring tastes than the rest of his family."
+        },
+        {
+          "pos": "adverb",
+          "word": "daringly",
+          "example": "Jane daringly refused a fork and attempted to eat her entire meal with chopsticks."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "daringly original",
+        "daringly combine",
+        "act daringly",
+        "daringly different"
+      ],
+      "usage": {
+        "structures": [
+          "daringly + V / V + daringly (làm gì một cách táo bạo)",
+          "dare to V (dám làm gì)"
+        ],
+        "prepositions": [
+          "to"
+        ],
+        "collocations": [
+          "daringly innovative",
+          "daring menu choices",
+          "dare to try",
+          "a daring attempt"
+        ],
+        "tip": "Mặc dù sách ghi 'adj.', 'daringly' thực chất là trạng từ bổ nghĩa cho động từ hoặc tính từ; dạng tính từ là 'daring' (táo bạo)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "dare",
+          "example": "Ordering the spiciest curry on the menu was a dare from his colleagues.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The young chef is famous for his _____ combinations of traditional and modern ingredients.",
+        "answer": "daring",
+        "base_word": "daringly",
+        "pos_hint": "tính từ",
+        "vi": "Đầu bếp trẻ tuổi này nổi tiếng với những sự kết hợp táo bạo giữa nguyên liệu truyền thống và hiện đại."
+      }
+    },
+    {
+      "id": 5,
+      "word": "familiar",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "often encountered or seen; common",
+      "definition_vi": "quen thuộc, thân thuộc, am hiểu",
+      "examples": [
+        {
+          "en": "It's nice to see some familiar items on the menu.",
+          "vi": "Thật tuyệt khi thấy một số món ăn quen thuộc trên thực đơn."
+        },
+        {
+          "en": "The chef blends the familiar tastes with the unusual.",
+          "vi": "Người đầu bếp pha trộn những hương vị quen thuộc với những hương vị độc lạ."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "be familiar with",
+        "familiar to someone",
+        "familiar sight",
+        "familiar taste"
+      ],
+      "usage": {
+        "structures": [
+          "be familiar with something (quen thuộc/am hiểu cái gì)",
+          "be familiar to somebody (trở nên quen thuộc đối với ai)"
+        ],
+        "prepositions": [
+          "with",
+          "to"
+        ],
+        "collocations": [
+          "be familiar with the procedure",
+          "familiar faces",
+          "sound familiar",
+          "familiarize oneself with"
+        ],
+        "tip": "Cực kỳ lưu ý giới từ: Chủ ngữ là người thì dùng 'familiar WITH something', chủ ngữ là vật thì dùng 'familiar TO someone'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "familiarize",
+          "example": "New waitstaff must familiarize themselves with the daily specials before their shift.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "familiarity",
+          "example": "His familiarity with local wines impressed the dinner guests.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "familiar",
+          "example": "Please ask a server if you are not familiar with the ingredients in a dish.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "familiarly",
+          "example": "The restaurant owner greeted his regular patrons familiarly by their first names.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "All newly hired servers are required to _____ themselves with the kitchen safety rules.",
+        "answer": "familiarize",
+        "base_word": "familiar",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Tất cả nhân viên phục vụ mới được tuyển dụng đều phải tự làm quen với các quy tắc an toàn trong nhà bếp."
+      }
+    },
+    {
+      "id": 6,
+      "word": "guide",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "one who leads, directs, or gives advice; a guidebook",
+      "definition_vi": "người hướng dẫn, cẩm nang hướng dẫn; hướng dẫn, chỉ dẫn",
+      "examples": [
+        {
+          "en": "The guide led our tour group to a small restaurant only known to the locals.",
+          "vi": "Hướng dẫn viên đã dẫn đoàn du lịch của chúng tôi đến một nhà hàng nhỏ chỉ người dân địa phương mới biết."
+        },
+        {
+          "en": "I don't know where to go, so why don't we consult the guide.",
+          "vi": "Tôi không biết nên đi đâu, vậy tại sao chúng ta không tham khảo cuốn cẩm nang hướng dẫn nhỉ."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "tour guide",
+        "restaurant guide",
+        "consult a guide",
+        "step-by-step guide"
+      ],
+      "usage": {
+        "structures": [
+          "guide somebody to/through something (hướng dẫn ai đến/vượt qua cái gì)",
+          "a guide to something (cẩm nang hướng dẫn về cái gì)"
+        ],
+        "prepositions": [
+          "to",
+          "through",
+          "for"
+        ],
+        "collocations": [
+          "comprehensive guide",
+          "user guide",
+          "guided tour",
+          "provide guidance"
+        ],
+        "tip": "Phân biệt danh từ chỉ người/sách 'guide' (hướng dẫn viên / sách hướng dẫn) và danh từ không đếm được 'guidance' (sự hướng dẫn, chỉ đạo)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "guide",
+          "example": "The sommelier gladly guided us through the extensive wine list.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "guidance",
+          "example": "Under the guidance of the head chef, the kitchen staff improved their efficiency.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "guided",
+          "example": "Visitors can sign up for a guided tour of the historic winery.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The apprentice chef prepared the banquet menu under the close _____ of the culinary director.",
+        "answer": "guidance",
+        "base_word": "guide",
+        "pos_hint": "danh từ (không đếm được, chỉ sự hướng dẫn)",
+        "vi": "Đầu bếp tập sự đã chuẩn bị thực đơn tiệc dưới sự hướng dẫn sát sao của giám đốc ẩm thực."
+      }
+    },
+    {
+      "id": 7,
+      "word": "majority",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the greater number or part",
+      "definition_vi": "phần lớn, đa số",
+      "examples": [
+        {
+          "en": "The majority of the group wanted to try the new Chinese restaurant.",
+          "vi": "Phần lớn các thành viên trong nhóm đều muốn thử nhà hàng Trung Hoa mới mở."
+        },
+        {
+          "en": "Claude was in the majority, so he was very pleased with the decision.",
+          "vi": "Claude thuộc phe đa số nên anh ấy rất hài lòng với quyết định này."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "the vast majority of",
+        "in the majority",
+        "majority vote",
+        "majority shareholder"
+      ],
+      "usage": {
+        "structures": [
+          "the majority of + N số nhiều + V số nhiều (đa số ...)",
+          "be in the majority (chiếm đa số)"
+        ],
+        "prepositions": [
+          "of",
+          "in"
+        ],
+        "collocations": [
+          "the vast majority of customers",
+          "overwhelming majority",
+          "slight majority",
+          "by a majority"
+        ],
+        "tip": "Khi 'the majority of + danh từ số nhiều' làm chủ ngữ, động từ theo sau luôn chia ở dạng số nhiều."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "major",
+          "example": "She majored in hospitality management at university before opening her bistro.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "majority",
+          "example": "A vast majority of diners prefer making table reservations online.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "major",
+          "example": "High ingredient costs remain a major concern for local restaurant owners.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Renovating the main dining hall was the first _____ project undertaken by the new owner.",
+        "answer": "major",
+        "base_word": "majority",
+        "pos_hint": "tính từ",
+        "vi": "Cải tạo sảnh ăn chính là dự án lớn đầu tiên được thực hiện bởi người chủ mới."
+      }
+    },
+    {
+      "id": 8,
+      "word": "mix",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to combine or blend into one mass; n., a combination",
+      "definition_vi": "pha trộn, kết hợp; sự pha trộn, hỗn hợp",
+      "examples": [
+        {
+          "en": "The daring chef mixed two uncommon ingredients.",
+          "vi": "Người đầu bếp táo bạo đã pha trộn hai nguyên liệu ít gặp với nhau."
+        },
+        {
+          "en": "The mix of bright colors on the plate was very pleasing.",
+          "vi": "Sự pha trộn của những màu sắc tươi sáng trên đĩa thức ăn trông rất đẹp mắt."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "mix",
+          "example": "The chef was famous for mixing unfamiliar ingredients."
+        },
+        {
+          "pos": "noun",
+          "word": "mixture",
+          "example": "The texture of the vegetable mixture was too lumpy for my taste."
+        },
+        {
+          "pos": "",
+          "word": "mixable",
+          "example": "Oil and water are not mixable."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "mix ingredients",
+        "a mix of styles",
+        "mix thoroughly",
+        "cake mix"
+      ],
+      "usage": {
+        "structures": [
+          "mix A with B / mix A and B together (trộn A với B)",
+          "a mix of + N (một sự kết hợp của...)"
+        ],
+        "prepositions": [
+          "with",
+          "into",
+          "of"
+        ],
+        "collocations": [
+          "mix thoroughly",
+          "an interesting mix of",
+          "product mix",
+          "stir the mixture"
+        ],
+        "tip": "Danh từ 'mixture' thường chỉ hỗn hợp vật chất (bột, gia vị), còn 'mix' vừa là động từ vừa là danh từ chỉ sự kết hợp đa dạng."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "mixed",
+          "example": "The new fusion restaurant received mixed reviews from local food critics.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Slowly pour the milk into the flour _____ while stirring continuously.",
+        "answer": "mixture",
+        "base_word": "mix",
+        "pos_hint": "danh từ (chỉ hỗn hợp)",
+        "vi": "Từ từ đổ sữa vào hỗn hợp bột mì trong khi khuấy liên tục."
+      }
+    },
+    {
+      "id": 9,
+      "word": "rely",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to have confidence in; to depend on",
+      "definition_vi": "dựa vào, tin cậy vào, phụ thuộc vào",
+      "examples": [
+        {
+          "en": "I have always relied on the restaurant advice this guidebook gives.",
+          "vi": "Tôi luôn tin cậy vào những lời khuyên về nhà hàng mà cuốn cẩm nang này đưa ra."
+        },
+        {
+          "en": "I seldom rely on the restaurant reviews in the paper when choosing a restaurant. a. Despite the popularity of the restaurant, Max was able to secure reservations for this evening. b. The hostess secured us another chair, so we could eat together.",
+          "vi": "Tôi hiếm khi dựa vào các bài đánh giá nhà hàng trên báo khi chọn quán ăn."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "rely",
+          "example": "We will rely on the hostess's recommendations."
+        },
+        {
+          "pos": "noun",
+          "word": "reliability",
+          "example": "The reliability of deliveries became a problem for the manager."
+        },
+        {
+          "pos": "",
+          "word": "reliable",
+          "example": "Hiring a reliable staff is the first priority for every restaurant manager."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "rely on",
+        "rely heavily on",
+        "rely upon",
+        "reliable source"
+      ],
+      "usage": {
+        "structures": [
+          "rely on/upon somebody/something (tin cậy/dựa vào ai/cái gì)",
+          "rely on somebody to V (tin tưởng ai sẽ làm gì)"
+        ],
+        "prepositions": [
+          "on",
+          "upon"
+        ],
+        "collocations": [
+          "rely heavily on",
+          "reliable service",
+          "prove reliable",
+          "reliability of supply"
+        ],
+        "tip": "Động từ 'rely' và tính từ 'reliant' luôn đi với giới từ 'on' hoặc 'upon' (bằng với depend on)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "reliably",
+          "example": "We have been reliably informed that the restaurant will open a second branch next month.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Finding a _____ supplier of fresh organic produce is essential for any farm-to-table restaurant.",
+        "answer": "reliable",
+        "base_word": "rely",
+        "pos_hint": "tính từ",
+        "vi": "Việc tìm kiếm một nhà cung cấp nông sản hữu cơ tươi sống đáng tin cậy là điều thiết yếu đối với bất kỳ nhà hàng nông trại nào."
+      }
+    },
+    {
+      "id": 10,
+      "word": "subjective",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "particular to a given person; highly personal; not objective",
+      "definition_vi": "mang tính chủ quan, theo cảm tính cá nhân",
+      "examples": [
+        {
+          "en": "Food preferences are subjective and not everyone agrees on what tastes good.",
+          "vi": "Sở thích ăn uống mang tính chủ quan và không phải ai cũng đồng ý về việc món nào là ngon."
+        },
+        {
+          "en": "The reviews in this guidebook are highly subjective, but fun to read.",
+          "vi": "Các bài đánh giá trong cuốn cẩm nang này mang nặng tính chủ quan, nhưng đọc rất thú vị."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "highly subjective",
+        "subjective opinion",
+        "subjective judgment",
+        "subjective taste"
+      ],
+      "usage": {
+        "structures": [
+          "be subjective (mang tính chủ quan, trái ngược với objective)",
+          "subjective + N (opinion, assessment, evaluation)"
+        ],
+        "prepositions": [
+          "about",
+          "in"
+        ],
+        "collocations": [
+          "purely subjective",
+          "subjective evaluation",
+          "subjective criteria",
+          "remain subjective"
+        ],
+        "tip": "Ghi nhớ cặp từ trái nghĩa hay gặp trong bài đọc TOEIC: 'subjective' (chủ quan, theo cảm nhận cá nhân) >< 'objective' (khách quan, dựa trên thực tế)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "subjectivity",
+          "example": "To reduce subjectivity in the cooking contest, judges used a strict scoring rubric.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "subjective",
+          "example": "Rating the ambiance of a dining room is always a somewhat subjective process.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "subjectively",
+          "example": "Tasting notes are often judged subjectively by each individual diner.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Because art and cuisine are judged _____, critics rarely agree on the best restaurant in town.",
+        "answer": "subjectively",
+        "base_word": "subjective",
+        "pos_hint": "trạng từ",
+        "vi": "Bởi vì nghệ thuật và ẩm thực được đánh giá một cách chủ quan, các nhà phê bình hiếm khi đồng tình về nhà hàng tốt nhất trong thị trấn."
+      }
+    },
+    {
+      "id": 11,
+      "word": "secure",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "",
+      "definition_vi": "đạt được, giữ được (chỗ đặt trước, hợp đồng); bảo đảm an toàn",
+      "examples": [
+        {
+          "en": "Despite the popularity of the restaurant, Max was able to secure reservations for this evening.",
+          "vi": "Mặc dù nhà hàng rất đông khách, Max vẫn giữ được chỗ đặt bàn cho tối nay."
+        },
+        {
+          "en": "The hostess secured us another chair, so we could eat together.",
+          "vi": "Nhân viên đón tiếp đã kiếm thêm cho chúng tôi một chiếc ghế nữa để chúng tôi có thể ngồi ăn cùng nhau."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "needs_review": true,
+      "recovered_from": "extracted_data/mineru_md/lesson_31/words_to_learn.md",
+      "collocations": [
+        "secure a reservation",
+        "secure a table",
+        "secure a contract",
+        "secure funding"
+      ],
+      "usage": {
+        "structures": [
+          "secure + N (reservation, deal, loan, position): giành được/có được cái gì khó kiếm",
+          "secure something against/from something (bảo vệ cái gì khỏi...)"
+        ],
+        "prepositions": [
+          "for",
+          "from",
+          "against"
+        ],
+        "collocations": [
+          "secure a reservation",
+          "secure a contract",
+          "financially secure",
+          "tighten security"
+        ],
+        "tip": "Trong TOEIC, ngoài nghĩa tính từ là 'an toàn/bảo mật', động từ 'secure' rất hay mang nghĩa 'đạt được/giữ được' (secure a reservation / secure a contract)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "secure",
+          "example": "You should call at least two weeks ahead to secure a table for Saturday night.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "security",
+          "example": "For security reasons, all back doors of the restaurant must remain locked at night.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "secure",
+          "example": "Online payments made through our restaurant website are completely secure.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "securely",
+          "example": "Make sure the lids are securely fastened before packing the takeout containers.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Please ensure that all catering containers are _____ sealed before loading them into the delivery van.",
+        "answer": "securely",
+        "base_word": "secure",
+        "pos_hint": "trạng từ",
+        "vi": "Vui lòng đảm bảo rằng tất cả các hộp đựng đồ ăn tiệc được đóng kín một cách chắc chắn trước khi chất lên xe tải giao hàng."
+      }
+    },
+    {
+      "id": 12,
+      "word": "suggestion",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a proposal; advice",
+      "definition_vi": "lời đề nghị, sự gợi ý",
+      "examples": [
+        {
+          "en": "Can I make a suggestion about what to order?",
+          "vi": "Tôi có thể đưa ra một gợi ý về món nên gọi được không?"
+        },
+        {
+          "en": "We followed the waiter's suggestion and ordered one of the specials.",
+          "vi": "Chúng tôi đã làm theo gợi ý của người bồi bàn và gọi một trong những món đặc biệt của quán."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "suggest",
+          "example": "Can I suggest a good wine to go with the entrée?"
+        },
+        {
+          "pos": "noun",
+          "word": "suggestion",
+          "example": "Clark asked his boss for a suggestion for a good place to eat."
+        },
+        {
+          "pos": "",
+          "word": "suggestible",
+          "example": "The patrons were in a suggestible mood, and were easily convinced to have dessert."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "make a suggestion",
+        "follow a suggestion",
+        "suggestion box",
+        "welcome suggestions"
+      ],
+      "usage": {
+        "structures": [
+          "make/offer a suggestion (đưa ra lời gợi ý)",
+          "at somebody's suggestion (theo gợi ý của ai)"
+        ],
+        "prepositions": [
+          "about",
+          "for",
+          "at"
+        ],
+        "collocations": [
+          "make a suggestion",
+          "act on a suggestion",
+          "helpful suggestion",
+          "open to suggestions"
+        ],
+        "tip": "Lưu ý cấu trúc động từ 'suggest + V-ing' hoặc 'suggest + that + S + (should) + V nguyên mẫu' (tuyệt đối không dùng 'suggest somebody to V')."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "suggestive",
+          "example": "The aroma coming from the kitchen was suggestive of freshly baked bread and herbs.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The restaurant manager _____ offering a complimentary appetizer to customers who waited over thirty minutes.",
+        "answer": "suggested",
+        "base_word": "suggestion",
+        "pos_hint": "động từ chia quá khứ đơn V-ed",
+        "vi": "Quản lý nhà hàng đã đề xuất tặng một món khai vị miễn phí cho những khách hàng phải chờ hơn ba mươi phút."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. When Atul is trying to impress business contacts who are potential new clients, he takes them to the best restaurant in town. He hopes this will help (1) ____ a new contract for his telecommunications business. It's hard to determine which restaurants are best. Atul (2) ____ on newspaper and magazine reviews. He also asks his friends and colleagues for (3) ____. They are happy to make a (4) ____. Food tastes are (5)____. Although Atul likes to be (6) ____ and take risks, he knows that the food should (7) ____ to a variety of palates. He wants the (8) ____ of his guests to be happy. He usually decides to (9) ____ on a restaurant that offers a menu with a (10) ____ of (11) ____ standards and some exciting specials. When he calls to book the table, he tells the person taking the reservation what time his party will (12) ____ and the number of people he needs seating for.",
+    "word_bank": [
+      "appeal",
+      "daring",
+      "majority",
+      "secure",
+      "arrive",
+      "familiar",
+      "mix",
+      "subjective",
+      "compromise",
+      "guidance",
+      "relies",
+      "suggestion"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "appeal",
+        "example": "On a beautiful spring day, a sidewalk café appeals to many people.",
+        "pos": "verb"
+      },
+      {
+        "word": "appeal",
+        "example": "That restaurant has been around for a long time but it hasn't lost its appeal.",
+        "pos": "noun"
+      },
+      {
+        "word": "appealing",
+        "example": "An ice-cold drink seems very appealing on a hot day.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "dare",
+        "example": "I prefer familiar things and don't usually dare to try new restaurants.",
+        "pos": "verb"
+      },
+      {
+        "word": "daring",
+        "example": "Kobi had more daring tastes than the rest of his family.",
+        "pos": "adjective"
+      },
+      {
+        "word": "daringly",
+        "example": "Jane daringly refused a fork and attempted to eat her entire meal with chopsticks.",
+        "pos": "adverb"
+      }
+    ],
+    [
+      {
+        "word": "mix",
+        "example": "The chef was famous for mixing unfamiliar ingredients.",
+        "pos": ""
+      },
+      {
+        "word": "mixture",
+        "example": "The texture of the vegetable mixture was too lumpy for my taste.",
+        "pos": "noun"
+      },
+      {
+        "word": "mixable",
+        "example": "Oil and water are not mixable.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "rely",
+        "example": "We will rely on the hostess's recommendations.",
+        "pos": "verb"
+      },
+      {
+        "word": "reliability",
+        "example": "The reliability of deliveries became a problem for the manager.",
+        "pos": "noun"
+      },
+      {
+        "word": "reliable",
+        "example": "Hiring a reliable staff is the first priority for every restaurant manager.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "suggest",
+        "example": "Can I suggest a good wine to go with the entrée?",
+        "pos": "verb"
+      },
+      {
+        "word": "suggestion",
+        "example": "Clark asked his boss for a suggestion for a good place to eat.",
+        "pos": "noun"
+      },
+      {
+        "word": "suggestible",
+        "example": "The patrons were in a suggestible mood, and were easily convinced to have dessert.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "The colorful vegetables made the dish look ____.",
+        "options": [
+          {
+            "label": "A",
+            "text": "appealed"
+          },
+          {
+            "label": "B",
+            "text": "appealing"
+          },
+          {
+            "label": "C",
+            "text": "appeals"
+          },
+          {
+            "label": "D",
+            "text": "appealingly"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "Even though the restaurant looked expensive, Pat ____ to order her meal without asking about the prices.",
+        "options": [
+          {
+            "label": "A",
+            "text": "daring"
+          },
+          {
+            "label": "B",
+            "text": "daringly"
+          },
+          {
+            "label": "C",
+            "text": "dared"
+          },
+          {
+            "label": "D",
+            "text": "dares"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "If you need some ____ on what to order, be sure to consult your server.",
+        "options": [
+          {
+            "label": "A",
+            "text": "guide"
+          },
+          {
+            "label": "B",
+            "text": "guides"
+          },
+          {
+            "label": "C",
+            "text": "guided"
+          },
+          {
+            "label": "D",
+            "text": "guidance"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "Your father is in the kitchen ____ a batch of his famous chocolate chip cookies.",
+        "options": [
+          {
+            "label": "A",
+            "text": "mixture"
+          },
+          {
+            "label": "B",
+            "text": "mixed"
+          },
+          {
+            "label": "C",
+            "text": "mix"
+          },
+          {
+            "label": "D",
+            "text": "mixing"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "This guidebook is several years old, so I would question its ____.",
+        "options": [
+          {
+            "label": "A",
+            "text": "rely"
+          },
+          {
+            "label": "B",
+            "text": "reliance"
+          },
+          {
+            "label": "C",
+            "text": "reliability"
+          },
+          {
+            "label": "D",
+            "text": "relying"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "I have always found Lola's restaurant ____ to be very good, so I continue to seek her guidance.",
+        "options": [
+          {
+            "label": "A",
+            "text": "suggestions"
+          },
+          {
+            "label": "B",
+            "text": "suggest"
+          },
+          {
+            "label": "C",
+            "text": "suggestive"
+          },
+          {
+            "label": "D",
+            "text": "suggestible"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Are you looking for a delicious lunch experience that won't empty your wallet? Try the Blue Shutters Café. Our varied menu [16] to all tastes. We're famous for our homemade soups, garden-fresh salads, and freshly baked breads and pastries. Try our homemade pies in all flavors from [17] favorites like apple pie to exotic choices such as loganberry and chestnut meringue. But [18] on our word alone. Come on down and try for yourself. We're open Monday through Saturday from 11:00 A.M. until 2:30 P.M. Read about the Blue Shutters Café in the recent edition of the local restaurant guide \"Restaurants of Riverdale.\"",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "appeal"
+            },
+            {
+              "label": "B",
+              "text": "appeals"
+            },
+            {
+              "label": "C",
+              "text": "appealed"
+            },
+            {
+              "label": "D",
+              "text": "are appealing"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "famously"
+            },
+            {
+              "label": "B",
+              "text": "famished"
+            },
+            {
+              "label": "C",
+              "text": "familiar"
+            },
+            {
+              "label": "D",
+              "text": "family"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "no rely"
+            },
+            {
+              "label": "B",
+              "text": "not rely"
+            },
+            {
+              "label": "C",
+              "text": "not to rely"
+            },
+            {
+              "label": "D",
+              "text": "don't rely"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Part 7 Reading Comprehension Questions 19–23 refer to the following restaurant review and e-mail message. The Mountain View Restaurant is a charming dinner location that just opened up in Falls Village. The menu provides an interesting mix of both meat and vegetarian entrées. The chef, who trained in Paris, has introduced some exotic dishes such as Octopus Soufflé and Three Tuber Salad. For the less daring diner, the menu also abounds in such familiar choices as Baked Chicken and Pepper Crusted Steak. Whether you choose to rely on a familiar dish or decide to experiment with something exotic, you are sure to be delighted with your meal. All the selections I tasted were delicious, and the prices are quite reasonable. Don't forget to leave room for dessert. I especially suggest the chocolate cake. It's the best in town. Unfortunately, the charm of the menu selections is not matched by the charm of the décor. It is rather drab and uninspiring. If you visit the inn on a weekend evening, arrive by 6:00 since the restaurant does not take reservations, and it is difficult to get a table after 7:00 unless you are willing to wait half an hour or more. To: Margaret Smithers From: Anna Simpson Subject: Dinner out Did you read the review of the Mountain View Inn in this Sunday's Falls Village Times? It sounds great. I usually read the restaurant reviews in that paper, and the majority of them are quite accurate. I rely on those reviews a great deal more than the ones in our local restaurant guide. I think we should try the inn. Are you free Saturday night? I think we should arrive at the time suggested in the paper. Then we can have a relaxed meal and still have time to go to an 8:30 movie afterwards. Can you do it? Let me know before you leave work today. Anna",
+        "questions": [
+          {
+            "number": 19,
+            "question": "What is the reviewer's opinion of the restaurant?",
+            "options": [
+              {
+                "label": "A",
+                "text": "The prices are too high."
+              },
+              {
+                "label": "B",
+                "text": "The food is very good."
+              },
+              {
+                "label": "C",
+                "text": "The décor is exotic."
+              },
+              {
+                "label": "D",
+                "text": "The menu is boring."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "What does the reviewer recommend ordering?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Octopus soufflé."
+              },
+              {
+                "label": "B",
+                "text": "Tuber salad."
+              },
+              {
+                "label": "C",
+                "text": "Baked chicken."
+              },
+              {
+                "label": "D",
+                "text": "Chocolate cake."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "When does Anna want to arrive at the restaurant?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Before 6:00."
+              },
+              {
+                "label": "B",
+                "text": "After 7:00."
+              },
+              {
+                "label": "C",
+                "text": "At 8:00."
+              },
+              {
+                "label": "D",
+                "text": "By 8:30."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word mix in line 3 of the restaurant review is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "style"
+              },
+              {
+                "label": "B",
+                "text": "combination"
+              },
+              {
+                "label": "C",
+                "text": "number"
+              },
+              {
+                "label": "D",
+                "text": "course"
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word majority in line 4 of the e-mail is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "few"
+              },
+              {
+                "label": "B",
+                "text": "some"
+              },
+              {
+                "label": "C",
+                "text": "most"
+              },
+              {
+                "label": "D",
+                "text": "several"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "How often do restaurant reviews appear in the local newspaper?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Every day."
+          },
+          {
+            "label": "B",
+            "text": "Every week."
+          },
+          {
+            "label": "C",
+            "text": "Every month."
+          },
+          {
+            "label": "D",
+            "text": "Every year."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "Who recommends restaurants to the man?",
+        "options": [
+          {
+            "label": "A",
+            "text": "His friends."
+          },
+          {
+            "label": "B",
+            "text": "His mother."
+          },
+          {
+            "label": "C",
+            "text": "His brother."
+          },
+          {
+            "label": "D",
+            "text": "His coworkers."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What is the speakers' opinion of restaurant reviews?",
+        "options": [
+          {
+            "label": "A",
+            "text": "They are appealing."
+          },
+          {
+            "label": "B",
+            "text": "They are usually helpful."
+          },
+          {
+            "label": "C",
+            "text": "They are very subjective."
+          },
+          {
+            "label": "D",
+            "text": "They are mean."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "Where is the listener now?",
+        "options": [
+          {
+            "label": "A",
+            "text": "At home."
+          },
+          {
+            "label": "B",
+            "text": "In the bar."
+          },
+          {
+            "label": "C",
+            "text": "At the restaurant."
+          },
+          {
+            "label": "D",
+            "text": "In the parking lot."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What does the speaker suggest?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Driving to the restaurant."
+          },
+          {
+            "label": "B",
+            "text": "Arriving early for drinks."
+          },
+          {
+            "label": "C",
+            "text": "Making a reservation."
+          },
+          {
+            "label": "D",
+            "text": "Bringing a big appetite."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What time is the reservation for?",
+        "options": [
+          {
+            "label": "A",
+            "text": "7:30."
+          },
+          {
+            "label": "B",
+            "text": "8:00."
+          },
+          {
+            "label": "C",
+            "text": "8:30."
+          },
+          {
+            "label": "D",
+            "text": "11:00."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. How often do restaurant reviews appear in the local newspaper? (A) Every day. (B) Every week. (C) Every month. (D) Every year. 6. Who recommends restaurants to the man? (A) His friends. (B) His mother. (C) His brother. (D) His coworkers. 5. What is the speakers' opinion of restaurant reviews? (A) They are appealing. (B) They are usually helpful. (C) They are very subjective. (D) They are mean. Listen to the talk. Then read each question and choose the best answer. 7. Where is the listener now? (A) At home. (B) In the bar. (C) At the restaurant. (D) In the parking lot. 8. What does the speaker suggest? (A) Driving to the restaurant. (B) Arriving early for drinks. (C) Making a reservation. (D) Bringing a big appetite. 9. What time is the reservation for? (A) 7:30. (B) 8:00. (C) 8:30. (D) 11:00.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "How often do restaurant reviews appear in the local newspaper?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Every day."
+          },
+          {
+            "label": "B",
+            "text": "Every week."
+          },
+          {
+            "label": "C",
+            "text": "Every month."
+          },
+          {
+            "label": "D",
+            "text": "Every year."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "Who recommends restaurants to the man?",
+        "options": [
+          {
+            "label": "A",
+            "text": "His friends."
+          },
+          {
+            "label": "B",
+            "text": "His mother."
+          },
+          {
+            "label": "C",
+            "text": "His brother."
+          },
+          {
+            "label": "D",
+            "text": "His coworkers."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What is the speakers' opinion of restaurant reviews?",
+        "options": [
+          {
+            "label": "A",
+            "text": "They are appealing."
+          },
+          {
+            "label": "B",
+            "text": "They are usually helpful."
+          },
+          {
+            "label": "C",
+            "text": "They are very subjective."
+          },
+          {
+            "label": "D",
+            "text": "They are mean."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "Where is the listener now?",
+        "options": [
+          {
+            "label": "A",
+            "text": "At home."
+          },
+          {
+            "label": "B",
+            "text": "In the bar."
+          },
+          {
+            "label": "C",
+            "text": "At the restaurant."
+          },
+          {
+            "label": "D",
+            "text": "In the parking lot."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What does the speaker suggest?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Driving to the restaurant."
+          },
+          {
+            "label": "B",
+            "text": "Arriving early for drinks."
+          },
+          {
+            "label": "C",
+            "text": "Making a reservation."
+          },
+          {
+            "label": "D",
+            "text": "Bringing a big appetite."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What time is the reservation for?",
+        "options": [
+          {
+            "label": "A",
+            "text": "7:30."
+          },
+          {
+            "label": "B",
+            "text": "8:00."
+          },
+          {
+            "label": "C",
+            "text": "8:30."
+          },
+          {
+            "label": "D",
+            "text": "11:00."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "# Selecting a Restaurant\n\nStudy the following definitions and examples.\n\n1. appeal n., the ability to attract  \n    a. A restaurant with good food and reasonable prices has a lot of appeal.  \n    b. The pleasing decor and friendly waiters are what give that restaurant its appeal.\n\n2. arrive v., to reach a destination  \na. By the time our meal arrived, it was cold.  \nb. Frank arrived at the restaurant only minutes after Claudia left.\n\n3. compromise n., a settlement of differences; v., to settle differences  \na. The couple made a compromise and ordered food to take out.  \nb. John doesn't like sweet dishes so I compromised by adding just a small amount of sugar.\n\n4. daringly adj., bravely  \na. We daringly ordered the raw squid.  \nb. Bob daringly asked to see the menu in French.\n\n5. familiar adj., often encountered or seen; common  \na. It's nice to see some familiar items on the menu.  \nb. The chef blends the familiar tastes with the unusual.\n\n6. guide n., one who leads, directs, or gives advice; a guidebook  \n    a. The guide led our tour group to a small restaurant only known to the locals.  \n    b. I don't know where to go, so why don't we consult the guide.\n\n7. majority n., the greater number or part  \na. The majority of the group wanted to try the new Chinese restaurant.  \nb. Claude was in the majority, so he was very pleased with the decision.\n\n8. mix v., to combine or blend into one mass; n., a combination  \na. The daring chef mixed two uncommon ingredients.  \nb. The mix of bright colors on the plate was very pleasing.\n\n9. rely v., to have confidence in; to depend on  \na. I have always relied on the restaurant advice this guidebook gives.  \nb. I seldom rely on the restaurant reviews in the paper when choosing a restaurant.\n\na. Despite the popularity of the restaurant, Max was able to secure reservations for this evening.  \nb. The hostess secured us another chair, so we could eat together.\n\n11. subjective adj., particular to a given person; highly personal; not objective  \na. Food preferences are subjective and not everyone agrees on what tastes good.  \nb. The reviews in this guidebook are highly subjective, but fun to read.\n\n12. suggestion n., a proposal; advice  \na. Can I make a suggestion about what to order?  \nb. We followed the waiter's suggestion and ordered one of the specials.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\n| appeal | daring | majority | secure |\n| --- | --- | --- | --- |\n| arrive | familiar | mix | subjective |\n| compromise | guidance | relies | suggestion |\n\nWhen Atul is trying to impress business contacts who are potential new clients, he takes them to the best restaurant in town. He hopes this will help (1) \\_\\_\\_\\_ a new contract for his telecommunications business.\n\nIt's hard to determine which restaurants are best. Atul (2) \\_\\_\\_\\_ on newspaper and magazine reviews. He also asks his friends and colleagues for (3) \\_\\_\\_\\_. They are happy to make a (4) \\_\\_\\_\\_.\n\nFood tastes are (5)\\_\\_\\_\\_. Although Atul likes to be (6) \\_\\_\\_\\_ and take risks, he knows that the food should (7) \\_\\_\\_\\_ to a variety of palates. He wants the (8) \\_\\_\\_\\_ of his guests to be happy. He usually decides to (9) \\_\\_\\_\\_ on a restaurant that offers a menu with a (10) \\_\\_\\_\\_ of (11) \\_\\_\\_\\_ standards and some exciting specials.\n\nWhen he calls to book the table, he tells the person taking the reservation what time his party will (12) \\_\\_\\_\\_ and the number of people he needs seating for.",
+    "word_families": "## WORD FAMILIES\n\n| verb | appeal | On a beautiful spring day, a sidewalk café appeals to many people. |\n| --- | --- | --- |\n| noun | appeal | That restaurant has been around for a long time but it hasn't lost its appeal. |\n| adjective | appealing | An ice-cold drink seems very appealing on a hot day. |\n\n| verb | dare | I prefer familiar things and don't usually dare to try new restaurants. |\n| --- | --- | --- |\n| adjective | daring | Kobi had more daring tastes than the rest of his family. |\n| adverb | daringly | Jane daringly refused a fork and attempted to eat her entire meal with chopsticks. |\n\n| rb | mix | The chef was famous for mixing unfamiliar ingredients. |\n| --- | --- | --- |\n| noun | mixture | The texture of the vegetable mixture was too lumpy for my taste. |\n| ~ ~ | mixable | Oil and water are not mixable. |\n\n| verb | rely | We will rely on the hostess's recommendations. |\n| --- | --- | --- |\n| noun | reliability | The reliability of deliveries became a problem for the manager. |\n| · | reliable | Hiring a reliable staff is the first priority for every restaurant manager. |\n\n| verb | suggest | Can I suggest a good wine to go with the entrée? |\n| --- | --- | --- |\n| noun | suggestion | Clark asked his boss for a suggestion for a good place to eat. |\n| active | suggestible | The patrons were in a suggestible mood, and were easily convinced to have dessert. |",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. How often do restaurant reviews appear in the local newspaper?  \n(A) Every day.  \n(B) Every week.  \n(C) Every month.  \n(D) Every year.\n\n6. Who recommends restaurants to the man?\n(A) His friends.\n(B) His mother.\n(C) His brother.\n(D) His coworkers.\n\n5. What is the speakers' opinion of restaurant reviews?  \n(A) They are appealing.  \n(B) They are usually helpful.  \n(C) They are very subjective.  \n(D) They are mean.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. Where is the listener now?\n(A) At home.\n(B) In the bar.\n(C) At the restaurant.\n(D) In the parking lot.\n\n8. What does the speaker suggest?\n(A) Driving to the restaurant.\n(B) Arriving early for drinks.\n(C) Making a reservation.\n(D) Bringing a big appetite.\n\n9. What time is the reservation for?\n(A) 7:30.\n(B) 8:00.\n(C) 8:30.\n(D) 11:00.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. The colorful vegetables made the dish look \\_\\_\\_\\_.  \n(A) appealed (C) appeals  \n(B) appealing (D) appealingly\n\n11. Even though the restaurant looked expensive, Pat \\_\\_\\_\\_ to order her meal without asking about the prices.\n(A) daring (C) dared\n(B) daringly (D) dares\n\n12. If you need some \\_\\_\\_\\_ on what to order, be sure to consult your server.\n(A) guide (C) guided\n(B) guides (D) guidance\n\n13. Your father is in the kitchen \\_\\_\\_\\_ a batch of his famous chocolate chip cookies.\n(A) mixture (C) mix\n(B) mixed (D) mixing\n\n14. This guidebook is several years old, so I would question its \\_\\_\\_\\_.\n(A) rely (C) reliability\n(B) reliance (D) relying\n\n15. I have always found Lola's restaurant \\_\\_\\_\\_ to be very good, so I continue to seek her guidance.\n(A) suggestions (C) suggestive\n(B) suggest (D) suggestible\n\n## Part 6 Text Completion\n\nAre you looking for a delicious lunch experience that won't empty your wallet?\nTry the Blue Shutters Café.\nOur varied menu \\_16\\_ to all tastes.\nWe're famous for our homemade soups, garden-fresh salads, and freshly baked breads and pastries.\nTry our homemade pies in all flavors from \\_17\\_ favorites like apple pie to exotic choices such as loganberry and chestnut meringue.\nBut \\_18\\_ on our word alone. Come on down and try for yourself.\nWe're open Monday through Saturday from 11:00 A.M. until 2:30 P.M.\nRead about the Blue Shutters Café in the recent edition of the local restaurant guide \"Restaurants of Riverdale.\"\n\n16. (A) appeal (B) appeals (C) appealed (D) are appealing\n\n18. (A) no rely  \n(B) not rely  \n(C) not to rely  \n(D) don't rely\n\n17. (A) famously  \n(B) famished  \n(C) familiar  \n(D) family",
+    "reading_part7": "Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following restaurant review and e-mail message.\n\nThe Mountain View Restaurant is a charming dinner location that just opened up in Falls Village. The menu provides an interesting mix of both meat and vegetarian entrées. The chef, who trained in Paris, has introduced some exotic dishes such as Octopus Soufflé and Three Tuber Salad. For the less daring diner, the menu also abounds in such familiar choices as Baked Chicken and Pepper Crusted Steak. Whether you choose to rely on a familiar dish or decide to experiment with something exotic, you are sure to be delighted with your meal. All the selections I tasted were delicious, and the prices are quite reasonable. Don't forget to leave room for dessert. I especially suggest the chocolate cake. It's the best in town. Unfortunately, the charm of the menu selections is not matched by the charm of the décor. It is rather drab and uninspiring. If you visit the inn on a weekend evening, arrive by 6:00 since the restaurant does not take reservations, and it is difficult to get a table after 7:00 unless you are willing to wait half an hour or more.\n\n19. What is the reviewer's opinion of the restaurant?\n(A) The prices are too high.\n(B) The food is very good.\n(C) The décor is exotic.\n(D) The menu is boring.\n\n20. What does the reviewer recommend ordering?\n(A) Octopus soufflé.\n(B) Tuber salad.\n(C) Baked chicken.\n(D) Chocolate cake.\n\n21. When does Anna want to arrive at the restaurant?\n(A) Before 6:00.\n(B) After 7:00.\n(C) At 8:00.\n(D) By 8:30.\n\nTo: Margaret Smithers  \nFrom: Anna Simpson  \nSubject: Dinner out\n\n## Hi Margaret,\n\nDid you read the review of the Mountain View Inn in this Sunday's Falls Village Times? It sounds great. I usually read the restaurant reviews in that paper, and the majority of them are quite accurate. I rely on those reviews a great deal more than the ones in our local restaurant guide. I think we should try the inn. Are you free Saturday night? I think we should arrive at the time suggested in the paper. Then we can have a relaxed meal and still have time to go to an 8:30 movie afterwards. Can you do it? Let me know before you leave work today.\n\nAnna\n\n22. The word mix in line 3 of the restaurant review is closest in meaning to  \n(A) style  \n(B) combination  \n(C) number  \n(D) course\n\n23. The word majority in line 4 of the e-mail is closest in meaning to  \n(A) few  \n(B) some  \n(C) most  \n(D) several"
+  },
+  "needs_review": true,
+  "_meta": {
+    "patched": true,
+    "patch_note": "Mot so dong duoc doc lai tu anh scan vi MinerU bo sot"
+  }
+}

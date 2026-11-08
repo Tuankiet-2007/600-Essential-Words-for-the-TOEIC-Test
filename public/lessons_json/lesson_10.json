@@ -1,0 +1,1606 @@
+{
+  "lesson_id": 10,
+  "title": "Correspondence",
+  "theme_name": "Office Issues",
+  "audio_track": "track_10.mp3",
+  "part1_photo": "part1_photos/lesson_10.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "assemble",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to put together; to bring together",
+      "definition_vi": "lắp ráp (máy móc, đồ đạc), tập hợp/gom lại (tài liệu, con người)",
+      "examples": [
+        {
+          "en": "Her assistant copied and assembled the documents.",
+          "vi": "Trợ lý của bà đã sao chụp và tập hợp các tài liệu lại với nhau."
+        },
+        {
+          "en": "The mail room clerk read the directions before assembling the parts to the new postage printer.",
+          "vi": "Nhân viên phòng văn thư đã đọc kỹ hướng dẫn trước khi lắp ráp các bộ phận của chiếc máy in bưu phí mới."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "assemble furniture",
+        "assemble documents",
+        "assembly line",
+        "easily assembled"
+      ],
+      "usage": {
+        "structures": [
+          "assemble + N (parts / furniture / team / data)",
+          "assemble in + địa điểm (tập trung tại đâu)"
+        ],
+        "prepositions": [
+          "in",
+          "from"
+        ],
+        "collocations": [
+          "assembly plant",
+          "some assembly required",
+          "assembly instructions",
+          "fully assembled"
+        ],
+        "tip": "Danh từ 'assembly' (sự lắp ráp / dây chuyền lắp ráp: assembly line) là từ vựng cốt lõi trong chủ đề Manufacturing (Sản xuất) của TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "assemble",
+          "example": "It took two hours to assemble the new office bookshelves.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "assembly",
+          "example": "The bookcase comes with step-by-step assembly instructions.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "assembled",
+          "example": "The desk is shipped fully assembled so no tools are required.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Automated robots on the _____ line have doubled the factory's daily output.",
+        "answer": "assembly",
+        "base_word": "assemble",
+        "pos_hint": "danh từ (trong cụm 'assembly line')",
+        "vi": "Những robot tự động trên dây chuyền lắp ráp đã làm tăng gấp đôi sản lượng hàng ngày của nhà máy."
+      }
+    },
+    {
+      "id": 2,
+      "word": "beforehand",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "in advance, in anticipation",
+      "definition_vi": "trước, từ trước, sẵn từ trước (= in advance)",
+      "examples": [
+        {
+          "en": "To speed up the mailing, we should prepare the labels beforehand.",
+          "vi": "Để đẩy nhanh việc gửi thư, chúng ta nên chuẩn bị sẵn các nhãn dán từ trước."
+        },
+        {
+          "en": "The goods could have been shipped today had they faxed the order beforehand.",
+          "vi": "Hàng hóa lẽ ra đã có thể được vận chuyển ngay hôm nay nếu họ gửi fax đơn đặt hàng từ trước."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "prepare beforehand",
+        "notify sb beforehand",
+        "know beforehand",
+        "arrange beforehand"
+      ],
+      "usage": {
+        "structures": [
+          "V + (O) + beforehand (thường đứng ở cuối mệnh đề)"
+        ],
+        "prepositions": [],
+        "collocations": [
+          "book beforehand",
+          "register beforehand",
+          "check beforehand",
+          "days beforehand"
+        ],
+        "tip": "Trạng từ 'beforehand' hoàn toàn đồng nghĩa với cụm 'in advance' hoặc 'ahead of time' (làm sẵn từ trước) và thường đứng ở cuối câu."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "beforehand",
+          "example": "Being beforehand with our tax filings saved the firm from late penalties.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "beforehand",
+          "example": "If you need a projector for your presentation, please let us know beforehand.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "To avoid long lines at the venue, visitors are advised to purchase their tickets _____.",
+        "answer": "beforehand",
+        "base_word": "beforehand",
+        "pos_hint": "trạng từ",
+        "vi": "Để tránh phải xếp hàng dài tại địa điểm tổ chức, du khách được khuyên nên mua vé trước."
+      }
+    },
+    {
+      "id": 3,
+      "word": "complication",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "difficulty, complex situation",
+      "definition_vi": "sự phức tạp, rắc rối phát sinh; biến chứng (y khoa)",
+      "examples": [
+        {
+          "en": "She will have to spend two more days in the hospital due to complications during the surgery.",
+          "vi": "Cô ấy sẽ phải ở lại bệnh viện thêm hai ngày do những biến chứng trong quá trình phẫu thuật."
+        },
+        {
+          "en": "Complications always arise when we try to cover too many topics in one letter.",
+          "vi": "Những rắc rối phức tạp luôn nảy sinh khi chúng ta cố gắng đề cập quá nhiều chủ đề trong cùng một bức thư."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "complicate",
+          "example": "Don&#x27;t try to complicate things by making two-sided copies; single-sided will do."
+        },
+        {
+          "pos": "noun",
+          "word": "complication",
+          "example": "There are a few complications with your layout, but they can be easily solved."
+        },
+        {
+          "pos": "adjective",
+          "word": "complicated",
+          "example": "The revisions in the document made it more complicated, rather than simpler."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "avoid complications",
+        "unforeseen complications",
+        "further complications",
+        "complicate matters"
+      ],
+      "usage": {
+        "structures": [
+          "complications arise / occur (những rắc rối phát sinh - thường dùng ở số nhiều)",
+          "be complicated by + N (bị làm cho phức tạp bởi)"
+        ],
+        "prepositions": [
+          "with",
+          "in",
+          "by"
+        ],
+        "collocations": [
+          "without complication",
+          "legal complications",
+          "complicated procedure",
+          "unnecessarily complicated"
+        ],
+        "tip": "Danh từ 'complication(s)' thường dùng ở dạng số nhiều để chỉ 'những rắc rối/trở ngại phát sinh làm mọi việc khó khăn hơn'."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "complicatedly",
+          "example": "The tax form was so complicatedly worded that we had to hire an accountant.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The new online tax filing system is much less _____ than the old paper-based method.",
+        "answer": "complicated",
+        "base_word": "complication",
+        "pos_hint": "tính từ",
+        "vi": "Hệ thống khai thuế trực tuyến mới ít phức tạp hơn nhiều so với phương pháp trên giấy cũ."
+      }
+    },
+    {
+      "id": 4,
+      "word": "courier",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a messenger, an official delivery person",
+      "definition_vi": "nhân viên/dịch vụ chuyển phát nhanh, người đưa thư tín/bưu kiện",
+      "examples": [
+        {
+          "en": "We hired a courier to deliver the package.",
+          "vi": "Chúng tôi đã thuê một người chuyển phát nhanh để giao kiện hàng."
+        },
+        {
+          "en": "The courier service will clear the goods through customs.",
+          "vi": "Dịch vụ chuyển phát nhanh sẽ làm thủ tục thông quan cho lô hàng."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "by courier",
+        "courier service",
+        "overnight courier",
+        "express courier"
+      ],
+      "usage": {
+        "structures": [
+          "send / deliver + sth + by courier (gửi cái gì bằng dịch vụ chuyển phát nhanh)"
+        ],
+        "prepositions": [
+          "by",
+          "via"
+        ],
+        "collocations": [
+          "bicycle courier",
+          "international courier",
+          "courier company",
+          "dispatch a courier"
+        ],
+        "tip": "Cụm giới từ 'by courier' (bằng chuyển phát nhanh - không có mạo từ a/the ở giữa) rất hay xuất hiện trong các câu hỏi về giao nhận tài liệu khẩn."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "courier",
+          "example": "We had the signed contracts couriered directly to the client's headquarters.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "courier",
+          "example": "The legal documents were sent by overnight courier this morning.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Because the blueprints were needed urgently, the architect sent them by overnight _____.",
+        "answer": "courier",
+        "base_word": "courier",
+        "pos_hint": "danh từ",
+        "vi": "Bởi vì bản thiết kế được cần gấp, kiến trúc sư đã gửi chúng bằng dịch vụ chuyển phát nhanh qua đêm."
+      }
+    },
+    {
+      "id": 5,
+      "word": "express",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "fast and direct",
+      "definition_vi": "tốc hành, nhanh và trực tiếp (adj./adv.); bày tỏ, biểu đạt (v.)",
+      "examples": [
+        {
+          "en": "It's important that this document be there tomorrow, so please send it express mail.",
+          "vi": "Điều quan trọng là tài liệu này phải có mặt ở đó vào ngày mai, vì vậy vui lòng gửi nó qua thư chuyển phát nhanh."
+        },
+        {
+          "en": "Express mail costs more than regular mail service, but it is more efficient.",
+          "vi": "Thư chuyển phát nhanh tốn kém hơn dịch vụ bưu chính thông thường, nhưng lại hiệu quả hơn."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "express mail",
+        "express delivery",
+        "express train",
+        "express gratitude"
+      ],
+      "usage": {
+        "structures": [
+          "express + N (mail / delivery / shipping / lane / train) (tốc hành/nhanh)",
+          "express + N (appreciation / concern / interest / gratitude) (bày tỏ)"
+        ],
+        "prepositions": [
+          "by",
+          "to"
+        ],
+        "collocations": [
+          "send by express mail",
+          "express checkout",
+          "express one's opinion",
+          "for the express purpose of"
+        ],
+        "tip": "Từ 'express' vừa là tính từ mang nghĩa 'tốc hành/nhanh' (express delivery/train), vừa là động từ rất phổ biến mang nghĩa 'bày tỏ' (express concern/appreciation)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "express",
+          "example": "Several board members expressed concern about the rising construction costs.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "expression",
+          "example": "Please accept this gift basket as an expression of our gratitude.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "expressive",
+          "example": "The actor is known for his expressive voice and commanding stage presence.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "expressly",
+          "example": "The company car is to be used expressly for official business purposes.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Duplicating any part of this manual without the _____ written permission of the publisher is prohibited.",
+        "answer": "express",
+        "base_word": "express",
+        "pos_hint": "tính từ (rõ ràng, đích xác)",
+        "vi": "Việc sao chép bất kỳ phần nào của cuốn cẩm nang này mà không có sự cho phép rõ ràng bằng văn bản của nhà xuất bản đều bị nghiêm cấm."
+      }
+    },
+    {
+      "id": 6,
+      "word": "fold",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to bend paper",
+      "definition_vi": "gấp, gập lại (giấy, quần áo, ghế) (v.); nếp gấp (n.)",
+      "examples": [
+        {
+          "en": "Fold the letter into three parts before stuffing it into the envelope.",
+          "vi": "Hãy gấp bức thư làm ba phần trước khi cho vào phong bì."
+        },
+        {
+          "en": "Don't fold the document if it doesn't fit the envelope.",
+          "vi": "Đừng gấp tài liệu lại nếu nó không vừa với chiếc phong bì."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "fold a letter",
+        "fold in half",
+        "folding chair",
+        "twofold increase"
+      ],
+      "usage": {
+        "structures": [
+          "fold + N + in half / into three parts (gấp đôi / gấp làm ba)",
+          "fold up + N (gập gọn lại)"
+        ],
+        "prepositions": [
+          "in",
+          "into",
+          "up"
+        ],
+        "collocations": [
+          "do not fold or bend",
+          "folding table",
+          "foldable bicycle",
+          "threefold"
+        ],
+        "tip": "Trong TOEIC Part 1 (Mô tả tranh), chú ý phân biệt 'folding chairs' (những chiếc ghế xếp) và 'folded clothes/towels' (quần áo/khăn đã được gấp gọn)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "fold",
+          "example": "The brochures are printed and folded automatically by the new machine.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "folder",
+          "example": "Please place all expense receipts inside the blue file folder.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "foldable",
+          "example": "The commuter scooter is lightweight and easily foldable for train travel.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The janitor stacked the _____ chairs against the wall after the seminar ended.",
+        "answer": "folding",
+        "base_word": "fold",
+        "pos_hint": "tính từ / phân từ (trong cụm 'folding chairs': ghế xếp)",
+        "vi": "Người lao công đã xếp chồng những chiếc ghế gấp sát vào tường sau khi buổi hội thảo kết thúc."
+      }
+    },
+    {
+      "id": 7,
+      "word": "layout",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a format; the organization of material on a page",
+      "definition_vi": "bố cục, cách trình bày (trang giấy, trang web); sơ đồ bố trí mặt bằng (văn phòng, nhà máy)",
+      "examples": [
+        {
+          "en": "We had to change the layout when we changed the size of the paper.",
+          "vi": "Chúng tôi đã phải thay đổi bố cục trình bày khi thay đổi kích cỡ của khổ giấy."
+        },
+        {
+          "en": "The layout for the new brochure was submitted by the designer.",
+          "vi": "Bản thiết kế bố cục cho cuốn sách quảng cáo mới đã được nhà thiết kế đệ trình."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "page layout",
+        "office layout",
+        "change the layout",
+        "approve the layout"
+      ],
+      "usage": {
+        "structures": [
+          "the layout of / for + N (bố cục/sơ đồ bố trí của cái gì)"
+        ],
+        "prepositions": [
+          "of",
+          "for"
+        ],
+        "collocations": [
+          "magazine layout",
+          "store layout",
+          "open-plan layout",
+          "keyboard layout"
+        ],
+        "tip": "Chú ý: viết liền 'layout' là danh từ (bố cục trang in / sơ đồ mặt bằng văn phòng), còn viết tách 'lay out' là cụm động từ (trình bày / sắp đặt)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "lay",
+          "example": "The proposal clearly lays out the timeline for the construction project.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "layout",
+          "example": "The supermarket redesigned its store layout to make the aisles wider.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The editor asked the graphic designer to revise the _____ of the magazine's cover page.",
+        "answer": "layout",
+        "base_word": "layout",
+        "pos_hint": "danh từ số ít",
+        "vi": "Biên tập viên đã yêu cầu nhà thiết kế đồ họa chỉnh sửa lại bố cục trang bìa của tạp chí."
+      }
+    },
+    {
+      "id": 8,
+      "word": "mention",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "something said or written; v., to refer to",
+      "definition_vi": "sự đề cập, sự nhắc đến (n.); đề cập, nói đến, nhắc tới (v.)",
+      "examples": [
+        {
+          "en": "There was no mention of the cost in the proposal.",
+          "vi": "Không hề có sự đề cập nào về chi phí trong bản đề xuất."
+        },
+        {
+          "en": "You should mention in the letter that we can arrange for mailing the brochures as well as printing them.",
+          "vi": "Bạn nên đề cập trong bức thư rằng chúng ta có thể thu xếp cả việc gửi bưu điện lẫn việc in ấn các cuốn sách quảng cáo đó."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "mention",
+          "example": "The mention of layoffs made us worry."
+        },
+        {
+          "pos": "",
+          "word": "mention",
+          "example": "As I mentioned in my note to you, you should try to be less wordy and more concise in your writing."
+        },
+        {
+          "pos": "",
+          "word": "mentionable",
+          "example": "No one considered the mediocre design a mentionable achievement."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "make mention of",
+        "no mention of",
+        "not to mention",
+        "fail to mention"
+      ],
+      "usage": {
+        "structures": [
+          "mention + N / V-ing / that + mệnh đề (động từ 'mention' KHÔNG đi với giới từ 'about' hay 'to sb')",
+          "make (no) mention of + N (danh từ 'mention' đi với giới từ 'of')"
+        ],
+        "prepositions": [
+          "of",
+          "in"
+        ],
+        "collocations": [
+          "as mentioned above",
+          "worth mentioning",
+          "briefly mention",
+          "honorable mention"
+        ],
+        "tip": "Cụm 'As mentioned in my previous email...' (Như đã đề cập trong email trước của tôi...) là câu mở đầu kinh điển trong các bài đọc thư tín (Part 6 & 7)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "mentioned",
+          "example": "Please send the above-mentioned documents to our legal department.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "As _____ in the attached memorandum, the parking lot will be repaved this Saturday.",
+        "answer": "mentioned",
+        "base_word": "mention",
+        "pos_hint": "quá khứ phân từ (V3/ed - rút gọn mệnh đề bị động)",
+        "vi": "Như đã được đề cập trong bản thông báo đính kèm, bãi đỗ xe sẽ được trải nhựa lại vào thứ Bảy này."
+      }
+    },
+    {
+      "id": 9,
+      "word": "petition",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a formal, written request; v., to make a formal request",
+      "definition_vi": "đơn kiến nghị, thư thỉnh cầu có nhiều chữ ký (n.); kiến nghị, làm đơn thỉnh cầu (v.)",
+      "examples": [
+        {
+          "en": "The petition was photocopied and distributed to workers who will collect the necessary signatures.",
+          "vi": "Đơn kiến nghị đã được sao chụp và phát cho các công nhân, những người sẽ thu thập các chữ ký cần thiết."
+        },
+        {
+          "en": "We petitioned the postal officials to start delivering mail twice a day in business areas.",
+          "vi": "Chúng tôi đã kiến nghị lên các quan chức bưu điện để bắt đầu giao thư hai lần một ngày tại các khu vực kinh doanh."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "petition",
+          "example": "In order to be valid, the contents of the petition need to be printed at the top of each page that will contain signatures."
+        },
+        {
+          "pos": "verb",
+          "word": "petition",
+          "example": "The welders petitioned the factory to install air conditioning."
+        },
+        {
+          "pos": "",
+          "word": "petitioners",
+          "example": "The petitioners spent the night outside of the courthouse."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "sign a petition",
+        "submit a petition",
+        "file a petition",
+        "petition for change"
+      ],
+      "usage": {
+        "structures": [
+          "sign / circulate / submit a petition (for/against + N)",
+          "petition + sb + to V / for + N (kiến nghị ai làm gì)"
+        ],
+        "prepositions": [
+          "for",
+          "against",
+          "to"
+        ],
+        "collocations": [
+          "online petition",
+          "petition drive",
+          "gather signatures for a petition",
+          "petition the government"
+        ],
+        "tip": "Danh từ 'petition' rất hay đi kèm với các từ như 'signatures' (chữ ký), 'sign' (ký tên), 'residents/workers' (cư dân/công nhân)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "petitionary",
+          "example": "The union submitted a petitionary letter requesting safer working conditions.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Over three thousand local residents signed a _____ opposing the construction of the highway.",
+        "answer": "petition",
+        "base_word": "petition",
+        "pos_hint": "danh từ số ít",
+        "vi": "Hơn ba nghìn cư dân địa phương đã ký vào một lá đơn kiến nghị phản đối việc xây dựng đường cao tốc."
+      }
+    },
+    {
+      "id": 10,
+      "word": "proof",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to look for errors; n., evidence",
+      "definition_vi": "đọc soát lỗi (bản in/văn bản) (v.); bằng chứng, chứng từ xác nhận (n.); chống thấm/chống chịu được (adj.)",
+      "examples": [
+        {
+          "en": "This letter was not proofed very carefully; it is full of typing mistakes.",
+          "vi": "Bức thư này đã không được đọc soát lỗi cẩn thận; nó có đầy lỗi đánh máy."
+        },
+        {
+          "en": "In order to get the rebate, you must send in proof of purchase.",
+          "vi": "Để nhận được khoản tiền hoàn lại (rebate), bạn phải gửi kèm bằng chứng mua hàng."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "proof",
+          "example": "It is your responsibility to proof your own work before sending it out."
+        },
+        {
+          "pos": "noun",
+          "word": "proofreader",
+          "example": "The proofreader did not find the errors."
+        },
+        {
+          "pos": "",
+          "word": "proofing",
+          "example": "Proofing a document is best done by starting at the end and reading backward."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "proof of purchase",
+        "proof of identity",
+        "proofread a document",
+        "conclusive proof"
+      ],
+      "usage": {
+        "structures": [
+          "proof of + N (purchase / delivery / payment / identity / residency)",
+          "proof / proofread + a document (đọc dò lỗi văn bản)"
+        ],
+        "prepositions": [
+          "of"
+        ],
+        "collocations": [
+          "waterproof",
+          "fireproof",
+          "foolproof",
+          "provide proof"
+        ],
+        "tip": "Cụm danh từ cố định 'proof of purchase' (bằng chứng mua hàng = hóa đơn/biên lai) xuất hiện trong hầu hết các bài đọc về bảo hành, đổi trả hàng hoặc hoàn tiền."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "proofread",
+          "example": "Please ask a colleague to proofread your report before sending it to the client.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "proven",
+          "example": "We are looking for a sales director with a proven track record of success.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Customers must present valid _____ of purchase, such as a store receipt, to claim a refund.",
+        "answer": "proof",
+        "base_word": "proof",
+        "pos_hint": "danh từ không đếm được",
+        "vi": "Khách hàng phải xuất trình bằng chứng mua hàng hợp lệ, chẳng hạn như biên lai của cửa hàng, để yêu cầu hoàn tiền."
+      }
+    },
+    {
+      "id": 11,
+      "word": "register",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to record, to track; n., a record",
+      "definition_vi": "gửi bảo đảm (thư từ, bưu kiện), đăng ký, ghi vào sổ theo dõi (v.); sổ ghi chép (n.)",
+      "examples": [
+        {
+          "en": "You can register this mail for an additional $2.20.",
+          "vi": "Bạn có thể gửi bảo đảm bức thư này với khoản phí trả thêm là 2,20 đô la."
+        },
+        {
+          "en": "Everybody needs to sign the register before entering the mail room.",
+          "vi": "Mọi người cần phải ký tên vào sổ theo dõi trước khi bước vào phòng văn thư."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "register",
+          "example": "Register this letter and bring back the receipt."
+        },
+        {
+          "pos": "noun",
+          "word": "registration",
+          "example": "Registration for the seminar can be done by fax."
+        },
+        {
+          "pos": "",
+          "word": "registered",
+          "example": "Always get a receipt for registered mail."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "registered mail",
+        "sign the register",
+        "register a package",
+        "register a complaint"
+      ],
+      "usage": {
+        "structures": [
+          "send + sth + by registered mail (gửi thư bảo đảm)",
+          "sign the register (ký vào sổ ra vào/sổ theo dõi)"
+        ],
+        "prepositions": [
+          "by",
+          "in",
+          "for"
+        ],
+        "collocations": [
+          "registered letter",
+          "registered trademark",
+          "visitor register",
+          "cash register"
+        ],
+        "tip": "Trong chủ đề Correspondence (Thư tín), 'registered mail' có nghĩa là 'thư bảo đảm' (thư có mã theo dõi và yêu cầu người nhận ký nhận)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "registry",
+          "example": "All commercial vessels must be listed in the national shipping registry.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Important legal contracts should always be sent by _____ mail so that delivery can be tracked.",
+        "answer": "registered",
+        "base_word": "register",
+        "pos_hint": "tính từ (V3/ed)",
+        "vi": "Các hợp đồng pháp lý quan trọng luôn nên được gửi bằng thư bảo đảm để có thể theo dõi quá trình giao nhận."
+      }
+    },
+    {
+      "id": 12,
+      "word": "revise",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to rewrite",
+      "definition_vi": "chỉnh sửa, sửa đổi, hiệu đính (văn bản, kế hoạch, dự toán, lịch trình)",
+      "examples": [
+        {
+          "en": "The brochure was revised several times before it was sent to the printer.",
+          "vi": "Cuốn sách quảng cáo đã được chỉnh sửa vài lần trước khi được gửi đến nhà in."
+        },
+        {
+          "en": "We will need to revise the form letter since our address has changed.",
+          "vi": "Chúng ta sẽ cần phải sửa lại bức thư mẫu vì địa chỉ của chúng ta đã thay đổi."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "revise",
+          "example": "After you revise the document, give it a new name so that we will still have access to both drafts."
+        },
+        {
+          "pos": "",
+          "word": "revised",
+          "example": "His revised memo was easier to read."
+        },
+        {
+          "pos": "",
+          "word": "revision",
+          "example": "You may have to do three or four full revisions to this document before it is acceptable."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "revise a draft",
+        "revise an estimate",
+        "make revisions",
+        "revised edition"
+      ],
+      "usage": {
+        "structures": [
+          "revise + N (document / budget / schedule / forecast)",
+          "make revisions to + N (thực hiện các chỉnh sửa đối với cái gì)"
+        ],
+        "prepositions": [
+          "to",
+          "for"
+        ],
+        "collocations": [
+          "revised schedule",
+          "revised budget",
+          "undergo revision",
+          "upward revision"
+        ],
+        "tip": "Tính từ phân từ 'revised' rất hay đứng trước danh từ chỉ tài liệu/kế hoạch: 'a revised schedule / budget / draft / contract' (lịch trình/ngân sách/bản thảo đã được cập nhật sửa đổi)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "reviser",
+          "example": "The publishing house hired an experienced reviser to update the textbook.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Please review the _____ project timeline and let me know if the new deadlines are feasible.",
+        "answer": "revised",
+        "base_word": "revise",
+        "pos_hint": "tính từ (quá khứ phân từ V3/ed bổ nghĩa cho 'timeline')",
+        "vi": "Vui lòng xem lại tiến độ dự án đã được điều chỉnh và cho tôi biết liệu các hạn chót mới có khả thi hay không."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. In small offices, it is often the executive assistant who must manage all of the printed material that the firm produces. The job responsibilities include typing and printing out the correspondence. These letters and memos must all be carefully (1) ____ to make sure they are error-free. If not, the errors should be corrected. If the meaning is not clear, the correspondence should be revised. This (2) ____ should be done (3) ____, not when the letter is ready to be sent. Before putting correspondence into an envelope, the executive assistant must (4) ____ all the various attachments and other documents to be enclosed with the letter. When (5) ____ the correspondence, the assistant should make sure that when opening the envelope, the recipient sees the letterhead first. Once prepared, the correspondence must be sent appropriately. Local, urgent mail could be hand-delivered by a (6) ____ service. Long-distance, urgent mail could be sent overnight or by (7) ____ mail. If a record is required, mail can be (8) ____ and receipts are given. In addition to transmitting and receiving faxes, the executive assistant must work closely with company officials. When the company executives have to make a presentation, the executive assistant often becomes a graphic designer charged with the (9) ____, or the look of, the graphics and text for the printed materials used during the presentations. Did I (10) ____ that these duties generally involve learning extremely (11) ____ design software? It's a wonder that more executive assistants don't (12) ____ their bosses for a raise.",
+    "word_bank": [
+      "assemble",
+      "courier",
+      "layout",
+      "proofed",
+      "beforehand",
+      "express",
+      "mention",
+      "registered",
+      "complicated",
+      "folding",
+      "petition",
+      "revision"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "complicate",
+        "example": "Don&#x27;t try to complicate things by making two-sided copies; single-sided will do.",
+        "pos": "verb"
+      },
+      {
+        "word": "complication",
+        "example": "There are a few complications with your layout, but they can be easily solved.",
+        "pos": "noun"
+      },
+      {
+        "word": "complicated",
+        "example": "The revisions in the document made it more complicated, rather than simpler.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "mention",
+        "example": "The mention of layoffs made us worry.",
+        "pos": "noun"
+      },
+      {
+        "word": "mention",
+        "example": "As I mentioned in my note to you, you should try to be less wordy and more concise in your writing.",
+        "pos": ""
+      },
+      {
+        "word": "mentionable",
+        "example": "No one considered the mediocre design a mentionable achievement.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "petition",
+        "example": "In order to be valid, the contents of the petition need to be printed at the top of each page that will contain signatures.",
+        "pos": ""
+      },
+      {
+        "word": "petition",
+        "example": "The welders petitioned the factory to install air conditioning.",
+        "pos": "verb"
+      },
+      {
+        "word": "petitioners",
+        "example": "The petitioners spent the night outside of the courthouse.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "proof",
+        "example": "It is your responsibility to proof your own work before sending it out.",
+        "pos": ""
+      },
+      {
+        "word": "proofreader",
+        "example": "The proofreader did not find the errors.",
+        "pos": "noun"
+      },
+      {
+        "word": "proofing",
+        "example": "Proofing a document is best done by starting at the end and reading backward.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "register",
+        "example": "Register this letter and bring back the receipt.",
+        "pos": ""
+      },
+      {
+        "word": "registration",
+        "example": "Registration for the seminar can be done by fax.",
+        "pos": "noun"
+      },
+      {
+        "word": "registered",
+        "example": "Always get a receipt for registered mail.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "revise",
+        "example": "After you revise the document, give it a new name so that we will still have access to both drafts.",
+        "pos": ""
+      },
+      {
+        "word": "revised",
+        "example": "His revised memo was easier to read.",
+        "pos": ""
+      },
+      {
+        "word": "revision",
+        "example": "You may have to do three or four full revisions to this document before it is acceptable.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "I don't want to ____ matters, but have you considered using color to make your brochure stand out?",
+        "options": [
+          {
+            "label": "A",
+            "text": "complicate"
+          },
+          {
+            "label": "B",
+            "text": "complication"
+          },
+          {
+            "label": "C",
+            "text": "complicated"
+          },
+          {
+            "label": "D",
+            "text": "complicating"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "It's worth ____ in the memo that we've finished the draft of the proposal.",
+        "options": [
+          {
+            "label": "A",
+            "text": "mentionable"
+          },
+          {
+            "label": "B",
+            "text": "mentioning"
+          },
+          {
+            "label": "C",
+            "text": "mentions"
+          },
+          {
+            "label": "D",
+            "text": "mentioned"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "The signatures on the ____ weren't all legible because rain had caused the ink to run.",
+        "options": [
+          {
+            "label": "A",
+            "text": "petition"
+          },
+          {
+            "label": "B",
+            "text": "petitioning"
+          },
+          {
+            "label": "C",
+            "text": "petitioners"
+          },
+          {
+            "label": "D",
+            "text": "petitioned"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "To send out business letters without ____ them is unprofessional.",
+        "options": [
+          {
+            "label": "A",
+            "text": "proofing"
+          },
+          {
+            "label": "B",
+            "text": "proof"
+          },
+          {
+            "label": "C",
+            "text": "proofreader"
+          },
+          {
+            "label": "D",
+            "text": "proofread"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "The mail room is rarely asked to send letters by ____ mail.",
+        "options": [
+          {
+            "label": "A",
+            "text": "registers"
+          },
+          {
+            "label": "B",
+            "text": "registered"
+          },
+          {
+            "label": "C",
+            "text": "register"
+          },
+          {
+            "label": "D",
+            "text": "registration"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "After each ____, you need to reread what you've written and note your suggestions for changes.",
+        "options": [
+          {
+            "label": "A",
+            "text": "revise"
+          },
+          {
+            "label": "B",
+            "text": "revised"
+          },
+          {
+            "label": "C",
+            "text": "revision"
+          },
+          {
+            "label": "D",
+            "text": "will revise"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Memo To: Production Staff From: George Jones Re: Document Preparation In order to avoid extra work and waste of supplies, please observe the following guidelines when preparing documents for reproduction and distribution. The goal is to keep things simple and avoid [16]. \\- When you work on the final revision of a document, pay special attention to the layout. The presentation of material is as important as the content itself. \\- Don't rush to the copier as soon as the final revision is complete. [17] each document carefully beforehand. \\- We have technology to help with the assembly of documents. The large copier on the second floor can [18] paper in addition to stapling. This will help you complete tasks efficiently. \\- If a document needs to be delivered the same day it is finished, please use a courier service.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "complicate"
+            },
+            {
+              "label": "B",
+              "text": "complicates"
+            },
+            {
+              "label": "C",
+              "text": "complicated"
+            },
+            {
+              "label": "D",
+              "text": "complications"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "Proof"
+            },
+            {
+              "label": "B",
+              "text": "Proofs"
+            },
+            {
+              "label": "C",
+              "text": "To proof"
+            },
+            {
+              "label": "D",
+              "text": "Proofing"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "folder"
+            },
+            {
+              "label": "B",
+              "text": "folded"
+            },
+            {
+              "label": "C",
+              "text": "folds"
+            },
+            {
+              "label": "D",
+              "text": "fold"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following advertisement. Visit any one of our branches to open up an account with us today. You can download an application from our web site and fill it out beforehand to make the process go more smoothly. Don't let the details of correspondence and document development complicate your life. Let Office Systems, Inc., handle it all for you. Visit www.officesys.com to find the branch nearest you. 22. The word revision in line 5 is closest in meaning to (A) copying (B) rewriting (C) delivery (D) development",
+        "questions": [
+          {
+            "number": 19,
+            "question": "Who is the audience for this advertisement?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Editors."
+              },
+              {
+                "label": "B",
+                "text": "Couriers."
+              },
+              {
+                "label": "C",
+                "text": "Corporate directors."
+              },
+              {
+                "label": "D",
+                "text": "Small business owners."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "Which of the following is a service offered by Office Systems, Inc.?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Accounting."
+              },
+              {
+                "label": "B",
+                "text": "Web site development."
+              },
+              {
+                "label": "C",
+                "text": "Assembling documents."
+              },
+              {
+                "label": "D",
+                "text": "Reading letters."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "How can a customer open an account with Office Systems, Inc.?",
+            "options": [
+              {
+                "label": "A",
+                "text": "By visiting a company branch."
+              },
+              {
+                "label": "B",
+                "text": "By sending an e-mail."
+              },
+              {
+                "label": "C",
+                "text": "By completing an online questionnaire."
+              },
+              {
+                "label": "D",
+                "text": "By writing a letter."
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word beforehand in line 14 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "by hand"
+              },
+              {
+                "label": "B",
+                "text": "thoroughly"
+              },
+              {
+                "label": "C",
+                "text": "in advance"
+              },
+              {
+                "label": "D",
+                "text": "in person"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "When will the meeting take place?",
+        "options": [
+          {
+            "label": "A",
+            "text": "This afternoon."
+          },
+          {
+            "label": "B",
+            "text": "Tomorrow."
+          },
+          {
+            "label": "C",
+            "text": "In two days."
+          },
+          {
+            "label": "D",
+            "text": "On Tuesday."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the woman suggest that the man do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Finish the work before the afternoon."
+          },
+          {
+            "label": "B",
+            "text": "Do the work himself."
+          },
+          {
+            "label": "C",
+            "text": "Ask another person for help."
+          },
+          {
+            "label": "D",
+            "text": "Remember to fold all the documents."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "Why won't the woman help assemble the documents?",
+        "options": [
+          {
+            "label": "A",
+            "text": "She's in a meeting."
+          },
+          {
+            "label": "B",
+            "text": "She hurt her hand."
+          },
+          {
+            "label": "C",
+            "text": "She's too busy."
+          },
+          {
+            "label": "D",
+            "text": "She needs to revise them first."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "Where would you hear this talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A post office."
+          },
+          {
+            "label": "B",
+            "text": "A grocery store."
+          },
+          {
+            "label": "C",
+            "text": "A restaurant."
+          },
+          {
+            "label": "D",
+            "text": "An assembly line."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What is the purpose of this talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "To sell merchandise."
+          },
+          {
+            "label": "B",
+            "text": "To inform customers of a new service."
+          },
+          {
+            "label": "C",
+            "text": "To warn workers."
+          },
+          {
+            "label": "D",
+            "text": "To recognize a new employee."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What time does the Courier Center close?",
+        "options": [
+          {
+            "label": "A",
+            "text": "2:00 P.M."
+          },
+          {
+            "label": "B",
+            "text": "4:00 P.M."
+          },
+          {
+            "label": "C",
+            "text": "6:00 P.M."
+          },
+          {
+            "label": "D",
+            "text": "8:00 P.M."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the short dialogue. Then read each question and choose the best response. 4. When will the meeting take place? (A) This afternoon. (B) Tomorrow. (C) In two days. (D) On Tuesday. 6. What does the woman suggest that the man do? (A) Finish the work before the afternoon. (B) Do the work himself. (C) Ask another person for help. (D) Remember to fold all the documents. 5. Why won't the woman help assemble the documents? (A) She's in a meeting. (B) She hurt her hand. (C) She's too busy. (D) She needs to revise them first. Listen to the talk. Then read each question and choose the best answer. 7. Where would you hear this talk? (A) A post office. (B) A grocery store. (C) A restaurant. (D) An assembly line. 8. What is the purpose of this talk? (A) To sell merchandise. (B) To inform customers of a new service. (C) To warn workers. (D) To recognize a new employee. 9. What time does the Courier Center close? (A) 2:00 P.M. (B) 4:00 P.M. (C) 6:00 P.M. (D) 8:00 P.M.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "When will the meeting take place?",
+        "options": [
+          {
+            "label": "A",
+            "text": "This afternoon."
+          },
+          {
+            "label": "B",
+            "text": "Tomorrow."
+          },
+          {
+            "label": "C",
+            "text": "In two days."
+          },
+          {
+            "label": "D",
+            "text": "On Tuesday."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the woman suggest that the man do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Finish the work before the afternoon."
+          },
+          {
+            "label": "B",
+            "text": "Do the work himself."
+          },
+          {
+            "label": "C",
+            "text": "Ask another person for help."
+          },
+          {
+            "label": "D",
+            "text": "Remember to fold all the documents."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "Why won't the woman help assemble the documents?",
+        "options": [
+          {
+            "label": "A",
+            "text": "She's in a meeting."
+          },
+          {
+            "label": "B",
+            "text": "She hurt her hand."
+          },
+          {
+            "label": "C",
+            "text": "She's too busy."
+          },
+          {
+            "label": "D",
+            "text": "She needs to revise them first."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "Where would you hear this talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A post office."
+          },
+          {
+            "label": "B",
+            "text": "A grocery store."
+          },
+          {
+            "label": "C",
+            "text": "A restaurant."
+          },
+          {
+            "label": "D",
+            "text": "An assembly line."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What is the purpose of this talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "To sell merchandise."
+          },
+          {
+            "label": "B",
+            "text": "To inform customers of a new service."
+          },
+          {
+            "label": "C",
+            "text": "To warn workers."
+          },
+          {
+            "label": "D",
+            "text": "To recognize a new employee."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What time does the Courier Center close?",
+        "options": [
+          {
+            "label": "A",
+            "text": "2:00 P.M."
+          },
+          {
+            "label": "B",
+            "text": "4:00 P.M."
+          },
+          {
+            "label": "C",
+            "text": "6:00 P.M."
+          },
+          {
+            "label": "D",
+            "text": "8:00 P.M."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "# Correspondence\n\nStudy the following definitions and examples.\n\n1. assemble v., to put together; to bring together\n\na. Her assistant copied and assembled the documents.\n\nb. The mail room clerk read the directions before assembling the parts to the new postage printer.\n\n2. beforehand adv., in advance, in anticipation\n\na. To speed up the mailing, we should prepare the labels beforehand.\n\nb. The goods could have been shipped today had they faxed the order beforehand.\n\n3. complication n., difficulty, complex situation a. She will have to spend two more days in the hospital due to complications during the surgery.\n\nb. Complications always arise when we try to cover too many topics in one letter.\n\n4. courier n., a messenger, an official delivery person  \na. We hired a courier to deliver the package.  \nb. The courier service will clear the goods through customs.\n\n5. express adj., fast and direct\n\na. It's important that this document be there tomorrow, so please send it express mail.\n\nb. Express mail costs more than regular mail service, but it is more efficient.\n\n6. fold v., to bend paper  \na. Fold the letter into three parts before stuffing it into the envelope.  \nb. Don't fold the document if it doesn't fit the envelope.\n\n7. layout n., a format; the organization of material on a page  \na. We had to change the layout when we changed the size of the paper.  \nb. The layout for the new brochure was submitted by the designer.\n\n8. mention n., something said or written; v., to refer to\n\na. There was no mention of the cost in the proposal.\n\nb. You should mention in the letter that we can arrange for mailing the brochures as well as printing them.\n\n9. petition n., a formal, written request; v., to make a formal request\n\na. The petition was photocopied and distributed to workers who will collect the necessary signatures.\n\nb. We petitioned the postal officials to start delivering mail twice a day in business areas.\n\n10. proof v., to look for errors; n., evidence\n\na. This letter was not proofed very carefully; it is full of typing mistakes.\n\nb. In order to get the rebate, you must send in proof of purchase.\n\n11. register v., to record, to track; n., a record\n\na. You can register this mail for an additional $2.20.\n\nb. Everybody needs to sign the register before entering the mail room.\n\n12. revise v., to rewrite\n\na. The brochure was revised several times before it was sent to the printer.\nb. We will need to revise the form letter since our address has changed.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\nassemble courier layout proofed beforehand express mention registered complicated folding petition revision\n\nIn small offices, it is often the executive assistant who must manage all of the printed material that the firm produces. The job responsibilities include typing and printing out the correspondence. These letters and memos must all be carefully (1) \\_\\_\\_\\_ to make sure they are error-free. If not, the errors should be corrected. If the meaning is not clear, the correspondence should be revised. This (2) \\_\\_\\_\\_ should be done (3) \\_\\_\\_\\_, not when the letter is ready to be sent.\n\nBefore putting correspondence into an envelope, the executive assistant must (4) \\_\\_\\_\\_ all the various attachments and other documents to be enclosed with the letter. When (5) \\_\\_\\_\\_ the correspondence, the assistant should make sure that when opening the envelope, the recipient sees the letterhead first.\n\nOnce prepared, the correspondence must be sent appropriately.\nLocal, urgent mail could be hand-delivered by a (6)\n\\_\\_\\_\\_ service. Long-distance, urgent mail could be sent overnight or by (7) \\_\\_\\_\\_ mail. If a record is required, mail can be (8) \\_\\_\\_\\_ and receipts are given.\n\nIn addition to transmitting and receiving faxes, the executive assistant must work closely with company officials. When the company executives have to make a presentation, the executive assistant often becomes a graphic designer charged with the (9) \\_\\_\\_\\_, or the look of, the graphics and text for the printed materials used during the presentations. Did I (10) \\_\\_\\_\\_ that these duties generally involve learning extremely (11) \\_\\_\\_\\_ design software? It's a wonder that more executive assistants don't (12) \\_\\_\\_\\_ their bosses for a raise.",
+    "word_families": "## WORD FAMILIES\n\n<table><tr><td>verb</td><td>complicate</td><td>Don&#x27;t try to complicate things by making two-sided copies; single-sided will do.</td></tr><tr><td>noun</td><td>complication</td><td>There are a few complications with your layout, but they can be easily solved.</td></tr><tr><td>adjective</td><td>complicated</td><td>The revisions in the document made it more complicated, rather than simpler.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>n -</td><td>mention</td><td>The mention of layoffs made us worry.</td></tr><tr><td>J</td><td>mention</td><td>As I mentioned in my note to you, you should try to be less wordy and more concise in your writing.</td></tr><tr><td></td><td>mentionable</td><td>No one considered the mediocre design a mentionable achievement.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>.. un</td><td>petition</td><td>In order to be valid, the contents of the petition need to be printed at the top of each page that will contain signatures.</td></tr><tr><td>verb</td><td>petition</td><td>The welders petitioned the factory to install air conditioning.</td></tr><tr><td></td><td>petitioners</td><td>The petitioners spent the night outside of the courthouse.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>)</td><td>proof</td><td>It is your responsibility to proof your own work before sending it out.</td></tr><tr><td>n</td><td>proofreader</td><td>The proofreader did not find the errors.</td></tr><tr><td>und</td><td>proofing</td><td>Proofing a document is best done by starting at the end and reading backward.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>)</td><td>register</td><td>Register this letter and bring back the receipt.</td></tr><tr><td>noun</td><td>registration</td><td>Registration for the seminar can be done by fax.</td></tr><tr><td></td><td>registered</td><td>Always get a receipt for registered mail.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>)</td><td>revise</td><td>After you revise the document, give it a new name so that we will still have access to both drafts.</td></tr><tr><td>e</td><td>revised</td><td>His revised memo was easier to read.</td></tr><tr><td></td><td>revision</td><td>You may have to do three or four full revisions to this document before it is acceptable.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences.\nChoose the sentence that best describes the picture.\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n## Part 3 Conversation\n\nListen to the short dialogue. Then read each question and choose the best response.\n\n4. When will the meeting take place?\n(A) This afternoon.\n(B) Tomorrow.\n(C) In two days.\n(D) On Tuesday.\n\n6. What does the woman suggest that the man do?  \n(A) Finish the work before the afternoon.  \n(B) Do the work himself.  \n(C) Ask another person for help.  \n(D) Remember to fold all the documents.\n\n5. Why won't the woman help assemble the documents?\n(A) She's in a meeting.\n(B) She hurt her hand.\n(C) She's too busy.\n(D) She needs to revise them first.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. Where would you hear this talk?\n(A) A post office.\n(B) A grocery store.\n(C) A restaurant.\n(D) An assembly line.\n\n8. What is the purpose of this talk?  \n(A) To sell merchandise.  \n(B) To inform customers of a new service.  \n(C) To warn workers.  \n(D) To recognize a new employee.\n\n9. What time does the Courier Center close?\n(A) 2:00 P.M.\n(B) 4:00 P.M.\n(C) 6:00 P.M.\n(D) 8:00 P.M.",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. I don't want to \\_\\_\\_\\_ matters, but have you considered using color to make your brochure stand out?\n(A) complicate (C) complicated\n(B) complication (D) complicating\n\n11. It's worth \\_\\_\\_\\_ in the memo that we've finished the draft of the proposal.\n(A) mentionable (C) mentions\n(B) mentioning (D) mentioned\n\n12. The signatures on the \\_\\_\\_\\_ weren't all legible because rain had caused the ink to run.\n(A) petition (C) petitioners\n(B) petitioning (D) petitioned\n\n13. To send out business letters without \\_\\_\\_\\_ them is unprofessional.\n(A) proofing (C) proofreader\n(B) proof (D) proofread\n\n14. The mail room is rarely asked to send letters by \\_\\_\\_\\_ mail.\n(A) registers (C) register\n(B) registered (D) registration\n\n15. After each \\_\\_\\_\\_, you need to reread what you've written and note your suggestions for changes.\n(A) revise (C) revision\n(B) revised (D) will revise\n\n## Part 6 Text Completion\n\n## Memo\n\nTo: Production Staff  \nFrom: George Jones  \nRe: Document Preparation\n\nIn order to avoid extra work and waste of supplies, please observe the following guidelines when preparing documents for reproduction and distribution. The goal is to keep things simple and avoid \\_16\\_.\n\n\\- When you work on the final revision of a document, pay special attention to the layout. The presentation of material is as important as the content itself.\n\n\\- Don't rush to the copier as soon as the final revision is complete. \\_17\\_ each document carefully beforehand.\n\n\\- We have technology to help with the assembly of documents. The large copier on the second floor can \\_18\\_ paper in addition to stapling. This will help you complete tasks efficiently.\n\n\\- If a document needs to be delivered the same day it is finished, please use a courier service.\n\n16. (A) complicate 18. (A) folder  \n(B) complicates (B) folded  \n(C) complicated (C) folds  \n(D) complications (D) fold\n\n17. (A) Proof  \n(B) Proofs  \n(C) To proof  \n(D) Proofing",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following advertisement.\n\n## Editing\n\n## Design and Production\n\n## Delivery\n\nVisit any one of our branches to open up an account with us today. You can download an application from our web site and fill it out beforehand to make the process go more smoothly. Don't let the details of correspondence and document development complicate your life. Let Office Systems, Inc., handle it all for you.\n\nVisit www.officesys.com to find the branch nearest you.\n\n19. Who is the audience for this advertisement?  \n(A) Editors.  \n(B) Couriers.  \n(C) Corporate directors.  \n(D) Small business owners.\n\n20. Which of the following is a service offered by Office Systems, Inc.?\n(A) Accounting.\n(B) Web site development.\n(C) Assembling documents.\n(D) Reading letters.\n\n21. How can a customer open an account with Office Systems, Inc.?\n(A) By visiting a company branch.\n(B) By sending an e-mail.\n(C) By completing an online questionnaire.\n(D) By writing a letter.\n\n22. The word revision in line 5 is closest in meaning to (A) copying (B) rewriting (C) delivery (D) development\n\n23. The word beforehand in line 14 is closest in meaning to  \n(A) by hand  \n(B) thoroughly  \n(C) in advance  \n(D) in person"
+  },
+  "needs_review": true
+}

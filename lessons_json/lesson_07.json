@@ -1,0 +1,1670 @@
+{
+  "lesson_id": 7,
+  "title": "Office Technology",
+  "theme_name": "Office Issues",
+  "audio_track": "track_07.mp3",
+  "part1_photo": "part1_photos/lesson_07.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "affordable",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "able to be paid for; not too expensive",
+      "definition_vi": "có giá cả phải chăng, vừa túi tiền, có khả năng chi trả",
+      "examples": [
+        {
+          "en": "The company's first priority was to find an affordable phone system.",
+          "vi": "Ưu tiên hàng đầu của công ty là tìm kiếm một hệ thống điện thoại có giá cả phải chăng."
+        },
+        {
+          "en": "Obviously, the computer systems that are affordable for a Fortune 500 company will not be affordable for a small company.",
+          "vi": "Rõ ràng là những hệ thống máy tính vừa tầm chi trả đối với một công ty trong nhóm Fortune 500 sẽ không hề vừa túi tiền đối với một công ty nhỏ."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "affordable",
+          "example": "Broad-band access to the Internet became more affordable at the beginning of the millennium."
+        },
+        {
+          "pos": "verb",
+          "word": "afford",
+          "example": "Lucinda has taken so much leave this year that she can&#x27;t afford to miss another day&#x27;s work."
+        },
+        {
+          "pos": "noun",
+          "word": "affordability",
+          "example": "We looked into the affordability of placing a scanner at each designer&#x27;s desk."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "affordable prices",
+        "affordable housing",
+        "easily affordable",
+        "can afford to"
+      ],
+      "usage": {
+        "structures": [
+          "affordable + N (prices / rates / housing / healthcare)",
+          "can / be able to afford + N / to V (đủ khả năng chi trả cho)"
+        ],
+        "prepositions": [
+          "for",
+          "to"
+        ],
+        "collocations": [
+          "at an affordable rate",
+          "make sth affordable",
+          "affordable alternative",
+          "reasonably affordable"
+        ],
+        "tip": "Tính từ 'affordable' luôn mang nghĩa tích cực (= reasonably priced / inexpensive) và cực kỳ hay xuất hiện trong các bài quảng cáo sản phẩm/dịch vụ."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "affordably",
+          "example": "The new furniture line is both stylishly designed and affordably priced.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Small startups often cannot _____ to hire a full-time legal team.",
+        "answer": "afford",
+        "base_word": "affordable",
+        "pos_hint": "động từ nguyên mẫu (sau 'cannot')",
+        "vi": "Các công ty khởi nghiệp nhỏ thường không đủ khả năng tài chính để thuê một đội ngũ pháp lý toàn thời gian."
+      }
+    },
+    {
+      "id": 2,
+      "word": "as needed",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "as necessary",
+      "definition_vi": "khi cần thiết, tùy theo nhu cầu thực tế",
+      "examples": [
+        {
+          "en": "The courier service did not come every day, only as needed.",
+          "vi": "Dịch vụ chuyển phát nhanh không đến mỗi ngày, mà chỉ đến khi cần thiết."
+        },
+        {
+          "en": "The service contract states that repairs will be made on an as-needed basis.",
+          "vi": "Hợp đồng dịch vụ nêu rõ rằng việc sửa chữa sẽ được thực hiện trên cơ sở khi nào cần thì làm."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "on an as-needed basis",
+        "order supplies as needed",
+        "adjust as needed",
+        "hire staff as needed"
+      ],
+      "usage": {
+        "structures": [
+          "V + as needed (= as necessary: khi cần thiết)",
+          "on an as-needed basis (trên cơ sở khi nào cần thì cung cấp/thực hiện)"
+        ],
+        "prepositions": [
+          "as",
+          "on"
+        ],
+        "collocations": [
+          "replenish stock as needed",
+          "update records as needed",
+          "work overtime as needed",
+          "schedule maintenance as needed"
+        ],
+        "tip": "Ghi nhớ cụm cố định 'on an as-needed basis' (tùy theo nhu cầu phát sinh) và lưu ý 'as needed' là rút gọn của mệnh đề 'as it is needed'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "need",
+          "example": "Please let the receptionist know if you need any assistance with your luggage.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "need",
+          "example": "There is a growing need for bilingual customer service representatives.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "needed",
+          "example": "The government grant provided much-needed funding for the research lab.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "needfully",
+          "example": "All safety equipment was needfully inspected prior to the plant reopening.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Temporary warehouse workers are hired on an as-_____ basis during the holiday shopping season.",
+        "answer": "needed",
+        "base_word": "as needed",
+        "pos_hint": "quá khứ phân từ / tính từ (trong cụm cố định)",
+        "vi": "Nhân viên kho thời vụ được thuê trên cơ sở khi nào cần thì tuyển trong suốt mùa mua sắm lễ hội."
+      }
+    },
+    {
+      "id": 3,
+      "word": "be in charge of",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to be in control or command of",
+      "definition_vi": "phụ trách, chịu trách nhiệm quản lý/điều hành (ai/việc gì)",
+      "examples": [
+        {
+          "en": "He appointed someone to be in charge of maintaining a supply of paper in the fax machine.",
+          "vi": "Ông ấy đã bổ nhiệm một người phụ trách việc duy trì nguồn giấy trong máy fax."
+        },
+        {
+          "en": "Your computer should not be in charge of you, rather you should be in charge of your computer.",
+          "vi": "Máy tính của bạn không nên làm chủ bạn, mà đúng hơn là bạn phải làm chủ chiếc máy tính của mình."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "be in charge of a department",
+        "put sb in charge of",
+        "take charge of",
+        "person in charge"
+      ],
+      "usage": {
+        "structures": [
+          "be in charge of + N / V-ing (= be responsible for)",
+          "take charge of + N (tiếp quản, đứng ra phụ trách)",
+          "put sb in charge of + N (giao cho ai phụ trách)"
+        ],
+        "prepositions": [
+          "in",
+          "of"
+        ],
+        "collocations": [
+          "officer in charge",
+          "left in charge of",
+          "in charge of hiring",
+          "in charge of operations"
+        ],
+        "tip": "Cụm 'be in charge of + N/V-ing' đồng nghĩa trực tiếp với 'be responsible for' và 'oversee / supervise' trong các câu hỏi đọc hiểu TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "charge",
+          "example": "The hotel does not charge guests for local telephone calls.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "charge",
+          "example": "Delivery is free of charge for all orders exceeding fifty dollars.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "chargeable",
+          "example": "Any repairs caused by user negligence are chargeable to the customer.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Ms. Gomez has been placed in _____ of coordinating the international marketing campaign.",
+        "answer": "charge",
+        "base_word": "be in charge of",
+        "pos_hint": "danh từ (trong cụm 'in charge of')",
+        "vi": "Cô Gomez đã được giao phụ trách việc điều phối chiến dịch tiếp thị quốc tế."
+      }
+    },
+    {
+      "id": 4,
+      "word": "capacity",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the ability to contain or hold; the maximum that something can hold or do",
+      "definition_vi": "sức chứa, công suất tối đa, dung lượng; năng lực; tư cách/chức vụ",
+      "examples": [
+        {
+          "en": "The new conference room is much larger and has a capacity of one hundred people.",
+          "vi": "Phòng hội nghị mới rộng hơn nhiều và có sức chứa một trăm người."
+        },
+        {
+          "en": "The memory requirements of this software application exceed the capacity of our computers.",
+          "vi": "Yêu cầu bộ nhớ của ứng dụng phần mềm này vượt quá dung lượng máy tính của chúng ta."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "seating capacity",
+        "at full capacity",
+        "storage capacity",
+        "in the capacity of"
+      ],
+      "usage": {
+        "structures": [
+          "have a capacity of + con số (có sức chứa là...)",
+          "operate / run at (full) capacity (hoạt động hết công suất)",
+          "in one's capacity as + chức danh (với tư cách là...)"
+        ],
+        "prepositions": [
+          "of",
+          "at",
+          "in",
+          "for"
+        ],
+        "collocations": [
+          "production capacity",
+          "exceed the capacity",
+          "expand capacity",
+          "maximum capacity"
+        ],
+        "tip": "Học thuộc lòng 2 cụm giới từ cực hay gặp: 'at full capacity' (hết công suất/kín chỗ) và 'in his/her capacity as...' (với tư cách/cương vị là...)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "capacitate",
+          "example": "Specialized training programs capacitate employees to handle complex machinery.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "capacity",
+          "example": "The stadium has a seating capacity of over fifty thousand spectators.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "capacious",
+          "example": "The new SUV features a capacious trunk suitable for family road trips.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "capaciously",
+          "example": "The exhibition hall was capaciously designed to host multiple trade shows.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "To meet holiday demand, our manufacturing plants are currently operating at full _____.",
+        "answer": "capacity",
+        "base_word": "capacity",
+        "pos_hint": "danh từ",
+        "vi": "Để đáp ứng nhu cầu dịp lễ, các nhà máy sản xuất của chúng tôi hiện đang hoạt động hết công suất."
+      }
+    },
+    {
+      "id": 5,
+      "word": "durable",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "sturdy, strong, lasting",
+      "definition_vi": "bền, chắc chắn, sử dụng được lâu dài",
+      "examples": [
+        {
+          "en": "This printer is so durable that, with a little care, it will last another five years.",
+          "vi": "Chiếc máy in này bền đến mức chỉ cần giữ gìn một chút là nó sẽ dùng được thêm năm năm nữa."
+        },
+        {
+          "en": "These chairs are more durable than the first ones we looked at.",
+          "vi": "Những chiếc ghế này bền hơn những chiếc đầu tiên mà chúng ta đã xem."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "durable goods",
+        "durable material",
+        "lightweight and durable",
+        "proven durability"
+      ],
+      "usage": {
+        "structures": [
+          "be durable enough to V",
+          "durable + N (goods / fabric / plastic / construction)"
+        ],
+        "prepositions": [
+          "for",
+          "under"
+        ],
+        "collocations": [
+          "highly durable",
+          "durable finish",
+          "test for durability",
+          "long-lasting durability"
+        ],
+        "tip": "Từ khóa quen thuộc khi mô tả ưu điểm của thiết bị văn phòng, nội thất, hành lý hoặc quần áo bảo hộ trong TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "durability",
+          "example": "Our outdoor furniture is famous for its exceptional durability in harsh weather.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "durable",
+          "example": "The hiking boots are made from waterproof and durable leather.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "durably",
+          "example": "These industrial laptops are durably built to withstand drops and vibrations.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "All of our luggage undergoes rigorous testing to ensure maximum _____ during air travel.",
+        "answer": "durability",
+        "base_word": "durable",
+        "pos_hint": "danh từ",
+        "vi": "Tất cả hành lý của chúng tôi đều trải qua quá trình kiểm tra nghiêm ngặt để đảm bảo độ bền tối đa trong các chuyến bay."
+      }
+    },
+    {
+      "id": 6,
+      "word": "initiative",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the first step; an active role",
+      "definition_vi": "sáng kiến, chương trình hành động mới; sự chủ động, tính tiên phong",
+      "examples": [
+        {
+          "en": "Employees are encouraged to take the initiative and share their ideas with management.",
+          "vi": "Nhân viên được khuyến khích phát huy tính chủ động và chia sẻ ý tưởng của họ với ban quản lý."
+        },
+        {
+          "en": "Our technology initiative involves an exciting new database system and will help us revolutionize our customer service.",
+          "vi": "Sáng kiến công nghệ của chúng tôi bao gồm một hệ thống cơ sở dữ liệu mới đầy thú vị và sẽ giúp chúng tôi cách mạng hóa dịch vụ khách hàng."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "initiate",
+          "example": "The company will initiate its new products at the beginning of the year."
+        },
+        {
+          "pos": "noun",
+          "word": "initiative",
+          "example": "The manager, knowing how concerned his employees were, took the initiative to provide training for them on the new equipment."
+        },
+        {
+          "pos": "noun",
+          "word": "initiation",
+          "example": "As an initiation into the sales field, Mr. Jenkins was given the most problematic customer&#x27;s account."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "take the initiative",
+        "new initiative",
+        "launch an initiative",
+        "on one's own initiative"
+      ],
+      "usage": {
+        "structures": [
+          "take the initiative (to V) (đi bước đầu tiên / chủ động làm gì - không đếm được)",
+          "launch / support an initiative (phát động một chương trình/sáng kiến mới - đếm được)"
+        ],
+        "prepositions": [
+          "on",
+          "to",
+          "for"
+        ],
+        "collocations": [
+          "cost-cutting initiative",
+          "green initiative",
+          "government initiative",
+          "show initiative"
+        ],
+        "tip": "Mẹo phân biệt 2 danh từ của động từ 'initiate': 'initiative' là 'sáng kiến/sự chủ động', còn 'initiation' là 'sự bắt đầu/lễ kết nạp'."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "initial",
+          "example": "The initial response to our advertising campaign has been overwhelmingly positive.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "initially",
+          "example": "The bridge project was initially scheduled for completion in May.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The mayor announced a new _____ aimed at revitalizing small businesses in the downtown area.",
+        "answer": "initiative",
+        "base_word": "initiative",
+        "pos_hint": "danh từ số ít (sáng kiến/chương trình)",
+        "vi": "Thị trưởng đã công bố một sáng kiến mới nhằm hồi sinh các doanh nghiệp nhỏ ở khu vực trung tâm thành phố."
+      }
+    },
+    {
+      "id": 7,
+      "word": "physically",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "with the senses; of the body",
+      "definition_vi": "về mặt thể chất, thuộc về cơ thể; một cách trực tiếp/vật lý",
+      "examples": [
+        {
+          "en": "The computer screen is making her physically sick.",
+          "vi": "Màn hình máy tính đang làm cô ấy cảm thấy mệt mỏi về mặt thể chất."
+        },
+        {
+          "en": "Physically moving your screen from one place on the desk to another can help reduce same-position-strain syndrome.",
+          "vi": "Việc trực tiếp di chuyển màn hình của bạn từ vị trí này sang vị trí khác trên bàn làm việc có thể giúp giảm hội chứng căng cơ do giữ nguyên một tư thế."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "physically",
+          "example": "The vagrant had to be physically removed from the building."
+        },
+        {
+          "pos": "",
+          "word": "physical",
+          "example": "The physical presence of a computer engineer is vastly superior to telephone tech support."
+        },
+        {
+          "pos": "",
+          "word": "physique",
+          "example": "We need a model with a proportional physique."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "physically demanding",
+        "physically present",
+        "physically fit",
+        "physically impossible"
+      ],
+      "usage": {
+        "structures": [
+          "physically + Adj / V3-ed (physically demanding / exhausting / located)",
+          "physically + V (trực tiếp làm gì bằng tay chân/cơ thể)"
+        ],
+        "prepositions": [
+          "in",
+          "at"
+        ],
+        "collocations": [
+          "physical examination",
+          "physical therapy",
+          "physically active",
+          "physical inventory"
+        ],
+        "tip": "Cụm 'physically demanding' (đòi hỏi nhiều thể lực) và 'physical examination' (khám sức khỏe tổng quát) rất hay xuất hiện trong TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "physician",
+          "example": "Employees absent for more than three days must provide a note from a physician.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Warehouse applicants must be capable of performing _____ demanding tasks such as lifting heavy boxes.",
+        "answer": "physically",
+        "base_word": "physically",
+        "pos_hint": "trạng từ (bổ nghĩa cho tính từ 'demanding')",
+        "vi": "Các ứng viên làm việc tại kho phải có khả năng thực hiện các công việc đòi hỏi thể lực như nâng các thùng hàng nặng."
+      }
+    },
+    {
+      "id": 8,
+      "word": "provider",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a supplier",
+      "definition_vi": "nhà cung cấp (thường dùng cho dịch vụ như viễn thông, Internet, y tế)",
+      "examples": [
+        {
+          "en": "The department was extremely pleased with the service they received from the phone provider.",
+          "vi": "Bộ phận đã vô cùng hài lòng với dịch vụ mà họ nhận được từ nhà cung cấp điện thoại."
+        },
+        {
+          "en": "As your health service provider, we want to make sure you are happy and satisfied with the service you are receiving.",
+          "vi": "Là nhà cung cấp dịch vụ y tế của bạn, chúng tôi muốn đảm bảo rằng bạn luôn vui vẻ và hài lòng với dịch vụ mình đang nhận được."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "provide",
+          "example": "The company provides a five-year warranty on its products."
+        },
+        {
+          "pos": "noun",
+          "word": "provider",
+          "example": "As your provider of network services, I promise to give you the best prices and service."
+        },
+        {
+          "pos": "noun",
+          "word": "provision",
+          "example": "Our provisions of supplies should last to the end of the quarter."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "service provider",
+        "Internet service provider",
+        "healthcare provider",
+        "leading provider"
+      ],
+      "usage": {
+        "structures": [
+          "a provider of + N (nhà cung cấp dịch vụ/sản phẩm gì)",
+          "N + provider (Internet/insurance/utility provider)"
+        ],
+        "prepositions": [
+          "of",
+          "for"
+        ],
+        "collocations": [
+          "network provider",
+          "wireless provider",
+          "childcare provider",
+          "primary provider"
+        ],
+        "tip": "'Provider' thường dùng cho nhà cung cấp dịch vụ (Internet/healthcare/insurance provider), còn 'supplier' thường dùng cho nhà cung cấp hàng hóa/linh kiện."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "provisional",
+          "example": "A provisional budget has been set up for the first quarter of next year.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "provisionally",
+          "example": "The dates for the training workshop have been provisionally approved.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Switching to a new cellular service _____ saved our company nearly $400 a month.",
+        "answer": "provider",
+        "base_word": "provider",
+        "pos_hint": "danh từ số ít",
+        "vi": "Việc chuyển sang một nhà cung cấp dịch vụ di động mới đã giúp công ty chúng tôi tiết kiệm gần 400 đô la mỗi tháng."
+      }
+    },
+    {
+      "id": 9,
+      "word": "recur",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to occur again or repeatedly",
+      "definition_vi": "tái diễn, lặp lại, xảy ra một lần nữa (thường là lỗi, vấn đề, chi phí)",
+      "examples": [
+        {
+          "en": "The subject of decreasing sales recurs in each meeting, sometimes several times.",
+          "vi": "Chủ đề doanh số bán hàng sụt giảm cứ lặp đi lặp lại trong mỗi cuộc họp, đôi khi đến vài lần."
+        },
+        {
+          "en": "The managers did not want that particular error to recur.",
+          "vi": "Các nhà quản lý không muốn lỗi cụ thể đó tái diễn."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "recur",
+          "example": "We don&#x27;t want that problem to recur every month."
+        },
+        {
+          "pos": "",
+          "word": "recurrence",
+          "example": "Every recurrence of the same problem costs us money."
+        },
+        {
+          "pos": "",
+          "word": "recurring",
+          "example": "Recurring problems waste time and money."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "recurring problem",
+        "recurring fee",
+        "prevent from recurring",
+        "recurrence of an error"
+      ],
+      "usage": {
+        "structures": [
+          "S + recur (nội động từ - KHÔNG chia bị động)",
+          "prevent + N + from recurring"
+        ],
+        "prepositions": [
+          "in",
+          "at"
+        ],
+        "collocations": [
+          "recurring theme",
+          "monthly recurring charge",
+          "frequent recurrence",
+          "recurring issue"
+        ],
+        "tip": "Chú ý gấp đôi phụ âm 'r' khi thêm đuôi '-ed', '-ing', '-ence': recur -> recurred, recurring, recurrence."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "recurrent",
+          "example": "The software update finally fixed a recurrent bug in the billing module.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "recurrently",
+          "example": "Funding shortages have recurrently delayed the highway expansion project.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Engineers replaced the faulty valve to prevent the leak from _____ in the future.",
+        "answer": "recurring",
+        "base_word": "recur",
+        "pos_hint": "danh động từ (V-ing sau giới từ 'from')",
+        "vi": "Các kỹ sư đã thay thế chiếc van bị hỏng để ngăn chặn sự cố rò rỉ tái diễn trong tương lai."
+      }
+    },
+    {
+      "id": 10,
+      "word": "reduction",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a lessening; a decrease",
+      "definition_vi": "sự cắt giảm, sự thu gọn, mức giảm giá",
+      "examples": [
+        {
+          "en": "The outlet store gave a 20 percent reduction in the price of the shelves and bookcases.",
+          "vi": "Cửa hàng đại lý đã giảm giá 20 phần trăm cho các loại kệ và tủ sách."
+        },
+        {
+          "en": "The reduction in office staff has made it necessary to automate more job functions.",
+          "vi": "Việc cắt giảm nhân sự văn phòng đã khiến cho việc tự động hóa thêm nhiều chức năng công việc trở nên cần thiết."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "reduce",
+          "example": "Buying in bulk can help to reduce costs."
+        },
+        {
+          "pos": "",
+          "word": "reduction",
+          "example": "The introduction of the fax machine created a noticeable increase in phone bills."
+        },
+        {
+          "pos": "",
+          "word": "reducible",
+          "example": "Although our system is working at capacity, the amount of information being processed is not reducible."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "cost reduction",
+        "price reduction",
+        "reduction in staff",
+        "significant reduction"
+      ],
+      "usage": {
+        "structures": [
+          "a reduction in + N (sự cắt giảm về số lượng/chi phí/nhân sự)",
+          "a reduction of + số lượng/% (mức giảm bao nhiêu phần trăm)"
+        ],
+        "prepositions": [
+          "in",
+          "of"
+        ],
+        "collocations": [
+          "noise reduction",
+          "tax reduction",
+          "waste reduction",
+          "drastic reduction"
+        ],
+        "tip": "Danh từ 'reduction' cực kỳ hay đi kèm giới từ 'in' để chỉ lĩnh vực/đối tượng được giảm (a reduction in operating costs / a reduction in accidents)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "reduced",
+          "example": "Winter coats are now on sale at significantly reduced prices.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Switching to digital invoicing has led to a substantial _____ in paper and postage expenses.",
+        "answer": "reduction",
+        "base_word": "reduction",
+        "pos_hint": "danh từ số ít",
+        "vi": "Việc chuyển sang hóa đơn điện tử đã dẫn đến sự sụt giảm đáng kể chi phí giấy tờ và bưu phí."
+      }
+    },
+    {
+      "id": 11,
+      "word": "stay on top of",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to know what is going on; to know the latest information",
+      "definition_vi": "nắm bắt sát sao, cập nhật kịp thời, kiểm soát tốt (tình hình, công việc, xu hướng)",
+      "examples": [
+        {
+          "en": "In order to stay on top of her employees' progress, she arranged weekly breakfast meetings.",
+          "vi": "Để nắm bắt sát sao tiến độ làm việc của nhân viên, bà đã sắp xếp các cuộc họp ăn sáng hàng tuần."
+        },
+        {
+          "en": "In this industry, you must stay on top of current developments.",
+          "vi": "Trong ngành công nghiệp này, bạn phải luôn cập nhật kịp thời những bước phát triển hiện tại."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "stay on top of things",
+        "stay on top of trends",
+        "stay on top of deadlines",
+        "keep on top of"
+      ],
+      "usage": {
+        "structures": [
+          "stay / keep on top of + N (nắm bắt kịp thời / kiểm soát tốt cái gì)"
+        ],
+        "prepositions": [
+          "on",
+          "of"
+        ],
+        "collocations": [
+          "stay on top of current developments",
+          "stay on top of one's workload",
+          "stay on top of market changes",
+          "stay on top of the news"
+        ],
+        "tip": "Cụm thành ngữ này hoàn toàn đồng nghĩa với 'keep up with' hoặc 'keep track of' (theo kịp / theo dõi sát sao thông tin mới nhất)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "top",
+          "example": "Fourth-quarter earnings topped ten million dollars for the first time.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "top",
+          "example": "Please write your account number at the top of the application form.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "topmost",
+          "example": "Passenger safety is always the topmost priority for our airline.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Subscribing to industry journals helps our engineers stay on _____ of emerging technologies.",
+        "answer": "top",
+        "base_word": "stay on top of",
+        "pos_hint": "danh từ (trong cụm cố định 'stay on top of')",
+        "vi": "Việc đặt mua các tạp chí chuyên ngành giúp các kỹ sư của chúng tôi luôn nắm bắt kịp thời những công nghệ mới nổi."
+      }
+    },
+    {
+      "id": 12,
+      "word": "stock",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to keep on hand; n., a supply",
+      "definition_vi": "tích trữ, chất hàng lên kệ, có sẵn trong kho (v.); hàng tồn kho, nguồn cung, cổ phiếu (n.)",
+      "examples": [
+        {
+          "en": "The employees stocked the shelves on a weekly basis.",
+          "vi": "Các nhân viên chất hàng lên kệ theo định kỳ hàng tuần."
+        },
+        {
+          "en": "The office's stock of toner for the fax machine was quickly running out.",
+          "vi": "Nguồn mực dự trữ cho máy fax của văn phòng đang nhanh chóng cạn kiệt."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "in stock",
+        "out of stock",
+        "stock up on",
+        "stock market"
+      ],
+      "usage": {
+        "structures": [
+          "be in stock (còn hàng) >< be out of stock (hết hàng)",
+          "stock up on + N (mua tích trữ mặt hàng gì)"
+        ],
+        "prepositions": [
+          "in",
+          "out",
+          "of",
+          "with",
+          "on"
+        ],
+        "collocations": [
+          "fully stocked",
+          "stock the shelves",
+          "stockholder",
+          "limited stock"
+        ],
+        "tip": "Hai cụm giới từ 'in stock' (còn hàng) và 'out of stock' (hết hàng) là từ vựng bắt buộc phải thuộc lòng khi làm bài TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "restock",
+          "example": "Night shift workers restock the supermarket shelves before the store opens.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "stock",
+          "example": "We apologize that the item you ordered is temporarily out of stock.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "stocked",
+          "example": "The employee break room is always well stocked with coffee and snacks.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The supply closet is fully _____ with printer paper, toner cartridges, and envelopes.",
+        "answer": "stocked",
+        "base_word": "stock",
+        "pos_hint": "động từ chia quá khứ phân từ / tính từ (V3/ed)",
+        "vi": "Tủ đựng đồ tiếp tế được tích trữ đầy đủ giấy in, hộp mực và phong bì."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. Many companies have one person or a department that (1) ____ running the office. If you have ever worked for a company that doesn't have an office manager, you very quickly learn to appreciate the importance of the job. Who is in charge of placing orders? Who services the fax machine or printer? Who makes sure that the office is presentable for customers? Are the new conference tables and shelves (2) ____ as well as (3) ____? It is the office manager's responsibility to maintain an efficient and smooth-running office. He or she looks for ways to (4) ____ costs and minimize interruptions in the day-to-day operations. Whereas functional managers know the (5) ____ of their employees, the office manager knows the (6) ____ capacity of the office and the supplies and machines that are in the office. The office manager (7) ____ the ordering of furniture and supplies, and (8) ____ changing office technology. Over time, he or she may notice (9) ____ problems that require changing a service (10) ____. Furniture and large items are ordered on an (11) ____ basis. Other frequently used materials, such as paper, folders, and mailing materials, are on an automatic ordering schedule and a (12) ____ of those supplies is on hand at the office.",
+    "word_bank": [
+      "affordable",
+      "durable",
+      "physical",
+      "reduce",
+      "as needed",
+      "is in charge of",
+      "provider",
+      "stays on top of",
+      "capacity",
+      "initiates",
+      "recurring",
+      "stock"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "affordable",
+        "example": "Broad-band access to the Internet became more affordable at the beginning of the millennium.",
+        "pos": ""
+      },
+      {
+        "word": "afford",
+        "example": "Lucinda has taken so much leave this year that she can&#x27;t afford to miss another day&#x27;s work.",
+        "pos": "verb"
+      },
+      {
+        "word": "affordability",
+        "example": "We looked into the affordability of placing a scanner at each designer&#x27;s desk.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "initiate",
+        "example": "The company will initiate its new products at the beginning of the year.",
+        "pos": ""
+      },
+      {
+        "word": "initiative",
+        "example": "The manager, knowing how concerned his employees were, took the initiative to provide training for them on the new equipment.",
+        "pos": "noun"
+      },
+      {
+        "word": "initiation",
+        "example": "As an initiation into the sales field, Mr. Jenkins was given the most problematic customer&#x27;s account.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "physically",
+        "example": "The vagrant had to be physically removed from the building.",
+        "pos": ""
+      },
+      {
+        "word": "physical",
+        "example": "The physical presence of a computer engineer is vastly superior to telephone tech support.",
+        "pos": ""
+      },
+      {
+        "word": "physique",
+        "example": "We need a model with a proportional physique.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "provide",
+        "example": "The company provides a five-year warranty on its products.",
+        "pos": ""
+      },
+      {
+        "word": "provider",
+        "example": "As your provider of network services, I promise to give you the best prices and service.",
+        "pos": "noun"
+      },
+      {
+        "word": "provision",
+        "example": "Our provisions of supplies should last to the end of the quarter.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "recur",
+        "example": "We don&#x27;t want that problem to recur every month.",
+        "pos": ""
+      },
+      {
+        "word": "recurrence",
+        "example": "Every recurrence of the same problem costs us money.",
+        "pos": ""
+      },
+      {
+        "word": "recurring",
+        "example": "Recurring problems waste time and money.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "reduce",
+        "example": "Buying in bulk can help to reduce costs.",
+        "pos": ""
+      },
+      {
+        "word": "reduction",
+        "example": "The introduction of the fax machine created a noticeable increase in phone bills.",
+        "pos": ""
+      },
+      {
+        "word": "reducible",
+        "example": "Although our system is working at capacity, the amount of information being processed is not reducible.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "____ is still a major concern for inner-city schools that want to install computers.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Afford"
+          },
+          {
+            "label": "B",
+            "text": "Affording"
+          },
+          {
+            "label": "C",
+            "text": "Affordable"
+          },
+          {
+            "label": "D",
+            "text": "Affordability"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "Hoping to repeat the success of the previous year's sales ____, the vice president held a meeting of all the managers.",
+        "options": [
+          {
+            "label": "A",
+            "text": "initiated"
+          },
+          {
+            "label": "B",
+            "text": "initiating"
+          },
+          {
+            "label": "C",
+            "text": "initiative"
+          },
+          {
+            "label": "D",
+            "text": "initiation"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "The athlete's extraordinary ____ distracted customers from the auto itself.",
+        "options": [
+          {
+            "label": "A",
+            "text": "physique"
+          },
+          {
+            "label": "C",
+            "text": "physicality"
+          },
+          {
+            "label": "D",
+            "text": "physically"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "As promised in our last meeting, this contract ____ you with the best prices.",
+        "options": [
+          {
+            "label": "A",
+            "text": "provide"
+          },
+          {
+            "label": "B",
+            "text": "provides"
+          },
+          {
+            "label": "C",
+            "text": "provision"
+          },
+          {
+            "label": "D",
+            "text": "provider"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "When a problem ____ frequently, it is time to reexamine the process.",
+        "options": [
+          {
+            "label": "A",
+            "text": "recur"
+          },
+          {
+            "label": "B",
+            "text": "recurrence"
+          },
+          {
+            "label": "C",
+            "text": "recurring"
+          },
+          {
+            "label": "D",
+            "text": "recurs"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "The employee preferred to have a ____ in salary than to have to continue working with her outdated computer.",
+        "options": [
+          {
+            "label": "A",
+            "text": "reducing"
+          },
+          {
+            "label": "B",
+            "text": "reduction"
+          },
+          {
+            "label": "C",
+            "text": "reduce"
+          },
+          {
+            "label": "D",
+            "text": "reduces"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Memo To: Miriam Ketonen, Office Manager From: Jason Roberts, Assistant Office Manager Re: Photocopier There have been recurring problems with the office photocopier, particularly with paper jams. I believe the problem is with the type of machine we have. A machine of this size simply does not have the capacity to handle the amount of copying we normally do. Obviously we can't [16] the number of copies we make. I suggest that it's time to order a larger and [17] machine. I have looked through the catalogs and discovered several that I think would suit our needs. I have selected the most [18] ones, as I know we have a limited amount of money to spend. I have attached their descriptions. Since you are in charge of making large purchases like this, I will need your approval before I go ahead and place the order. Let me know which of the machines you think is best, and I will fill out the purchase order. Thanks.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "reduce"
+            },
+            {
+              "label": "B",
+              "text": "reducing"
+            },
+            {
+              "label": "C",
+              "text": "reducible"
+            },
+            {
+              "label": "D",
+              "text": "reduction"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "durable"
+            },
+            {
+              "label": "B",
+              "text": "durables"
+            },
+            {
+              "label": "C",
+              "text": "more durable"
+            },
+            {
+              "label": "D",
+              "text": "most durable"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "costly"
+            },
+            {
+              "label": "B",
+              "text": "physical"
+            },
+            {
+              "label": "C",
+              "text": "attractive"
+            },
+            {
+              "label": "D",
+              "text": "affordable"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following two letters. Dear Mr. Conner, I am writing to follow up on our conversation of last Monday. You said you were looking for a new provider for kitchen supplies for your office, and that your particular need at this time was for a large-capacity coffeemaker. I have looked through the coffeemakers we have available, and believe I have found the best one to suit your needs. The primary advantage of the 300X Office Coffeemaker is that it reduces mess. The coffeemaker is filled with water daily. Then, to make a cup of coffee, the user simply inserts a premeasured package of coffee into the machine and presses the \"on\" button. The coffee is ready in one minute. There are no pots to clean or filters to change. The machine can make tea and other hot drinks as well. The 300X is also the most durable machine on the market. I am enclosing a description of the machine and price information. We can also deliver refills of coffee and tea to you on a weekly or monthly basis. In addition, we stock other kitchen appliances such as microwave ovens and office-sized refrigerators. Please let me know if you are interested in purchasing such items. Sincerely, Laura Baker Laura Baker Sales Manager Dear Ms. Baker, Thank you for the information on the 300X Office Coffeemaker. I think it will meet our needs for large-capacity coffeemakers at an affordable price. Our office is large, so I would like to order two at this time. I don't think we will need the regular deliveries of coffee and tea. Our need for these varies so much from week to week that it is better to order them on an as-needed basis. My assistant is good at staying on top of these things, so we don't have to worry about running out. Currently we don't have a need for ovens or refrigerators although we may in the near future. I will keep you informed. Meanwhile, we will send you a purchase order for the coffeemakers. Thank you for your help. Sincerely, Matthew Conner Matthew Conner Office Manager",
+        "questions": [
+          {
+            "number": 19,
+            "question": "What will Mr. Conner buy now?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Coffeemakers."
+              },
+              {
+                "label": "B",
+                "text": "Ovens."
+              },
+              {
+                "label": "C",
+                "text": "Microcomputers."
+              },
+              {
+                "label": "D",
+                "text": "Refrigerators."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "What does he say that he likes about the product he has selected?",
+            "options": [
+              {
+                "label": "A",
+                "text": "It reduces mess."
+              },
+              {
+                "label": "B",
+                "text": "It is durable."
+              },
+              {
+                "label": "C",
+                "text": "It has a good price."
+              },
+              {
+                "label": "D",
+                "text": "It will be delivered regularly."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "How often will he order refills?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Once a day."
+              },
+              {
+                "label": "B",
+                "text": "Once a week."
+              },
+              {
+                "label": "C",
+                "text": "Every month."
+              },
+              {
+                "label": "D",
+                "text": "When he needs them."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word provider in line 2 of the first letter, is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "consumer"
+              },
+              {
+                "label": "B",
+                "text": "supplier"
+              },
+              {
+                "label": "C",
+                "text": "maker"
+              },
+              {
+                "label": "D",
+                "text": "designer"
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word stock in line 19 of the first letter, is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "have"
+              },
+              {
+                "label": "B",
+                "text": "repair"
+              },
+              {
+                "label": "C",
+                "text": "buy"
+              },
+              {
+                "label": "D",
+                "text": "use"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What is required for all new purchases?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A receipt."
+          },
+          {
+            "label": "B",
+            "text": "A charge card."
+          },
+          {
+            "label": "C",
+            "text": "Up-front payment."
+          },
+          {
+            "label": "D",
+            "text": "Approval."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What is the purpose of this requirement?",
+        "options": [
+          {
+            "label": "A",
+            "text": "To avoid delays."
+          },
+          {
+            "label": "B",
+            "text": "To help save money."
+          },
+          {
+            "label": "C",
+            "text": "To make purchasing a top priority."
+          },
+          {
+            "label": "D",
+            "text": "To reduce steps in the ordering process."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What is the woman's opinion of this requirement?",
+        "options": [
+          {
+            "label": "A",
+            "text": "It's annoying."
+          },
+          {
+            "label": "B",
+            "text": "It's enjoyable."
+          },
+          {
+            "label": "C",
+            "text": "It's a good idea."
+          },
+          {
+            "label": "D",
+            "text": "It's boring."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "Why don't they order units on an as-needed basis?",
+        "options": [
+          {
+            "label": "A",
+            "text": "They're more expensive."
+          },
+          {
+            "label": "B",
+            "text": "The provider won't take individual orders."
+          },
+          {
+            "label": "C",
+            "text": "Delivery time is too long."
+          },
+          {
+            "label": "D",
+            "text": "Nobody takes the initiative to place the order."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What kind of provider could help them?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A less pushy provider."
+          },
+          {
+            "label": "B",
+            "text": "A more aggressive provider."
+          },
+          {
+            "label": "C",
+            "text": "One with better prices."
+          },
+          {
+            "label": "D",
+            "text": "One with a web site."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What does the speaker like about the suggested company's products?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The durability."
+          },
+          {
+            "label": "B",
+            "text": "The quality."
+          },
+          {
+            "label": "C",
+            "text": "The price."
+          },
+          {
+            "label": "D",
+            "text": "The size."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best response. 4. What is required for all new purchases? (A) A receipt. (B) A charge card. (C) Up-front payment. (D) Approval. 5. What is the purpose of this requirement? (A) To avoid delays. (B) To help save money. (C) To make purchasing a top priority. (D) To reduce steps in the ordering process. 6. What is the woman's opinion of this requirement? (A) It's annoying. (B) It's enjoyable. (C) It's a good idea. (D) It's boring. Listen to the talk. Then read each question and choose the best answer. 7. Why don't they order units on an as-needed basis? (A) They're more expensive. (B) The provider won't take individual orders. (C) Delivery time is too long. (D) Nobody takes the initiative to place the order. 8. What kind of provider could help them? (A) A less pushy provider. (B) A more aggressive provider. (C) One with better prices. (D) One with a web site. 9. What does the speaker like about the suggested company's products? (A) The durability. (B) The quality. (C) The price. (D) The size.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What is required for all new purchases?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A receipt."
+          },
+          {
+            "label": "B",
+            "text": "A charge card."
+          },
+          {
+            "label": "C",
+            "text": "Up-front payment."
+          },
+          {
+            "label": "D",
+            "text": "Approval."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What is the purpose of this requirement?",
+        "options": [
+          {
+            "label": "A",
+            "text": "To avoid delays."
+          },
+          {
+            "label": "B",
+            "text": "To help save money."
+          },
+          {
+            "label": "C",
+            "text": "To make purchasing a top priority."
+          },
+          {
+            "label": "D",
+            "text": "To reduce steps in the ordering process."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What is the woman's opinion of this requirement?",
+        "options": [
+          {
+            "label": "A",
+            "text": "It's annoying."
+          },
+          {
+            "label": "B",
+            "text": "It's enjoyable."
+          },
+          {
+            "label": "C",
+            "text": "It's a good idea."
+          },
+          {
+            "label": "D",
+            "text": "It's boring."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "Why don't they order units on an as-needed basis?",
+        "options": [
+          {
+            "label": "A",
+            "text": "They're more expensive."
+          },
+          {
+            "label": "B",
+            "text": "The provider won't take individual orders."
+          },
+          {
+            "label": "C",
+            "text": "Delivery time is too long."
+          },
+          {
+            "label": "D",
+            "text": "Nobody takes the initiative to place the order."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What kind of provider could help them?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A less pushy provider."
+          },
+          {
+            "label": "B",
+            "text": "A more aggressive provider."
+          },
+          {
+            "label": "C",
+            "text": "One with better prices."
+          },
+          {
+            "label": "D",
+            "text": "One with a web site."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What does the speaker like about the suggested company's products?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The durability."
+          },
+          {
+            "label": "B",
+            "text": "The quality."
+          },
+          {
+            "label": "C",
+            "text": "The price."
+          },
+          {
+            "label": "D",
+            "text": "The size."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "# Office Technology\n\nStudy the following definitions and examples.\n\n1. affordable adj., able to be paid for; not too expensive\n\na. The company's first priority was to find an affordable phone system.\n\nb. Obviously, the computer systems that are affordable for a Fortune 500 company will not be affordable for a small company.\n\n2. as needed adv., as necessary\n\na. The courier service did not come every day, only as needed.\n\nb. The service contract states that repairs will be made on an as-needed basis.\n\n3. be in charge of v., to be in control or command of a. He appointed someone to be in charge of maintaining a supply of paper in the fax machine.\n\nb. Your computer should not be in charge of you, rather you should be in charge of your computer.\n\n4. capacity n., the ability to contain or hold; the maximum that something can hold or do\n\na. The new conference room is much larger and has a capacity of one hundred people.\n\nb. The memory requirements of this software application exceed the capacity of our computers.\n\n5. durable adj., sturdy, strong, lasting\n\na. This printer is so durable that, with a little care, it will last another five years.\n\nb. These chairs are more durable than the first ones we looked at.\n\n6. initiative n., the first step; an active role a. Employees are encouraged to take the initiative and share their ideas with management.\n\nb. Our technology initiative involves an exciting new database system and will help us revolutionize our customer service.\n\n7. physically adv., with the senses; of the body\n\na. The computer screen is making her physically sick.\n\nb. Physically moving your screen from one place on the desk to another can help reduce same-position-strain syndrome.\n\n8. provider n., a supplier\n\na. The department was extremely pleased with the service they received from the phone provider.\n\nb. As your health service provider, we want to make sure you are happy and satisfied with the service you are receiving.\n\n9. recur v., to occur again or repeatedly a. The subject of decreasing sales recurs in each meeting, sometimes several times.\n\nb. The managers did not want that particular error to recur.\n\n10. reduction n., a lessening; a decrease a. The outlet store gave a 20 percent reduction in the price of the shelves and bookcases.\n\nb. The reduction in office staff has made it necessary to automate more job functions.\n\n11. stay on top of v., to know what is going on; to know the latest information a. In order to stay on top of her employees' progress, she arranged weekly breakfast meetings.\n\nb. In this industry, you must stay on top of current developments.\n\n12. stock v., to keep on hand; n., a supply\n\na. The employees stocked the shelves on a weekly basis.\n\nb. The office's stock of toner for the fax machine was quickly running out.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\naffordable durable physical reduce as needed is in charge of provider stays on top of capacity initiates recurring stock\n\nMany companies have one person or a department that (1) \\_\\_\\_\\_ running the office. If you have ever worked for a company that doesn't have an office manager, you very quickly learn to appreciate the importance of the job. Who is in charge of placing orders? Who services the fax machine or printer? Who makes sure that the office is presentable for customers? Are the new conference tables and shelves (2) \\_\\_\\_\\_ as well as (3) \\_\\_\\_\\_?\n\nIt is the office manager's responsibility to maintain an efficient and smooth-running office. He or she looks for ways to (4) \\_\\_\\_\\_ costs and minimize interruptions in the day-to-day operations. Whereas functional managers know the (5) \\_\\_\\_\\_ of their employees, the office manager knows the (6) \\_\\_\\_\\_ capacity of the office and the supplies and machines that are in the office.\n\nThe office manager (7) \\_\\_\\_\\_ the ordering of furniture and supplies, and (8) \\_\\_\\_\\_ changing office technology. Over time, he or she may notice (9) \\_\\_\\_\\_ problems that require changing a service (10) \\_\\_\\_\\_. Furniture and large items are ordered on an (11) \\_\\_\\_\\_ basis. Other frequently used materials, such as paper, folders, and mailing materials, are on an automatic ordering schedule and a (12) \\_\\_\\_\\_ of those supplies is on hand at the office.",
+    "word_families": "## WORD FAMILIES\n\n<table><tr><td>( )</td><td>affordable</td><td>Broad-band access to the Internet became more affordable at the beginning of the millennium.</td></tr><tr><td>verb</td><td>afford</td><td>Lucinda has taken so much leave this year that she can&#x27;t afford to miss another day&#x27;s work.</td></tr><tr><td>noun</td><td>affordability</td><td>We looked into the affordability of placing a scanner at each designer&#x27;s desk.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>1.b</td><td>initiate</td><td>The company will initiate its new products at the beginning of the year.</td></tr><tr><td>noun</td><td>initiative</td><td>The manager, knowing how concerned his employees were, took the initiative to provide training for them on the new equipment.</td></tr><tr><td>noun</td><td>initiation</td><td>As an initiation into the sales field, Mr. Jenkins was given the most problematic customer&#x27;s account.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>1.</td><td>physically</td><td>The vagrant had to be physically removed from the building.</td></tr><tr><td>2.</td><td>physical</td><td>The physical presence of a computer engineer is vastly superior to telephone tech support.</td></tr><tr><td>3.</td><td>physique</td><td>We need a model with a proportional physique.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>4.</td><td>provide</td><td>The company provides a five-year warranty on its products.</td></tr><tr><td>noun</td><td>provider</td><td>As your provider of network services, I promise to give you the best prices and service.</td></tr><tr><td>noun</td><td>provision</td><td>Our provisions of supplies should last to the end of the quarter.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>5.</td><td>recur</td><td>We don&#x27;t want that problem to recur every month.</td></tr><tr><td>6.</td><td>recurrence</td><td>Every recurrence of the same problem costs us money.</td></tr><tr><td>7.</td><td>recurring</td><td>Recurring problems waste time and money.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>8.</td><td>reduce</td><td>Buying in bulk can help to reduce costs.</td></tr><tr><td>9.</td><td>reduction</td><td>The introduction of the fax machine created a noticeable increase in phone bills.</td></tr><tr><td>live</td><td>reducible</td><td>Although our system is working at capacity, the amount of information being processed is not reducible.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best response.\n\n4. What is required for all new purchases?  \n(A) A receipt.  \n(B) A charge card.  \n(C) Up-front payment.  \n(D) Approval.\n\n5. What is the purpose of this requirement?\n(A) To avoid delays.\n(B) To help save money.\n(C) To make purchasing a top priority.\n(D) To reduce steps in the ordering process.\n\n6. What is the woman's opinion of this requirement?\n(A) It's annoying.\n(B) It's enjoyable.\n(C) It's a good idea.\n(D) It's boring.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. Why don't they order units on an as-needed basis?  \n(A) They're more expensive.  \n(B) The provider won't take individual orders.  \n(C) Delivery time is too long.  \n(D) Nobody takes the initiative to place the order.\n\n8. What kind of provider could help them?\n(A) A less pushy provider.\n(B) A more aggressive provider.\n(C) One with better prices.\n(D) One with a web site.\n\n9. What does the speaker like about the suggested company's products?\n(A) The durability.\n(B) The quality.\n(C) The price.\n(D) The size.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. \\_\\_\\_\\_ is still a major concern for inner-city schools that want to install computers.\n(A) Afford (C) Affordable\n(B) Affording (D) Affordability\n\n11. Hoping to repeat the success of the previous year's sales \\_\\_\\_\\_, the vice president held a meeting of all the managers.\n(A) initiated (C) initiative\n(B) initiating (D) initiation\n\n12. The athlete's extraordinary \\_\\_\\_\\_ distracted customers from the auto itself.\n(A) physique (C) physicality\n(C) physical (D) physically\n\n13. As promised in our last meeting, this contract \\_\\_\\_\\_ you with the best prices.\n(A) provide (C) provision\n(B) provides (D) provider\n\n14. When a problem \\_\\_\\_\\_ frequently, it is time to reexamine the process.\n(A) recur (C) recurring\n(B) recurrence (D) recurs\n\n15. The employee preferred to have a \\_\\_\\_\\_ in salary than to have to continue working with her outdated computer.\n(A) reducing (C) reduce\n(B) reduction (D) reduces\n\n## Part 6 Text Completion\n\n## Memo\n\nTo: Miriam Ketonen, Office Manager\n\nFrom: Jason Roberts, Assistant Office Manager\n\nRe: Photocopier\n\nThere have been recurring problems with the office photocopier, particularly with paper jams. I believe the problem is with the type of machine we have. A machine of this size simply does not have the capacity to handle the amount of copying we normally do. Obviously we can't \\_16\\_ the number of copies we make. I suggest that it's time to order a larger and \\_17\\_ machine. I have looked through the catalogs and discovered several that I think would suit our needs. I have selected the most \\_18\\_ ones, as I know we have a limited amount of money to spend. I have attached their descriptions. Since you are in charge of making large purchases like this, I will need your approval before I go ahead and place the order. Let me know which of the machines you think is best, and I will fill out the purchase order. Thanks.\n\n16. (A) reduce  \n(B) reducing  \n(C) reducible  \n(D) reduction\n\n17. (A) durable  \n(B) durables  \n(C) more durable  \n(D) most durable\n\n18. (A) costly  \n(B) physical  \n(C) attractive  \n(D) affordable",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following two letters.\n\n# Business Kitchens, Inc. April 19, 20—\n\nDear Mr. Conner,\n\nI am writing to follow up on our conversation of last Monday. You said you were looking for a new provider for kitchen supplies for your office, and that your particular need at this time was for a large-capacity coffeemaker. I have looked through the coffeemakers we have available, and believe I have found the best one to suit your needs. The primary advantage of the 300X Office Coffeemaker is that it reduces mess. The coffeemaker is filled with water daily. Then, to make a cup of coffee, the user simply inserts a premeasured package of coffee into the machine and presses the \"on\" button. The coffee is ready in one minute. There are no pots to clean or filters to change. The machine can make tea and other hot drinks as well. The 300X is also the most durable machine on the market.\n\nI am enclosing a description of the machine and price information. We can also deliver refills of coffee and tea to you on a weekly or monthly basis. In addition, we stock other kitchen appliances such as microwave ovens and office-sized refrigerators. Please let me know if you are interested in purchasing such items.\n\nSincerely,\nLaura Baker\nLaura Baker\nSales Manager\n\n19. What will Mr. Conner buy now?\n(A) Coffeemakers.\n(B) Ovens.\n(C) Microcomputers.\n(D) Refrigerators.\n\n20. What does he say that he likes about the product he has selected?\n(A) It reduces mess.\n(B) It is durable.\n(C) It has a good price.\n(D) It will be delivered regularly.\n\n21. How often will he order refills?\n(A) Once a day.\n(B) Once a week.\n(C) Every month.\n(D) When he needs them.\n\n## Johnson Research Affiliates April 26, 20—\n\nDear Ms. Baker,\n\nThank you for the information on the 300X Office Coffeemaker. I think it will meet our needs for large-capacity coffeemakers at an affordable price. Our office is large, so I would like to order two at this time. I don't think we will need the regular deliveries of coffee and tea. Our need for these varies so much from week to week that it is better to order them on an as-needed basis. My assistant is good at staying on top of these things, so we don't have to worry about running out. Currently we don't have a need for ovens or refrigerators although we may in the near future. I will keep you informed. Meanwhile, we will send you a purchase order for the coffeemakers. Thank you for your help.\n\nSincerely,\n\nMatthew Conner\n\nMatthew Conner\n\nOffice Manager\n\n22. The word provider in line 2 of the first letter, is closest in meaning to  \n(A) consumer  \n(B) supplier  \n(C) maker  \n(D) designer\n\n23. The word stock in line 19 of the first letter, is closest in meaning to  \n(A) have  \n(B) repair  \n(C) buy  \n(D) use"
+  },
+  "needs_review": true
+}

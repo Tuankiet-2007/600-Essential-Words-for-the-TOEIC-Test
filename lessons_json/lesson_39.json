@@ -1,0 +1,1573 @@
+{
+  "lesson_id": 39,
+  "title": "Hotels",
+  "theme_name": "Travel",
+  "audio_track": "track_39.mp3",
+  "part1_photo": "part1_photos/lesson_39.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "advanced",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "highly developed; at a higher level",
+      "definition_vi": "tiên tiến, hiện đại; nâng cao, đi trước",
+      "examples": [
+        {
+          "en": "Since the hotel installed an advanced computer system, all operations have been functioning more smoothly.",
+          "vi": "Khách sạn sử dụng hệ thống an ninh tiên tiến với thẻ khóa kỹ thuật số cho tất cả các phòng."
+        },
+        {
+          "en": "Pablo has been promoted to assistant manager and he is happy with his advanced position.",
+          "vi": "Đại lý du lịch cung cấp tính năng tìm kiếm nâng cao cho phép người dùng lọc theo tiện nghi cụ thể."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "advance",
+          "example": "We are advancing steadily toward our goal of improving customer service at every hotel in the chain."
+        },
+        {
+          "pos": "",
+          "word": "advance",
+          "example": "Clarissa booked the bridal suite in advance of the hotel's official opening."
+        },
+        {
+          "pos": "",
+          "word": "advanced",
+          "example": "All hotel employees who do well at their jobs will be given the opportunity to move up to an advanced position."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "advanced technology",
+        "advanced booking",
+        "advanced features",
+        "in advance"
+      ],
+      "usage": {
+        "structures": [
+          "advanced in something (tiên tiến trong lĩnh vực gì)",
+          "advanced level (trình độ nâng cao)"
+        ],
+        "prepositions": [
+          "in"
+        ],
+        "collocations": [
+          "advanced reservation",
+          "advanced system",
+          "highly advanced",
+          "advanced degree"
+        ],
+        "tip": "'Advanced' là tính từ (tiên tiến, cấp cao). Cần phân biệt với cụm trạng từ 'in advance' (trước: book tickets in advance)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "advance",
+          "example": "You can advance your boarding time by paying a small priority upgrade fee.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "advancement",
+          "example": "Technological advancements have made hotel check-in completely paperless.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The airport recently installed an _____ baggage handling system to reduce the risk of lost luggage.",
+        "answer": "advanced",
+        "base_word": "advanced",
+        "pos_hint": "tính từ",
+        "vi": "Sân bay gần đây đã lắp đặt một hệ thống xử lý hành lý tiên tiến để giảm nguy cơ thất lạc hành lý."
+      }
+    },
+    {
+      "id": 2,
+      "word": "chain",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a group of enterprises under a single control",
+      "definition_vi": "chuỗi (khách sạn, cửa hàng); dây xích",
+      "examples": [
+        {
+          "en": "Budget-priced hotel chains have made a huge impact in the industry.",
+          "vi": "Khách sạn Marriott là một trong những chuỗi khách sạn lớn nhất thế giới."
+        },
+        {
+          "en": "The hotel being built in Seoul is the newest one in the chain.",
+          "vi": "Chuỗi nhà hàng thức ăn nhanh này có hơn hai nghìn chi nhánh trải khắp toàn cầu."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "hotel chain",
+        "retail chain",
+        "chain store",
+        "restaurant chain"
+      ],
+      "usage": {
+        "structures": [
+          "chain of hotels/stores (chuỗi khách sạn/cửa hàng)",
+          "part of a chain (một phần của một chuỗi)"
+        ],
+        "prepositions": [
+          "of"
+        ],
+        "collocations": [
+          "supermarket chain",
+          "major chain",
+          "international chain",
+          "chain of events"
+        ],
+        "tip": "Cụm 'hotel chain' (chuỗi khách sạn) hay xuất hiện trong các bài đọc giới thiệu về tập đoàn khách sạn hoặc chương trình thẻ thành viên tích điểm."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "chain",
+          "example": "Bicycles must be chained to the designated bike racks outside the lobby.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Staying at a well-known hotel _____ guarantees consistent quality and familiar amenities.",
+        "answer": "chain",
+        "base_word": "chain",
+        "pos_hint": "danh từ",
+        "vi": "Lưu trú tại một chuỗi khách sạn nổi tiếng đảm bảo chất lượng đồng đều và các tiện nghi quen thuộc."
+      }
+    },
+    {
+      "id": 3,
+      "word": "check in",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to register at a hotel; to report one's presence",
+      "definition_vi": "làm thủ tục nhận phòng / lên máy bay",
+      "examples": [
+        {
+          "en": "Patrons check in at the hotel immediately upon their arrival.",
+          "vi": "Hành khách phải làm thủ tục lên máy bay ít nhất hai giờ trước khi chuyến bay quốc tế khởi hành."
+        },
+        {
+          "en": "To know that the conference guests have arrived, we ask them to check in at the registration desk.",
+          "vi": "Chúng tôi đến khách sạn lúc trưa nhưng không thể nhận phòng cho đến hai giờ chiều."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "check in online",
+        "check in at the desk",
+        "check-in counter",
+        "check-in time"
+      ],
+      "usage": {
+        "structures": [
+          "check in at somewhere (làm thủ tục ở đâu)",
+          "check in for a flight (làm thủ tục cho chuyến bay)"
+        ],
+        "prepositions": [
+          "at",
+          "for"
+        ],
+        "collocations": [
+          "check-in desk",
+          "early check-in",
+          "self check-in",
+          "check in baggage"
+        ],
+        "tip": "Động từ là 'check in' (viết tách), còn danh từ là 'check-in' (có gạch nối: 'check-in desk', 'online check-in'). Trái nghĩa là 'check out'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "check-in",
+          "example": "Online check-in opens twenty-four hours before scheduled flight departure.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Guests must present a government-issued photo ID when they _____ in at the front desk.",
+        "answer": "check",
+        "base_word": "check in",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Khách hàng phải xuất trình giấy tờ tùy thân có ảnh do chính phủ cấp khi làm thủ tục nhận phòng tại quầy lễ tân."
+      }
+    },
+    {
+      "id": 4,
+      "word": "confirm",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to validate",
+      "definition_vi": "xác nhận, khẳng định lại",
+      "examples": [
+        {
+          "en": "Jorge called the hotel to confirm that he had a room reservation.",
+          "vi": "Xin vui lòng gọi điện đến khách sạn để xác nhận việc đặt phòng của bạn trước ngày đến."
+        },
+        {
+          "en": "We automatically send a postcard to let you know that your travel dates have been confirmed.",
+          "vi": "Hãng hàng không đã gửi một email để xác nhận rằng vé máy bay của chúng tôi đã được thanh toán thành công."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "confirm",
+          "example": "It is wise to confirm your reservation before you leave for your trip."
+        },
+        {
+          "pos": "noun",
+          "word": "confirmation",
+          "example": "The confirmation code given to Suzanne when she booked her room made it easy for her to resolve her problem."
+        },
+        {
+          "pos": "",
+          "word": "confirmed",
+          "example": "The concierge had the confirmed helpful manner that is necessary in her position."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "confirm a reservation",
+        "confirm a booking",
+        "confirm flight details",
+        "confirm attendance"
+      ],
+      "usage": {
+        "structures": [
+          "confirm that + clause (xác nhận rằng...)",
+          "confirm a reservation/order (xác nhận việc đặt chỗ/đơn hàng)"
+        ],
+        "prepositions": [
+          "with",
+          "by"
+        ],
+        "collocations": [
+          "written confirmation",
+          "confirm immediately",
+          "confirm receipt of",
+          "call to confirm"
+        ],
+        "tip": "'Confirm a reservation' (xác nhận đặt chỗ) là cụm từ xuất hiện dày đặc trong cả bài nghe Part 3 và bài đọc Part 7."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "confirmation",
+          "example": "You will receive a confirmation number by email once payment is completed.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "confirmed",
+          "example": "We have a confirmed reservation for a double room with an ocean view.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The receptionist sent a formal booking _____ including the reservation number and check-in date.",
+        "answer": "confirmation",
+        "base_word": "confirm",
+        "pos_hint": "danh từ",
+        "vi": "Nhân viên lễ tân đã gửi giấy xác nhận đặt phòng chính thức bao gồm mã đặt chỗ và ngày nhận phòng."
+      }
+    },
+    {
+      "id": 5,
+      "word": "expect",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to consider probable or reasonable",
+      "definition_vi": "trông đợi, kỳ vọng, dự đoán",
+      "examples": [
+        {
+          "en": "You can expect a clean room when you check in at a hotel.",
+          "vi": "Chúng tôi dự đoán khách sạn sẽ kín phòng vào cuối tuần nghỉ lễ."
+        },
+        {
+          "en": "Mr. Kim expected that the bed linens would be changed daily.",
+          "vi": "Khách hàng có quyền kỳ vọng dịch vụ xuất sắc khi lưu trú tại một khu nghỉ dưỡng năm sao."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "expect",
+          "example": "We expect to reach our destination by dinner."
+        },
+        {
+          "pos": "noun",
+          "word": "expectation",
+          "example": "The guest's expectations were not met, so he complained to the manager."
+        },
+        {
+          "pos": "",
+          "word": "expectant",
+          "example": "The expectant travelers, loaded with luggage, left the hotel for their scheduled flight."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "expect high demand",
+        "be expected to",
+        "as expected",
+        "expect delivery"
+      ],
+      "usage": {
+        "structures": [
+          "expect somebody to do something (kỳ vọng ai làm gì)",
+          "be expected to do something (được dự đoán sẽ làm gì)"
+        ],
+        "prepositions": [
+          "from",
+          "of"
+        ],
+        "collocations": [
+          "exceed expectations",
+          "meet expectations",
+          "widely expected",
+          "reasonable to expect"
+        ],
+        "tip": "Cấu trúc bị động 'be expected to + V' nghĩa là 'được dự kiến/dự đoán sẽ làm gì' ('The flight is expected to land on time')."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "expectation",
+          "example": "The boutique resort exceeded all our expectations with its personalized service.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "expectant",
+          "example": "An expectant crowd gathered in the hotel lobby hoping to see the visiting celebrity.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The luxury resort strives to exceed customer _____ by offering complimentary spa vouchers.",
+        "answer": "expectations",
+        "base_word": "expect",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Khu nghỉ dưỡng cao cấp luôn nỗ lực vượt quá sự kỳ vọng của khách hàng bằng cách tặng phiếu dịch vụ spa miễn phí."
+      }
+    },
+    {
+      "id": 6,
+      "word": "housekeeper",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "someone employed to do domestic work",
+      "definition_vi": "nhân viên dọn phòng, người quản gia",
+      "examples": [
+        {
+          "en": "Eloise's first job at the hotel was as a housekeeper and now she is the manager.",
+          "vi": "Nhân viên dọn phòng đã dọn dẹp phòng của chúng tôi và thay khăn tắm mới vào mỗi buổi sáng."
+        },
+        {
+          "en": "The desk clerk is sending the housekeeper to bring more towels to your room.",
+          "vi": "Nếu bạn cần thêm dầu gội hoặc xà phòng, bạn có thể gọi cho bộ phận quản gia."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "head housekeeper",
+        "hotel housekeeper",
+        "housekeeping department",
+        "call housekeeping"
+      ],
+      "usage": {
+        "structures": [
+          "housekeeper on duty (nhân viên dọn phòng đang làm việc)",
+          "call the housekeeper (gọi nhân viên dọn phòng)"
+        ],
+        "prepositions": [
+          "for"
+        ],
+        "collocations": [
+          "housekeeping staff",
+          "housekeeping service",
+          "chief housekeeper",
+          "contact housekeeping"
+        ],
+        "tip": "'Housekeeper' là người làm công việc dọn dẹp, còn 'housekeeping' là bộ phận quản gia/dọn phòng trong khách sạn."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "housekeeping",
+          "example": "Please dial zero to contact the housekeeping department for extra pillows.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The hotel _____ cleaned the guest suite thoroughly before the new guests arrived.",
+        "answer": "housekeeper",
+        "base_word": "housekeeper",
+        "pos_hint": "danh từ",
+        "vi": "Nhân viên dọn phòng khách sạn đã dọn dẹp căn phòng suite của khách một cách kỹ lưỡng trước khi những vị khách mới đến."
+      }
+    },
+    {
+      "id": 7,
+      "word": "notify",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to report",
+      "definition_vi": "thông báo, báo tin cho ai biết",
+      "examples": [
+        {
+          "en": "They notified the hotel that they had been delayed in traffic and would be arriving late.",
+          "vi": "Khách sạn sẽ thông báo cho bạn ngay khi phòng của bạn sẵn sàng để nhận."
+        },
+        {
+          "en": "Lydia notified the hotel in writing that she was canceling her reservation.",
+          "vi": "Hành khách phải thông báo cho hãng hàng không trước nếu họ cần hỗ trợ xe lăn đặc biệt."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "notify",
+          "example": "Please notify the front desk clerk if there are any problems with your room."
+        },
+        {
+          "pos": "noun",
+          "word": "notification",
+          "example": "Written notification is required for any changes in reservations."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "notify somebody of something",
+        "notify immediately",
+        "formally notify",
+        "notify in advance"
+      ],
+      "usage": {
+        "structures": [
+          "notify somebody of/about something (thông báo cho ai về cái gì)",
+          "notify somebody that + clause (báo cho ai biết rằng)"
+        ],
+        "prepositions": [
+          "of",
+          "about"
+        ],
+        "collocations": [
+          "notify passengers",
+          "notify the authorities",
+          "promptly notify",
+          "notify in writing"
+        ],
+        "tip": "Cấu trúc bắt buộc: 'notify SOMEONE of/that' (phải có tân ngữ chỉ người đi ngay sau 'notify', không nói 'notify that' trực tiếp)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "notification",
+          "example": "You will receive an automatic SMS notification when your flight gate is assigned.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "notifiable",
+          "example": "Any safety hazard on the aircraft is a strictly notifiable incident.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Please _____ the front desk staff at least twenty-four hours before you plan to check out.",
+        "answer": "notify",
+        "base_word": "notify",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Vui lòng thông báo cho nhân viên lễ tân ít nhất hai mươi tư giờ trước khi bạn dự định trả phòng."
+      }
+    },
+    {
+      "id": 8,
+      "word": "preclude",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to make impossible; to rule out",
+      "definition_vi": "ngăn ngừa, loại trừ, cản trở việc gì xảy ra",
+      "examples": [
+        {
+          "en": "The horrible rainstorm precluded us from traveling any further.",
+          "vi": "Cơn bão tuyết lớn đã cản trở tất cả các chuyến bay cất cánh từ sân bay vào chiều nay."
+        },
+        {
+          "en": "The unexpected cost of the room precluded a gourmet dinner for the travelers.",
+          "vi": "Quy định nghiêm ngặt của khách sạn ngăn cản khách hàng mang theo vật nuôi vào phòng nghỉ."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "preclude somebody from doing something",
+        "preclude the possibility",
+        "conditions preclude",
+        "preclude any delay"
+      ],
+      "usage": {
+        "structures": [
+          "preclude something (loại trừ/ngăn cản cái gì)",
+          "preclude somebody from V-ing (ngăn cản ai làm gì)"
+        ],
+        "prepositions": [
+          "from"
+        ],
+        "collocations": [
+          "preclude an agreement",
+          "preclude further action",
+          "completely preclude",
+          "preclude travel"
+        ],
+        "tip": "Cấu trúc: 'preclude someone from doing something' (ngăn cản ai làm gì). Đây là từ vựng nâng cao rất hay dùng trong văn bản hợp đồng hoặc quy định."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "preclusion",
+          "example": "The strict cancellation terms led to the preclusion of any full refund.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Severe mechanical problems _____ the cruise ship from leaving the harbor on schedule.",
+        "answer": "precluded",
+        "base_word": "preclude",
+        "pos_hint": "động từ (quá khứ)",
+        "vi": "Các sự cố kỹ thuật nghiêm trọng đã ngăn cản con tàu du lịch rời cảng đúng lịch trình."
+      }
+    },
+    {
+      "id": 9,
+      "word": "quote",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to give exact information on; n., a quotation",
+      "definition_vi": "báo giá; trích dẫn; bảng báo giá",
+      "examples": [
+        {
+          "en": "We were quoted a price of $89 for the room for one night.",
+          "vi": "Đại lý du lịch đã báo giá hai trăm đô la cho chuyến bay khứ hồi."
+        },
+        {
+          "en": "Call ahead and get a price quote for a week-long stay.",
+          "vi": "Chúng tôi đã yêu cầu bảng báo giá từ ba khách sạn khác nhau trước khi đặt hội trường cho hội nghị."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "quote",
+          "example": "When customers ask for the room rate, just quote them the prices listed on this sheet."
+        },
+        {
+          "pos": "",
+          "word": "quotation",
+          "example": "The quotation given to me didn't make sense, so I called again to verify it."
+        },
+        {
+          "pos": "",
+          "word": "quotable",
+          "example": "Our manager instructed us that the current room rates would be quotable only until the end of the month, when a rate increase would go into effect."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "quote a price",
+        "get a quote",
+        "written quote",
+        "quote an estimate"
+      ],
+      "usage": {
+        "structures": [
+          "quote somebody a price for something (báo giá cho ai về cái gì)",
+          "request a quote (yêu cầu báo giá)"
+        ],
+        "prepositions": [
+          "for",
+          "to"
+        ],
+        "collocations": [
+          "free quote",
+          "competitive quote",
+          "quote rate",
+          "quote accurately"
+        ],
+        "tip": "Vừa là động từ (báo giá) vừa là danh từ (bảng báo giá: 'Can you provide a price quote?'). Danh từ tương đương là 'quotation'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "quotation",
+          "example": "The travel manager requested a formal quotation for twenty round-trip airline tickets.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "quotable",
+          "example": "The guest speaker delivered several quotable remarks during the opening seminar.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The travel agent _____ us an all-inclusive rate that included both flights and hotel accommodations.",
+        "answer": "quoted",
+        "base_word": "quote",
+        "pos_hint": "động từ (quá khứ)",
+        "vi": "Đại lý du lịch đã báo cho chúng tôi một mức giá trọn gói bao gồm cả chuyến bay và chỗ ở khách sạn."
+      }
+    },
+    {
+      "id": 10,
+      "word": "rate",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the payment or price according to a standard",
+      "definition_vi": "mức giá, tỷ lệ; đánh giá",
+      "examples": [
+        {
+          "en": "The rate for the hotel room is too high considering how few services are available on-site.",
+          "vi": "Giá phòng khách sạn là quá cao nếu xét đến việc có quá ít dịch vụ tại chỗ."
+        },
+        {
+          "en": "The sign in the lobby lists the seasonal rates.",
+          "vi": "Tấm biển trong sảnh liệt kê các mức giá theo mùa cho từng loại phòng."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "room rate",
+        "interest rate",
+        "exchange rate",
+        "discount rate"
+      ],
+      "usage": {
+        "structures": [
+          "rate for something (mức giá cho cái gì)",
+          "at a rate of (với mức giá/tỷ lệ là)"
+        ],
+        "prepositions": [
+          "for",
+          "at",
+          "of"
+        ],
+        "collocations": [
+          "nightly rate",
+          "group rate",
+          "affordable rate",
+          "rate of occupancy"
+        ],
+        "tip": "Trong ngành khách sạn du lịch, 'room rate' là giá phòng, 'group rate' là giá ưu đãi dành cho khách đoàn."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "rating",
+          "example": "The boutique hotel received a five-star rating on several travel review websites.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The hotel offers a discounted corporate _____ for business travelers visiting the local industrial park.",
+        "answer": "rate",
+        "base_word": "rate",
+        "pos_hint": "danh từ",
+        "vi": "Khách sạn cung cấp mức giá ưu đãi dành cho doanh nghiệp cho những người đi công tác đến thăm khu công nghiệp địa phương."
+      }
+    },
+    {
+      "id": 11,
+      "word": "reservation",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an arrangement to set something aside",
+      "definition_vi": "sự đặt chỗ trước, sự bảo lưu",
+      "examples": [
+        {
+          "en": "I know I made a reservation for tonight, but the hotel staff has no record of it in the system.",
+          "vi": "Tôi biết tôi đã đặt chỗ cho tối nay, nhưng nhân viên khách sạn không tìm thấy hồ sơ nào trong hệ thống."
+        },
+        {
+          "en": "It is difficult, if not impossible, to get reservations at this hotel at the height of the summer season.",
+          "vi": "Rất khó, nếu không muốn nói là không thể, để đặt chỗ tại khách sạn này vào cao điểm của mùa hè."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "reserve",
+          "example": "We reserved a room well in advance."
+        },
+        {
+          "pos": "noun",
+          "word": "reservation",
+          "example": "Seeing the crowds on the highway, I decided to pull over and telephone the hotel to make a reservation."
+        },
+        {
+          "pos": "noun",
+          "word": "in reserve",
+          "example": "Like many other businesses, a hotel must keep some cash in reserve to pay for emergencies."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "make a reservation",
+        "confirm a reservation",
+        "cancel a reservation",
+        "have a reservation"
+      ],
+      "usage": {
+        "structures": [
+          "make a reservation for a table/room/flight (đặt chỗ cho bàn/phòng/chuyến bay)",
+          "under the name of (dưới tên của ai)"
+        ],
+        "prepositions": [
+          "for",
+          "under"
+        ],
+        "collocations": [
+          "hotel reservation",
+          "dinner reservation",
+          "flight reservation",
+          "without reservation"
+        ],
+        "tip": "Cụm kinh điển: 'make a reservation' (đặt chỗ trước). Động từ tương ứng là 'reserve'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "reserve",
+          "example": "It is strongly recommended to reserve your hotel room at least a month ahead.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "reserved",
+          "example": "The front row seats in the shuttle bus are reserved for elderly passengers.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Because tourist demand was high, we made our flight _____ three months in advance.",
+        "answer": "reservations",
+        "base_word": "reservation",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Vì nhu cầu du lịch cao, chúng tôi đã đặt chỗ cho chuyến bay trước ba tháng."
+      }
+    },
+    {
+      "id": 12,
+      "word": "service",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "useful functions",
+      "definition_vi": "dịch vụ, sự phục vụ",
+      "examples": [
+        {
+          "en": "The hotel has a number of luxury services like the on-site gym, sauna, pool, and beauty salon.",
+          "vi": "Khách sạn có nhiều dịch vụ sang trọng như phòng tập thể dục, phòng tắm hơi, hồ bơi và thẩm mỹ viện tại chỗ."
+        },
+        {
+          "en": "Mr. Rockmont called room service to order a late-night snack.",
+          "vi": "Ông Rockmont đã gọi dịch vụ phòng để gọi đồ ăn nhẹ vào đêm khuya."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "room service",
+        "customer service",
+        "shuttle service",
+        "valet service"
+      ],
+      "usage": {
+        "structures": [
+          "at one's service (sẵn sàng phục vụ ai)",
+          "service provided by (dịch vụ được cung cấp bởi)"
+        ],
+        "prepositions": [
+          "at",
+          "by",
+          "for"
+        ],
+        "collocations": [
+          "excellent service",
+          "quality service",
+          "service charge",
+          "in service"
+        ],
+        "tip": "'Room service' là dịch vụ phục vụ đồ ăn tận phòng khách sạn. 'Customer service' là chăm sóc khách hàng."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "serve",
+          "example": "Breakfast is served in the main dining hall from 6:30 AM to 10:00 AM.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "serviceable",
+          "example": "The spare airport shuttle bus is still fully serviceable.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The resort is famous for its exceptional customer _____ and attentiveness to detail.",
+        "answer": "service",
+        "base_word": "service",
+        "pos_hint": "danh từ",
+        "vi": "Khu nghỉ dưỡng nổi tiếng với dịch vụ chăm sóc khách hàng xuất sắc và sự chu đáo đến từng chi tiết."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "People stay in hotels for business and personal travel. But with room rates being so high, many travelers are staying home. Since high costs can (1) ____ travel, smart travelers know they can save money and get the best (2) ____ for a room by making (3) ____ well in (4) ____ of the beginning of their trip. When you make a reservation, the hotel staff will ask you to (5) ____ them as soon as there is any change in your travel plans. To avoid any surprises, it's a good idea to call and (6) ____ the availability of your room and the rate you were (7) ____. In selecting a hotel, first think about the kinds of (8) ____ you will need or like to have. You naturally (9) ____ a clean, well-lit room. You naturally expect that a (10) ____ will clean your room daily even in the smallest hotels. Large hotel (11) ____ offer the most services, such as a pool, health club, or money exchange. The front desk clerks will tell you about such services when you (12) ____ at the hotel.",
+    "word_bank": [
+      "advance",
+      "confirm",
+      "notify",
+      "rates",
+      "chains",
+      "expect",
+      "preclude",
+      "reservations",
+      "check in",
+      "housekeeper",
+      "quoted",
+      "service"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "advance",
+        "example": "We are advancing steadily toward our goal of improving customer service at every hotel in the chain.",
+        "pos": ""
+      },
+      {
+        "word": "advance",
+        "example": "Clarissa booked the bridal suite in advance of the hotel's official opening.",
+        "pos": ""
+      },
+      {
+        "word": "advanced",
+        "example": "All hotel employees who do well at their jobs will be given the opportunity to move up to an advanced position.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "confirm",
+        "example": "It is wise to confirm your reservation before you leave for your trip.",
+        "pos": "verb"
+      },
+      {
+        "word": "confirmation",
+        "example": "The confirmation code given to Suzanne when she booked her room made it easy for her to resolve her problem.",
+        "pos": "noun"
+      },
+      {
+        "word": "confirmed",
+        "example": "The concierge had the confirmed helpful manner that is necessary in her position.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "expect",
+        "example": "We expect to reach our destination by dinner.",
+        "pos": "verb"
+      },
+      {
+        "word": "expectation",
+        "example": "The guest's expectations were not met, so he complained to the manager.",
+        "pos": "noun"
+      },
+      {
+        "word": "expectant",
+        "example": "The expectant travelers, loaded with luggage, left the hotel for their scheduled flight.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "notify",
+        "example": "Please notify the front desk clerk if there are any problems with your room.",
+        "pos": "verb"
+      },
+      {
+        "word": "notification",
+        "example": "Written notification is required for any changes in reservations.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "quote",
+        "example": "When customers ask for the room rate, just quote them the prices listed on this sheet.",
+        "pos": "verb"
+      },
+      {
+        "word": "quotation",
+        "example": "The quotation given to me didn't make sense, so I called again to verify it.",
+        "pos": ""
+      },
+      {
+        "word": "quotable",
+        "example": "Our manager instructed us that the current room rates would be quotable only until the end of the month, when a rate increase would go into effect.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "reserve",
+        "example": "We reserved a room well in advance.",
+        "pos": "verb"
+      },
+      {
+        "word": "reservation",
+        "example": "Seeing the crowds on the highway, I decided to pull over and telephone the hotel to make a reservation.",
+        "pos": "noun"
+      },
+      {
+        "word": "in reserve",
+        "example": "Like many other businesses, a hotel must keep some cash in reserve to pay for emergencies.",
+        "pos": "noun"
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "We paid a lot of money for this room and we expect an ____ level of service.",
+        "options": [
+          {
+            "label": "A",
+            "text": "advance"
+          },
+          {
+            "label": "B",
+            "text": "advances"
+          },
+          {
+            "label": "C",
+            "text": "advanced"
+          },
+          {
+            "label": "D",
+            "text": "advancing"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "Gladys ____ her reservation by calling in advance.",
+        "options": [
+          {
+            "label": "A",
+            "text": "confirmation"
+          },
+          {
+            "label": "B",
+            "text": "confirmed"
+          },
+          {
+            "label": "C",
+            "text": "confirming"
+          },
+          {
+            "label": "D",
+            "text": "confirmative"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "The Chamber of Commerce had high ____ for the amount of business the new hotel would bring to the town.",
+        "options": [
+          {
+            "label": "A",
+            "text": "expectancy"
+          },
+          {
+            "label": "B",
+            "text": "expected"
+          },
+          {
+            "label": "C",
+            "text": "expect"
+          },
+          {
+            "label": "D",
+            "text": "expectations"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "The hotel received the ____ of our early arrival and had everything ready for us.",
+        "options": [
+          {
+            "label": "A",
+            "text": "notified"
+          },
+          {
+            "label": "B",
+            "text": "notifies"
+          },
+          {
+            "label": "C",
+            "text": "notification"
+          },
+          {
+            "label": "D",
+            "text": "notify"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "I expect the rate that I was ____ over the phone and I will not accept any changes.",
+        "options": [
+          {
+            "label": "A",
+            "text": "quoted"
+          },
+          {
+            "label": "B",
+            "text": "quotation"
+          },
+          {
+            "label": "C",
+            "text": "quotable"
+          },
+          {
+            "label": "D",
+            "text": "quotes"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "Since we had made our ____ so far in advance, we saved considerably on the room rate.",
+        "options": [
+          {
+            "label": "A",
+            "text": "reserve"
+          },
+          {
+            "label": "B",
+            "text": "reservation"
+          },
+          {
+            "label": "C",
+            "text": "reserved"
+          },
+          {
+            "label": "D",
+            "text": "reservable"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Welcome to the Springflower Radford Hotel. We are part of the Radford Hotel Group, one of the top hotel chains in the world. Your comfort is important to us. When you check [16], please let us know if you will need any special services during your stay. A [17] will clean your room daily and supply you with fresh linens. Please notify her if you need any extra supplies for your room. The exercise room and pool are available for the use of all guests. Exercise classes are offered daily. Registration is required in [18]. Please see the front desk clerk for more information. You can book city tours through us. See the front desk clerk for a price quote. If you have already made a reservation for a city tour, we can confirm it for you. Thank you for choosing a Radford Hotel. Have a pleasant stay.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "in"
+            },
+            {
+              "label": "B",
+              "text": "out"
+            },
+            {
+              "label": "C",
+              "text": "up"
+            },
+            {
+              "label": "D",
+              "text": "for"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "manager"
+            },
+            {
+              "label": "B",
+              "text": "server"
+            },
+            {
+              "label": "C",
+              "text": "housekeeper"
+            },
+            {
+              "label": "D",
+              "text": "janitor"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "advancement"
+            },
+            {
+              "label": "B",
+              "text": "advanced"
+            },
+            {
+              "label": "C",
+              "text": "advancer"
+            },
+            {
+              "label": "D",
+              "text": "advance"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following two letters. June 10, 20— Gisela Fried Springflower Radford Hotel 2857 King Street Hartsdale, WI Dear Ms. Fried, I am writing to let you know of the excellent service I received from your staff during my recent stay at the Springflower Radford Hotel. Although I had made an advance reservation for my stay, I had forgotten to confirm it. Thus, when I checked in at the hotel, there were no rooms available of the type I had wanted. Your kind and professional staff immediately found another, more luxurious, room for me. Although it was more expensive than the room I had reserved, they charged me the rate I had originally been quoted. The excellent service continued throughout my stay and, indeed, exceeded my expectations. For example, the housekeeper cheerfully arrived to clean my room at 10:00 one evening after I had had problems with the bathtub overflowing. The staff at the front desk were always ready to answer my questions and were very helpful in assisting me to find my way around the city. All in all, my stay at the hotel was a very pleasant experience. I will certainly recommend this hotel to any of my friends who plan a visit to Hartsdale in the future. Sincerely, Andrew Wyatt Andrew Wyatt 23 North Cuttersville Road Creek Lake, MI Dear Mr. Wyatt, Thank you very much for your letter of June 10 notifying me of the fine service you received during your stay at the Springflower Radford Hotel. I am pleased to know that you had such a good experience as our guest. We at the Radford Hotel chain pride ourselves on the high quality of our service. As the hotel manager, I sometimes hear complaints about my staff, but it is just as important for me to hear about the fine work that they do. I am enclosing a coupon for the hotel restaurant so that the next time you stay with us, you can enjoy a meal free of charge at the Springflower Restaurant. Sincerely, Gisela Fried 23. The word notifying in the second letter, first paragraph, line 2 is closest in meaning to (A) advertising (B) complaining (C) informing (D) scolding",
+        "questions": [
+          {
+            "number": 19,
+            "question": "Why did Mr. Wyatt write the letter?",
+            "options": [
+              {
+                "label": "A",
+                "text": "To complain about the hotel."
+              },
+              {
+                "label": "B",
+                "text": "To ask for a rate quote."
+              },
+              {
+                "label": "C",
+                "text": "To reserve a room."
+              },
+              {
+                "label": "D",
+                "text": "To praise the hotel staff."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "Who is Ms. Fried?",
+            "options": [
+              {
+                "label": "A",
+                "text": "A hotel guest."
+              },
+              {
+                "label": "B",
+                "text": "The hotel manager."
+              },
+              {
+                "label": "C",
+                "text": "A housekeeper."
+              },
+              {
+                "label": "D",
+                "text": "The front desk clerk."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "What does Ms. Fried offer Mr. Wyatt?",
+            "options": [
+              {
+                "label": "A",
+                "text": "A free meal."
+              },
+              {
+                "label": "B",
+                "text": "A less expensive room."
+              },
+              {
+                "label": "C",
+                "text": "A recommendation."
+              },
+              {
+                "label": "D",
+                "text": "A job."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word rate in the first letter, first paragraph, line 9 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "time"
+              },
+              {
+                "label": "B",
+                "text": "place"
+              },
+              {
+                "label": "C",
+                "text": "price"
+              },
+              {
+                "label": "D",
+                "text": "speed"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "When must a customer notify the hotel?",
+        "options": [
+          {
+            "label": "A",
+            "text": "When he wants to leave a deposit."
+          },
+          {
+            "label": "B",
+            "text": "When he will check in early."
+          },
+          {
+            "label": "C",
+            "text": "When he expects to return to the hotel."
+          },
+          {
+            "label": "D",
+            "text": "When he wants to cancel a reservation."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How much in advance should the customer notify the hotel?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Two to four hours."
+          },
+          {
+            "label": "B",
+            "text": "Four hours."
+          },
+          {
+            "label": "C",
+            "text": "Twenty-four hours."
+          },
+          {
+            "label": "D",
+            "text": "Forty-four hours."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the man tell the woman to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Telephone the customer."
+          },
+          {
+            "label": "B",
+            "text": "Send the customer a bill."
+          },
+          {
+            "label": "C",
+            "text": "Charge the customer extra."
+          },
+          {
+            "label": "D",
+            "text": "Get the customer's credit card number."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "Who is the speaker addressing?",
+        "options": [
+          {
+            "label": "A",
+            "text": "New hotel employees."
+          },
+          {
+            "label": "B",
+            "text": "Regular hotel customers."
+          },
+          {
+            "label": "C",
+            "text": "Experienced hotel managers."
+          },
+          {
+            "label": "D",
+            "text": "Hotel chain owners."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What is the goal of the hotel chain?",
+        "options": [
+          {
+            "label": "A",
+            "text": "To get more customers."
+          },
+          {
+            "label": "B",
+            "text": "To provide the best service."
+          },
+          {
+            "label": "C",
+            "text": "To charge higher rates."
+          },
+          {
+            "label": "D",
+            "text": "To hire more employees."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "Where will the speaker take the listeners?",
+        "options": [
+          {
+            "label": "A",
+            "text": "To the front door."
+          },
+          {
+            "label": "B",
+            "text": "To the service entrance."
+          },
+          {
+            "label": "C",
+            "text": "To the tour office."
+          },
+          {
+            "label": "D",
+            "text": "To the dining room."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. When must a customer notify the hotel? (A) When he wants to leave a deposit. (B) When he will check in early. (C) When he expects to return to the hotel. (D) When he wants to cancel a reservation. 5. How much in advance should the customer notify the hotel? (A) Two to four hours. (B) Four hours. (C) Twenty-four hours. (D) Forty-four hours. 6. What does the man tell the woman to do? (A) Telephone the customer. (B) Send the customer a bill. (C) Charge the customer extra. (D) Get the customer's credit card number. Listen to the talk. Then read each question and choose the best answer. 7. Who is the speaker addressing? (A) New hotel employees. (B) Regular hotel customers. (C) Experienced hotel managers. (D) Hotel chain owners. 8. What is the goal of the hotel chain? (A) To get more customers. (B) To provide the best service. (C) To charge higher rates. (D) To hire more employees. 9. Where will the speaker take the listeners? (A) To the front door. (B) To the service entrance. (C) To the tour office. (D) To the dining room.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "When must a customer notify the hotel?",
+        "options": [
+          {
+            "label": "A",
+            "text": "When he wants to leave a deposit."
+          },
+          {
+            "label": "B",
+            "text": "When he will check in early."
+          },
+          {
+            "label": "C",
+            "text": "When he expects to return to the hotel."
+          },
+          {
+            "label": "D",
+            "text": "When he wants to cancel a reservation."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How much in advance should the customer notify the hotel?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Two to four hours."
+          },
+          {
+            "label": "B",
+            "text": "Four hours."
+          },
+          {
+            "label": "C",
+            "text": "Twenty-four hours."
+          },
+          {
+            "label": "D",
+            "text": "Forty-four hours."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the man tell the woman to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Telephone the customer."
+          },
+          {
+            "label": "B",
+            "text": "Send the customer a bill."
+          },
+          {
+            "label": "C",
+            "text": "Charge the customer extra."
+          },
+          {
+            "label": "D",
+            "text": "Get the customer's credit card number."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "Who is the speaker addressing?",
+        "options": [
+          {
+            "label": "A",
+            "text": "New hotel employees."
+          },
+          {
+            "label": "B",
+            "text": "Regular hotel customers."
+          },
+          {
+            "label": "C",
+            "text": "Experienced hotel managers."
+          },
+          {
+            "label": "D",
+            "text": "Hotel chain owners."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What is the goal of the hotel chain?",
+        "options": [
+          {
+            "label": "A",
+            "text": "To get more customers."
+          },
+          {
+            "label": "B",
+            "text": "To provide the best service."
+          },
+          {
+            "label": "C",
+            "text": "To charge higher rates."
+          },
+          {
+            "label": "D",
+            "text": "To hire more employees."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "Where will the speaker take the listeners?",
+        "options": [
+          {
+            "label": "A",
+            "text": "To the front door."
+          },
+          {
+            "label": "B",
+            "text": "To the service entrance."
+          },
+          {
+            "label": "C",
+            "text": "To the tour office."
+          },
+          {
+            "label": "D",
+            "text": "To the dining room."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "Study the following definitions and examples.\n\n1. advanced adj., highly developed; at a higher level a. Since the hotel installed an advanced computer system, all operations have been functioning more smoothly.\n\nb. Pablo has been promoted to assistant manager and he is happy with his advanced position.\n\n2. chain n., a group of enterprises under a single control\n\na. Budget-priced hotel chains have made a huge impact in the industry.\n\nb. The hotel being built in Seoul is the newest one in the chain.\n\n3. check in v., to register at a hotel; to report one's presence\n\na. Patrons check in at the hotel immediately upon their arrival.\n\nb. To know that the conference guests have arrived, we ask them to check in at the registration desk.\n\n4. confirm v., to validate\n\na. Jorge called the hotel to confirm that he had a room reservation.\n\nb. We automatically send a postcard to let you know that your travel dates have been confirmed.\n\n5. expect v., to consider probable or reasonable\n\na. You can expect a clean room when you check in at a hotel.\n\nb. Mr. Kim expected that the bed linens would be changed daily.\n\n6. housekeeper n., someone employed to do domestic work a. Eloise's first job at the hotel was as a housekeeper and now she is the manager.\n\nb. The desk clerk is sending the housekeeper to bring more towels to your room.\n\n7. notify v., to report\n\na. They notified the hotel that they had been delayed in traffic and would be arriving late.\n\nb. Lydia notified the hotel in writing that she was canceling her reservation.\n\n8. preclude v., to make impossible; to rule out\n\na. The horrible rainstorm precluded us from traveling any further.\n\nb. The unexpected cost of the room precluded a gourmet dinner for the travelers.\n\n9. quote v., to give exact information on; n., a quotation\n\na. We were quoted a price of $89 for the room for one night.\n\nb. Call ahead and get a price quote for a week-long stay.\n\n10. rate n., the payment or price according to a standard\n\na. The rate for the hotel room is too high considering how few services are available on-site.\n\nb. The sign in the lobby lists the seasonal rates.\n\n11. reservation n., an arrangement to set something aside\n\na. I know I made a reservation for tonight, but the hotel staff has no record of it in the system.\n\nb. It is difficult, if not impossible, to get reservations at this hotel at the height of the summer season.\n\n12. service n., useful functions\n\na. The hotel has a number of luxury services like the on-site gym, sauna, pool, and beauty salon.\n\nb. Mr. Rockmont called room service to order a late-night snack.",
+    "words_in_context": "## WORDS IN CONTEXT\n\n## Read the following passage and write the words in the blanks below.\n\n| advance | confirm | notify | rates |\n| --- | --- | --- | --- |\n| chains | expect | preclude | reservations |\n| check in | housekeeper | quoted | service |\n\nPeople stay in hotels for business and personal travel. But with room rates being so high, many travelers are staying home. Since high costs can (1) \\_\\_\\_\\_ travel, smart travelers know they can save money and get the best (2) \\_\\_\\_\\_ for a room by making (3) \\_\\_\\_\\_ well in (4) \\_\\_\\_\\_ of the beginning of their trip. When you make a reservation, the hotel staff will ask you to (5) \\_\\_\\_\\_ them as soon as there is any change in your travel plans. To avoid any surprises, it's a good idea to call and (6) \\_\\_\\_\\_ the availability of your room and the rate you were (7) \\_\\_\\_\\_.\n\nIn selecting a hotel, first think about the kinds of (8) \\_\\_\\_\\_ you will need or like to have. You naturally (9) \\_\\_\\_\\_ a clean, well-lit room. You naturally expect that a (10) \\_\\_\\_\\_ will clean your room daily even in the smallest hotels. Large hotel (11) \\_\\_\\_\\_ offer the most services, such as a pool, health club, or money exchange. The front desk clerks will tell you about such services when you (12) \\_\\_\\_\\_ at the hotel.",
+    "word_families": "## WORD FAMILIES\n\n| v. u | advance | We are advancing steadily toward our goal of improving customer service at every hotel in the chain. |\n| --- | --- | --- |\n| l. un | advance | Clarissa booked the bridal suite in advance of the hotel's official opening. |\n| . . . | advanced | All hotel employees who do well at their jobs will be given the opportunity to move up to an advanced position. |\n\n| verb | confirm | It is wise to confirm your reservation before you leave for your trip. |\n| --- | --- | --- |\n| .. n | confirmation | The confirmation code given to Suzanne when she booked her room made it easy for her to resolve her problem. |\n|  | confirmed | The concierge had the confirmed helpful manner that is necessary in her position. |\n\n| verb | expect | We expect to reach our destination by dinner. |\n| --- | --- | --- |\n| noun | expectation | The guest's expectations were not met, so he complained to the manager. |\n| a' e | expectant | The expectant travelers, loaded with luggage, left the hotel for their scheduled flight. |\n\n| verb | notify | Please notify the front desk clerk if there are any problems with your room. |\n| --- | --- | --- |\n| noun | notification | Written notification is required for any changes in reservations. |\n\n| verb | quote | When customers ask for the room rate, just quote them the prices listed on this sheet. |\n| --- | --- | --- |\n|  | quotation | The quotation given to me didn't make sense, so I called again to verify it. |\n| - | quotable | Our manager instructed us that the current room rates would be quotable only until the end of the month, when a rate increase would go into effect. |\n\n| verb | reserve | We reserved a room well in advance. |\n| --- | --- | --- |\n| noun | reservation | Seeing the crowds on the highway, I decided to pull over and telephone the hotel to make a reservation. |\n| noun | in reserve | Like many other businesses, a hotel must keep some cash in reserve to pay for emergencies. |",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. When must a customer notify the hotel?\n(A) When he wants to leave a deposit.\n(B) When he will check in early.\n(C) When he expects to return to the hotel.\n(D) When he wants to cancel a reservation.\n\n5. How much in advance should the customer notify the hotel?\n(A) Two to four hours.\n(B) Four hours.\n(C) Twenty-four hours.\n(D) Forty-four hours.\n\n6. What does the man tell the woman to do?\n(A) Telephone the customer.\n(B) Send the customer a bill.\n(C) Charge the customer extra.\n(D) Get the customer's credit card number.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. Who is the speaker addressing?\n(A) New hotel employees.\n(B) Regular hotel customers.\n(C) Experienced hotel managers.\n(D) Hotel chain owners.\n\n8. What is the goal of the hotel chain?  \n(A) To get more customers.  \n(B) To provide the best service.  \n(C) To charge higher rates.  \n(D) To hire more employees.\n\n9. Where will the speaker take the listeners?\n(A) To the front door.\n(B) To the service entrance.\n(C) To the tour office.\n(D) To the dining room.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. We paid a lot of money for this room and we expect an \\_\\_\\_\\_ level of service.\n(A) advance (C) advanced\n(B) advances (D) advancing\n\n11. Gladys \\_\\_\\_\\_ her reservation by calling in advance.\n(A) confirmation (C) confirming\n(B) confirmed (D) confirmative\n\n12. The Chamber of Commerce had high \\_\\_\\_\\_ for the amount of business the new hotel would bring to the town.\n(A) expectancy (C) expect\n(B) expected (D) expectations\n\n13. The hotel received the \\_\\_\\_\\_ of our early arrival and had everything ready for us.\n(A) notified (C) notification\n(B) notifies (D) notify\n\n14. I expect the rate that I was \\_\\_\\_\\_ over the phone and I will not accept any changes.\n(A) quoted (C) quotable\n(B) quotation (D) quotes\n\n15. Since we had made our \\_\\_\\_\\_ so far in advance, we saved considerably on the room rate.\n(A) reserve (C) reserved\n(B) reservation (D) reservable\n\n## Part 6 Text Completion\n\nWelcome to the Springflower Radford Hotel. We are part of the Radford Hotel Group, one of the top hotel chains in the world.\n\nYour comfort is important to us. When you check \\_16\\_, please let us know if you will need any special services during your stay.\n\nA \\_17\\_ will clean your room daily and supply you with fresh linens. Please notify her if you need any extra supplies for your room.\n\nThe exercise room and pool are available for the use of all guests. Exercise classes are offered daily. Registration is required in \\_\\_18\\_\\_. Please see the front desk clerk for more information.\n\nYou can book city tours through us. See the front desk clerk for a price quote. If you have already made a reservation for a city tour, we can confirm it for you.\n\nThank you for choosing a Radford Hotel. Have a pleasant stay.\n\n16. (A) in 18. (A) advancement  \n(B) out (B) advanced  \n(C) up (C) advancer  \n(D) for (D) advance\n\n17. (A) manager  \n(B) server  \n(C) housekeeper  \n(D) janitor",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following two letters.\n\nJune 10, 20—\n\nGisela Fried  \nSpringflower Radford Hotel  \n2857 King Street  \nHartsdale, WI\n\nDear Ms. Fried,\n\nI am writing to let you know of the excellent service I received from your staff during my recent stay at the Springflower Radford Hotel. Although I had made an advance reservation for my stay, I had forgotten to confirm it. Thus, when I checked in at the hotel, there were no rooms available of the type I had wanted. Your kind and professional staff immediately found another, more luxurious, room for me. Although it was more expensive than the room I had reserved, they charged me the rate I had originally been quoted.\n\nThe excellent service continued throughout my stay and, indeed, exceeded my expectations. For example, the housekeeper cheerfully arrived to clean my room at 10:00 one evening after I had had problems with the bathtub overflowing. The staff at the front desk were always ready to answer my questions and were very helpful in assisting me to find my way around the city. All in all, my stay at the hotel was a very pleasant experience. I will certainly recommend this hotel to any of my friends who plan a visit to Hartsdale in the future.\n\nSincerely,\n\nAndrew Wyatt\n\n19. Why did Mr. Wyatt write the letter?\n(A) To complain about the hotel.\n(B) To ask for a rate quote.\n(C) To reserve a room.\n(D) To praise the hotel staff.\n\n20. Who is Ms. Fried?\n(A) A hotel guest.\n(B) The hotel manager.\n(C) A housekeeper.\n(D) The front desk clerk.\n\n21. What does Ms. Fried offer Mr. Wyatt?\n(A) A free meal.\n(B) A less expensive room.\n(C) A recommendation.\n(D) A job.\n\n## June 17, 20—\n\nAndrew Wyatt  \n23 North Cuttersville Road  \nCreek Lake, MI\n\nDear Mr. Wyatt,\n\nThank you very much for your letter of June 10 notifying me of the fine service you received during your stay at the Springflower Radford Hotel. I am pleased to know that you had such a good experience as our guest. We at the Radford Hotel chain pride ourselves on the high quality of our service. As the hotel manager, I sometimes hear complaints about my staff, but it is just as important for me to hear about the fine work that they do.\n\nI am enclosing a coupon for the hotel restaurant so that the next time you stay with us, you can enjoy a meal free of charge at the Springflower Restaurant.\n\nSincerely,\n\nGisela Fried\n\n22. The word rate in the first letter, first paragraph, line 9 is closest in meaning to  \n(A) time  \n(B) place  \n(C) price  \n(D) speed\n\n23. The word notifying in the second letter, first paragraph, line 2 is closest in meaning to (A) advertising (B) complaining (C) informing (D) scolding"
+  },
+  "needs_review": true
+}

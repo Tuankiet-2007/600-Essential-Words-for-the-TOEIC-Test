@@ -1,0 +1,1611 @@
+{
+  "lesson_id": 45,
+  "title": "Media",
+  "theme_name": "Entertainment",
+  "audio_track": "track_45.mp3",
+  "part1_photo": "part1_photos/lesson_45.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "assignment",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "something, such as a task, that is assigned",
+      "definition_vi": "nhiệm vụ được giao, bài tập, chuyến công tác",
+      "examples": [
+        {
+          "en": "This assignment has to be turned in before midnight.",
+          "vi": "Bài viết/nhiệm vụ này phải được nộp trước nửa đêm."
+        },
+        {
+          "en": "When the reporter is on assignment, research piles up on her desk.",
+          "vi": "Khi nữ phóng viên đi công tác viết bài, tài liệu nghiên cứu chất đống trên bàn làm việc của cô."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "on assignment",
+        "complete an assignment",
+        "writing assignment",
+        "overseas assignment"
+      ],
+      "usage": {
+        "structures": [
+          "be on assignment (in + place)",
+          "assign + sb + to V",
+          "assign + sth + to sb"
+        ],
+        "prepositions": [
+          "on",
+          "to"
+        ],
+        "collocations": [
+          "on assignment abroad",
+          "challenging assignment",
+          "turn in an assignment",
+          "newly assigned"
+        ],
+        "tip": "Cụm giới từ 'on assignment' (đang đi công tác/thực hiện nhiệm vụ được giao) là cụm từ cố định rất hay gặp."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "assign",
+          "example": "The chief editor assigned two veteran journalists to cover the trade summit.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "assigned",
+          "example": "All press photographers must remain in their assigned areas during the ceremony.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Each correspondent was _____ a specific region to cover during the national election.",
+        "answer": "assigned",
+        "base_word": "assignment",
+        "pos_hint": "động từ chia quá khứ phân từ V3/ed (bị động)",
+        "vi": "Mỗi phóng viên thường trú đã được phân công một khu vực cụ thể để đưa tin trong suốt cuộc bầu cử quốc gia."
+      }
+    },
+    {
+      "id": 2,
+      "word": "choose",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to select one thing over another",
+      "definition_vi": "chọn, lựa chọn",
+      "examples": [
+        {
+          "en": "Alan chooses to read The New York Times over the Wall Street Journal.",
+          "vi": "Alan chọn đọc tờ The New York Times thay vì tờ Wall Street Journal."
+        },
+        {
+          "en": "I did not choose that candidate to be the editor of our student newspaper.",
+          "vi": "Tôi đã không chọn ứng viên đó làm biên tập viên cho tờ báo sinh viên của chúng tôi."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "choose",
+          "example": "No one was surprised when the student decided to choose a career in journalism."
+        },
+        {
+          "pos": "noun",
+          "word": "choice",
+          "example": "It&#x27;s your choice whether we use a color or black and white photo."
+        },
+        {
+          "pos": "",
+          "word": "choosy",
+          "example": "The editor was famous for being choosy about whom she wanted on her staff."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "choose to do",
+        "choose between A and B",
+        "wide choice of",
+        "by choice"
+      ],
+      "usage": {
+        "structures": [
+          "choose + to V",
+          "choose A over B",
+          "choose between A and B",
+          "choose + sb + as/for + N"
+        ],
+        "prepositions": [
+          "between",
+          "among",
+          "from",
+          "over"
+        ],
+        "collocations": [
+          "choose A over B",
+          "first choice",
+          "have no choice but to V",
+          "choosy about"
+        ],
+        "tip": "Chú ý 3 dạng động từ bất quy tắc: choose - chose - chosen, và danh từ của nó là 'choice' (sự lựa chọn)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "chosen",
+          "example": "The chosen candidate will assume the role of managing editor in January.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Subscribers have the _____ of receiving the weekly magazine in print, digitally, or both.",
+        "answer": "choice",
+        "base_word": "choose",
+        "pos_hint": "danh từ",
+        "vi": "Người đăng ký có quyền lựa chọn nhận tạp chí hàng tuần ở bản in, bản điện tử, hoặc cả hai."
+      }
+    },
+    {
+      "id": 3,
+      "word": "constantly",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "continually",
+      "definition_vi": "liên tục, luôn luôn, không ngừng",
+      "examples": [
+        {
+          "en": "An advantage of Internet news reports is that they can be constantly updated.",
+          "vi": "Một ưu điểm của các bản tin trên Internet là chúng có thể được cập nhật liên tục."
+        },
+        {
+          "en": "People constantly look to the news to keep up-to-date on what is going on in the world.",
+          "vi": "Mọi người luôn tìm đến tin tức để cập nhật những gì đang diễn ra trên thế giới."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "constancy",
+          "example": "The reporter&#x27;s constancy in writing thorough news reports earned her a loyal following of readers."
+        },
+        {
+          "pos": "",
+          "word": "constant",
+          "example": "The constant ringing of the telephone distracted Susan from writing her report."
+        },
+        {
+          "pos": "",
+          "word": "constantly",
+          "example": "The editor constantly asks the reporters to recheck their facts."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "constantly updated",
+        "constantly changing",
+        "constantly evolving",
+        "constantly monitor"
+      ],
+      "usage": {
+        "structures": [
+          "be constantly + V-ing / V-ed"
+        ],
+        "prepositions": [],
+        "collocations": [
+          "constantly updated",
+          "constantly changing market",
+          "constant demand",
+          "remain constant"
+        ],
+        "tip": "Thường đứng giữa trợ động từ 'be' và V-ed/V-ing (is constantly updated / is constantly changing)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "inconstant",
+          "example": "Freelance journalists often struggle with an inconstant stream of income.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "In the digital age, newsrooms face _____ pressure to publish breaking stories immediately.",
+        "answer": "constant",
+        "base_word": "constantly",
+        "pos_hint": "tính từ",
+        "vi": "Trong kỷ nguyên số, các tòa soạn báo phải đối mặt với áp lực liên tục trong việc đăng tải tin nóng ngay lập tức."
+      }
+    },
+    {
+      "id": 4,
+      "word": "constitute",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to be the elements or parts of",
+      "definition_vi": "cấu thành, tạo thành, được coi là",
+      "examples": [
+        {
+          "en": "All the different news sources constitute the media industry.",
+          "vi": "Tất cả các nguồn tin tức khác nhau cấu thành nên ngành công nghiệp truyền thông."
+        },
+        {
+          "en": "A talented staff, adequate printing facilities, and sufficient distribution points constitute a successful newspaper.",
+          "vi": "Đội ngũ nhân viên tài năng, cơ sở in ấn đầy đủ và các điểm phân phối rộng khắp tạo nên một tờ báo thành công."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "constitute a majority",
+        "constitute a threat",
+        "constitute a breach of",
+        "constitute an infringement"
+      ],
+      "usage": {
+        "structures": [
+          "A, B, and C constitute + N",
+          "constitute + a breach/violation/threat/majority"
+        ],
+        "prepositions": [
+          "of"
+        ],
+        "collocations": [
+          "constitute a breach of contract",
+          "constitute over half of",
+          "constitution of the board",
+          "constitutional rights"
+        ],
+        "tip": "Là ngoại động từ (không dùng giới từ theo sau ở thể chủ động), thường mang nghĩa 'cấu thành/tạo nên' hoặc 'bị coi là vi phạm' (constitute a breach)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "constitute",
+          "example": "Online subscriptions now constitute more than sixty percent of the paper's revenue.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "constitution",
+          "example": "Freedom of the press is protected under the country's constitution.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "constituent",
+          "example": "Let us examine the constituent parts of a successful multimedia campaign.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Advertising sales and digital subscriptions _____ the primary sources of income for the broadcaster.",
+        "answer": "constitute",
+        "base_word": "constitute",
+        "pos_hint": "động từ chia hiện tại đơn số nhiều",
+        "vi": "Doanh thu quảng cáo và gói đăng ký kỹ thuật số cấu thành nguồn thu nhập chính cho đài phát thanh truyền hình."
+      }
+    },
+    {
+      "id": 5,
+      "word": "decision",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "judgment or choice",
+      "definition_vi": "quyết định, sự phán quyết",
+      "examples": [
+        {
+          "en": "The court made the decision to allow the newspaper to print the controversial story.",
+          "vi": "Tòa án đã đưa ra phán quyết cho phép tờ báo đăng câu chuyện gây tranh cãi đó."
+        },
+        {
+          "en": "Newspaper editors often have to make quick decisions about which stories to publish.",
+          "vi": "Các biên tập viên báo chí thường phải đưa ra những quyết định nhanh chóng về việc nên đăng bài viết nào."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "decide",
+          "example": "The editor decided not to publish the story because the facts were unreliable."
+        },
+        {
+          "pos": "noun",
+          "word": "decision",
+          "example": "The decision to lay off several reporters was made for financial reasons alone."
+        },
+        {
+          "pos": "",
+          "word": "decisive",
+          "example": "Newspaper editors must be decisive when determining which stories go on the front page."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "make a decision",
+        "reach a decision",
+        "final decision",
+        "decision-making process"
+      ],
+      "usage": {
+        "structures": [
+          "make/reach a decision + to V / on N",
+          "decision about/regarding + N"
+        ],
+        "prepositions": [
+          "on",
+          "about",
+          "to"
+        ],
+        "collocations": [
+          "make a quick decision",
+          "unanimous decision",
+          "decisive factor",
+          "decisive action"
+        ],
+        "tip": "Đi với động từ 'make' hoặc 'reach' (make/reach a decision); tính từ 'decisive' có nghĩa là 'quyết đoán' hoặc 'mang tính quyết định'."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "decisively",
+          "example": "The managing editor acted decisively to retract the inaccurate article.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "undecided",
+          "example": "The board remains undecided about whether to launch a Sunday edition.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Broadcast producers must be _____ when choosing which breaking news segment to air first.",
+        "answer": "decisive",
+        "base_word": "decision",
+        "pos_hint": "tính từ",
+        "vi": "Các nhà sản xuất chương trình phát sóng phải quyết đoán khi lựa chọn bản tin nóng nào sẽ lên sóng trước."
+      }
+    },
+    {
+      "id": 6,
+      "word": "disseminate",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to scatter widely; to distribute",
+      "definition_vi": "phổ biến, truyền bá, phát tán (thông tin, tin tức)",
+      "examples": [
+        {
+          "en": "The media disseminates news across the world.",
+          "vi": "Giới truyền thông phổ biến tin tức đi khắp thế giới."
+        },
+        {
+          "en": "The computer virus was disseminated through the newsroom by reporters sharing terminals.",
+          "vi": "Vi-rút máy tính đã bị phát tán khắp phòng tin tức do các phóng viên dùng chung thiết bị đầu cuối."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "disseminate information",
+        "widely disseminate",
+        "disseminate news",
+        "dissemination of knowledge"
+      ],
+      "usage": {
+        "structures": [
+          "disseminate + N (information/news/findings) + to/among + N"
+        ],
+        "prepositions": [
+          "to",
+          "among",
+          "through",
+          "across"
+        ],
+        "collocations": [
+          "disseminate information widely",
+          "disseminate research findings",
+          "rapid dissemination",
+          "disseminate through social media"
+        ],
+        "tip": "Tân ngữ đi kèm hầu như luôn là 'information', 'news', 'knowledge', hoặc 'findings' (phổ biến thông tin rộng rãi)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "disseminate",
+          "example": "Public health agencies use television and radio to disseminate safety guidelines.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "dissemination",
+          "example": "The internet allows for the instant dissemination of financial news.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "disseminated",
+          "example": "Widely disseminated press releases helped draw attention to the charity event.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Social media platforms have dramatically accelerated the _____ of breaking news around the globe.",
+        "answer": "dissemination",
+        "base_word": "disseminate",
+        "pos_hint": "danh từ",
+        "vi": "Các nền tảng mạng xã hội đã thúc đẩy mạnh mẽ tốc độ lan truyền tin tức nóng hổi trên toàn cầu."
+      }
+    },
+    {
+      "id": 7,
+      "word": "impact",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a strong, immediate impression",
+      "definition_vi": "tác động, ảnh hưởng mạnh mẽ",
+      "examples": [
+        {
+          "en": "The story of the presidential scandal had a huge impact on the public.",
+          "vi": "Câu chuyện về vụ bê bối của tổng thống đã gây ra tác động rất lớn đối với công chúng."
+        },
+        {
+          "en": "The impact of the news coverage is yet to be known.",
+          "vi": "Tác động của việc đưa tin tức này vẫn chưa được biết đến."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "have an impact on",
+        "profound impact",
+        "environmental impact",
+        "negative impact"
+      ],
+      "usage": {
+        "structures": [
+          "have a (huge/significant/positive) impact on + N",
+          "assess/minimize the impact of + N"
+        ],
+        "prepositions": [
+          "on",
+          "upon",
+          "of"
+        ],
+        "collocations": [
+          "have a huge impact on",
+          "lasting impact",
+          "economic impact",
+          "significantly impact"
+        ],
+        "tip": "Cụm 'have a(n) + adj + impact on...' (có tác động như thế nào lên...) xuất hiện dày đặc trong cả Listening và Reading."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "impact",
+          "example": "Declining print advertising revenue has negatively impacted many local newspapers.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "impactful",
+          "example": "The photojournalist's impactful images raised awareness of the drought.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The shift toward mobile reading has strongly _____ how newspapers design their layouts.",
+        "answer": "impacted",
+        "base_word": "impact",
+        "pos_hint": "động từ chia quá khứ phân từ V3/ed (hiện tại hoàn thành)",
+        "vi": "Sự dịch chuyển sang thói quen đọc trên thiết bị di động đã tác động mạnh mẽ đến cách các tờ báo thiết kế giao diện của họ."
+      }
+    },
+    {
+      "id": 8,
+      "word": "in-depth",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "in complete detail; thorough",
+      "definition_vi": "chuyên sâu, kỹ lưỡng, chi tiết",
+      "examples": [
+        {
+          "en": "The newspaper gave in-depth coverage of the tragic bombing.",
+          "vi": "Tờ báo đã đưa tin chuyên sâu về vụ đánh bom bi thảm."
+        },
+        {
+          "en": "Ivan's in-depth story on the spread of the disease received praise from many of his colleagues.",
+          "vi": "Bài viết chuyên sâu của Ivan về sự lây lan của căn bệnh đã nhận được lời khen ngợi từ nhiều đồng nghiệp."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "in-depth coverage",
+        "in-depth analysis",
+        "in-depth interview",
+        "in-depth study"
+      ],
+      "usage": {
+        "structures": [
+          "in-depth + N (coverage/analysis/interview/research/study)"
+        ],
+        "prepositions": [],
+        "collocations": [
+          "in-depth coverage",
+          "in-depth report",
+          "in-depth discussion",
+          "in-depth knowledge"
+        ],
+        "tip": "Khi có dấu gạch ngang 'in-depth' đóng vai trò là tính từ đứng trước danh từ; khi không có gạch ngang 'in depth' là cụm trạng từ đứng sau động từ (discuss the issue in depth)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "depth",
+          "example": "The documentary explores the economic crisis in remarkable depth.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "verb",
+          "word": "deepen",
+          "example": "The series of articles helped deepen public understanding of the trade agreement.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "deep",
+          "example": "The veteran correspondent has a deep knowledge of international affairs.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "deeply",
+          "example": "Viewers were deeply moved by the human-interest segment on the evening news.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Tonight's special broadcast will feature an _____ interview with the newly appointed central bank governor.",
+        "answer": "in-depth",
+        "base_word": "in-depth",
+        "pos_hint": "tính từ ghép",
+        "vi": "Chương trình phát sóng đặc biệt tối nay sẽ có một cuộc phỏng vấn chuyên sâu với thống đốc ngân hàng trung ương mới được bổ nhiệm."
+      }
+    },
+    {
+      "id": 9,
+      "word": "investigate",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to uncover and report hidden information",
+      "definition_vi": "điều tra, tìm hiểu kỹ",
+      "examples": [
+        {
+          "en": "Reporters need to thoroughly investigate the facts before publishing their stories.",
+          "vi": "Các phóng viên cần điều tra kỹ lưỡng các sự thật trước khi xuất bản bài viết của mình."
+        },
+        {
+          "en": "Michelle's editor sent her to the capital to investigate the story behind the government scandal.",
+          "vi": "Biên tập viên của Michelle đã cử cô đến thủ đô để điều tra câu chuyện đằng sau vụ bê bối của chính phủ."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "investigate",
+          "example": "Alban was excited about his first chance to investigate a story."
+        },
+        {
+          "pos": "",
+          "word": "investigation",
+          "example": "The investigation into the president&#x27;s past was covered by the media worldwide."
+        },
+        {
+          "pos": "",
+          "word": "investigative",
+          "example": "After turning up details in the crime that even the police had missed, Helen became well known as an investigative reporter."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "thoroughly investigate",
+        "investigate a claim",
+        "under investigation",
+        "investigative journalist"
+      ],
+      "usage": {
+        "structures": [
+          "investigate + N (the cause/facts/allegations)",
+          "conduct an investigation into + N"
+        ],
+        "prepositions": [
+          "into"
+        ],
+        "collocations": [
+          "thoroughly investigate",
+          "under investigation",
+          "investigative reporting",
+          "launch an investigation into"
+        ],
+        "tip": "Động từ 'investigate' đi trực tiếp với tân ngữ (investigate the matter), còn danh từ 'investigation' đi với giới từ 'into' (an investigation into the matter)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "investigator",
+          "example": "Independent investigators were hired to audit the company's financial records.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Helen won a prestigious journalism award for her _____ reporting on corporate fraud.",
+        "answer": "investigative",
+        "base_word": "investigate",
+        "pos_hint": "tính từ",
+        "vi": "Helen đã giành được một giải thưởng báo chí danh giá nhờ loạt phóng sự điều tra về gian lận doanh nghiệp."
+      }
+    },
+    {
+      "id": 10,
+      "word": "link",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an association; a relationship",
+      "definition_vi": "mối liên kết, đường dẫn (mạng); kết nối",
+      "examples": [
+        {
+          "en": "The computer links will take you to today's headlines.",
+          "vi": "Các đường liên kết trên máy tính sẽ đưa bạn đến những tiêu đề tin tức ngày hôm nay."
+        },
+        {
+          "en": "The father-daughter team of reporters is just one example of many family links at this newspaper.",
+          "vi": "Cặp phóng viên hai cha con chỉ là một ví dụ về nhiều mối liên kết gia đình tại tờ báo này."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "direct link",
+        "link between A and B",
+        "click on a link",
+        "closely linked to"
+      ],
+      "usage": {
+        "structures": [
+          "a link between A and B",
+          "a link to + N",
+          "link A with/to B"
+        ],
+        "prepositions": [
+          "between",
+          "to",
+          "with"
+        ],
+        "collocations": [
+          "close link between",
+          "transport links",
+          "be linked to",
+          "website link"
+        ],
+        "tip": "Vừa là danh từ (a link between A and B) vừa là động từ (be linked to/with sth: có liên quan/kết nối với cái gì)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "link",
+          "example": "The article links rising readership to the newspaper's redesigned mobile app.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "linkage",
+          "example": "The study examines the linkage between media consumption and consumer spending.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "linked",
+          "example": "The two broadcasting networks are closely linked through a content-sharing agreement.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Researchers found a strong _____ between local newspaper readership and civic participation.",
+        "answer": "link",
+        "base_word": "link",
+        "pos_hint": "danh từ",
+        "vi": "Các nhà nghiên cứu đã tìm thấy một mối liên hệ chặt chẽ giữa lượng độc giả báo địa phương và sự tham gia các hoạt động công dân."
+      }
+    },
+    {
+      "id": 11,
+      "word": "subscribe",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to receive a periodical regularly on order",
+      "definition_vi": "đặt mua dài hạn (báo, tạp chí), đăng ký dịch vụ",
+      "examples": [
+        {
+          "en": "Jill subscribes to a gardening magazine.",
+          "vi": "Jill đặt mua định kỳ một tờ tạp chí làm vườn."
+        },
+        {
+          "en": "It is convenient to subscribe to the newspaper because it is delivered to your house daily.",
+          "vi": "Rất tiện lợi khi đặt báo dài hạn vì báo được giao đến tận nhà bạn hàng ngày."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "subscribe",
+          "example": "I subscribe to the local newspaper to stay current."
+        },
+        {
+          "pos": "noun",
+          "word": "subscription",
+          "example": "Buying a subscription to the magazine was much less expensive than buying individual issues."
+        },
+        {
+          "pos": "noun",
+          "word": "subscribers",
+          "example": "The magazine went out of business because it did not have enough subscribers."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "subscribe to a magazine",
+        "annual subscription",
+        "renew a subscription",
+        "monthly subscriber"
+      ],
+      "usage": {
+        "structures": [
+          "subscribe + to + N (a magazine/newsletter/service)"
+        ],
+        "prepositions": [
+          "to"
+        ],
+        "collocations": [
+          "subscribe to a newsletter",
+          "cancel/renew a subscription",
+          "subscription fee",
+          "loyal subscribers"
+        ],
+        "tip": "Cả động từ 'subscribe' và danh từ 'subscription' đều luôn đi với giới từ 'to' (subscribe to / a subscription to)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "subscriber",
+          "example": "New subscribers receive a thirty percent discount on their first year's membership.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "If you renew your annual _____ before the end of the month, you will receive a complimentary tote bag.",
+        "answer": "subscription",
+        "base_word": "subscribe",
+        "pos_hint": "danh từ",
+        "vi": "Nếu bạn gia hạn gói đăng ký hàng năm trước cuối tháng, bạn sẽ nhận được một chiếc túi vải tặng kèm."
+      }
+    },
+    {
+      "id": 12,
+      "word": "thorough",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "exhaustively complete",
+      "definition_vi": "kỹ lưỡng, thấu đáo, toàn diện",
+      "examples": [
+        {
+          "en": "The reporters were thorough in their coverage of the event.",
+          "vi": "Các phóng viên rất kỹ lưỡng trong việc đưa tin về sự kiện này."
+        },
+        {
+          "en": "The story was the result of thorough research.",
+          "vi": "Bài báo là kết quả của quá trình nghiên cứu kỹ lưỡng."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "thoroughness",
+          "example": "A newspaper cannot survive long without a reputation for thoroughness."
+        },
+        {
+          "pos": "",
+          "word": "thorough",
+          "example": "Toshi is famous for her thorough and fair reporting of the issues."
+        },
+        {
+          "pos": "",
+          "word": "thoroughly",
+          "example": "The reporter thoroughly checked all his facts to avoid any potential embarrassment."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "thorough investigation",
+        "thorough research",
+        "thoroughly check",
+        "thorough understanding"
+      ],
+      "usage": {
+        "structures": [
+          "thorough + N (review/investigation/inspection/understanding)",
+          "be thorough in + V-ing/N"
+        ],
+        "prepositions": [
+          "in"
+        ],
+        "collocations": [
+          "thorough inspection",
+          "thorough analysis",
+          "thoroughly review",
+          "reputation for thoroughness"
+        ],
+        "tip": "Đừng nhầm chính tả của tính từ 'thorough' (kỹ lưỡng) với giới từ 'through' (xuyên qua) hoặc liên từ 'though' (mặc dù)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "thoroughgoing",
+          "example": "The board ordered a thoroughgoing overhaul of the magazine's editorial standards.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Fact-checkers must _____ verify every quote and statistic before the magazine goes to press.",
+        "answer": "thoroughly",
+        "base_word": "thorough",
+        "pos_hint": "trạng từ",
+        "vi": "Những người kiểm chứng thông tin phải xác minh kỹ lưỡng từng câu trích dẫn và số liệu thống kê trước khi tạp chí được đưa đi in."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Chen likes to get his news from the paper. Lemma turns on the television to find out what's going on in the world. Eve (1) ____ to more magazines than she can keep track of, whereas Kobi (2) ____ to listen to radio talk shows that cover issues (3) ____ to tap into what's going on in the world. All these people are touched by the media. (5) ____ to a mass audience. The media covers everything from hard news, which is (6) ____ reporting, to stories that are purely entertaining, such as whether your favorite movie star was on the \"Best Dressed/Worst Dressed\" list. Whether in print or broadcast on TV, the stories are the product of the reporting of many journalists who write the stories, and editors who give out the (7) ____, assess the quality of the writing and research, and make the (8) ____ about where and when the stories run. The news has an immediate (9) ____. The Internet puts global news onto the personal computer on your desk. Almost all browsers have (10) ____ to up-to-the-minute news stories from various news services. You can get (11) ____ news updates from a variety of sources via your personal computer, providing you with the most up-to-date and (12) ____ coverage.",
+    "word_bank": [
+      "assignments",
+      "constitutes",
+      "impact",
+      "links",
+      "chooses",
+      "decisions",
+      "in-depth",
+      "subscribes",
+      "constant",
+      "disseminated",
+      "investigative",
+      "thoroughly"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": false
+  },
+  "word_families": [
+    [
+      {
+        "word": "choose",
+        "example": "No one was surprised when the student decided to choose a career in journalism.",
+        "pos": ""
+      },
+      {
+        "word": "choice",
+        "example": "It&#x27;s your choice whether we use a color or black and white photo.",
+        "pos": "noun"
+      },
+      {
+        "word": "choosy",
+        "example": "The editor was famous for being choosy about whom she wanted on her staff.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "constancy",
+        "example": "The reporter&#x27;s constancy in writing thorough news reports earned her a loyal following of readers.",
+        "pos": ""
+      },
+      {
+        "word": "constant",
+        "example": "The constant ringing of the telephone distracted Susan from writing her report.",
+        "pos": ""
+      },
+      {
+        "word": "constantly",
+        "example": "The editor constantly asks the reporters to recheck their facts.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "decide",
+        "example": "The editor decided not to publish the story because the facts were unreliable.",
+        "pos": ""
+      },
+      {
+        "word": "decision",
+        "example": "The decision to lay off several reporters was made for financial reasons alone.",
+        "pos": "noun"
+      },
+      {
+        "word": "decisive",
+        "example": "Newspaper editors must be decisive when determining which stories go on the front page.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "investigate",
+        "example": "Alban was excited about his first chance to investigate a story.",
+        "pos": ""
+      },
+      {
+        "word": "investigation",
+        "example": "The investigation into the president&#x27;s past was covered by the media worldwide.",
+        "pos": ""
+      },
+      {
+        "word": "investigative",
+        "example": "After turning up details in the crime that even the police had missed, Helen became well known as an investigative reporter.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "subscribe",
+        "example": "I subscribe to the local newspaper to stay current.",
+        "pos": "verb"
+      },
+      {
+        "word": "subscription",
+        "example": "Buying a subscription to the magazine was much less expensive than buying individual issues.",
+        "pos": "noun"
+      },
+      {
+        "word": "subscribers",
+        "example": "The magazine went out of business because it did not have enough subscribers.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "thoroughness",
+        "example": "A newspaper cannot survive long without a reputation for thoroughness.",
+        "pos": ""
+      },
+      {
+        "word": "thorough",
+        "example": "Toshi is famous for her thorough and fair reporting of the issues.",
+        "pos": ""
+      },
+      {
+        "word": "thoroughly",
+        "example": "The reporter thoroughly checked all his facts to avoid any potential embarrassment.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "I don't want to pressure you, but you need to ____ the reporter who will cover the mayor's race this year.",
+        "options": [
+          {
+            "label": "A",
+            "text": "chosen"
+          },
+          {
+            "label": "B",
+            "text": "choosy"
+          },
+          {
+            "label": "C",
+            "text": "choose"
+          },
+          {
+            "label": "D",
+            "text": "choice"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "By ____ asking questions, Harry was able to get the information he wanted for his report.",
+        "options": [
+          {
+            "label": "A",
+            "text": "constant"
+          },
+          {
+            "label": "B",
+            "text": "constancy"
+          },
+          {
+            "label": "C",
+            "text": "consistence"
+          },
+          {
+            "label": "D",
+            "text": "constantly"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "Georgette ____ to stop subscribing to the newspaper because she felt the quality of the reporting had deteriorated.",
+        "options": [
+          {
+            "label": "A",
+            "text": "decision"
+          },
+          {
+            "label": "B",
+            "text": "decided"
+          },
+          {
+            "label": "C",
+            "text": "decides"
+          },
+          {
+            "label": "D",
+            "text": "decisive"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "The reporters followed the official ____ by interviewing all the witnesses to the crime.",
+        "options": [
+          {
+            "label": "A",
+            "text": "investigate"
+          },
+          {
+            "label": "B",
+            "text": "investigation"
+          },
+          {
+            "label": "C",
+            "text": "investigative"
+          },
+          {
+            "label": "D",
+            "text": "investigational"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "I need to renew my ____ for cable television, but I can't find the form.",
+        "options": [
+          {
+            "label": "A",
+            "text": "subscribing"
+          },
+          {
+            "label": "B",
+            "text": "subscription"
+          },
+          {
+            "label": "C",
+            "text": "subscriber"
+          },
+          {
+            "label": "D",
+            "text": "subscribe"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "The editor was impressed with how ____ the reporter was in getting the details from his sources.",
+        "options": [
+          {
+            "label": "A",
+            "text": "thorough"
+          },
+          {
+            "label": "B",
+            "text": "thoroughness"
+          },
+          {
+            "label": "C",
+            "text": "thoroughly"
+          },
+          {
+            "label": "D",
+            "text": "thoroughbred"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Stay on top of what's happening in today's world by [16] to News Story Weekly, the weekly news magazine that is read by politicians, corporate executives, and ordinary citizens like you. News Story Weekly provides you with [17] coverage of the week's most important news, both national and international. News Story Weekly thoroughly investigates worldwide events that have an impact on your life and delivers this news to your mailbox every week. News Story Weekly is disseminated throughout the country and is read by citizens from all walks of life. People who care about what's happening in the world [18] News Story Weekly. Shouldn't you be one of them? To subscribe to News Story Weekly, call our offices at 888-685-9321, or visit us online at www.nsw.com.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "subscribe"
+            },
+            {
+              "label": "B",
+              "text": "to subscribe"
+            },
+            {
+              "label": "C",
+              "text": "subscribing"
+            },
+            {
+              "label": "D",
+              "text": "should subscribe"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "depth"
+            },
+            {
+              "label": "B",
+              "text": "in-depth"
+            },
+            {
+              "label": "C",
+              "text": "deepen"
+            },
+            {
+              "label": "D",
+              "text": "deepened"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "is choosing"
+            },
+            {
+              "label": "B",
+              "text": "has chosen"
+            },
+            {
+              "label": "C",
+              "text": "chooses"
+            },
+            {
+              "label": "D",
+              "text": "choose"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following two letters. April 12, 20— Michelle Richards News Story Weekly 346 Howard Avenue White River, NH Dear Ms. Richards, I am a journalist and an avid reader of News Story Weekly. It has long been my dream to write for your magazine. I graduated from National University a year ago with a degree in journalism. For the past six months I have been working as an investigative reporter for the Bluefield Daily, my hometown newspaper. This newspaper is disseminated throughout the state. I work on assignments involving local politics. In my opinion, News Story Weekly is the top news magazine in the country. It has had a great impact on my life. I started reading it at an early age, and it inspired me to pursue a career as a reporter. If there is a position available for a reporter at News Story Weekly, I would be interested in applying for it. I believe that my educational background and work experience qualify me for such a position. I am enclosing several of my articles that appeared in the Bluefield Daily as writing samples. I have letters of reference available if you need them. I look forward to hearing from you. Sincerely, Mark Conway April 19, 20— Mark Conway 1255 Park Place, Apt. 10 Bluefield, MA Dear Mr. Conway, Thank you for your letter of April 12 inquiring about a position as a reporter. We are constantly looking for reporters to work for our magazine, and we currently have an opening for a reporter to cover regional news. You seem to be well-qualified, and we would welcome your application. I would need to see your reference letters as well as a resume. The closing date for this position is May 15. We will make our choice after that date and let you know what we decide by the first of June. Thank you for your interest in News Story Weekly. Sincerely, Michelle Richards 22. The word impact in the first letter, second paragraph, line 2 is closest in meaning to (A) interest (B) influence (C) difference (D) education",
+        "questions": [
+          {
+            "number": 19,
+            "question": "Why did Mark Conway write the letter?",
+            "options": [
+              {
+                "label": "A",
+                "text": "To express an opinion about the news."
+              },
+              {
+                "label": "B",
+                "text": "To get a subscription to News Story Weekly."
+              },
+              {
+                "label": "C",
+                "text": "To offer Ms. Richards an assignment."
+              },
+              {
+                "label": "D",
+                "text": "To apply for a job as a reporter."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "What did Mark Conway enclose with his letter?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Newspaper articles."
+              },
+              {
+                "label": "B",
+                "text": "A resume."
+              },
+              {
+                "label": "C",
+                "text": "Letters of reference."
+              },
+              {
+                "label": "D",
+                "text": "His university diploma."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "When will Mark Conway know Michelle Richards's decision?",
+            "options": [
+              {
+                "label": "A",
+                "text": "April 12."
+              },
+              {
+                "label": "B",
+                "text": "April 15."
+              },
+              {
+                "label": "C",
+                "text": "May 15."
+              },
+              {
+                "label": "D",
+                "text": "June 1."
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word constantly in the second letter, line 2 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "always"
+              },
+              {
+                "label": "B",
+                "text": "sometimes"
+              },
+              {
+                "label": "C",
+                "text": "rarely"
+              },
+              {
+                "label": "D",
+                "text": "infrequently"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "According to the woman, why are newspapers better than TV news shows?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Newspaper editors are decisive."
+          },
+          {
+            "label": "B",
+            "text": "Newspaper coverage is more thorough."
+          },
+          {
+            "label": "C",
+            "text": "Newspaper stories are more interesting."
+          },
+          {
+            "label": "D",
+            "text": "Newspapers cover better stories."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What is the man's job?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Investigative reporter."
+          },
+          {
+            "label": "B",
+            "text": "TV news reader."
+          },
+          {
+            "label": "C",
+            "text": "Journalism teacher."
+          },
+          {
+            "label": "D",
+            "text": "Journalism student."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How long has the woman worked as a newspaper reporter?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Four years."
+          },
+          {
+            "label": "B",
+            "text": "Thirteen years."
+          },
+          {
+            "label": "C",
+            "text": "Fourteen years."
+          },
+          {
+            "label": "D",
+            "text": "Thirty years."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "What is the topic of the news report?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A speech made by the country's president."
+          },
+          {
+            "label": "B",
+            "text": "The state of the national economy."
+          },
+          {
+            "label": "C",
+            "text": "Fraud committed by a company president."
+          },
+          {
+            "label": "D",
+            "text": "An industry report."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "At what time can this news report be heard?",
+        "options": [
+          {
+            "label": "A",
+            "text": "5:00."
+          },
+          {
+            "label": "B",
+            "text": "12:00."
+          },
+          {
+            "label": "C",
+            "text": "6:00."
+          },
+          {
+            "label": "D",
+            "text": "10:00."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "Why won't Mary Milo report the news tonight?",
+        "options": [
+          {
+            "label": "A",
+            "text": "She is sick."
+          },
+          {
+            "label": "B",
+            "text": "She got a new job."
+          },
+          {
+            "label": "C",
+            "text": "She is away on vacation."
+          },
+          {
+            "label": "D",
+            "text": "She has another assignment."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. According to the woman, why are newspapers better than TV news shows? (A) Newspaper editors are decisive. (B) Newspaper coverage is more thorough. (C) Newspaper stories are more interesting. (D) Newspapers cover better stories. 6. What is the man's job? (A) Investigative reporter. (B) TV news reader. (C) Journalism teacher. (D) Journalism student. 5. How long has the woman worked as a newspaper reporter? (A) Four years. (B) Thirteen years. (C) Fourteen years. (D) Thirty years. Listen to the talk. Then read each question and choose the best answer. 7. What is the topic of the news report? (A) A speech made by the country's president. (B) The state of the national economy. (C) Fraud committed by a company president. (D) An industry report. 8. At what time can this news report be heard? (A) 5:00. (B) 12:00. (C) 6:00. (D) 10:00. 9. Why won't Mary Milo report the news tonight? (A) She is sick. (B) She got a new job. (C) She is away on vacation. (D) She has another assignment.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question–Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "According to the woman, why are newspapers better than TV news shows?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Newspaper editors are decisive."
+          },
+          {
+            "label": "B",
+            "text": "Newspaper coverage is more thorough."
+          },
+          {
+            "label": "C",
+            "text": "Newspaper stories are more interesting."
+          },
+          {
+            "label": "D",
+            "text": "Newspapers cover better stories."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What is the man's job?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Investigative reporter."
+          },
+          {
+            "label": "B",
+            "text": "TV news reader."
+          },
+          {
+            "label": "C",
+            "text": "Journalism teacher."
+          },
+          {
+            "label": "D",
+            "text": "Journalism student."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How long has the woman worked as a newspaper reporter?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Four years."
+          },
+          {
+            "label": "B",
+            "text": "Thirteen years."
+          },
+          {
+            "label": "C",
+            "text": "Fourteen years."
+          },
+          {
+            "label": "D",
+            "text": "Thirty years."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "What is the topic of the news report?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A speech made by the country's president."
+          },
+          {
+            "label": "B",
+            "text": "The state of the national economy."
+          },
+          {
+            "label": "C",
+            "text": "Fraud committed by a company president."
+          },
+          {
+            "label": "D",
+            "text": "An industry report."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "At what time can this news report be heard?",
+        "options": [
+          {
+            "label": "A",
+            "text": "5:00."
+          },
+          {
+            "label": "B",
+            "text": "12:00."
+          },
+          {
+            "label": "C",
+            "text": "6:00."
+          },
+          {
+            "label": "D",
+            "text": "10:00."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "Why won't Mary Milo report the news tonight?",
+        "options": [
+          {
+            "label": "A",
+            "text": "She is sick."
+          },
+          {
+            "label": "B",
+            "text": "She got a new job."
+          },
+          {
+            "label": "C",
+            "text": "She is away on vacation."
+          },
+          {
+            "label": "D",
+            "text": "She has another assignment."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "Lesson 45\n\nWORDS\nTC LEARN\n\nignme\n\nco., itly\n\n• • • •\n\n.... -t\nin-depth\n\nnk\n\nrough\n\n## Media\n\nStudy the following definitions and examples.\n\n1. assignment n., something, such as a task, that is assigned\n\na. This assignment has to be turned in before midnight.\n\nb. When the reporter is on assignment, research piles up on her desk.\n\n2. choose v., to select one thing over another\n\na. Alan chooses to read The New York Times over the Wall Street Journal.\n\nb. I did not choose that candidate to be the editor of our student newspaper.\n\n3. constantly adv., continually\n\na. An advantage of Internet news reports is that they can be constantly updated.\n\nb. People constantly look to the news to keep up-to-date on what is going on in the world.\n\n4. constitute v., to be the elements or parts of\n\na. All the different news sources constitute the media industry.\n\nb. A talented staff, adequate printing facilities, and sufficient distribution points constitute a successful newspaper.\n\n5. decision n., judgment or choice\n\na. The court made the decision to allow the newspaper to print the controversial story.\n\nb. Newspaper editors often have to make quick decisions about which stories to publish.\n\n6. disseminate v., to scatter widely; to distribute\n\na. The media disseminates news across the world.\n\nb. The computer virus was disseminated through the newsroom by reporters sharing terminals.\n\n7. impact n., a strong, immediate impression\n\na. The story of the presidential scandal had a huge impact on the public.\n\nb. The impact of the news coverage is yet to be known.\n\n8. in-depth adj., in complete detail; thorough\n\na. The newspaper gave in-depth coverage of the tragic bombing.\n\nb. Ivan's in-depth story on the spread of the disease received praise from many of his colleagues.\n\n9. investigate v., to uncover and report hidden information a. Reporters need to thoroughly investigate the facts before publishing their stories.\n\nb. Michelle's editor sent her to the capital to investigate the story behind the government scandal.\n\n10. link n., an association; a relationship\n\na. The computer links will take you to today's headlines.\n\nb. The father-daughter team of reporters is just one example of many family links at this newspaper.\n\n11. subscribe v., to receive a periodical regularly on order\n\na. Jill subscribes to a gardening magazine.\n\nb. It is convenient to subscribe to the newspaper because it is delivered to your house daily.\n\n12. thorough adj., exhaustively complete\n\na. The reporters were thorough in their coverage of the event.\n\nb. The story was the result of thorough research.",
+    "words_in_context": "## WORDS IN CONTEXT\n\n## Read the following passage and write the words in the blanks below.\n\n| assignments | constitutes | impact | links |\n| --- | --- | --- | --- |\n| chooses | decisions | in-depth | subscribes |\n| constant | disseminated | investigative | thoroughly |\n\nChen likes to get his news from the paper. Lemma turns on the television to find out what's going on in the world. Eve (1) \\_\\_\\_\\_ to more magazines than she can keep track of, whereas Kobi (2) \\_\\_\\_\\_ to listen to radio talk shows that cover issues (3) \\_\\_\\_\\_ to tap into what's going on in the world. All these people are touched by the media.\n\n(5) \\_\\_\\_\\_ to a mass audience. The media covers everything from hard news, which is (6) \\_\\_\\_\\_ reporting, to stories that are purely entertaining, such as whether your favorite movie star was on the \"Best Dressed/Worst Dressed\" list. Whether in print or broadcast on TV, the stories are the product of the reporting of many journalists who write the stories, and editors who give out the (7) \\_\\_\\_\\_, assess the quality of the writing and research, and make the (8) \\_\\_\\_\\_ about where and when the stories run.\n\nThe news has an immediate (9) \\_\\_\\_\\_. The Internet puts global news onto the personal computer on your desk. Almost all browsers have (10) \\_\\_\\_\\_ to up-to-the-minute news stories from various news services. You can get (11) \\_\\_\\_\\_ news updates from a variety of sources via your personal computer, providing you with the most up-to-date and (12) \\_\\_\\_\\_ coverage.",
+    "word_families": "## WORD FAMILIES\n\n<table><tr><td></td><td>choose</td><td>No one was surprised when the student decided to choose a career in journalism.</td></tr><tr><td>noun</td><td>choice</td><td>It&#x27;s your choice whether we use a color or black and white photo.</td></tr><tr><td>ado ve</td><td>choosy</td><td>The editor was famous for being choosy about whom she wanted on her staff.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>no...</td><td>constancy</td><td>The reporter&#x27;s constancy in writing thorough news reports earned her a loyal following of readers.</td></tr><tr><td></td><td>constant</td><td>The constant ringing of the telephone distracted Susan from writing her report.</td></tr><tr><td>ve, i</td><td>constantly</td><td>The editor constantly asks the reporters to recheck their facts.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>...i</td><td>decide</td><td>The editor decided not to publish the story because the facts were unreliable.</td></tr><tr><td>noun</td><td>decision</td><td>The decision to lay off several reporters was made for financial reasons alone.</td></tr><tr><td>adje ve</td><td>decisive</td><td>Newspaper editors must be decisive when determining which stories go on the front page.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>i</td><td>investigate</td><td>Alban was excited about his first chance to investigate a story.</td></tr><tr><td></td><td>investigation</td><td>The investigation into the president&#x27;s past was covered by the media worldwide.</td></tr><tr><td>tive</td><td>investigative</td><td>After turning up details in the crime that even the police had missed, Helen became well known as an investigative reporter.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>subscribe</td><td>I subscribe to the local newspaper to stay current.</td></tr><tr><td>noun</td><td>subscription</td><td>Buying a subscription to the magazine was much less expensive than buying individual issues.</td></tr><tr><td>noun</td><td>subscribers</td><td>The magazine went out of business because it did not have enough subscribers.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>i</td><td>thoroughness</td><td>A newspaper cannot survive long without a reputation for thoroughness.</td></tr><tr><td></td><td>thorough</td><td>Toshi is famous for her thorough and fair reporting of the issues.</td></tr><tr><td></td><td>thoroughly</td><td>The reporter thoroughly checked all his facts to avoid any potential embarrassment.</td></tr></table>",
+    "listening_practice": "# WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question–Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. According to the woman, why are newspapers better than TV news shows?  \n(A) Newspaper editors are decisive.  \n(B) Newspaper coverage is more thorough.  \n(C) Newspaper stories are more interesting.  \n(D) Newspapers cover better stories.\n\n6. What is the man's job?\n(A) Investigative reporter.\n(B) TV news reader.\n(C) Journalism teacher.\n(D) Journalism student.\n\n5. How long has the woman worked as a newspaper reporter?\n(A) Four years.\n(B) Thirteen years.\n(C) Fourteen years.\n(D) Thirty years.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. What is the topic of the news report?\n(A) A speech made by the country's president.\n(B) The state of the national economy.\n(C) Fraud committed by a company president.\n(D) An industry report.\n\n8. At what time can this news report be heard?\n(A) 5:00.\n(B) 12:00.\n(C) 6:00.\n(D) 10:00.\n\n9. Why won't Mary Milo report the news tonight?\n(A) She is sick.\n(B) She got a new job.\n(C) She is away on vacation.\n(D) She has another assignment.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. I don't want to pressure you, but you need to \\_\\_\\_\\_ the reporter who will cover the mayor's race this year.\n(A) chosen (C) choose\n(B) choosy (D) choice\n\n11. By \\_\\_\\_\\_ asking questions, Harry was able to get the information he wanted for his report.\n(A) constant (C) consistence\n(B) constancy (D) constantly\n\n12. Georgette \\_\\_\\_\\_ to stop subscribing to the newspaper because she felt the quality of the reporting had deteriorated.\n(A) decision (C) decides\n(B) decided (D) decisive\n\n13. The reporters followed the official \\_\\_\\_\\_ by interviewing all the witnesses to the crime.\n(A) investigate (C) investigative\n(B) investigation (D) investigational\n\n14. I need to renew my \\_\\_\\_\\_ for cable television, but I can't find the form.\n(A) subscribing (C) subscriber\n(B) subscription (D) subscribe\n\n15. The editor was impressed with how \\_\\_\\_\\_ the reporter was in getting the details from his sources.\n(A) thorough (C) thoroughly\n(B) thoroughness (D) thoroughbred\n\n## Part 6 Text Completion\n\nStay on top of what's happening in today's world by \\_16\\_ to News Story Weekly, the weekly news magazine that is read by politicians, corporate executives, and ordinary citizens like you.\n\nNews Story Weekly provides you with \\_17\\_ coverage of the week's most important news, both national and international. News Story Weekly thoroughly investigates worldwide events that have an impact on your life and delivers this news to your mailbox every week.\n\nNews Story Weekly is disseminated throughout the country and is read by citizens from all walks of life. People who care about what's happening in the world \\_18\\_ News Story Weekly. Shouldn't you be one of them?\n\nTo subscribe to News Story Weekly, call our offices at 888-685-9321, or visit us online at www.nsw.com.\n\n16. (A) subscribe (B) to subscribe (C) subscribing (D) should subscribe\n\n17. (A) depth  \n(B) in-depth  \n(C) deepen  \n(D) deepened\n\n18. (A) is choosing  \n(B) has chosen  \n(C) chooses  \n(D) choose",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following two letters.\n\nApril 12, 20—\n\nMichelle Richards\nNews Story Weekly\n346 Howard Avenue\nWhite River, NH\n\nDear Ms. Richards,\n\nI am a journalist and an avid reader of News Story Weekly. It has long been my dream to write for your magazine. I graduated from National University a year ago with a degree in journalism. For the past six months I have been working as an investigative reporter for the Bluefield Daily, my hometown newspaper. This newspaper is disseminated throughout the state. I work on assignments involving local politics.\n\nIn my opinion, News Story Weekly is the top news magazine in the country. It has had a great impact on my life. I started reading it at an early age, and it inspired me to pursue a career as a reporter. If there is a position available for a reporter at News Story Weekly, I would be interested in applying for it. I believe that my educational background and work experience qualify me for such a position. I am enclosing several of my articles that appeared in the Bluefield Daily as writing samples. I have letters of reference available if you need them. I look forward to hearing from you.\n\nSincerely,\n\nMark Conway\n\n19. Why did Mark Conway write the letter?\n(A) To express an opinion about the news.\n(B) To get a subscription to News Story Weekly.\n(C) To offer Ms. Richards an assignment.\n(D) To apply for a job as a reporter.\n\n20. What did Mark Conway enclose with his letter?\n(A) Newspaper articles.\n(B) A resume.\n(C) Letters of reference.\n(D) His university diploma.\n\n21. When will Mark Conway know Michelle Richards's decision?\n(A) April 12.\n(B) April 15.\n(C) May 15.\n(D) June 1.\n\nApril 19, 20—\nMark Conway\n1255 Park Place, Apt. 10\nBluefield, MA\n\nDear Mr. Conway,\n\nThank you for your letter of April 12 inquiring about a position as a reporter. We are constantly looking for reporters to work for our magazine, and we currently have an opening for a reporter to cover regional news. You seem to be well-qualified, and we would welcome your application. I would need to see your reference letters as well as a resume. The closing date for this position is May 15. We will make our choice after that date and let you know what we decide by the first of June. Thank you for your interest in News Story Weekly.\n\nSincerely,\n\nMichelle Richards\n\n22. The word impact in the first letter, second paragraph, line 2 is closest in meaning to (A) interest (B) influence (C) difference (D) education\n\n23. The word constantly in the second letter, line 2 is closest in meaning to  \n(A) always  \n(B) sometimes  \n(C) rarely  \n(D) infrequently"
+  },
+  "needs_review": true
+}

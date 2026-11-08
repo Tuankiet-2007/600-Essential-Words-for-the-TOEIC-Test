@@ -1,0 +1,1261 @@
+{
+  "book_title": "Barron's 600 Essential Words for the TOEIC (3rd Edition)",
+  "total_pdf_pages": 374,
+  "page_offset_book_to_pdf": 12,
+  "special_sections_pdf_pages_1indexed": {
+    "table_of_contents": [
+      4,
+      5
+    ],
+    "how_to_use_and_strategies": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "answer_key": [
+      333,
+      334,
+      335,
+      336
+    ],
+    "word_index": [
+      337,
+      338,
+      339,
+      340
+    ],
+    "listening_tapescripts": [
+      341,
+      342,
+      343,
+      344,
+      345,
+      346,
+      347,
+      348,
+      349,
+      350,
+      351,
+      352,
+      353,
+      354,
+      355,
+      356,
+      357,
+      358,
+      359,
+      360,
+      361,
+      362,
+      363,
+      364,
+      365,
+      366,
+      367,
+      368,
+      369,
+      370,
+      371,
+      372,
+      373
+    ]
+  },
+  "word_reviews": [
+    {
+      "review_id": 1,
+      "theme_name": "General Business",
+      "lessons": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "book_pages": [
+        31,
+        32
+      ],
+      "pdf_pages_1indexed": [
+        43,
+        44
+      ]
+    },
+    {
+      "review_id": 2,
+      "theme_name": "Office Issues",
+      "lessons": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "book_pages": [
+        63,
+        64
+      ],
+      "pdf_pages_1indexed": [
+        75,
+        76
+      ]
+    },
+    {
+      "review_id": 3,
+      "theme_name": "Personnel",
+      "lessons": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "book_pages": [
+        95,
+        96
+      ],
+      "pdf_pages_1indexed": [
+        107,
+        108
+      ]
+    },
+    {
+      "review_id": 4,
+      "theme_name": "Purchasing",
+      "lessons": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "book_pages": [
+        127,
+        128
+      ],
+      "pdf_pages_1indexed": [
+        139,
+        140
+      ]
+    },
+    {
+      "review_id": 5,
+      "theme_name": "Financing and Budgeting",
+      "lessons": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "book_pages": [
+        159,
+        160
+      ],
+      "pdf_pages_1indexed": [
+        171,
+        172
+      ]
+    },
+    {
+      "review_id": 6,
+      "theme_name": "Management Issues",
+      "lessons": [
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "book_pages": [
+        191,
+        192
+      ],
+      "pdf_pages_1indexed": [
+        203,
+        204
+      ]
+    },
+    {
+      "review_id": 7,
+      "theme_name": "Restaurants and Events",
+      "lessons": [
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "book_pages": [
+        223,
+        224
+      ],
+      "pdf_pages_1indexed": [
+        235,
+        236
+      ]
+    },
+    {
+      "review_id": 8,
+      "theme_name": "Travel",
+      "lessons": [
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "book_pages": [
+        255,
+        256
+      ],
+      "pdf_pages_1indexed": [
+        267,
+        268
+      ]
+    },
+    {
+      "review_id": 9,
+      "theme_name": "Entertainment",
+      "lessons": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "book_pages": [
+        287,
+        288
+      ],
+      "pdf_pages_1indexed": [
+        299,
+        300
+      ]
+    },
+    {
+      "review_id": 10,
+      "theme_name": "Health",
+      "lessons": [
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "book_pages": [
+        319,
+        320
+      ],
+      "pdf_pages_1indexed": [
+        331,
+        332
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "lesson_id": 1,
+      "title": "Contracts",
+      "theme_id": 1,
+      "theme_name": "General Business",
+      "book_pages": [
+        1,
+        6
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 13,
+        "words_in_context": 14,
+        "word_families": 15,
+        "listening_practice": 16,
+        "reading_part5_6": 17,
+        "reading_part7": 18
+      },
+      "audio_track": "track_01.mp3",
+      "part1_photo": "part1_photos/lesson_01.jpg"
+    },
+    {
+      "lesson_id": 2,
+      "title": "Marketing",
+      "theme_id": 1,
+      "theme_name": "General Business",
+      "book_pages": [
+        7,
+        12
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 19,
+        "words_in_context": 20,
+        "word_families": 21,
+        "listening_practice": 22,
+        "reading_part5_6": 23,
+        "reading_part7": 24
+      },
+      "audio_track": "track_02.mp3",
+      "part1_photo": "part1_photos/lesson_02.jpg"
+    },
+    {
+      "lesson_id": 3,
+      "title": "Warranties",
+      "theme_id": 1,
+      "theme_name": "General Business",
+      "book_pages": [
+        13,
+        18
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 25,
+        "words_in_context": 26,
+        "word_families": 27,
+        "listening_practice": 28,
+        "reading_part5_6": 29,
+        "reading_part7": 30
+      },
+      "audio_track": "track_03.mp3",
+      "part1_photo": "part1_photos/lesson_03.jpg"
+    },
+    {
+      "lesson_id": 4,
+      "title": "Business Planning",
+      "theme_id": 1,
+      "theme_name": "General Business",
+      "book_pages": [
+        19,
+        24
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 31,
+        "words_in_context": 32,
+        "word_families": 33,
+        "listening_practice": 34,
+        "reading_part5_6": 35,
+        "reading_part7": 36
+      },
+      "audio_track": "track_04.mp3",
+      "part1_photo": "part1_photos/lesson_04.jpg"
+    },
+    {
+      "lesson_id": 5,
+      "title": "Conferences",
+      "theme_id": 1,
+      "theme_name": "General Business",
+      "book_pages": [
+        25,
+        30
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 37,
+        "words_in_context": 38,
+        "word_families": 39,
+        "listening_practice": 40,
+        "reading_part5_6": 41,
+        "reading_part7": 42
+      },
+      "audio_track": "track_05.mp3",
+      "part1_photo": "part1_photos/lesson_05.jpg"
+    },
+    {
+      "lesson_id": 6,
+      "title": "Computers",
+      "theme_id": 2,
+      "theme_name": "Office Issues",
+      "book_pages": [
+        33,
+        38
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 45,
+        "words_in_context": 46,
+        "word_families": 47,
+        "listening_practice": 48,
+        "reading_part5_6": 49,
+        "reading_part7": 50
+      },
+      "audio_track": "track_06.mp3",
+      "part1_photo": "part1_photos/lesson_06.jpg"
+    },
+    {
+      "lesson_id": 7,
+      "title": "Office Technology",
+      "theme_id": 2,
+      "theme_name": "Office Issues",
+      "book_pages": [
+        39,
+        44
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 51,
+        "words_in_context": 52,
+        "word_families": 53,
+        "listening_practice": 54,
+        "reading_part5_6": 55,
+        "reading_part7": 56
+      },
+      "audio_track": "track_07.mp3",
+      "part1_photo": "part1_photos/lesson_07.jpg"
+    },
+    {
+      "lesson_id": 8,
+      "title": "Office Procedures",
+      "theme_id": 2,
+      "theme_name": "Office Issues",
+      "book_pages": [
+        45,
+        50
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 57,
+        "words_in_context": 58,
+        "word_families": 59,
+        "listening_practice": 60,
+        "reading_part5_6": 61,
+        "reading_part7": 62
+      },
+      "audio_track": "track_08.mp3",
+      "part1_photo": "part1_photos/lesson_08.jpg"
+    },
+    {
+      "lesson_id": 9,
+      "title": "Electronics",
+      "theme_id": 2,
+      "theme_name": "Office Issues",
+      "book_pages": [
+        51,
+        56
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 63,
+        "words_in_context": 64,
+        "word_families": 65,
+        "listening_practice": 66,
+        "reading_part5_6": 67,
+        "reading_part7": 68
+      },
+      "audio_track": "track_09.mp3",
+      "part1_photo": "part1_photos/lesson_09.jpg"
+    },
+    {
+      "lesson_id": 10,
+      "title": "Correspondence",
+      "theme_id": 2,
+      "theme_name": "Office Issues",
+      "book_pages": [
+        57,
+        62
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 69,
+        "words_in_context": 70,
+        "word_families": 71,
+        "listening_practice": 72,
+        "reading_part5_6": 73,
+        "reading_part7": 74
+      },
+      "audio_track": "track_10.mp3",
+      "part1_photo": "part1_photos/lesson_10.jpg"
+    },
+    {
+      "lesson_id": 11,
+      "title": "Job Advertising and Recruiting",
+      "theme_id": 3,
+      "theme_name": "Personnel",
+      "book_pages": [
+        65,
+        70
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 77,
+        "words_in_context": 78,
+        "word_families": 79,
+        "listening_practice": 80,
+        "reading_part5_6": 81,
+        "reading_part7": 82
+      },
+      "audio_track": "track_11.mp3",
+      "part1_photo": "part1_photos/lesson_11.jpg"
+    },
+    {
+      "lesson_id": 12,
+      "title": "Applying and Interviewing",
+      "theme_id": 3,
+      "theme_name": "Personnel",
+      "book_pages": [
+        71,
+        76
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 83,
+        "words_in_context": 84,
+        "word_families": 85,
+        "listening_practice": 86,
+        "reading_part5_6": 87,
+        "reading_part7": 88
+      },
+      "audio_track": "track_12.mp3",
+      "part1_photo": "part1_photos/lesson_12.jpg"
+    },
+    {
+      "lesson_id": 13,
+      "title": "Hiring and Training",
+      "theme_id": 3,
+      "theme_name": "Personnel",
+      "book_pages": [
+        77,
+        82
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 89,
+        "words_in_context": 90,
+        "word_families": 91,
+        "listening_practice": 92,
+        "reading_part5_6": 93,
+        "reading_part7": 94
+      },
+      "audio_track": "track_13.mp3",
+      "part1_photo": "part1_photos/lesson_13.jpg"
+    },
+    {
+      "lesson_id": 14,
+      "title": "Salaries and Benefits",
+      "theme_id": 3,
+      "theme_name": "Personnel",
+      "book_pages": [
+        83,
+        88
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 95,
+        "words_in_context": 96,
+        "word_families": 97,
+        "listening_practice": 98,
+        "reading_part5_6": 99,
+        "reading_part7": 100
+      },
+      "audio_track": "track_14.mp3",
+      "part1_photo": "part1_photos/lesson_14.jpg"
+    },
+    {
+      "lesson_id": 15,
+      "title": "Promotions, Pensions, and Awards",
+      "theme_id": 3,
+      "theme_name": "Personnel",
+      "book_pages": [
+        89,
+        94
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 101,
+        "words_in_context": 102,
+        "word_families": 103,
+        "listening_practice": 104,
+        "reading_part5_6": 105,
+        "reading_part7": 106
+      },
+      "audio_track": "track_15.mp3",
+      "part1_photo": "part1_photos/lesson_15.jpg"
+    },
+    {
+      "lesson_id": 16,
+      "title": "Shopping",
+      "theme_id": 4,
+      "theme_name": "Purchasing",
+      "book_pages": [
+        97,
+        102
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 109,
+        "words_in_context": 110,
+        "word_families": 111,
+        "listening_practice": 112,
+        "reading_part5_6": 113,
+        "reading_part7": 114
+      },
+      "audio_track": "track_16.mp3",
+      "part1_photo": "part1_photos/lesson_16.jpg"
+    },
+    {
+      "lesson_id": 17,
+      "title": "Ordering Supplies",
+      "theme_id": 4,
+      "theme_name": "Purchasing",
+      "book_pages": [
+        103,
+        108
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 115,
+        "words_in_context": 116,
+        "word_families": 117,
+        "listening_practice": 118,
+        "reading_part5_6": 119,
+        "reading_part7": 120
+      },
+      "audio_track": "track_17.mp3",
+      "part1_photo": "part1_photos/lesson_17.jpg"
+    },
+    {
+      "lesson_id": 18,
+      "title": "Shipping",
+      "theme_id": 4,
+      "theme_name": "Purchasing",
+      "book_pages": [
+        109,
+        114
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 121,
+        "words_in_context": 122,
+        "word_families": 123,
+        "listening_practice": 124,
+        "reading_part5_6": 125,
+        "reading_part7": 126
+      },
+      "audio_track": "track_18.mp3",
+      "part1_photo": "part1_photos/lesson_18.jpg"
+    },
+    {
+      "lesson_id": 19,
+      "title": "Invoices",
+      "theme_id": 4,
+      "theme_name": "Purchasing",
+      "book_pages": [
+        115,
+        120
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 127,
+        "words_in_context": 128,
+        "word_families": 129,
+        "listening_practice": 130,
+        "reading_part5_6": 131,
+        "reading_part7": 132
+      },
+      "audio_track": "track_19.mp3",
+      "part1_photo": "part1_photos/lesson_19.jpg"
+    },
+    {
+      "lesson_id": 20,
+      "title": "Inventory",
+      "theme_id": 4,
+      "theme_name": "Purchasing",
+      "book_pages": [
+        121,
+        126
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 133,
+        "words_in_context": 134,
+        "word_families": 135,
+        "listening_practice": 136,
+        "reading_part5_6": 137,
+        "reading_part7": 138
+      },
+      "audio_track": "track_20.mp3",
+      "part1_photo": "part1_photos/lesson_20.jpg"
+    },
+    {
+      "lesson_id": 21,
+      "title": "Banking",
+      "theme_id": 5,
+      "theme_name": "Financing and Budgeting",
+      "book_pages": [
+        129,
+        134
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 141,
+        "words_in_context": 142,
+        "word_families": 143,
+        "listening_practice": 144,
+        "reading_part5_6": 145,
+        "reading_part7": 146
+      },
+      "audio_track": "track_21.mp3",
+      "part1_photo": "part1_photos/lesson_21.jpg"
+    },
+    {
+      "lesson_id": 22,
+      "title": "Accounting",
+      "theme_id": 5,
+      "theme_name": "Financing and Budgeting",
+      "book_pages": [
+        135,
+        140
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 147,
+        "words_in_context": 148,
+        "word_families": 149,
+        "listening_practice": 150,
+        "reading_part5_6": 151,
+        "reading_part7": 152
+      },
+      "audio_track": "track_22.mp3",
+      "part1_photo": "part1_photos/lesson_22.jpg"
+    },
+    {
+      "lesson_id": 23,
+      "title": "Investments",
+      "theme_id": 5,
+      "theme_name": "Financing and Budgeting",
+      "book_pages": [
+        141,
+        146
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 153,
+        "words_in_context": 154,
+        "word_families": 155,
+        "listening_practice": 156,
+        "reading_part5_6": 157,
+        "reading_part7": 158
+      },
+      "audio_track": "track_23.mp3",
+      "part1_photo": "part1_photos/lesson_23.jpg"
+    },
+    {
+      "lesson_id": 24,
+      "title": "Taxes",
+      "theme_id": 5,
+      "theme_name": "Financing and Budgeting",
+      "book_pages": [
+        147,
+        152
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 159,
+        "words_in_context": 160,
+        "word_families": 161,
+        "listening_practice": 162,
+        "reading_part5_6": 163,
+        "reading_part7": 164
+      },
+      "audio_track": "track_24.mp3",
+      "part1_photo": "part1_photos/lesson_24.jpg"
+    },
+    {
+      "lesson_id": 25,
+      "title": "Financial Statements",
+      "theme_id": 5,
+      "theme_name": "Financing and Budgeting",
+      "book_pages": [
+        153,
+        158
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 165,
+        "words_in_context": 166,
+        "word_families": 167,
+        "listening_practice": 168,
+        "reading_part5_6": 169,
+        "reading_part7": 170
+      },
+      "audio_track": "track_25.mp3",
+      "part1_photo": "part1_photos/lesson_25.jpg"
+    },
+    {
+      "lesson_id": 26,
+      "title": "Property and Departments",
+      "theme_id": 6,
+      "theme_name": "Management Issues",
+      "book_pages": [
+        161,
+        166
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 173,
+        "words_in_context": 174,
+        "word_families": 175,
+        "listening_practice": 176,
+        "reading_part5_6": 177,
+        "reading_part7": 178
+      },
+      "audio_track": "track_26.mp3",
+      "part1_photo": "part1_photos/lesson_26.jpg"
+    },
+    {
+      "lesson_id": 27,
+      "title": "Board Meetings and Committees",
+      "theme_id": 6,
+      "theme_name": "Management Issues",
+      "book_pages": [
+        167,
+        172
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 179,
+        "words_in_context": 180,
+        "word_families": 181,
+        "listening_practice": 182,
+        "reading_part5_6": 183,
+        "reading_part7": 184
+      },
+      "audio_track": "track_27.mp3",
+      "part1_photo": "part1_photos/lesson_27.jpg"
+    },
+    {
+      "lesson_id": 28,
+      "title": "Quality Control",
+      "theme_id": 6,
+      "theme_name": "Management Issues",
+      "book_pages": [
+        173,
+        178
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 185,
+        "words_in_context": 186,
+        "word_families": 187,
+        "listening_practice": 188,
+        "reading_part5_6": 189,
+        "reading_part7": 190
+      },
+      "audio_track": "track_28.mp3",
+      "part1_photo": "part1_photos/lesson_28.jpg"
+    },
+    {
+      "lesson_id": 29,
+      "title": "Product Development",
+      "theme_id": 6,
+      "theme_name": "Management Issues",
+      "book_pages": [
+        179,
+        184
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 191,
+        "words_in_context": 192,
+        "word_families": 193,
+        "listening_practice": 194,
+        "reading_part5_6": 195,
+        "reading_part7": 196
+      },
+      "audio_track": "track_29.mp3",
+      "part1_photo": "part1_photos/lesson_29.jpg"
+    },
+    {
+      "lesson_id": 30,
+      "title": "Renting and Leasing",
+      "theme_id": 6,
+      "theme_name": "Management Issues",
+      "book_pages": [
+        185,
+        190
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 197,
+        "words_in_context": 198,
+        "word_families": 199,
+        "listening_practice": 200,
+        "reading_part5_6": 201,
+        "reading_part7": 202
+      },
+      "audio_track": "track_30.mp3",
+      "part1_photo": "part1_photos/lesson_30.jpg"
+    },
+    {
+      "lesson_id": 31,
+      "title": "Selecting a Restaurant",
+      "theme_id": 7,
+      "theme_name": "Restaurants and Events",
+      "book_pages": [
+        193,
+        198
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 205,
+        "words_in_context": 206,
+        "word_families": 207,
+        "listening_practice": 208,
+        "reading_part5_6": 209,
+        "reading_part7": 210
+      },
+      "audio_track": "track_31.mp3",
+      "part1_photo": "part1_photos/lesson_31.jpg"
+    },
+    {
+      "lesson_id": 32,
+      "title": "Eating Out",
+      "theme_id": 7,
+      "theme_name": "Restaurants and Events",
+      "book_pages": [
+        199,
+        204
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 211,
+        "words_in_context": 212,
+        "word_families": 213,
+        "listening_practice": 214,
+        "reading_part5_6": 215,
+        "reading_part7": 216
+      },
+      "audio_track": "track_32.mp3",
+      "part1_photo": "part1_photos/lesson_32.jpg"
+    },
+    {
+      "lesson_id": 33,
+      "title": "Ordering Lunch",
+      "theme_id": 7,
+      "theme_name": "Restaurants and Events",
+      "book_pages": [
+        205,
+        210
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 217,
+        "words_in_context": 218,
+        "word_families": 219,
+        "listening_practice": 220,
+        "reading_part5_6": 221,
+        "reading_part7": 222
+      },
+      "audio_track": "track_33.mp3",
+      "part1_photo": "part1_photos/lesson_33.jpg"
+    },
+    {
+      "lesson_id": 34,
+      "title": "Cooking as a Career",
+      "theme_id": 7,
+      "theme_name": "Restaurants and Events",
+      "book_pages": [
+        211,
+        216
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 223,
+        "words_in_context": 224,
+        "word_families": 225,
+        "listening_practice": 226,
+        "reading_part5_6": 227,
+        "reading_part7": 228
+      },
+      "audio_track": "track_34.mp3",
+      "part1_photo": "part1_photos/lesson_34.jpg"
+    },
+    {
+      "lesson_id": 35,
+      "title": "Events",
+      "theme_id": 7,
+      "theme_name": "Restaurants and Events",
+      "book_pages": [
+        217,
+        222
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 229,
+        "words_in_context": 230,
+        "word_families": 231,
+        "listening_practice": 232,
+        "reading_part5_6": 233,
+        "reading_part7": 234
+      },
+      "audio_track": "track_35.mp3",
+      "part1_photo": "part1_photos/lesson_35.jpg"
+    },
+    {
+      "lesson_id": 36,
+      "title": "General Travel",
+      "theme_id": 8,
+      "theme_name": "Travel",
+      "book_pages": [
+        225,
+        230
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 237,
+        "words_in_context": 238,
+        "word_families": 239,
+        "listening_practice": 240,
+        "reading_part5_6": 241,
+        "reading_part7": 242
+      },
+      "audio_track": "track_36.mp3",
+      "part1_photo": "part1_photos/lesson_36.jpg"
+    },
+    {
+      "lesson_id": 37,
+      "title": "Airlines",
+      "theme_id": 8,
+      "theme_name": "Travel",
+      "book_pages": [
+        231,
+        236
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 243,
+        "words_in_context": 244,
+        "word_families": 245,
+        "listening_practice": 246,
+        "reading_part5_6": 247,
+        "reading_part7": 248
+      },
+      "audio_track": "track_37.mp3",
+      "part1_photo": "part1_photos/lesson_37.jpg"
+    },
+    {
+      "lesson_id": 38,
+      "title": "Trains",
+      "theme_id": 8,
+      "theme_name": "Travel",
+      "book_pages": [
+        237,
+        242
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 249,
+        "words_in_context": 250,
+        "word_families": 251,
+        "listening_practice": 252,
+        "reading_part5_6": 253,
+        "reading_part7": 254
+      },
+      "audio_track": "track_38.mp3",
+      "part1_photo": "part1_photos/lesson_38.jpg"
+    },
+    {
+      "lesson_id": 39,
+      "title": "Hotels",
+      "theme_id": 8,
+      "theme_name": "Travel",
+      "book_pages": [
+        243,
+        248
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 255,
+        "words_in_context": 256,
+        "word_families": 257,
+        "listening_practice": 258,
+        "reading_part5_6": 259,
+        "reading_part7": 260
+      },
+      "audio_track": "track_39.mp3",
+      "part1_photo": "part1_photos/lesson_39.jpg"
+    },
+    {
+      "lesson_id": 40,
+      "title": "Car Rentals",
+      "theme_id": 8,
+      "theme_name": "Travel",
+      "book_pages": [
+        249,
+        254
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 261,
+        "words_in_context": 262,
+        "word_families": 263,
+        "listening_practice": 264,
+        "reading_part5_6": 265,
+        "reading_part7": 266
+      },
+      "audio_track": "track_40.mp3",
+      "part1_photo": "part1_photos/lesson_40.jpg"
+    },
+    {
+      "lesson_id": 41,
+      "title": "Movies",
+      "theme_id": 9,
+      "theme_name": "Entertainment",
+      "book_pages": [
+        257,
+        262
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 269,
+        "words_in_context": 270,
+        "word_families": 271,
+        "listening_practice": 272,
+        "reading_part5_6": 273,
+        "reading_part7": 274
+      },
+      "audio_track": "track_41.mp3",
+      "part1_photo": "part1_photos/lesson_41.jpg"
+    },
+    {
+      "lesson_id": 42,
+      "title": "Theater",
+      "theme_id": 9,
+      "theme_name": "Entertainment",
+      "book_pages": [
+        263,
+        268
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 275,
+        "words_in_context": 276,
+        "word_families": 277,
+        "listening_practice": 278,
+        "reading_part5_6": 279,
+        "reading_part7": 280
+      },
+      "audio_track": "track_42.mp3",
+      "part1_photo": "part1_photos/lesson_42.jpg"
+    },
+    {
+      "lesson_id": 43,
+      "title": "Music",
+      "theme_id": 9,
+      "theme_name": "Entertainment",
+      "book_pages": [
+        269,
+        274
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 281,
+        "words_in_context": 282,
+        "word_families": 283,
+        "listening_practice": 284,
+        "reading_part5_6": 285,
+        "reading_part7": 286
+      },
+      "audio_track": "track_43.mp3",
+      "part1_photo": "part1_photos/lesson_43.jpg"
+    },
+    {
+      "lesson_id": 44,
+      "title": "Museums",
+      "theme_id": 9,
+      "theme_name": "Entertainment",
+      "book_pages": [
+        275,
+        280
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 287,
+        "words_in_context": 288,
+        "word_families": 289,
+        "listening_practice": 290,
+        "reading_part5_6": 291,
+        "reading_part7": 292
+      },
+      "audio_track": "track_44.mp3",
+      "part1_photo": "part1_photos/lesson_44.jpg"
+    },
+    {
+      "lesson_id": 45,
+      "title": "Media",
+      "theme_id": 9,
+      "theme_name": "Entertainment",
+      "book_pages": [
+        281,
+        286
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 293,
+        "words_in_context": 294,
+        "word_families": 295,
+        "listening_practice": 296,
+        "reading_part5_6": 297,
+        "reading_part7": 298
+      },
+      "audio_track": "track_45.mp3",
+      "part1_photo": "part1_photos/lesson_45.jpg"
+    },
+    {
+      "lesson_id": 46,
+      "title": "Doctor's Office",
+      "theme_id": 10,
+      "theme_name": "Health",
+      "book_pages": [
+        289,
+        294
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 301,
+        "words_in_context": 302,
+        "word_families": 303,
+        "listening_practice": 304,
+        "reading_part5_6": 305,
+        "reading_part7": 306
+      },
+      "audio_track": "track_46.mp3",
+      "part1_photo": "part1_photos/lesson_46.jpg"
+    },
+    {
+      "lesson_id": 47,
+      "title": "Dentist's Office",
+      "theme_id": 10,
+      "theme_name": "Health",
+      "book_pages": [
+        295,
+        300
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 307,
+        "words_in_context": 308,
+        "word_families": 309,
+        "listening_practice": 310,
+        "reading_part5_6": 311,
+        "reading_part7": 312
+      },
+      "audio_track": "track_47.mp3",
+      "part1_photo": "part1_photos/lesson_47.jpg"
+    },
+    {
+      "lesson_id": 48,
+      "title": "Health Insurance",
+      "theme_id": 10,
+      "theme_name": "Health",
+      "book_pages": [
+        301,
+        306
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 313,
+        "words_in_context": 314,
+        "word_families": 315,
+        "listening_practice": 316,
+        "reading_part5_6": 317,
+        "reading_part7": 318
+      },
+      "audio_track": "track_48.mp3",
+      "part1_photo": "part1_photos/lesson_48.jpg"
+    },
+    {
+      "lesson_id": 49,
+      "title": "Hospitals",
+      "theme_id": 10,
+      "theme_name": "Health",
+      "book_pages": [
+        307,
+        312
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 319,
+        "words_in_context": 320,
+        "word_families": 321,
+        "listening_practice": 322,
+        "reading_part5_6": 323,
+        "reading_part7": 324
+      },
+      "audio_track": "track_49.mp3",
+      "part1_photo": "part1_photos/lesson_49.jpg"
+    },
+    {
+      "lesson_id": 50,
+      "title": "Pharmacy",
+      "theme_id": 10,
+      "theme_name": "Health",
+      "book_pages": [
+        313,
+        318
+      ],
+      "pdf_pages_1indexed": {
+        "words_to_learn": 325,
+        "words_in_context": 326,
+        "word_families": 327,
+        "listening_practice": 328,
+        "reading_part5_6": 329,
+        "reading_part7": 330
+      },
+      "audio_track": "track_50.mp3",
+      "part1_photo": "part1_photos/lesson_50.jpg"
+    }
+  ]
+}

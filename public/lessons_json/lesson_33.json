@@ -1,0 +1,1652 @@
+{
+  "lesson_id": 33,
+  "title": "Ordering Lunch",
+  "theme_name": "Restaurants and Events",
+  "audio_track": "track_33.mp3",
+  "part1_photo": "part1_photos/lesson_33.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "burden",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a responsibility; something that is carried",
+      "definition_vi": "gánh nặng, trách nhiệm nặng nề; chất gánh nặng lên",
+      "examples": [
+        {
+          "en": "The secretary usually takes on the burden of ordering lunch for business meetings.",
+          "vi": "Người thư ký thường gánh vác trách nhiệm đặt bữa trưa cho các cuộc họp kinh doanh."
+        },
+        {
+          "en": "The deliveryman's back ached from the heavy burden he carried.",
+          "vi": "Lưng của người giao hàng đau nhức vì kiện hàng nặng mà anh ấy mang vác."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "burden",
+          "example": "The frequently complicated lunch orders unfairly burdened Jacques."
+        },
+        {
+          "pos": "noun",
+          "word": "burden",
+          "example": "In addition to all her other responsibilities, Marie had the burden of picking up the daily lunch order."
+        },
+        {
+          "pos": "",
+          "word": "burdensome",
+          "example": "Keeping track of everybody&#x27;s lunch orders can be a burdensome task."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "take on the burden",
+        "financial burden",
+        "ease the burden",
+        "burdensome task"
+      ],
+      "usage": {
+        "structures": [
+          "the burden of (doing) something (gánh nặng của việc gì)",
+          "burden somebody with something (chất gánh nặng gì lên ai)"
+        ],
+        "prepositions": [
+          "of",
+          "on",
+          "to",
+          "with"
+        ],
+        "collocations": [
+          "heavy burden",
+          "reduce the burden on",
+          "shoulder the burden",
+          "burdensome regulations"
+        ],
+        "tip": "Tính từ của 'burden' là 'burdensome' (nặng nề, phiền toái), thường đi kèm các từ như 'task', 'paperwork', 'regulations'."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "burdensomely",
+          "example": "The new reporting rules were burdensomely complex for small catering businesses.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The new online ordering platform has eliminated the _____ paperwork previously required for group lunches.",
+        "answer": "burdensome",
+        "base_word": "burden",
+        "pos_hint": "tính từ",
+        "vi": "Nền tảng đặt hàng trực tuyến mới đã loại bỏ những thủ tục giấy tờ phiền toái từng được yêu cầu trước đây cho các bữa trưa theo nhóm."
+      }
+    },
+    {
+      "id": 2,
+      "word": "commonly",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "usually, habitually",
+      "definition_vi": "thông thường, phổ biến, thường xuyên",
+      "examples": [
+        {
+          "en": "The people who work in this building commonly order their lunch from the sandwich shop on the first floor.",
+          "vi": "Những người làm việc trong tòa nhà này thường đặt bữa trưa từ tiệm bánh mì kẹp ở tầng một."
+        },
+        {
+          "en": "The restaurants in this area commonly serve office workers and are only open during the week.",
+          "vi": "Các nhà hàng ở khu vực này thường phục vụ nhân viên văn phòng và chỉ mở cửa vào các ngày trong tuần."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "in common",
+          "example": "The two secretaries keep a file of restaurant menus in common to facilitate placing an order."
+        },
+        {
+          "pos": "",
+          "word": "common",
+          "example": "It is a common practice for restaurants to deliver."
+        },
+        {
+          "pos": "adjective",
+          "word": "commonly",
+          "example": "It was commonly known that the sandwich shop had slow deliverymen."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "commonly used",
+        "commonly known as",
+        "commonly order",
+        "commonly found"
+      ],
+      "usage": {
+        "structures": [
+          "be commonly + V3/ed (thường được...)",
+          "have something in common (có điểm chung)"
+        ],
+        "prepositions": [
+          "in",
+          "with",
+          "to"
+        ],
+        "collocations": [
+          "commonly referred to as",
+          "common practice",
+          "common sense",
+          "have much in common"
+        ],
+        "tip": "Trạng từ 'commonly' rất hay đứng giữa 'be' và quá khứ phân từ V3/ed (be commonly used / known / seen)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "commonality",
+          "example": "Freshness of ingredients is the main commonality among all top-rated bistros.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "It is _____ practice for catering companies to require a 50 percent deposit upon booking.",
+        "answer": "common",
+        "base_word": "commonly",
+        "pos_hint": "tính từ",
+        "vi": "Việc các công ty dịch vụ ăn uống yêu cầu đặt cọc 50 phần trăm khi đặt dịch vụ là một thông lệ phổ biến."
+      }
+    },
+    {
+      "id": 3,
+      "word": "delivery",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the act of conveying or delivering",
+      "definition_vi": "sự giao hàng, sự phân phát, chuyến hàng giao",
+      "examples": [
+        {
+          "en": "The caterer hired a courier to make the delivery.",
+          "vi": "Nhà cung cấp dịch vụ ăn uống đã thuê một nhân viên chuyển phát để thực hiện việc giao hàng."
+        },
+        {
+          "en": "The restaurant is reluctant to make deliveries, but makes an exception for our office.",
+          "vi": "Nhà hàng đó khá ngần ngại trong việc giao đồ ăn tận nơi, nhưng lại dành một ngoại lệ cho văn phòng của chúng tôi."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "deliver",
+          "example": "That restaurant delivers food at no extra charge."
+        },
+        {
+          "pos": "noun",
+          "word": "delivery",
+          "example": "We all got very hungry waiting for the delivery to arrive."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "make a delivery",
+        "express delivery",
+        "cash on delivery",
+        "delivery fee"
+      ],
+      "usage": {
+        "structures": [
+          "make a delivery / deliveries (thực hiện việc giao hàng)",
+          "take delivery of something (nhận hàng)"
+        ],
+        "prepositions": [
+          "of",
+          "on",
+          "to"
+        ],
+        "collocations": [
+          "free delivery",
+          "estimated delivery time",
+          "upon delivery",
+          "delivery service"
+        ],
+        "tip": "Trong TOEIC, cụm danh từ ghép 'delivery + N' (delivery truck, delivery date, delivery charge) xuất hiện với tần suất rất cao."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "deliverable",
+          "example": "Hot lunches are deliverable to any office address within a five-mile radius.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The corner delicatessen _____ complimentary lunches to local businesses when orders exceed $100.",
+        "answer": "delivers",
+        "base_word": "delivery",
+        "pos_hint": "động từ chia hiện tại đơn ngôi thứ 3 số ít",
+        "vi": "Tiệm đồ ăn nhẹ ở góc phố giao bữa trưa miễn phí cho các doanh nghiệp địa phương khi đơn hàng vượt quá 100 đô la."
+      }
+    },
+    {
+      "id": 4,
+      "word": "elegance",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "refinement, beauty, grace",
+      "definition_vi": "sự thanh lịch, sự tao nhã, vẻ sang trọng",
+      "examples": [
+        {
+          "en": "The elegance of the restaurant made it a pleasant place to eat.",
+          "vi": "Vẻ sang trọng thanh lịch của nhà hàng khiến nơi đây trở thành một địa điểm ăn uống dễ chịu."
+        },
+        {
+          "en": "A sandwich may lack elegance, but it makes a convenient and inexpensive lunch.",
+          "vi": "Một chiếc bánh mì kẹp có thể thiếu đi vẻ sang trọng, nhưng nó lại là một bữa trưa tiện lợi và hợp túi tiền."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "elegance",
+          "example": "The elegance of the surroundings was accentuated by the wonderful meal the caterers delivered."
+        },
+        {
+          "pos": "",
+          "word": "elegant",
+          "example": "Delores set an elegant table that was sure to impress."
+        },
+        {
+          "pos": "",
+          "word": "elegantly",
+          "example": "The tasty appetizers were elegantly served from silver platters."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "natural elegance",
+        "lack elegance",
+        "simple elegance",
+        "dine in elegance"
+      ],
+      "usage": {
+        "structures": [
+          "the elegance of something (vẻ thanh lịch/sang trọng của cái gì)",
+          "with elegance (một cách thanh lịch)"
+        ],
+        "prepositions": [
+          "of",
+          "in",
+          "with"
+        ],
+        "collocations": [
+          "classic elegance",
+          "elegant atmosphere",
+          "elegantly decorated",
+          "understated elegance"
+        ],
+        "tip": "Chú ý hậu tố: đuôi '-ance' (elegance) là danh từ, còn đuôi '-ant' (elegant) là tính từ bổ nghĩa cho danh từ."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "elegant",
+          "example": "The executive dining hall featured an elegant modern design.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "elegantly",
+          "example": "The chef elegantly presented each course with edible flower garnishes.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The private dining room was _____ decorated with crystal chandeliers and fresh white lilies.",
+        "answer": "elegantly",
+        "base_word": "elegance",
+        "pos_hint": "trạng từ",
+        "vi": "Phòng ăn riêng được trang trí một cách thanh lịch với những chiếc đèn chùm pha lê và hoa ly trắng tươi."
+      }
+    },
+    {
+      "id": 5,
+      "word": "fall to",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to become one's responsibility",
+      "definition_vi": "trở thành trách nhiệm của ai, thuộc về phần ai",
+      "examples": [
+        {
+          "en": "The task of preparing the meal fell to the assistant chef when the chief chef was ill.",
+          "vi": "Nhiệm vụ chuẩn bị bữa ăn đã thuộc về người phụ bếp khi bếp trưởng bị ốm."
+        },
+        {
+          "en": "The menu was in French, so ordering for us fell to Monique, who spoke French.",
+          "vi": "Thực đơn được viết bằng tiếng Pháp, vì vậy việc gọi món cho chúng tôi được giao cho Monique, người biết nói tiếng Pháp."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "fall to someone to do",
+        "the task fell to",
+        "responsibility falls to",
+        "duty falls to"
+      ],
+      "usage": {
+        "structures": [
+          "something falls to somebody (nhiệm vụ/trách nhiệm gì đến tay ai)",
+          "it falls to somebody to V (đến lượt/thuộc trách nhiệm của ai phải làm gì)"
+        ],
+        "prepositions": [
+          "to"
+        ],
+        "collocations": [
+          "the burden fell to",
+          "the responsibility falls to",
+          "fall to the assistant",
+          "fall into place"
+        ],
+        "tip": "Quá khứ của 'fall to' là 'fell to' và quá khứ phân từ là 'fallen to'; thường đi với chủ ngữ là 'task', 'duty', 'responsibility', 'burden'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "fall",
+          "example": "Restaurant revenues often fall slightly after the holiday season ends.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "fall",
+          "example": "A sharp fall in wholesale vegetable prices helped the café increase its profit margin.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "fallen",
+          "example": "The staff quickly cleared the fallen leaves from the outdoor patio tables.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "When the office manager was away on business, the duty of arranging the catering _____ to the receptionist.",
+        "answer": "fell",
+        "base_word": "fall to",
+        "pos_hint": "động từ chia quá khứ đơn (V2 của fall)",
+        "vi": "Khi quản lý văn phòng đi công tác xa, nhiệm vụ sắp xếp dịch vụ ăn uống đã thuộc về nhân viên lễ tân."
+      }
+    },
+    {
+      "id": 6,
+      "word": "impress",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to affect strongly, often favorably",
+      "definition_vi": "gây ấn tượng, làm cảm phục",
+      "examples": [
+        {
+          "en": "I was impressed with how quickly they delivered our lunch.",
+          "vi": "Tôi rất ấn tượng với tốc độ giao bữa trưa nhanh chóng của họ."
+        },
+        {
+          "en": "If you want to impress the new staff member, order her a nice lunch.",
+          "vi": "Nếu bạn muốn gây ấn tượng với nhân viên mới, hãy đặt cho cô ấy một bữa trưa thật ngon."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "impress",
+          "example": "I am favorably impressed by how quickly the pizza was delivered."
+        },
+        {
+          "pos": "noun",
+          "word": "impression",
+          "example": "She gave the impression that the food would be delivered within the hour."
+        },
+        {
+          "pos": "",
+          "word": "impressionable",
+          "example": "I have an impressionable child, so I don&#x27;t like him to see deliverymen running red traffic lights."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "be impressed with/by",
+        "impress a client",
+        "make a good impression",
+        "impressive menu"
+      ],
+      "usage": {
+        "structures": [
+          "impress somebody with something (gây ấn tượng với ai bằng cái gì)",
+          "be impressed by/with something (bị ấn tượng bởi cái gì)"
+        ],
+        "prepositions": [
+          "with",
+          "by",
+          "on",
+          "upon"
+        ],
+        "collocations": [
+          "favorably impressed",
+          "leave a lasting impression",
+          "impressive selection",
+          "eager to impress"
+        ],
+        "tip": "Phân biệt 3 tính từ cùng gốc: 'impressed' (cảm thấy ấn tượng - dùng cho người), 'impressive' (đáng ngưỡng mộ/ấn tượng - dùng cho vật/thành tích), và 'impressionable' (dễ bị ảnh hưởng/nhạy cảm)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "impressive",
+          "example": "The catering company boasts an impressive list of corporate clients.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "impressively",
+          "example": "Even during the noon rush, the kitchen staff handled the orders impressively fast.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The visiting executives were given an _____ tour of our state-of-the-art food processing facility.",
+        "answer": "impressive",
+        "base_word": "impress",
+        "pos_hint": "tính từ (mang nghĩa gây ấn tượng mạnh)",
+        "vi": "Các vị giám đốc đến thăm đã được tham gia một chuyến tham quan đầy ấn tượng tại cơ sở chế biến thực phẩm hiện đại của chúng tôi."
+      }
+    },
+    {
+      "id": 7,
+      "word": "individual",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "by or for one person; special; particular",
+      "definition_vi": "cá nhân, riêng lẻ, từng cái một; một cá nhân",
+      "examples": [
+        {
+          "en": "We had the delivery man mark the contents of each individual order.",
+          "vi": "Chúng tôi đã nhờ người giao hàng đánh dấu món ăn bên trong của từng đơn hàng riêng lẻ."
+        },
+        {
+          "en": "The jaunty whistle of the delivery woman marked her individual style.",
+          "vi": "Tiếng huýt sáo vui tươi của người phụ nữ giao hàng đã tạo nên phong cách riêng biệt của cô ấy."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "individualize",
+          "example": "The take-out shop does not allow you to individualize your order by asking for substitutions."
+        },
+        {
+          "pos": "",
+          "word": "individual",
+          "example": "The portions are large enough to feed two individuals."
+        },
+        {
+          "pos": "",
+          "word": "individually",
+          "example": "The individually marked boxes made it easy for us to claim our orders."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "individual order",
+        "individual needs",
+        "individually wrapped",
+        "each individual"
+      ],
+      "usage": {
+        "structures": [
+          "each individual + N số ít (từng ... riêng lẻ)",
+          "individually + V3/ed (individually wrapped/packaged: được gói riêng từng cái)"
+        ],
+        "prepositions": [
+          "for",
+          "to"
+        ],
+        "collocations": [
+          "individually packaged",
+          "individual attention",
+          "individual preferences",
+          "tailored to the individual"
+        ],
+        "tip": "'Individual' vừa là tính từ (riêng lẻ/cá nhân) vừa là danh từ đếm được (một cá nhân = a person)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "individuality",
+          "example": "Independent cafés often attract customers because of their charm and individuality.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "For hygiene reasons, all pastries and sandwiches in the lunch box are _____ wrapped in biodegradable film.",
+        "answer": "individually",
+        "base_word": "individual",
+        "pos_hint": "trạng từ",
+        "vi": "Vì lý do vệ sinh, tất cả bánh ngọt và bánh mì kẹp trong hộp cơm trưa đều được bọc riêng từng chiếc bằng màng sinh học tự phân hủy."
+      }
+    },
+    {
+      "id": 8,
+      "word": "list",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a series of names, words, or other items",
+      "definition_vi": "danh sách; liệt kê, đưa vào danh sách",
+      "examples": [
+        {
+          "en": "The office manager compiled a list of everyone's order.",
+          "vi": "Quản lý văn phòng đã tổng hợp một danh sách các món đặt của mọi người."
+        },
+        {
+          "en": "We keep a list of all the restaurants in this area that deliver.",
+          "vi": "Chúng tôi lưu giữ một danh sách tất cả các nhà hàng có giao hàng tận nơi trong khu vực này."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "compile a list",
+        "on the list",
+        "price list",
+        "mailing list"
+      ],
+      "usage": {
+        "structures": [
+          "make/compile a list of something (lập danh sách cái gì)",
+          "be listed on/in something (được liệt kê trên/trong cái gì)"
+        ],
+        "prepositions": [
+          "of",
+          "on",
+          "in"
+        ],
+        "collocations": [
+          "compile a list",
+          "waiting list",
+          "wine list",
+          "listed price"
+        ],
+        "tip": "Danh từ 'listing' thường dùng để chỉ một mục đăng tin (ví dụ: business listing, job listing, directory listing)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "list",
+          "example": "Please list any dietary restrictions on the registration form.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "listing",
+          "example": "You can find our restaurant's phone number in the local business listings.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "listed",
+          "example": "All dishes are served with a side salad at the listed price.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Nutritional information for every beverage is clearly _____ on the café's website.",
+        "answer": "listed",
+        "base_word": "list",
+        "pos_hint": "động từ chia quá khứ phân từ V3/ed (bị động)",
+        "vi": "Thông tin dinh dưỡng cho từng loại đồ uống đều được liệt kê rõ ràng trên trang web của quán cà phê."
+      }
+    },
+    {
+      "id": 9,
+      "word": "multiple",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "having, relating to, or consisting of more than one part",
+      "definition_vi": "nhiều, gồm nhiều phần, phức hợp",
+      "examples": [
+        {
+          "en": "The delivery person was not able to keep track of the multiple order, causing a food mix-up.",
+          "vi": "Nhân viên giao hàng không thể theo dõi hết đơn hàng gồm nhiều món, dẫn đến sự nhầm lẫn đồ ăn."
+        },
+        {
+          "en": "It takes multiple steps to get into this building, which frustrates all our employees.",
+          "vi": "Phải qua nhiều bước mới vào được tòa nhà này, điều đó làm tất cả nhân viên của chúng tôi cảm thấy phiền lòng."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "multiple occasions",
+        "multiple locations",
+        "multiple copies",
+        "multiple choice"
+      ],
+      "usage": {
+        "structures": [
+          "multiple + N số nhiều (nhiều ...)",
+          "a multiple of something (bội số của cái gì)"
+        ],
+        "prepositions": [
+          "of"
+        ],
+        "collocations": [
+          "multiple times",
+          "multiple branches",
+          "from multiple sources",
+          "multiply rapidly"
+        ],
+        "tip": "'Multiple' thông thường đứng trước danh từ đếm được số nhiều (tương đương với 'many' hoặc 'several' nhưng trang trọng hơn)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "multiply",
+          "example": "As the catering firm's reputation grew, its monthly orders multiplied.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "multiplicity",
+          "example": "The food court offers a multiplicity of dining options for busy shoppers.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "multiple",
+          "example": "Customers ordering for large meetings can select multiple platter options.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Since opening its first downtown shop five years ago, the bakery has _____ its revenue three times over.",
+        "answer": "multiplied",
+        "base_word": "multiple",
+        "pos_hint": "động từ chia quá khứ phân từ V3/ed",
+        "vi": "Kể từ khi mở cửa hàng đầu tiên ở trung tâm thành phố cách đây năm năm, tiệm bánh đã nhân doanh thu của mình lên gấp ba lần."
+      }
+    },
+    {
+      "id": 10,
+      "word": "narrow",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to limit or restrict",
+      "definition_vi": "thu hẹp, giới hạn lại; chật hẹp",
+      "examples": [
+        {
+          "en": "Etseko narrowed the restaurant possibilities down to three.",
+          "vi": "Etseko đã thu hẹp các lựa chọn nhà hàng xuống còn ba nơi."
+        },
+        {
+          "en": "This restaurant delivers only pizza and sandwiches, so that certainly narrows down the choices.",
+          "vi": "Nhà hàng này chỉ giao pizza và bánh mì kẹp, vì vậy điều đó chắc chắn làm thu hẹp các lựa chọn."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "narrow down the choices",
+        "narrow the gap",
+        "narrow margin",
+        "narrowly escape"
+      ],
+      "usage": {
+        "structures": [
+          "narrow something down to... (thu hẹp cái gì xuống còn...)",
+          "narrow the gap/choices/options (thu hẹp khoảng cách/các lựa chọn)"
+        ],
+        "prepositions": [
+          "down",
+          "to"
+        ],
+        "collocations": [
+          "narrow down the list",
+          "narrow victory",
+          "narrowly miss",
+          "a narrow range of"
+        ],
+        "tip": "Khi là động từ trong TOEIC, 'narrow' hầu như luôn đi kèm 'down' và 'to' (narrow the possibilities/choices/candidates down to...)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "narrow",
+          "example": "The committee narrowed the catering bids down to two local vendors.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "narrowness",
+          "example": "Due to the narrowness of the alley, large delivery vans must park on the main street.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "narrow",
+          "example": "The café occupies a charming, narrow building near the train station.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "narrowly",
+          "example": "The courier narrowly avoided the traffic jam by taking a side street.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "After tasting samples from six bakeries, the event team _____ the selection down to two finalists.",
+        "answer": "narrowed",
+        "base_word": "narrow",
+        "pos_hint": "động từ chia quá khứ đơn V-ed",
+        "vi": "Sau khi nếm thử mẫu từ sáu tiệm bánh, đội ngũ tổ chức sự kiện đã thu hẹp lựa chọn xuống còn hai cái tên cuối cùng."
+      }
+    },
+    {
+      "id": 11,
+      "word": "pick up",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to take on passengers or freight",
+      "definition_vi": "lấy (hàng/đồ ăn), đón (khách), nhặt lên",
+      "examples": [
+        {
+          "en": "The delivery man picks up lunch orders on his motor scooter.",
+          "vi": "Nhân viên giao hàng đến lấy các đơn ăn trưa bằng chiếc xe tay ga của mình."
+        },
+        {
+          "en": "If you ask me nicely, I will pick up the order on my way home.",
+          "vi": "Nếu bạn nhờ tôi một cách tử tế, tôi sẽ ghé lấy đồ ăn đã đặt trên đường về nhà."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "pick up an order",
+        "pick up passengers",
+        "pick up the tab",
+        "store pickup"
+      ],
+      "usage": {
+        "structures": [
+          "pick up + N / pick + đại từ + up (lấy hàng, đón người)",
+          "pick up the bill/tab/check (trả tiền hóa đơn ăn uống)"
+        ],
+        "prepositions": [
+          "at",
+          "from"
+        ],
+        "collocations": [
+          "pick up a package",
+          "pick up at the airport",
+          "pick up speed",
+          "curbside pickup"
+        ],
+        "tip": "Ngoài nghĩa 'lấy đồ/đón khách', trong ngữ cảnh nhà hàng, 'pick up the tab/bill/check' có nghĩa là 'thanh toán hóa đơn cho cả bàn', còn 'sales pick up' nghĩa là 'doanh số khởi sắc'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "pick",
+          "example": "Diners can pick any two side dishes to accompany their main course.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "pickup",
+          "example": "Your takeout order will be ready for pickup in twenty minutes.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "picky",
+          "example": "The children's menu is specially designed to please even the most picky eaters.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Customers who choose in-store _____ rather than delivery will receive a 10 percent discount on their order.",
+        "answer": "pickup",
+        "base_word": "pick up",
+        "pos_hint": "danh từ ghép (viết liền)",
+        "vi": "Những khách hàng chọn tự đến lấy tại cửa hàng thay vì giao tận nơi sẽ được giảm giá 10 phần trăm trên đơn hàng."
+      }
+    },
+    {
+      "id": 12,
+      "word": "settle",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to make compensation for, to pay; to choose",
+      "definition_vi": "thanh toán (hóa đơn); quyết định chọn; giải quyết, dàn xếp",
+      "examples": [
+        {
+          "en": "We settled the bill with the cashier.",
+          "vi": "Chúng tôi đã thanh toán hóa đơn với nhân viên thu ngân."
+        },
+        {
+          "en": "After much debate, we finally settled on the bistro on the corner.",
+          "vi": "Sau nhiều cuộc tranh luận, cuối cùng chúng tôi cũng chốt chọn quán ăn nhỏ ở góc phố."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "settle the bill",
+        "settle on a restaurant",
+        "settle a dispute",
+        "reach a settlement"
+      ],
+      "usage": {
+        "structures": [
+          "settle a bill/account (thanh toán hóa đơn/tài khoản)",
+          "settle on something (quyết định chọn cái gì sau khi cân nhắc)"
+        ],
+        "prepositions": [
+          "on",
+          "with",
+          "for"
+        ],
+        "collocations": [
+          "settle an account",
+          "settle on a date",
+          "settle a claim",
+          "out-of-court settlement"
+        ],
+        "tip": "Nhớ 2 nghĩa cực quan trọng trong TOEIC: 'settle the bill/account' (= pay: thanh toán) và 'settle on + N' (= choose/decide on: chốt chọn cái gì)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "settle",
+          "example": "Please settle your room charges at the front desk before checking out.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "settlement",
+          "example": "Prompt settlement of monthly catering invoices is greatly appreciated.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "settled",
+          "example": "Once the menu details are settled, we will sign the catering agreement.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Full _____ of the banquet invoice is required within fourteen days of the event.",
+        "answer": "settlement",
+        "base_word": "settle",
+        "pos_hint": "danh từ (sự thanh toán)",
+        "vi": "Việc thanh toán toàn bộ hóa đơn tiệc được yêu cầu thực hiện trong vòng mười bốn ngày kể từ ngày diễn ra sự kiện."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "As the office manager, it usually (1) ____ Lucia to order the food for a working lunch or an office party. Lucia finds ordering food for a working lunch to be especially (2) ____. First, in order to avoid placing (3) ____ small orders from different food establishments, she must (4) ____ down the choice to one kind of food. The most (5) ____ choices are sandwiches and (6) ____ pizzas. Once she has (7) ____ on a good choice, she calls a restaurant or other food service on her approved (8) ____. Usually she needs the food (9) ____ so she does not have to leave the office and (10) ____ the order herself. In case of a more formal lunch, where her boss is trying to (11) ____ new clients, for example, Lucia will call a catering service that can provide a more (12) ____ meal.",
+    "word_bank": [
+      "burdensome",
+      "elegant",
+      "individual",
+      "narrow",
+      "common",
+      "falls to",
+      "list",
+      "pick up",
+      "delivered",
+      "impress",
+      "multiple",
+      "settled"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "burden",
+        "example": "The frequently complicated lunch orders unfairly burdened Jacques.",
+        "pos": "verb"
+      },
+      {
+        "word": "burden",
+        "example": "In addition to all her other responsibilities, Marie had the burden of picking up the daily lunch order.",
+        "pos": "noun"
+      },
+      {
+        "word": "burdensome",
+        "example": "Keeping track of everybody&#x27;s lunch orders can be a burdensome task.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "in common",
+        "example": "The two secretaries keep a file of restaurant menus in common to facilitate placing an order.",
+        "pos": "noun"
+      },
+      {
+        "word": "common",
+        "example": "It is a common practice for restaurants to deliver.",
+        "pos": ""
+      },
+      {
+        "word": "commonly",
+        "example": "It was commonly known that the sandwich shop had slow deliverymen.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "deliver",
+        "example": "That restaurant delivers food at no extra charge.",
+        "pos": ""
+      },
+      {
+        "word": "delivery",
+        "example": "We all got very hungry waiting for the delivery to arrive.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "elegance",
+        "example": "The elegance of the surroundings was accentuated by the wonderful meal the caterers delivered.",
+        "pos": ""
+      },
+      {
+        "word": "elegant",
+        "example": "Delores set an elegant table that was sure to impress.",
+        "pos": ""
+      },
+      {
+        "word": "elegantly",
+        "example": "The tasty appetizers were elegantly served from silver platters.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "impress",
+        "example": "I am favorably impressed by how quickly the pizza was delivered.",
+        "pos": ""
+      },
+      {
+        "word": "impression",
+        "example": "She gave the impression that the food would be delivered within the hour.",
+        "pos": "noun"
+      },
+      {
+        "word": "impressionable",
+        "example": "I have an impressionable child, so I don&#x27;t like him to see deliverymen running red traffic lights.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "individualize",
+        "example": "The take-out shop does not allow you to individualize your order by asking for substitutions.",
+        "pos": ""
+      },
+      {
+        "word": "individual",
+        "example": "The portions are large enough to feed two individuals.",
+        "pos": ""
+      },
+      {
+        "word": "individually",
+        "example": "The individually marked boxes made it easy for us to claim our orders.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "George no longer wants to be in charge of lunch orders because he finds that job too ____.",
+        "options": [
+          {
+            "label": "A",
+            "text": "burdens"
+          },
+          {
+            "label": "B",
+            "text": "burdened"
+          },
+          {
+            "label": "C",
+            "text": "burden"
+          },
+          {
+            "label": "D",
+            "text": "burdensome"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "We ____ meet the delivery person in the lobby to pick up our orders.",
+        "options": [
+          {
+            "label": "A",
+            "text": "common"
+          },
+          {
+            "label": "B",
+            "text": "in common"
+          },
+          {
+            "label": "C",
+            "text": "commonly"
+          },
+          {
+            "label": "D",
+            "text": "commonness"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "The ____ from that restaurant always arrive late.",
+        "options": [
+          {
+            "label": "A",
+            "text": "delivers"
+          },
+          {
+            "label": "B",
+            "text": "deliveries"
+          },
+          {
+            "label": "C",
+            "text": "delivered"
+          },
+          {
+            "label": "D",
+            "text": "delivering"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "Despite being served in disposable containers, the meal had an ____ touch.",
+        "options": [
+          {
+            "label": "A",
+            "text": "elegant"
+          },
+          {
+            "label": "B",
+            "text": "elegance"
+          },
+          {
+            "label": "C",
+            "text": "elegantly"
+          },
+          {
+            "label": "D",
+            "text": "elegancy"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "Our office manager was so ____ by the speed of the delivery, she decided to order from them again.",
+        "options": [
+          {
+            "label": "A",
+            "text": "impressive"
+          },
+          {
+            "label": "B",
+            "text": "impressed"
+          },
+          {
+            "label": "C",
+            "text": "impression"
+          },
+          {
+            "label": "D",
+            "text": "impressionable"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "Let's order ____ so we can all get what we want for lunch.",
+        "options": [
+          {
+            "label": "A",
+            "text": "individualize"
+          },
+          {
+            "label": "B",
+            "text": "individualist"
+          },
+          {
+            "label": "C",
+            "text": "individually"
+          },
+          {
+            "label": "D",
+            "text": "individual"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Memo To: All department staff From: J. Holtzman, Manager Re: Ordering Lunch It has long been the practice in this department to order lunch to be served during department meetings. While this is a custom we all enjoy, it has become a [16] on our budget. Therefore, I have developed the following guidelines for ordering meeting lunches. \\- We cannot afford to constantly order elegant lunches. Please limit your orders to common, everyday lunch choices such as sandwiches and salads. \\- There are many restaurants in the area that offer take-out lunches. I will [17] the choices down to three or four places that have reasonable prices, then let you know which they are. Please order only from the restaurants on the approved list. \\- We will no longer pay for delivery. All lunch orders must be [18] up in person. Thank you in advance for your cooperation.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "burden"
+            },
+            {
+              "label": "B",
+              "text": "burglar"
+            },
+            {
+              "label": "C",
+              "text": "burnish"
+            },
+            {
+              "label": "D",
+              "text": "burnoose"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "select"
+            },
+            {
+              "label": "B",
+              "text": "allow"
+            },
+            {
+              "label": "C",
+              "text": "enlarge"
+            },
+            {
+              "label": "D",
+              "text": "narrow"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "stood"
+            },
+            {
+              "label": "B",
+              "text": "taken"
+            },
+            {
+              "label": "C",
+              "text": "looked"
+            },
+            {
+              "label": "D",
+              "text": "picked"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following advertisement and e-mail message. The Broad Street Eatery 1001 Broad Street phone: 298-0943 Serving breakfast and lunch Monday–Saturday 6:30 A.M. – 2:30 P.M. Don't settle for the common lunch choices you can find anywhere. At the Broad Street Eatery, we offer a tempting range of soups, sandwiches, and salads for the discerning eater. We specialize in take-out orders. Call ahead for pick up. We also offer free delivery on all orders over $30. (There is a 10 percent delivery charge on smaller orders.) To: Molly Anderson From: Jerry Pinsky Subject: New restaurant Have you heard about the Broad Street Eatery? It's that new place that opened up last month just around the corner. I think we should order the lunch for this Friday's meeting from there. Some of the menu choices look quite elegant and I'm sure will impress our clients. Best of all, the prices are quite reasonable. I'll send you a list later of what I want you to order. Since the order will be large, I think you should call it in the day before the meeting. I'm sure we'll qualify for the free delivery, so you won't have to worry about picking it up. That will lighten your burden a bit. Thanks for your help with this. Jerry",
+        "questions": [
+          {
+            "number": 19,
+            "question": "When should Molly place the lunch order?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Monday."
+              },
+              {
+                "label": "B",
+                "text": "Thursday."
+              },
+              {
+                "label": "C",
+                "text": "Friday."
+              },
+              {
+                "label": "D",
+                "text": "Saturday."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "If the order costs $45, how much will the delivery charge be?",
+            "options": [
+              {
+                "label": "A",
+                "text": "$0."
+              },
+              {
+                "label": "B",
+                "text": "$3."
+              },
+              {
+                "label": "C",
+                "text": "$4.50."
+              },
+              {
+                "label": "D",
+                "text": "$30."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "What is Jerry's opinion of the restaurant?",
+            "options": [
+              {
+                "label": "A",
+                "text": "It's too far away."
+              },
+              {
+                "label": "B",
+                "text": "The prices are very high."
+              },
+              {
+                "label": "C",
+                "text": "It should be open later."
+              },
+              {
+                "label": "D",
+                "text": "The food looks good."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word common in line 7 of the advertisement is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "usual"
+              },
+              {
+                "label": "B",
+                "text": "boring"
+              },
+              {
+                "label": "C",
+                "text": "tasty"
+              },
+              {
+                "label": "D",
+                "text": "different"
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word elegant in line 5 of the e-mail is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "ordinary"
+              },
+              {
+                "label": "B",
+                "text": "expensive"
+              },
+              {
+                "label": "C",
+                "text": "pleasing"
+              },
+              {
+                "label": "D",
+                "text": "large"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "Why does the man want to have lunch at the office?",
+        "options": [
+          {
+            "label": "A",
+            "text": "It is burdensome to leave the office."
+          },
+          {
+            "label": "B",
+            "text": "He has a bad impression of the restaurant."
+          },
+          {
+            "label": "C",
+            "text": "The office is more elegant than the restaurant."
+          },
+          {
+            "label": "D",
+            "text": "He wants to show slides during lunch."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What time will lunch be delivered?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Noon."
+          },
+          {
+            "label": "B",
+            "text": "1:00."
+          },
+          {
+            "label": "C",
+            "text": "1:30."
+          },
+          {
+            "label": "D",
+            "text": "2:00."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "Who will the man have lunch with?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The woman."
+          },
+          {
+            "label": "B",
+            "text": "The sales staff."
+          },
+          {
+            "label": "C",
+            "text": "The regional manager."
+          },
+          {
+            "label": "D",
+            "text": "The conference attendees."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "What takes 10 minutes?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Delivering the order."
+          },
+          {
+            "label": "B",
+            "text": "Selecting a meal from the list."
+          },
+          {
+            "label": "C",
+            "text": "Getting the food ready to be picked up."
+          },
+          {
+            "label": "D",
+            "text": "Making a group order."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "How much does a delivery cost?",
+        "options": [
+          {
+            "label": "A",
+            "text": "15 percent."
+          },
+          {
+            "label": "B",
+            "text": "50 cents."
+          },
+          {
+            "label": "C",
+            "text": "It's free."
+          },
+          {
+            "label": "D",
+            "text": "50 percent."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What kind of food can be ordered from the Parkside Café?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Rice."
+          },
+          {
+            "label": "B",
+            "text": "Meat."
+          },
+          {
+            "label": "C",
+            "text": "Sandwiches."
+          },
+          {
+            "label": "D",
+            "text": "Ice cream."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. Why does the man want to have lunch at the office? (A) It is burdensome to leave the office. (B) He has a bad impression of the restaurant. (C) The office is more elegant than the restaurant. (D) He wants to show slides during lunch. 6. What time will lunch be delivered? (A) Noon. (B) 1:00. (C) 1:30. (D) 2:00. 5. Who will the man have lunch with? (A) The woman. (B) The sales staff. (C) The regional manager. (D) The conference attendees. Listen to the talk. Then read each question and choose the best answer. 7. What takes 10 minutes? (A) Delivering the order. (B) Selecting a meal from the list. (C) Getting the food ready to be picked up. (D) Making a group order. 8. How much does a delivery cost? (A) 15 percent. (B) 50 cents. (C) It's free. (D) 50 percent. 9. What kind of food can be ordered from the Parkside Café? (A) Rice. (B) Meat. (C) Sandwiches. (D) Ice cream.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "Why does the man want to have lunch at the office?",
+        "options": [
+          {
+            "label": "A",
+            "text": "It is burdensome to leave the office."
+          },
+          {
+            "label": "B",
+            "text": "He has a bad impression of the restaurant."
+          },
+          {
+            "label": "C",
+            "text": "The office is more elegant than the restaurant."
+          },
+          {
+            "label": "D",
+            "text": "He wants to show slides during lunch."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What time will lunch be delivered?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Noon."
+          },
+          {
+            "label": "B",
+            "text": "1:00."
+          },
+          {
+            "label": "C",
+            "text": "1:30."
+          },
+          {
+            "label": "D",
+            "text": "2:00."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "Who will the man have lunch with?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The woman."
+          },
+          {
+            "label": "B",
+            "text": "The sales staff."
+          },
+          {
+            "label": "C",
+            "text": "The regional manager."
+          },
+          {
+            "label": "D",
+            "text": "The conference attendees."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "What takes 10 minutes?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Delivering the order."
+          },
+          {
+            "label": "B",
+            "text": "Selecting a meal from the list."
+          },
+          {
+            "label": "C",
+            "text": "Getting the food ready to be picked up."
+          },
+          {
+            "label": "D",
+            "text": "Making a group order."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "How much does a delivery cost?",
+        "options": [
+          {
+            "label": "A",
+            "text": "15 percent."
+          },
+          {
+            "label": "B",
+            "text": "50 cents."
+          },
+          {
+            "label": "C",
+            "text": "It's free."
+          },
+          {
+            "label": "D",
+            "text": "50 percent."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What kind of food can be ordered from the Parkside Café?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Rice."
+          },
+          {
+            "label": "B",
+            "text": "Meat."
+          },
+          {
+            "label": "C",
+            "text": "Sandwiches."
+          },
+          {
+            "label": "D",
+            "text": "Ice cream."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "# Ordering Lunch\n\nStudy the following definitions and examples.\n\n1. burden n., a responsibility; something that is carried a. The secretary usually takes on the burden of ordering lunch for business meetings.\n\nb. The deliveryman's back ached from the heavy burden he carried.\n\n2. commonly adv., usually, habitually\n\na. The people who work in this building commonly order their lunch from the sandwich shop on the first floor.\n\nb. The restaurants in this area commonly serve office workers and are only open during the week.\n\n3. delivery n., the act of conveying or delivering\n\na. The caterer hired a courier to make the delivery.\n\nb. The restaurant is reluctant to make deliveries, but makes an exception for our office.\n\n4. elegance n., refinement, beauty, grace\n\na. The elegance of the restaurant made it a pleasant place to eat.\n\nb. A sandwich may lack elegance, but it makes a convenient and inexpensive lunch.\n\n5. fall to v., to become one's responsibility\n\na. The task of preparing the meal fell to the assistant chef when the chief chef was ill.\n\nb. The menu was in French, so ordering for us fell to Monique, who spoke French.\n\n6. impress v., to affect strongly, often favorably\n\na. I was impressed with how quickly they delivered our lunch.\n\nb. If you want to impress the new staff member, order her a nice lunch.\n\n7. individual adj., by or for one person; special; particular\n\n7. Individual adj., by or for one person; special; particular  \na. We had the delivery man mark the contents of each individual order.  \nb. The jaunty whistle of the delivery woman marked her individual style.\n\n8. list n., a series of names, words, or other items\n\na. The office manager compiled a list of everyone's order.\n\nb. We keep a list of all the restaurants in this area that deliver.\n\n9. multiple adj., having, relating to, or consisting of more than one part a. The delivery person was not able to keep track of the multiple order, causing a food mix-up.\n\nb. It takes multiple steps to get into this building, which frustrates all our employees.\n\n10. narrow v., to limit or restrict\n\na. Etseko narrowed the restaurant possibilities down to three.\n\nb. This restaurant delivers only pizza and sandwiches, so that certainly narrows down the choices.\n\n11. pick up v., to take on passengers or freight\n\na. The delivery man picks up lunch orders on his motor scooter.\n\nb. If you ask me nicely, I will pick up the order on my way home.\n\n12. settle v., to make compensation for, to pay; to choose\n\na. We settled the bill with the cashier.\n\nb. After much debate, we finally settled on the bistro on the corner.",
+    "words_in_context": "## WORDS IN CONTEXT\n\n## Read the following passage and write the words in the blanks below.\n\n| burdensome | elegant | individual | narrow |\n| --- | --- | --- | --- |\n| common | falls to | list | pick up |\n| delivered | impress | multiple | settled |\n\nAs the office manager, it usually (1) \\_\\_\\_\\_ Lucia to order the food for a working lunch or an office party. Lucia finds ordering food for a working lunch to be especially (2) \\_\\_\\_\\_. First, in order to avoid placing (3) \\_\\_\\_\\_ small orders from different food establishments, she must (4) \\_\\_\\_\\_ down the choice to one kind of food. The most (5) \\_\\_\\_\\_ choices are sandwiches and (6) \\_\\_\\_\\_ pizzas.\n\nOnce she has (7) \\_\\_\\_\\_ on a good choice, she calls a restaurant or other food service on her approved (8) \\_\\_\\_\\_. Usually she needs the food (9) \\_\\_\\_\\_ so she does not have to leave the office and (10) \\_\\_\\_\\_ the order herself.\n\nIn case of a more formal lunch, where her boss is trying to (11) \\_\\_\\_\\_ new clients, for example, Lucia will call a catering service that can provide a more (12) \\_\\_\\_\\_ meal.",
+    "word_families": "## WORD FAMILIES\n\n<table><tr><td>verb</td><td>burden</td><td>The frequently complicated lunch orders unfairly burdened Jacques.</td></tr><tr><td>noun</td><td>burden</td><td>In addition to all her other responsibilities, Marie had the burden of picking up the daily lunch order.</td></tr><tr><td>active</td><td>burdensome</td><td>Keeping track of everybody&#x27;s lunch orders can be a burdensome task.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>noun</td><td>in common</td><td>The two secretaries keep a file of restaurant menus in common to facilitate placing an order.</td></tr><tr><td></td><td>common</td><td>It is a common practice for restaurants to deliver.</td></tr><tr><td>a)</td><td>commonly</td><td>It was commonly known that the sandwich shop had slow deliverymen.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>rb</td><td>deliver</td><td>That restaurant delivers food at no extra charge.</td></tr><tr><td>noun</td><td>delivery</td><td>We all got very hungry waiting for the delivery to arrive.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>_</td><td>elegance</td><td>The elegance of the surroundings was accentuated by the wonderful meal the caterers delivered.</td></tr><tr><td>_</td><td>elegant</td><td>Delores set an elegant table that was sure to impress.</td></tr><tr><td>erb</td><td>elegantly</td><td>The tasty appetizers were elegantly served from silver platters.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>_</td><td>impress</td><td>I am favorably impressed by how quickly the pizza was delivered.</td></tr><tr><td>noun</td><td>impression</td><td>She gave the impression that the food would be delivered within the hour.</td></tr><tr><td></td><td>impressionable</td><td>I have an impressionable child, so I don&#x27;t like him to see deliverymen running red traffic lights.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>_</td><td>individualize</td><td>The take-out shop does not allow you to individualize your order by asking for substitutions.</td></tr><tr><td></td><td>individual</td><td>The portions are large enough to feed two individuals.</td></tr><tr><td>、</td><td>individually</td><td>The individually marked boxes made it easy for us to claim our orders.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. Why does the man want to have lunch at the office?\n(A) It is burdensome to leave the office.\n(B) He has a bad impression of the restaurant.\n(C) The office is more elegant than the restaurant.\n(D) He wants to show slides during lunch.\n\n6. What time will lunch be delivered?\n(A) Noon.\n(B) 1:00.\n(C) 1:30.\n(D) 2:00.\n\n5. Who will the man have lunch with?\n(A) The woman.\n(B) The sales staff.\n(C) The regional manager.\n(D) The conference attendees.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. What takes 10 minutes?\n(A) Delivering the order.\n(B) Selecting a meal from the list.\n(C) Getting the food ready to be picked up.\n(D) Making a group order.\n\n8. How much does a delivery cost?\n(A) 15 percent.\n(B) 50 cents.\n(C) It's free.\n(D) 50 percent.\n\n9. What kind of food can be ordered from the Parkside Café?\n(A) Rice.\n(B) Meat.\n(C) Sandwiches.\n(D) Ice cream.",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. George no longer wants to be in charge of lunch orders because he finds that job too \\_\\_\\_\\_.\n(A) burdens (C) burden\n(B) burdened (D) burdensome\n\n11. We \\_\\_\\_\\_ meet the delivery person in the lobby to pick up our orders.\n(A) common (C) commonly\n(B) in common (D) commonness\n\n12. The \\_\\_\\_\\_ from that restaurant always arrive late.\n(A) delivers (C) delivered\n(B) deliveries (D) delivering\n\n13. Despite being served in disposable containers, the meal had an \\_\\_\\_\\_ touch.\n(A) elegant (C) elegantly\n(B) elegance (D) elegancy\n\n14. Our office manager was so \\_\\_\\_\\_ by the speed of the delivery, she decided to order from them again.\n(A) impressive (C) impression\n(B) impressed (D) impressionable\n\n15. Let's order \\_\\_\\_\\_ so we can all get what we want for lunch.\n(A) individualize (C) individually\n(B) individualist (D) individual\n\n## Part 6 Text Completion\n\n## Memo\n\nTo: All department staff  \nFrom: J. Holtzman, Manager  \nRe: Ordering Lunch\n\nIt has long been the practice in this department to order lunch to be served during department meetings. While this is a custom we all enjoy, it has become a \\_16\\_ on our budget. Therefore, I have developed the following guidelines for ordering meeting lunches.\n\n\\- We cannot afford to constantly order elegant lunches. Please limit your orders to common, everyday lunch choices such as sandwiches and salads.\n\n\\- There are many restaurants in the area that offer take-out lunches. I will \\_17\\_ the choices down to three or four places that have reasonable prices, then let you know which they are. Please order only from the restaurants on the approved list.\n\n\\- We will no longer pay for delivery. All lunch orders must be \\_18\\_ up in person.\n\nThank you in advance for your cooperation.\n\n16. (A) burden\n\n(B) burglar\n\n18. (A) stood\n\n(C) burnish\n\n(B) taken\n\n(C) looked\n\n(D) burnoose\n\n(D) picked\n\n17. (A) select  \n(B) allow  \n(C) enlarge  \n(D) narrow",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following advertisement and e-mail message.\n\n## Now Open\n\nThe Broad Street Eatery 1001 Broad Street phone: 298-0943\n\nServing breakfast and lunch\nMonday–Saturday 6:30 A.M. – 2:30 P.M.\n\nDon't settle for the common lunch choices you can find anywhere.\n\nAt the Broad Street Eatery, we offer a tempting range of soups, sandwiches, and salads for the discerning eater.\n\nWe specialize in take-out orders. Call ahead for pick up.\n\nWe also offer free delivery on all orders over $30. (There is a 10 percent delivery charge on smaller orders.)\n\n19. When should Molly place the lunch order?\n(A) Monday.\n(B) Thursday.\n(C) Friday.\n(D) Saturday.\n\n20. If the order costs $45, how much will the delivery charge be?\n(A) $0.\n(B) $3.\n(C) $4.50.\n(D) $30.\n\n21. What is Jerry's opinion of the restaurant?\n(A) It's too far away.\n(B) The prices are very high.\n(C) It should be open later.\n(D) The food looks good.\n\nTo: Molly Anderson  \nFrom: Jerry Pinsky  \nSubject: New restaurant\n\n## 1Hi Molly,\n\nHave you heard about the Broad Street Eatery? It's that new place that opened up last month just around the corner. I think we should order the lunch for this Friday's meeting from there. Some of the menu choices look quite elegant and I'm sure will impress our clients. Best of all, the prices are quite reasonable. I'll send you a list later of what I want you to order. Since the order will be large, I think you should call it in the day before the meeting. I'm sure we'll qualify for the free delivery, so you won't have to worry about picking it up. That will lighten your burden a bit. Thanks for your help with this.\n\nJerry\n\n22. The word common in line 7 of the advertisement is closest in meaning to  \n(A) usual  \n(B) boring  \n(C) tasty  \n(D) different\n\n23. The word elegant in line 5 of the e-mail is closest in meaning to  \n(A) ordinary  \n(B) expensive  \n(C) pleasing  \n(D) large"
+  },
+  "needs_review": true
+}

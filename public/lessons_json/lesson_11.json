@@ -1,0 +1,1609 @@
+{
+  "lesson_id": 11,
+  "title": "Job Advertising and Recruiting",
+  "theme_name": "Personnel",
+  "audio_track": "track_11.mp3",
+  "part1_photo": "part1_photos/lesson_11.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "abundant",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "plentiful, in large quantities",
+      "definition_vi": "dồi dào, phong phú, nhiều",
+      "examples": [
+        {
+          "en": "The computer analyst was glad to have chosen a field in which jobs were abundant.",
+          "vi": "Chuyên viên phân tích máy tính rất vui vì đã chọn một lĩnh vực mà việc làm rất dồi dào."
+        },
+        {
+          "en": "The recruiter was surprised by the abundant number of qualified applicants.",
+          "vi": "Nhà tuyển dụng đã ngạc nhiên trước số lượng dồi dào các ứng viên đủ năng lực."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "abundant supply",
+        "abundant opportunities",
+        "abundant resources",
+        "in abundant quantities"
+      ],
+      "usage": {
+        "structures": [
+          "be abundant in + N (dồi dào/phong phú về cái gì)",
+          "abundant + N (số lượng nhiều/phong phú)"
+        ],
+        "prepositions": [
+          "in"
+        ],
+        "collocations": [
+          "abundant supply",
+          "abundant opportunities",
+          "abundant evidence",
+          "abundant resources"
+        ],
+        "tip": "Thường đứng trước danh từ đếm được số nhiều hoặc danh từ không đếm được (resources, opportunities, supply) để chỉ sự dồi dào."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "abound",
+          "example": "Job opportunities abound in the rapidly growing technology sector.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "abundance",
+          "example": "The region has an abundance of skilled labor for manufacturing.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "abundant",
+          "example": "Natural resources are abundant in this part of the country.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "abundantly",
+          "example": "The director made it abundantly clear that deadlines must be met.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The new industrial park offers an _____ of employment opportunities for local residents.",
+        "answer": "abundance",
+        "base_word": "abundant",
+        "pos_hint": "danh từ",
+        "vi": "Khu công nghiệp mới mang lại vô số cơ hội việc làm cho cư dân địa phương."
+      }
+    },
+    {
+      "id": 2,
+      "word": "accomplishment",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an achievement, a success",
+      "definition_vi": "thành tựu, thành tích, sự hoàn thành",
+      "examples": [
+        {
+          "en": "The success of the company was based on its early accomplishments.",
+          "vi": "Sự thành công của công ty được xây dựng dựa trên những thành tựu ban đầu của nó."
+        },
+        {
+          "en": "In honor of her accomplishments, the manager was promoted.",
+          "vi": "Để vinh danh những thành tích của cô ấy, người quản lý đã được thăng chức."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "accomplish",
+          "example": "You can accomplish anything if you put your mind to it."
+        },
+        {
+          "pos": "",
+          "word": "accomplishment",
+          "example": "The company is proud of our team&#x27;s accomplishments."
+        },
+        {
+          "pos": "",
+          "word": "accomplished",
+          "example": "The accomplished artist had his paintings in all the major galleries."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "major accomplishment",
+        "impressive accomplishment",
+        "sense of accomplishment",
+        "list of accomplishments"
+      ],
+      "usage": {
+        "structures": [
+          "accomplishment in + N/V-ing (thành tựu trong lĩnh vực gì)",
+          "a sense of accomplishment (cảm giác thành tựu)"
+        ],
+        "prepositions": [
+          "in",
+          "of"
+        ],
+        "collocations": [
+          "notable accomplishment",
+          "professional accomplishments",
+          "proud of one's accomplishments",
+          "recognize an accomplishment"
+        ],
+        "tip": "Danh từ đếm được chỉ những thành tích xuất sắc cần liệt kê trong sơ yếu lý lịch (résumé)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "accomplishedly",
+          "example": "She performed the complex negotiation task accomplishedly.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The guest speaker at tonight's banquet is an _____ economist with twenty years of experience.",
+        "answer": "accomplished",
+        "base_word": "accomplishment",
+        "pos_hint": "tính từ",
+        "vi": "Diễn giả khách mời tại bữa tiệc tối nay là một nhà kinh tế học tài năng với hai mươi năm kinh nghiệm."
+      }
+    },
+    {
+      "id": 3,
+      "word": "bring together",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to join, to gather",
+      "definition_vi": "tập hợp lại, gắn kết, quy tụ",
+      "examples": [
+        {
+          "en": "Every year, the firm brings together its top lawyers and its newest recruits for a training session.",
+          "vi": "Hằng năm, công ty quy tụ các luật sư hàng đầu và những nhân viên mới tuyển dụng cho một buổi đào tạo."
+        },
+        {
+          "en": "Our goal this year is to bring together the most creative group we can find.",
+          "vi": "Mục tiêu của chúng tôi trong năm nay là tập hợp được nhóm sáng tạo nhất mà chúng tôi có thể tìm thấy."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "bring together experts",
+        "bring people together",
+        "bring together resources",
+        "bring teams together"
+      ],
+      "usage": {
+        "structures": [
+          "bring + O + together / bring together + O (tập hợp ai/cái gì lại với nhau)"
+        ],
+        "prepositions": [
+          "for",
+          "from"
+        ],
+        "collocations": [
+          "bring together top talent",
+          "bring together diverse perspectives",
+          "bring departments together",
+          "bring buyers and sellers together"
+        ],
+        "tip": "Cụm động từ thường xuất hiện trong ngữ cảnh hội nghị, đào tạo hoặc dự án liên phòng ban nhằm quy tụ nhân sự."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "bring",
+          "example": "The merger will bring significant benefits to both corporations.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "togetherness",
+          "example": "The company retreat fostered a strong sense of togetherness among staff.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "together",
+          "example": "The marketing and sales departments worked closely together on the launch.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The annual trade summit _____ industry leaders from over thirty countries last month.",
+        "answer": "brought together",
+        "base_word": "bring together",
+        "pos_hint": "cụm động từ chia quá khứ đơn",
+        "vi": "Hội nghị thượng đỉnh thương mại thường niên đã quy tụ các nhà lãnh đạo ngành từ hơn ba mươi quốc gia vào tháng trước."
+      }
+    },
+    {
+      "id": 4,
+      "word": "candidate",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "one being considered for a position, office, or award",
+      "definition_vi": "ứng viên, thí sinh",
+      "examples": [
+        {
+          "en": "The recruiter will interview all candidates for the position.",
+          "vi": "Nhà tuyển dụng sẽ phỏng vấn tất cả các ứng viên cho vị trí này."
+        },
+        {
+          "en": "The president of our company is a candidate for the Outstanding Business Award.",
+          "vi": "Chủ tịch công ty chúng tôi là một ứng viên cho Giải thưởng Doanh nghiệp Xuất sắc."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "qualified candidate",
+        "prospective candidate",
+        "ideal candidate",
+        "candidate for the position"
+      ],
+      "usage": {
+        "structures": [
+          "candidate for + N (ứng viên cho vị trí/giải thưởng gì)",
+          "screen/interview candidates (sàng lọc/phỏng vấn ứng viên)"
+        ],
+        "prepositions": [
+          "for"
+        ],
+        "collocations": [
+          "strong candidate",
+          "shortlist of candidates",
+          "job candidate",
+          "potential candidate"
+        ],
+        "tip": "Luôn đi kèm giới từ 'for' khi chỉ vị trí công việc hoặc giải thưởng mà người đó đang ứng tuyển."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "candidacy",
+          "example": "The board of directors unanimously supported her candidacy for chief executive.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "candidate",
+          "example": "Only candidates with at least five years of management experience will be considered.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Mr. Tanaka withdrew his _____ for the vice presidency after accepting an overseas post.",
+        "answer": "candidacy",
+        "base_word": "candidate",
+        "pos_hint": "danh từ chỉ việc ứng cử",
+        "vi": "Ông Tanaka đã rút đơn ứng cử chức phó chủ tịch sau khi nhận một vị trí ở nước ngoài."
+      }
+    },
+    {
+      "id": 5,
+      "word": "come up with",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to plan, to invent, to think of",
+      "definition_vi": "nghĩ ra, đưa ra, tìm ra (ý tưởng, kế hoạch, giải pháp)",
+      "examples": [
+        {
+          "en": "In order for that small business to succeed, it needs to come up with a new strategy.",
+          "vi": "Để doanh nghiệp nhỏ đó thành công, họ cần phải nghĩ ra một chiến lược mới."
+        },
+        {
+          "en": "How was the new employee able to come up with that cost-cutting idea after only one week on the job?",
+          "vi": "Làm thế nào mà nhân viên mới có thể nghĩ ra ý tưởng cắt giảm chi phí đó chỉ sau một tuần làm việc?"
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "come up with an idea",
+        "come up with a solution",
+        "come up with a plan",
+        "come up with the money"
+      ],
+      "usage": {
+        "structures": [
+          "come up with + N (nghĩ ra/đưa ra giải pháp, ý tưởng, kế hoạch)"
+        ],
+        "prepositions": [
+          "with"
+        ],
+        "collocations": [
+          "come up with a new strategy",
+          "come up with an alternative",
+          "come up with a proposal",
+          "come up with creative ways"
+        ],
+        "tip": "Đồng nghĩa với 'devise' hoặc 'propose' trong bài thi TOEIC; tân ngữ theo sau luôn là danh từ chỉ ý tưởng, giải pháp, kế hoạch hoặc kinh phí."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "come",
+          "example": "Good ideas often come from collaborative brainstorming sessions.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "outcome",
+          "example": "Everyone was pleased with the final outcome of the strategy meeting.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "upcoming",
+          "example": "We need to finalize our proposal before the upcoming board meeting.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The engineering team finally _____ an innovative solution to reduce power consumption.",
+        "answer": "came up with",
+        "base_word": "come up with",
+        "pos_hint": "cụm động từ chia quá khứ đơn",
+        "vi": "Đội ngũ kỹ sư cuối cùng đã tìm ra một giải pháp sáng tạo nhằm giảm mức tiêu thụ điện năng."
+      }
+    },
+    {
+      "id": 6,
+      "word": "commensurate",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "in proportion to, corresponding, equal to",
+      "definition_vi": "tương xứng, xứng đáng với",
+      "examples": [
+        {
+          "en": "Generally the first year's salary is commensurate with experience and education level.",
+          "vi": "Nhìn chung, mức lương năm đầu tiên sẽ tương xứng với kinh nghiệm và trình độ học vấn."
+        },
+        {
+          "en": "As mentioned in your packets, the number of new recruits will be commensurate with the number of vacancies at the company.",
+          "vi": "Như đã đề cập trong bộ tài liệu của bạn, số lượng nhân viên mới được tuyển sẽ tương xứng với số vị trí còn trống tại công ty."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "commensurate with experience",
+        "salary commensurate with qualifications",
+        "commensurate with performance",
+        "commensurate reward"
+      ],
+      "usage": {
+        "structures": [
+          "be commensurate with + N (tương xứng/tỷ lệ thuận với cái gì)"
+        ],
+        "prepositions": [
+          "with"
+        ],
+        "collocations": [
+          "commensurate with experience",
+          "commensurate with qualifications",
+          "pay commensurate with skills",
+          "commensurate responsibility"
+        ],
+        "tip": "Trong TOEIC Part 5, 'commensurate' gần như luôn đi kèm giới từ 'with' trong các thông báo tuyển dụng nói về lương thưởng."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "commensurateness",
+          "example": "The audit evaluated the commensurateness of executive pay with company performance.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "commensurate",
+          "example": "Starting compensation will be commensurate with the candidate's prior experience.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "commensurately",
+          "example": "As your responsibilities increase, your salary will rise commensurately.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "When the project scope expanded, the consulting fee was increased _____.",
+        "answer": "commensurately",
+        "base_word": "commensurate",
+        "pos_hint": "trạng từ",
+        "vi": "Khi phạm vi dự án mở rộng, mức phí tư vấn đã được tăng lên một cách tương xứng."
+      }
+    },
+    {
+      "id": 7,
+      "word": "match",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a fit, a similarity; v., to put together, to fit",
+      "definition_vi": "(n) người/vật phù hợp, sự tương xứng; (v) ghép nối, phù hợp với",
+      "examples": [
+        {
+          "en": "It is difficult to make a decision when both candidates seem to be a perfect match.",
+          "vi": "Rất khó để đưa ra quyết định khi cả hai ứng viên dường như đều là sự lựa chọn hoàn toàn phù hợp."
+        },
+        {
+          "en": "A headhunter matches qualified candidates to suitable positions.",
+          "vi": "Chuyên gia săn đầu người kết nối các ứng viên đủ năng lực với những vị trí phù hợp."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "match",
+          "example": "The former marketing director is a good match for this position in public relations."
+        },
+        {
+          "pos": "",
+          "word": "match",
+          "example": "We need to match both job experience and personality for this position."
+        },
+        {
+          "pos": "",
+          "word": "matching",
+          "example": "The matching cushions look better on the chair."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "a perfect match",
+        "match candidates to positions",
+        "closely match",
+        "matching funds"
+      ],
+      "usage": {
+        "structures": [
+          "match + A + to/with + B (ghép/kết nối A phù hợp với B)",
+          "be a good/perfect match for + N (rất phù hợp với cái gì)"
+        ],
+        "prepositions": [
+          "to",
+          "with",
+          "for"
+        ],
+        "collocations": [
+          "perfect match for the job",
+          "match the description",
+          "match skills with requirements",
+          "matching records"
+        ],
+        "tip": "Vừa là danh từ (a good match for...) vừa là ngoại động từ (match A with/to B - không đi kèm giới từ ngay sau động từ khi mang nghĩa khớp với cái gì: match the criteria)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "unmatched",
+          "example": "Our firm offers unmatched expertise in international corporate law.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The automated software works by _____ job seekers' skills with current corporate openings.",
+        "answer": "matching",
+        "base_word": "match",
+        "pos_hint": "danh động từ (V-ing)",
+        "vi": "Phần mềm tự động hoạt động bằng cách ghép nối kỹ năng của người tìm việc với các vị trí tuyển dụng hiện tại của công ty."
+      }
+    },
+    {
+      "id": 8,
+      "word": "profile",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a group of characteristics or traits",
+      "definition_vi": "(n) hồ sơ, bản mô tả đặc điểm/chân dung; (v) phác họa hồ sơ",
+      "examples": [
+        {
+          "en": "The recruiter told him that, unfortunately, he did not fit the job profile.",
+          "vi": "Nhà tuyển dụng nói với anh ấy rằng thật không may, anh không phù hợp với hồ sơ tiêu chí công việc."
+        },
+        {
+          "en": "As jobs change, so does the company's profile for the job candidate.",
+          "vi": "Khi công việc thay đổi, tiêu chí hồ sơ ứng viên của công ty cũng thay đổi theo."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "profile",
+          "example": "His customer profile shows that he always pays on time."
+        },
+        {
+          "pos": "",
+          "word": "profile",
+          "example": "Through telephone surveys, we try to profile our clientele in order to understand who is using our services."
+        },
+        {
+          "pos": "",
+          "word": "profiled",
+          "example": "The profiled candidate only met half of the job requirements."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "job profile",
+        "company profile",
+        "high-profile client",
+        "fit the profile"
+      ],
+      "usage": {
+        "structures": [
+          "fit/match the profile (phù hợp với hồ sơ/tiêu chí)",
+          "keep a low/high profile (giữ sự kín tiếng / nổi bật)"
+        ],
+        "prepositions": [
+          "of",
+          "for"
+        ],
+        "collocations": [
+          "candidate profile",
+          "corporate profile",
+          "customer profile",
+          "raise the company's profile"
+        ],
+        "tip": "Thường gặp trong cụm 'fit the job profile' (đáp ứng tiêu chí công việc) hoặc 'company profile' (hồ sơ năng lực công ty)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "profiling",
+          "example": "Customer profiling helps the marketing team target advertisements effectively.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The business magazine _____ ten innovative startup founders in its monthly issue.",
+        "answer": "profiled",
+        "base_word": "profile",
+        "pos_hint": "động từ chia quá khứ đơn (V-ed)",
+        "vi": "Tạp chí kinh doanh đã giới thiệu chân dung mười nhà sáng lập khởi nghiệp đổi mới sáng tạo trong số ra hàng tháng."
+      }
+    },
+    {
+      "id": 9,
+      "word": "qualifications",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "requirements, qualities, or abilities needed for something",
+      "definition_vi": "trình độ chuyên môn, năng lực, bằng cấp",
+      "examples": [
+        {
+          "en": "The job seeker had done extensive volunteer work and was able to add this experience to his list of qualifications.",
+          "vi": "Người tìm việc đã làm công việc tình nguyện sâu rộng và có thể thêm kinh nghiệm này vào danh sách năng lực chuyên môn của mình."
+        },
+        {
+          "en": "The applicant had so many qualifications that the company created a new position for her.",
+          "vi": "Ứng viên có nhiều bằng cấp và năng lực đến mức công ty đã tạo ra một vị trí mới cho cô ấy."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "qualify",
+          "example": "In order to qualify, you must have two years of work experience."
+        },
+        {
+          "pos": "",
+          "word": "qualifications",
+          "example": "The manager made a list of qualifications for the vacant job position."
+        },
+        {
+          "pos": "",
+          "word": "qualified",
+          "example": "He found himself overqualified for the entry-level position."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "academic qualifications",
+        "professional qualifications",
+        "meet the qualifications",
+        "minimum qualifications"
+      ],
+      "usage": {
+        "structures": [
+          "qualifications for + N (trình độ/điều kiện cho vị trí gì)",
+          "have/possess the qualifications (có đủ năng lực/bằng cấp)"
+        ],
+        "prepositions": [
+          "for"
+        ],
+        "collocations": [
+          "list of qualifications",
+          "required qualifications",
+          "impressive qualifications",
+          "check an applicant's qualifications"
+        ],
+        "tip": "Chú ý phân biệt: 'qualified' (tính từ bổ nghĩa cho người: a qualified applicant) và 'qualifications' (danh từ chỉ bằng cấp/tiêu chuẩn)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "unqualified",
+          "example": "Unqualified applicants will be screened out during the initial review.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "To _____ for the senior auditor position, candidates must hold a certified accounting license.",
+        "answer": "qualify",
+        "base_word": "qualifications",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Để đủ điều kiện cho vị trí kiểm toán viên cao cấp, các ứng viên phải có chứng chỉ hành nghề kế toán."
+      }
+    },
+    {
+      "id": 10,
+      "word": "recruit",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to attract people to join an organization or a cause; n., a person who is recruited",
+      "definition_vi": "(v) tuyển dụng, chiêu mộ; (n) nhân viên mới tuyển",
+      "examples": [
+        {
+          "en": "When the consulting firm recruited her, they offered to pay her relocation expenses.",
+          "vi": "Khi công ty tư vấn tuyển dụng cô ấy, họ đã đề nghị chi trả chi phí chuyển chỗ ở cho cô."
+        },
+        {
+          "en": "The new recruits spent the entire day in training.",
+          "vi": "Những nhân viên mới tuyển đã dành trọn cả ngày để tham gia đào tạo."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "recruit",
+          "example": "Large accounting firms recruit on college campuses every spring."
+        },
+        {
+          "pos": "",
+          "word": "recruitment",
+          "example": "The company&#x27;s recruitment resulted in ten highly qualified new employees."
+        },
+        {
+          "pos": "",
+          "word": "recruiter",
+          "example": "As a recruiter, he traveled around the country speaking to recent college graduates."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "new recruit",
+        "recruit top talent",
+        "recruitment agency",
+        "campus recruiting"
+      ],
+      "usage": {
+        "structures": [
+          "recruit + sb + for/into + N (tuyển ai vào vị trí/tổ chức nào)",
+          "new recruits (những nhân viên mới tuyển)"
+        ],
+        "prepositions": [
+          "for",
+          "from",
+          "into"
+        ],
+        "collocations": [
+          "recruit qualified staff",
+          "recruitment drive",
+          "raw recruit",
+          "actively recruit"
+        ],
+        "tip": "Danh từ 'recruit' vừa là động từ vừa là danh từ chỉ người (nhân viên mới: new recruits), còn 'recruitment' là danh từ chỉ quá trình tuyển dụng."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "recruited",
+          "example": "Newly recruited engineers must complete a two-week orientation program.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The human resources department launched an aggressive _____ campaign to staff the new branch.",
+        "answer": "recruitment",
+        "base_word": "recruit",
+        "pos_hint": "danh từ chỉ sự tuyển dụng",
+        "vi": "Phòng nhân sự đã phát động một chiến dịch tuyển dụng mạnh mẽ để bổ sung nhân sự cho chi nhánh mới."
+      }
+    },
+    {
+      "id": 11,
+      "word": "submit",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to present for consideration",
+      "definition_vi": "nộp, đệ trình",
+      "examples": [
+        {
+          "en": "Submit your résumé to the human resources department.",
+          "vi": "Hãy nộp sơ yếu lý lịch của bạn cho phòng nhân sự."
+        },
+        {
+          "en": "The applicant submitted all her paperwork in a professional and timely manner.",
+          "vi": "Ứng viên đã nộp tất cả giấy tờ của mình một cách chuyên nghiệp và đúng hạn."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "submit",
+          "example": "Anyone who is interested in the position should submit a résumé and writing samples."
+        },
+        {
+          "pos": "",
+          "word": "submission",
+          "example": "I&#x27;m very sorry, the submission date was last week. We can&#x27;t take any more applications."
+        },
+        {
+          "pos": "",
+          "word": "submittal",
+          "example": "The submittal of his resignation prompted his colleagues to apply for his job."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "submit an application",
+        "submit a résumé",
+        "submit a proposal",
+        "submit a report"
+      ],
+      "usage": {
+        "structures": [
+          "submit + sth + to + sb/sth (nộp cái gì cho ai/bộ phận nào)",
+          "submit + sth + for + approval/review (đệ trình cái gì để phê duyệt/xem xét)"
+        ],
+        "prepositions": [
+          "to",
+          "for",
+          "by"
+        ],
+        "collocations": [
+          "submit in person",
+          "submit prior to the deadline",
+          "submit an expense report",
+          "electronic submission"
+        ],
+        "tip": "Từ cực kỳ phổ biến trong TOEIC; lưu ý đi với giới từ 'to' (nộp cho ai) và 'by' (trước hạn chót nào)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "submitted",
+          "example": "All submitted proposals will be evaluated by the selection committee.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The deadline for the _____ of grant applications has been extended until Friday.",
+        "answer": "submission",
+        "base_word": "submit",
+        "pos_hint": "danh từ",
+        "vi": "Hạn chót nộp đơn xin tài trợ đã được gia hạn đến thứ Sáu."
+      }
+    },
+    {
+      "id": 12,
+      "word": "time-consuming",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "taking up a lot of time, lengthy",
+      "definition_vi": "tốn thời gian, mất nhiều thời gian",
+      "examples": [
+        {
+          "en": "Even though it was time-consuming, all of the participants felt that the open house was very worthwhile.",
+          "vi": "Mặc dù tốn nhiều thời gian, tất cả những người tham gia đều cảm thấy buổi tham quan mở rất đáng giá."
+        },
+        {
+          "en": "Five interviews later, Ms. Lopez had the job, but it was the most time-consuming process she had ever gone through.",
+          "vi": "Sau năm cuộc phỏng vấn, cô Lopez đã có được công việc, nhưng đó là quy trình tốn thời gian nhất mà cô từng trải qua."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "time-consuming process",
+        "time-consuming task",
+        "time-consuming procedure",
+        "extremely time-consuming"
+      ],
+      "usage": {
+        "structures": [
+          "be time-consuming to + V (tốn thời gian để làm gì)",
+          "a time-consuming + N (một công việc/quy trình tốn thời gian)"
+        ],
+        "prepositions": [
+          "for"
+        ],
+        "collocations": [
+          "time-consuming paperwork",
+          "laborious and time-consuming",
+          "time-consuming manual entry",
+          "prove time-consuming"
+        ],
+        "tip": "Tính từ ghép luôn có đuôi -ing dù bổ nghĩa cho vật/quy trình (không dùng time-consumed)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "consume",
+          "example": "Administrative tasks consume nearly half of the manager's workday.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "consumption",
+          "example": "New automation tools have reduced the consumption of staff time.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "time-consuming",
+          "example": "Verifying each applicant's references manually is a time-consuming task.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Installing the new payroll software will save the accounting staff from _____ manual calculations.",
+        "answer": "time-consuming",
+        "base_word": "time-consuming",
+        "pos_hint": "tính từ ghép",
+        "vi": "Việc cài đặt phần mềm tính lương mới sẽ giúp nhân viên kế toán tránh khỏi những phép tính thủ công tốn thời gian."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Recruiting employees is a (1) ____ and costly process. Therefore, employers want to (2) ____ the right person with the right job the first time around. There are many ways to (3) ____ good employees: advertising in newspapers and professional journals, recruiting on college campuses or at conferences, or getting referrals from headhunters. Recruiting is a time for a company to brag about its (4) ____ and excite people about its future. Each company is trying to (5) ____ the best and the brightest, but they are not alone. Their competition is trying to do the same thing. When jobs are (6) ____ and there is low unemployment, employers may face higher demands from job seekers. Conversely, when the economy is slowing down and jobs are few, employers are in a better position for attracting the best (7) ____. Employers look for certain characteristics and (8) ____ in their employees. (9) ____ a very specific (10) ____ that fits the company culture and the specific job requirements is a difficult job. Employers want to see a well-rounded candidate and someone who has related work experience. They are willing to offer a salary that is (11) ____ with that experience. Employers will make hiring and salary determinations based on the information candidates (12) ____ throughout the application and interview process.",
+    "word_bank": [
+      "abundant",
+      "candidates",
+      "match",
+      "recruit",
+      "accomplishments",
+      "coming up with",
+      "profile",
+      "submit",
+      "bring together",
+      "commensurate",
+      "qualifications",
+      "time-consuming"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "accomplish",
+        "example": "You can accomplish anything if you put your mind to it.",
+        "pos": ""
+      },
+      {
+        "word": "accomplishment",
+        "example": "The company is proud of our team&#x27;s accomplishments.",
+        "pos": ""
+      },
+      {
+        "word": "accomplished",
+        "example": "The accomplished artist had his paintings in all the major galleries.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "match",
+        "example": "The former marketing director is a good match for this position in public relations.",
+        "pos": ""
+      },
+      {
+        "word": "match",
+        "example": "We need to match both job experience and personality for this position.",
+        "pos": ""
+      },
+      {
+        "word": "matching",
+        "example": "The matching cushions look better on the chair.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "profile",
+        "example": "His customer profile shows that he always pays on time.",
+        "pos": ""
+      },
+      {
+        "word": "profile",
+        "example": "Through telephone surveys, we try to profile our clientele in order to understand who is using our services.",
+        "pos": ""
+      },
+      {
+        "word": "profiled",
+        "example": "The profiled candidate only met half of the job requirements.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "qualify",
+        "example": "In order to qualify, you must have two years of work experience.",
+        "pos": ""
+      },
+      {
+        "word": "qualifications",
+        "example": "The manager made a list of qualifications for the vacant job position.",
+        "pos": ""
+      },
+      {
+        "word": "qualified",
+        "example": "He found himself overqualified for the entry-level position.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "recruit",
+        "example": "Large accounting firms recruit on college campuses every spring.",
+        "pos": ""
+      },
+      {
+        "word": "recruitment",
+        "example": "The company&#x27;s recruitment resulted in ten highly qualified new employees.",
+        "pos": ""
+      },
+      {
+        "word": "recruiter",
+        "example": "As a recruiter, he traveled around the country speaking to recent college graduates.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "submit",
+        "example": "Anyone who is interested in the position should submit a résumé and writing samples.",
+        "pos": ""
+      },
+      {
+        "word": "submission",
+        "example": "I&#x27;m very sorry, the submission date was last week. We can&#x27;t take any more applications.",
+        "pos": ""
+      },
+      {
+        "word": "submittal",
+        "example": "The submittal of his resignation prompted his colleagues to apply for his job.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "Your résumé shows you have ____ a great deal in your last position.",
+        "options": [
+          {
+            "label": "A",
+            "text": "accomplish"
+          },
+          {
+            "label": "B",
+            "text": "accomplishment"
+          },
+          {
+            "label": "C",
+            "text": "accomplished"
+          },
+          {
+            "label": "D",
+            "text": "accomplishing"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "This program is used to scan résumés and search for key words that ____.",
+        "options": [
+          {
+            "label": "A",
+            "text": "match"
+          },
+          {
+            "label": "B",
+            "text": "matched"
+          },
+          {
+            "label": "C",
+            "text": "matching"
+          },
+          {
+            "label": "D",
+            "text": "will match"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "It is illegal to ____ candidates based on gender or ethnicity.",
+        "options": [
+          {
+            "label": "A",
+            "text": "profile"
+          },
+          {
+            "label": "B",
+            "text": "profiling"
+          },
+          {
+            "label": "C",
+            "text": "profiled"
+          },
+          {
+            "label": "D",
+            "text": "will profile"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "The applicants who ____ will be flown to the corporate office and interviewed there.",
+        "options": [
+          {
+            "label": "A",
+            "text": "qualification"
+          },
+          {
+            "label": "B",
+            "text": "qualify"
+          },
+          {
+            "label": "C",
+            "text": "qualifying"
+          },
+          {
+            "label": "D",
+            "text": "qualifies"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "The company hired a professional ____ to fill the vacant positions.",
+        "options": [
+          {
+            "label": "A",
+            "text": "recruited"
+          },
+          {
+            "label": "B",
+            "text": "recruiting"
+          },
+          {
+            "label": "C",
+            "text": "recruitment"
+          },
+          {
+            "label": "D",
+            "text": "recruiter"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "After ____ all his materials, he had no option but to sit back and wait for some response.",
+        "options": [
+          {
+            "label": "A",
+            "text": "submitting"
+          },
+          {
+            "label": "B",
+            "text": "submitted"
+          },
+          {
+            "label": "C",
+            "text": "submission"
+          },
+          {
+            "label": "D",
+            "text": "submit"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Attention Job Seekers! Attend the National Recruiting Fair to be held next Saturday, May 11, at the Hinton Hotel. This fair [16] representatives of over 150 major national corporations. They are all looking for qualified candidates to apply for thousands of currently available job openings. Attendees are advised to bring 15 copies of a current résumé that lists education, job experience, and professional [17]. Many interviews will be conducted on site. Now you can stop that [18] job search, making call after call and sending out résumé after résumé. All the companies you want to work for will be together under one roof. You are sure to find the company that is the best match for you. Admission is free.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "bring together"
+            },
+            {
+              "label": "B",
+              "text": "brings together"
+            },
+            {
+              "label": "C",
+              "text": "brought together"
+            },
+            {
+              "label": "D",
+              "text": "to bring together"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "accomplishes"
+            },
+            {
+              "label": "B",
+              "text": "accomplished"
+            },
+            {
+              "label": "C",
+              "text": "accomplishing"
+            },
+            {
+              "label": "D",
+              "text": "accomplishments"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "time-consuming"
+            },
+            {
+              "label": "B",
+              "text": "submitting"
+            },
+            {
+              "label": "C",
+              "text": "recruiting"
+            },
+            {
+              "label": "D",
+              "text": "profiling"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following two e-mail messages. | To: Marjorie MorganFrom: Bill SmithersSubject: RecruitingMarjorie,We need to start looking at recruiting some new staff members over the summer. Our company has gotten lots of new contracts recently. We have abundant work and need to take on two or three new employees to help with it. We should advertise the positions as entry-level with room for promotion. We should choose the job candidates carefully as I don't want to have to end up firing anyone who turns out to be a bad match. I would like the new staff members to start work by June 10. Therefore, we should ask interested candidates to submit their applications before the end of April so that we can start interviewing in early May. Please come up with a recruiting plan and let me know. Thanks. | To: Bill SmithersFrom: Marjorie MorganSubject: re: RecruitingAttachment: ad draftBill,Here is my plan for recruiting new staff members for this summer. I will place ads in our local newspapers, in two major national papers, and on the major web sites by April 1. The deadline for submission of applications will be April 30. We will start interviews on May 8. In the ads I will carefully outline the qualifications we are looking for. I am attaching a draft of the ad. Please look it over and send me your comments. I want to make sure it contains all the details you want.Marjorie | | --- | --- | 22. The word candidates in line 7 of the first e-mail is closest in meaning to (A) advertisements (B) descriptions (C) recommendations (D) applicants",
+        "questions": [
+          {
+            "number": 19,
+            "question": "Why does Mr. Smithers need to hire new staff members?",
+            "options": [
+              {
+                "label": "A",
+                "text": "He has recently fired several employees."
+              },
+              {
+                "label": "B",
+                "text": "His company has a lot of work."
+              },
+              {
+                "label": "C",
+                "text": "Marjorie Morgan is leaving her job."
+              },
+              {
+                "label": "D",
+                "text": "Several employees have been promoted."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "What does Mr. Smithers ask Ms. Morgan to do?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Interview job candidates."
+              },
+              {
+                "label": "B",
+                "text": "Send him comments."
+              },
+              {
+                "label": "C",
+                "text": "Make a plan to recruit new employees."
+              },
+              {
+                "label": "D",
+                "text": "Read the major national newspapers."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "What will happen by April 30?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Job candidates will submit their applications."
+              },
+              {
+                "label": "B",
+                "text": "Interviews will begin."
+              },
+              {
+                "label": "C",
+                "text": "Two or three new staff members will be hired."
+              },
+              {
+                "label": "D",
+                "text": "The new staff members will begin working."
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word qualifications in lines 6–7 of the second e-mail is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "quantities"
+              },
+              {
+                "label": "B",
+                "text": "positions"
+              },
+              {
+                "label": "C",
+                "text": "abilities"
+              },
+              {
+                "label": "D",
+                "text": "salaries"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What has the woman been doing lately?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Fixing her drain."
+          },
+          {
+            "label": "B",
+            "text": "Earning money."
+          },
+          {
+            "label": "C",
+            "text": "Looking for matches."
+          },
+          {
+            "label": "D",
+            "text": "Searching for a job."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How long has she been doing this?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Two months."
+          },
+          {
+            "label": "B",
+            "text": "Four months."
+          },
+          {
+            "label": "C",
+            "text": "Five months."
+          },
+          {
+            "label": "D",
+            "text": "Nine months."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What did she do yesterday?",
+        "options": [
+          {
+            "label": "A",
+            "text": "She had an interview."
+          },
+          {
+            "label": "B",
+            "text": "She read a review."
+          },
+          {
+            "label": "C",
+            "text": "She helped someone."
+          },
+          {
+            "label": "D",
+            "text": "She accepted a new position."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "What should the résumé include?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Your major in college."
+          },
+          {
+            "label": "B",
+            "text": "Your grade point average."
+          },
+          {
+            "label": "C",
+            "text": "A current reference."
+          },
+          {
+            "label": "D",
+            "text": "A list of concrete achievements."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What is the employer looking for?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Employees with long-term career plans."
+          },
+          {
+            "label": "B",
+            "text": "People to fill positions immediately."
+          },
+          {
+            "label": "C",
+            "text": "Aggressive marketers."
+          },
+          {
+            "label": "D",
+            "text": "People willing to accept minimum wage."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "Who should apply for a position now?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Accountants."
+          },
+          {
+            "label": "B",
+            "text": "Recruiters."
+          },
+          {
+            "label": "C",
+            "text": "School teachers."
+          },
+          {
+            "label": "D",
+            "text": "Apartment managers."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best response. 4. What has the woman been doing lately? (A) Fixing her drain. (B) Earning money. (C) Looking for matches. (D) Searching for a job. 5. How long has she been doing this? (A) Two months. (B) Four months. (C) Five months. (D) Nine months. 6. What did she do yesterday? (A) She had an interview. (B) She read a review. (C) She helped someone. (D) She accepted a new position. Listen to the talk. Then read each question and choose the best answer. 7. What should the résumé include? (A) Your major in college. (B) Your grade point average. (C) A current reference. (D) A list of concrete achievements. 8. What is the employer looking for? (A) Employees with long-term career plans. (B) People to fill positions immediately. (C) Aggressive marketers. (D) People willing to accept minimum wage. 9. Who should apply for a position now? (A) Accountants. (B) Recruiters. (C) School teachers. (D) Apartment managers.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question–Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What has the woman been doing lately?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Fixing her drain."
+          },
+          {
+            "label": "B",
+            "text": "Earning money."
+          },
+          {
+            "label": "C",
+            "text": "Looking for matches."
+          },
+          {
+            "label": "D",
+            "text": "Searching for a job."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How long has she been doing this?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Two months."
+          },
+          {
+            "label": "B",
+            "text": "Four months."
+          },
+          {
+            "label": "C",
+            "text": "Five months."
+          },
+          {
+            "label": "D",
+            "text": "Nine months."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What did she do yesterday?",
+        "options": [
+          {
+            "label": "A",
+            "text": "She had an interview."
+          },
+          {
+            "label": "B",
+            "text": "She read a review."
+          },
+          {
+            "label": "C",
+            "text": "She helped someone."
+          },
+          {
+            "label": "D",
+            "text": "She accepted a new position."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "What should the résumé include?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Your major in college."
+          },
+          {
+            "label": "B",
+            "text": "Your grade point average."
+          },
+          {
+            "label": "C",
+            "text": "A current reference."
+          },
+          {
+            "label": "D",
+            "text": "A list of concrete achievements."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What is the employer looking for?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Employees with long-term career plans."
+          },
+          {
+            "label": "B",
+            "text": "People to fill positions immediately."
+          },
+          {
+            "label": "C",
+            "text": "Aggressive marketers."
+          },
+          {
+            "label": "D",
+            "text": "People willing to accept minimum wage."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "Who should apply for a position now?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Accountants."
+          },
+          {
+            "label": "B",
+            "text": "Recruiters."
+          },
+          {
+            "label": "C",
+            "text": "School teachers."
+          },
+          {
+            "label": "D",
+            "text": "Apartment managers."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "## Lesson\n\n# Job Advertising and Recruiting\n\n## WORDS TO LEARN\n\n$\\varepsilon$ :con, $_{n}$  ment\n\nk J tc\\_\n\ncandidate\n\n( ) with\n\nqualifications\n\nt g\n\nStudy the following definitions and examples.\n\n1. abundant adj., plentiful, in large quantities a. The computer analyst was glad to have chosen a field in which jobs were abundant.\n\nb. The recruiter was surprised by the abundant number of qualified applicants.\n\n2. accomplishment n., an achievement, a success\n\na. The success of the company was based on its early accomplishments.\n\nb. In honor of her accomplishments, the manager was promoted.\n\n3. bring together v., to join, to gather a. Every year, the firm brings together its top lawyers and its newest recruits for a training session.\n\nb. Our goal this year is to bring together the most creative group we can find.\n\n4. candidate n., one being considered for a position, office, or award\n\na. The recruiter will interview all candidates for the position.\n\nb. The president of our company is a candidate for the Outstanding Business Award.\n\n5. come up with v., to plan, to invent, to think of a. In order for that small business to succeed, it needs to come up with a new strategy.\n\nb. How was the new employee able to come up with that cost-cutting idea after only one week on the job?\n\n6. commensurate adj., in proportion to, corresponding, equal to a. Generally the first year's salary is commensurate with experience and education level.\n\nb. As mentioned in your packets, the number of new recruits will be commensurate with the number of vacancies at the company.\n\n7. match n., a fit, a similarity; v., to put together, to fit\n\na. It is difficult to make a decision when both candidates seem to be a perfect match.\n\nb. A headhunter matches qualified candidates to suitable positions.\n\n8. profile n., a group of characteristics or traits\n\na. The recruiter told him that, unfortunately, he did not fit the job profile.\n\nb. As jobs change, so does the company's profile for the job candidate.\n\n9. qualifications n., requirements, qualities, or abilities needed for something a. The job seeker had done extensive volunteer work and was able to add this experience to his list of qualifications.\n\nb. The applicant had so many qualifications that the company created a new position for her.\n\n10. recruit v., to attract people to join an organization or a cause; n., a person who is recruited\n\na. When the consulting firm recruited her, they offered to pay her relocation expenses.\n\nb. The new recruits spent the entire day in training.\n\n11. submit v., to present for consideration\n\na. Submit your résumé to the human resources department.\n\nb. The applicant submitted all her paperwork in a professional and timely manner.\n\n12. time-consuming adj., taking up a lot of time, lengthy a. Even though it was time-consuming, all of the participants felt that the open house was very worthwhile.\n\nb. Five interviews later, Ms. Lopez had the job, but it was the most time-consuming process she had ever gone through.",
+    "words_in_context": "## WORDS IN CONTEXT\n\n## Read the following passage and write the words in the blanks below.\n\nabundant candidates match recruit  \naccomplishments coming up with profile submit  \nbring together commensurate qualifications time-consuming\n\nRecruiting employees is a (1) \\_\\_\\_\\_ and costly process. Therefore, employers want to (2) \\_\\_\\_\\_ the right person with the right job the first time around. There are many ways to (3) \\_\\_\\_\\_ good employees: advertising in newspapers and professional journals, recruiting on college campuses or at conferences, or getting referrals from headhunters.\n\nRecruiting is a time for a company to brag about its (4) \\_\\_\\_\\_ and excite people about its future. Each company is trying to (5) \\_\\_\\_\\_ the best and the brightest, but they are not alone. Their competition is trying to do the same thing. When jobs are (6) \\_\\_\\_\\_ and there is low unemployment, employers may face higher demands from job seekers. Conversely, when the economy is slowing down and jobs are few, employers are in a better position for attracting the best (7) \\_\\_\\_\\_.\n\nEmployers look for certain characteristics and (8) \\_\\_\\_\\_ in their employees. (9) \\_\\_\\_\\_ a very specific (10) \\_\\_\\_\\_ that fits the company culture and the specific job requirements is a difficult job. Employers want to see a well-rounded candidate and someone who has related work experience. They are willing to offer a salary that is (11) \\_\\_\\_\\_ with that experience. Employers will make hiring and salary determinations based on the information candidates (12) \\_\\_\\_\\_ throughout the application and interview process.",
+    "word_families": "<table><tr><td>accomplish</td><td>You can accomplish anything if you put your mind to it.</td></tr><tr><td>accomplishment</td><td>The company is proud of our team&#x27;s accomplishments.</td></tr><tr><td>accomplished</td><td>The accomplished artist had his paintings in all the major galleries.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>match</td><td>The former marketing director is a good match for this position in public relations.</td></tr><tr><td>match</td><td>We need to match both job experience and personality for this position.</td></tr><tr><td>matching</td><td>The matching cushions look better on the chair.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>profile</td><td>His customer profile shows that he always pays on time.</td></tr><tr><td>profile</td><td>Through telephone surveys, we try to profile our clientele in order to understand who is using our services.</td></tr><tr><td>profiled</td><td>The profiled candidate only met half of the job requirements.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>qualify</td><td>In order to qualify, you must have two years of work experience.</td></tr><tr><td>qualifications</td><td>The manager made a list of qualifications for the vacant job position.</td></tr><tr><td>qualified</td><td>He found himself overqualified for the entry-level position.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>recruit</td><td>Large accounting firms recruit on college campuses every spring.</td></tr><tr><td>recruitment</td><td>The company&#x27;s recruitment resulted in ten highly qualified new employees.</td></tr><tr><td>recruiter</td><td>As a recruiter, he traveled around the country speaking to recent college graduates.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>submit</td><td>Anyone who is interested in the position should submit a résumé and writing samples.</td></tr><tr><td>submission</td><td>I&#x27;m very sorry, the submission date was last week. We can&#x27;t take any more applications.</td></tr><tr><td>submittal</td><td>The submittal of his resignation prompted his colleagues to apply for his job.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n## Part 2 Question–Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best response.\n\n4. What has the woman been doing lately?\n(A) Fixing her drain.\n(B) Earning money.\n(C) Looking for matches.\n(D) Searching for a job.\n\n5. How long has she been doing this?\n(A) Two months.\n(B) Four months.\n(C) Five months.\n(D) Nine months.\n\n6. What did she do yesterday?\n(A) She had an interview.\n(B) She read a review.\n(C) She helped someone.\n(D) She accepted a new position.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. What should the résumé include?\n(A) Your major in college.\n(B) Your grade point average.\n(C) A current reference.\n(D) A list of concrete achievements.\n\n8. What is the employer looking for?  \n(A) Employees with long-term career plans.  \n(B) People to fill positions immediately.  \n(C) Aggressive marketers.  \n(D) People willing to accept minimum wage.\n\n9. Who should apply for a position now?\n(A) Accountants.\n(B) Recruiters.\n(C) School teachers.\n(D) Apartment managers.",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. Your résumé shows you have \\_\\_\\_\\_ a great deal in your last position.\n(A) accomplish (C) accomplished\n(B) accomplishment (D) accomplishing\n\n11. This program is used to scan résumés and search for key words that \\_\\_\\_\\_.\n(A) match (C) matching\n(B) matched (D) will match\n\n12. It is illegal to \\_\\_\\_\\_ candidates based on gender or ethnicity.\n(A) profile (C) profiled\n(B) profiling (D) will profile\n\n13. The applicants who \\_\\_\\_\\_ will be flown to the corporate office and interviewed there.\n(A) qualification (C) qualifying\n(B) qualify (D) qualifies\n\n14. The company hired a professional \\_\\_\\_\\_ to fill the vacant positions.\n(A) recruited (C) recruitment\n(B) recruiting (D) recruiter\n\n15. After \\_\\_\\_\\_ all his materials, he had no option but to sit back and wait for some response.\n(A) submitting (C) submission\n(B) submitted (D) submit\n\n## Part 6 Text Completion\n\n## Attention Job Seekers!\n\nAttend the National Recruiting Fair to be held next Saturday, May 11, at the Hinton Hotel. This fair \\_16\\_ representatives of over 150 major national corporations. They are all looking for qualified candidates to apply for thousands of currently available job openings. Attendees are advised to bring 15 copies of a current résumé that lists education, job experience, and professional \\_17\\_. Many interviews will be conducted on site. Now you can stop that \\_18\\_ job search, making call after call and sending out résumé after résumé. All the companies you want to work for will be together under one roof. You are sure to find the company that is the best match for you. Admission is free.\n\n16. (A) bring together  \n(B) brings together  \n(C) brought together  \n(D) to bring together\n\n17. (A) accomplishes  \n(B) accomplished  \n(C) accomplishing  \n(D) accomplishments\n\n18. (A) time-consuming  \n(B) submitting  \n(C) recruiting  \n(D) profiling",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following two e-mail messages.\n\n| To: Marjorie MorganFrom: Bill SmithersSubject: RecruitingMarjorie,We need to start looking at recruiting some new staff members over the summer. Our company has gotten lots of new contracts recently. We have abundant work and need to take on two or three new employees to help with it. We should advertise the positions as entry-level with room for promotion. We should choose the job candidates carefully as I don't want to have to end up firing anyone who turns out to be a bad match. I would like the new staff members to start work by June 10. Therefore, we should ask interested candidates to submit their applications before the end of April so that we can start interviewing in early May. Please come up with a recruiting plan and let me know. Thanks. | To: Bill SmithersFrom: Marjorie MorganSubject: re: RecruitingAttachment: ad draftBill,Here is my plan for recruiting new staff members for this summer. I will place ads in our local newspapers, in two major national papers, and on the major web sites by April 1. The deadline for submission of applications will be April 30. We will start interviews on May 8. In the ads I will carefully outline the qualifications we are looking for. I am attaching a draft of the ad. Please look it over and send me your comments. I want to make sure it contains all the details you want.Marjorie |\n| --- | --- |\n\n19. Why does Mr. Smithers need to hire new staff members?  \n(A) He has recently fired several employees.  \n(B) His company has a lot of work.  \n(C) Marjorie Morgan is leaving her job.  \n(D) Several employees have been promoted.\n\n20. What does Mr. Smithers ask Ms. Morgan to do?  \n(A) Interview job candidates.  \n(B) Send him comments.  \n(C) Make a plan to recruit new employees.  \n(D) Read the major national newspapers.\n\n21. What will happen by April 30?\n(A) Job candidates will submit their applications.\n(B) Interviews will begin.\n(C) Two or three new staff members will be hired.\n(D) The new staff members will begin working.\n\n22. The word candidates in line 7 of the first e-mail is closest in meaning to (A) advertisements (B) descriptions (C) recommendations (D) applicants\n\n23. The word qualifications in lines 6–7 of the second e-mail is closest in meaning to\n(A) quantities\n(B) positions\n(C) abilities\n(D) salaries"
+  },
+  "needs_review": true
+}

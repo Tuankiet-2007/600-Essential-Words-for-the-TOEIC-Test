@@ -1,0 +1,642 @@
+@import 'tailwindcss';
+
+/* ---------- Barron's 600 TOEIC — design tokens ---------- */
+@theme {
+  --color-brand-50: #eef4ff;
+  --color-brand-100: #d9e5ff;
+  --color-brand-200: #bcd0ff;
+  --color-brand-300: #8fb0ff;
+  --color-brand-400: #5b86fb;
+  --color-brand-500: #365ff0;
+  --color-brand-600: #2440dd;
+  --color-brand-700: #1e33b3;
+  --color-brand-800: #1e2f8f;
+  --color-brand-900: #1e2c71;
+  --font-sans: 'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+
+  /* ---------- Duolingo palette ----------
+   * Mỗi màu chính đi kèm một biến "-dark" dùng làm bóng cứng 3D của nút
+   * (box-shadow 0 4px 0 <dark>). Đây là đặc trưng nhận biết rõ nhất của
+   * Duolingo: nút trông như một khối vật lý nổi lên khỏi mặt phẳng.
+   */
+  --color-duo-green: #58cc02;
+  --color-duo-green-dark: #58a700;
+  --color-duo-green-light: #d7ffb8;
+  --color-duo-green-tint: #f0fce5;
+  --color-duo-blue: #1cb0f6;
+  --color-duo-blue-dark: #1899d6;
+  --color-duo-blue-light: #ddf4ff;
+  --color-duo-red: #ff4b4b;
+  --color-duo-red-dark: #ea2b2b;
+  --color-duo-red-light: #ffdfe0;
+  --color-duo-yellow: #ffc800;
+  --color-duo-yellow-dark: #e5a500;
+  --color-duo-purple: #ce82ff;
+  --color-duo-purple-dark: #a568cc;
+  --color-duo-orange: #ff9600;
+  --color-duo-orange-dark: #e08600;
+
+  /* Neutrals — Duolingo dùng xám ấm, không dùng slate lạnh. */
+  --color-duo-ink: #4b4b4b;
+  --color-duo-gray: #777777;
+  --color-duo-muted: #afafaf;
+  --color-duo-line: #e5e5e5;
+  --color-duo-line-strong: #d4d4d4;
+  --color-duo-bg: #ffffff;
+  --color-duo-bg-soft: #f7f7f7;
+
+  /* Bóng cứng 3D. */
+  --shadow-duo-btn: 0 4px 0 0 var(--color-duo-green-dark);
+  --shadow-duo-card: 0 2px 0 0 var(--color-duo-line);
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+html.dark {
+  color-scheme: dark;
+  --color-duo-bg: #131f24;
+  --color-duo-bg-soft: #18252d;
+  --color-duo-ink: #f1f5f9;
+  --color-duo-gray: #94a3b8;
+  --color-duo-muted: #64748b;
+  --color-duo-line: #273740;
+  --color-duo-line-strong: #334652;
+}
+
+html.dark body {
+  background-color: #131f24 !important;
+  color: #f1f5f9 !important;
+}
+
+html.dark .bg-white {
+  background-color: #1a2c35 !important;
+}
+
+html.dark .bg-slate-50 {
+  background-color: #131f24 !important;
+}
+
+html.dark .text-slate-900,
+html.dark .text-slate-800 {
+  color: #f1f5f9 !important;
+}
+
+html.dark .text-slate-700,
+html.dark .text-slate-600 {
+  color: #cbd5e1 !important;
+}
+
+html.dark .text-slate-500,
+html.dark .text-slate-400 {
+  color: #94a3b8 !important;
+}
+
+html.dark .border-slate-200,
+html.dark .border-slate-100 {
+  border-color: #273740 !important;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background: var(--color-duo-bg-soft);
+  color: var(--color-duo-ink);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ==========================================================================
+   DUOLINGO-STYLE UTILITIES
+   Dùng chung cho mọi tab. Không phụ thuộc Tailwind runtime → SSR-safe.
+   ========================================================================== */
+
+/* ---------- 1. Nút "3D" ---------- */
+.duo-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  border: 0;
+  border-radius: 16px;
+  padding: 0.75rem 1.25rem;
+  font-weight: 800;
+  font-size: 0.9375rem;
+  line-height: 1;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  cursor: pointer;
+  user-select: none;
+  background: var(--color-duo-green);
+  color: #fff;
+  box-shadow: 0 4px 0 0 var(--color-duo-green-dark);
+  transition:
+    transform 0.06s ease,
+    box-shadow 0.06s ease,
+    filter 0.15s ease;
+}
+.duo-btn:hover:not(:disabled) {
+  filter: brightness(1.06);
+}
+/* Hiệu ứng bấm: nút dịch xuống đúng bằng bóng và bóng biến mất. */
+.duo-btn:active:not(:disabled) {
+  transform: translateY(4px);
+  box-shadow: none;
+}
+.duo-btn:focus-visible {
+  outline: 2px solid var(--color-duo-blue);
+  outline-offset: 2px;
+}
+.duo-btn:disabled {
+  cursor: not-allowed;
+  opacity: 0.55;
+  box-shadow: 0 4px 0 0 var(--color-duo-line-strong);
+}
+
+.duo-btn-green {
+  background: var(--color-duo-green);
+  color: #fff;
+  box-shadow: 0 4px 0 0 var(--color-duo-green-dark);
+}
+.duo-btn-blue {
+  background: var(--color-duo-blue);
+  color: #fff;
+  box-shadow: 0 4px 0 0 var(--color-duo-blue-dark);
+}
+.duo-btn-red {
+  background: var(--color-duo-red);
+  color: #fff;
+  box-shadow: 0 4px 0 0 var(--color-duo-red-dark);
+}
+.duo-btn-yellow {
+  background: var(--color-duo-yellow);
+  color: #4b4b4b;
+  box-shadow: 0 4px 0 0 var(--color-duo-yellow-dark);
+}
+.duo-btn-purple {
+  background: var(--color-duo-purple);
+  color: #fff;
+  box-shadow: 0 4px 0 0 var(--color-duo-purple-dark);
+}
+/* Nút phụ: trắng, viền xám, bóng cứng xám. */
+.duo-btn-ghost {
+  background: #fff;
+  color: var(--color-duo-ink);
+  box-shadow: 0 4px 0 0 var(--color-duo-line-strong);
+  border: 2px solid var(--color-duo-line);
+}
+.duo-btn-ghost:disabled {
+  box-shadow: 0 4px 0 0 var(--color-duo-line);
+}
+.duo-btn-sm {
+  padding: 0.5rem 0.875rem;
+  font-size: 0.8125rem;
+  border-radius: 12px;
+}
+.duo-btn-lg {
+  padding: 1rem 1.75rem;
+  font-size: 1.0625rem;
+}
+.duo-btn-block {
+  display: flex;
+  width: 100%;
+}
+
+/* ---------- 2. Thẻ ---------- */
+.duo-card {
+  background: #fff;
+  border: 2px solid var(--color-duo-line);
+  border-radius: 16px;
+  box-shadow: 0 2px 0 0 var(--color-duo-line);
+}
+.duo-card-flat {
+  box-shadow: none;
+}
+
+/* ---------- 3. Thẻ lựa chọn đáp án (4 trạng thái) ---------- */
+.duo-choice {
+  display: flex;
+  width: 100%;
+  align-items: flex-start;
+  gap: 0.75rem;
+  padding: 0.875rem 1rem;
+  text-align: left;
+  background: #fff;
+  border: 2px solid var(--color-duo-line);
+  border-radius: 16px;
+  box-shadow: 0 2px 0 0 var(--color-duo-line);
+  color: var(--color-duo-ink);
+  font-size: 0.9375rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition:
+    background-color 0.12s ease,
+    border-color 0.12s ease,
+    box-shadow 0.12s ease,
+    transform 0.06s ease;
+}
+.duo-choice:hover:not(:disabled) {
+  background: var(--color-duo-blue-light);
+  border-color: var(--color-duo-blue);
+}
+.duo-choice:active:not(:disabled) {
+  transform: translateY(2px);
+  box-shadow: none;
+}
+.duo-choice:focus-visible {
+  outline: 2px solid var(--color-duo-blue);
+  outline-offset: 2px;
+}
+.duo-choice:disabled {
+  cursor: default;
+}
+/* Trạng thái 2 — ĐANG CHỌN */
+.duo-choice-selected {
+  background: var(--color-duo-blue-light);
+  border-color: var(--color-duo-blue);
+  color: #0b6ea8;
+  box-shadow: 0 2px 0 0 var(--color-duo-blue-dark);
+}
+/* Trạng thái 3 — ĐÚNG */
+.duo-choice-correct {
+  background: var(--color-duo-green-light);
+  border-color: var(--color-duo-green);
+  color: #3f7d00;
+  box-shadow: 0 2px 0 0 var(--color-duo-green-dark);
+}
+/* Trạng thái 4 — SAI */
+.duo-choice-wrong {
+  background: var(--color-duo-red-light);
+  border-color: var(--color-duo-red);
+  color: #c81e1e;
+  box-shadow: 0 2px 0 0 var(--color-duo-red-dark);
+}
+
+/* Badge chữ A/B/C/D bo tròn trong thẻ lựa chọn. */
+.duo-choice-badge {
+  display: inline-flex;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  width: 1.75rem;
+  height: 1.75rem;
+  border-radius: 9999px;
+  border: 2px solid var(--color-duo-line);
+  background: #fff;
+  font-size: 0.75rem;
+  font-weight: 800;
+  color: var(--color-duo-gray);
+}
+.duo-choice:hover:not(:disabled) .duo-choice-badge {
+  border-color: var(--color-duo-blue);
+  color: var(--color-duo-blue);
+}
+.duo-choice-selected .duo-choice-badge {
+  border-color: var(--color-duo-blue);
+  background: var(--color-duo-blue);
+  color: #fff;
+}
+.duo-choice-correct .duo-choice-badge {
+  border-color: var(--color-duo-green);
+  background: var(--color-duo-green);
+  color: #fff;
+}
+.duo-choice-wrong .duo-choice-badge {
+  border-color: var(--color-duo-red);
+  background: var(--color-duo-red);
+  color: #fff;
+}
+
+/* ---------- 4. Progress bar ---------- */
+.duo-progress {
+  position: relative;
+  width: 100%;
+  height: 16px;
+  overflow: hidden;
+  border-radius: 9999px;
+  background: var(--color-duo-line);
+}
+.duo-progress-fill {
+  position: relative;
+  height: 100%;
+  border-radius: 9999px;
+  background: var(--color-duo-green);
+  transition: width 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+/* Vệt sáng trắng bên trong phần đã chạy — đặc trưng của Duolingo. */
+.duo-progress-fill::after {
+  content: '';
+  position: absolute;
+  inset: 4px 0 auto 0;
+  height: 4px;
+  margin: 0 6px;
+  border-radius: 9999px;
+  background: rgba(255, 255, 255, 0.45);
+}
+.duo-progress-fill-blue {
+  background: var(--color-duo-blue);
+}
+.duo-progress-fill-yellow {
+  background: var(--color-duo-yellow);
+}
+.duo-progress-fill-red {
+  background: var(--color-duo-red);
+}
+
+/* ---------- 5. Badge / pill ---------- */
+.duo-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  border-radius: 9999px;
+  padding: 0.2rem 0.65rem;
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  background: var(--color-duo-line);
+  color: var(--color-duo-ink);
+}
+.duo-badge-green {
+  background: var(--color-duo-green-light);
+  color: #3f7d00;
+}
+.duo-badge-blue {
+  background: var(--color-duo-blue-light);
+  color: #0b6ea8;
+}
+.duo-badge-red {
+  background: var(--color-duo-red-light);
+  color: #c81e1e;
+}
+.duo-badge-yellow {
+  background: #fff4cc;
+  color: #8a6d00;
+}
+.duo-badge-purple {
+  background: #f3e5ff;
+  color: #7c3aad;
+}
+
+/* ---------- 6. Nav item kiểu Duolingo ---------- */
+.duo-nav-item {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  gap: 0.75rem;
+  border: 2px solid transparent;
+  border-radius: 12px;
+  padding: 0.6rem 0.75rem;
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-size: 0.8125rem;
+  font-weight: 800;
+  color: var(--color-duo-gray);
+  background: transparent;
+  cursor: pointer;
+  transition:
+    background-color 0.12s ease,
+    color 0.12s ease,
+    border-color 0.12s ease;
+}
+.duo-nav-item:hover {
+  background: var(--color-duo-bg-soft);
+  color: var(--color-duo-ink);
+}
+.duo-nav-item-active {
+  background: var(--color-duo-blue-light);
+  border-color: var(--color-duo-blue);
+  color: #0b6ea8;
+}
+
+/* ---------- 7. Feedback banner (đáy màn hình) ---------- */
+.duo-feedback {
+  position: fixed;
+  inset-inline: 0;
+  bottom: 0;
+  z-index: 40;
+  border-top: 2px solid var(--color-duo-line);
+  background: #fff;
+}
+.duo-feedback-correct {
+  background: var(--color-duo-green-light);
+  border-top-color: var(--color-duo-green);
+}
+.duo-feedback-wrong {
+  background: var(--color-duo-red-light);
+  border-top-color: var(--color-duo-red);
+}
+.duo-feedback-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 3rem;
+  height: 3rem;
+  flex-shrink: 0;
+  border-radius: 9999px;
+  background: #fff;
+}
+.duo-feedback-correct .duo-feedback-icon {
+  color: var(--color-duo-green);
+}
+.duo-feedback-wrong .duo-feedback-icon {
+  color: var(--color-duo-red);
+}
+.duo-feedback-title {
+  font-size: 1.125rem;
+  font-weight: 800;
+}
+.duo-feedback-correct .duo-feedback-title {
+  color: #3f7d00;
+}
+.duo-feedback-wrong .duo-feedback-title {
+  color: #c81e1e;
+}
+
+/* ---------- 7b. Explanation block (per-question, shown after submit) ----------
+   Kiểu Duolingo: khối nền xanh rất nhạt, viền trái đậm màu hổ phách (gợi
+   "ghi chú"), tiêu đề IN HOA nhỏ, thân chữ dễ đọc. Chỉ hiện sau khi nộp bài. */
+.duo-explain {
+  margin-top: 0.875rem;
+  border-radius: 1rem;
+  border: 2px solid #e5e5e5;
+  border-left: 5px solid var(--color-duo-yellow);
+  background: #fffdf5;
+  padding: 0.875rem 1rem;
+}
+
+.duo-explain-head {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #8a6d00;
+  margin-bottom: 0.4rem;
+}
+
+.duo-explain-why {
+  font-size: 0.875rem;
+  line-height: 1.65;
+  color: var(--color-duo-ink, #4b4b4b);
+  font-weight: 500;
+}
+.duo-explain-why strong {
+  font-weight: 800;
+  color: #3f7d00;
+}
+.duo-explain-why em {
+  font-style: italic;
+  color: #6b6b6b;
+}
+
+.duo-explain-evidence {
+  margin-top: 0.6rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  border-radius: 0.75rem;
+  background: #f0f7ff;
+  border: 1px solid #cfe4ff;
+  padding: 0.55rem 0.7rem;
+  font-size: 0.8125rem;
+  color: #1c3f6e;
+}
+.duo-explain-evidence-tag {
+  font-size: 0.6875rem;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #1cb0f6;
+}
+
+.duo-explain-notes {
+  margin-top: 0.7rem;
+  border-top: 1px dashed #e5d9a8;
+  padding-top: 0.6rem;
+}
+.duo-explain-notes-title {
+  font-size: 0.6875rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #a08a3a;
+  margin-bottom: 0.35rem;
+}
+.duo-explain-notes ul {
+  display: grid;
+  gap: 0.3rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.duo-explain-notes li {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.45rem;
+  font-size: 0.8125rem;
+  line-height: 1.55;
+  color: #5a5a5a;
+}
+.duo-explain-notes li strong {
+  font-weight: 800;
+  color: #c81e1e;
+}
+.duo-explain-lab {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.25rem;
+  height: 1.25rem;
+  border-radius: 9999px;
+  background: #ffe0e0;
+  color: #c81e1e;
+  font-size: 0.6875rem;
+  font-weight: 800;
+  margin-top: 0.1rem;
+}
+
+/* ---------- 8. Stat pill (tim / XP / streak) ---------- */
+.duo-stat {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-weight: 800;
+  font-size: 0.875rem;
+}
+
+/* ---------- Utilities used across tabs ---------- */
+
+/* Target-vocabulary highlight inside passages and tapescripts. */
+mark.vocab-hit {
+  background: linear-gradient(180deg, transparent 55%, #fde68a 55%);
+  color: inherit;
+  font-weight: 700;
+  padding: 0 1px;
+  border-radius: 2px;
+}
+
+/* Blank slot in cloze / words-in-context exercises. */
+.cloze-blank {
+  display: inline-block;
+  min-width: 6.5rem;
+  border-bottom: 2px solid #94a3b8;
+  text-align: center;
+  font-weight: 600;
+  color: #2440dd;
+}
+
+/* 3D flip card (Tab 2). */
+.flip-scene {
+  perspective: 1600px;
+}
+.flip-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.55s cubic-bezier(0.4, 0.2, 0.2, 1);
+  transform-style: preserve-3d;
+}
+.flip-inner.is-flipped {
+  transform: rotateY(180deg);
+}
+.flip-face {
+  position: absolute;
+  inset: 0;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  overflow: auto;
+}
+.flip-face.back {
+  transform: rotateY(180deg);
+}
+
+/* Split-screen Part 7 layout (Tab 5). */
+.split-pane {
+  scrollbar-width: thin;
+}
+
+/* Thin scrollbars everywhere. */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #cbd5e1 transparent;
+}
+*::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+*::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 9999px;
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+}

@@ -1,0 +1,1637 @@
+{
+  "lesson_id": 5,
+  "title": "Conferences",
+  "theme_name": "General Business",
+  "audio_track": "track_05.mp3",
+  "part1_photo": "part1_photos/lesson_05.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "accommodate",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to fit; to provide with something needed",
+      "definition_vi": "có đủ chỗ chứa; đáp ứng (nhu cầu, yêu cầu); cung cấp chỗ ở",
+      "examples": [
+        {
+          "en": "The meeting room was large enough to accommodate the various needs of the groups using it.",
+          "vi": "Phòng họp đủ rộng để đáp ứng các nhu cầu đa dạng của những nhóm sử dụng nó."
+        },
+        {
+          "en": "Because the deadline for reserving rooms was past, the hotel manager could not accommodate our need for more rooms.",
+          "vi": "Bởi vì hạn chót đặt phòng đã qua, quản lý khách sạn không thể đáp ứng nhu cầu thêm phòng của chúng tôi."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "accommodate",
+          "example": "The hotel staff was able to accommodate our many needs for the conference."
+        },
+        {
+          "pos": "noun",
+          "word": "accommodation",
+          "example": "The accommodations at the hotel include swimming pool, gym, and restaurant."
+        },
+        {
+          "pos": "",
+          "word": "accommodating",
+          "example": "The conference center manager was extremely accommodating and tried to make our stay pleasant."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "accommodate guests",
+        "accommodate a request",
+        "hotel accommodations",
+        "accommodating staff"
+      ],
+      "usage": {
+        "structures": [
+          "accommodate + N (number of people / needs / requests / changes)",
+          "make accommodations for + N"
+        ],
+        "prepositions": [
+          "with",
+          "for"
+        ],
+        "collocations": [
+          "comfortably accommodate",
+          "overnight accommodations",
+          "accommodate special dietary needs",
+          "seating capacity to accommodate"
+        ],
+        "tip": "Trong TOEIC, 'accommodate' có 2 nghĩa cực kỳ phổ biến: (1) chứa được bao nhiêu người (Grand Ballroom can accommodate 300 guests), (2) đáp ứng yêu cầu (accommodate your request/schedule)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "accommodatingly",
+          "example": "The receptionist accommodatingly offered to store our luggage until check-in time.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Conference registration fees include all workshop materials, meals, and hotel _____.",
+        "answer": "accommodations",
+        "base_word": "accommodate",
+        "pos_hint": "danh từ số nhiều (chỗ ăn ở)",
+        "vi": "Lệ phí đăng ký hội nghị đã bao gồm tất cả tài liệu hội thảo, các bữa ăn và chỗ ở tại khách sạn."
+      }
+    },
+    {
+      "id": 2,
+      "word": "arrangement",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the plan or organization",
+      "definition_vi": "sự sắp xếp, sự thu xếp (thường dùng ở số nhiều cho công tác chuẩn bị); cách bố trí",
+      "examples": [
+        {
+          "en": "The travel arrangements were taken care of by Sara, Mr. Billings's capable assistant.",
+          "vi": "Việc thu xếp chuyến công tác đã được Sara, trợ lý đắc lực của ông Billings, lo liệu chu đáo."
+        },
+        {
+          "en": "The arrangement of speakers was alphabetical to avoid any hurt feelings.",
+          "vi": "Thứ tự sắp xếp các diễn giả được tính theo bảng chữ cái để tránh làm mất lòng bất kỳ ai."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "arrangement",
+          "example": "Nobody could understand the seating arrangement."
+        },
+        {
+          "pos": "",
+          "word": "arrange",
+          "example": "We will arrange the chairs in a circle."
+        },
+        {
+          "pos": "",
+          "word": "arranged",
+          "example": "The arranged flowers didn't look like those we chose from the catalog."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "make arrangements for",
+        "travel arrangements",
+        "seating arrangement",
+        "prior arrangement"
+      ],
+      "usage": {
+        "structures": [
+          "make arrangements (for + N / to V) (thu xếp cho việc gì)",
+          "arrange (for sb) to V"
+        ],
+        "prepositions": [
+          "for",
+          "with",
+          "of"
+        ],
+        "collocations": [
+          "flower arrangement",
+          "financial arrangement",
+          "flexible work arrangements",
+          "finalize the arrangements"
+        ],
+        "tip": "Khi mang nghĩa 'công tác chuẩn bị/thu xếp' (như đặt vé, đặt phòng), 'arrangements' luôn dùng ở dạng số nhiều và đi với động từ 'make' (make travel arrangements)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "arranger",
+          "example": "We hired a professional floral arranger to decorate the banquet hall.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Please contact the human resources office to _____ a convenient time for your orientation.",
+        "answer": "arrange",
+        "base_word": "arrangement",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Vui lòng liên hệ với văn phòng nhân sự để sắp xếp một thời gian thuận tiện cho buổi định hướng của bạn."
+      }
+    },
+    {
+      "id": 3,
+      "word": "association",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an organization of persons or groups having a common interest; a relationship or society",
+      "definition_vi": "hiệp hội, tổ chức nghề nghiệp; sự liên kết, mối quan hệ hợp tác",
+      "examples": [
+        {
+          "en": "Membership in a trade or professional association provides business contacts and mutual support.",
+          "vi": "Tư cách thành viên trong một hiệp hội thương mại hoặc nghề nghiệp mang lại các mối quan hệ kinh doanh và sự hỗ trợ lẫn nhau."
+        },
+        {
+          "en": "Local telephone companies formed an association to serve common goals, meet their common needs, and improve efficiency.",
+          "vi": "Các công ty điện thoại địa phương đã thành lập một hiệp hội để phục vụ các mục tiêu chung, đáp ứng nhu cầu chung và nâng cao hiệu quả."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "association",
+          "example": "Any association with the former company will put us in a negative light."
+        },
+        {
+          "pos": "",
+          "word": "associate",
+          "example": "Do you think customers will associate the failed upstart with ours?"
+        },
+        {
+          "pos": "adjective",
+          "word": "associated",
+          "example": "The associated costs will put this project out of our reach."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "trade association",
+        "in association with",
+        "professional association",
+        "be associated with"
+      ],
+      "usage": {
+        "structures": [
+          "in association with + N (hợp tác/phối hợp cùng với)",
+          "be associated with + N (có liên quan đến)"
+        ],
+        "prepositions": [
+          "with",
+          "in",
+          "of"
+        ],
+        "collocations": [
+          "alumni association",
+          "close association",
+          "form an association",
+          "sales associate"
+        ],
+        "tip": "Chú ý từ 'associate' ngoài làm động từ (liên kết) còn là danh từ chỉ người rất phổ biến trong TOEIC: 'sales associate' (nhân viên bán hàng) hoặc 'business associate' (đồng nghiệp/đối tác)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "associate",
+          "example": "A polite sales associate helped me find the right size jacket.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The charity concert is being organized in _____ with several local businesses.",
+        "answer": "association",
+        "base_word": "association",
+        "pos_hint": "danh từ",
+        "vi": "Buổi hòa nhạc từ thiện đang được tổ chức với sự phối hợp của một số doanh nghiệp địa phương."
+      }
+    },
+    {
+      "id": 4,
+      "word": "attend",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to go to; to pay attention to",
+      "definition_vi": "tham dự, có mặt tại (cuộc họp, sự kiện); chú tâm, chăm sóc, giải quyết (đi với 'to')",
+      "examples": [
+        {
+          "en": "We expect more than 100 members to attend the annual meeting.",
+          "vi": "Chúng tôi dự kiến có hơn 100 thành viên sẽ tham dự cuộc họp thường niên."
+        },
+        {
+          "en": "The hotel manager attended to all our needs promptly.",
+          "vi": "Người quản lý khách sạn đã giải quyết chu đáo mọi nhu cầu của chúng tôi một cách nhanh chóng."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "attend",
+          "example": "Gillian attended the reception for visiting ambassadors."
+        },
+        {
+          "pos": "",
+          "word": "attendee",
+          "example": "More than 500 attendees packed the ballroom."
+        },
+        {
+          "pos": "noun",
+          "word": "attendance",
+          "example": "Attendance was low for this year's annual meeting."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "attend a conference",
+        "attend to a matter",
+        "conference attendees",
+        "high attendance"
+      ],
+      "usage": {
+        "structures": [
+          "attend + N (meeting / seminar / class) (tham dự - KHÔNG có giới từ)",
+          "attend to + N (chăm sóc, xử lý, giải quyết việc gì)"
+        ],
+        "prepositions": [
+          "to"
+        ],
+        "collocations": [
+          "in attendance",
+          "flight attendant",
+          "attendance record",
+          "mandatory attendance"
+        ],
+        "tip": "Bẫy kinh điển trong Part 5: phân biệt 2 danh từ 'attendance' (sự tham dự/sĩ số người có mặt - không đếm được) và 'attendee' (người tham dự - đếm được)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "attentive",
+          "example": "The restaurant received glowing reviews for its delicious food and attentive staff.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "attentively",
+          "example": "The trainees listened attentively as the instructor explained the safety protocol.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "All conference _____ will receive a name badge and a welcome packet at the registration desk.",
+        "answer": "attendees",
+        "base_word": "attend",
+        "pos_hint": "danh từ chỉ người số nhiều",
+        "vi": "Tất cả những người tham dự hội nghị sẽ nhận được bảng tên và bộ tài liệu chào mừng tại bàn đăng ký."
+      }
+    },
+    {
+      "id": 5,
+      "word": "get in touch",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to make contact with",
+      "definition_vi": "liên lạc, giữ liên hệ với (ai đó)",
+      "examples": [
+        {
+          "en": "As soon as we arrive at the hotel, we will get in touch with the manager about the unexpected guests.",
+          "vi": "Ngay khi đến khách sạn, chúng tôi sẽ liên lạc với người quản lý về những vị khách phát sinh ngoài dự kiến."
+        },
+        {
+          "en": "The registration desk is a good central location for people to get in touch with each other.",
+          "vi": "Quầy đăng ký là một vị trí trung tâm thuận lợi để mọi người liên lạc với nhau."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "get in touch with",
+        "stay in touch",
+        "keep in touch",
+        "be in touch with"
+      ],
+      "usage": {
+        "structures": [
+          "get / keep / stay / be in touch (with + sb)"
+        ],
+        "prepositions": [
+          "with"
+        ],
+        "collocations": [
+          "lose touch with",
+          "put sb in touch with",
+          "closely in touch",
+          "get back in touch"
+        ],
+        "tip": "Cụm 'get in touch with sb' hoàn toàn đồng nghĩa với 'contact sb' (nhưng lưu ý: 'contact' không có giới từ 'with', còn 'get in touch' bắt buộc có 'with')."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "touch",
+          "example": "Visitors are asked not to touch the paintings on display in the gallery.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "touch",
+          "example": "Adding fresh flowers gave the hotel lobby a welcoming personal touch.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "touching",
+          "example": "The retiring director gave a touching farewell speech to her staff.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "touchingly",
+          "example": "He spoke touchingly about the mentors who guided his early career.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "A customer service representative will get in _____ with you within 24 hours to resolve your issue.",
+        "answer": "touch",
+        "base_word": "get in touch",
+        "pos_hint": "danh từ (trong cụm cố định)",
+        "vi": "Một đại diện dịch vụ khách hàng sẽ liên lạc với bạn trong vòng 24 giờ để giải quyết vấn đề của bạn."
+      }
+    },
+    {
+      "id": 6,
+      "word": "hold",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to accommodate; to conduct",
+      "definition_vi": "tổ chức, tiến hành (cuộc họp, sự kiện); có sức chứa; nắm giữ (vị trí, cổ phần)",
+      "examples": [
+        {
+          "en": "This meeting room holds at least 80 people comfortably.",
+          "vi": "Phòng họp này có thể chứa thoải mái ít nhất 80 người."
+        },
+        {
+          "en": "She holds an annual seminar that is very popular.",
+          "vi": "Cô ấy tổ chức một buổi hội thảo thường niên rất được ưa chuộng."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "hold a meeting",
+        "hold a conference",
+        "hold a position",
+        "put on hold"
+      ],
+      "usage": {
+        "structures": [
+          "hold + N (meeting / event / election / seminar) (tổ chức)",
+          "hold + số lượng + people/guests (có sức chứa bao nhiêu người)",
+          "hold + sb + responsible/accountable for (quy trách nhiệm cho ai)"
+        ],
+        "prepositions": [
+          "on",
+          "in",
+          "up"
+        ],
+        "collocations": [
+          "hold accountable",
+          "on hold",
+          "shareholder",
+          "hold talks"
+        ],
+        "tip": "Quá khứ và phân từ 2 của 'hold' là 'held'; cấu trúc bị động 'be held at/in + địa điểm / on + ngày' (được tổ chức tại/vào...) xuất hiện trong hầu như mọi đề thi TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "hold",
+          "example": "The board of directors holds its quarterly meeting on the first Monday of the month.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "holder",
+          "example": "Season ticket holders are eligible for a 20 percent discount on merchandise.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "holding",
+          "example": "The corporation expanded its real estate holdings across the Midwest.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "This year's international trade fair will be _____ at the Harbor Convention Center in May.",
+        "answer": "held",
+        "base_word": "hold",
+        "pos_hint": "động từ chia quá khứ phân từ (V3/ed - bị động)",
+        "vi": "Hội chợ thương mại quốc tế năm nay sẽ được tổ chức tại Trung tâm Hội nghị Cảng vào tháng Năm."
+      }
+    },
+    {
+      "id": 7,
+      "word": "location",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a position or site",
+      "definition_vi": "địa điểm, vị trí, cơ sở/chi nhánh",
+      "examples": [
+        {
+          "en": "The location of the meeting was changed from the Red Room to the Green Room.",
+          "vi": "Địa điểm của cuộc họp đã được đổi từ Phòng Đỏ sang Phòng Xanh."
+        },
+        {
+          "en": "Disney World was the perfect location for the annual meeting since many members could bring their families.",
+          "vi": "Disney World là địa điểm hoàn hảo cho cuộc họp thường niên vì nhiều thành viên có thể đưa gia đình đi cùng."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "central location",
+        "convenient location",
+        "prime location",
+        "retail locations"
+      ],
+      "usage": {
+        "structures": [
+          "be located in / at / near + địa điểm (tọa lạc tại)",
+          "relocate to + địa điểm (chuyển địa điểm đến)"
+        ],
+        "prepositions": [
+          "of",
+          "in",
+          "at",
+          "on"
+        ],
+        "collocations": [
+          "ideal location",
+          "branch location",
+          "undisclosed location",
+          "on location"
+        ],
+        "tip": "Cấu trúc 'be conveniently/centrally located' (nằm ở vị trí thuận tiện/trung tâm) là câu mẫu kinh điển để mô tả khách sạn hoặc văn phòng trong TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "locate",
+          "example": "The warehouse is conveniently located near two major interstate highways.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "location",
+          "example": "Our pharmacy chain plans to open five new locations next spring.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "local",
+          "example": "We source all of our restaurant's vegetables from local farms.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "locally",
+          "example": "All of our wooden furniture is handcrafted locally by skilled artisans.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The Boutique Hotel is conveniently _____ just two blocks from the central train station.",
+        "answer": "located",
+        "base_word": "location",
+        "pos_hint": "động từ chia quá khứ phân từ (V3/ed - bị động)",
+        "vi": "Khách sạn Boutique tọa lạc ở một vị trí thuận tiện chỉ cách nhà ga trung tâm hai dãy nhà."
+      }
+    },
+    {
+      "id": 8,
+      "word": "overcrowded",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "too crowded",
+      "definition_vi": "quá đông đúc, quá tải người, chật kín",
+      "examples": [
+        {
+          "en": "As soon as the guests entered the dining room for dinner, Sue Lin could see that the room would become overcrowded.",
+          "vi": "Ngay khi các vị khách bước vào phòng ăn tối, Sue Lin có thể thấy rằng căn phòng sẽ trở nên quá tải."
+        },
+        {
+          "en": "To avoid being overcrowded, we limited the number of guests that members could bring.",
+          "vi": "Để tránh tình trạng quá đông đúc, chúng tôi đã giới hạn số lượng khách mời mà các thành viên có thể đưa theo."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "overcrowded room",
+        "overcrowded train",
+        "become overcrowded",
+        "prevent overcrowding"
+      ],
+      "usage": {
+        "structures": [
+          "be / become overcrowded (with + N)"
+        ],
+        "prepositions": [
+          "with"
+        ],
+        "collocations": [
+          "severely overcrowded",
+          "overcrowded conditions",
+          "relieve overcrowding",
+          "overcrowded schedule"
+        ],
+        "tip": "Tiền tố 'over-' mang nghĩa 'quá mức' (too much): overcrowded (quá đông), overpriced (quá đắt), overworked (làm việc quá sức)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "overcrowd",
+          "example": "Organizers sold fewer tickets this year so as not to overcrowd the venue.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "overcrowding",
+          "example": "Adding express buses during rush hour has helped alleviate overcrowding.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "overcrowded",
+          "example": "Commuters complained about the overcrowded subway cars every morning.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The airport built a second terminal to relieve _____ in the main departure lounge.",
+        "answer": "overcrowding",
+        "base_word": "overcrowded",
+        "pos_hint": "danh từ (V-ing)",
+        "vi": "Sân bay đã xây dựng thêm nhà ga thứ hai để giảm bớt tình trạng quá tải tại phòng chờ khởi hành chính."
+      }
+    },
+    {
+      "id": 9,
+      "word": "register",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a record; v., to record",
+      "definition_vi": "sổ đăng ký, danh sách ghi chép (n.); đăng ký, ghi danh (v.)",
+      "examples": [
+        {
+          "en": "According to the register, more than 250 people attended the afternoon seminar.",
+          "vi": "Theo sổ đăng ký, đã có hơn 250 người tham dự buổi hội thảo chiều."
+        },
+        {
+          "en": "Hotels ask all guests to register and give a home address.",
+          "vi": "Các khách sạn yêu cầu tất cả khách lưu trú phải đăng ký và cung cấp địa chỉ nhà."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "register",
+          "example": "He registered for his classes via the Internet."
+        },
+        {
+          "pos": "",
+          "word": "register",
+          "example": "The hotel's register showed that only half the members had arrived."
+        },
+        {
+          "pos": "",
+          "word": "registration",
+          "example": "Registration is a detail-oriented and crucial part of running any meeting."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "register for a seminar",
+        "registration desk",
+        "registration fee",
+        "cash register"
+      ],
+      "usage": {
+        "structures": [
+          "register (sb) for + N (đăng ký tham gia khóa học/hội nghị)",
+          "register with + N (đăng ký với tổ chức nào)"
+        ],
+        "prepositions": [
+          "for",
+          "with",
+          "at"
+        ],
+        "collocations": [
+          "online registration",
+          "registration form",
+          "advance registration",
+          "hotel register"
+        ],
+        "tip": "Khi là động từ mang nghĩa 'đăng ký tham gia một sự kiện/khóa học', 'register' luôn đi kèm giới từ 'for' (register for the workshop)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "registrar",
+          "example": "Students must submit their transcripts to the university registrar's office.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "registered",
+          "example": "Only registered participants will be admitted to the afternoon sessions.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Early _____ for the annual marketing symposium ends on Friday, October 15.",
+        "answer": "registration",
+        "base_word": "register",
+        "pos_hint": "danh từ",
+        "vi": "Việc đăng ký sớm cho hội nghị chuyên đề tiếp thị thường niên sẽ kết thúc vào thứ Sáu, ngày 15 tháng 10."
+      }
+    },
+    {
+      "id": 10,
+      "word": "select",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to choose from a group; adj., specially chosen",
+      "definition_vi": "lựa chọn, tuyển chọn (v.); có chọn lọc, ưu tú, dành riêng (adj.)",
+      "examples": [
+        {
+          "en": "The conference participant selected the marketing seminar from the various offerings.",
+          "vi": "Người tham gia hội nghị đã chọn buổi hội thảo tiếp thị trong số các chương trình được đưa ra."
+        },
+        {
+          "en": "The winners were a select group.",
+          "vi": "Những người chiến thắng là một nhóm ưu tú được tuyển chọn."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "select",
+          "example": "Since there are overlapping workshops, participants will have to select which one most appeals to them."
+        },
+        {
+          "pos": "noun",
+          "word": "selection",
+          "example": "His dinner selection of stuffed quail sounded better on the menu than it looked on the plate."
+        },
+        {
+          "pos": "",
+          "word": "selective",
+          "example": "The planning committee was very selective about who received invitations."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "select from",
+        "wide selection",
+        "selection process",
+        "a select group"
+      ],
+      "usage": {
+        "structures": [
+          "select + A (from B) (as/to be C)",
+          "a wide selection of + N (nhiều mặt hàng để lựa chọn)"
+        ],
+        "prepositions": [
+          "from",
+          "for",
+          "as"
+        ],
+        "collocations": [
+          "randomly selected",
+          "carefully select",
+          "selective about",
+          "natural selection"
+        ],
+        "tip": "Lưu ý: 'select' vừa là động từ vừa là tính từ (a select group of clients = một nhóm khách hàng chọn lọc/VIP); còn 'selective' là tính từ mang nghĩa 'khắt khe, kỹ tính khi chọn lựa'."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "selectively",
+          "example": "The venture capital firm invests selectively in clean-energy startups.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Our downtown showroom features an extensive _____ of imported ceramic tiles.",
+        "answer": "selection",
+        "base_word": "select",
+        "pos_hint": "danh từ số ít",
+        "vi": "Phòng trưng bày ở trung tâm thành phố của chúng tôi có một bộ sưu tập đa dạng các loại gạch men nhập khẩu."
+      }
+    },
+    {
+      "id": 11,
+      "word": "session",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a meeting",
+      "definition_vi": "phiên họp, buổi sinh hoạt/hội thảo, buổi học",
+      "examples": [
+        {
+          "en": "The morning sessions tend to fill up first, so sign up early.",
+          "vi": "Các phiên hội thảo buổi sáng thường kín chỗ trước, vì vậy hãy đăng ký sớm."
+        },
+        {
+          "en": "Due to the popularity of this course, we will offer two sessions.",
+          "vi": "Do sự phổ biến của khóa học này, chúng tôi sẽ tổ chức thành hai buổi."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "training session",
+        "morning session",
+        "in session",
+        "question-and-answer session"
+      ],
+      "usage": {
+        "structures": [
+          "be in session (đang họp / đang trong kỳ học)",
+          "hold / conduct / attend a session"
+        ],
+        "prepositions": [
+          "in",
+          "on",
+          "for"
+        ],
+        "collocations": [
+          "orientation session",
+          "brainstorming session",
+          "plenary session",
+          "breakout session"
+        ],
+        "tip": "Rất hay ghép với danh từ đứng trước để tạo cụm danh từ chỉ các buổi họp/đào tạo: 'training session, orientation session, Q&A session'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "session",
+          "example": "Each training session lasts approximately ninety minutes.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "sessional",
+          "example": "The college hired several sessional instructors for the spring term.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "All new hires must attend two mandatory training _____ before starting work on the factory floor.",
+        "answer": "sessions",
+        "base_word": "session",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Tất cả nhân viên mới phải tham dự hai buổi đào tạo bắt buộc trước khi bắt đầu làm việc tại xưởng sản xuất."
+      }
+    },
+    {
+      "id": 12,
+      "word": "take part in",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to join or participate",
+      "definition_vi": "tham gia vào (hoạt động, thảo luận, sự kiện)",
+      "examples": [
+        {
+          "en": "The format for the session is very informal, which makes it easier for people to take part in the discussion.",
+          "vi": "Hình thức của phiên họp này rất thoải mái, điều đó giúp mọi người dễ dàng tham gia vào cuộc thảo luận hơn."
+        },
+        {
+          "en": "We could not get enough people to take part in the meeting, so we canceled it.",
+          "vi": "Chúng tôi không thể huy động đủ người tham gia cuộc họp, vì vậy chúng tôi đã hủy nó."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "take part in a discussion",
+        "take an active part in",
+        "take part in a survey",
+        "invited to take part in"
+      ],
+      "usage": {
+        "structures": [
+          "take (an active) part in + N / V-ing (= participate in)"
+        ],
+        "prepositions": [
+          "in"
+        ],
+        "collocations": [
+          "take part in negotiations",
+          "take part in a competition",
+          "eager to take part in",
+          "take part in training"
+        ],
+        "tip": "Bộ ba đồng nghĩa kinh điển trong TOEIC: 'take part in' = 'participate in' = 'engage in' = 'attend' (chú ý 'attend' không có giới từ 'in')."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "participate",
+          "example": "Employees are encouraged to participate in the company's wellness program.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "participant",
+          "example": "Every survey participant will receive a ten-dollar gift voucher.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "participation",
+          "example": "We would like to thank you for your active participation in today's forum.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "participatory",
+          "example": "The new director favors a more participatory style of management.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Over five hundred employees _____ part in the annual charity marathon last weekend.",
+        "answer": "took",
+        "base_word": "take part in",
+        "pos_hint": "động từ chia quá khứ đơn (V2)",
+        "vi": "Hơn năm trăm nhân viên đã tham gia giải chạy marathon từ thiện thường niên vào cuối tuần trước."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. Many (1) ____ and organizations hold annual conferences so that their members can (2) ____ with each other and (3) ____ educational programs. When planning a conference, event coordinators try to have a variety of (4) ____ so people (5) ____ can (6) ____ a workshop or meeting that best suits their needs. When making (7) ____ for a conference, they look for a site that will (8) ____ all their needs. The site should be able to (9) ____ the number of people expected to attend, without the meeting rooms being (10) ____. Good event coordinators tour the site before making a final decision because brochures cannot show all the necessary details. Having meetings in a fun (11) ____ can really encourage people to (12) ____ for the meeting.",
+    "word_bank": [
+      "accommodate",
+      "attending",
+      "location",
+      "select",
+      "arrangements",
+      "get in touch",
+      "overcrowded",
+      "sessions",
+      "associations",
+      "hold",
+      "register",
+      "take part in"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "accommodate",
+        "example": "The hotel staff was able to accommodate our many needs for the conference.",
+        "pos": ""
+      },
+      {
+        "word": "accommodation",
+        "example": "The accommodations at the hotel include swimming pool, gym, and restaurant.",
+        "pos": "noun"
+      },
+      {
+        "word": "accommodating",
+        "example": "The conference center manager was extremely accommodating and tried to make our stay pleasant.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "arrangement",
+        "example": "Nobody could understand the seating arrangement.",
+        "pos": "noun"
+      },
+      {
+        "word": "arrange",
+        "example": "We will arrange the chairs in a circle.",
+        "pos": ""
+      },
+      {
+        "word": "arranged",
+        "example": "The arranged flowers didn't look like those we chose from the catalog.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "association",
+        "example": "Any association with the former company will put us in a negative light.",
+        "pos": "noun"
+      },
+      {
+        "word": "associate",
+        "example": "Do you think customers will associate the failed upstart with ours?",
+        "pos": ""
+      },
+      {
+        "word": "associated",
+        "example": "The associated costs will put this project out of our reach.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "attend",
+        "example": "Gillian attended the reception for visiting ambassadors.",
+        "pos": ""
+      },
+      {
+        "word": "attendee",
+        "example": "More than 500 attendees packed the ballroom.",
+        "pos": ""
+      },
+      {
+        "word": "attendance",
+        "example": "Attendance was low for this year's annual meeting.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "select",
+        "example": "Since there are overlapping workshops, participants will have to select which one most appeals to them.",
+        "pos": "verb"
+      },
+      {
+        "word": "selection",
+        "example": "His dinner selection of stuffed quail sounded better on the menu than it looked on the plate.",
+        "pos": "noun"
+      },
+      {
+        "word": "selective",
+        "example": "The planning committee was very selective about who received invitations.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "register",
+        "example": "He registered for his classes via the Internet.",
+        "pos": "verb"
+      },
+      {
+        "word": "register",
+        "example": "The hotel's register showed that only half the members had arrived.",
+        "pos": ""
+      },
+      {
+        "word": "registration",
+        "example": "Registration is a detail-oriented and crucial part of running any meeting.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "The banquet room could ____ up to 750 for dinner.",
+        "options": [
+          {
+            "label": "A",
+            "text": "accommodated"
+          },
+          {
+            "label": "B",
+            "text": "accommodate"
+          },
+          {
+            "label": "C",
+            "text": "accommodation"
+          },
+          {
+            "label": "D",
+            "text": "accommodating"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "Helen made the final ____ for use of the conference room with the hotel's general manager.",
+        "options": [
+          {
+            "label": "A",
+            "text": "arranging"
+          },
+          {
+            "label": "B",
+            "text": "arrange"
+          },
+          {
+            "label": "C",
+            "text": "arrangement"
+          },
+          {
+            "label": "D",
+            "text": "arranged"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "For most people, Samco is ____ with computer chip production.",
+        "options": [
+          {
+            "label": "A",
+            "text": "associate"
+          },
+          {
+            "label": "B",
+            "text": "associated"
+          },
+          {
+            "label": "C",
+            "text": "associating"
+          },
+          {
+            "label": "D",
+            "text": "association"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "We expect that fewer guests will ____ the evening gala.",
+        "options": [
+          {
+            "label": "A",
+            "text": "attend"
+          },
+          {
+            "label": "B",
+            "text": "attending"
+          },
+          {
+            "label": "C",
+            "text": "attention"
+          },
+          {
+            "label": "D",
+            "text": "attendance"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "The association's members were asked to ____ for the special session well in advance because space in the lecture hall was limited.",
+        "options": [
+          {
+            "label": "A",
+            "text": "register"
+          },
+          {
+            "label": "B",
+            "text": "registration"
+          },
+          {
+            "label": "C",
+            "text": "registering"
+          },
+          {
+            "label": "D",
+            "text": "registrar"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "By adding more class ____, the staff was able to please more members.",
+        "options": [
+          {
+            "label": "A",
+            "text": "select"
+          },
+          {
+            "label": "B",
+            "text": "selective"
+          },
+          {
+            "label": "C",
+            "text": "selecting"
+          },
+          {
+            "label": "D",
+            "text": "selections"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "All members of the Countywide Small Business Owners Association are invited to take part in our annual conference, to be held on March 31 at the Grand Hotel in Marysville. The conference begins at 8:30 A.M. with an address by this year's guest, Cynthia Quinn, owner of Designs by Cynthia, Inc., and winner of numerous business and community awards. Morning small group sessions begin at 9:30. Attendees can [16] from a variety of session topics including Financing Your New Business; Selecting the Best Location; and Formulas for Success. Lunch will be served at 12:30, followed by afternoon small group sessions at 2:00. This is the Association's most popular event, so [17] early to assure your place. Fill out the form below and send it to the Association Secretary by March 1. To arrange overnight [18] at the Grand Hotel, get in touch with the hotel reservations clerk at 498-1231. Mention the conference (B) must register in order to get a special discount price. (C) registering (D) register",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "select"
+            },
+            {
+              "label": "B",
+              "text": "selection"
+            },
+            {
+              "label": "C",
+              "text": "selective"
+            },
+            {
+              "label": "D",
+              "text": "selectively"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "accommodate"
+            },
+            {
+              "label": "B",
+              "text": "accommodating"
+            },
+            {
+              "label": "C",
+              "text": "accommodations"
+            },
+            {
+              "label": "D",
+              "text": "accommodates"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following two e-mails. To: Max Sullivan From: Martha Reynolds Subj: Conference I have been working on the arrangements for our upcoming conference. I've looked into the City Convention Center, and I think it is the most convenient location. It is close to public transportation and hotels. The accommodations are also excellent. The rooms are large, and we can reserve up to ten meeting rooms. However, the price is almost 50% more than we agreed we could spend. The other choice is the Mayfield Hotel. Many associations hold their conventions there. It is a nice place, and the price is reasonable. However, it is not close to the subway. Also, it is much smaller than the Convention Center. I think we could only get three meeting rooms. Would that be enough? Please get in touch with me today to let me know what you think. I need to reserve a place soon. To: Martha Reynolds From: Max Sullivan Subj: Re: Conference In regard to selecting a location for the conference, I think the Convention Center is better than the Mayfield Hotel. The hotel is much too small. Remember, we plan to hold at least five sessions at a time. We couldn't do that at the hotel. We expect more people to take part in the convention this year, so it is important to have a space that can accommodate everyone. About the price, I think we can rearrange the budget a bit in order to be able to pay for it. So go ahead and reserve the space at the Convention Center. Max",
+        "questions": [
+          {
+            "number": 19,
+            "question": "What are these e-mails about?",
+            "options": [
+              {
+                "label": "A",
+                "text": "The date of the conference."
+              },
+              {
+                "label": "B",
+                "text": "The conference site."
+              },
+              {
+                "label": "C",
+                "text": "The topics of the conference sessions."
+              },
+              {
+                "label": "D",
+                "text": "The number of conference attendees."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "How many meeting rooms will they need?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Only three."
+              },
+              {
+                "label": "B",
+                "text": "At least five."
+              },
+              {
+                "label": "C",
+                "text": "Up to ten."
+              },
+              {
+                "label": "D",
+                "text": "Almost 50."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "What does Max prefer about the Convention Center?",
+            "options": [
+              {
+                "label": "A",
+                "text": "The price."
+              },
+              {
+                "label": "B",
+                "text": "The location."
+              },
+              {
+                "label": "C",
+                "text": "The size."
+              },
+              {
+                "label": "D",
+                "text": "The people."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The words get in touch in line 14 of the first e-mail are closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "offer"
+              },
+              {
+                "label": "B",
+                "text": "discuss"
+              },
+              {
+                "label": "C",
+                "text": "provide"
+              },
+              {
+                "label": "D",
+                "text": "contact"
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word selecting in line 1 of the second e-mail is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "choosing"
+              },
+              {
+                "label": "B",
+                "text": "reserving"
+              },
+              {
+                "label": "C",
+                "text": "comparing"
+              },
+              {
+                "label": "D",
+                "text": "seeking"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "Why are they having difficulty arranging a site for the conference?",
+        "options": [
+          {
+            "label": "A",
+            "text": "It's a busy time of year."
+          },
+          {
+            "label": "B",
+            "text": "They procrastinated."
+          },
+          {
+            "label": "C",
+            "text": "Their group is large."
+          },
+          {
+            "label": "D",
+            "text": "The coordinator has been sick."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "When will the conference take place?",
+        "options": [
+          {
+            "label": "A",
+            "text": "At the end of this month."
+          },
+          {
+            "label": "B",
+            "text": "Next month."
+          },
+          {
+            "label": "C",
+            "text": "At the end of this year."
+          },
+          {
+            "label": "D",
+            "text": "Next year."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "How many people do they expect at the conference?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Two hundred."
+          },
+          {
+            "label": "B",
+            "text": "Four hundred."
+          },
+          {
+            "label": "C",
+            "text": "Five hundred."
+          },
+          {
+            "label": "D",
+            "text": "Ten hundred."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "What is the topic of the talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Accommodating disabled people."
+          },
+          {
+            "label": "B",
+            "text": "Legal responsibility for off-site events."
+          },
+          {
+            "label": "C",
+            "text": "Arranging conferences."
+          },
+          {
+            "label": "D",
+            "text": "Preparing convention catalogs."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "Where are the speakers?",
+        "options": [
+          {
+            "label": "A",
+            "text": "In a hospital."
+          },
+          {
+            "label": "B",
+            "text": "Off site."
+          },
+          {
+            "label": "C",
+            "text": "At a party."
+          },
+          {
+            "label": "D",
+            "text": "At a convention center."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "How should attendees request a special interpreter?",
+        "options": [
+          {
+            "label": "A",
+            "text": "By asking for one at the time of registration."
+          },
+          {
+            "label": "B",
+            "text": "By getting in touch with the head of the facility."
+          },
+          {
+            "label": "C",
+            "text": "By registering ahead of the other attendees."
+          },
+          {
+            "label": "D",
+            "text": "By requesting one when they arrive at a session."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best response. 4. Why are they having difficulty arranging a site for the conference? (A) It's a busy time of year. (B) They procrastinated. (C) Their group is large. (D) The coordinator has been sick. 5. When will the conference take place? (A) At the end of this month. (B) Next month. (C) At the end of this year. (D) Next year. 6. How many people do they expect at the conference? (A) Two hundred. (B) Four hundred. (C) Five hundred. (D) Ten hundred. Listen to the talk. Then read each question and choose the best answer. 7. What is the topic of the talk? (A) Accommodating disabled people. (B) Legal responsibility for off-site events. (C) Arranging conferences. (D) Preparing convention catalogs. 8. Where are the speakers? (A) In a hospital. (B) Off site. (C) At a party. (D) At a convention center. 9. How should attendees request a special interpreter? (A) By asking for one at the time of registration. (B) By getting in touch with the head of the facility. (C) By registering ahead of the other attendees. (D) By requesting one when they arrive at a session.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "Why are they having difficulty arranging a site for the conference?",
+        "options": [
+          {
+            "label": "A",
+            "text": "It's a busy time of year."
+          },
+          {
+            "label": "B",
+            "text": "They procrastinated."
+          },
+          {
+            "label": "C",
+            "text": "Their group is large."
+          },
+          {
+            "label": "D",
+            "text": "The coordinator has been sick."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "When will the conference take place?",
+        "options": [
+          {
+            "label": "A",
+            "text": "At the end of this month."
+          },
+          {
+            "label": "B",
+            "text": "Next month."
+          },
+          {
+            "label": "C",
+            "text": "At the end of this year."
+          },
+          {
+            "label": "D",
+            "text": "Next year."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "How many people do they expect at the conference?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Two hundred."
+          },
+          {
+            "label": "B",
+            "text": "Four hundred."
+          },
+          {
+            "label": "C",
+            "text": "Five hundred."
+          },
+          {
+            "label": "D",
+            "text": "Ten hundred."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "What is the topic of the talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Accommodating disabled people."
+          },
+          {
+            "label": "B",
+            "text": "Legal responsibility for off-site events."
+          },
+          {
+            "label": "C",
+            "text": "Arranging conferences."
+          },
+          {
+            "label": "D",
+            "text": "Preparing convention catalogs."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "Where are the speakers?",
+        "options": [
+          {
+            "label": "A",
+            "text": "In a hospital."
+          },
+          {
+            "label": "B",
+            "text": "Off site."
+          },
+          {
+            "label": "C",
+            "text": "At a party."
+          },
+          {
+            "label": "D",
+            "text": "At a convention center."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "How should attendees request a special interpreter?",
+        "options": [
+          {
+            "label": "A",
+            "text": "By asking for one at the time of registration."
+          },
+          {
+            "label": "B",
+            "text": "By getting in touch with the head of the facility."
+          },
+          {
+            "label": "C",
+            "text": "By registering ahead of the other attendees."
+          },
+          {
+            "label": "D",
+            "text": "By requesting one when they arrive at a session."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "Lesson\n\n## Conferences\n\n## WORDS TO LEARN\n\naccomm e\n\nt in touch\n|\n\nlocation\n\n: | in\n\nStudy the following definitions and examples.\n\n1. accommodate v., to fit; to provide with something needed a. The meeting room was large enough to accommodate the various needs of the groups using it.\n\nb. Because the deadline for reserving rooms was past, the hotel manager could not accommodate our need for more rooms.\n\n2. arrangement n., the plan or organization a. The travel arrangements were taken care of by Sara, Mr. Billings's capable assistant.\n\nb. The arrangement of speakers was alphabetical to avoid any hurt feelings.\n\n3. association n., an organization of persons or groups having a common interest; a relationship or society\n\na. Membership in a trade or professional association provides business contacts and mutual support.\n\nb. Local telephone companies formed an association to serve common goals, meet their common needs, and improve efficiency.\n\n4. attend v., to go to; to pay attention to\n\na. We expect more than 100 members to attend the annual meeting.\n\nb. The hotel manager attended to all our needs promptly.\n\n5. get in touch v., to make contact with\n\na. As soon as we arrive at the hotel, we will get in touch with the manager about the unexpected guests.\n\nb. The registration desk is a good central location for people to get in touch with each other.\n\n6. hold v., to accommodate; to conduct\n\na. This meeting room holds at least 80 people comfortably.\n\nb. She holds an annual seminar that is very popular.\n\n7. location n., a position or site\n\na. The location of the meeting was changed from the Red Room to the Green Room.\n\nb. Disney World was the perfect location for the annual meeting since many members could bring their families.\n\n8. overcrowded adj., too crowded\n\na. As soon as the guests entered the dining room for dinner, Sue Lin could see that the room would become overcrowded.\n\nb. To avoid being overcrowded, we limited the number of guests that members could bring.\n\n9. register n., a record; v., to record a. According to the register, more than 250 people attended the afternoon seminar.\n\nb. Hotels ask all guests to register and give a home address.\n\n10. select v., to choose from a group; adj., specially chosen a. The conference participant selected the marketing seminar from the various offerings.\n\nb. The winners were a select group.\n\n11. session n., a meeting\n\na. The morning sessions tend to fill up first, so sign up early.\n\nb. Due to the popularity of this course, we will offer two sessions.\n\n12. take part in v., to join or participate a. The format for the session is very informal, which makes it easier for people to take part in the discussion.\n\nb. We could not get enough people to take part in the meeting, so we canceled it.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\naccommodate\n\nattending\n\nlocation\n\nselect\n\narrangements\n\nget in touch\n\novercrowded\n\nsessions\n\nassociations\n\nhold\n\nregister\n\ntake part in\n\nMany (1) \\_\\_\\_\\_ and organizations hold annual conferences so that their members can (2) \\_\\_\\_\\_ with each other and (3) \\_\\_\\_\\_ educational programs. When planning a conference, event coordinators try to have a variety of (4) \\_\\_\\_\\_ so people (5) \\_\\_\\_\\_ can (6) \\_\\_\\_\\_ a workshop or meeting that best suits their needs. When making (7) \\_\\_\\_\\_ for a conference, they look for a site that will (8) \\_\\_\\_\\_ all their needs. The site should be able to (9) \\_\\_\\_\\_ the number of people expected to attend, without the meeting rooms being (10) \\_\\_\\_\\_. Good event coordinators tour the site before making a final decision because brochures cannot show all the necessary details. Having meetings in a fun (11) \\_\\_\\_\\_ can really encourage people to (12) \\_\\_\\_\\_ for the meeting.",
+    "word_families": "## WORD FAMILIES\n\n|  | accommodate | The hotel staff was able to accommodate our many needs for the conference. |\n| --- | --- | --- |\n| noun | accommodation | The accommodations at the hotel include swimming pool, gym, and restaurant. |\n| i live | accommodating | The conference center manager was extremely accommodating and tried to make our stay pleasant. |\n\n| noun | arrangement | Nobody could understand the seating arrangement. |\n| --- | --- | --- |\n| 1 | arrange | We will arrange the chairs in a circle. |\n| 2 | arranged | The arranged flowers didn't look like those we chose from the catalog. |\n\n| noun | association | Any association with the former company will put us in a negative light. |\n| --- | --- | --- |\n| √ √ | associate | Do you think customers will associate the failed upstart with ours? |\n| adjective | associated | The associated costs will put this project out of our reach. |\n\n| ver) | attend | Gillian attended the reception for visiting ambassadors. |\n| --- | --- | --- |\n|  | attendee | More than 500 attendees packed the ballroom. |\n| n | attendance | Attendance was low for this year's annual meeting. |\n\n| verb | select | Since there are overlapping workshops, participants will have to select which one most appeals to them. |\n| --- | --- | --- |\n| noun | selection | His dinner selection of stuffed quail sounded better on the menu than it looked on the plate. |\n| i | selective | The planning committee was very selective about who received invitations. |\n\n| verb | register | He registered for his classes via the Internet. |\n| --- | --- | --- |\n| r' | register | The hotel's register showed that only half the members had arrived. |\n| l | registration | Registration is a detail-oriented and crucial part of running any meeting. |",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION Part 1 Photo\n\n\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best response.\n\n4. Why are they having difficulty arranging a site for the conference?\n(A) It's a busy time of year.\n(B) They procrastinated.\n(C) Their group is large.\n(D) The coordinator has been sick.\n\n5. When will the conference take place?  \n(A) At the end of this month.  \n(B) Next month.  \n(C) At the end of this year.  \n(D) Next year.\n\n6. How many people do they expect at the conference?\n(A) Two hundred.\n(B) Four hundred.\n(C) Five hundred.\n(D) Ten hundred.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. What is the topic of the talk?  \n(A) Accommodating disabled people.  \n(B) Legal responsibility for off-site events.  \n(C) Arranging conferences.  \n(D) Preparing convention catalogs.\n\n8. Where are the speakers?  \n(A) In a hospital.  \n(B) Off site.  \n(C) At a party.  \n(D) At a convention center.\n\n9. How should attendees request a special interpreter?\n(A) By asking for one at the time of registration.\n(B) By getting in touch with the head of the facility.\n(C) By registering ahead of the other attendees.\n(D) By requesting one when they arrive at a session.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. The banquet room could \\_\\_\\_\\_ up to 750 for dinner.\n(A) accommodated (C) accommodation\n(B) accommodate (D) accommodating\n\n11. Helen made the final \\_\\_\\_\\_ for use of the conference room with the hotel's general manager.\n(A) arranging (C) arrangement\n(B) arrange (D) arranged\n\n12. For most people, Samco is \\_\\_\\_\\_ with computer chip production.\n(A) associate (C) associating\n(B) associated (D) association\n\n13. We expect that fewer guests will \\_\\_\\_\\_ the evening gala.\n(A) attend (C) attention\n(B) attending (D) attendance\n\n14. The association's members were asked to \\_\\_\\_\\_ for the special session well in advance because space in the lecture hall was limited.\n(A) register (C) registering\n(B) registration (D) registrar\n\n15. By adding more class \\_\\_\\_\\_, the staff was able to please more members.\n(A) select (C) selecting\n(B) selective (D) selections\n\n## Part 6 Text Completion\n\nAll members of the Countywide Small Business Owners Association are invited to take part in our annual conference, to be held on March 31 at the Grand Hotel in Marysville.\n\nThe conference begins at 8:30 A.M. with an address by this year's guest, Cynthia Quinn, owner of Designs by Cynthia, Inc., and winner of numerous business and community awards. Morning small group sessions begin at 9:30. Attendees can \\_16\\_ from a variety of session topics including Financing Your New Business; Selecting the Best Location; and Formulas for Success. Lunch will be served at 12:30, followed by afternoon small group sessions at 2:00.\n\nThis is the Association's most popular event, so \\_17\\_ early to assure your place. Fill out the form below and send it to the Association Secretary by March 1. To arrange overnight \\_18\\_ at the Grand Hotel, get in touch with the hotel\n\nreservations clerk at 498-1231. Mention the conference (B) must register in order to get a special discount price. (C) registering (D) register\n\n16. (A) select\n    (B) selection\n    (C) selective\n    (D) selectively\n\n18. (A) accommodate\n    (B) accommodating\n    (C) accommodations\n    (D) accommodates\n\n## 17. (A) will register",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following two e-mails.\n\nTo: Max Sullivan\n\nFrom: Martha Reynolds\n\nSubj: Conference\n\n## Max,\n\nI have been working on the arrangements for our upcoming conference. I've looked into the City Convention Center, and I think it is the most convenient location. It is close to public transportation and hotels. The accommodations are also excellent. The rooms are large, and we can reserve up to ten meeting rooms. However, the price is almost 50% more than we agreed we could spend. The other choice is the Mayfield Hotel. Many associations hold their conventions there. It is a nice place, and the price is reasonable. However, it is not close to the subway. Also, it is much smaller than the Convention Center. I think we could only get three meeting rooms. Would that be enough? Please get in touch with me today to let me know what you think. I need to reserve a place soon.\n\n## Martha\n\n19. What are these e-mails about?\n(A) The date of the conference.\n(B) The conference site.\n(C) The topics of the conference sessions.\n(D) The number of conference attendees.\n\n20. How many meeting rooms will they need?\n(A) Only three.\n(B) At least five.\n(C) Up to ten.\n(D) Almost 50.\n\n21. What does Max prefer about the Convention Center?\n(A) The price.\n(B) The location.\n(C) The size.\n(D) The people.\n\nTo: Martha Reynolds  \nFrom: Max Sullivan  \nSubj: Re: Conference\n\n## Martha,\n\nIn regard to selecting a location for the conference, I think the Convention Center is better than the Mayfield Hotel. The hotel is much too small. Remember, we plan to hold at least five sessions at a time. We couldn't do that at the hotel. We expect more people to take part in the convention this year, so it is important to have a space that can accommodate everyone. About the price, I think we can rearrange the budget a bit in order to be able to pay for it. So go ahead and reserve the space at the Convention Center.\n\nMax\n\n22. The words get in touch in line 14 of the first e-mail are closest in meaning to  \n(A) offer  \n(B) discuss  \n(C) provide  \n(D) contact\n\n23. The word selecting in line 1 of the second e-mail is closest in meaning to  \n(A) choosing  \n(B) reserving  \n(C) comparing  \n(D) seeking"
+  },
+  "needs_review": true
+}

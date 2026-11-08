@@ -1,0 +1,1671 @@
+{
+  "lesson_id": 3,
+  "title": "Warranties",
+  "theme_name": "General Business",
+  "audio_track": "track_03.mp3",
+  "part1_photo": "part1_photos/lesson_03.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "characteristic",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "revealing of individual traits; n., an individual trait",
+      "definition_vi": "đặc trưng, điển hình (adj.); đặc điểm, nét đặc thù (n.)",
+      "examples": [
+        {
+          "en": "The cooking pot has features characteristic of the brand, such as \"heat-resistant\" handles.",
+          "vi": "Chiếc nồi nấu ăn này có những tính năng đặc trưng của thương hiệu, chẳng hạn như tay cầm 'cách nhiệt'."
+        },
+        {
+          "en": "One characteristic of the store is that it is slow in mailing refund checks.",
+          "vi": "Một đặc điểm của cửa hàng đó là việc gửi séc hoàn tiền qua đường bưu điện rất chậm."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "characteristic",
+          "example": "One characteristic of the new Lexus is its computerized seat settings."
+        },
+        {
+          "pos": "",
+          "word": "characterize",
+          "example": "This line is characterized by its bold flavor and spicy aftertaste."
+        },
+        {
+          "pos": "",
+          "word": "characteristically",
+          "example": "Characteristically, she accused middle-level management of the accounting error."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "characteristic of",
+        "key characteristic",
+        "defining characteristic",
+        "be characterized by"
+      ],
+      "usage": {
+        "structures": [
+          "characteristic of + N (đặc trưng của cái gì)",
+          "be characterized by + N (được đặc trưng bởi)"
+        ],
+        "prepositions": [
+          "of",
+          "by"
+        ],
+        "collocations": [
+          "unique characteristic",
+          "distinguishing characteristic",
+          "physical characteristics",
+          "performance characteristics"
+        ],
+        "tip": "Từ 'characteristic' vừa là tính từ (đi với giới từ 'of') vừa là danh từ đếm được (one characteristic / several characteristics)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "character",
+          "example": "The renovation preserved the historic character of the downtown building.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The region's economy is _____ by a strong manufacturing sector and modern port facilities.",
+        "answer": "characterized",
+        "base_word": "characteristic",
+        "pos_hint": "động từ chia quá khứ phân từ (V3/ed - bị động)",
+        "vi": "Nền kinh tế của khu vực này được đặc trưng bởi ngành sản xuất vững mạnh và cơ sở hạ tầng cảng biển hiện đại."
+      }
+    },
+    {
+      "id": 2,
+      "word": "consequence",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "that which follows necessarily",
+      "definition_vi": "hậu quả, hệ quả; tầm quan trọng",
+      "examples": [
+        {
+          "en": "The consequence of not following the service instructions for your car is that the warranty is invalidated.",
+          "vi": "Hậu quả của việc không làm theo hướng dẫn bảo dưỡng xe hơi là giấy bảo hành sẽ bị mất hiệu lực."
+        },
+        {
+          "en": "As a consequence of not having seen a dentist for several years, Lydia had several cavities.",
+          "vi": "Hệ quả của việc không đi khám nha sĩ trong nhiều năm là Lydia bị sâu răng ở vài chỗ."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "as a consequence",
+        "as a consequence of",
+        "suffer the consequences",
+        "serious consequences"
+      ],
+      "usage": {
+        "structures": [
+          "as a consequence (of + N/V-ing) (= as a result of)",
+          "face / suffer / accept the consequences"
+        ],
+        "prepositions": [
+          "of",
+          "for",
+          "to"
+        ],
+        "collocations": [
+          "unintended consequences",
+          "economic consequences",
+          "of little consequence",
+          "direct consequence"
+        ],
+        "tip": "Cụm liên từ 'as a consequence' (= therefore: do đó) và giới từ 'as a consequence of' (= because of: do bởi) rất hay được hỏi trong Part 5 & 6."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "consequence",
+          "example": "Delayed shipments can have serious consequences for our retail partners.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "consequent",
+          "example": "The rise in fuel costs and the consequent increase in airfares hurt tourism.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "consequently",
+          "example": "The factory failed the safety inspection; consequently, production was halted.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Supply chain disruptions have persisted all quarter; _____, we must revise our delivery schedule.",
+        "answer": "consequently",
+        "base_word": "consequence",
+        "pos_hint": "trạng từ liên kết",
+        "vi": "Sự gián đoạn chuỗi cung ứng đã kéo dài suốt cả quý; do đó, chúng tôi phải điều chỉnh lại lịch giao hàng."
+      }
+    },
+    {
+      "id": 3,
+      "word": "consider",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to think about carefully",
+      "definition_vi": "cân nhắc, xem xét kỹ; coi như, đánh giá là",
+      "examples": [
+        {
+          "en": "The customer considered buying the DVD player until he learned that the warranty coverage was very limited.",
+          "vi": "Vị khách hàng đã cân nhắc việc mua đầu đĩa DVD cho đến khi ông biết rằng phạm vi bảo hành rất hạn chế."
+        },
+        {
+          "en": "After considering all the options, Della decided to buy a used car.",
+          "vi": "Sau khi cân nhắc tất cả các phương án, Della quyết định mua một chiếc xe hơi đã qua sử dụng."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "consider",
+          "example": "You should consider carefully whether a product will meet your needs."
+        },
+        {
+          "pos": "",
+          "word": "consideration",
+          "example": "After long consideration, Heloise decided that the five-year warranty would be sufficient."
+        },
+        {
+          "pos": "",
+          "word": "considerable",
+          "example": "The fee for the extra year of protection was a considerable expense."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "consider doing sth",
+        "take into consideration",
+        "under consideration",
+        "considerable amount"
+      ],
+      "usage": {
+        "structures": [
+          "consider + V-ing (cân nhắc làm gì - KHÔNG đi với to V)",
+          "consider + sb/sth + (to be) + Adj/N (coi ai/cái gì là...)"
+        ],
+        "prepositions": [
+          "as",
+          "for",
+          "into",
+          "under"
+        ],
+        "collocations": [
+          "carefully consider",
+          "give consideration to",
+          "for your consideration",
+          "considerable expense"
+        ],
+        "tip": "Bẫy ngữ pháp kinh điển trong TOEIC: sau 'consider' luôn là danh từ hoặc V-ing (consider buying/expanding), tuyệt đối KHÔNG dùng 'to V'."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "considerably",
+          "example": "Operating costs have decreased considerably since we switched to solar power.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The board is currently taking several relocation proposals into _____.",
+        "answer": "consideration",
+        "base_word": "consider",
+        "pos_hint": "danh từ",
+        "vi": "Hội đồng quản trị hiện đang đưa một số đề xuất di dời địa điểm vào diện xem xét."
+      }
+    },
+    {
+      "id": 4,
+      "word": "cover",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to provide protection against",
+      "definition_vi": "bảo hiểm, chi trả (chi phí, rủi ro); bao gồm, đề cập đến; che phủ",
+      "examples": [
+        {
+          "en": "Will my medical insurance cover this surgery?",
+          "vi": "Bảo hiểm y tế của tôi có chi trả cho ca phẫu thuật này không?"
+        },
+        {
+          "en": "Her car insurance provided for complete coverage against collision.",
+          "vi": "Bảo hiểm xe hơi của cô ấy cung cấp sự bảo vệ toàn diện trước rủi ro va chạm."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "cover the cost",
+        "be covered under warranty",
+        "insurance coverage",
+        "media coverage"
+      ],
+      "usage": {
+        "structures": [
+          "be covered by / under + N (warranty / insurance)",
+          "cover the expenses / costs (trang trải chi phí)"
+        ],
+        "prepositions": [
+          "by",
+          "under",
+          "against",
+          "for"
+        ],
+        "collocations": [
+          "comprehensive coverage",
+          "warranty coverage",
+          "cover a topic",
+          "cover for a colleague"
+        ],
+        "tip": "Danh từ 'coverage' (phạm vi bảo hiểm / việc đưa tin báo chí) là từ khóa cực kỳ quan trọng trong chủ đề Warranties & Insurance."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "cover",
+          "example": "The travel allowance is enough to cover meals and hotel accommodations.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "coverage",
+          "example": "Please review your policy to ensure you have adequate liability coverage.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "covered",
+          "example": "Accidental water damage is not covered under the standard one-year warranty.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "For an additional $50, customers can purchase extended warranty _____ for up to three years.",
+        "answer": "coverage",
+        "base_word": "cover",
+        "pos_hint": "danh từ không đếm được",
+        "vi": "Với 50 đô la trả thêm, khách hàng có thể mua gói phạm vi bảo hành mở rộng lên đến ba năm."
+      }
+    },
+    {
+      "id": 5,
+      "word": "expiration",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the end",
+      "definition_vi": "sự hết hạn, sự mãn hạn (hợp đồng, bảo hành, thực phẩm, thẻ)",
+      "examples": [
+        {
+          "en": "Have you checked the expiration date on this yogurt?",
+          "vi": "Bạn đã kiểm tra ngày hết hạn trên hộp sữa chua này chưa?"
+        },
+        {
+          "en": "We can expect that the expiration of our Japan contract will impact sales next year.",
+          "vi": "Chúng ta có thể dự đoán rằng việc hết hạn hợp đồng tại Nhật Bản sẽ tác động đến doanh số bán hàng vào năm tới."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "expiration date",
+        "prior to expiration",
+        "upon expiration",
+        "expiration of a contract"
+      ],
+      "usage": {
+        "structures": [
+          "expiration date (ngày hết hạn)",
+          "upon the expiration of + N (khi cái gì đó hết hạn)"
+        ],
+        "prepositions": [
+          "of",
+          "on",
+          "upon"
+        ],
+        "collocations": [
+          "warranty expiration",
+          "lease expiration",
+          "near expiration",
+          "check the expiration"
+        ],
+        "tip": "Cụm danh từ ghép 'expiration date' (hạn sử dụng / ngày hết hạn thẻ tín dụng, hợp đồng) xuất hiện rất đều đặn trong TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "expire",
+          "example": "Your subscription to the trade journal will expire at the end of this month.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "expiration",
+          "example": "A renewal notice is sent out thirty days before the expiration of the lease.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "expired",
+          "example": "Passengers cannot board international flights with an expired passport.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Because the promotional coupon had already _____, the cashier could not apply the discount.",
+        "answer": "expired",
+        "base_word": "expiration",
+        "pos_hint": "động từ chia quá khứ phân từ (V3/ed)",
+        "vi": "Bởi vì phiếu giảm giá khuyến mãi đã hết hạn, nhân viên thu ngân không thể áp dụng mức chiết khấu."
+      }
+    },
+    {
+      "id": 6,
+      "word": "frequently",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "occurring commonly; widespread",
+      "definition_vi": "thường xuyên, hay xảy ra",
+      "examples": [
+        {
+          "en": "Appliances frequently come with a one-year warranty.",
+          "vi": "Các thiết bị gia dụng thường đi kèm với chế độ bảo hành một năm."
+        },
+        {
+          "en": "Warranties for this kind of appliance are frequently limited in their coverage.",
+          "vi": "Chế độ bảo hành cho loại thiết bị này thường bị giới hạn về phạm vi chi trả."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "frequently asked questions",
+        "occur frequently",
+        "travel frequently",
+        "more frequently than"
+      ],
+      "usage": {
+        "structures": [
+          "S + frequently + V (thường chia hiện tại đơn)",
+          "be + frequently + V3/ed (thường xuyên được...)"
+        ],
+        "prepositions": [
+          "in",
+          "with"
+        ],
+        "collocations": [
+          "frequently updated",
+          "frequently used",
+          "frequent flyer",
+          "frequent inspections"
+        ],
+        "tip": "Giống như 'always, usually, often', trạng từ 'frequently' là dấu hiệu nhận biết của thì hiện tại đơn hoặc đứng giữa 'be' và 'V3/ed'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "frequent",
+          "example": "The café across the street is frequented by executives from our building.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "frequency",
+          "example": "The transit authority plans to increase the frequency of commuter trains.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "frequent",
+          "example": "Frequent backups are essential to prevent catastrophic data loss.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "frequently",
+          "example": "Software updates are released frequently to patch security vulnerabilities.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "To reduce the _____ of mechanical breakdowns, the factory instituted weekly maintenance checks.",
+        "answer": "frequency",
+        "base_word": "frequently",
+        "pos_hint": "danh từ",
+        "vi": "Để giảm tần suất hỏng hóc máy móc, nhà máy đã thiết lập các đợt kiểm tra bảo trì hàng tuần."
+      }
+    },
+    {
+      "id": 7,
+      "word": "imply",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to indicate by inference",
+      "definition_vi": "ngụ ý, hàm ý, ám chỉ (không nói thẳng ra)",
+      "examples": [
+        {
+          "en": "The guarantee on the iPod implied that all damages were covered under warranty for one year.",
+          "vi": "Giấy bảo đảm trên chiếc máy nghe nhạc iPod ngụ ý rằng mọi hư hỏng đều được bảo hành trong vòng một năm."
+        },
+        {
+          "en": "The travel agent implied that our hotel was not in the safest part of the city, but, when pressed for details, he said the location was fine.",
+          "vi": "Nhân viên đại lý du lịch ám chỉ rằng khách sạn của chúng tôi không nằm ở khu vực an toàn nhất của thành phố, nhưng khi bị gặng hỏi chi tiết, anh ta lại nói vị trí đó vẫn ổn."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "imply",
+          "example": "She implied that she had graduated from Harvard."
+        },
+        {
+          "pos": "",
+          "word": "implication",
+          "example": "What are the implications of the accident?"
+        },
+        {
+          "pos": "",
+          "word": "implicit",
+          "example": "It is implicit in her demands that if she doesn&#x27;t get the promotion, she will leave the company."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "imply that",
+        "implied warranty",
+        "implicit agreement",
+        "broad implications"
+      ],
+      "usage": {
+        "structures": [
+          "imply + that + mệnh đề",
+          "imply + N (ngụ ý điều gì)"
+        ],
+        "prepositions": [
+          "in",
+          "by",
+          "from"
+        ],
+        "collocations": [
+          "financial implications",
+          "strongly imply",
+          "implicit trust",
+          "implied consent"
+        ],
+        "tip": "Danh từ 'implication(s)' trong TOEIC thường mang nghĩa 'hệ lụy / tác động kéo theo' (VD: financial/legal implications)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "implicitly",
+          "example": "The manager trusts her assistant implicitly to handle confidential files.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The committee is carefully studying the financial _____ of the new tax legislation.",
+        "answer": "implications",
+        "base_word": "imply",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Ủy ban đang nghiên cứu kỹ lưỡng những tác động/hệ lụy tài chính của đạo luật thuế mới."
+      }
+    },
+    {
+      "id": 8,
+      "word": "promise",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a pledge, a commitment; v., to pledge to do, bring about, or provide",
+      "definition_vi": "lời hứa, sự cam kết (n.); hứa hẹn, cam kết (v.)",
+      "examples": [
+        {
+          "en": "A warranty is a promise the manufacturer makes to the consumer.",
+          "vi": "Bảo hành là một lời cam kết mà nhà sản xuất đưa ra cho người tiêu dùng."
+        },
+        {
+          "en": "The sales associate promised that our new mattress would arrive by noon on Saturday.",
+          "vi": "Nhân viên bán hàng đã hứa rằng chiếc nệm mới của chúng tôi sẽ được giao đến trước buổi trưa thứ Bảy."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "make a promise",
+        "keep a promise",
+        "promise to do",
+        "promising career"
+      ],
+      "usage": {
+        "structures": [
+          "promise + (sb) + to V / that + mệnh đề",
+          "make / keep / break / fulfill a promise"
+        ],
+        "prepositions": [
+          "to",
+          "of"
+        ],
+        "collocations": [
+          "show great promise",
+          "promising results",
+          "solemn promise",
+          "empty promise"
+        ],
+        "tip": "Tính từ 'promising' (đầy hứa hẹn, có triển vọng) rất hay được dùng để khen ngợi ứng viên (promising candidate) hoặc kết quả (promising results)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "promise",
+          "example": "The contractor promised to finish the remodeling project by November.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "promise",
+          "example": "The new solar battery technology shows tremendous commercial promise.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "promising",
+          "example": "Initial clinical trials of the medication have yielded very promising results.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "promisingly",
+          "example": "The fiscal year began promisingly with record sales in January.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Among the interns hired this summer, Ms. Patel has shown the most _____ future as an analyst.",
+        "answer": "promising",
+        "base_word": "promise",
+        "pos_hint": "tính từ",
+        "vi": "Trong số các thực tập sinh được tuyển dụng vào mùa hè này, cô Patel đã cho thấy tương lai đầy triển vọng nhất ở vị trí nhà phân tích."
+      }
+    },
+    {
+      "id": 9,
+      "word": "protect",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to guard",
+      "definition_vi": "bảo vệ, che chở, giữ an toàn",
+      "examples": [
+        {
+          "en": "Consumer laws are designed to protect the public against unscrupulous vendors.",
+          "vi": "Luật bảo vệ người tiêu dùng được thiết kế để bảo vệ công chúng trước những người bán hàng gian dối."
+        },
+        {
+          "en": "You can protect yourself from scams by getting detailed information on the seller.",
+          "vi": "Bạn có thể tự bảo vệ mình khỏi các trò lừa đảo bằng cách tìm hiểu thông tin chi tiết về người bán."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "protect",
+          "example": "Juan protected the warranty by taking excellent care of his lawn mower."
+        },
+        {
+          "pos": "",
+          "word": "protection",
+          "example": "For your own protection, you should have a warranty that provides for a replacement product."
+        },
+        {
+          "pos": "",
+          "word": "protective",
+          "example": "Alfredo is very protective of the condition of his car and gets all the preventive maintenance his warranty requires."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "protect against / from",
+        "consumer protection",
+        "protective gear",
+        "data protection"
+      ],
+      "usage": {
+        "structures": [
+          "protect + sb/sth + from / against + N",
+          "offer / provide protection against + N"
+        ],
+        "prepositions": [
+          "from",
+          "against",
+          "under"
+        ],
+        "collocations": [
+          "protective clothing",
+          "environmental protection",
+          "patent protection",
+          "protective eyewear"
+        ],
+        "tip": "Luôn nhớ cặp giới từ đi kèm với 'protect/protection' là 'from' hoặc 'against' (bảo vệ khỏi cái gì)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "protectively",
+          "example": "Fragile ceramic items must be wrapped protectively before shipping.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "All laboratory technicians are required to wear _____ gloves and goggles when handling chemicals.",
+        "answer": "protective",
+        "base_word": "protect",
+        "pos_hint": "tính từ",
+        "vi": "Tất cả các kỹ thuật viên phòng thí nghiệm được yêu cầu phải đeo găng tay và kính bảo hộ khi tiếp xúc với hóa chất."
+      }
+    },
+    {
+      "id": 10,
+      "word": "reputation",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the overall quality of character",
+      "definition_vi": "danh tiếng, uy tín, tiếng tăm",
+      "examples": [
+        {
+          "en": "Even though the salesperson showed me a product I had never heard of, I bought it because of the good reputation of the manufacturer.",
+          "vi": "Mặc dù nhân viên bán hàng giới thiệu cho tôi một sản phẩm mà tôi chưa từng nghe đến, tôi vẫn mua nó vì uy tín tốt đẹp của nhà sản xuất."
+        },
+        {
+          "en": "The company knew that the reputation of its products was the most important asset it had.",
+          "vi": "Công ty hiểu rằng uy tín của các sản phẩm chính là tài sản quan trọng nhất mà họ có được."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "reputation",
+          "example": "The good reputation of the manufacturer inspired Maria Jose to try the new product."
+        },
+        {
+          "pos": "",
+          "word": "reputable",
+          "example": "Because the company had a reputable name, I did not spend sufficient time reading the details of the warranty."
+        },
+        {
+          "pos": "",
+          "word": "reputed",
+          "example": "The new store is reputed to carry items that are not of the highest quality."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "earn a reputation",
+        "reputation for quality",
+        "reputable company",
+        "damage a reputation"
+      ],
+      "usage": {
+        "structures": [
+          "have / build / earn a reputation for + N/V-ing",
+          "live up to one's reputation (xứng đáng với danh tiếng)"
+        ],
+        "prepositions": [
+          "for",
+          "as",
+          "of"
+        ],
+        "collocations": [
+          "solid reputation",
+          "tarnish a reputation",
+          "reputable dealer",
+          "international reputation"
+        ],
+        "tip": "Danh từ 'reputation' đi với giới từ 'for' (reputation for reliability: uy tín về sự đáng tin cậy); tính từ 'reputable' có nghĩa là 'có uy tín, đáng tin cậy'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "repute",
+          "example": "The antique vase is reputed to be over three hundred years old.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "reputably",
+          "example": "Always purchase replacement parts from a reputably certified dealer.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Before signing a home renovation contract, make sure you are dealing with a _____ builder.",
+        "answer": "reputable",
+        "base_word": "reputation",
+        "pos_hint": "tính từ",
+        "vi": "Trước khi ký hợp đồng cải tạo nhà, hãy chắc chắn rằng bạn đang làm việc với một nhà thầu có uy tín."
+      }
+    },
+    {
+      "id": 11,
+      "word": "require",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to deem necessary or essential",
+      "definition_vi": "yêu cầu, đòi hỏi, bắt buộc",
+      "examples": [
+        {
+          "en": "A car warranty may require the owner to have it serviced by a certified mechanic.",
+          "vi": "Bảo hành xe hơi có thể yêu cầu chủ sở hữu phải đưa xe đi bảo dưỡng bởi một thợ máy có chứng chỉ."
+        },
+        {
+          "en": "The law requires that each item clearly display the warranty information.",
+          "vi": "Luật pháp yêu cầu mỗi mặt hàng phải hiển thị rõ ràng thông tin bảo hành."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "require",
+          "example": "The warranty requires that you send the watch to an approved repair shop to have it fixed."
+        },
+        {
+          "pos": "",
+          "word": "requirement",
+          "example": "The terms of the warranty divulge the legal requirement the manufacturer has to the consumer."
+        },
+        {
+          "pos": "",
+          "word": "requisite",
+          "example": "The warranty spelled out the requisite steps to take to request a replacement product."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "be required to do",
+        "meet the requirements",
+        "require that + S + V(bare)",
+        "minimum requirement"
+      ],
+      "usage": {
+        "structures": [
+          "require + sb + to V / passive: be required to V",
+          "require + that + S + (should) + V nguyên mẫu (thức giả định)"
+        ],
+        "prepositions": [
+          "of",
+          "for",
+          "by"
+        ],
+        "collocations": [
+          "legal requirement",
+          "safety requirements",
+          "requisite skills",
+          "strictly required"
+        ],
+        "tip": "Trong mệnh đề 'require that + S + V', động từ phía sau luôn ở dạng nguyên mẫu không chia (VD: The law requires that every item display...)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "required",
+          "example": "Please fill out all required fields on the online registration form.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Applicants who do not meet the minimum _____ for the position will not be called for an interview.",
+        "answer": "requirements",
+        "base_word": "require",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Những ứng viên không đáp ứng được các yêu cầu tối thiểu cho vị trí này sẽ không được gọi phỏng vấn."
+      }
+    },
+    {
+      "id": 12,
+      "word": "variety",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "many different kinds",
+      "definition_vi": "sự đa dạng, nhiều thứ khác nhau; chủng loại",
+      "examples": [
+        {
+          "en": "There's a variety of standard terms that you'll find in warranties.",
+          "vi": "Có rất nhiều điều khoản tiêu chuẩn khác nhau mà bạn sẽ bắt gặp trong các giấy bảo hành."
+        },
+        {
+          "en": "A variety of unexpected problems appeared after the product had been on the market for about six months.",
+          "vi": "Hàng loạt vấn đề không lường trước đã xuất hiện sau khi sản phẩm được tung ra thị trường khoảng sáu tháng."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "a wide variety of",
+        "a great variety of",
+        "for a variety of reasons",
+        "offer variety"
+      ],
+      "usage": {
+        "structures": [
+          "a (wide / great / large) variety of + N số nhiều",
+          "vary from A to B (dao động/khác nhau từ A đến B)"
+        ],
+        "prepositions": [
+          "of",
+          "in"
+        ],
+        "collocations": [
+          "endless variety",
+          "various options",
+          "vary widely",
+          "varied experience"
+        ],
+        "tip": "Cụm lượng từ 'a (wide) variety of + danh từ số nhiều' (= various + danh từ số nhiều) là một trong những cụm xuất hiện nhiều nhất trong TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "vary",
+          "example": "Shipping charges vary depending on the weight and destination of the package.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "variety",
+          "example": "The department store carries a wide variety of imported kitchenware.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "various",
+          "example": "We interviewed various candidates before selecting the new branch manager.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "variously",
+          "example": "The project's cost has been variously estimated at between two and five million dollars.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Hotel room rates _____ significantly depending on the season and length of stay.",
+        "answer": "vary",
+        "base_word": "variety",
+        "pos_hint": "động từ nguyên mẫu (chủ ngữ số nhiều)",
+        "vi": "Giá phòng khách sạn thay đổi đáng kể tùy thuộc vào mùa và thời gian lưu trú."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. Warranties are a seller's (1) ____ to stand behind its products. Most major purchases like computers or cars come with a warranty, as do smaller purchases, like stereos or other electronic housewares. Warranties are not (2) ____ by law, but are (3) ____ found on most products. If you are making a purchase, you should (4) ____ the individual (5) ____ of a warranty, as each can (6) ____ in the amount of (7) ____ it provides. At the minimum, warranties are required to promise that the product will do what it (8) ____ that it will do; for example, that a blender will blend or a hair dryer will dry hair. Most warranties are good for a fixed time, then they (9) ____. You can (10) ____ yourself by buying products from companies with good (11) ____ and taking good care of your new purchase. There are (12) ____ to not taking care of a product, as most warranties require that you use the product in a certain manner.",
+    "word_bank": [
+      "characteristics",
+      "coverage",
+      "implies",
+      "reputations",
+      "consequences",
+      "expire",
+      "promise",
+      "required",
+      "consider",
+      "frequently",
+      "protect",
+      "vary"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "characteristic",
+        "example": "One characteristic of the new Lexus is its computerized seat settings.",
+        "pos": ""
+      },
+      {
+        "word": "characterize",
+        "example": "This line is characterized by its bold flavor and spicy aftertaste.",
+        "pos": ""
+      },
+      {
+        "word": "characteristically",
+        "example": "Characteristically, she accused middle-level management of the accounting error.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "consider",
+        "example": "You should consider carefully whether a product will meet your needs.",
+        "pos": ""
+      },
+      {
+        "word": "consideration",
+        "example": "After long consideration, Heloise decided that the five-year warranty would be sufficient.",
+        "pos": ""
+      },
+      {
+        "word": "considerable",
+        "example": "The fee for the extra year of protection was a considerable expense.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "imply",
+        "example": "She implied that she had graduated from Harvard.",
+        "pos": ""
+      },
+      {
+        "word": "implication",
+        "example": "What are the implications of the accident?",
+        "pos": ""
+      },
+      {
+        "word": "implicit",
+        "example": "It is implicit in her demands that if she doesn&#x27;t get the promotion, she will leave the company.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "protect",
+        "example": "Juan protected the warranty by taking excellent care of his lawn mower.",
+        "pos": ""
+      },
+      {
+        "word": "protection",
+        "example": "For your own protection, you should have a warranty that provides for a replacement product.",
+        "pos": ""
+      },
+      {
+        "word": "protective",
+        "example": "Alfredo is very protective of the condition of his car and gets all the preventive maintenance his warranty requires.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "reputation",
+        "example": "The good reputation of the manufacturer inspired Maria Jose to try the new product.",
+        "pos": ""
+      },
+      {
+        "word": "reputable",
+        "example": "Because the company had a reputable name, I did not spend sufficient time reading the details of the warranty.",
+        "pos": ""
+      },
+      {
+        "word": "reputed",
+        "example": "The new store is reputed to carry items that are not of the highest quality.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "require",
+        "example": "The warranty requires that you send the watch to an approved repair shop to have it fixed.",
+        "pos": ""
+      },
+      {
+        "word": "requirement",
+        "example": "The terms of the warranty divulge the legal requirement the manufacturer has to the consumer.",
+        "pos": ""
+      },
+      {
+        "word": "requisite",
+        "example": "The warranty spelled out the requisite steps to take to request a replacement product.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "The timing belt ____ shows signs of wear after about 180,000 miles.",
+        "options": [
+          {
+            "label": "A",
+            "text": "character"
+          },
+          {
+            "label": "B",
+            "text": "characteristic"
+          },
+          {
+            "label": "C",
+            "text": "characterize"
+          },
+          {
+            "label": "D",
+            "text": "characteristically"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "Jacques and Louisa will only ____ purchasing appliances that come with a money-back guarantee.",
+        "options": [
+          {
+            "label": "A",
+            "text": "consideration"
+          },
+          {
+            "label": "B",
+            "text": "consider"
+          },
+          {
+            "label": "C",
+            "text": "considering"
+          },
+          {
+            "label": "D",
+            "text": "considerable"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "If there is any ____ of the director's involvement, we need to follow up swiftly and thoroughly.",
+        "options": [
+          {
+            "label": "A",
+            "text": "imply"
+          },
+          {
+            "label": "B",
+            "text": "implicit"
+          },
+          {
+            "label": "C",
+            "text": "implicated"
+          },
+          {
+            "label": "D",
+            "text": "implication"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "The level of ____ implied by the warranty was misleading.",
+        "options": [
+          {
+            "label": "A",
+            "text": "protect"
+          },
+          {
+            "label": "B",
+            "text": "protective"
+          },
+          {
+            "label": "C",
+            "text": "protection"
+          },
+          {
+            "label": "D",
+            "text": "protector"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "It can be very helpful to consider the ____ of the manufacturer and the merchant when making a major purchase.",
+        "options": [
+          {
+            "label": "A",
+            "text": "reputation"
+          },
+          {
+            "label": "B",
+            "text": "reputable"
+          },
+          {
+            "label": "C",
+            "text": "reputing"
+          },
+          {
+            "label": "D",
+            "text": "reputed"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "If the appliance breaks down within two years of purchase, the manufacturer is ____ to send you a replacement at no charge.",
+        "options": [
+          {
+            "label": "A",
+            "text": "requiring"
+          },
+          {
+            "label": "B",
+            "text": "requisite"
+          },
+          {
+            "label": "C",
+            "text": "requirement"
+          },
+          {
+            "label": "D",
+            "text": "required"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "One-Year Limited Warranty This warranty [16] the purchaser from all malfunctions of the product due to defects in materials or workmanship. Only the original purchaser of the product is covered. Resale of the product automatically invalidates this warranty. This warranty [17] the manufacturer to repair any defective product or to refund the full purchase price to the purchaser, at the manufacturer's discretion. The manufacturer's liability does not exceed the purchase price of the product. This warranty does not imply that the purchaser has any rights in the case of a defective product beyond those stated herein. This warranty [18] one year from the date of purchase. A receipt or other proof of purchase is required in order to make claims under the terms of this warranty.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "protects"
+            },
+            {
+              "label": "B",
+              "text": "protectors"
+            },
+            {
+              "label": "C",
+              "text": "protection"
+            },
+            {
+              "label": "D",
+              "text": "protective"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "require"
+            },
+            {
+              "label": "B",
+              "text": "requires"
+            },
+            {
+              "label": "C",
+              "text": "is requiring"
+            },
+            {
+              "label": "D",
+              "text": "has required"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "should expire"
+            },
+            {
+              "label": "B",
+              "text": "might expire"
+            },
+            {
+              "label": "C",
+              "text": "will expire"
+            },
+            {
+              "label": "D",
+              "text": "can expire"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following two letters. October 12, 20— Mrs. Sophie Bordeaux 118 Montrose Street Stoneybrook, MI Dear Mrs. Bordeaux, We received the defective toaster which you returned to us asking for a full refund under the terms of the one-year warranty. Unfortunately, the warranty on the toaster expired a month ago. The terms of the warranty do not cover your product once it has expired. Consequently, we will not be able to send you a refund. However, we will be able to send you a refurbished toaster of the same model in exchange for the defective one if you desire. Please let us know if such an arrangement would be satisfactory to you. Please don't hesitate to contact me if you have any questions. We appreciate your business. Sincerely, Matthew Bodine Matthew Bodine Customer Service Manager November 1, 20— Matthew Bodine Customer Service Manager Kitchen Electronics, Inc. 194294 Honeywell Boulevard Victoria Springs, AL Dear Mr. Bodine, I have received your letter offering to send me a refurbished toaster in place of my defective one. I had not realized that my warranty had already expired. After considering the matter, I have decided to accept the refurbished toaster. Your company has a good reputation, and I frequently use your products. In fact, this is the first time I have ever had a problem with anything I have purchased from you. Therefore, I am sure that the refurbished toaster will work as well as a brand new one. However, I would like to be assured that the refurbished toaster will be protected by a warranty the same as a new toaster would be. If this is the case, then please send me the toaster as soon as possible. Thank you. Sincerely, Sophie Bordeaux Sophie Bordeaux",
+        "questions": [
+          {
+            "number": 19,
+            "question": "Why did the customer return the toaster?",
+            "options": [
+              {
+                "label": "A",
+                "text": "It doesn't work."
+              },
+              {
+                "label": "B",
+                "text": "It was too expensive."
+              },
+              {
+                "label": "C",
+                "text": "She wants a brand new one."
+              },
+              {
+                "label": "D",
+                "text": "She prefers a different model."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "When did she purchase the toaster?",
+            "options": [
+              {
+                "label": "A",
+                "text": "A month ago."
+              },
+              {
+                "label": "B",
+                "text": "Last October."
+              },
+              {
+                "label": "C",
+                "text": "Exactly one year ago."
+              },
+              {
+                "label": "D",
+                "text": "A little over a year ago."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "What will she get in place of the returned toaster?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Nothing."
+              },
+              {
+                "label": "B",
+                "text": "A refund."
+              },
+              {
+                "label": "C",
+                "text": "A brand new toaster."
+              },
+              {
+                "label": "D",
+                "text": "A different, repaired toaster."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word considering in line 4 of the second letter is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "reading about"
+              },
+              {
+                "label": "B",
+                "text": "thinking about"
+              },
+              {
+                "label": "C",
+                "text": "talking about"
+              },
+              {
+                "label": "D",
+                "text": "worrying about"
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word frequently in line 6 of the second letter is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "often"
+              },
+              {
+                "label": "B",
+                "text": "rarely"
+              },
+              {
+                "label": "C",
+                "text": "never"
+              },
+              {
+                "label": "D",
+                "text": "occasionally"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "How long is the basic warranty effective?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Thirty days."
+          },
+          {
+            "label": "B",
+            "text": "Sixty days."
+          },
+          {
+            "label": "C",
+            "text": "One year."
+          },
+          {
+            "label": "D",
+            "text": "Two years."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the woman decide to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Take her car to an approved mechanic."
+          },
+          {
+            "label": "B",
+            "text": "Buy the extended warranty."
+          },
+          {
+            "label": "C",
+            "text": "Refuse the basic warranty."
+          },
+          {
+            "label": "D",
+            "text": "Buy a different car."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What will happen if the woman uses an unapproved mechanic?",
+        "options": [
+          {
+            "label": "A",
+            "text": "There are no consequences."
+          },
+          {
+            "label": "B",
+            "text": "The warranty is no longer effective."
+          },
+          {
+            "label": "C",
+            "text": "Protection is decreased by 50%"
+          },
+          {
+            "label": "D",
+            "text": "She will have full coverage."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "What is the point of the talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Items under warranty must be fixed."
+          },
+          {
+            "label": "B",
+            "text": "If an item is misused, the warranty may be invalidated."
+          },
+          {
+            "label": "C",
+            "text": "Machines with unusual wear are difficult to repair."
+          },
+          {
+            "label": "D",
+            "text": "Customers often don't understand warranties."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "How can a customer receive money back for a defective product?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Follow the directions on the package."
+          },
+          {
+            "label": "B",
+            "text": "Return it to the place of purchase."
+          },
+          {
+            "label": "C",
+            "text": "Repackage it carefully."
+          },
+          {
+            "label": "D",
+            "text": "Return it within 30 days."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "Who is the audience for this talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A factory repairperson."
+          },
+          {
+            "label": "B",
+            "text": "A customer."
+          },
+          {
+            "label": "C",
+            "text": "Someone who rents machines."
+          },
+          {
+            "label": "D",
+            "text": "Buyers."
+          }
+        ]
+      }
+    ],
+    "instructions": "Part 1 Photo Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best response. 4. How long is the basic warranty effective? (A) Thirty days. (B) Sixty days. (C) One year. (D) Two years. 6. What does the woman decide to do? (A) Take her car to an approved mechanic. (B) Buy the extended warranty. (C) Refuse the basic warranty. (D) Buy a different car. 5. What will happen if the woman uses an unapproved mechanic? (A) There are no consequences. (B) The warranty is no longer effective. (C) Protection is decreased by 50% (D) She will have full coverage. Listen to the talk. Then read each question and choose the best answer. 7. What is the point of the talk? (A) Items under warranty must be fixed. (B) If an item is misused, the warranty may be invalidated. (C) Machines with unusual wear are difficult to repair. (D) Customers often don't understand warranties. 9. How can a customer receive money back for a defective product? (A) Follow the directions on the package. (B) Return it to the place of purchase. (C) Repackage it carefully. (D) Return it within 30 days. 8. Who is the audience for this talk? (A) A factory repairperson. (B) A customer. (C) Someone who rents machines. (D) Buyers.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question–Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "How long is the basic warranty effective?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Thirty days."
+          },
+          {
+            "label": "B",
+            "text": "Sixty days."
+          },
+          {
+            "label": "C",
+            "text": "One year."
+          },
+          {
+            "label": "D",
+            "text": "Two years."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the woman decide to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Take her car to an approved mechanic."
+          },
+          {
+            "label": "B",
+            "text": "Buy the extended warranty."
+          },
+          {
+            "label": "C",
+            "text": "Refuse the basic warranty."
+          },
+          {
+            "label": "D",
+            "text": "Buy a different car."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What will happen if the woman uses an unapproved mechanic?",
+        "options": [
+          {
+            "label": "A",
+            "text": "There are no consequences."
+          },
+          {
+            "label": "B",
+            "text": "The warranty is no longer effective."
+          },
+          {
+            "label": "C",
+            "text": "Protection is decreased by 50%"
+          },
+          {
+            "label": "D",
+            "text": "She will have full coverage."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "What is the point of the talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Items under warranty must be fixed."
+          },
+          {
+            "label": "B",
+            "text": "If an item is misused, the warranty may be invalidated."
+          },
+          {
+            "label": "C",
+            "text": "Machines with unusual wear are difficult to repair."
+          },
+          {
+            "label": "D",
+            "text": "Customers often don't understand warranties."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "How can a customer receive money back for a defective product?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Follow the directions on the package."
+          },
+          {
+            "label": "B",
+            "text": "Return it to the place of purchase."
+          },
+          {
+            "label": "C",
+            "text": "Repackage it carefully."
+          },
+          {
+            "label": "D",
+            "text": "Return it within 30 days."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "Who is the audience for this talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A factory repairperson."
+          },
+          {
+            "label": "B",
+            "text": "A customer."
+          },
+          {
+            "label": "C",
+            "text": "Someone who rents machines."
+          },
+          {
+            "label": "D",
+            "text": "Buyers."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "# Warranties\n\nStudy the following definitions and examples.\n\n1. characteristic adj., revealing of individual traits; n., an individual trait a. The cooking pot has features characteristic of the brand, such as \"heat-resistant\" handles.\n\nb. One characteristic of the store is that it is slow in mailing refund checks.\n\n2. consequence n., that which follows necessarily a. The consequence of not following the service instructions for your car is that the warranty is invalidated.\n\nb. As a consequence of not having seen a dentist for several years, Lydia had several cavities.\n\n3. consider v., to think about carefully\n\na. The customer considered buying the DVD player until he learned that the warranty coverage was very limited.\n\nb. After considering all the options, Della decided to buy a used car.\n\n4. cover v., to provide protection against\n\na. Will my medical insurance cover this surgery?\n\nb. Her car insurance provided for complete coverage against collision.\n\n5. expiration n., the end\n\na. Have you checked the expiration date on this yogurt?\n\nb. We can expect that the expiration of our Japan contract will impact sales next year.\n\n6. frequently adv., occurring commonly; widespread\n\na. Appliances frequently come with a one-year warranty.\n\nb. Warranties for this kind of appliance are frequently limited in their coverage.\n\n7. imply v., to indicate by inference\n\na. The guarantee on the iPod implied that all damages were covered under warranty for one year.\n\nb. The travel agent implied that our hotel was not in the safest part of the city, but, when pressed for details, he said the location was fine.\n\n8. promise n., a pledge, a commitment; v., to pledge to do, bring about, or provide\n\na. A warranty is a promise the manufacturer makes to the consumer.\n\nb. The sales associate promised that our new mattress would arrive by noon on Saturday.\n\n9. protect v., to guard\n\na. Consumer laws are designed to protect the public against unscrupulous vendors.\n\nb. You can protect yourself from scams by getting detailed information on the seller.\n\n10. reputation n., the overall quality of character a. Even though the salesperson showed me a product I had never heard of, I bought it because of the good reputation of the manufacturer.\n\nb. The company knew that the reputation of its products was the most important asset it had.\n\n11. require v., to deem necessary or essential\n\na. A car warranty may require the owner to have it serviced by a certified mechanic.\n\nb. The law requires that each item clearly display the warranty information.\n\n12. variety n., many different kinds\n\na. There's a variety of standard terms that you'll find in warranties.\n\nb. A variety of unexpected problems appeared after the product had been on the market for about six months.",
+    "words_in_context": "| characteristics | coverage | implies | reputations |\n| --- | --- | --- | --- |\n| consequences | expire | promise | required |\n| consider | frequently | protect | vary |\n\n## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\nWarranties are a seller's (1) \\_\\_\\_\\_ to stand behind its products. Most major purchases like computers or cars come with a warranty, as do smaller purchases, like stereos or other electronic housewares. Warranties are not (2) \\_\\_\\_\\_ by law, but are (3) \\_\\_\\_\\_ found on most products. If you are making a purchase, you should (4) \\_\\_\\_\\_ the individual (5) \\_\\_\\_\\_ of a warranty, as each can (6) \\_\\_\\_\\_ in the amount of (7) \\_\\_\\_\\_ it provides. At the minimum, warranties are required to promise that the product will do what it (8) \\_\\_\\_\\_ that it will do; for example, that a blender will blend or a hair dryer will dry hair. Most warranties are good for a fixed time, then they (9) \\_\\_\\_\\_. You can (10) \\_\\_\\_\\_ yourself by buying products from companies with good (11) \\_\\_\\_\\_ and taking good care of your new purchase. There are (12) \\_\\_\\_\\_ to not taking care of a product, as most warranties require that you use the product in a certain manner.",
+    "word_families": "## WORD FAMILIES\n\n<table><tr><td>characteristic</td><td>One characteristic of the new Lexus is its computerized seat settings.</td></tr><tr><td>characterize</td><td>This line is characterized by its bold flavor and spicy aftertaste.</td></tr><tr><td>characteristically</td><td>Characteristically, she accused middle-level management of the accounting error.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>consider</td><td>You should consider carefully whether a product will meet your needs.</td></tr><tr><td>consideration</td><td>After long consideration, Heloise decided that the five-year warranty would be sufficient.</td></tr><tr><td>considerable</td><td>The fee for the extra year of protection was a considerable expense.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>imply</td><td>She implied that she had graduated from Harvard.</td></tr><tr><td>implication</td><td>What are the implications of the accident?</td></tr><tr><td>implicit</td><td>It is implicit in her demands that if she doesn&#x27;t get the promotion, she will leave the company.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>protect</td><td>Juan protected the warranty by taking excellent care of his lawn mower.</td></tr><tr><td>protection</td><td>For your own protection, you should have a warranty that provides for a replacement product.</td></tr><tr><td>protective</td><td>Alfredo is very protective of the condition of his car and gets all the preventive maintenance his warranty requires.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>reputation</td><td>The good reputation of the manufacturer inspired Maria Jose to try the new product.</td></tr><tr><td>reputable</td><td>Because the company had a reputable name, I did not spend sufficient time reading the details of the warranty.</td></tr><tr><td>reputed</td><td>The new store is reputed to carry items that are not of the highest quality.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>require</td><td>The warranty requires that you send the watch to an approved repair shop to have it fixed.</td></tr><tr><td>requirement</td><td>The terms of the warranty divulge the legal requirement the manufacturer has to the consumer.</td></tr><tr><td>requisite</td><td>The warranty spelled out the requisite steps to take to request a replacement product.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE\n\n## LISTENING COMPREHENSION\n\nPart 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n## Part 2 Question–Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best response.\n\n4. How long is the basic warranty effective?\n(A) Thirty days.\n(B) Sixty days.\n(C) One year.\n(D) Two years.\n\n6. What does the woman decide to do?  \n(A) Take her car to an approved mechanic.  \n(B) Buy the extended warranty.  \n(C) Refuse the basic warranty.  \n(D) Buy a different car.\n\n5. What will happen if the woman uses an unapproved mechanic?\n(A) There are no consequences.\n(B) The warranty is no longer effective.\n(C) Protection is decreased by 50%\n(D) She will have full coverage.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. What is the point of the talk?\n\n(A) Items under warranty must be fixed.\n\n(B) If an item is misused, the warranty may be invalidated.\n\n(C) Machines with unusual wear are difficult to repair.\n\n(D) Customers often don't understand warranties.\n\n9. How can a customer receive money back for a defective product?\n\n(A) Follow the directions on the package.\n\n(B) Return it to the place of purchase.\n\n(C) Repackage it carefully.\n\n(D) Return it within 30 days.\n\n8. Who is the audience for this talk?\n\n(A) A factory repairperson.\n\n(B) A customer.\n\n(C) Someone who rents machines.\n\n(D) Buyers.",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. The timing belt \\_\\_\\_\\_ shows signs of wear after about 180,000 miles.\n(A) character (C) characterize\n(B) characteristic (D) characteristically\n\n11. Jacques and Louisa will only \\_\\_\\_\\_ purchasing appliances that come with a money-back guarantee.\n(A) consideration (C) considering\n(B) consider (D) considerable\n\n12. If there is any \\_\\_\\_\\_ of the director's involvement, we need to follow up swiftly and thoroughly.\n(A) imply (C) implicated\n(B) implicit (D) implication\n\n13. The level of \\_\\_\\_\\_ implied by the warranty was misleading.\n(A) protect (C) protection\n(B) protective (D) protector\n\n14. It can be very helpful to consider the \\_\\_\\_\\_ of the manufacturer and the merchant when making a major purchase.\n(A) reputation (C) reputing\n(B) reputable (D) reputed\n\n15. If the appliance breaks down within two years of purchase, the manufacturer is \\_\\_\\_\\_ to send you a replacement at no charge.\n(A) requiring (C) requirement\n(B) requisite (D) required\n\n## Part 6 Text Completion\n\nChoose the word or phrase that best completes the sentence.\n\n## One-Year Limited Warranty\n\nThis warranty \\_16\\_ the purchaser from all malfunctions of the product due to defects in materials or workmanship. Only the original purchaser of the product is covered. Resale of the product automatically invalidates this warranty. This warranty \\_17\\_ the manufacturer to repair any defective product or to refund the full purchase price to the purchaser, at the manufacturer's discretion. The manufacturer's liability does not exceed the purchase price of the product. This warranty does not imply that the purchaser has any rights in the case of a defective product beyond those stated herein. This warranty \\_18\\_ one year from the date of purchase. A receipt or other proof of purchase is required in order to make claims under the terms of this warranty.\n\n16. (A) protects  \n(B) protectors  \n(C) protection  \n(D) protective\n\n17. (A) require  \n(B) requires  \n(C) is requiring  \n(D) has required\n\n18. (A) should expire (B) might expire (C) will expire (D) can expire",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following two letters.\n\n## Kitchen Electronics, Inc.\n\nOctober 12, 20—\n\nMrs. Sophie Bordeaux 118 Montrose Street Stoneybrook, MI\n\nDear Mrs. Bordeaux,\n\nWe received the defective toaster which you returned to us asking for a full refund under the terms of the one-year warranty. Unfortunately, the warranty on the toaster expired a month ago. The terms of the warranty do not cover your product once it has expired. Consequently, we will not be able to send you a refund. However, we will be able to send you a refurbished toaster of the same model in exchange for the defective one if you desire. Please let us know if such an arrangement would be satisfactory to you.\n\nPlease don't hesitate to contact me if you have any questions. We appreciate your business.\n\nSincerely,\n\nMatthew Bodine\n\nMatthew Bodine Customer Service Manager\n\n19. Why did the customer return the toaster?\n(A) It doesn't work.\n(B) It was too expensive.\n(C) She wants a brand new one.\n(D) She prefers a different model.\n\n20. When did she purchase the toaster?\n(A) A month ago.\n(B) Last October.\n(C) Exactly one year ago.\n(D) A little over a year ago.\n\n21. What will she get in place of the returned toaster?\n(A) Nothing.\n(B) A refund.\n(C) A brand new toaster.\n(D) A different, repaired toaster.\n\nNovember 1, 20—\n\nMatthew Bodine  \nCustomer Service Manager  \nKitchen Electronics, Inc.  \n194294 Honeywell Boulevard  \nVictoria Springs, AL\n\nDear Mr. Bodine,\n\nI have received your letter offering to send me a refurbished toaster in place of my defective one. I had not realized that my warranty had already expired. After considering the matter, I have decided to accept the refurbished toaster. Your company has a good reputation, and I frequently use your products. In fact, this is the first time I have ever had a problem with anything I have purchased from you. Therefore, I am sure that the refurbished toaster will work as well as a brand new one. However, I would like to be assured that the refurbished toaster will be protected by a warranty the same as a new toaster would be. If this is the case, then please send me the toaster as soon as possible. Thank you.\n\nSincerely,\n\nSophie Bordeaux\n\nSophie Bordeaux\n\n22. The word considering in line 4 of the second letter is closest in meaning to  \n(A) reading about  \n(B) thinking about  \n(C) talking about  \n(D) worrying about\n\n23. The word frequently in line 6 of the second letter is closest in meaning to  \n(A) often  \n(B) rarely  \n(C) never  \n(D) occasionally"
+  },
+  "needs_review": true
+}

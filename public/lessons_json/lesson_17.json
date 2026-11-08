@@ -1,0 +1,1654 @@
+{
+  "lesson_id": 17,
+  "title": "Ordering Supplies",
+  "theme_name": "Purchasing",
+  "audio_track": "track_17.mp3",
+  "part1_photo": "part1_photos/lesson_17.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "diversify",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to broaden, to make more varied",
+      "definition_vi": "đa dạng hóa",
+      "examples": [
+        {
+          "en": "The stationery department plans to diversify its offering of paper products.",
+          "vi": "Bộ phận văn phòng phẩm có kế hoạch đa dạng hóa các mặt hàng sản phẩm giấy của mình."
+        },
+        {
+          "en": "The consultant that we hired recommends that we don't diversify at this time.",
+          "vi": "Chuyên gia tư vấn mà chúng tôi đã thuê khuyến nghị rằng chúng tôi không nên đa dạng hóa vào thời điểm này."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "diversify",
+          "example": "We are going to diversify our product line and start selling software as well as computers."
+        },
+        {
+          "pos": "",
+          "word": "diversity",
+          "example": "The diversity of services that your company offers amazes me."
+        },
+        {
+          "pos": "",
+          "word": "diverse",
+          "example": "The wholesaler offered a more diverse range of computer accessories than I expected."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "diversify the product line",
+        "diversify into new markets",
+        "diversified portfolio",
+        "workplace diversity"
+      ],
+      "usage": {
+        "structures": [
+          "diversify + O (product line / portfolio / offerings) (đa dạng hóa dòng sản phẩm / danh mục đầu tư)",
+          "diversify into + N (đa dạng hóa sang lĩnh vực gì)"
+        ],
+        "prepositions": [
+          "into"
+        ],
+        "collocations": [
+          "diverse range of products",
+          "cultural diversity",
+          "diversify revenue streams",
+          "business diversification"
+        ],
+        "tip": "Tính từ 'diverse' rất hay đi trong cụm 'a diverse range/array/group of + danh từ số nhiều' (một loạt đa dạng các...)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "diversification",
+          "example": "Market diversification helped the manufacturer survive the regional downturn.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "diversely",
+          "example": "The conglomerate's assets are diversely distributed across four continents.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The supplier offers a _____ selection of eco-friendly packaging materials.",
+        "answer": "diverse",
+        "base_word": "diversify",
+        "pos_hint": "tính từ",
+        "vi": "Nhà cung cấp mang đến sự lựa chọn đa dạng các vật liệu đóng gói thân thiện với môi trường."
+      }
+    },
+    {
+      "id": 2,
+      "word": "enterprise",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a business; a large project",
+      "definition_vi": "doanh nghiệp, xí nghiệp; dự án lớn",
+      "examples": [
+        {
+          "en": "The new enterprise quickly established an account with the office supply store.",
+          "vi": "Doanh nghiệp mới đã nhanh chóng thiết lập một tài khoản khách hàng với cửa hàng văn phòng phẩm."
+        },
+        {
+          "en": "This enterprise has become unmanageable and is beginning to lose money.",
+          "vi": "Doanh nghiệp này đã trở nên không thể quản lý nổi và đang bắt đầu thua lỗ."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "enterprise",
+          "example": "When she began this enterprise, she had no idea of the time it would require."
+        },
+        {
+          "pos": "",
+          "word": "enterprising",
+          "example": "The program gives enterprising young people a chance to test their entrepreneurial skills."
+        },
+        {
+          "pos": "",
+          "word": "enterpriser",
+          "example": "Many enterprisers find themselves in daring and exciting ventures that lack the structure for long-term success."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "commercial enterprise",
+        "private enterprise",
+        "small and medium-sized enterprises",
+        "joint enterprise"
+      ],
+      "usage": {
+        "structures": [
+          "free/private/commercial enterprise (doanh nghiệp tự do/tư nhân/thương mại)"
+        ],
+        "prepositions": [
+          "in",
+          "of"
+        ],
+        "collocations": [
+          "state-owned enterprise",
+          "enterprise software",
+          "enterprising spirit",
+          "global enterprise"
+        ],
+        "tip": "Tính từ 'enterprising' trong họ từ này mang nghĩa là 'dám nghĩ dám làm, năng động, có tinh thần khởi nghiệp'."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "enterprisingly",
+          "example": "She enterprisingly turned a local delivery service into a national logistics firm.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The chamber of commerce awards grants to _____ young business owners every autumn.",
+        "answer": "enterprising",
+        "base_word": "enterprise",
+        "pos_hint": "tính từ",
+        "vi": "Phòng thương mại trao các khoản tài trợ cho những chủ doanh nghiệp trẻ năng động vào mỗi mùa thu."
+      }
+    },
+    {
+      "id": 3,
+      "word": "essentially",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "necessarily, basically, finally",
+      "definition_vi": "về cơ bản, về bản chất, thực chất là",
+      "examples": [
+        {
+          "en": "Essentially, she wants to win the contract and put the competition out of business.",
+          "vi": "Về cơ bản, cô ấy muốn giành được hợp đồng và loại đối thủ cạnh tranh ra khỏi cuộc chơi."
+        },
+        {
+          "en": "After distributing all of the cartridges that were ordered, we were essentially left with none.",
+          "vi": "Sau khi phân phát tất cả các hộp mực đã đặt mua, thực chất chúng tôi chẳng còn lại hộp nào."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "essentially",
+          "example": "Essentially, you will be sitting in a bath of mud for two hours."
+        },
+        {
+          "pos": "",
+          "word": "essential",
+          "example": "Having Ann on this team is essential if we are to win the contract."
+        },
+        {
+          "pos": "noun",
+          "word": "essence",
+          "example": "The essence of the problem lies in Jeff&#x27;s relationship with his manager."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "essentially the same",
+        "essentially unchanged",
+        "essential to success",
+        "essential supplies"
+      ],
+      "usage": {
+        "structures": [
+          "be essential to/for + N (thiết yếu đối với cái gì)",
+          "It is essential that + S + (should) + V-inf (Điều thiết yếu là...)"
+        ],
+        "prepositions": [
+          "to",
+          "for"
+        ],
+        "collocations": [
+          "essential equipment",
+          "essentially identical",
+          "in essence",
+          "of the essence"
+        ],
+        "tip": "Tính từ 'essential' kích hoạt cấu trúc giả định cách: 'It is essential that every employee wear/submit...' (động từ nguyên mẫu không chia)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "essentials",
+          "example": "The small store stocks office essentials such as paper, pens, and toner.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Reliable high-speed internet access is _____ for companies operating cloud-based inventory systems.",
+        "answer": "essential",
+        "base_word": "essentially",
+        "pos_hint": "tính từ",
+        "vi": "Kết nối internet tốc độ cao ổn định là điều thiết yếu đối với các công ty vận hành hệ thống kiểm kê đám mây."
+      }
+    },
+    {
+      "id": 4,
+      "word": "everyday",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "routine, common, ordinary",
+      "definition_vi": "hằng ngày, thông thường, thường nhật",
+      "examples": [
+        {
+          "en": "Though they are more expensive, these folders will withstand everyday wear and tear.",
+          "vi": "Mặc dù đắt hơn, những bìa kẹp hồ sơ này sẽ chịu được sự hao mòn trong sử dụng hằng ngày."
+        },
+        {
+          "en": "This everyday routine of having to check inventory is boring.",
+          "vi": "Công việc lặp đi lặp lại hằng ngày là phải kiểm tra hàng tồn kho này thật nhàm chán."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "everyday use",
+        "everyday routine",
+        "everyday wear and tear",
+        "everyday operations"
+      ],
+      "usage": {
+        "structures": [
+          "everyday + N (tính từ luôn đứng trước danh từ: everyday life/use/tasks)"
+        ],
+        "prepositions": [
+          "in"
+        ],
+        "collocations": [
+          "everyday business activities",
+          "everyday low prices",
+          "everyday occurrences",
+          "everyday items"
+        ],
+        "tip": "Phân biệt: viết liền 'everyday' là TÍNH TỪ đứng trước danh từ (everyday tasks), còn viết rời 'every day' là cụm trạng từ chỉ thời gian thường đứng cuối câu."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "day",
+          "example": "Orders placed before noon are shipped the same day.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "everyday",
+          "example": "Durable laminating machines are built to handle heavy everyday use.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "daily",
+          "example": "The warehouse supervisor conducts a daily inspection of the forklifts.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "daily",
+          "example": "Supply levels are monitored daily to prevent unexpected shortages.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "This heavy-duty photocopier is designed to withstand the demands of _____ office use.",
+        "answer": "everyday",
+        "base_word": "everyday",
+        "pos_hint": "tính từ ghép",
+        "vi": "Chiếc máy photocopy công suất lớn này được thiết kế để chịu được nhu cầu sử dụng văn phòng hằng ngày."
+      }
+    },
+    {
+      "id": 5,
+      "word": "function",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to perform tasks; n., a purpose",
+      "definition_vi": "(v) hoạt động, vận hành, đóng vai trò; (n) chức năng, sự kiện trang trọng",
+      "examples": [
+        {
+          "en": "She functioned as the director while Mr. Gibbs was away.",
+          "vi": "Cô ấy đã đảm nhiệm vai trò giám đốc trong thời gian ông Gibbs đi vắng."
+        },
+        {
+          "en": "What is the function of this device?",
+          "vi": "Chức năng của thiết bị này là gì?"
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "function",
+          "example": "He is still functioning as administrator until they find a replacement."
+        },
+        {
+          "pos": "",
+          "word": "function",
+          "example": "The function was attended by all the leading scientists."
+        },
+        {
+          "pos": "",
+          "word": "functional",
+          "example": "This machine is not functional; we need to purchase a new one."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "function properly",
+        "function as",
+        "official function",
+        "fully functional"
+      ],
+      "usage": {
+        "structures": [
+          "function as + N (đóng vai trò/hoạt động như là cái gì)",
+          "corporate/social function (buổi tiệc/sự kiện trang trọng của công ty)"
+        ],
+        "prepositions": [
+          "as"
+        ],
+        "collocations": [
+          "perform a function",
+          "vital function",
+          "banquet and function rooms",
+          "function smoothly"
+        ],
+        "tip": "Lưu ý nghĩa thứ hai rất hay ra trong TOEIC: ngoài nghĩa 'chức năng', danh từ đếm được 'a function' còn có nghĩa là 'một buổi tiệc/sự kiện trang trọng' (corporate functions)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "functionality",
+          "example": "The latest software update adds new search functionality.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "functionally",
+          "example": "Though different in appearance, the two scanner models are functionally identical.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The backup generator failed to _____ properly during yesterday's power outage.",
+        "answer": "function",
+        "base_word": "function",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Máy phát điện dự phòng đã không hoạt động bình thường trong sự cố mất điện ngày hôm qua."
+      }
+    },
+    {
+      "id": 6,
+      "word": "maintain",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to continue; to support, to sustain",
+      "definition_vi": "duy trì, giữ gìn; bảo trì, bảo dưỡng; khẳng định",
+      "examples": [
+        {
+          "en": "I've been maintaining a list of office supplies that are in greatest demand.",
+          "vi": "Tôi vẫn đang duy trì một danh sách các vật tư văn phòng có nhu cầu lớn nhất."
+        },
+        {
+          "en": "Trying to maintain two different stockrooms is too much work.",
+          "vi": "Việc cố gắng duy trì hai kho chứa hàng khác nhau là quá nhiều việc."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "maintain",
+          "example": "Don&#x27;t worry, I&#x27;ll maintain the good relationships that you&#x27;ve established with our clients."
+        },
+        {
+          "pos": "",
+          "word": "maintainability",
+          "example": "The maintainability of our second office is called into question by next year&#x27;s budget cutbacks."
+        },
+        {
+          "pos": "",
+          "word": "maintainable",
+          "example": "This level of performance will not be maintainable without increasing salaries."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "maintain records",
+        "maintain equipment",
+        "maintain high standards",
+        "routine maintenance"
+      ],
+      "usage": {
+        "structures": [
+          "maintain + N (duy trì mối quan hệ/tiêu chuẩn/hồ sơ; bảo dưỡng máy móc)",
+          "maintain that + S + V (khẳng định rằng...)"
+        ],
+        "prepositions": [
+          "at",
+          "in"
+        ],
+        "collocations": [
+          "maintain a competitive edge",
+          "maintain close contact",
+          "properly maintained",
+          "maintenance department"
+        ],
+        "tip": "Danh từ phổ biến nhất của 'maintain' trong bài thi TOEIC là 'maintenance' (chú ý chính tả: main-te-nance, không phải maintainance), nghĩa là sự bảo trì/duy trì."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "maintenance",
+          "example": "Regular maintenance of the printing presses prevents costly breakdowns.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The online ordering portal will be temporarily offline tonight for scheduled system _____.",
+        "answer": "maintenance",
+        "base_word": "maintain",
+        "pos_hint": "danh từ chỉ sự bảo trì",
+        "vi": "Cổng đặt hàng trực tuyến sẽ tạm thời ngừng hoạt động vào tối nay để bảo trì hệ thống theo lịch trình."
+      }
+    },
+    {
+      "id": 7,
+      "word": "obtain",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to acquire",
+      "definition_vi": "đạt được, lấy được, thu được, xin được",
+      "examples": [
+        {
+          "en": "I've been trying to obtain a list of supplies from the administrator for three weeks now.",
+          "vi": "Tôi đã cố gắng lấy danh sách vật tư từ người quản trị suốt ba tuần nay rồi."
+        },
+        {
+          "en": "The employee obtained the report from her supervisor.",
+          "vi": "Nhân viên đã lấy được bản báo cáo từ người giám sát của mình."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "obtain permission",
+        "obtain a permit",
+        "obtain information",
+        "obtain approval"
+      ],
+      "usage": {
+        "structures": [
+          "obtain + sth + from + sb/sth (lấy/xin được cái gì từ ai/đâu)"
+        ],
+        "prepositions": [
+          "from",
+          "through"
+        ],
+        "collocations": [
+          "obtain a refund",
+          "obtain a copy",
+          "obtain financing",
+          "easily obtainable"
+        ],
+        "tip": "Từ trang trọng thay cho 'get' trong văn bản thương mại TOEIC; thường đi với 'permission, approval, permit, license, supplies, information'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "obtain",
+          "example": "Visitors must obtain a security badge at the reception desk.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "obtainable",
+          "example": "Application forms are obtainable from any regional branch office.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "unobtainable",
+          "example": "Replacement parts for the discontinued model are now almost unobtainable.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Contractors must _____ a building permit from the municipal office before commencing renovations.",
+        "answer": "obtain",
+        "base_word": "obtain",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Các nhà thầu phải xin giấy phép xây dựng từ văn phòng thành phố trước khi bắt đầu việc cải tạo."
+      }
+    },
+    {
+      "id": 8,
+      "word": "prerequisite",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "something that is required or necessary as a prior condition",
+      "definition_vi": "điều kiện tiên quyết, điều kiện cần có trước",
+      "examples": [
+        {
+          "en": "One of the prerequisites for this job is competence in bookkeeping.",
+          "vi": "Một trong những điều kiện tiên quyết cho công việc này là năng lực về nghiệp vụ sổ sách kế toán."
+        },
+        {
+          "en": "Here are the prerequisites that you need to purchase before coming to class.",
+          "vi": "Đây là những vật dụng bắt buộc cần có mà bạn phải mua trước khi đến lớp."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "prerequisite for the job",
+        "prerequisite to admission",
+        "meet the prerequisites",
+        "essential prerequisite"
+      ],
+      "usage": {
+        "structures": [
+          "a prerequisite for/to + N (một điều kiện tiên quyết cho cái gì)"
+        ],
+        "prepositions": [
+          "for",
+          "to",
+          "of"
+        ],
+        "collocations": [
+          "prerequisite course",
+          "necessary prerequisite",
+          "fulfill the prerequisites",
+          "basic prerequisite"
+        ],
+        "tip": "Tiền tố 'pre-' (trước) + 'requisite' (điều cần thiết) = điều kiện bắt buộc phải có trước; luôn đi với giới từ 'for' hoặc 'to'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "require",
+          "example": "All purchase orders over $1,000 require a director's signature.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "prerequisite",
+          "example": "A valid driver's license is a prerequisite for the delivery position.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "requisite",
+          "example": "She lacked the requisite experience to manage the supply chain.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Fluency in Mandarin is a _____ for applicants seeking the regional procurement manager role.",
+        "answer": "prerequisite",
+        "base_word": "prerequisite",
+        "pos_hint": "danh từ",
+        "vi": "Sự thông thạo tiếng Quan Thoại là điều kiện tiên quyết đối với các ứng viên ứng tuyển vị trí quản lý thu mua khu vực."
+      }
+    },
+    {
+      "id": 9,
+      "word": "quality",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a distinguishing characteristic; a degree of excellence",
+      "definition_vi": "(n) chất lượng; phẩm chất, đặc tính; (adj) có chất lượng cao",
+      "examples": [
+        {
+          "en": "The most important qualities we look for in a supplier are reliability and quick response.",
+          "vi": "Những phẩm chất quan trọng nhất mà chúng tôi tìm kiếm ở một nhà cung cấp là độ tin cậy và phản hồi nhanh chóng."
+        },
+        {
+          "en": "The quality of their clothes has fallen ever since they started using cheaper fabrics to make them.",
+          "vi": "Chất lượng quần áo của họ đã sụt giảm kể từ khi họ bắt đầu sử dụng các loại vải rẻ tiền hơn để may."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "quality control",
+        "quality assurance",
+        "superior quality",
+        "leadership qualities"
+      ],
+      "usage": {
+        "structures": [
+          "of high/poor/superior quality (có chất lượng cao/kém/vượt trội)",
+          "qualities in + a person/supplier (những phẩm chất ở một người/nhà cung cấp)"
+        ],
+        "prepositions": [
+          "of",
+          "in"
+        ],
+        "collocations": [
+          "high-quality materials",
+          "maintain quality standards",
+          "compromise on quality",
+          "personal qualities"
+        ],
+        "tip": "Khi mang nghĩa 'chất lượng sản phẩm' thì thường không đếm được; khi mang nghĩa 'phẩm chất/đặc tính của một người hay nhà cung cấp' thì là danh từ đếm được (important qualities)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "qualify",
+          "example": "Bulk orders over fifty units qualify for a ten percent discount.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "quality",
+          "example": "Every batch of paper undergoes strict quality inspections.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "qualitative",
+          "example": "The research team conducted a qualitative analysis of customer feedback.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "qualitatively",
+          "example": "The new synthetic fiber is qualitatively superior to previous materials.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Patience and attention to detail are essential _____ for anyone working in inventory management.",
+        "answer": "qualities",
+        "base_word": "quality",
+        "pos_hint": "danh từ số nhiều chỉ phẩm chất",
+        "vi": "Sự kiên nhẫn và chú ý đến từng chi tiết là những phẩm chất thiết yếu đối với bất kỳ ai làm việc trong ngành quản lý kho."
+      }
+    },
+    {
+      "id": 10,
+      "word": "smooth",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "without difficulties; deliberately polite and agreeable in order to win favor",
+      "definition_vi": "(adj) suôn sẻ, trôi chảy; lịch thiệp, khéo ăn nói; (v) làm dịu đi, tháo gỡ",
+      "examples": [
+        {
+          "en": "Thanks to our smooth transition to the new supplier, there was no interruption in shipments.",
+          "vi": "Nhờ quá trình chuyển đổi suôn sẻ sang nhà cung cấp mới của chúng tôi, đã không có sự gián đoạn nào trong các chuyến hàng."
+        },
+        {
+          "en": "Her smooth manner won her the appreciation of the manager but not her colleagues.",
+          "vi": "Phong thái khéo léo lịch thiệp của cô đã giúp cô nhận được sự đánh giá cao của người quản lý nhưng lại không được lòng đồng nghiệp."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "smooth out",
+          "example": "In order to smooth out the process of ordering supplies, we&#x27;re going to use this new software to keep track of purchases and deliveries."
+        },
+        {
+          "pos": "",
+          "word": "smoothly",
+          "example": "The meeting went smoothly, and the contract was signed without any disagreements."
+        },
+        {
+          "pos": "",
+          "word": "smooth",
+          "example": "The vendor was so smooth on the phone that he had no difficulty in obtaining an appointment with the busy executive."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "smooth transition",
+        "smooth operation",
+        "go smoothly",
+        "smooth out difficulties"
+      ],
+      "usage": {
+        "structures": [
+          "a smooth transition (sự chuyển giao suôn sẻ)",
+          "run/go/proceed smoothly (diễn ra một cách suôn sẻ)",
+          "smooth out + problems/differences (dàn xếp/tháo gỡ trục trặc)"
+        ],
+        "prepositions": [
+          "out",
+          "over"
+        ],
+        "collocations": [
+          "ensure a smooth handover",
+          "smooth implementation",
+          "smooth surface",
+          "work smoothly"
+        ],
+        "tip": "Cặp từ cực kỳ hay gặp: tính từ 'smooth' đứng trước 'transition / operation' và trạng từ 'smoothly' đi sau các động từ 'go / run / proceed / operate'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "smooth",
+          "example": "The mediator helped smooth relations between the supplier and the buyer.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "smoothness",
+          "example": "This premium printing paper is prized for its brightness and smoothness.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The installation of the new accounting software proceeded _____ thanks to thorough preparation.",
+        "answer": "smoothly",
+        "base_word": "smooth",
+        "pos_hint": "trạng từ",
+        "vi": "Việc cài đặt phần mềm kế toán mới đã diễn ra suôn sẻ nhờ sự chuẩn bị kỹ lưỡng."
+      }
+    },
+    {
+      "id": 11,
+      "word": "source",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the origin",
+      "definition_vi": "(n) nguồn, nguồn gốc, nơi cung cấp; (v) tìm nguồn cung ứng",
+      "examples": [
+        {
+          "en": "I can't tell you the source of this information.",
+          "vi": "Tôi không thể tiết lộ cho bạn biết nguồn gốc của thông tin này."
+        },
+        {
+          "en": "The source of this rare pottery that we are selling in our shop is a small village in India.",
+          "vi": "Nguồn gốc của loại gốm quý hiếm mà chúng tôi đang bán trong cửa hàng là một ngôi làng nhỏ ở Ấn Độ."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "source of information",
+        "source of income",
+        "reliable source",
+        "source materials locally"
+      ],
+      "usage": {
+        "structures": [
+          "source of + N (nguồn cung cấp/nguồn gốc của cái gì)",
+          "source + products/materials + from... (tìm nguồn cung hàng hóa/nguyên liệu từ...)"
+        ],
+        "prepositions": [
+          "of",
+          "from"
+        ],
+        "collocations": [
+          "primary source",
+          "energy source",
+          "revenue source",
+          "outsource production"
+        ],
+        "tip": "Trong chủ đề Purchasing, 'source' vừa là danh từ (nguồn gốc) vừa là động từ mang nghĩa 'tìm nguồn cung ứng' (source raw materials from local farms)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "source",
+          "example": "The bakery sources all of its organic flour from regional mills.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "source",
+          "example": "Tourism is the primary source of revenue for the island's economy.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "sourcing",
+          "example": "Ethical sourcing of raw materials is a core part of our corporate mission.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "To reduce shipping costs, the furniture maker began _____ timber from domestic forests.",
+        "answer": "sourcing",
+        "base_word": "source",
+        "pos_hint": "danh động từ (V-ing)",
+        "vi": "Để giảm chi phí vận chuyển, nhà sản xuất đồ nội thất đã bắt đầu tìm nguồn cung gỗ từ các khu rừng trong nước."
+      }
+    },
+    {
+      "id": 12,
+      "word": "stationery",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "writing paper and envelopes",
+      "definition_vi": "văn phòng phẩm (đặc biệt là giấy viết thư, phong bì)",
+      "examples": [
+        {
+          "en": "We do not have enough stationery, so please order some more.",
+          "vi": "Chúng ta không còn đủ giấy tờ văn phòng phẩm nữa, vì vậy làm ơn hãy đặt mua thêm."
+        },
+        {
+          "en": "The new stationery featured the company's logo in blue ink at the top of the page.",
+          "vi": "Bộ giấy tiêu đề mới có in biểu trưng của công ty bằng mực xanh ở đầu trang."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "office stationery",
+        "stationery supplies",
+        "stationery store",
+        "personalized stationery"
+      ],
+      "usage": {
+        "structures": [
+          "order/supply stationery (đặt mua / cung cấp văn phòng phẩm)"
+        ],
+        "prepositions": [
+          "on"
+        ],
+        "collocations": [
+          "company stationery",
+          "letterhead stationery",
+          "stationery cabinet",
+          "stationery department"
+        ],
+        "tip": "Mẹo nhớ chính tả tránh nhầm lẫn: 'stationEry' có chữ E (Envelopes / pEn = văn phòng phẩm, danh từ không đếm được), còn 'stationAry' có chữ A (stAnd = đứng yên, tính từ)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "stationery",
+          "example": "All official correspondence must be printed on company stationery.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "stationer",
+          "example": "We ordered custom-engraved invitations from a local stationer.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The administrative assistant ordered boxes of envelopes and matching _____ with the new corporate logo.",
+        "answer": "stationery",
+        "base_word": "stationery",
+        "pos_hint": "danh từ không đếm được",
+        "vi": "Trợ lý hành chính đã đặt mua nhiều hộp phong bì và giấy viết thư đồng bộ có in biểu trưng mới của công ty."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. All businesses, large and small, must maintain an inventory of supplies. In most business offices, there are several essential (1) ____ items, including (2) ____, pens, staples, and folders. These are easily (3) ____ from office supply stores that provide the most commonly used items under one roof. Some of these stores will even take orders by telephone with free delivery. However, some businesses require a more (4) ____ range of supplies. For example, businesses that ship their products usually need cartons, Styrofoam peanuts, mailing tape, and shipping labels on hand at all times. Though these items may be available from general office supply stores, there are other specialty stores that only sell packing and shipping supplies. No matter what the type of business, the office administrator is in charge of ordering supplies and (5) ____ an inventory. Having the (6) ____ supplies on hand at all times is a (7) ____ for the (8) ____ and efficient (9) ____ of the (10) ____. The administrator should try to locate the cheapest (11) ____ of the supplies required, but also pay attention to the (12) ____ of the goods.",
+    "word_bank": [
+      "diverse",
+      "everyday",
+      "obtained",
+      "smooth",
+      "enterprise",
+      "functioning",
+      "prerequisite",
+      "source",
+      "essential",
+      "maintaining",
+      "quality",
+      "stationery"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "diversify",
+        "example": "We are going to diversify our product line and start selling software as well as computers.",
+        "pos": ""
+      },
+      {
+        "word": "diversity",
+        "example": "The diversity of services that your company offers amazes me.",
+        "pos": ""
+      },
+      {
+        "word": "diverse",
+        "example": "The wholesaler offered a more diverse range of computer accessories than I expected.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "enterprise",
+        "example": "When she began this enterprise, she had no idea of the time it would require.",
+        "pos": ""
+      },
+      {
+        "word": "enterprising",
+        "example": "The program gives enterprising young people a chance to test their entrepreneurial skills.",
+        "pos": ""
+      },
+      {
+        "word": "enterpriser",
+        "example": "Many enterprisers find themselves in daring and exciting ventures that lack the structure for long-term success.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "essentially",
+        "example": "Essentially, you will be sitting in a bath of mud for two hours.",
+        "pos": "verb"
+      },
+      {
+        "word": "essential",
+        "example": "Having Ann on this team is essential if we are to win the contract.",
+        "pos": ""
+      },
+      {
+        "word": "essence",
+        "example": "The essence of the problem lies in Jeff&#x27;s relationship with his manager.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "function",
+        "example": "He is still functioning as administrator until they find a replacement.",
+        "pos": "verb"
+      },
+      {
+        "word": "function",
+        "example": "The function was attended by all the leading scientists.",
+        "pos": ""
+      },
+      {
+        "word": "functional",
+        "example": "This machine is not functional; we need to purchase a new one.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "maintain",
+        "example": "Don&#x27;t worry, I&#x27;ll maintain the good relationships that you&#x27;ve established with our clients.",
+        "pos": ""
+      },
+      {
+        "word": "maintainability",
+        "example": "The maintainability of our second office is called into question by next year&#x27;s budget cutbacks.",
+        "pos": ""
+      },
+      {
+        "word": "maintainable",
+        "example": "This level of performance will not be maintainable without increasing salaries.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "smooth out",
+        "example": "In order to smooth out the process of ordering supplies, we&#x27;re going to use this new software to keep track of purchases and deliveries.",
+        "pos": ""
+      },
+      {
+        "word": "smoothly",
+        "example": "The meeting went smoothly, and the contract was signed without any disagreements.",
+        "pos": ""
+      },
+      {
+        "word": "smooth",
+        "example": "The vendor was so smooth on the phone that he had no difficulty in obtaining an appointment with the busy executive.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "Many customers find that product ____ is confusing and deceptive.",
+        "options": [
+          {
+            "label": "A",
+            "text": "diversify"
+          },
+          {
+            "label": "B",
+            "text": "diverse"
+          },
+          {
+            "label": "C",
+            "text": "diversity"
+          },
+          {
+            "label": "D",
+            "text": "diversified"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "For the ____ designer, this job is full of rewards and opportunities.",
+        "options": [
+          {
+            "label": "A",
+            "text": "enterprise"
+          },
+          {
+            "label": "B",
+            "text": "enterpriser"
+          },
+          {
+            "label": "C",
+            "text": "enterprising"
+          },
+          {
+            "label": "D",
+            "text": "enterpriseless"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "Your full participation is ____ to our timely completion of this project.",
+        "options": [
+          {
+            "label": "A",
+            "text": "essence"
+          },
+          {
+            "label": "B",
+            "text": "essences"
+          },
+          {
+            "label": "C",
+            "text": "essential"
+          },
+          {
+            "label": "D",
+            "text": "essentially"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "We need to have a spare copier since the only one that is ____ is on its last leg.",
+        "options": [
+          {
+            "label": "A",
+            "text": "functioned"
+          },
+          {
+            "label": "B",
+            "text": "functions"
+          },
+          {
+            "label": "C",
+            "text": "functional"
+          },
+          {
+            "label": "D",
+            "text": "function"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "In order to ____ our lead in the market, we'll have to find a cheaper source of industrial supplies.",
+        "options": [
+          {
+            "label": "A",
+            "text": "maintainable"
+          },
+          {
+            "label": "B",
+            "text": "maintain"
+          },
+          {
+            "label": "C",
+            "text": "maintaining"
+          },
+          {
+            "label": "D",
+            "text": "maintainability"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "She ____ changed the topic of conversation, thus preventing a disagreement between her colleagues from turning into an argument.",
+        "options": [
+          {
+            "label": "A",
+            "text": "smoothly"
+          },
+          {
+            "label": "B",
+            "text": "smooth out"
+          },
+          {
+            "label": "C",
+            "text": "smooth"
+          },
+          {
+            "label": "D",
+            "text": "smoothed"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Memo To: All office staff From: Luis Mendez, Office Manager Re: Ordering office supplies There has been a lot of confusion recently regarding the ordering of office supplies. In order to maintain a consistent stock of [16] supplies, from now on all supply orders must go through me. There are forms in my office that you may use to order the supplies that you need. I can [17] supplies for you within three days of receiving your order form if it is filled out properly. By following this procedure, the office will function more [18], and we can be sure that we will always have quality supplies on hand when we need them. We will also avoid the problem of ordering supplies that we already have. Thank you for your cooperation.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "essence"
+            },
+            {
+              "label": "B",
+              "text": "essential"
+            },
+            {
+              "label": "C",
+              "text": "essentials"
+            },
+            {
+              "label": "D",
+              "text": "essentially"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "obtaining"
+            },
+            {
+              "label": "B",
+              "text": "to obtain"
+            },
+            {
+              "label": "C",
+              "text": "obtains"
+            },
+            {
+              "label": "D",
+              "text": "obtain"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "smooth"
+            },
+            {
+              "label": "B",
+              "text": "smoothly"
+            },
+            {
+              "label": "C",
+              "text": "smoother"
+            },
+            {
+              "label": "D",
+              "text": "smoothness"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following letter and memo. April 12 Dear Business Owner, The Supply Closet, Inc., is a new office supply store in your neighborhood. We opened last month right across the street from the post office. We are your local source for quality office supplies, including all office stationery, packing materials, folders, pens, note pads, and more. We provide you with the everyday items you need to keep your business functioning smoothly. In order to introduce ourselves to you, we are enclosing a coupon for 20 percent off your entire purchase during your first visit to the Supply Closet. Please visit us soon. Sincerely yours, Martha and Bill Heywood Owners Coupon expires June 30. To: Gisela Freeman From: James Riley Re: New supply store Please see the attached letter from the Supply Closet, Inc. I think we should try them out. I know we maintain an account with the Riverdale Supply Company, but I am not completely satisfied with them as a source for supplies. I would like to find a supplier with more diverse merchandise. I'd like you to visit the Supply Closet sometime this week and purchase some stationery. We need to do a big mailing at the beginning of May, so we'll need some manila envelopes and letter paper. You can use the coupon that came with the letter. Look at the items they have for sale and see how it compares with the Riverdale Supply Company. If it looks like they're a better source for supplies, we can start ordering from them regularly. Thank you.",
+        "questions": [
+          {
+            "number": 19,
+            "question": "When did the Supply Closet open?",
+            "options": [
+              {
+                "label": "A",
+                "text": "March."
+              },
+              {
+                "label": "B",
+                "text": "April."
+              },
+              {
+                "label": "C",
+                "text": "May."
+              },
+              {
+                "label": "D",
+                "text": "June."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "What can a customer get during his first visit to the store?",
+            "options": [
+              {
+                "label": "A",
+                "text": "A free pen."
+              },
+              {
+                "label": "B",
+                "text": "An introduction."
+              },
+              {
+                "label": "C",
+                "text": "A discount."
+              },
+              {
+                "label": "D",
+                "text": "A stamp."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "Why doesn't James Riley like the Riverdale Supply Company?",
+            "options": [
+              {
+                "label": "A",
+                "text": "It's too near the post office."
+              },
+              {
+                "label": "B",
+                "text": "It doesn't function smoothly."
+              },
+              {
+                "label": "C",
+                "text": "It's far from the neighborhood."
+              },
+              {
+                "label": "D",
+                "text": "It doesn't have a variety of merchandise."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word smoothly in line 8 of the letter is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "easily"
+              },
+              {
+                "label": "B",
+                "text": "quickly"
+              },
+              {
+                "label": "C",
+                "text": "profitably"
+              },
+              {
+                "label": "D",
+                "text": "carefully"
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word maintain in line 3 of the memo is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "open"
+              },
+              {
+                "label": "B",
+                "text": "pay"
+              },
+              {
+                "label": "C",
+                "text": "apply"
+              },
+              {
+                "label": "D",
+                "text": "keep"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What is the man looking for?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A diverse range of applicants."
+          },
+          {
+            "label": "B",
+            "text": "A glassware merchant."
+          },
+          {
+            "label": "C",
+            "text": "A pair of eyeglasses."
+          },
+          {
+            "label": "D",
+            "text": "A warehouse."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How will he obtain more information about what he needs?",
+        "options": [
+          {
+            "label": "A",
+            "text": "He'll write a letter."
+          },
+          {
+            "label": "B",
+            "text": "He'll make a phone call."
+          },
+          {
+            "label": "C",
+            "text": "The woman will tell him."
+          },
+          {
+            "label": "D",
+            "text": "He'll visit a web site."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "When does the woman want to speak to the man again?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Today."
+          },
+          {
+            "label": "B",
+            "text": "Tuesday."
+          },
+          {
+            "label": "C",
+            "text": "Next week."
+          },
+          {
+            "label": "D",
+            "text": "On the weekend."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "Who is listening to this talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Upper management at a stationery supplier."
+          },
+          {
+            "label": "B",
+            "text": "Employees at a stationery supplier."
+          },
+          {
+            "label": "C",
+            "text": "Upper management at Margatel."
+          },
+          {
+            "label": "D",
+            "text": "Employees at Margatel."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What is the problem?",
+        "options": [
+          {
+            "label": "A",
+            "text": "There was an order with a mistake."
+          },
+          {
+            "label": "B",
+            "text": "The company lost a $50,000 client."
+          },
+          {
+            "label": "C",
+            "text": "Employees got locked out of the office."
+          },
+          {
+            "label": "D",
+            "text": "A worker slipped and fell."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "When did Carla take the order?",
+        "options": [
+          {
+            "label": "A",
+            "text": "January 14."
+          },
+          {
+            "label": "B",
+            "text": "January 19."
+          },
+          {
+            "label": "C",
+            "text": "January 21."
+          },
+          {
+            "label": "D",
+            "text": "January 30."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best response. 4. What is the man looking for? (A) A diverse range of applicants. (B) A glassware merchant. (C) A pair of eyeglasses. (D) A warehouse. 5. How will he obtain more information about what he needs? (A) He'll write a letter. (B) He'll make a phone call. (C) The woman will tell him. (D) He'll visit a web site. 6. When does the woman want to speak to the man again? (A) Today. (B) Tuesday. (C) Next week. (D) On the weekend. Listen to the talk. Then read each question and choose the best answer. 7. Who is listening to this talk? (A) Upper management at a stationery supplier. (B) Employees at a stationery supplier. (C) Upper management at Margatel. (D) Employees at Margatel. 8. What is the problem? (A) There was an order with a mistake. (B) The company lost a $50,000 client. (C) Employees got locked out of the office. (D) A worker slipped and fell. 9. When did Carla take the order? (A) January 14. (B) January 19. (C) January 21. (D) January 30.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What is the man looking for?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A diverse range of applicants."
+          },
+          {
+            "label": "B",
+            "text": "A glassware merchant."
+          },
+          {
+            "label": "C",
+            "text": "A pair of eyeglasses."
+          },
+          {
+            "label": "D",
+            "text": "A warehouse."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How will he obtain more information about what he needs?",
+        "options": [
+          {
+            "label": "A",
+            "text": "He'll write a letter."
+          },
+          {
+            "label": "B",
+            "text": "He'll make a phone call."
+          },
+          {
+            "label": "C",
+            "text": "The woman will tell him."
+          },
+          {
+            "label": "D",
+            "text": "He'll visit a web site."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "When does the woman want to speak to the man again?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Today."
+          },
+          {
+            "label": "B",
+            "text": "Tuesday."
+          },
+          {
+            "label": "C",
+            "text": "Next week."
+          },
+          {
+            "label": "D",
+            "text": "On the weekend."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "Who is listening to this talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Upper management at a stationery supplier."
+          },
+          {
+            "label": "B",
+            "text": "Employees at a stationery supplier."
+          },
+          {
+            "label": "C",
+            "text": "Upper management at Margatel."
+          },
+          {
+            "label": "D",
+            "text": "Employees at Margatel."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What is the problem?",
+        "options": [
+          {
+            "label": "A",
+            "text": "There was an order with a mistake."
+          },
+          {
+            "label": "B",
+            "text": "The company lost a $50,000 client."
+          },
+          {
+            "label": "C",
+            "text": "Employees got locked out of the office."
+          },
+          {
+            "label": "D",
+            "text": "A worker slipped and fell."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "When did Carla take the order?",
+        "options": [
+          {
+            "label": "A",
+            "text": "January 14."
+          },
+          {
+            "label": "B",
+            "text": "January 19."
+          },
+          {
+            "label": "C",
+            "text": "January 21."
+          },
+          {
+            "label": "D",
+            "text": "January 30."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "# Ordering Supplies\n\nStudy the following definitions and examples.\n\n1. diversify v., to broaden, to make more varied\n\na. The stationery department plans to diversify its offering of paper products.\n\nb. The consultant that we hired recommends that we don't diversify at this time.\n\n2. enterprise n., a business; a large project a. The new enterprise quickly established an account with the office supply store.\n\nb. This enterprise has become unmanageable and is beginning to lose money.\n\n3. essentially adv., necessarily, basically, finally a. Essentially, she wants to win the contract and put the competition out of business.\n\nb. After distributing all of the cartridges that were ordered, we were essentially left with none.\n\n4. everyday adj., routine, common, ordinary a. Though they are more expensive, these folders will withstand everyday wear and tear.\n\nb. This everyday routine of having to check inventory is boring.\n\n5. function v., to perform tasks; n., a purpose\n\na. She functioned as the director while Mr. Gibbs was away.\n\nb. What is the function of this device?\n\n6. maintain v., to continue; to support, to sustain a. I've been maintaining a list of office supplies that are in greatest demand.  \nb. Trying to maintain two different stockrooms is too much work.\n\n7. obtain v., to acquire\n\na. I've been trying to obtain a list of supplies from the administrator for three weeks now.\n\nb. The employee obtained the report from her supervisor.\n\n8. prerequisite n., something that is required or necessary as a prior condition a. One of the prerequisites for this job is competence in bookkeeping.\n\nb. Here are the prerequisites that you need to purchase before coming to class.\n\n9. quality n., a distinguishing characteristic; a degree of excellence a. The most important qualities we look for in a supplier are reliability and quick response.\n\nb. The quality of their clothes has fallen ever since they started using cheaper fabrics to make them.\n\n10. smooth adj., without difficulties; deliberately polite and agreeable in order to win favor\n\na. Thanks to our smooth transition to the new supplier, there was no interruption in shipments.\n\nb. Her smooth manner won her the appreciation of the manager but not her colleagues.\n\n11. source n., the origin\n\na. I can't tell you the source of this information.\n\nb. The source of this rare pottery that we are selling in our shop is a small village in India.\n\n12. stationery n., writing paper and envelopes\n\na. We do not have enough stationery, so please order some more.\n\nb. The new stationery featured the company's logo in blue ink at the top of the page.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\n| diverse | everyday | obtained | smooth |\n| --- | --- | --- | --- |\n| enterprise | functioning | prerequisite | source |\n| essential | maintaining | quality | stationery |\n\nAll businesses, large and small, must maintain an inventory of supplies. In most business offices, there are several essential (1) \\_\\_\\_\\_ items, including (2) \\_\\_\\_\\_, pens, staples, and folders. These are easily (3) \\_\\_\\_\\_ from office supply stores that provide the most commonly used items under one roof. Some of these stores will even take orders by telephone with free delivery.\n\nHowever, some businesses require a more (4) \\_\\_\\_\\_ range of supplies. For example, businesses that ship their products usually need cartons, Styrofoam peanuts, mailing tape, and shipping labels on hand at all times. Though these items may be available from general office supply stores, there are other specialty stores that only sell packing and shipping supplies.\n\nNo matter what the type of business, the office administrator is in charge of ordering supplies and (5) \\_\\_\\_\\_ an inventory. Having the (6) \\_\\_\\_\\_ supplies on hand at all times is a (7) \\_\\_\\_\\_ for the (8) \\_\\_\\_\\_ and efficient (9) \\_\\_\\_\\_ of the (10) \\_\\_\\_\\_. The administrator should try to locate the cheapest (11) \\_\\_\\_\\_ of the supplies required, but also pay attention to the (12) \\_\\_\\_\\_ of the goods.",
+    "word_families": "## WORD FAMILIES\n\n<table><tr><td rowspan=\"3\">id yth</td><td>diversify</td><td>We are going to diversify our product line and start selling software as well as computers.</td></tr><tr><td>diversity</td><td>The diversity of services that your company offers amazes me.</td></tr><tr><td>diverse</td><td>The wholesaler offered a more diverse range of computer accessories than I expected.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td rowspan=\"2\">id yth</td><td>enterprise</td><td>When she began this enterprise, she had no idea of the time it would require.</td></tr><tr><td>enterprising</td><td>The program gives enterprising young people a chance to test their entrepreneurial skills.</td></tr><tr><td>in</td><td>enterpriser</td><td>Many enterprisers find themselves in daring and exciting ventures that lack the structure for long-term success.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td rowspan=\"2\">verb</td><td>essentially</td><td>Essentially, you will be sitting in a bath of mud for two hours.</td></tr><tr><td>essential</td><td>Having Ann on this team is essential if we are to win the contract.</td></tr><tr><td>noun</td><td>essence</td><td>The essence of the problem lies in Jeff&#x27;s relationship with his manager.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td rowspan=\"2\">verb</td><td>function</td><td>He is still functioning as administrator until they find a replacement.</td></tr><tr><td>function</td><td>The function was attended by all the leading scientists.</td></tr><tr><td>adjectiv</td><td>functional</td><td>This machine is not functional; we need to purchase a new one.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td rowspan=\"2\">vth</td><td>maintain</td><td>Don&#x27;t worry, I&#x27;ll maintain the good relationships that you&#x27;ve established with our clients.</td></tr><tr><td>maintainability</td><td>The maintainability of our second office is called into question by next year&#x27;s budget cutbacks.</td></tr><tr><td></td><td>maintainable</td><td>This level of performance will not be maintainable without increasing salaries.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>vth</td><td>smooth out</td><td>In order to smooth out the process of ordering supplies, we&#x27;re going to use this new software to keep track of purchases and deliveries.</td></tr><tr><td>ad th</td><td>smoothly</td><td>The meeting went smoothly, and the contract was signed without any disagreements.</td></tr><tr><td></td><td>smooth</td><td>The vendor was so smooth on the phone that he had no difficulty in obtaining an appointment with the busy executive.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best response.\n\n4. What is the man looking for?\n(A) A diverse range of applicants.\n(B) A glassware merchant.\n(C) A pair of eyeglasses.\n(D) A warehouse.\n\n5. How will he obtain more information about what he needs?\n(A) He'll write a letter.\n(B) He'll make a phone call.\n(C) The woman will tell him.\n(D) He'll visit a web site.\n\n6. When does the woman want to speak to the man again?\n(A) Today.\n(B) Tuesday.\n(C) Next week.\n(D) On the weekend.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. Who is listening to this talk?  \n(A) Upper management at a stationery supplier.  \n(B) Employees at a stationery supplier.  \n(C) Upper management at Margatel.  \n(D) Employees at Margatel.\n\n8. What is the problem?\n(A) There was an order with a mistake.\n(B) The company lost a $50,000 client.\n(C) Employees got locked out of the office.\n(D) A worker slipped and fell.\n\n9. When did Carla take the order?\n(A) January 14.\n(B) January 19.\n(C) January 21.\n(D) January 30.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. Many customers find that product \\_\\_\\_\\_ is confusing and deceptive.\n(A) diversify (C) diversity\n(B) diverse (D) diversified\n\n11. For the \\_\\_\\_\\_ designer, this job is full of rewards and opportunities.\n(A) enterprise (C) enterprising\n(B) enterpriser (D) enterpriseless\n\n12. Your full participation is \\_\\_\\_\\_ to our timely completion of this project.\n(A) essence (C) essential\n(B) essences (D) essentially\n\n13. We need to have a spare copier since the only one that is \\_\\_\\_\\_ is on its last leg.\n(A) functioned (C) functional\n(B) functions (D) function\n\n14. In order to \\_\\_\\_\\_ our lead in the market, we'll have to find a cheaper source of industrial supplies.\n(A) maintainable (C) maintaining\n(B) maintain (D) maintainability\n\n15. She \\_\\_\\_\\_ changed the topic of conversation, thus preventing a disagreement between her colleagues from turning into an argument.\n(A) smoothly (C) smooth\n(B) smooth out (D) smoothed\n\n## Part 6 Text Completion\n\n## Memo\n\nTo: All office staff\n\nFrom: Luis Mendez, Office Manager\n\nRe: Ordering office supplies\n\nThere has been a lot of confusion recently regarding the ordering of office supplies. In order to maintain a consistent stock of \\_16\\_ supplies, from now on all supply orders must go through me. There are forms in my office that you may use to order the supplies that you need. I can \\_17\\_ supplies for you within three days of receiving your order form if it is filled out properly. By following this procedure, the office will function more \\_18\\_, and we can be sure that we will always have quality supplies on hand when we need them. We will also avoid the problem of ordering supplies that we already have. Thank you for your cooperation.\n\n16. (A) essence 18. (A) smooth  \n(B) essential (B) smoothly  \n(C) essentials (C) smoother  \n(D) essentially (D) smoothness\n\n17. (A) obtaining (B) to obtain (C) obtains (D) obtain",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following letter and memo.\n\nApril 12\n\nDear Business Owner,\n\nThe Supply Closet, Inc., is a new office supply store in your neighborhood. We opened last month right across the street from the post office. We are your local source for quality office supplies, including all office stationery, packing materials, folders, pens, note pads, and more. We provide you with the everyday items you need to keep your business functioning smoothly. In order to introduce ourselves to you, we are enclosing a coupon for 20 percent off your entire purchase during your first visit to the Supply Closet. Please visit us soon.\n\nSincerely yours,\n\nMartha and Bill Heywood Owners\n\nCoupon expires June 30.\n\n19. When did the Supply Closet open?\n(A) March.\n(B) April.\n(C) May.\n(D) June.\n\n20. What can a customer get during his first visit to the store?\n(A) A free pen.\n(B) An introduction.\n(C) A discount.\n(D) A stamp.\n\n21. Why doesn't James Riley like the Riverdale Supply Company?\n(A) It's too near the post office.\n(B) It doesn't function smoothly.\n(C) It's far from the neighborhood.\n(D) It doesn't have a variety of merchandise.\n\n## Memo\n\nTo: Gisela Freeman  \nFrom: James Riley  \nRe: New supply store\n\nPlease see the attached letter from the Supply Closet, Inc. I think we should try them out. I know we maintain an account with the Riverdale Supply Company, but I am not completely satisfied with them as a source for supplies. I would like to find a supplier with more diverse merchandise. I'd like you to visit the Supply Closet sometime this week and purchase some stationery. We need to do a big mailing at the beginning of May, so we'll need some manila envelopes and letter paper. You can use the coupon that came with the letter. Look at the items they have for sale and see how it compares with the Riverdale Supply Company. If it looks like they're a better source for supplies, we can start ordering from them regularly. Thank you.\n\n22. The word smoothly in line 8 of the letter is closest in meaning to  \n(A) easily  \n(B) quickly  \n(C) profitably  \n(D) carefully\n\n23. The word maintain in line 3 of the memo is closest in meaning to  \n(A) open  \n(B) pay  \n(C) apply  \n(D) keep"
+  },
+  "needs_review": true
+}

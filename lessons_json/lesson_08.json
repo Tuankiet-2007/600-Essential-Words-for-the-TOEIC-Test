@@ -1,0 +1,1613 @@
+{
+  "lesson_id": 8,
+  "title": "Office Procedures",
+  "theme_name": "Office Issues",
+  "audio_track": "track_08.mp3",
+  "part1_photo": "part1_photos/lesson_08.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "appreciation",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "recognition, understanding; thanks",
+      "definition_vi": "sự cảm kích, lòng biết ơn; sự đánh giá cao, sự ghi nhận; sự tăng giá trị (tài sản)",
+      "examples": [
+        {
+          "en": "In appreciation of your hard work on the Castcon project, the department will hold a casual lunch party on November third.",
+          "vi": "Để ghi nhận sự làm việc chăm chỉ của các bạn trong dự án Castcon, bộ phận sẽ tổ chức một bữa tiệc trưa thân mật vào ngày mùng 3 tháng 11."
+        },
+        {
+          "en": "Your appreciation of my efforts inspired me through the final stages of the construction.",
+          "vi": "Sự trân trọng của bạn đối với những nỗ lực của tôi đã truyền cảm hứng cho tôi vượt qua những giai đoạn cuối cùng của công trình xây dựng."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "appreciation",
+          "example": "In appreciation for your hard work, we are giving you a top-priority project."
+        },
+        {
+          "pos": "verb",
+          "word": "appreciate",
+          "example": "We appreciate the time that you have put into this project, but we need to see more positive results."
+        },
+        {
+          "pos": "adjective",
+          "word": "appreciated",
+          "example": "The intern felt appreciated, like a member of the team."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "in appreciation of",
+        "express appreciation",
+        "show appreciation for",
+        "deep appreciation"
+      ],
+      "usage": {
+        "structures": [
+          "in appreciation of / for + N (để bày tỏ lòng biết ơn/ghi nhận đối với...)",
+          "appreciate + N / V-ing (trân trọng/cảm kích việc gì - sau appreciate là V-ing)"
+        ],
+        "prepositions": [
+          "in",
+          "of",
+          "for"
+        ],
+        "collocations": [
+          "token of appreciation",
+          "certificate of appreciation",
+          "sincere appreciation",
+          "greatly appreciate"
+        ],
+        "tip": "Cụm giới từ mở đầu câu 'In appreciation of your hard work / loyalty...' (Để tri ân sự cống hiến/gắn bó của bạn...) xuất hiện rất nhiều trong thư từ nội bộ TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "appreciative",
+          "example": "The charity organization was deeply appreciative of our company's generous donation.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "appreciatively",
+          "example": "The audience nodded appreciatively as the director thanked the technical crew.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "We would greatly _____ it if you could return the signed contract by the end of the week.",
+        "answer": "appreciate",
+        "base_word": "appreciation",
+        "pos_hint": "động từ nguyên mẫu (sau 'would')",
+        "vi": "Chúng tôi sẽ vô cùng cảm kích nếu bạn có thể gửi lại bản hợp đồng đã ký trước cuối tuần này."
+      }
+    },
+    {
+      "id": 2,
+      "word": "be made of",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to consist of",
+      "definition_vi": "được làm bằng (chất liệu gì); có phẩm chất/bản lĩnh gì",
+      "examples": [
+        {
+          "en": "This job will really test what you are made of.",
+          "vi": "Công việc này sẽ thực sự thử thách xem bản lĩnh của bạn đến đâu."
+        },
+        {
+          "en": "People say that the negotiator has nerves made of steel.",
+          "vi": "Mọi người nói rằng nhà đàm phán đó có tinh thần thép."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "be made of wood",
+        "be made of recycled materials",
+        "see what sb is made of",
+        "nerves made of steel"
+      ],
+      "usage": {
+        "structures": [
+          "be made of + chất liệu (giữ nguyên bản chất vật lý như gỗ, kim loại, nhựa)",
+          "what + sb + be made of (bản lĩnh/phẩm chất tiềm ẩn của ai)"
+        ],
+        "prepositions": [
+          "of",
+          "from",
+          "by"
+        ],
+        "collocations": [
+          "be made of stainless steel",
+          "be made of solid oak",
+          "be made of durable plastic",
+          "custom-made"
+        ],
+        "tip": "'Be made of' chỉ chất liệu nhìn thấy rõ (made of wood/glass), 'be made from' chỉ nguyên liệu đã biến đổi (paper is made from trees), nhưng trong nghĩa bóng 'see what you are made of' có nghĩa là 'xem bản lĩnh/năng lực của bạn thế nào'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "make",
+          "example": "The factory makes precision components for the aerospace industry.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "maker",
+          "example": "The automaker announced plans to launch three electric vehicles next year.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "making",
+          "example": "This documentary was three years in the making.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "made",
+          "example": "All of our chocolates are freshly made on the premises every morning.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "All of our eco-friendly packaging boxes are _____ of 100 percent post-consumer recycled cardboard.",
+        "answer": "made",
+        "base_word": "be made of",
+        "pos_hint": "quá khứ phân từ (V3/ed)",
+        "vi": "Tất cả các hộp bao bì thân thiện với môi trường của chúng tôi đều được làm từ 100% bìa cứng tái chế sau tiêu dùng."
+      }
+    },
+    {
+      "id": 3,
+      "word": "bring in",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to hire or recruit; to cause to appear",
+      "definition_vi": "tuyển dụng, mời thêm (chuyên gia, nhân sự từ bên ngoài vào); mang lại (doanh thu, lợi nhuận)",
+      "examples": [
+        {
+          "en": "The company president wanted to bring on an efficiency consultant.",
+          "vi": "Chủ tịch công ty muốn mời thêm một chuyên gia tư vấn hiệu suất làm việc."
+        },
+        {
+          "en": "The company brought in a new team of project planners.",
+          "vi": "Công ty đã đưa vào một đội ngũ lập kế hoạch dự án mới."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "bring in a consultant",
+        "bring in new clients",
+        "bring in revenue",
+        "bring in experts"
+      ],
+      "usage": {
+        "structures": [
+          "bring in + sb (hire / recruit an outside specialist)",
+          "bring in + tiền/doanh thu (generate revenue / profits)"
+        ],
+        "prepositions": [
+          "in",
+          "on"
+        ],
+        "collocations": [
+          "bring in outside help",
+          "bring in new business",
+          "bring in a verdict",
+          "bring in new regulations"
+        ],
+        "tip": "Trong TOEIC, 'bring in' có 2 nghĩa rất hay gặp: (1) thuê chuyên gia/nhân sự bên ngoài vào hỗ trợ, và (2) mang về doanh thu hoặc khách hàng mới."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "bring",
+          "example": "Please remember to bring your identification card to the training session.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "brought",
+          "example": "The expertise brought by our new director has revitalized the sales team.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "To resolve the complex tax audit, the board _____ in an independent accounting firm last month.",
+        "answer": "brought",
+        "base_word": "bring in",
+        "pos_hint": "động từ chia quá khứ đơn (V2)",
+        "vi": "Để giải quyết cuộc kiểm toán thuế phức tạp, hội đồng quản trị đã mời vào một công ty kế toán độc lập hồi tháng trước."
+      }
+    },
+    {
+      "id": 4,
+      "word": "casually",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "informally",
+      "definition_vi": "một cách thoải mái, thân mật, không trang trọng (trang phục, lời nói); tình cờ",
+      "examples": [
+        {
+          "en": "On Fridays, most employees dress casually.",
+          "vi": "Vào các ngày thứ Sáu, hầu hết nhân viên đều ăn mặc thoải mái."
+        },
+        {
+          "en": "Martin spoke casually, as if he were chatting with friends.",
+          "vi": "Martin nói chuyện một cách tự nhiên thoải mái như thể anh đang tán gẫu với bạn bè."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "dress casually",
+        "mention casually",
+        "speak casually",
+        "casual attire"
+      ],
+      "usage": {
+        "structures": [
+          "dress + casually (ăn mặc giản dị/thoải mái)",
+          "casual + N (attire / wear / Friday / dining)"
+        ],
+        "prepositions": [
+          "in"
+        ],
+        "collocations": [
+          "business casual",
+          "casual conversation",
+          "casual observer",
+          "casually dressed"
+        ],
+        "tip": "Gắn liền với văn hóa công sở trong TOEIC: 'dress casually' (mặc đồ tự do thoải mái) và 'business casual' (trang phục công sở lịch sự nhưng không cần comple/cà vạt)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "casualness",
+          "example": "Despite the casualness of the lunch meeting, several key decisions were made.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "casual",
+          "example": "Employees are permitted to wear casual attire on Fridays during the summer.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "casually",
+          "example": "She casually remarked that she might apply for the branch manager position.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Although the company picnic is a _____ event, employees are still expected to behave professionally.",
+        "answer": "casual",
+        "base_word": "casually",
+        "pos_hint": "tính từ (bổ nghĩa cho danh từ 'event')",
+        "vi": "Mặc dù buổi dã ngoại của công ty là một sự kiện thân mật thoải mái, nhân viên vẫn được kỳ vọng sẽ cư xử chuyên nghiệp."
+      }
+    },
+    {
+      "id": 5,
+      "word": "code",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "rules of behavior",
+      "definition_vi": "quy tắc ứng xử, bộ luật; mã số, mật mã (n.); mã hóa, lập trình (v.)",
+      "examples": [
+        {
+          "en": "The new employees observed the unwritten code of conduct in their first week on the job.",
+          "vi": "Các nhân viên mới đã quan sát quy tắc ứng xử bất thành văn trong tuần đầu tiên làm việc."
+        },
+        {
+          "en": "Even the most traditional companies are changing their dress code to something less formal.",
+          "vi": "Ngay cả những công ty truyền thống nhất cũng đang thay đổi quy định về trang phục của họ theo hướng bớt trang trọng hơn."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "code",
+          "example": "The programmer spent three days searching for the bug in his code."
+        },
+        {
+          "pos": "",
+          "word": "coded",
+          "example": "Their web page contained a coded message for insiders."
+        },
+        {
+          "pos": "",
+          "word": "code",
+          "example": "If we code the password into each user's ID number, can users avoid one step for logging on?"
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "dress code",
+        "code of conduct",
+        "postal code",
+        "building code"
+      ],
+      "usage": {
+        "structures": [
+          "code of conduct / ethics (quy tắc ứng xử / đạo đức nghề nghiệp)",
+          "dress / safety / building / fire code (quy định về trang phục / an toàn / xây dựng / phòng cháy)"
+        ],
+        "prepositions": [
+          "of",
+          "in"
+        ],
+        "collocations": [
+          "zip code",
+          "area code",
+          "promotional code",
+          "color-coded files"
+        ],
+        "tip": "Hai cụm danh từ 'dress code' (quy định trang phục) và 'code of conduct' (quy tắc ứng xử) xuất hiện cực nhiều trong sổ tay nhân viên (employee handbook) ở Part 7."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "coder",
+          "example": "The hospital hired two medical coders to process insurance claims.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Filing cabinets in the medical clinic use _____ labels so staff can locate patient charts quickly.",
+        "answer": "coded",
+        "base_word": "code",
+        "pos_hint": "tính từ (V3/ed)",
+        "vi": "Các tủ hồ sơ tại phòng khám y tế sử dụng nhãn được mã hóa để nhân viên có thể tìm bệnh án nhanh chóng."
+      }
+    },
+    {
+      "id": 6,
+      "word": "expose",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to make aware; to give experience",
+      "definition_vi": "cho tiếp xúc với, giúp làm quen/trải nghiệm; phơi bày, vạch trần; để lộ ra",
+      "examples": [
+        {
+          "en": "Mergers require that employees be exposed to different business practices.",
+          "vi": "Các vụ sáp nhập đòi hỏi nhân viên phải được tiếp xúc với những thông lệ kinh doanh khác nhau."
+        },
+        {
+          "en": "The new hires' week in each department exposed them to the various functions in the company.",
+          "vi": "Một tuần làm việc tại mỗi phòng ban của các nhân viên mới đã giúp họ được tiếp cận với các chức năng đa dạng trong công ty."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "expose",
+          "example": "As a matter of company policy, we try to expose all managers to the challenging work of telephone sales through hands-on experience."
+        },
+        {
+          "pos": "",
+          "word": "exposure",
+          "example": "Exposure to the elements will corrode the container for the sensor."
+        },
+        {
+          "pos": "",
+          "word": "exposed",
+          "example": "Mr. Lee was exposed to Chinese business practices during his three-year assignment as a manager in Beijing."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "expose sb to sth",
+        "be exposed to",
+        "media exposure",
+        "exposure to sunlight"
+      ],
+      "usage": {
+        "structures": [
+          "expose + sb/sth + to + N (cho ai/cái gì tiếp xúc với cái gì)",
+          "be exposed to + N (được tiếp cận với trải nghiệm mới / bị phơi nhiễm với nhiệt, hóa chất)"
+        ],
+        "prepositions": [
+          "to"
+        ],
+        "collocations": [
+          "gain exposure to",
+          "prolonged exposure",
+          "public exposure",
+          "expose a flaw"
+        ],
+        "tip": "Cả động từ 'expose' và danh từ 'exposure' đều luôn đi kèm với giới từ 'to' (be exposed to / exposure to)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "expose",
+          "example": "The internship program is designed to expose students to international banking.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "exposure",
+          "example": "Positive media exposure helped the startup attract its first thousand customers.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "exposed",
+          "example": "Outdoor electrical cables must be covered so that no wires are left exposed.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The summer internship gives college students valuable _____ to real-world corporate finance.",
+        "answer": "exposure",
+        "base_word": "expose",
+        "pos_hint": "danh từ không đếm được",
+        "vi": "Kỳ thực tập mùa hè mang lại cho sinh viên đại học cơ hội tiếp xúc quý giá với ngành tài chính doanh nghiệp thực tế."
+      }
+    },
+    {
+      "id": 7,
+      "word": "glimpse",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a quick look",
+      "definition_vi": "cái nhìn thoáng qua, sự trải nghiệm/hiểu biết sơ bộ (n.); nhìn thoáng thấy (v.)",
+      "examples": [
+        {
+          "en": "The secretary caught a glimpse of her new boss as she was leaving the office.",
+          "vi": "Cô thư ký đã thoáng nhìn thấy người sếp mới của mình khi bà ấy đang rời khỏi văn phòng."
+        },
+        {
+          "en": "After one year with the company, he still felt as though he had only a glimpse of the overall operations.",
+          "vi": "Sau một năm làm việc tại công ty, anh vẫn cảm thấy như thể mình mới chỉ có một cái nhìn sơ bộ về hoạt động tổng thể."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "catch a glimpse of",
+        "get a glimpse of",
+        "a glimpse into",
+        "brief glimpse"
+      ],
+      "usage": {
+        "structures": [
+          "catch / get a glimpse of + N (nhìn thoáng thấy / có cái nhìn sơ lược về)",
+          "offer / provide a glimpse into + N (hé lộ cái nhìn về...)"
+        ],
+        "prepositions": [
+          "of",
+          "into",
+          "at"
+        ],
+        "collocations": [
+          "rare glimpse",
+          "quick glimpse",
+          "sneak a glimpse",
+          "glimpse the future"
+        ],
+        "tip": "Ghi nhớ cụm cố định 'catch/get a glimpse of' (nhìn thoáng qua) và 'give/offer a glimpse into' (mang lại góc nhìn hé lộ về điều gì)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "glimpse",
+          "example": "Commuters glimpsed the new high-speed train during its test run this morning.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "glimpse",
+          "example": "The factory tour offers visitors a fascinating glimpse into how cars are built.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The documentary provides viewers with a rare _____ into the daily life of deep-sea researchers.",
+        "answer": "glimpse",
+        "base_word": "glimpse",
+        "pos_hint": "danh từ số ít",
+        "vi": "Bộ phim tài liệu mang đến cho khán giả một cái nhìn hiếm hoi về cuộc sống hàng ngày của các nhà nghiên cứu biển sâu."
+      }
+    },
+    {
+      "id": 8,
+      "word": "out of",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "no longer having, missing",
+      "definition_vi": "hết, cạn kiệt, không còn nữa; ra khỏi",
+      "examples": [
+        {
+          "en": "Orders should be placed before you run out of the supplies.",
+          "vi": "Các đơn đặt hàng nên được thực hiện trước khi bạn dùng hết sạch văn phòng phẩm."
+        },
+        {
+          "en": "The presenter ran out of time before he reached his conclusion.",
+          "vi": "Người thuyết trình đã hết thời gian trước khi đi đến phần kết luận của mình."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "run out of",
+        "out of stock",
+        "out of print",
+        "out of order"
+      ],
+      "usage": {
+        "structures": [
+          "run out of + N (dùng hết, cạn kiệt cái gì)",
+          "be out of + N (time / stock / money / work / order)"
+        ],
+        "prepositions": [
+          "of"
+        ],
+        "collocations": [
+          "out of business",
+          "out of date",
+          "out of reach",
+          "out of town"
+        ],
+        "tip": "Các cụm 'run out of (supplies/time)', 'out of stock' (hết hàng), 'out of order' (hỏng máy), 'out of town' (đi vắng) xuất hiện với tần suất dày đặc trong mọi phần thi TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "outer",
+          "example": "Please remove the outer packaging before placing the tray in the oven.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "outwardly",
+          "example": "The negotiator remained outwardly calm despite the tense atmosphere.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The vending machine on the third floor is currently _____ of order, so please use the one in the lobby.",
+        "answer": "out",
+        "base_word": "out of",
+        "pos_hint": "giới từ / tính từ (trong cụm 'out of order')",
+        "vi": "Máy bán hàng tự động ở tầng ba hiện đang bị hỏng, vì vậy vui lòng sử dụng máy ở sảnh."
+      }
+    },
+    {
+      "id": 9,
+      "word": "outdated",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "obsolete; not currently in use",
+      "definition_vi": "lỗi thời, lạc hậu, không còn hợp thời/hiệu lực",
+      "examples": [
+        {
+          "en": "The purpose of the seminar is to have employees identify outdated methods and procedures.",
+          "vi": "Mục đích của buổi hội thảo là để nhân viên xác định các phương pháp và quy trình đã lỗi thời."
+        },
+        {
+          "en": "Before you do a mailing, make sure that none of the addresses is outdated.",
+          "vi": "Trước khi bạn gửi thư hàng loạt, hãy đảm bảo rằng không có địa chỉ nào bị lỗi thời."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "outdated equipment",
+        "outdated software",
+        "outdated methods",
+        "replace outdated systems"
+      ],
+      "usage": {
+        "structures": [
+          "be / become / seem + outdated",
+          "outdated + N (equipment / technology / regulations / information)"
+        ],
+        "prepositions": [
+          "by"
+        ],
+        "collocations": [
+          "outdated machinery",
+          "outdated policies",
+          "completely outdated",
+          "outdated contact information"
+        ],
+        "tip": "'Outdated' hoàn toàn đồng nghĩa với 'obsolete' và 'out of date' (lạc hậu, lỗi thời), rất hay gặp trong ngữ cảnh nâng cấp máy móc/quy trình văn phòng."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "outdate",
+          "example": "Rapid advances in artificial intelligence quickly outdate older software tools.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "verb",
+          "word": "update",
+          "example": "Please update your emergency contact details on the employee portal.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "outdated",
+          "example": "The factory is replacing its outdated assembly machines with automated robots.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Our accounting department is finally upgrading its _____ computer system next month.",
+        "answer": "outdated",
+        "base_word": "outdated",
+        "pos_hint": "tính từ",
+        "vi": "Phòng kế toán của chúng tôi cuối cùng cũng sẽ nâng cấp hệ thống máy tính đã lỗi thời của mình vào tháng tới."
+      }
+    },
+    {
+      "id": 10,
+      "word": "practice",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "method of doing something; v., to repeat in order to learn",
+      "definition_vi": "thói quen, thông lệ, phương pháp làm việc; sự thực hành (n.); luyện tập, thực thi (v.)",
+      "examples": [
+        {
+          "en": "The manager had started her practice of weekly breakfast meetings more than twenty years ago.",
+          "vi": "Bà quản lý đã bắt đầu thông lệ tổ chức các cuộc họp ăn sáng hàng tuần từ hơn hai mươi năm trước."
+        },
+        {
+          "en": "Bill practiced answering the telephone until he was satisfied.",
+          "vi": "Bill đã luyện tập trả lời điện thoại cho đến khi anh ấy cảm thấy hài lòng."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "practice",
+          "example": "He was surprised at the difference in office practices from one local office to another."
+        },
+        {
+          "pos": "",
+          "word": "practice",
+          "example": "All managers are expected to practice caution in their spending until the end of the year."
+        },
+        {
+          "pos": "adjective",
+          "word": "practical",
+          "example": "We need a practical solution to this common problem."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "standard practice",
+        "best practices",
+        "business practices",
+        "put into practice"
+      ],
+      "usage": {
+        "structures": [
+          "practice + N / V-ing (luyện tập làm gì - sau practice là V-ing)",
+          "put + N + into practice (đưa ý tưởng/kế hoạch vào thực tiễn)"
+        ],
+        "prepositions": [
+          "in",
+          "into",
+          "of"
+        ],
+        "collocations": [
+          "common practice",
+          "in practice",
+          "medical practice",
+          "practical experience"
+        ],
+        "tip": "Trong TOEIC, danh từ đếm được 'practice(s)' thường không dịch là 'sự luyện tập' mà dịch là 'thông lệ / phương thức làm việc' (standard business practices)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "practitioner",
+          "example": "The conference brings together legal scholars and experienced practitioners.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "practically",
+          "example": "The new high-speed train has practically cut our travel time in half.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "It is standard _____ at our hotel to request a credit card upon check-in for incidental charges.",
+        "answer": "practice",
+        "base_word": "practice",
+        "pos_hint": "danh từ (thông lệ)",
+        "vi": "Việc yêu cầu thẻ tín dụng khi nhận phòng để thanh toán các chi phí phát sinh là thông lệ tiêu chuẩn tại khách sạn của chúng tôi."
+      }
+    },
+    {
+      "id": 11,
+      "word": "reinforce",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to strengthen, support",
+      "definition_vi": "củng cố, tăng cường, làm vững chắc thêm (ý kiến, kiến thức, kết cấu)",
+      "examples": [
+        {
+          "en": "The financial officer's unconventional method of analyzing data was reinforced by the business journal article.",
+          "vi": "Phương pháp phân tích dữ liệu khác thường của vị giám đốc tài chính đã được củng cố bởi bài báo trên tạp chí kinh doanh."
+        },
+        {
+          "en": "Employees reinforced their learning with practice in the workplace.",
+          "vi": "Nhân viên đã củng cố những gì họ học được bằng việc thực hành tại nơi làm việc."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "reinforce",
+          "example": "The practical training reinforced the theoretical studies."
+        },
+        {
+          "pos": "noun",
+          "word": "reinforcement",
+          "example": "If reinforcement is needed, you have the support of the executive committee."
+        },
+        {
+          "pos": "",
+          "word": "reinforcing",
+          "example": "Reinforcing the preferred way of selling the product was one of their job requirements."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "reinforce a message",
+        "reinforce learning",
+        "reinforced concrete",
+        "mutually reinforcing"
+      ],
+      "usage": {
+        "structures": [
+          "reinforce + N (belief / image / structure / commitment) (with/by + N)"
+        ],
+        "prepositions": [
+          "with",
+          "by"
+        ],
+        "collocations": [
+          "reinforce safety rules",
+          "reinforce brand loyalty",
+          "positive reinforcement",
+          "reinforce steel beams"
+        ],
+        "tip": "Vừa dùng theo nghĩa đen trong xây dựng (reinforce the bridge/concrete: gia cố cầu/bê tông cốt thép) vừa dùng theo nghĩa bóng (reinforce a reputation/idea: củng cố uy tín/quan điểm)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "reinforced",
+          "example": "The warehouse floor is built of reinforced concrete to support heavy forklifts.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Winning the industry award has further _____ our company's reputation for excellence.",
+        "answer": "reinforced",
+        "base_word": "reinforce",
+        "pos_hint": "động từ chia quá khứ phân từ (V3/ed)",
+        "vi": "Việc giành được giải thưởng của ngành đã củng cố thêm danh tiếng xuất sắc của công ty chúng ta."
+      }
+    },
+    {
+      "id": 12,
+      "word": "verbally",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "in spoken form",
+      "definition_vi": "bằng lời nói, bằng miệng (chứ không phải bằng văn bản)",
+      "examples": [
+        {
+          "en": "She verbally reprimanded the new hire in front of his entire team.",
+          "vi": "Bà đã khiển trách bằng lời đối với nhân viên mới trước mặt toàn bộ nhóm của anh ta."
+        },
+        {
+          "en": "The guarantee was made only verbally.",
+          "vi": "Lời bảo đảm đó chỉ được đưa ra bằng miệng."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "verbally",
+          "example": "No employees should be verbally reprimanded in front of their peers."
+        },
+        {
+          "pos": "",
+          "word": "verbalize",
+          "example": "Well-established procedures are often difficult to verbalize."
+        },
+        {
+          "pos": "",
+          "word": "verbal",
+          "example": "The company operated on a practice of verbal and not written contracts."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "verbally agree",
+        "verbally notify",
+        "communicate verbally",
+        "verbal agreement"
+      ],
+      "usage": {
+        "structures": [
+          "verbally + V / V3-ed (verbally agreed / reprimanded / abused)",
+          "V + verbally (communicate / confirm verbally)"
+        ],
+        "prepositions": [
+          "to",
+          "with"
+        ],
+        "collocations": [
+          "verbal contract",
+          "verbal warning",
+          "verbal skills",
+          "both verbally and in writing"
+        ],
+        "tip": "Trong TOEIC, 'verbally' (bằng miệng/lời nói) luôn được đặt đối lập với 'in writing' (bằng văn bản)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "verbalization",
+          "example": "Clear verbalization of safety rules is essential during factory orientations.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Any changes to the project scope must be confirmed in writing rather than just _____.",
+        "answer": "verbally",
+        "base_word": "verbally",
+        "pos_hint": "trạng từ",
+        "vi": "Bất kỳ thay đổi nào đối với phạm vi dự án đều phải được xác nhận bằng văn bản chứ không chỉ bằng lời nói."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. How many employees show any (1) ____ for their corporate culture? How many executives appreciate what their corporate culture is and what it is (2) ____? It is often (3) ____ by the office procedures and routines that have been established over the years. A manager made her mark twenty years ago by dressing (4) ____, thereby forever changing the dress (5) ____. A director bought from the competition when he ran (6) ____ stock and the practice soon became standard. These examples add to a company's culture. Good employees know what the standard procedures are. This is an important element in recruiting new employees, as well as training workers. When training workers, it is often important to have them read the procedures, write their reactions, and (7) ____ their opinions to these practices. This promotes a sense of cooperation between those who establish the (8) ____ and those who must follow them. Employees who have been with a company for many years may not be able to identify (9) ____ practices because they haven't (10) ____ anything else. What happens when a department needs an extra hand? Is a \"temp\" (11) ____, or is someone borrowed from another department? The new recruits often ask the questions that allow more senior employees to get a (12) ____ of the corporate culture.",
+    "word_bank": [
+      "appreciation",
+      "casually",
+      "made of",
+      "practices",
+      "been exposed to",
+      "code",
+      "out of",
+      "reinforced",
+      "brought in",
+      "glimpse",
+      "outdated",
+      "verbalize"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "appreciation",
+        "example": "In appreciation for your hard work, we are giving you a top-priority project.",
+        "pos": "noun"
+      },
+      {
+        "word": "appreciate",
+        "example": "We appreciate the time that you have put into this project, but we need to see more positive results.",
+        "pos": "verb"
+      },
+      {
+        "word": "appreciated",
+        "example": "The intern felt appreciated, like a member of the team.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "code",
+        "example": "The programmer spent three days searching for the bug in his code.",
+        "pos": "noun"
+      },
+      {
+        "word": "coded",
+        "example": "Their web page contained a coded message for insiders.",
+        "pos": ""
+      },
+      {
+        "word": "code",
+        "example": "If we code the password into each user's ID number, can users avoid one step for logging on?",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "practice",
+        "example": "He was surprised at the difference in office practices from one local office to another.",
+        "pos": "noun"
+      },
+      {
+        "word": "practice",
+        "example": "All managers are expected to practice caution in their spending until the end of the year.",
+        "pos": ""
+      },
+      {
+        "word": "practical",
+        "example": "We need a practical solution to this common problem.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "reinforce",
+        "example": "The practical training reinforced the theoretical studies.",
+        "pos": ""
+      },
+      {
+        "word": "reinforcement",
+        "example": "If reinforcement is needed, you have the support of the executive committee.",
+        "pos": "noun"
+      },
+      {
+        "word": "reinforcing",
+        "example": "Reinforcing the preferred way of selling the product was one of their job requirements.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "verbally",
+        "example": "No employees should be verbally reprimanded in front of their peers.",
+        "pos": ""
+      },
+      {
+        "word": "verbalize",
+        "example": "Well-established procedures are often difficult to verbalize.",
+        "pos": ""
+      },
+      {
+        "word": "verbal",
+        "example": "The company operated on a practice of verbal and not written contracts.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "Ms. Handa was unable to express her ____ for all that her colleagues had done for her.",
+        "options": [
+          {
+            "label": "A",
+            "text": "appreciation"
+          },
+          {
+            "label": "B",
+            "text": "appreciated"
+          },
+          {
+            "label": "C",
+            "text": "appreciating"
+          },
+          {
+            "label": "D",
+            "text": "appreciates"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "The programmer is ____ the message so that it's not accessible to everyone.",
+        "options": [
+          {
+            "label": "A",
+            "text": "code"
+          },
+          {
+            "label": "B",
+            "text": "coding"
+          },
+          {
+            "label": "C",
+            "text": "coded"
+          },
+          {
+            "label": "D",
+            "text": "coder"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "It looks like this disk was ____ to intense heat, because it's warped and pocked.",
+        "options": [
+          {
+            "label": "A",
+            "text": "expose"
+          },
+          {
+            "label": "B",
+            "text": "exposed"
+          },
+          {
+            "label": "C",
+            "text": "exposing"
+          },
+          {
+            "label": "D",
+            "text": "exposure"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "The ____ of answering each telephone call on the third ring requires a dedicated receptionist.",
+        "options": [
+          {
+            "label": "A",
+            "text": "practices"
+          },
+          {
+            "label": "B",
+            "text": "practical"
+          },
+          {
+            "label": "C",
+            "text": "practiced"
+          },
+          {
+            "label": "D",
+            "text": "practice"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "Human Resources tries to ____ employees' understanding by offering workshops twice a year.",
+        "options": [
+          {
+            "label": "A",
+            "text": "reinforce"
+          },
+          {
+            "label": "B",
+            "text": "reinforcing"
+          },
+          {
+            "label": "C",
+            "text": "reinforced"
+          },
+          {
+            "label": "D",
+            "text": "reinforcement"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "Senior employees are often asked to ____ office procedures.",
+        "options": [
+          {
+            "label": "A",
+            "text": "verbally"
+          },
+          {
+            "label": "B",
+            "text": "verbalize"
+          },
+          {
+            "label": "C",
+            "text": "verbal"
+          },
+          {
+            "label": "D",
+            "text": "verbalizing"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Notice—Casual Fridays A number of staff members have expressed an interest in Casual Friday. I realize that this custom [16] in many offices nowadays. I appreciate the fact that many of you have discussed this matter with me [17], and pointed out that our strict dress code is outdated. Because so many people have expressed an interest in dressing casually once a week, we will have Casual Friday in this office starting next week. While we want to be relaxed, we do not want [18] our coworkers to styles of dress that may make them feel uncomfortable. So, while the dress code will be relaxed, it does not mean that you can wear anything you want. Shoes and shirts are required, and beach and gym attire are unacceptable. Amanda Jones, Director",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "practices"
+            },
+            {
+              "label": "B",
+              "text": "practiced"
+            },
+            {
+              "label": "C",
+              "text": "is practiced"
+            },
+            {
+              "label": "D",
+              "text": "is practicing"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "verb"
+            },
+            {
+              "label": "B",
+              "text": "verbal"
+            },
+            {
+              "label": "C",
+              "text": "verbally"
+            },
+            {
+              "label": "D",
+              "text": "verbalize"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "expose"
+            },
+            {
+              "label": "B",
+              "text": "to expose"
+            },
+            {
+              "label": "C",
+              "text": "exposing"
+            },
+            {
+              "label": "D",
+              "text": "have exposed"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following article. When you bring in a new employee, it is important to make sure that he or she understands the usual office procedures as well as the codes of behavior. These things should be outlined clearly in the employee handbook. New employees should understand that they are expected to do more than just glimpse at the handbook and then hide it in a drawer. A thorough reading of it will help them understand many things they need to know about the workplace culture. Employees also appreciate verbal reinforcement. Supervisors should let them know when they have completed a job well, or if they are bending the rules too far. More experienced coworkers can be asked to support new employees while they are getting used to their new positions and explain procedures to them, but ultimately it is the supervisor's responsibility to make sure that the normal office practices are carried out. When everyone understands what is expected, then the office procedures run more smoothly. In fact, it is not a bad idea to review the codes and procedures with the entire staff from time to time. This can be done on a regular basis at staff meetings, or it can be part of a training session. 23. The word codes in line 3, is closest in meaning to (A) rules (B) lessons (C) mistakes (D) types",
+        "questions": [
+          {
+            "number": 19,
+            "question": "What should new employees do with the handbook?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Read it quickly."
+              },
+              {
+                "label": "B",
+                "text": "Study it completely."
+              },
+              {
+                "label": "C",
+                "text": "Hide it in a drawer."
+              },
+              {
+                "label": "D",
+                "text": "Share it with coworkers."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "What should the supervisor do when an employee breaks a rule?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Punish her."
+              },
+              {
+                "label": "B",
+                "text": "Fire her."
+              },
+              {
+                "label": "C",
+                "text": "Tell her."
+              },
+              {
+                "label": "D",
+                "text": "Retrain her."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "How can experienced coworkers help new employees?",
+            "options": [
+              {
+                "label": "A",
+                "text": "By writing a new handbook."
+              },
+              {
+                "label": "B",
+                "text": "By explaining office procedures."
+              },
+              {
+                "label": "C",
+                "text": "By inviting them to staff meetings."
+              },
+              {
+                "label": "D",
+                "text": "By telling the supervisor when a rule has been broken."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The words bring in in line 1, are closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "invite"
+              },
+              {
+                "label": "B",
+                "text": "train"
+              },
+              {
+                "label": "C",
+                "text": "hire"
+              },
+              {
+                "label": "D",
+                "text": "meet"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What will the woman tell the man about?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Hiring policies."
+          },
+          {
+            "label": "B",
+            "text": "Company practices."
+          },
+          {
+            "label": "C",
+            "text": "How to make a schedule."
+          },
+          {
+            "label": "D",
+            "text": "The employee's communication problems."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What problem has the man had?",
+        "options": [
+          {
+            "label": "A",
+            "text": "No one can explain things to him clearly."
+          },
+          {
+            "label": "B",
+            "text": "He never has time for anything."
+          },
+          {
+            "label": "C",
+            "text": "No one has time to talk to him."
+          },
+          {
+            "label": "D",
+            "text": "He isn't familiar with his coworkers."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "How does the woman suggest he reinforce their discussion?",
+        "options": [
+          {
+            "label": "A",
+            "text": "By talking to other employees."
+          },
+          {
+            "label": "B",
+            "text": "By practicing what he hears."
+          },
+          {
+            "label": "C",
+            "text": "By reviewing the schedule."
+          },
+          {
+            "label": "D",
+            "text": "By looking at the handbook."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "Who is the speaker?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A software trainer."
+          },
+          {
+            "label": "B",
+            "text": "A hardware salesman."
+          },
+          {
+            "label": "C",
+            "text": "A new computer owner."
+          },
+          {
+            "label": "D",
+            "text": "A scientist from R&D."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What will they do today?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Choose new software."
+          },
+          {
+            "label": "B",
+            "text": "Review their computer skills."
+          },
+          {
+            "label": "C",
+            "text": "Hire a specialist."
+          },
+          {
+            "label": "D",
+            "text": "Take apart the CPU."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What will they do after the speaker finishes?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Spend a lot of time practicing."
+          },
+          {
+            "label": "B",
+            "text": "Watch a television program."
+          },
+          {
+            "label": "C",
+            "text": "Have lunch."
+          },
+          {
+            "label": "D",
+            "text": "Attend a board meeting."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best response. 4. What will the woman tell the man about? (A) Hiring policies. (B) Company practices. (C) How to make a schedule. (D) The employee's communication problems. 5. What problem has the man had? (A) No one can explain things to him clearly. (B) He never has time for anything. (C) No one has time to talk to him. (D) He isn't familiar with his coworkers. 6. How does the woman suggest he reinforce their discussion? (A) By talking to other employees. (B) By practicing what he hears. (C) By reviewing the schedule. (D) By looking at the handbook. Listen to the talk. Then read each question and choose the best answer. 7. Who is the speaker? (A) A software trainer. (B) A hardware salesman. (C) A new computer owner. (D) A scientist from R&D. 8. What will they do today? (A) Choose new software. (B) Review their computer skills. (C) Hire a specialist. (D) Take apart the CPU. 9. What will they do after the speaker finishes? (A) Spend a lot of time practicing. (B) Watch a television program. (C) Have lunch. (D) Attend a board meeting.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What will the woman tell the man about?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Hiring policies."
+          },
+          {
+            "label": "B",
+            "text": "Company practices."
+          },
+          {
+            "label": "C",
+            "text": "How to make a schedule."
+          },
+          {
+            "label": "D",
+            "text": "The employee's communication problems."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What problem has the man had?",
+        "options": [
+          {
+            "label": "A",
+            "text": "No one can explain things to him clearly."
+          },
+          {
+            "label": "B",
+            "text": "He never has time for anything."
+          },
+          {
+            "label": "C",
+            "text": "No one has time to talk to him."
+          },
+          {
+            "label": "D",
+            "text": "He isn't familiar with his coworkers."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "How does the woman suggest he reinforce their discussion?",
+        "options": [
+          {
+            "label": "A",
+            "text": "By talking to other employees."
+          },
+          {
+            "label": "B",
+            "text": "By practicing what he hears."
+          },
+          {
+            "label": "C",
+            "text": "By reviewing the schedule."
+          },
+          {
+            "label": "D",
+            "text": "By looking at the handbook."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "Who is the speaker?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A software trainer."
+          },
+          {
+            "label": "B",
+            "text": "A hardware salesman."
+          },
+          {
+            "label": "C",
+            "text": "A new computer owner."
+          },
+          {
+            "label": "D",
+            "text": "A scientist from R&D."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What will they do today?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Choose new software."
+          },
+          {
+            "label": "B",
+            "text": "Review their computer skills."
+          },
+          {
+            "label": "C",
+            "text": "Hire a specialist."
+          },
+          {
+            "label": "D",
+            "text": "Take apart the CPU."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What will they do after the speaker finishes?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Spend a lot of time practicing."
+          },
+          {
+            "label": "B",
+            "text": "Watch a television program."
+          },
+          {
+            "label": "C",
+            "text": "Have lunch."
+          },
+          {
+            "label": "D",
+            "text": "Attend a board meeting."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "# Office Procedures\n\nStudy the following definitions and examples.\n\n1. appreciation n., recognition, understanding; thanks\n\na. In appreciation of your hard work on the Castcon project, the department will hold a casual lunch party on November third.\n\nb. Your appreciation of my efforts inspired me through the final stages of the construction.\n\n2. be made of v., to consist of\n\na. This job will really test what you are made of.\n\nb. People say that the negotiator has nerves made of steel.\n\n3. bring in v., to hire or recruit; to cause to appear\n\na. The company president wanted to bring on an efficiency consultant.\n\nb. The company brought in a new team of project planners.\n\n4. casually adv., informally\n\na. On Fridays, most employees dress casually.\n\nb. Martin spoke casually, as if he were chatting with friends.\n\n5. code n., rules of behavior\n\na. The new employees observed the unwritten code of conduct in their first week on the job.\n\nb. Even the most traditional companies are changing their dress code to something less formal.\n\n6. expose v., to make aware; to give experience\n\na. Mergers require that employees be exposed to different business practices.\n\nb. The new hires' week in each department exposed them to the various functions in the company.\n\n7. glimpse n., a quick look\n\na. The secretary caught a glimpse of her new boss as she was leaving the office.\n\nb. After one year with the company, he still felt as though he had only a glimpse of the overall operations.\n\n8. out of adj., no longer having, missing\n\na. Orders should be placed before you run out of the supplies.\n\nb. The presenter ran out of time before he reached his conclusion.\n\n9. outdated adj., obsolete; not currently in use a. The purpose of the seminar is to have employees identify outdated methods and procedures.\n\nb. Before you do a mailing, make sure that none of the addresses is outdated.\n\n10. practice n., method of doing something; v., to repeat in order to learn a. The manager had started her practice of weekly breakfast meetings more than twenty years ago.\n\nb. Bill practiced answering the telephone until he was satisfied.\n\n11. reinforce v., to strengthen, support a. The financial officer's unconventional method of analyzing data was reinforced by the business journal article.\n\nb. Employees reinforced their learning with practice in the workplace.\n\n12. verbally adv., in spoken form\n\na. She verbally reprimanded the new hire in front of his entire team.\n\nb. The guarantee was made only verbally.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\n| appreciation | casually | made of | practices |\n| --- | --- | --- | --- |\n| been exposed to | code | out of | reinforced |\n| brought in | glimpse | outdated | verbalize |\n\nHow many employees show any (1) \\_\\_\\_\\_ for their corporate culture? How many executives appreciate what their corporate culture is and what it is (2) \\_\\_\\_\\_? It is often (3) \\_\\_\\_\\_ by the office procedures and routines that have been established over the years. A manager made her mark twenty years ago by dressing (4) \\_\\_\\_\\_, thereby forever changing the dress (5) \\_\\_\\_\\_. A director bought from the competition when he ran (6) \\_\\_\\_\\_ stock and the practice soon became standard. These examples add to a company's culture.\n\nGood employees know what the standard procedures are. This is an important element in recruiting new employees, as well as training workers. When training workers, it is often important to have them read the procedures, write their reactions, and (7) \\_\\_\\_\\_ their opinions to these practices. This promotes a sense of cooperation between those who establish the (8) \\_\\_\\_\\_ and those who must follow them.\n\nEmployees who have been with a company for many years may not be able to identify (9) \\_\\_\\_\\_ practices because they haven't (10) \\_\\_\\_\\_ anything else. What happens when a department needs an extra hand? Is a \"temp\" (11) \\_\\_\\_\\_, or is someone borrowed from another department? The new recruits often ask the questions that allow more senior employees to get a (12) \\_\\_\\_\\_ of the corporate culture.",
+    "word_families": "## WORD FAMILIES\n\n| noun | appreciation | In appreciation for your hard work, we are giving you a top-priority project. |\n| --- | --- | --- |\n| verb | appreciate | We appreciate the time that you have put into this project, but we need to see more positive results. |\n| adjective | appreciated | The intern felt appreciated, like a member of the team. |\n\n| noun | code | The programmer spent three days searching for the bug in his code. |\n| --- | --- | --- |\n| i → | coded | Their web page contained a coded message for insiders. |\n| v# h | code | If we code the password into each user's ID number, can users avoid one step for logging on? |\n\n| noun | practice | He was surprised at the difference in office practices from one local office to another. |\n| --- | --- | --- |\n| ‘’ | practice | All managers are expected to practice caution in their spending until the end of the year. |\n| adjective | practical | We need a practical solution to this common problem. |\n\n| 1) | reinforce | The practical training reinforced the theoretical studies. |\n| --- | --- | --- |\n| noun | reinforcement | If reinforcement is needed, you have the support of the executive committee. |\n| 2) | reinforcing | Reinforcing the preferred way of selling the product was one of their job requirements. |\n\n<table><tr><td colspan=\"2\">verbally</td><td>No employees should be verbally reprimanded in front of their peers.</td></tr><tr><td colspan=\"2\">verbalize</td><td>Well-established procedures are often difficult to verbalize.</td></tr><tr><td colspan=\"2\">verbal</td><td>The company operated on a practice of verbal and not written contracts.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best response.\n\n4. What will the woman tell the man about?  \n(A) Hiring policies.  \n(B) Company practices.  \n(C) How to make a schedule.  \n(D) The employee's communication problems.\n\n5. What problem has the man had?\n(A) No one can explain things to him clearly.\n(B) He never has time for anything.\n(C) No one has time to talk to him.\n(D) He isn't familiar with his coworkers.\n\n6. How does the woman suggest he reinforce their discussion?\n(A) By talking to other employees.\n(B) By practicing what he hears.\n(C) By reviewing the schedule.\n(D) By looking at the handbook.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. Who is the speaker?\n(A) A software trainer.\n(B) A hardware salesman.\n(C) A new computer owner.\n(D) A scientist from R&D.\n\n8. What will they do today?\n(A) Choose new software.\n(B) Review their computer skills.\n(C) Hire a specialist.\n(D) Take apart the CPU.\n\n9. What will they do after the speaker finishes?\n(A) Spend a lot of time practicing.\n(B) Watch a television program.\n(C) Have lunch.\n(D) Attend a board meeting.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. Ms. Handa was unable to express her \\_\\_\\_\\_ for all that her colleagues had done for her.\n(A) appreciation (C) appreciating\n(B) appreciated (D) appreciates\n\n11. The programmer is \\_\\_\\_\\_ the message so that it's not accessible to everyone.\n(A) code (C) coded\n(B) coding (D) coder\n\n12. It looks like this disk was \\_\\_\\_\\_ to intense heat, because it's warped and pocked.\n(A) expose (C) exposing\n(B) exposed (D) exposure\n\n13. The \\_\\_\\_\\_ of answering each telephone call on the third ring requires a dedicated receptionist.\n(A) practices (C) practiced\n(B) practical (D) practice\n\n14. Human Resources tries to \\_\\_\\_\\_ employees' understanding by offering workshops twice a year.\n(A) reinforce (C) reinforced\n(B) reinforcing (D) reinforcement\n\n15. Senior employees are often asked to \\_\\_\\_\\_ office procedures.\n(A) verbally (C) verbal\n(B) verbalize (D) verbalizing\n\n## Part 6 Text Completion\n\n## Notice—Casual Fridays\n\nA number of staff members have expressed an interest in Casual Friday. I realize that this custom \\_16\\_ in many offices nowadays. I appreciate the fact that many of you have discussed this matter with me \\_17\\_, and pointed out that our strict dress code is outdated. Because so many people have expressed an interest in dressing casually once a week, we will have Casual Friday in this office starting next week. While we want to be relaxed, we do not want \\_18\\_ our coworkers to styles of dress that may make them feel uncomfortable. So, while the dress code will be relaxed, it does not mean that you can wear anything you want. Shoes and shirts are required, and beach and gym attire are unacceptable.\n\nAmanda Jones, Director\n\n16. (A) practices  \n(B) practiced  \n(C) is practiced  \n(D) is practicing\n\n17. (A) verb  \n(B) verbal  \n(C) verbally  \n(D) verbalize\n\n18. (A) expose  \n(B) to expose  \n(C) exposing  \n(D) have exposed",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following article.\n\nWhen you bring in a new employee, it is important to make sure that he or she understands the usual office procedures as well as the codes of behavior. These things should be outlined clearly in the employee handbook. New employees should understand that they are expected to do more than just glimpse at the handbook and then hide it in a drawer. A thorough reading of it will help them understand many things they need to know about the workplace culture. Employees also appreciate verbal reinforcement. Supervisors should let them know when they have completed a job well, or if they are bending the rules too far. More experienced coworkers can be asked to support new employees while they are getting used to their new positions and explain procedures to them, but ultimately it is the supervisor's responsibility to make sure that the normal office practices are carried out. When everyone understands what is expected, then the office procedures run more smoothly. In fact, it is not a bad idea to review the codes and procedures with the entire staff from time to time. This can be done on a regular basis at staff meetings, or it can be part of a training session.\n\n19. What should new employees do with the handbook?\n(A) Read it quickly.\n(B) Study it completely.\n(C) Hide it in a drawer.\n(D) Share it with coworkers.\n\n20. What should the supervisor do when an employee breaks a rule?\n(A) Punish her.\n(B) Fire her.\n(C) Tell her.\n(D) Retrain her.\n\n21. How can experienced coworkers help new employees?\n(A) By writing a new handbook.\n(B) By explaining office procedures.\n(C) By inviting them to staff meetings.\n(D) By telling the supervisor when a rule has been broken.\n\n22. The words bring in in line 1, are closest in meaning to  \n(A) invite  \n(B) train  \n(C) hire  \n(D) meet\n\n23. The word codes in line 3, is closest in meaning to (A) rules (B) lessons (C) mistakes (D) types"
+  },
+  "needs_review": true,
+  "_meta": {
+    "patched": true,
+    "patch_note": "Mot so dong duoc doc lai tu anh scan vi MinerU bo sot"
+  }
+}

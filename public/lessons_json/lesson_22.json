@@ -1,0 +1,1641 @@
+{
+  "lesson_id": 22,
+  "title": "Accounting",
+  "theme_name": "Financing and Budgeting",
+  "audio_track": "track_22.mp3",
+  "part1_photo": "part1_photos/lesson_22.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "accounting",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the recording and gathering of financial information for a company",
+      "definition_vi": "công việc kế toán, nghiệp vụ kế toán",
+      "examples": [
+        {
+          "en": "Good accounting is needed in all businesses.",
+          "vi": "Nghiệp vụ kế toán tốt là điều cần thiết trong mọi doanh nghiệp."
+        },
+        {
+          "en": "Accounting for expenses is time-consuming.",
+          "vi": "Việc hạch toán các khoản chi phí rất tốn thời gian."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "accountant",
+          "example": "The accountant was precise and hardworking."
+        },
+        {
+          "pos": "noun",
+          "word": "accounting",
+          "example": "Accounting is a popular field of study."
+        },
+        {
+          "pos": "",
+          "word": "account",
+          "example": "The client closed his bank account and withdrew all of his money."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "accounting department",
+        "accounting firm",
+        "accounting software",
+        "accounting standards"
+      ],
+      "usage": {
+        "structures": [
+          "work in accounting (làm việc trong ngành/bộ phận kế toán)",
+          "account for + N (chiếm tỷ lệ bao nhiêu / giải trình, hạch toán cho cái gì)"
+        ],
+        "prepositions": [
+          "for",
+          "in"
+        ],
+        "collocations": [
+          "financial accounting",
+          "accounting procedures",
+          "certified public accountant",
+          "accounting records"
+        ],
+        "tip": "Phân biệt danh từ chỉ ngành nghề 'accounting' (ngành/nghiệp vụ kế toán) và danh từ chỉ người 'accountant' (nhân viên kế toán)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "account",
+          "example": "Overseas sales account for nearly half of the corporation's annual revenue.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "accountable",
+          "example": "Department managers are held accountable for any discrepancies in their expense reports.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Our firm is looking to hire two experienced _____ before the end of the current fiscal quarter.",
+        "answer": "accountants",
+        "base_word": "accounting",
+        "pos_hint": "danh từ chỉ người số nhiều",
+        "vi": "Công ty chúng tôi đang tìm tuyển hai kế toán viên giàu kinh nghiệm trước khi kết thúc quý tài chính hiện tại."
+      }
+    },
+    {
+      "id": 2,
+      "word": "accumulate",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to gather; to collect",
+      "definition_vi": "tích lũy, gom góp, chất đống (theo thời gian)",
+      "examples": [
+        {
+          "en": "They have accumulated more than enough information.",
+          "vi": "Họ đã thu thập tích lũy được nhiều thông tin hơn mức cần thiết."
+        },
+        {
+          "en": "The bills started to accumulate after the secretary quit.",
+          "vi": "Các hóa đơn bắt đầu chất đống sau khi người thư ký nghỉ việc."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "accumulate",
+          "example": "The owner&#x27;s goal was to accumulate as much wealth as possible."
+        },
+        {
+          "pos": "",
+          "word": "accumulation",
+          "example": "The accumulation of goods may lead to an inventory problem."
+        },
+        {
+          "pos": "",
+          "word": "accumulated",
+          "example": "The sum of all the accumulated resources equals your total assets."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "accumulate wealth",
+        "accumulate interest",
+        "accumulate debt",
+        "accumulate points"
+      ],
+      "usage": {
+        "structures": [
+          "accumulate + N (tích lũy cái gì: tài sản, lãi suất, điểm thưởng)",
+          "accumulate over time (tích tụ dần theo thời gian)"
+        ],
+        "prepositions": [
+          "over",
+          "in",
+          "from"
+        ],
+        "collocations": [
+          "accumulate experience",
+          "accumulated depreciation",
+          "accumulate funds",
+          "gradually accumulate"
+        ],
+        "tip": "Vừa là ngoại động từ (tích lũy tiền bạc/kinh nghiệm) vừa là nội động từ (hóa đơn/nợ nần tự chất đống lên)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "accumulative",
+          "example": "The accumulative effect of small daily savings can be substantial over several decades.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "accumulatively",
+          "example": "Interest is calculated accumulatively over the entire duration of the bond.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The rapid _____ of unpaid invoices prompted the finance director to revise the credit policy.",
+        "answer": "accumulation",
+        "base_word": "accumulate",
+        "pos_hint": "danh từ",
+        "vi": "Sự tích tụ nhanh chóng của các hóa đơn chưa thanh toán đã thúc đẩy giám đốc tài chính sửa đổi chính sách tín dụng."
+      }
+    },
+    {
+      "id": 3,
+      "word": "asset",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "something of value",
+      "definition_vi": "tài sản; thứ có giá trị, vốn quý (của công ty/cá nhân)",
+      "examples": [
+        {
+          "en": "The company's assets are worth millions of dollars.",
+          "vi": "Tài sản của công ty trị giá hàng triệu đô la."
+        },
+        {
+          "en": "A sophisticated accounting system is an asset to a company.",
+          "vi": "Một hệ thống kế toán tinh vi là một tài sản quý giá đối với công ty."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "valuable asset",
+        "liquid assets",
+        "fixed assets",
+        "asset management"
+      ],
+      "usage": {
+        "structures": [
+          "be a great/valuable asset to + sb/sth (là một vốn quý/nhân tố quý giá đối với ai/tổ chức nào)",
+          "total assets (tổng tài sản)"
+        ],
+        "prepositions": [
+          "to",
+          "for",
+          "of"
+        ],
+        "collocations": [
+          "intangible assets",
+          "financial assets",
+          "corporate assets",
+          "protect assets"
+        ],
+        "tip": "Số nhiều 'assets' thường chỉ 'tài sản tài chính/bất động sản', còn số ít 'an asset to...' chỉ một nhân sự/yếu tố có giá trị lớn."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "assets",
+          "example": "The balance sheet lists all corporate assets and liabilities at the close of the fiscal year.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "asset-backed",
+          "example": "The investment bank specializes in issuing asset-backed securities to institutional clients.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Before approving the merger, regulators reviewed the combined _____ of both financial institutions.",
+        "answer": "assets",
+        "base_word": "asset",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Trước khi phê duyệt vụ sáp nhập, các cơ quan quản lý đã xem xét tổng tài sản chung của cả hai định chế tài chính."
+      }
+    },
+    {
+      "id": 4,
+      "word": "audit",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a formal examination of financial records; v., to examine the financial records of a company",
+      "definition_vi": "cuộc kiểm toán; (v.) kiểm toán, kiểm tra sổ sách tài chính",
+      "examples": [
+        {
+          "en": "No one looks forward to an audit by the government.",
+          "vi": "Không ai mong chờ một cuộc kiểm toán từ phía chính phủ cả."
+        },
+        {
+          "en": "The independent accountants audited the company's books.",
+          "vi": "Các kế toán viên độc lập đã kiểm toán sổ sách của công ty."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "audit",
+          "example": "Some bookkeeping inconsistencies showed up when our records were audited."
+        },
+        {
+          "pos": "",
+          "word": "audit",
+          "example": "If you keep your financial records carefully, you will always be ready for audit."
+        },
+        {
+          "pos": "noun",
+          "word": "auditor",
+          "example": "The tax auditor will ask to see records from the past several years."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "conduct an audit",
+        "annual audit",
+        "independent audit",
+        "internal auditor"
+      ],
+      "usage": {
+        "structures": [
+          "conduct/perform an audit of + N (tiến hành kiểm toán cái gì)",
+          "audit + financial records/accounts (kiểm toán hồ sơ/tài khoản tài chính)"
+        ],
+        "prepositions": [
+          "of",
+          "by"
+        ],
+        "collocations": [
+          "external audit",
+          "tax audit",
+          "financial audit",
+          "audit report"
+        ],
+        "tip": "Chú ý danh từ chỉ người 'auditor' (kiểm toán viên) và động từ 'conduct/undergo an audit' rất hay gặp trong đề TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "audited",
+          "example": "All publicly traded corporations must submit audited financial statements every year.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "An external _____ discovered several minor discrepancies in the subsidiary's travel expense records.",
+        "answer": "auditor",
+        "base_word": "audit",
+        "pos_hint": "danh từ chỉ người",
+        "vi": "Một kiểm toán viên độc lập bên ngoài đã phát hiện ra một số sai lệch nhỏ trong hồ sơ chi phí đi lại của công ty con."
+      }
+    },
+    {
+      "id": 5,
+      "word": "budget",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a list of probable expenses and income for a given period; v., to plan for expenses",
+      "definition_vi": "ngân sách; (v.) lập ngân sách, dự trù kinh phí; (adj.) giá rẻ, tiết kiệm",
+      "examples": [
+        {
+          "en": "The department head was pleased that she received a 10 percent increase in her budget.",
+          "vi": "Trưởng bộ phận rất hài lòng khi nhận được mức tăng 10 phần trăm trong ngân sách của mình."
+        },
+        {
+          "en": "The company will have to budget more money for this department next year.",
+          "vi": "Công ty sẽ phải dự trù thêm kinh phí cho bộ phận này vào năm tới."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "budget",
+          "example": "There was no travel expense budgeted for the editorial department."
+        },
+        {
+          "pos": "",
+          "word": "budget",
+          "example": "The boss asked for input on next year&#x27;s budget."
+        },
+        {
+          "pos": "",
+          "word": "budgetary",
+          "example": "Due to budgetary constraints, we cannot hire additional staff at this time."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "annual budget",
+        "within budget",
+        "budget constraints",
+        "allocate a budget"
+      ],
+      "usage": {
+        "structures": [
+          "stay/keep within budget (giữ chi tiêu trong phạm vi ngân sách)",
+          "budget + money/funds + for + sth (dự trù kinh phí cho việc gì)"
+        ],
+        "prepositions": [
+          "for",
+          "within",
+          "on",
+          "under",
+          "over"
+        ],
+        "collocations": [
+          "tight budget",
+          "exceed the budget",
+          "budgetary cuts",
+          "operating budget"
+        ],
+        "tip": "Tính từ 'budgetary' thường đi trước các danh từ như 'constraints/restrictions/cuts' (hạn chế/cắt giảm ngân sách)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "budgetary",
+          "example": "The renovation project was postponed due to unforeseen budgetary constraints.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Several proposed marketing campaigns had to be scaled back because of _____ restrictions.",
+        "answer": "budgetary",
+        "base_word": "budget",
+        "pos_hint": "tính từ",
+        "vi": "Một số chiến dịch tiếp thị được đề xuất đã phải thu hẹp quy mô vì những hạn chế về ngân sách."
+      }
+    },
+    {
+      "id": 6,
+      "word": "build up",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to increase over time",
+      "definition_vi": "xây dựng, bồi đắp, tích lũy dần lên (theo thời gian)",
+      "examples": [
+        {
+          "en": "The firm has built up a solid reputation for itself.",
+          "vi": "Công ty đã tự gây dựng được một uy tín vững chắc cho chính mình."
+        },
+        {
+          "en": "Be careful, your inventory of parts is building up.",
+          "vi": "Hãy cẩn thận, lượng hàng tồn kho linh kiện của bạn đang tích tụ ngày càng nhiều."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "build up",
+          "example": "Over the years, our office has built up a solid list of clients."
+        },
+        {
+          "pos": "noun",
+          "word": "buildup",
+          "example": "A buildup of debt will weaken the company&#x27;s finances."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "build up a reputation",
+        "build up a business",
+        "build up reserves",
+        "a buildup of inventory"
+      ],
+      "usage": {
+        "structures": [
+          "build up + N (gây dựng/tích lũy cái gì qua thời gian)",
+          "a buildup of + N (sự tích tụ/gia tăng của cái gì)"
+        ],
+        "prepositions": [
+          "of",
+          "over"
+        ],
+        "collocations": [
+          "build up trust",
+          "build up cash reserves",
+          "build up a clientele",
+          "gradual buildup"
+        ],
+        "tip": "Viết tách 'build up' là cụm động từ, còn viết liền hoặc có gạch nối 'buildup' là danh từ (a buildup of debt/traffic)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "build",
+          "example": "We aim to build long-lasting relationships with all our corporate partners.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "builder",
+          "example": "The commercial builder completed the new corporate headquarters ahead of schedule.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "built-up",
+          "example": "Delivery trucks often experience delays when driving through heavily built-up urban areas.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "A sudden _____ of unsold merchandise in the warehouse forced the retailer to offer steep discounts.",
+        "answer": "buildup",
+        "base_word": "build up",
+        "pos_hint": "danh từ",
+        "vi": "Sự tích tụ đột ngột của hàng hóa chưa bán được trong kho đã buộc nhà bán lẻ phải đưa ra mức giảm giá sâu."
+      }
+    },
+    {
+      "id": 7,
+      "word": "client",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a customer",
+      "definition_vi": "khách hàng (thường là khách hàng sử dụng dịch vụ chuyên nghiệp)",
+      "examples": [
+        {
+          "en": "We must provide excellent services for our clients, otherwise we will lose them to our competition.",
+          "vi": "Chúng ta phải cung cấp dịch vụ xuất sắc cho khách hàng của mình, nếu không chúng ta sẽ mất họ vào tay đối thủ cạnh tranh."
+        },
+        {
+          "en": "Maintaining close contact with clients keeps the account managers aware of changing needs.",
+          "vi": "Việc duy trì liên lạc chặt chẽ với khách hàng giúp các quản lý tài khoản nắm bắt được những nhu cầu đang thay đổi."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "prospective client",
+        "corporate client",
+        "client base",
+        "on behalf of a client"
+      ],
+      "usage": {
+        "structures": [
+          "serve/represent a client (phục vụ/đại diện cho khách hàng)",
+          "expand one's client base (mở rộng tệp khách hàng)"
+        ],
+        "prepositions": [
+          "of",
+          "for",
+          "with"
+        ],
+        "collocations": [
+          "long-standing client",
+          "client satisfaction",
+          "attract new clients",
+          "wealthy clientele"
+        ],
+        "tip": "'Client' dùng cho khách hàng mua dịch vụ chuyên môn (kế toán, luật, quảng cáo, ngân hàng), còn 'customer' dùng cho khách mua hàng hóa."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "clientele",
+          "example": "The wealth management firm caters to an exclusive international clientele.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "client-centered",
+          "example": "Our agency has earned awards for its client-centered approach to financial consulting.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The consulting firm has successfully expanded its corporate _____ across Southeast Asia.",
+        "answer": "clientele",
+        "base_word": "client",
+        "pos_hint": "danh từ tập hợp (nhóm khách hàng)",
+        "vi": "Công ty tư vấn đã mở rộng thành công tập khách hàng doanh nghiệp của mình trên khắp Đông Nam Á."
+      }
+    },
+    {
+      "id": 8,
+      "word": "debt",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "something owed, as in money or goods",
+      "definition_vi": "khoản nợ, tình trạng nợ nần",
+      "examples": [
+        {
+          "en": "The company has been very careful and is slowly digging itself out of debt.",
+          "vi": "Công ty đã rất cẩn trọng và đang từng bước thoát khỏi cảnh nợ nần."
+        },
+        {
+          "en": "The banks are worried about your increasing debt.",
+          "vi": "Các ngân hàng đang lo lắng về khoản nợ ngày càng tăng của bạn."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "pay off a debt",
+        "in debt",
+        "incur a debt",
+        "outstanding debt"
+      ],
+      "usage": {
+        "structures": [
+          "be in debt / get out of debt (đang mắc nợ / thoát khỏi nợ nần)",
+          "pay off / settle a debt (trả hết / thanh toán khoản nợ)"
+        ],
+        "prepositions": [
+          "in",
+          "out of",
+          "to"
+        ],
+        "collocations": [
+          "bad debt",
+          "debt relief",
+          "accumulate debt",
+          "heavily indebted"
+        ],
+        "tip": "Âm 'b' trong 'debt' là âm câm (/det/); chú ý danh từ chỉ người mắc nợ là 'debtor' và tính từ 'indebted to' (mang ơn/mắc nợ ai)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "debtor",
+          "example": "The collection agency sent a formal notice to every debtor with an overdue account.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "indebted",
+          "example": "We are deeply indebted to our founding partners for their unwavering financial support.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Several heavily _____ airlines were forced to restructure their operations when fuel prices surged.",
+        "answer": "indebted",
+        "base_word": "debt",
+        "pos_hint": "tính từ",
+        "vi": "Một số hãng hàng không mắc nợ nặng nề đã buộc phải tái cơ cấu hoạt động khi giá nhiên liệu tăng vọt."
+      }
+    },
+    {
+      "id": 9,
+      "word": "outstanding",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "still due; not paid or settled",
+      "definition_vi": "còn tồn đọng, chưa thanh toán, chưa giải quyết; nổi bật, xuất sắc",
+      "examples": [
+        {
+          "en": "That client still has several outstanding bills.",
+          "vi": "Khách hàng đó vẫn còn một vài hóa đơn chưa thanh toán."
+        },
+        {
+          "en": "Clients with outstanding bills will not receive further service until the bills are paid.",
+          "vi": "Những khách hàng có hóa đơn chưa thanh toán sẽ không nhận được thêm dịch vụ cho đến khi các hóa đơn được trả hết."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "outstanding balance",
+        "outstanding invoice",
+        "outstanding debt",
+        "outstanding performance"
+      ],
+      "usage": {
+        "structures": [
+          "outstanding + bills/invoices/debts/balance (hóa đơn/khoản nợ/số dư chưa thanh toán)",
+          "outstanding + achievement/service (thành tựu/dịch vụ xuất sắc)"
+        ],
+        "prepositions": [
+          "on",
+          "for",
+          "in"
+        ],
+        "collocations": [
+          "outstanding amount",
+          "remain outstanding",
+          "settle outstanding accounts",
+          "outstanding Achievement Award"
+        ],
+        "tip": "Cực kỳ lưu ý 2 nghĩa phổ biến trong TOEIC: (1) xuất sắc (= excellent) và (2) chưa trả/còn nợ (= unpaid/overdue) khi đi với bill/debt/balance."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "outstand",
+          "example": "Rarely does a single candidate outstand so clearly among hundreds of applicants.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "outstandingly",
+          "example": "The new accounting software performed outstandingly well during the stress test.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Our regional sales team performed _____ well during the final quarter of the fiscal year.",
+        "answer": "outstandingly",
+        "base_word": "outstanding",
+        "pos_hint": "trạng từ",
+        "vi": "Đội ngũ bán hàng khu vực của chúng tôi đã thể hiện xuất sắc trong quý cuối cùng của năm tài chính."
+      }
+    },
+    {
+      "id": 10,
+      "word": "profitably",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "advantageously",
+      "definition_vi": "một cách có lãi, sinh lời, có lợi",
+      "examples": [
+        {
+          "en": "The company used its accountant's advice profitably.",
+          "vi": "Công ty đã sử dụng lời khuyên của kế toán viên một cách sinh lời hiệu quả."
+        },
+        {
+          "en": "We invested in the stock market profitably.",
+          "vi": "Chúng tôi đã đầu tư vào thị trường chứng khoán một cách có lãi."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "profit",
+          "example": "The engineer will profit from the successful introduction of the new product."
+        },
+        {
+          "pos": "",
+          "word": "profit",
+          "example": "The profits exceeded all expectations."
+        },
+        {
+          "pos": "",
+          "word": "profitable",
+          "example": "Marketing is the most profitable department this year."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "operate profitably",
+        "invest profitably",
+        "use time profitably",
+        "highly profitable"
+      ],
+      "usage": {
+        "structures": [
+          "run/operate a business profitably (vận hành doanh nghiệp có lãi)",
+          "profit from + N (thu lợi từ cái gì)"
+        ],
+        "prepositions": [
+          "from",
+          "by"
+        ],
+        "collocations": [
+          "profit margin",
+          "net profit",
+          "profitable venture",
+          "corporate profitability"
+        ],
+        "tip": "Họ từ 'profit' (v/n), 'profitable' (adj), 'profitably' (adv), 'profitability' (n) xuất hiện dày đặc trong các bài điền từ loại Part 5."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "profitability",
+          "example": "Streamlining warehouse operations significantly improved the company's overall profitability.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "profitably",
+          "example": "The newly acquired branch has been operating profitably for six consecutive months.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Launching the premium subscription tier proved to be a highly _____ decision for the software firm.",
+        "answer": "profitable",
+        "base_word": "profitably",
+        "pos_hint": "tính từ",
+        "vi": "Việc ra mắt gói đăng ký cao cấp đã chứng tỏ là một quyết định mang lại lợi nhuận cao cho công ty phần mềm."
+      }
+    },
+    {
+      "id": 11,
+      "word": "reconcile",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to make consistent",
+      "definition_vi": "đối chiếu cho khớp (sổ sách, tài khoản); dung hòa, hòa giải",
+      "examples": [
+        {
+          "en": "The client uses his bank statements to reconcile his accounts.",
+          "vi": "Khách hàng sử dụng bảng sao kê ngân hàng của mình để đối chiếu các tài khoản."
+        },
+        {
+          "en": "The accountant found the error when she reconciled the account.",
+          "vi": "Kế toán viên đã phát hiện ra lỗi khi cô ấy đối chiếu tài khoản."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "reconcile an account",
+        "reconcile bank statements",
+        "reconcile differences",
+        "account reconciliation"
+      ],
+      "usage": {
+        "structures": [
+          "reconcile + A + with + B (đối chiếu/dung hòa A cho khớp với B)",
+          "reconcile financial records (đối chiếu sổ sách tài chính)"
+        ],
+        "prepositions": [
+          "with",
+          "to"
+        ],
+        "collocations": [
+          "reconcile figures",
+          "reconcile discrepancies",
+          "monthly reconciliation",
+          "reconcile a checkbook"
+        ],
+        "tip": "Trong kế toán TOEIC, 'reconcile' có nghĩa là 'đối chiếu sổ sách/tài khoản với sao kê ngân hàng để tìm sai lệch'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "reconcile",
+          "example": "Bookkeepers must reconcile all petty cash receipts with the master ledger every Friday.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "reconciliation",
+          "example": "The monthly bank reconciliation revealed an unrecorded wire transfer fee.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "reconcilable",
+          "example": "Fortunately, the minor differences between the two cost estimates were easily reconcilable.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "A thorough _____ of the inventory records and physical stock is conducted at the end of every quarter.",
+        "answer": "reconciliation",
+        "base_word": "reconcile",
+        "pos_hint": "danh từ",
+        "vi": "Việc đối chiếu kỹ lưỡng giữa hồ sơ kiểm kê và hàng tồn kho thực tế được tiến hành vào cuối mỗi quý."
+      }
+    },
+    {
+      "id": 12,
+      "word": "turnover",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the number of times a product is sold and replaced or an employee leaves and another employee is hired",
+      "definition_vi": "tỷ lệ luân chuyển (hàng hóa hoặc nhân sự); doanh thu",
+      "examples": [
+        {
+          "en": "We have to add another production shift to keep up with the high turnover rate.",
+          "vi": "Chúng tôi phải bổ sung thêm một ca sản xuất nữa để theo kịp tốc độ luân chuyển hàng hóa cao."
+        },
+        {
+          "en": "The overseas branch has much lower employee turnover than does domestic operations.",
+          "vi": "Chi nhánh ở nước ngoài có tỷ lệ biến động nhân sự thấp hơn nhiều so với hoạt động trong nước."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "employee turnover",
+        "staff turnover rate",
+        "inventory turnover",
+        "annual turnover"
+      ],
+      "usage": {
+        "structures": [
+          "high/low employee turnover (tỷ lệ nhân viên nghỉ việc và tuyển mới cao/thấp)",
+          "have a वार्षिक/annual turnover of + số tiền (có doanh thu hàng năm là...)"
+        ],
+        "prepositions": [
+          "of",
+          "in"
+        ],
+        "collocations": [
+          "reduce staff turnover",
+          "rapid turnover",
+          "merchandise turnover",
+          "turnover rate"
+        ],
+        "tip": "Trong TOEIC có 2 nghĩa rất quan trọng: 'employee/staff turnover' (tỷ lệ thay đổi nhân sự) và 'annual turnover' (tổng doanh thu năm)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "turn over",
+          "example": "Popular retail stores turn over their seasonal clothing inventory every few weeks.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "turnover",
+          "example": "Offering competitive benefits helped the factory reduce its high turnover rate.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "turned-over",
+          "example": "All turned-over equipment from the closed branch was inspected before resale.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The popular downtown boutique has _____ over its entire seasonal inventory in just three weeks.",
+        "answer": "turned",
+        "base_word": "turnover",
+        "pos_hint": "động từ chia quá khứ phân từ V3/ed (trong cụm turn over)",
+        "vi": "Cửa hàng thời trang nổi tiếng ở trung tâm thành phố đã luân chuyển bán hết toàn bộ hàng tồn kho theo mùa chỉ trong ba tuần."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. Accounting information is pulled together or (1) ____ to help someone make decisions. A manager must come up with a (2) ____ to help control expenses. A retail store owner realizes that her (3) ____ have (4) ____ bills. A restaurant owner wants to know if it is (5) ____ to serve lunch. A nonprofit organization is being (6) ____ by the government. All of these people and organizations could use the services of an accountant. Accountants and (7) ____ systems help a company stay on track. They raise flags when expenses are (8) ____ and keep an eye on the (9) ____ of inventory. They (10) ____ their clients' accounts to ensure that their clients' records are correct. Good accounting systems allow managers to come up with ways to improve their business. The accountant prepares information for both internal and external use. Financial statements provide a quick look into the life of a business. They show how much (11) ____ the company is carrying and how much its (12) ____ are worth. The outside world uses this information to judge the health of the company.",
+    "word_bank": [
+      "accounting",
+      "audited",
+      "clients",
+      "profitable",
+      "accumulated",
+      "budget",
+      "debt",
+      "reconcile",
+      "assets",
+      "building up",
+      "outstanding",
+      "turnover"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "accountant",
+        "example": "The accountant was precise and hardworking.",
+        "pos": "noun"
+      },
+      {
+        "word": "accounting",
+        "example": "Accounting is a popular field of study.",
+        "pos": "noun"
+      },
+      {
+        "word": "account",
+        "example": "The client closed his bank account and withdrew all of his money.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "accumulate",
+        "example": "The owner&#x27;s goal was to accumulate as much wealth as possible.",
+        "pos": "verb"
+      },
+      {
+        "word": "accumulation",
+        "example": "The accumulation of goods may lead to an inventory problem.",
+        "pos": ""
+      },
+      {
+        "word": "accumulated",
+        "example": "The sum of all the accumulated resources equals your total assets.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "audit",
+        "example": "Some bookkeeping inconsistencies showed up when our records were audited.",
+        "pos": "verb"
+      },
+      {
+        "word": "audit",
+        "example": "If you keep your financial records carefully, you will always be ready for audit.",
+        "pos": ""
+      },
+      {
+        "word": "auditor",
+        "example": "The tax auditor will ask to see records from the past several years.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "budget",
+        "example": "There was no travel expense budgeted for the editorial department.",
+        "pos": ""
+      },
+      {
+        "word": "budget",
+        "example": "The boss asked for input on next year&#x27;s budget.",
+        "pos": ""
+      },
+      {
+        "word": "budgetary",
+        "example": "Due to budgetary constraints, we cannot hire additional staff at this time.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "build up",
+        "example": "Over the years, our office has built up a solid list of clients.",
+        "pos": "verb"
+      },
+      {
+        "word": "buildup",
+        "example": "A buildup of debt will weaken the company&#x27;s finances.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "profit",
+        "example": "The engineer will profit from the successful introduction of the new product.",
+        "pos": ""
+      },
+      {
+        "word": "profit",
+        "example": "The profits exceeded all expectations.",
+        "pos": ""
+      },
+      {
+        "word": "profitable",
+        "example": "Marketing is the most profitable department this year.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "The firm's ____ studied finance and business administration.",
+        "options": [
+          {
+            "label": "A",
+            "text": "account"
+          },
+          {
+            "label": "B",
+            "text": "accounting"
+          },
+          {
+            "label": "C",
+            "text": "accounted"
+          },
+          {
+            "label": "D",
+            "text": "accountant"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "The account manager has ____ a tremendous amount of wealth in a very short time.",
+        "options": [
+          {
+            "label": "A",
+            "text": "accumulated"
+          },
+          {
+            "label": "B",
+            "text": "accumulation"
+          },
+          {
+            "label": "C",
+            "text": "accumulating"
+          },
+          {
+            "label": "D",
+            "text": "accumulates"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "We went over our records carefully in order to prepare for the meeting with the ____.",
+        "options": [
+          {
+            "label": "A",
+            "text": "audit"
+          },
+          {
+            "label": "B",
+            "text": "auditor"
+          },
+          {
+            "label": "C",
+            "text": "auditing"
+          },
+          {
+            "label": "D",
+            "text": "audited"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "At the end of next week, all the division heads will meet to present one consolidated ____.",
+        "options": [
+          {
+            "label": "A",
+            "text": "budgeting"
+          },
+          {
+            "label": "B",
+            "text": "budget"
+          },
+          {
+            "label": "C",
+            "text": "budgeted"
+          },
+          {
+            "label": "D",
+            "text": "budgets"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "I ____ some savings in my bank account before I made any investments in business.",
+        "options": [
+          {
+            "label": "A",
+            "text": "building up"
+          },
+          {
+            "label": "B",
+            "text": "buildup"
+          },
+          {
+            "label": "C",
+            "text": "built up"
+          },
+          {
+            "label": "D",
+            "text": "build"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "All the employees will benefit if the company's ____ continue to increase.",
+        "options": [
+          {
+            "label": "A",
+            "text": "profited"
+          },
+          {
+            "label": "B",
+            "text": "profitable"
+          },
+          {
+            "label": "C",
+            "text": "profits"
+          },
+          {
+            "label": "D",
+            "text": "profitably"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Wilson and Jones, Ltd. Accountants We specialize in small businesses. Are you having trouble reconciling your accounts? Do you need to improve your tax situation? Do you want to get out of debt and make your business _16 ? Wilson & Jones, Ltd., is a full-service accounting firm that can help small business owners like you with all aspects of your accounts. Our budget planning service will help you pay off [17] debts so that you can start accumulating savings. Our tax service provides tax planning assistance, tax return preparation, and preparation for audits. Our bookkeeping service guarantees that your accounts are always up to date. Call us today for an appointment. You'll be out of the red and free of [18] tomorrow.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "profiting"
+            },
+            {
+              "label": "B",
+              "text": "profitable"
+            },
+            {
+              "label": "C",
+              "text": "profitably"
+            },
+            {
+              "label": "D",
+              "text": "profiteer"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "client"
+            },
+            {
+              "label": "B",
+              "text": "budget"
+            },
+            {
+              "label": "C",
+              "text": "turnover"
+            },
+            {
+              "label": "D",
+              "text": "outstanding"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "debate"
+            },
+            {
+              "label": "B",
+              "text": "doubt"
+            },
+            {
+              "label": "C",
+              "text": "debit"
+            },
+            {
+              "label": "D",
+              "text": "debt"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following letter. January 17, 20— Buzzi Accountants 128 Waterford Drive New Hanover, VA Dear Ms. Buzzi, I have just found out that my tax records will be audited by the government. I would like to hire someone from your firm to help me prepare for this. I run a small editing business which I started five years ago. I initially took out a loan from the bank to get my business started. My business has always been profitable, and I was able to repay the loan quickly. As of now, my business has no outstanding debts. My staff is quite small. I started out with one assistant, who is still with me. As I built up my client list, I hired a second assistant, who is also still working for me. Thus, I have not had a problem with staff turnover. In short, you can see that my business and financial situation are quite stable. I have always prepared my taxes carefully, and I keep thorough records. I imagine that this audit will be fairly routine. However, I want to be sure that I am correctly prepared for it, and I feel that hiring an accountant is the best route to take. Please call me so that we can discuss the matter. I can be reached at my office Mondays, Wednesdays, and Fridays. One of my assistants is also usually in the office on Tuesdays and Thursdays and the occasional Saturday and will take messages for me. I look forward to speaking with you. Sincerely, Jonathan Stein",
+        "questions": [
+          {
+            "number": 19,
+            "question": "Why does Mr. Stein want to hire an accountant?",
+            "options": [
+              {
+                "label": "A",
+                "text": "To prepare his taxes."
+              },
+              {
+                "label": "B",
+                "text": "To help with an audit."
+              },
+              {
+                "label": "C",
+                "text": "To get him out of debt."
+              },
+              {
+                "label": "D",
+                "text": "To help him stabilize his finances."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "How many people work for Mr. Stein?",
+            "options": [
+              {
+                "label": "A",
+                "text": "One."
+              },
+              {
+                "label": "B",
+                "text": "Two."
+              },
+              {
+                "label": "C",
+                "text": "Three."
+              },
+              {
+                "label": "D",
+                "text": "Four."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "When is Mr. Stein in his office?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Monday through Friday."
+              },
+              {
+                "label": "B",
+                "text": "Tuesday and Thursday."
+              },
+              {
+                "label": "C",
+                "text": "Monday, Wednesday, and Friday."
+              },
+              {
+                "label": "D",
+                "text": "On occasional Saturdays."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word profitable in the first paragraph, line 3 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "large"
+              },
+              {
+                "label": "B",
+                "text": "in debt"
+              },
+              {
+                "label": "C",
+                "text": "interesting"
+              },
+              {
+                "label": "D",
+                "text": "earning money"
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The words built up in the first paragraph, line 5 are closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "constructed"
+              },
+              {
+                "label": "B",
+                "text": "increased"
+              },
+              {
+                "label": "C",
+                "text": "employed"
+              },
+              {
+                "label": "D",
+                "text": "served"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What time does the woman expect to return to the office?",
+        "options": [
+          {
+            "label": "A",
+            "text": "By 1:00."
+          },
+          {
+            "label": "B",
+            "text": "By 2:00."
+          },
+          {
+            "label": "C",
+            "text": "By 4:00."
+          },
+          {
+            "label": "D",
+            "text": "By 5:00."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What is the client's problem?",
+        "options": [
+          {
+            "label": "A",
+            "text": "He doesn't understand his accountant."
+          },
+          {
+            "label": "B",
+            "text": "He won't be in his office today."
+          },
+          {
+            "label": "C",
+            "text": "He has a lot of debt."
+          },
+          {
+            "label": "D",
+            "text": "He doesn't have a savings account."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the woman plan to do with the client today?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Show him a new budget."
+          },
+          {
+            "label": "B",
+            "text": "Give him a present."
+          },
+          {
+            "label": "C",
+            "text": "Ask him for more work."
+          },
+          {
+            "label": "D",
+            "text": "Make a business deal with him."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "What is the topic of this talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "How to start an accounting firm."
+          },
+          {
+            "label": "B",
+            "text": "How to avoid client turnover."
+          },
+          {
+            "label": "C",
+            "text": "How to have a profitable accounting firm."
+          },
+          {
+            "label": "D",
+            "text": "How to get clients."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "How can an accounting firm make more money?",
+        "options": [
+          {
+            "label": "A",
+            "text": "By charging higher fees."
+          },
+          {
+            "label": "B",
+            "text": "By getting recommendations from their clients."
+          },
+          {
+            "label": "C",
+            "text": "By hiring new accountants."
+          },
+          {
+            "label": "D",
+            "text": "By making a new list of clients."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "According to the speaker, what is a firm's most valuable asset?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The staff."
+          },
+          {
+            "label": "B",
+            "text": "Money."
+          },
+          {
+            "label": "C",
+            "text": "Office space."
+          },
+          {
+            "label": "D",
+            "text": "Equipment."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. What time does the woman expect to return to the office? (A) By 1:00. (B) By 2:00. (C) By 4:00. (D) By 5:00. 5. What is the client's problem? (A) He doesn't understand his accountant. (B) He won't be in his office today. (C) He has a lot of debt. (D) He doesn't have a savings account. 6. What does the woman plan to do with the client today? (A) Show him a new budget. (B) Give him a present. (C) Ask him for more work. (D) Make a business deal with him. Listen to the talk. Then read each question and choose the best answer. 7. What is the topic of this talk? (A) How to start an accounting firm. (B) How to avoid client turnover. (C) How to have a profitable accounting firm. (D) How to get clients. 8. How can an accounting firm make more money? (A) By charging higher fees. (B) By getting recommendations from their clients. (C) By hiring new accountants. (D) By making a new list of clients. 9. According to the speaker, what is a firm's most valuable asset? (A) The staff. (B) Money. (C) Office space. (D) Equipment.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversations"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What time does the woman expect to return to the office?",
+        "options": [
+          {
+            "label": "A",
+            "text": "By 1:00."
+          },
+          {
+            "label": "B",
+            "text": "By 2:00."
+          },
+          {
+            "label": "C",
+            "text": "By 4:00."
+          },
+          {
+            "label": "D",
+            "text": "By 5:00."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What is the client's problem?",
+        "options": [
+          {
+            "label": "A",
+            "text": "He doesn't understand his accountant."
+          },
+          {
+            "label": "B",
+            "text": "He won't be in his office today."
+          },
+          {
+            "label": "C",
+            "text": "He has a lot of debt."
+          },
+          {
+            "label": "D",
+            "text": "He doesn't have a savings account."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the woman plan to do with the client today?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Show him a new budget."
+          },
+          {
+            "label": "B",
+            "text": "Give him a present."
+          },
+          {
+            "label": "C",
+            "text": "Ask him for more work."
+          },
+          {
+            "label": "D",
+            "text": "Make a business deal with him."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "What is the topic of this talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "How to start an accounting firm."
+          },
+          {
+            "label": "B",
+            "text": "How to avoid client turnover."
+          },
+          {
+            "label": "C",
+            "text": "How to have a profitable accounting firm."
+          },
+          {
+            "label": "D",
+            "text": "How to get clients."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "How can an accounting firm make more money?",
+        "options": [
+          {
+            "label": "A",
+            "text": "By charging higher fees."
+          },
+          {
+            "label": "B",
+            "text": "By getting recommendations from their clients."
+          },
+          {
+            "label": "C",
+            "text": "By hiring new accountants."
+          },
+          {
+            "label": "D",
+            "text": "By making a new list of clients."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "According to the speaker, what is a firm's most valuable asset?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The staff."
+          },
+          {
+            "label": "B",
+            "text": "Money."
+          },
+          {
+            "label": "C",
+            "text": "Office space."
+          },
+          {
+            "label": "D",
+            "text": "Equipment."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "Lesson\n\n22\n\n## WG, T TO LEA n\n\naccounting\n\nac- - - -\n\n$a_{v}$ t\n\nt..jet\n\nt u l)\n\ndeb+\n\nprofitably\n\n\\- one\n\n、rnover\n\n## Accounting\n\nStudy the following definitions and examples.\n\n1. accounting n., the recording and gathering of financial information for a company\n\na. Good accounting is needed in all businesses.\n\nb. Accounting for expenses is time-consuming.\n\n2. accumulate v., to gather; to collect\n\na. They have accumulated more than enough information.\n\nb. The bills started to accumulate after the secretary quit.\n\n3. asset n., something of value\n\na. The company's assets are worth millions of dollars.\n\nb. A sophisticated accounting system is an asset to a company.\n\n4. audit n., a formal examination of financial records; v., to examine the financial records of a company\n\na. No one looks forward to an audit by the government.\n\nb. The independent accountants audited the company's books.\n\n5. budget n., a list of probable expenses and income for a given period; v., to plan for expenses\n\na. The department head was pleased that she received a 10 percent increase in her budget.\n\nb. The company will have to budget more money for this department next year.\n\n6. build up v., to increase over time\n\na. The firm has built up a solid reputation for itself.\n\nb. Be careful, your inventory of parts is building up.\n\n7. client n., a customer\n\na. We must provide excellent services for our clients, otherwise we will lose them to our competition.\n\nb. Maintaining close contact with clients keeps the account managers aware of changing needs.\n\n8. debt n., something owed, as in money or goods a. The company has been very careful and is slowly digging itself out of debt.\n\nb. The banks are worried about your increasing debt.\n\n9. outstanding adj., still due; not paid or settled\n\na. That client still has several outstanding bills.\n\nb. Clients with outstanding bills will not receive further service until the bills are paid.\n\n10. profitably adv., advantageously\n\na. The company used its accountant's advice profitably.\n\nb. We invested in the stock market profitably.\n\n11. reconcile v., to make consistent\n\na. The client uses his bank statements to reconcile his accounts.\n\nb. The accountant found the error when she reconciled the account.\n\n12. turnover n., the number of times a product is sold and replaced or an employee leaves and another employee is hired\n\na. We have to add another production shift to keep up with the high turnover rate.\n\nb. The overseas branch has much lower employee turnover than does domestic operations.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\n| accounting | audited | clients | profitable |\n| --- | --- | --- | --- |\n| accumulated | budget | debt | reconcile |\n| assets | building up | outstanding | turnover |\n\nAccounting information is pulled together or (1) \\_\\_\\_\\_ to help someone make decisions. A manager must come up with a (2) \\_\\_\\_\\_ to help control expenses. A retail store owner realizes that her (3) \\_\\_\\_\\_ have (4) \\_\\_\\_\\_ bills. A restaurant owner wants to know if it is (5) \\_\\_\\_\\_ to serve lunch. A nonprofit organization is being (6) \\_\\_\\_\\_ by the government. All of these people and organizations could use the services of an accountant.\n\nAccountants and (7) \\_\\_\\_\\_ systems help a company stay on track. They raise flags when expenses are (8) \\_\\_\\_\\_ and keep an eye on the (9) \\_\\_\\_\\_ of inventory. They (10) \\_\\_\\_\\_ their clients' accounts to ensure that their clients' records are correct. Good accounting systems allow managers to come up with ways to improve their business.\n\nThe accountant prepares information for both internal and external use. Financial statements provide a quick look into the life of a business. They show how much (11) \\_\\_\\_\\_ the company is carrying and how much its (12) \\_\\_\\_\\_ are worth. The outside world uses this information to judge the health of the company.",
+    "word_families": "## WORD FAMILIES\n\n<table><tr><td>noun</td><td>accountant</td><td>The accountant was precise and hardworking.</td></tr><tr><td>noun</td><td>accounting</td><td>Accounting is a popular field of study.</td></tr><tr><td>_1</td><td>account</td><td>The client closed his bank account and withdrew all of his money.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>accumulate</td><td>The owner&#x27;s goal was to accumulate as much wealth as possible.</td></tr><tr><td>...un</td><td>accumulation</td><td>The accumulation of goods may lead to an inventory problem.</td></tr><tr><td>_1</td><td>accumulated</td><td>The sum of all the accumulated resources equals your total assets.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>audit</td><td>Some bookkeeping inconsistencies showed up when our records were audited.</td></tr><tr><td>...un</td><td>audit</td><td>If you keep your financial records carefully, you will always be ready for audit.</td></tr><tr><td>nc_1</td><td>auditor</td><td>The tax auditor will ask to see records from the past several years.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>_</td><td>budget</td><td>There was no travel expense budgeted for the editorial department.</td></tr><tr><td>&quot;ŋ</td><td>budget</td><td>The boss asked for input on next year&#x27;s budget.</td></tr><tr><td>_live</td><td>budgetary</td><td>Due to budgetary constraints, we cannot hire additional staff at this time.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>build up</td><td>Over the years, our office has built up a solid list of clients.</td></tr><tr><td>noun</td><td>buildup</td><td>A buildup of debt will weaken the company&#x27;s finances.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>_</td><td>profit</td><td>The engineer will profit from the successful introduction of the new product.</td></tr><tr><td>_1</td><td>profit</td><td>The profits exceeded all expectations.</td></tr><tr><td>_1</td><td>profitable</td><td>Marketing is the most profitable department this year.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n## Part 3 Conversations\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. What time does the woman expect to return to the office?\n(A) By 1:00.\n(B) By 2:00.\n(C) By 4:00.\n(D) By 5:00.\n\n5. What is the client's problem?\n(A) He doesn't understand his accountant.\n(B) He won't be in his office today.\n(C) He has a lot of debt.\n(D) He doesn't have a savings account.\n\n6. What does the woman plan to do with the client today?\n(A) Show him a new budget.\n(B) Give him a present.\n(C) Ask him for more work.\n(D) Make a business deal with him.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. What is the topic of this talk?\n(A) How to start an accounting firm.\n(B) How to avoid client turnover.\n(C) How to have a profitable accounting firm.\n(D) How to get clients.\n\n8. How can an accounting firm make more money?\n(A) By charging higher fees.\n(B) By getting recommendations from their clients.\n(C) By hiring new accountants.\n(D) By making a new list of clients.\n\n9. According to the speaker, what is a firm's most valuable asset?\n(A) The staff.\n(B) Money.\n(C) Office space.\n(D) Equipment.",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. The firm's \\_\\_\\_\\_ studied finance and business administration.\n(A) account (C) accounted\n(B) accounting (D) accountant\n\n11. The account manager has \\_\\_\\_\\_ a tremendous amount of wealth in a very short time.\n(A) accumulated (C) accumulating\n(B) accumulation (D) accumulates\n\n12. We went over our records carefully in order to prepare for the meeting with the \\_\\_\\_\\_.  \n(A) audit (C) auditing  \n(B) auditor (D) audited\n\n13. At the end of next week, all the division heads will meet to present one consolidated \\_\\_\\_\\_.\n(A) budgeting (C) budgeted\n(B) budget (D) budgets\n\n14. I \\_\\_\\_\\_ some savings in my bank account before I made any investments in business.\n(A) building up (C) built up\n(B) buildup (D) build\n\n15. All the employees will benefit if the company's \\_\\_\\_\\_ continue to increase.\n(A) profited (C) profits\n(B) profitable (D) profitably\n\n## Part 6 Text Completion\n\n## Wilson and Jones, Ltd.\n\n## Accountants\n\n## We specialize in small businesses.\n\nAre you having trouble reconciling your accounts?\nDo you need to improve your tax situation?\nDo you want to get out of debt and make your business \\_16 ?\n\nWilson & Jones, Ltd., is a full-service accounting firm that can help small business owners like you with all aspects of your accounts. Our budget planning service will help you pay off \\_17\\_ debts so that you can start accumulating savings. Our tax service provides tax planning assistance, tax return preparation, and preparation for audits. Our bookkeeping service guarantees that your accounts are always up to date. Call us today for an appointment. You'll be out of the red and free of \\_18\\_ tomorrow.\n\n16. (A) profiting  \n(B) profitable  \n(C) profitably  \n(D) profiteer\n\n17. (A) client  \n(B) budget  \n(C) turnover  \n(D) outstanding\n\n18. (A) debate  \n(B) doubt  \n(C) debit  \n(D) debt",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following letter.\n\nJanuary 17, 20—\n\nBuzzi Accountants 128 Waterford Drive New Hanover, VA\n\nDear Ms. Buzzi,\n\nI have just found out that my tax records will be audited by the government. I would like to hire someone from your firm to help me prepare for this. I run a small editing business which I started five years ago. I initially took out a loan from the bank to get my business started. My business has always been profitable, and I was able to repay the loan quickly. As of now, my business has no outstanding debts. My staff is quite small. I started out with one assistant, who is still with me. As I built up my client list, I hired a second assistant, who is also still working for me. Thus, I have not had a problem with staff turnover. In short, you can see that my business and financial situation are quite stable.\n\nI have always prepared my taxes carefully, and I keep thorough records. I imagine that this audit will be fairly routine. However, I want to be sure that I am correctly prepared for it, and I feel that hiring an accountant is the best route to take. Please call me so that we can discuss the matter. I can be reached at my office Mondays, Wednesdays, and Fridays. One of my assistants is also usually in the office on Tuesdays and Thursdays and the occasional Saturday and will take messages for me.\n\nI look forward to speaking with you.\n\nSincerely,\n\nJonathan Stein\n\n19. Why does Mr. Stein want to hire an accountant?\n(A) To prepare his taxes.\n(B) To help with an audit.\n(C) To get him out of debt.\n(D) To help him stabilize his finances.\n\n20. How many people work for Mr. Stein?\n(A) One.\n(B) Two.\n(C) Three.\n(D) Four.\n\n21. When is Mr. Stein in his office?\n(A) Monday through Friday.\n(B) Tuesday and Thursday.\n(C) Monday, Wednesday, and Friday.\n(D) On occasional Saturdays.\n\n22. The word profitable in the first paragraph, line 3 is closest in meaning to  \n(A) large  \n(B) in debt  \n(C) interesting  \n(D) earning money\n\n23. The words built up in the first paragraph, line 5 are closest in meaning to  \n(A) constructed  \n(B) increased  \n(C) employed  \n(D) served"
+  },
+  "needs_review": true
+}

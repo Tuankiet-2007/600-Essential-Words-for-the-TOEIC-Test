@@ -1,0 +1,1586 @@
+{
+  "lesson_id": 37,
+  "title": "Airlines",
+  "theme_name": "Travel",
+  "audio_track": "track_37.mp3",
+  "part1_photo": "part1_photos/lesson_37.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "deal with",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "phrase, to attend to; to manage; to see to",
+      "definition_vi": "giải quyết, xử lý, đối phó",
+      "examples": [
+        {
+          "en": "Ticket agents must deal courteously with irate customers.",
+          "vi": "Nhân viên bán vé phải giải quyết một cách lịch sự với những khách hàng tức giận."
+        },
+        {
+          "en": "Sick passengers, frightened children, and rude pilots are just a few of the things cabin attendants have to deal with.",
+          "vi": "Hành khách bị ốm, trẻ em sợ hãi và phi công thô lỗ chỉ là một vài trong số những điều mà tiếp viên khoang hành khách phải giải quyết."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "deal with complaints",
+        "deal with a problem",
+        "deal courteously with",
+        "deal with customers"
+      ],
+      "usage": {
+        "structures": [
+          "deal with somebody/something (giải quyết ai/cái gì)",
+          "have to deal with (phải xử lý)"
+        ],
+        "prepositions": [
+          "with"
+        ],
+        "collocations": [
+          "deal with issues",
+          "deal with emergencies",
+          "deal with effectively",
+          "deal directly with"
+        ],
+        "tip": "'Deal with' luôn đi cùng giới từ 'with' và là cụm động từ quan trọng trong môi trường chăm sóc khách hàng (customer service)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "dealer",
+          "example": "The car dealer explained the financing options available to buyers.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "dealing",
+          "example": "Fair dealing with clients builds a lasting business reputation.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Our support department is trained to _____ with customer complaints promptly and politely.",
+        "answer": "deal",
+        "base_word": "deal with",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Bộ phận hỗ trợ của chúng tôi được đào tạo để xử lý các khiếu nại của khách hàng một cách nhanh chóng và lịch sự."
+      }
+    },
+    {
+      "id": 2,
+      "word": "destination",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the place to which one is going or directed",
+      "definition_vi": "điểm đến, nơi đến",
+      "examples": [
+        {
+          "en": "The Great Barrier Reef is a popular tourist destination this year.",
+          "vi": "Rạn san hô Great Barrier là một điểm đến du lịch nổi tiếng trong năm nay."
+        },
+        {
+          "en": "Once you have determined your desired destination, we can work toward getting the best airfare.",
+          "vi": "Một khi bạn đã xác định được điểm đến mong muốn của mình, chúng tôi có thể nỗ lực để có được giá vé máy bay tốt nhất."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "tourist destination",
+        "final destination",
+        "reach a destination",
+        "popular destination"
+      ],
+      "usage": {
+        "structures": [
+          "arrive at one's destination (đến nơi cần đến)",
+          "destination for tourists (điểm đến cho khách du lịch)"
+        ],
+        "prepositions": [
+          "for",
+          "at",
+          "to"
+        ],
+        "collocations": [
+          "holiday destination",
+          "travel destination",
+          "desired destination",
+          "destination wedding"
+        ],
+        "tip": "'Final destination' (điểm đến cuối cùng) là cụm từ xuất hiện thường xuyên trong các đoạn thông báo sân bay Part 4."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "destine",
+          "example": "The flight was destined for London but was diverted to Manchester.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Paris continues to be one of the top holiday _____ for international travelers each summer.",
+        "answer": "destinations",
+        "base_word": "destination",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Paris tiếp tục là một trong những điểm đến nghỉ dưỡng hàng đầu cho du khách quốc tế mỗi mùa hè."
+      }
+    },
+    {
+      "id": 3,
+      "word": "distinguish",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to make noticeable or different",
+      "definition_vi": "phân biệt, nhận ra sự khác biệt; làm cho nổi bật",
+      "examples": [
+        {
+          "en": "Suki was able to distinguish between the different types of jets on the runway.",
+          "vi": "Rất khó để phân biệt cặp sinh đôi này nếu họ mặc trang phục giống hệt nhau."
+        },
+        {
+          "en": "My travel agent has distinguished herself as being one of the best in our area.",
+          "vi": "Sự chú trọng tỉ mỉ vào từng chi tiết đã làm cho sản phẩm của cô ấy nổi bật hơn hẳn so với đối thủ cạnh tranh."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "distinguish",
+          "example": "I can&#x27;t distinguish any difference in the two airlines, since their fares are the same."
+        },
+        {
+          "pos": "",
+          "word": "distinguishable",
+          "example": "The airline&#x27;s planes were easily distinguishable by the bright logo on the planes&#x27; tails."
+        },
+        {
+          "pos": "",
+          "word": "distinguishably",
+          "example": "Even though you have paid a lower fare, you won&#x27;t be distinguishably different than the other passengers on the plane."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "distinguish between A and B",
+        "distinguish A from B",
+        "easily distinguish",
+        "distinguish oneself"
+      ],
+      "usage": {
+        "structures": [
+          "distinguish between A and B (phân biệt giữa A và B)",
+          "distinguish A from B (phân biệt A với B)"
+        ],
+        "prepositions": [
+          "between",
+          "from"
+        ],
+        "collocations": [
+          "distinguish between",
+          "distinguish clearly",
+          "distinguish from competitors",
+          "distinguish right from wrong"
+        ],
+        "tip": "Động từ 'distinguish' thường đi với 'between' hoặc 'from'. Tính từ 'distinguished' nghĩa là xuất chúng, đáng kính."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "distinguishable",
+          "example": "The two models are distinguishable by their subtle design differences.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "distinguished",
+          "example": "He had a distinguished career as a diplomat in Southeast Asia.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Excellent customer service is what _____ our boutique hotel from large chain resorts.",
+        "answer": "distinguishes",
+        "base_word": "distinguish",
+        "pos_hint": "động từ (chia ngôi thứ ba số ít)",
+        "vi": "Dịch vụ khách hàng xuất sắc chính là điều làm cho khách sạn của chúng tôi nổi bật so với các khu nghỉ dưỡng chuỗi lớn."
+      }
+    },
+    {
+      "id": 4,
+      "word": "economize",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to be careful about spending money",
+      "definition_vi": "tiết kiệm, giảm bớt chi tiêu",
+      "examples": [
+        {
+          "en": "My travel agent knows I like to economize and always looks out for the best prices for me.",
+          "vi": "Bằng cách đặt vé trước hai tháng, chúng tôi đã có thể tiết kiệm chi phí vé máy bay."
+        },
+        {
+          "en": "We decided to economize this year and take our vacation during the off season, when prices are lower.",
+          "vi": "Công ty cần phải tiết kiệm ngân sách trong các chuyến đi công tác bằng cách chọn khách sạn bình dân hơn."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "economize",
+          "example": "We no longer fly first class, since our company is trying to economize."
+        },
+        {
+          "pos": "",
+          "word": "economical",
+          "example": "Without hesitation, we chose the more economical of the two airline tickets."
+        },
+        {
+          "pos": "adverb",
+          "word": "economically",
+          "example": "A good travel agent can help you plan your trip economically."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "economize on travel",
+        "economize on expenses",
+        "need to economize",
+        "way to economize"
+      ],
+      "usage": {
+        "structures": [
+          "economize on something (tiết kiệm về khoản gì)",
+          "economize by doing something (tiết kiệm bằng cách làm gì)"
+        ],
+        "prepositions": [
+          "on",
+          "by"
+        ],
+        "collocations": [
+          "economize on fuel",
+          "economize on costs",
+          "attempt to economize",
+          "effort to economize"
+        ],
+        "tip": "'Economize' thường đi với giới từ 'on' (economize on expenses: tiết kiệm chi phí). Chú ý phân biệt 'economical' (tiết kiệm) và 'economic' (thuộc về kinh tế)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "economical",
+          "example": "Taking the train is often more economical than renting a car.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "economy",
+          "example": "Traveling in economy class helps business travelers keep budgets low.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Flying during off-peak hours is a very _____ way for families to travel together.",
+        "answer": "economical",
+        "base_word": "economize",
+        "pos_hint": "tính từ",
+        "vi": "Bay vào những giờ thấp điểm là một cách rất tiết kiệm cho các gia đình cùng nhau đi du lịch."
+      }
+    },
+    {
+      "id": 5,
+      "word": "equivalent",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "equal",
+      "definition_vi": "tương đương; vật/số lượng tương đương",
+      "examples": [
+        {
+          "en": "Carlos used the Internet to search for hotels of equivalent dollar value to the one recommended.",
+          "vi": "Mức giá này tương đương với chi phí của hai vé tàu thông thường."
+        },
+        {
+          "en": "The food the airline serves in coach class is equivalent to that served in first class.",
+          "vi": "Trình độ chuyên môn nước ngoài của cô ấy được coi là tương đương với bằng đại học địa phương."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "equivalent to",
+        "roughly equivalent",
+        "the equivalent of",
+        "cash equivalent"
+      ],
+      "usage": {
+        "structures": [
+          "be equivalent to something (tương đương với cái gì)",
+          "the equivalent of something (khoản tương đương với cái gì)"
+        ],
+        "prepositions": [
+          "to",
+          "of"
+        ],
+        "collocations": [
+          "equivalent value",
+          "equivalent to cash",
+          "modern equivalent",
+          "rough equivalent"
+        ],
+        "tip": "Tính từ 'equivalent' luôn đi với giới từ 'to': 'A is equivalent to B'. Khi làm danh từ, dùng 'the equivalent of'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "equivalence",
+          "example": "The test establishes equivalence between the two certification levels.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The discount offered on the round-trip ticket is _____ to receiving one free night at the hotel.",
+        "answer": "equivalent",
+        "base_word": "equivalent",
+        "pos_hint": "tính từ",
+        "vi": "Mức giảm giá được áp dụng cho vé khứ hồi tương đương với việc nhận được một đêm nghỉ miễn phí tại khách sạn."
+      }
+    },
+    {
+      "id": 6,
+      "word": "excursion",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a pleasure trip; a trip at a reduced fare",
+      "definition_vi": "chuyến tham quan ngắn, chuyến dã ngoại",
+      "examples": [
+        {
+          "en": "With some time between meetings in London, the company president enjoyed an excursion to Stonehenge.",
+          "vi": "Du thuyền cung cấp các chuyến tham quan có hướng dẫn viên tại mỗi cảng ghé."
+        },
+        {
+          "en": "The finance officer was pleased to find an excursion for the entire consulting team.",
+          "vi": "Chúng tôi đã có một chuyến dã ngoại một ngày đến vùng nông thôn để khám phá các vườn nho địa phương."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "day excursion",
+        "go on an excursion",
+        "guided excursion",
+        "shore excursion"
+      ],
+      "usage": {
+        "structures": [
+          "go on/make an excursion to somewhere (đi tham quan đến đâu)",
+          "shore excursion (chuyến tham quan trên bờ của tàu du lịch)"
+        ],
+        "prepositions": [
+          "to",
+          "on"
+        ],
+        "collocations": [
+          "day excursion",
+          "weekend excursion",
+          "shore excursion",
+          "excursion package"
+        ],
+        "tip": "Cụm 'go on an excursion' hay gặp trong các bài đọc về tour du lịch. 'Shore excursion' là các tour ngắn trên đất liền khi tàu cập cảng."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "excursionist",
+          "example": "The bus was filled with excursionists eager to see the historic castle.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Passengers on the Caribbean cruise can book optional shore _____ at each port of call.",
+        "answer": "excursions",
+        "base_word": "excursion",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Hành khách trên chuyến du thuyền Caribê có thể đặt các chuyến tham quan tự chọn trên bờ tại mỗi cảng ghé thăm."
+      }
+    },
+    {
+      "id": 7,
+      "word": "expense",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "something requiring payment",
+      "definition_vi": "chi phí, phí tổn, khoản chi tiêu",
+      "examples": [
+        {
+          "en": "A luxury vacation involves many expenses.",
+          "vi": "Chi phí đi lại cho hội nghị sẽ được công ty hoàn trả toàn bộ."
+        },
+        {
+          "en": "If we keep our expenses down, we might have enough money to take a longer trip.",
+          "vi": "Công ty đang tìm cách cắt giảm các khoản chi phí không cần thiết trong quý này."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "expense",
+          "example": "To stay within our travel budget, we must keep all our expenses as low as possible."
+        },
+        {
+          "pos": "",
+          "word": "expensively",
+          "example": "The first-class seats are for those who travel expensively but with great style."
+        },
+        {
+          "pos": "",
+          "word": "expensive",
+          "example": "Only the most expensive fares were still available."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "travel expense",
+        "at the expense of",
+        "cut expenses",
+        "expense report"
+      ],
+      "usage": {
+        "structures": [
+          "at one's own expense (bằng chi phí của chính ai)",
+          "expense report (bản báo cáo chi phí công tác)"
+        ],
+        "prepositions": [
+          "at",
+          "of"
+        ],
+        "collocations": [
+          "travel expenses",
+          "operating expenses",
+          "expense account",
+          "incur an expense"
+        ],
+        "tip": "Trong môi trường văn phòng TOEIC, 'submit an expense report' (nộp báo cáo chi phí công tác) để được hoàn tiền ('reimbursement') là tình huống kinh điển."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "expensive",
+          "example": "Staying in five-star hotels can make a business trip very expensive.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "expensively",
+          "example": "The hotel lobby was expensively furnished with marble and Italian leather.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Employees must keep all receipts in order to submit their travel _____ for reimbursement.",
+        "answer": "expenses",
+        "base_word": "expense",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Nhân viên phải giữ tất cả các hóa đơn để nộp các khoản chi phí đi lại nhằm được hoàn trả tiền."
+      }
+    },
+    {
+      "id": 8,
+      "word": "extend",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to make longer; to offer",
+      "definition_vi": "kéo dài, gia hạn; gửi lời (chúc mừng/cảm ơn)",
+      "examples": [
+        {
+          "en": "We extended our vacation by a day.",
+          "vi": "Khách sạn đã đồng ý gia hạn thời gian trả phòng cho chúng tôi thêm hai giờ mà không tính thêm phí."
+        },
+        {
+          "en": "Our wonderful travel agent extended the full services of her firm to us.",
+          "vi": "Giám đốc muốn gửi lời cảm ơn nồng nhiệt đến tất cả nhân viên vì sự cống hiến của họ."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "extend",
+          "example": "When people travel to an interesting destination for business, they often extend their trip by a few days in order to enjoy the place as a tourist."
+        },
+        {
+          "pos": "noun",
+          "word": "extent",
+          "example": "Larry has traveled to Japan many times and the extent of his knowledge of that country is impressive."
+        },
+        {
+          "pos": "",
+          "word": "extensive",
+          "example": "Pamela is taking six months off from work in order to take an extensive tour of South America."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "extend a deadline",
+        "extend a stay",
+        "extend an invitation",
+        "extend gratitude"
+      ],
+      "usage": {
+        "structures": [
+          "extend one's stay (kéo dài kỳ nghỉ/thời gian lưu trú)",
+          "extend thanks/welcome to somebody (gửi lời cảm ơn/chào đón đến ai)"
+        ],
+        "prepositions": [
+          "to",
+          "by"
+        ],
+        "collocations": [
+          "extend deadline",
+          "extend warranty",
+          "extend hospitality",
+          "extend credit"
+        ],
+        "tip": "'Extend' có 2 nghĩa quan trọng trong TOEIC: 1) kéo dài thời gian ('extend a deadline/stay'); 2) bày tỏ tình cảm/lời mời ('extend an invitation/thanks')."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "extension",
+          "example": "She requested a two-week extension on her project deadline.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "extensive",
+          "example": "The travel guide contains extensive information about regional attractions.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "We enjoyed the city so much that we decided to _____ our hotel reservation by three days.",
+        "answer": "extend",
+        "base_word": "extend",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Chúng tôi yêu thích thành phố này đến mức đã quyết định gia hạn thời gian đặt phòng khách sạn thêm ba ngày."
+      }
+    },
+    {
+      "id": 9,
+      "word": "prospective",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "likely to become or be",
+      "definition_vi": "tiềm năng, triển vọng, tương lai",
+      "examples": [
+        {
+          "en": "The airline had a reception to impress travel agents who might be prospective clients.",
+          "vi": "Đại lý du lịch đã gửi các tập tài liệu giới thiệu tour cho các khách hàng tiềm năng."
+        },
+        {
+          "en": "I narrowed my list of prospective destinations to my three top choices.",
+          "vi": "Các nhà tuyển dụng tiềm năng thường kiểm tra kỹ hồ sơ lý lịch của ứng viên trước khi phỏng vấn."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "prospect",
+          "example": "The prospects of getting a seat on this evening&#x27;s flight are not good."
+        },
+        {
+          "pos": "",
+          "word": "prospective",
+          "example": "The travel agency offered special deals in order to attract prospective customers."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "prospective client",
+        "prospective buyer",
+        "prospective employee",
+        "prospective student"
+      ],
+      "usage": {
+        "structures": [
+          "prospective candidate/client (khách hàng/ứng viên tiềm năng)",
+          "prospective investor (nhà đầu tư tương lai)"
+        ],
+        "prepositions": [
+          "for"
+        ],
+        "collocations": [
+          "prospective customer",
+          "prospective partner",
+          "prospective employer",
+          "prospective tenant"
+        ],
+        "tip": "Đừng nhầm lẫn 'prospective' (tiềm năng, tương lai) với 'perspective' (góc nhìn, quan điểm). Trong TOEIC, 'prospective customers/clients' rất hay gặp."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "prospect",
+          "example": "The company is exploring new business prospects in the overseas tourism market.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "prospectively",
+          "example": "The new policy will apply prospectively to all future travel bookings.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The resort manager invited several _____ corporate clients to tour the conference facilities.",
+        "answer": "prospective",
+        "base_word": "prospective",
+        "pos_hint": "tính từ",
+        "vi": "Người quản lý khu nghỉ dưỡng đã mời một số khách hàng doanh nghiệp tiềm năng đến tham quan cơ sở vật chất hội nghị."
+      }
+    },
+    {
+      "id": 10,
+      "word": "situation",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the combination of circumstances at a given moment",
+      "definition_vi": "tình huống, hoàn cảnh, tình thế",
+      "examples": [
+        {
+          "en": "The airline suggested I check with the State Department regarding the political situation in the country I'm flying to.",
+          "vi": "Phi hành đoàn đã xử lý tình huống khẩn cấp một cách bình tĩnh và chuyên nghiệp."
+        },
+        {
+          "en": "The vast number of different airfares available makes for a complicated situation.",
+          "vi": "Do tình hình thời tiết xấu đi nhanh chóng, chuyến bay đã phải chuyển hướng."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "handle a situation",
+        "current situation",
+        "emergency situation",
+        "difficult situation"
+      ],
+      "usage": {
+        "structures": [
+          "in a situation (trong một tình huống)",
+          "handle/deal with a situation (xử lý tình huống)"
+        ],
+        "prepositions": [
+          "in",
+          "with"
+        ],
+        "collocations": [
+          "financial situation",
+          "unforeseen situation",
+          "awkward situation",
+          "win-win situation"
+        ],
+        "tip": "Thường đi kèm động từ 'handle', 'assess', 'manage', 'monitor': 'handle a delicate situation' (xử lý tình huống tế nhị)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "situate",
+          "example": "The historic resort is conveniently situated near the harbor.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "situated",
+          "example": "The hotel is ideally situated within walking distance of the central station.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The flight crew remained calm and assessed the _____ carefully before making an emergency landing.",
+        "answer": "situation",
+        "base_word": "situation",
+        "pos_hint": "danh từ",
+        "vi": "Phi hành đoàn vẫn giữ bình tĩnh và đánh giá tình hình cẩn thận trước khi hạ cánh khẩn cấp."
+      }
+    },
+    {
+      "id": 11,
+      "word": "substantially",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "significantly",
+      "definition_vi": "đáng kể, về căn bản, rất nhiều",
+      "examples": [
+        {
+          "en": "The airline I work for had a substantially higher rating for customer satisfaction than our competitors had.",
+          "vi": "Giá vé máy bay đã giảm đáng kể sau khi chương trình khuyến mãi mùa thu bắt đầu."
+        },
+        {
+          "en": "The airfares charged by different airlines are not substantially different.",
+          "vi": "Lợi nhuận của ngành du lịch đã tăng đáng kể so với cùng kỳ năm ngoái."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "substance",
+          "example": "I couldn&#x27;t recognize the substance that was on my meal tray and that the airlines called dinner."
+        },
+        {
+          "pos": "",
+          "word": "substantial",
+          "example": "Ms. Qin found there was a substantial difference in the price quoted for the plane ticket, depending on which day she flew."
+        },
+        {
+          "pos": "adverb",
+          "word": "substantially",
+          "example": "There is substantially no difference in the quality of food served in first class and in economy class."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "increase substantially",
+        "decrease substantially",
+        "differ substantially",
+        "substantially lower"
+      ],
+      "usage": {
+        "structures": [
+          "substantially higher/lower (cao/thấp hơn đáng kể)",
+          "increase/decrease substantially (tăng/giảm đáng kể)"
+        ],
+        "prepositions": [
+          "than",
+          "in"
+        ],
+        "collocations": [
+          "substantially reduce",
+          "substantially improve",
+          "substantially better",
+          "differ substantially"
+        ],
+        "tip": "Trạng từ 'substantially' (đồng nghĩa với 'significantly', 'considerably') rất hay đứng trước động từ tăng/giảm hoặc trước tính từ so sánh hơn ('substantially higher')."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "substantial",
+          "example": "The airline reported a substantial increase in international passengers this quarter.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "substance",
+          "example": "The report lacks substance and does not explain the true cause of the travel delays.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The travel agency managed to negotiate _____ lower room rates for our group booking.",
+        "answer": "substantially",
+        "base_word": "substantially",
+        "pos_hint": "trạng từ",
+        "vi": "Đại lý du lịch đã thương lượng được mức giá phòng thấp hơn đáng kể cho việc đặt phòng theo nhóm của chúng tôi."
+      }
+    },
+    {
+      "id": 12,
+      "word": "system",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a functionally related group of elements",
+      "definition_vi": "hệ thống, phương pháp có tổ chức",
+      "examples": [
+        {
+          "en": "The airline system covers the entire world with flights.",
+          "vi": "Hệ thống đặt chỗ trực tuyến mới cho phép khách hàng tự chọn chỗ ngồi dễ dàng."
+        },
+        {
+          "en": "We need a better system to keep track of how much money we are spending on this vacation.",
+          "vi": "Mạng lưới giao thông công cộng của thành phố là một hệ thống rất hiệu quả và đáng tin cậy."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "booking system",
+        "transportation system",
+        "computer system",
+        "operating system"
+      ],
+      "usage": {
+        "structures": [
+          "system for doing something (hệ thống cho việc gì)",
+          "in the system (ở trong hệ thống)"
+        ],
+        "prepositions": [
+          "for",
+          "in"
+        ],
+        "collocations": [
+          "reservation system",
+          "communication system",
+          "security system",
+          "implement a system"
+        ],
+        "tip": "Cụm 'reservation/booking system' (hệ thống đặt chỗ) là từ vựng cốt lõi trong các bài đọc liên quan đến khách sạn, nhà hàng và hãng bay."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "systematic",
+          "example": "The airline conducted a systematic inspection of all aircraft engines.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "systematically",
+          "example": "Customer feedback was systematically recorded and reviewed by management.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The hotel upgraded its computer _____ to process guest check-ins much faster.",
+        "answer": "system",
+        "base_word": "system",
+        "pos_hint": "danh từ",
+        "vi": "Khách sạn đã nâng cấp hệ thống máy tính để xử lý thủ tục nhận phòng của khách nhanh hơn nhiều."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "If you travel, you most likely will have to (1) ____ flying. Flying is the quickest, most convenient means of travel between countries, and often between different parts of one country. Flying is (2) ____, but when all costs are taken into account for traveling any (3) ____ distance, air travel is usually less expensive than driving by car. It is also the most (4) ____ way to go in terms of time. You'll miss the scenery en route, but you'll have more time at your vacation (5) ____ with air travel. Airlines sell seats at a variety of prices under a (6) ____ of requirements and restrictions. Full-fare tickets are the most expensive, but give you the most flexibility in terms of making changes. A (7) ____ traveler can buy a ticket up to takeoff time as long as a seat is available. Fares change rapidly, and even travel experts find it difficult to keep up. The changing (8) ____ is due to many factors, including increased competition. As a general rule, the less you pay for the ticket, the more restrictions you can expect. If you are trying to save money, look for (9) ____ fares. These are the airline's (10) ____ of a special sale. Most excursion fares are for round-trip travel and have strict regulations and a minimum and maximum length of stay, so don't count on (11) ____ your vacation or staying less time than required. However, once you are on the plane, you are not (12) ____ from passengers who paid higher fares.",
+    "word_bank": [
+      "deal with",
+      "equivalent",
+      "extending",
+      "situation",
+      "destination",
+      "excursion",
+      "distinguishable",
+      "substantial",
+      "economical",
+      "expensive",
+      "prospective",
+      "system"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "distinguish",
+        "example": "I can&#x27;t distinguish any difference in the two airlines, since their fares are the same.",
+        "pos": "verb"
+      },
+      {
+        "word": "distinguishable",
+        "example": "The airline&#x27;s planes were easily distinguishable by the bright logo on the planes&#x27; tails.",
+        "pos": ""
+      },
+      {
+        "word": "distinguishably",
+        "example": "Even though you have paid a lower fare, you won&#x27;t be distinguishably different than the other passengers on the plane.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "economize",
+        "example": "We no longer fly first class, since our company is trying to economize.",
+        "pos": ""
+      },
+      {
+        "word": "economical",
+        "example": "Without hesitation, we chose the more economical of the two airline tickets.",
+        "pos": ""
+      },
+      {
+        "word": "economically",
+        "example": "A good travel agent can help you plan your trip economically.",
+        "pos": "adverb"
+      }
+    ],
+    [
+      {
+        "word": "expense",
+        "example": "To stay within our travel budget, we must keep all our expenses as low as possible.",
+        "pos": "noun"
+      },
+      {
+        "word": "expensively",
+        "example": "The first-class seats are for those who travel expensively but with great style.",
+        "pos": ""
+      },
+      {
+        "word": "expensive",
+        "example": "Only the most expensive fares were still available.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "extend",
+        "example": "When people travel to an interesting destination for business, they often extend their trip by a few days in order to enjoy the place as a tourist.",
+        "pos": ""
+      },
+      {
+        "word": "extent",
+        "example": "Larry has traveled to Japan many times and the extent of his knowledge of that country is impressive.",
+        "pos": "noun"
+      },
+      {
+        "word": "extensive",
+        "example": "Pamela is taking six months off from work in order to take an extensive tour of South America.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "prospect",
+        "example": "The prospects of getting a seat on this evening&#x27;s flight are not good.",
+        "pos": ""
+      },
+      {
+        "word": "prospective",
+        "example": "The travel agency offered special deals in order to attract prospective customers.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "substance",
+        "example": "I couldn&#x27;t recognize the substance that was on my meal tray and that the airlines called dinner.",
+        "pos": ""
+      },
+      {
+        "word": "substantial",
+        "example": "Ms. Qin found there was a substantial difference in the price quoted for the plane ticket, depending on which day she flew.",
+        "pos": ""
+      },
+      {
+        "word": "substantially",
+        "example": "There is substantially no difference in the quality of food served in first class and in economy class.",
+        "pos": "adverb"
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "Let me point out the features of our service that ____ our airline from our competitors.",
+        "options": [
+          {
+            "label": "A",
+            "text": "distinguishably"
+          },
+          {
+            "label": "B",
+            "text": "distinguishable"
+          },
+          {
+            "label": "C",
+            "text": "distinguishing"
+          },
+          {
+            "label": "D",
+            "text": "distinguish"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "Let's shop around until we find a more ____ airfare.",
+        "options": [
+          {
+            "label": "A",
+            "text": "economical"
+          },
+          {
+            "label": "B",
+            "text": "economize"
+          },
+          {
+            "label": "C",
+            "text": "economy"
+          },
+          {
+            "label": "D",
+            "text": "economically"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "We need to keep our ____ down so you'll have to find us better prices on airline tickets.",
+        "options": [
+          {
+            "label": "A",
+            "text": "expensiveness"
+          },
+          {
+            "label": "B",
+            "text": "expensively"
+          },
+          {
+            "label": "C",
+            "text": "expenses"
+          },
+          {
+            "label": "D",
+            "text": "expensive"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "I decided not to ____ my trip since I felt so tired by the time I finished my business meetings.",
+        "options": [
+          {
+            "label": "A",
+            "text": "extended"
+          },
+          {
+            "label": "B",
+            "text": "extent"
+          },
+          {
+            "label": "C",
+            "text": "extensive"
+          },
+          {
+            "label": "D",
+            "text": "extend"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "My travel agent said there were good ____ of finding a reasonably priced airfare.",
+        "options": [
+          {
+            "label": "A",
+            "text": "prospective"
+          },
+          {
+            "label": "B",
+            "text": "prospectively"
+          },
+          {
+            "label": "C",
+            "text": "prospectors"
+          },
+          {
+            "label": "D",
+            "text": "prospects"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "Unless the airfares differ ____, you should book seats on the airline with which you have frequent flyer miles.",
+        "options": [
+          {
+            "label": "A",
+            "text": "substance"
+          },
+          {
+            "label": "B",
+            "text": "substantially"
+          },
+          {
+            "label": "C",
+            "text": "substantial"
+          },
+          {
+            "label": "D",
+            "text": "substantiality"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Renovated City Airport Now Open Frequent flyers will be happy to know that the renovations at City Airport are finally finished. The airport renovations were scheduled for completion at the end of last year, but the construction team fell behind schedule and [16] the deadlines twice. Now the work is completed, and travelers no longer have to deal [17] the noise, dust, and inconvenience of construction work. Passengers can move more easily and comfortably through the airport, and everything is easier to find. One of the biggest improvements in the renovated airport is the signs indicating the location of the various airlines' check-in counters. The new signs are much [18] than the old ones, and it is easier for passengers to find the airlines they are looking for. In general, now that the work at the airport is finally over, the situation there has substantially improved.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "extend"
+            },
+            {
+              "label": "B",
+              "text": "extended"
+            },
+            {
+              "label": "C",
+              "text": "have extended"
+            },
+            {
+              "label": "D",
+              "text": "had extended"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "to"
+            },
+            {
+              "label": "B",
+              "text": "for"
+            },
+            {
+              "label": "C",
+              "text": "with"
+            },
+            {
+              "label": "D",
+              "text": "from"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "distinguishable"
+            },
+            {
+              "label": "B",
+              "text": "more distinguishable"
+            },
+            {
+              "label": "C",
+              "text": "most distinguishable"
+            },
+            {
+              "label": "D",
+              "text": "the most distinguishable"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following two e-mail messages. To: Belinda Tuttle From: Mark Wallaby Subject: Re: Amazon Tours Dear Ms. Tuttle, In response to your request for information on guided tours in the Amazon region, I have found two excursions that may interest you. Both are led by reputable companies that are known for organizing interesting and educational trips at reasonable expense. One led by Jungle Tours, Inc., goes to all the destinations you are interested in visiting and lasts two weeks, the length of time you requested. However, it leaves on November 10th, a week earlier than the date you mentioned. I don't know whether or not you would be able to leave this early. There is a tour leaving on your designated date, run by Paradise Adventures. It doesn't, however, go to all the destinations you are interested in, and it lasts three weeks, not two, so you wouldn't return until December 8th. I don't know whether or not you would be able to extend the length of your vacation. If either of these two prospects interests you, let me know. Otherwise I will keep looking for a tour that will suit you. Mark Wallaby Southern Travel To: Mark Wallaby From: Belinda Tuttle Subject Re: Amazon Tours Dear Mr. Wallaby, Thank you for the information on trips to the Amazon. Unfortunately, I cannot change the dates of my vacation because of my work situation. The end of the year is a very busy time for accountants, and I will have a lot of work to deal with as soon as I return from my trip. On the other hand, I don't really need to economize, so I am flexible about the expense. The exact destinations don't really matter either. I will be happy just to visit that part of the world. So please keep looking and let me know what you find. Thank you for your efforts. Belinda Tuttle 22. The word prospects in line 18 of the first e-mail is closest in meaning to (A) possibilities (B) businesses (C) ideas (D) plans",
+        "questions": [
+          {
+            "number": 19,
+            "question": "What is Mark Wallaby's job?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Tour guide."
+              },
+              {
+                "label": "B",
+                "text": "Educator."
+              },
+              {
+                "label": "C",
+                "text": "Accountant."
+              },
+              {
+                "label": "D",
+                "text": "Travel agent."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "When does Ms. Tuttle want to begin her vacation?",
+            "options": [
+              {
+                "label": "A",
+                "text": "November 10."
+              },
+              {
+                "label": "B",
+                "text": "November 17."
+              },
+              {
+                "label": "C",
+                "text": "December 1."
+              },
+              {
+                "label": "D",
+                "text": "December 8."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "Why doesn't Ms. Tuttle like the tours suggested by Mr. Wallaby?",
+            "options": [
+              {
+                "label": "A",
+                "text": "They are too expensive."
+              },
+              {
+                "label": "B",
+                "text": "The companies have a bad reputation."
+              },
+              {
+                "label": "C",
+                "text": "They go to the wrong destinations."
+              },
+              {
+                "label": "D",
+                "text": "The dates don't fit her vacation time."
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word situation in line 3 of the second e-mail is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "location"
+              },
+              {
+                "label": "B",
+                "text": "requirements"
+              },
+              {
+                "label": "C",
+                "text": "circumstances"
+              },
+              {
+                "label": "D",
+                "text": "responsibilities"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What are the speakers discussing?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The length of the trip."
+          },
+          {
+            "label": "B",
+            "text": "The schedule of the airline."
+          },
+          {
+            "label": "C",
+            "text": "The cost of the ticket."
+          },
+          {
+            "label": "D",
+            "text": "The quality of the airline."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How can the woman get a lower airfare?",
+        "options": [
+          {
+            "label": "A",
+            "text": "By staying for just two days."
+          },
+          {
+            "label": "B",
+            "text": "By flying to a different city."
+          },
+          {
+            "label": "C",
+            "text": "By charging it as a work expense."
+          },
+          {
+            "label": "D",
+            "text": "By changing the day of her arrival."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "When does the woman want to arrive?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Sunday."
+          },
+          {
+            "label": "B",
+            "text": "Monday."
+          },
+          {
+            "label": "C",
+            "text": "Tuesday."
+          },
+          {
+            "label": "D",
+            "text": "Wednesday."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "How can a client find out about tickets to another country?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Call back later."
+          },
+          {
+            "label": "B",
+            "text": "Press two."
+          },
+          {
+            "label": "C",
+            "text": "Use the computer."
+          },
+          {
+            "label": "D",
+            "text": "Press one."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What can a client do by pressing three?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Make hotel reservations."
+          },
+          {
+            "label": "B",
+            "text": "Purchase airline tickets."
+          },
+          {
+            "label": "C",
+            "text": "Find out about excursion rates."
+          },
+          {
+            "label": "D",
+            "text": "Connect with the agency's computer."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "Why is there no information on excursions?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The excursion rates are no longer available."
+          },
+          {
+            "label": "B",
+            "text": "The computer system is not working."
+          },
+          {
+            "label": "C",
+            "text": "The situation has changed."
+          },
+          {
+            "label": "D",
+            "text": "The excursions have all been reserved."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. What are the speakers discussing? (A) The length of the trip. (B) The schedule of the airline. (C) The cost of the ticket. (D) The quality of the airline. 5. How can the woman get a lower airfare? (A) By staying for just two days. (B) By flying to a different city. (C) By charging it as a work expense. (D) By changing the day of her arrival. 6. When does the woman want to arrive? (A) Sunday. (B) Monday. (C) Tuesday. (D) Wednesday. Listen to the talk. Then read each question and choose the best answer. 7. How can a client find out about tickets to another country? (A) Call back later. (B) Press two. (C) Use the computer. (D) Press one. 8. What can a client do by pressing three? (A) Make hotel reservations. (B) Purchase airline tickets. (C) Find out about excursion rates. (D) Connect with the agency's computer. 9. Why is there no information on excursions? (A) The excursion rates are no longer available. (B) The computer system is not working. (C) The situation has changed. (D) The excursions have all been reserved.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question–Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What are the speakers discussing?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The length of the trip."
+          },
+          {
+            "label": "B",
+            "text": "The schedule of the airline."
+          },
+          {
+            "label": "C",
+            "text": "The cost of the ticket."
+          },
+          {
+            "label": "D",
+            "text": "The quality of the airline."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How can the woman get a lower airfare?",
+        "options": [
+          {
+            "label": "A",
+            "text": "By staying for just two days."
+          },
+          {
+            "label": "B",
+            "text": "By flying to a different city."
+          },
+          {
+            "label": "C",
+            "text": "By charging it as a work expense."
+          },
+          {
+            "label": "D",
+            "text": "By changing the day of her arrival."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "When does the woman want to arrive?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Sunday."
+          },
+          {
+            "label": "B",
+            "text": "Monday."
+          },
+          {
+            "label": "C",
+            "text": "Tuesday."
+          },
+          {
+            "label": "D",
+            "text": "Wednesday."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "How can a client find out about tickets to another country?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Call back later."
+          },
+          {
+            "label": "B",
+            "text": "Press two."
+          },
+          {
+            "label": "C",
+            "text": "Use the computer."
+          },
+          {
+            "label": "D",
+            "text": "Press one."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What can a client do by pressing three?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Make hotel reservations."
+          },
+          {
+            "label": "B",
+            "text": "Purchase airline tickets."
+          },
+          {
+            "label": "C",
+            "text": "Find out about excursion rates."
+          },
+          {
+            "label": "D",
+            "text": "Connect with the agency's computer."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "Why is there no information on excursions?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The excursion rates are no longer available."
+          },
+          {
+            "label": "B",
+            "text": "The computer system is not working."
+          },
+          {
+            "label": "C",
+            "text": "The situation has changed."
+          },
+          {
+            "label": "D",
+            "text": "The excursions have all been reserved."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "Lesson 37\n\n## WORDS TO LEAR$_{1}$\n\n\\- -l .. :h\n\nd n n\n\necon mize\n\nequ' :\n\nexcursion\n\nex- - -\n\nextend\n\nnprop  iv\n\nSuu idru\n\n## Airlines\n\nStudy the following definitions and examples.\n\n1. deal with v. phrase, to attend to; to manage; to see to\n\na. Ticket agents must deal courteously with irate customers.\n\nb. Sick passengers, frightened children, and rude pilots are just a few of the things cabin attendants have to deal with.\n\n2. destination n., the place to which one is going or directed\n\na. The Great Barrier Reef is a popular tourist destination this year.\n\nb. Once you have determined your desired destination, we can work toward getting the best airfare.\n\n3. distinguish v., to make noticeable or different\n\na. Suki was able to distinguish between the different types of jets on the runway.\nb. My travel agent has distinguished herself as being one of the best in our area.\n\n4. economize v., to be careful about spending money\n\na. My travel agent knows I like to economize and always looks out for the best prices for me.\n\nb. We decided to economize this year and take our vacation during the off season, when prices are lower.\n\n5. equivalent adj., equal\n\na. Carlos used the Internet to search for hotels of equivalent dollar value to the one recommended.\n\nb. The food the airline serves in coach class is equivalent to that served in first class.\n\n6. excursion n., a pleasure trip; a trip at a reduced fare\n\na. With some time between meetings in London, the company president enjoyed an excursion to Stonehenge.\n\nb. The finance officer was pleased to find an excursion for the entire consulting team.\n\n7. expense n., something requiring payment\n\na. A luxury vacation involves many expenses.\n\nb. If we keep our expenses down, we might have enough money to take a longer trip.\n\n8. extend v., to make longer; to offer\n\na. We extended our vacation by a day.\n\nb. Our wonderful travel agent extended the full services of her firm to us.\n\n9. prospective adj., likely to become or be\n\na. The airline had a reception to impress travel agents who might be prospective clients.\n\nb. I narrowed my list of prospective destinations to my three top choices.\n\n10. situation n., the combination of circumstances at a given moment a. The airline suggested I check with the State Department regarding the political situation in the country I'm flying to.\n\nb. The vast number of different airfares available makes for a complicated situation.\n\n11. substantially adj., significantly\n\na. The airline I work for had a substantially higher rating for customer satisfaction than our competitors had.\n\nb. The airfares charged by different airlines are not substantially different.\n\n12. system n., a functionally related group of elements\n\na. The airline system covers the entire world with flights.\n\nb. We need a better system to keep track of how much money we are spending on this vacation.",
+    "words_in_context": "## WORDS IN CONTEXT\n\n## Read the following passage and write the words in the blanks below.\n\n| deal with | equivalent | extending | situation |\n| --- | --- | --- | --- |\n| destination | excursion | distinguishable | substantial |\n| economical | expensive | prospective | system |\n\nIf you travel, you most likely will have to (1) \\_\\_\\_\\_ flying. Flying is the quickest, most convenient means of travel between countries, and often between different parts of one country. Flying is (2) \\_\\_\\_\\_, but when all costs are taken into account for traveling any (3) \\_\\_\\_\\_ distance, air travel is usually less expensive than driving by car. It is also the most (4) \\_\\_\\_\\_ way to go in terms of time. You'll miss the scenery en route, but you'll have more time at your vacation (5) \\_\\_\\_\\_ with air travel.\n\nAirlines sell seats at a variety of prices under a (6) \\_\\_\\_\\_ of requirements and restrictions. Full-fare tickets are the most expensive, but give you the most flexibility in terms of making changes. A (7) \\_\\_\\_\\_ traveler can buy a ticket up to takeoff time as long as a seat is available.\n\nFares change rapidly, and even travel experts find it difficult to keep up. The changing (8) \\_\\_\\_\\_ is due to many factors, including increased competition. As a general rule, the less you pay for the ticket, the more restrictions you can expect. If you are trying to save money, look for (9) \\_\\_\\_\\_ fares. These are the airline's (10) \\_\\_\\_\\_ of a special sale. Most excursion fares are for round-trip travel and have strict regulations and a minimum and maximum length of stay, so don't count on (11) \\_\\_\\_\\_ your vacation or staying less time than required. However, once you are on the plane, you are not (12) \\_\\_\\_\\_ from passengers who paid higher fares.",
+    "word_families": "## WORD FAMILIES\n\n<table><tr><td>verb</td><td>distinguish</td><td>I can&#x27;t distinguish any difference in the two airlines, since their fares are the same.</td></tr><tr><td>_ _ _</td><td>distinguishable</td><td>The airline&#x27;s planes were easily distinguishable by the bright logo on the planes&#x27; tails.</td></tr><tr><td>_ _ rb</td><td>distinguishably</td><td>Even though you have paid a lower fare, you won&#x27;t be distinguishably different than the other passengers on the plane.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>_ _ _</td><td>economize</td><td>We no longer fly first class, since our company is trying to economize.</td></tr><tr><td>_ _ _</td><td>economical</td><td>Without hesitation, we chose the more economical of the two airline tickets.</td></tr><tr><td>adverb</td><td>economically</td><td>A good travel agent can help you plan your trip economically.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>noun</td><td>expense</td><td>To stay within our travel budget, we must keep all our expenses as low as possible.</td></tr><tr><td>_ _ _</td><td>expensively</td><td>The first-class seats are for those who travel expensively but with great style.</td></tr><tr><td>_ _ _</td><td>expensive</td><td>Only the most expensive fares were still available.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>_ _ _</td><td>extend</td><td>When people travel to an interesting destination for business, they often extend their trip by a few days in order to enjoy the place as a tourist.</td></tr><tr><td>noun</td><td>extent</td><td>Larry has traveled to Japan many times and the extent of his knowledge of that country is impressive.</td></tr><tr><td>_ _ _e</td><td>extensive</td><td>Pamela is taking six months off from work in order to take an extensive tour of South America.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>_ _ un</td><td>prospect</td><td>The prospects of getting a seat on this evening&#x27;s flight are not good.</td></tr><tr><td></td><td>prospective</td><td>The travel agency offered special deals in order to attract prospective customers.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>_ _ _</td><td>substance</td><td>I couldn&#x27;t recognize the substance that was on my meal tray and that the airlines called dinner.</td></tr><tr><td></td><td>substantial</td><td>Ms. Qin found there was a substantial difference in the price quoted for the plane ticket, depending on which day she flew.</td></tr><tr><td>adverb</td><td>substantially</td><td>There is substantially no difference in the quality of food served in first class and in economy class.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n## Part 2 Question–Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. What are the speakers discussing?\n(A) The length of the trip.\n(B) The schedule of the airline.\n(C) The cost of the ticket.\n(D) The quality of the airline.\n\n5. How can the woman get a lower airfare?\n(A) By staying for just two days.\n(B) By flying to a different city.\n(C) By charging it as a work expense.\n(D) By changing the day of her arrival.\n\n6. When does the woman want to arrive?\n(A) Sunday.\n(B) Monday.\n(C) Tuesday.\n(D) Wednesday.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. How can a client find out about tickets to another country?\n(A) Call back later.\n(B) Press two.\n(C) Use the computer.\n(D) Press one.\n\n8. What can a client do by pressing three?\n(A) Make hotel reservations.\n(B) Purchase airline tickets.\n(C) Find out about excursion rates.\n(D) Connect with the agency's computer.\n\n9. Why is there no information on excursions?\n(A) The excursion rates are no longer available.\n(B) The computer system is not working.\n(C) The situation has changed.\n(D) The excursions have all been reserved.",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. Let me point out the features of our service that \\_\\_\\_\\_ our airline from our competitors.\n(A) distinguishably (C) distinguishing\n(B) distinguishable (D) distinguish\n\n11. Let's shop around until we find a more \\_\\_\\_\\_ airfare.\n(A) economical (C) economy\n(B) economize (D) economically\n\n12. We need to keep our \\_\\_\\_\\_ down so you'll have to find us better prices on airline tickets.\n(A) expensiveness (C) expenses\n(B) expensively (D) expensive\n\n13. I decided not to \\_\\_\\_\\_ my trip since I felt so tired by the time I finished my business meetings.\n(A) extended (C) extensive\n(B) extent (D) extend\n\n14. My travel agent said there were good \\_\\_\\_\\_ of finding a reasonably priced airfare.\n(A) prospective (C) prospectors\n(B) prospectively (D) prospects\n\n15. Unless the airfares differ \\_\\_\\_\\_, you should book seats on the airline with which you have frequent flyer miles.\n(A) substance (C) substantial\n(B) substantially (D) substantiality\n\n## Part 6 Text Completion\n\n## Renovated City Airport Now Open\n\nFrequent flyers will be happy to know that the renovations at City Airport are finally finished. The airport renovations were scheduled for completion at the end of last year, but the construction team fell behind schedule and \\_16\\_ the deadlines twice. Now the work is completed, and travelers no longer have to deal \\_17\\_ the noise, dust, and inconvenience of construction work. Passengers can move more easily and comfortably through the airport, and everything is easier to find. One of the biggest improvements in the renovated airport is the signs indicating the location of the various airlines' check-in counters. The new signs are much \\_18\\_ than the old ones, and it is easier for passengers to find the airlines they are looking for. In general, now that the work at the airport is finally over, the situation there has substantially improved.\n\n16. (A) extend  \n(B) extended  \n(C) have extended  \n(D) had extended\n\n17. (A) to (B) for (C) with (D) from\n\n18. (A) distinguishable  \n(B) more distinguishable  \n(C) most distinguishable  \n(D) the most distinguishable",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following two e-mail messages.\n\nTo: Belinda Tuttle  \nFrom: Mark Wallaby  \nSubject: Re: Amazon Tours\n\nDear Ms. Tuttle,\n\nIn response to your request for information on guided tours in the Amazon region, I have found two excursions that may interest you. Both are led by reputable companies that are known for organizing interesting and educational trips at reasonable expense. One led by Jungle Tours, Inc., goes to all the destinations you are interested in visiting and lasts two weeks, the length of time you requested. However, it leaves on November 10th, a week earlier than the date you mentioned. I don't know whether or not you would be able to leave this early. There is a tour leaving on your designated date, run by Paradise Adventures. It doesn't, however, go to all the destinations you are interested in, and it lasts three weeks, not two, so you wouldn't return until December 8th. I don't know whether or not you would be able to extend the length of your vacation. If either of these two prospects interests you, let me know. Otherwise I will keep looking for a tour that will suit you.\n\nMark Wallaby Southern Travel\n\n19. What is Mark Wallaby's job?\n(A) Tour guide.\n(B) Educator.\n(C) Accountant.\n(D) Travel agent.\n\n20. When does Ms. Tuttle want to begin her vacation?\n(A) November 10.\n(B) November 17.\n(C) December 1.\n(D) December 8.\n\n21. Why doesn't Ms. Tuttle like the tours suggested by Mr. Wallaby?\n(A) They are too expensive.\n(B) The companies have a bad reputation.\n(C) They go to the wrong destinations.\n(D) The dates don't fit her vacation time.\n\nTo: Mark Wallaby  \nFrom: Belinda Tuttle  \nSubject Re: Amazon Tours\n\nDear Mr. Wallaby,\n\nThank you for the information on trips to the Amazon. Unfortunately, I cannot change the dates of my vacation because of my work situation. The end of the year is a very busy time for accountants, and I will have a lot of work to deal with as soon as I return from my trip. On the other hand, I don't really need to economize, so I am flexible about the expense. The exact destinations don't really matter either. I will be happy just to visit that part of the world. So please keep looking and let me know what you find. Thank you for your efforts.\n\nBelinda Tuttle\n\n22. The word prospects in line 18 of the first e-mail is closest in meaning to (A) possibilities (B) businesses (C) ideas (D) plans\n\n23. The word situation in line 3 of the second e-mail is closest in meaning to  \n(A) location  \n(B) requirements  \n(C) circumstances  \n(D) responsibilities"
+  },
+  "needs_review": true
+}

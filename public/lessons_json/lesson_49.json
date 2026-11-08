@@ -1,0 +1,1663 @@
+{
+  "lesson_id": 49,
+  "title": "Hospitals",
+  "theme_name": "Health",
+  "audio_track": "track_49.mp3",
+  "part1_photo": "part1_photos/lesson_49.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "admit",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to permit to enter",
+      "definition_vi": "nhập viện, cho phép vào; thừa nhận",
+      "examples": [
+        {
+          "en": "The injured patient was admitted to the unit directly from the emergency room.",
+          "vi": "Bệnh nhân bị thương đã được chuyển nhập viện vào khoa trực tiếp từ phòng cấp cứu."
+        },
+        {
+          "en": "The staff refused to admit the patient until he had proof of insurance.",
+          "vi": "Nhân viên từ chối cho bệnh nhân nhập viện cho đến khi ông ấy có bằng chứng về bảo hiểm."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "admit",
+          "example": "The patients lined the hospital corridors waiting to be admitted."
+        },
+        {
+          "pos": "",
+          "word": "admittance",
+          "example": "Your admittance to the hospital is dependent on your showing proof that you can pay the bills."
+        },
+        {
+          "pos": "",
+          "word": "admission",
+          "example": "Take these records down to Admissions and have them duplicate the files for you."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "be admitted to the hospital",
+        "admit a mistake",
+        "admission fee",
+        "gain admittance"
+      ],
+      "usage": {
+        "structures": [
+          "be admitted + to + N (the hospital / a university)",
+          "admit + V-ing / that + S + V"
+        ],
+        "prepositions": [
+          "to",
+          "into"
+        ],
+        "collocations": [
+          "be admitted to the hospital",
+          "Admissions desk",
+          "free admission",
+          "gain admittance to"
+        ],
+        "tip": "Trong ngữ cảnh bệnh viện, 'be admitted to the hospital' nghĩa là 'được cho nhập viện'; gấp đôi chữ 't' khi chia 'admitted'."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "admissible",
+          "example": "Only official medical receipts are admissible for insurance reimbursement.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "admittedly",
+          "example": "The new check-in system is, admittedly, much faster than the old paper forms.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "All visitors must check in at the main _____ desk on the ground floor to receive a visitor badge.",
+        "answer": "admissions",
+        "base_word": "admit",
+        "pos_hint": "danh từ số nhiều (quầy tiếp nhận)",
+        "vi": "Tất cả khách thăm phải đăng ký tại quầy tiếp nhận chính ở tầng trệt để nhận thẻ khách."
+      }
+    },
+    {
+      "id": 2,
+      "word": "authorize",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to approve",
+      "definition_vi": "ủy quyền, cấp phép, phê duyệt chính thức",
+      "examples": [
+        {
+          "en": "The doctor suggested that she check with her insurance company to make sure it would authorize a lengthened hospital stay.",
+          "vi": "Bác sĩ gợi ý rằng cô nên kiểm tra với công ty bảo hiểm để chắc chắn họ sẽ phê duyệt cho việc kéo dài thời gian nằm viện."
+        },
+        {
+          "en": "We cannot share the test results with you until we have been authorized to do so by your doctor.",
+          "vi": "Chúng tôi không thể chia sẻ kết quả xét nghiệm với bạn cho đến khi được bác sĩ của bạn cho phép làm vậy."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "authorize",
+          "example": "Your doctor has to authorize these tests before we can proceed with them."
+        },
+        {
+          "pos": "",
+          "word": "authority",
+          "example": "Before major surgery, it is a good idea to give decision-making authority to a close relative in case something happens to you."
+        },
+        {
+          "pos": "",
+          "word": "authorization",
+          "example": "The nurse could not submit an authorization over the phone; it had to be done in writing."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "authorize a payment",
+        "authorize sb to do",
+        "prior authorization",
+        "authorized dealer"
+      ],
+      "usage": {
+        "structures": [
+          "authorize + N",
+          "authorize + sb + to V",
+          "be authorized + to V"
+        ],
+        "prepositions": [
+          "to",
+          "for"
+        ],
+        "collocations": [
+          "authorize a procedure",
+          "prior written authorization",
+          "authorized personnel",
+          "decision-making authority"
+        ],
+        "tip": "Cấu trúc 'authorize sb to V' / 'be authorized to V' (được ủy quyền/cấp phép làm gì) và danh từ 'authorization' (sự cấp phép) xuất hiện rất nhiều trong đề TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "authorized",
+          "example": "Only an authorized physician may sign the patient discharge papers.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "authoritative",
+          "example": "The medical journal published an authoritative study on post-surgical recovery.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The insurance provider requires prior written _____ before covering any non-emergency MRI scans.",
+        "answer": "authorization",
+        "base_word": "authorize",
+        "pos_hint": "danh từ",
+        "vi": "Nhà cung cấp bảo hiểm yêu cầu phải có văn bản phê duyệt trước khi chi trả cho bất kỳ ca chụp cộng hưởng từ (MRI) không khẩn cấp nào."
+      }
+    },
+    {
+      "id": 3,
+      "word": "designate",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to indicate or specify",
+      "definition_vi": "chỉ định, bổ nhiệm, đánh dấu/quy định",
+      "examples": [
+        {
+          "en": "The labels on the bags designated the type of blood they contained.",
+          "vi": "Nhãn trên các túi máu ghi rõ nhóm máu mà chúng chứa bên trong."
+        },
+        {
+          "en": "On her admittance form, Grandmother designated Aunt Tessa as her chief decision-maker.",
+          "vi": "Trên mẫu đơn nhập viện của mình, bà đã chỉ định dì Tessa là người đưa ra quyết định chính cho bà."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "designate",
+          "example": "The hospital administrator designated a team to create an emergency preparedness plan."
+        },
+        {
+          "pos": "",
+          "word": "designation",
+          "example": "The designation of the hospital as one of the best in the region certainly helped its marketing efforts."
+        },
+        {
+          "pos": "",
+          "word": "designator",
+          "example": "The national health service is the sole designator of which hospitals will get the grants."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "designated area",
+        "designate sb as",
+        "designated parking",
+        "officially designate"
+      ],
+      "usage": {
+        "structures": [
+          "designate + A + as + B",
+          "designate + sb + to V",
+          "designated + N (area/driver/parking)"
+        ],
+        "prepositions": [
+          "as",
+          "for",
+          "to"
+        ],
+        "collocations": [
+          "designated smoking area",
+          "designated parking space",
+          "designate a representative",
+          "official designation"
+        ],
+        "tip": "Tính từ phân từ 'designated' đứng trước danh từ như 'designated area/parking/spot' (khu vực/chỗ đậu xe được quy định riêng) cực kỳ phổ biến."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "designated",
+          "example": "Ambulances must use the designated entrance on the north side of the hospital.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Visitors are asked to park only in the _____ visitor lots located across from the main clinic.",
+        "answer": "designated",
+        "base_word": "designate",
+        "pos_hint": "tính từ / quá khứ phân từ V3/ed",
+        "vi": "Khách đến thăm được yêu cầu chỉ đỗ xe tại các bãi đỗ xe dành riêng cho khách nằm đối diện phòng khám chính."
+      }
+    },
+    {
+      "id": 4,
+      "word": "escort",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a person accompanying another to guide or protect",
+      "definition_vi": "người hộ tống, người đi kèm hướng dẫn; hộ tống, dẫn đi",
+      "examples": [
+        {
+          "en": "Let's see if there is an escort available to take you to the parking garage.",
+          "vi": "Hãy xem liệu có nhân viên hướng dẫn/hộ tống nào sẵn sàng đưa bạn ra nhà để xe hay không."
+        },
+        {
+          "en": "You cannot leave the unit on your own; you'll have to wait for an escort.",
+          "vi": "Bạn không thể tự ý rời khỏi khoa; bạn sẽ phải đợi người đi kèm hỗ trợ."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "security escort",
+        "escort visitors",
+        "under escort",
+        "escort to the exit"
+      ],
+      "usage": {
+        "structures": [
+          "escort + sb + to + place",
+          "wait for an escort"
+        ],
+        "prepositions": [
+          "to",
+          "from",
+          "under"
+        ],
+        "collocations": [
+          "escort patients to",
+          "security escort",
+          "be escorted by",
+          "volunteer escort"
+        ],
+        "tip": "Vừa là danh từ chỉ người (wait for an escort) vừa là ngoại động từ (escort visitors to the conference room)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "escort",
+          "example": "A hospital volunteer will escort you to the radiology department on the third floor.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "escort",
+          "example": "Discharged patients are taken to the main entrance by a staff escort.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "escorted",
+          "example": "All contractors must remain escorted while working in restricted hospital wings.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Upon discharge, recovering surgery patients are _____ to their vehicles by a nursing assistant.",
+        "answer": "escorted",
+        "base_word": "escort",
+        "pos_hint": "động từ chia quá khứ phân từ V3/ed (bị động)",
+        "vi": "Khi xuất viện, các bệnh nhân vừa hồi phục sau phẫu thuật sẽ được một trợ lý điều dưỡng đưa ra tận xe."
+      }
+    },
+    {
+      "id": 5,
+      "word": "identify",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to ascertain the name or belongings of",
+      "definition_vi": "nhận diện, xác định danh tính, tìm ra",
+      "examples": [
+        {
+          "en": "The tiny bracelets identified each baby in the nursery.",
+          "vi": "Những chiếc vòng tay nhỏ xíu giúp xác định danh tính từng em bé trong phòng sơ sinh."
+        },
+        {
+          "en": "Your medical records are all marked with your patient number to identify them in case of a mix-up.",
+          "vi": "Tất cả hồ sơ bệnh án của bạn đều được đánh dấu bằng mã số bệnh nhân để nhận diện chúng trong trường hợp bị thất lạc/nhầm lẫn."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "identify",
+          "example": "If you will identify your valuables, the nurse will give them back to you."
+        },
+        {
+          "pos": "",
+          "word": "identification",
+          "example": "Please remember to bring some form of identification with you when you check in at the hospital."
+        },
+        {
+          "pos": "",
+          "word": "identifiable",
+          "example": "The red cross on the hospital&#x27;s helicopter landing pad was identifiable from the air."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "identify a problem",
+        "photo identification",
+        "clearly identify",
+        "easily identifiable"
+      ],
+      "usage": {
+        "structures": [
+          "identify + N",
+          "identify + A + as + B",
+          "identify + with + sb"
+        ],
+        "prepositions": [
+          "as",
+          "with",
+          "by"
+        ],
+        "collocations": [
+          "photo identification",
+          "identify the cause of",
+          "easily identifiable",
+          "identification badge"
+        ],
+        "tip": "Danh từ 'identification' (giấy tờ tùy thân / thẻ căn cước - viết tắt là ID) thường đi trong cụm 'a valid form of photo identification'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "identity",
+          "example": "Nurses always verify a patient's identity before administering medication.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "unidentified",
+          "example": "Security guards reported an unidentified vehicle parked in the ambulance zone.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Patients must present a valid form of photo _____ when registering at the outpatient clinic.",
+        "answer": "identification",
+        "base_word": "identify",
+        "pos_hint": "danh từ",
+        "vi": "Bệnh nhân phải xuất trình một loại giấy tờ tùy thân có ảnh hợp lệ khi đăng ký tại phòng khám ngoại trú."
+      }
+    },
+    {
+      "id": 6,
+      "word": "mission",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an inner calling to pursue an activity or perform a service",
+      "definition_vi": "sứ mệnh, nhiệm vụ quan trọng, mục tiêu cốt lõi",
+      "examples": [
+        {
+          "en": "The hospital chaplain took as his mission to visit every patient admitted each day.",
+          "vi": "Vị tuyên úy của bệnh viện coi sứ mệnh của mình là đến thăm mọi bệnh nhân nhập viện mỗi ngày."
+        },
+        {
+          "en": "The nurse explained that the mission of everyone in the unit was to make sure the patients got well as soon as possible.",
+          "vi": "Cô y tá giải thích rằng sứ mệnh của tất cả mọi người trong khoa là đảm bảo bệnh nhân bình phục càng sớm càng tốt."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "mission statement",
+        "accomplish a mission",
+        "core mission",
+        "fact-finding mission"
+      ],
+      "usage": {
+        "structures": [
+          "mission + to V",
+          "the mission of + N",
+          "mission statement"
+        ],
+        "prepositions": [
+          "of",
+          "to"
+        ],
+        "collocations": [
+          "mission statement",
+          "fulfill a mission",
+          "humanitarian mission",
+          "medical mission"
+        ],
+        "tip": "Cụm danh từ ghép 'mission statement' (bản tuyên bố sứ mệnh của công ty/tổ chức) rất hay gặp trong các bài đọc giới thiệu doanh nghiệp."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "mission",
+          "example": "Our hospital's primary mission is to provide compassionate, high-quality care to the community.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "missionary",
+          "example": "The clinic was originally founded by a medical missionary in the nineteenth century.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "missional",
+          "example": "The charity hospital remains committed to its missional goals of serving low-income families.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "According to the hospital's _____ statement, patient safety and community wellness are its top priorities.",
+        "answer": "mission",
+        "base_word": "mission",
+        "pos_hint": "danh từ",
+        "vi": "Theo bản tuyên bố sứ mệnh của bệnh viện, sự an toàn của bệnh nhân và sức khỏe cộng đồng là những ưu tiên hàng đầu của họ."
+      }
+    },
+    {
+      "id": 7,
+      "word": "permit",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to allow",
+      "definition_vi": "cho phép; giấy phép",
+      "examples": [
+        {
+          "en": "Smoking is not permitted anywhere inside the hospital.",
+          "vi": "Việc hút thuốc không được cho phép ở bất kỳ đâu bên trong bệnh viện."
+        },
+        {
+          "en": "Would you check with the nurse to see if I am permitted to eat before surgery?",
+          "vi": "Bạn có thể kiểm tra với y tá xem tôi có được phép ăn trước khi phẫu thuật hay không?"
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "permit",
+          "example": "I can&#x27;t permit more than one visitor at a time in the intensive care unit."
+        },
+        {
+          "pos": "",
+          "word": "permission",
+          "example": "Mohammed got his insurance company&#x27;s permission to stay another day in the hospital."
+        },
+        {
+          "pos": "",
+          "word": "permissible",
+          "example": "It is not permissible to smoke inside the hospital."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "be permitted to do",
+        "parking permit",
+        "building permit",
+        "weather permitting"
+      ],
+      "usage": {
+        "structures": [
+          "permit + sb + to V",
+          "permit + V-ing",
+          "be permitted + to V",
+          "obtain a permit"
+        ],
+        "prepositions": [
+          "to",
+          "for"
+        ],
+        "collocations": [
+          "smoking is not permitted",
+          "parking permit",
+          "written permission",
+          "weather permitting"
+        ],
+        "tip": "'Permit' vừa là động từ (gấp đôi 't' khi chia: permitted, permitting) vừa là danh từ đếm được nghĩa là 'giấy phép' (parking/building/work permit); còn 'permission' là danh từ không đếm được (sự cho phép)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "permissibly",
+          "example": "Medical records may be permissibly shared only with the patient's written consent.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Researchers must obtain written _____ from the ethics committee before conducting clinical trials.",
+        "answer": "permission",
+        "base_word": "permit",
+        "pos_hint": "danh từ không đếm được",
+        "vi": "Các nhà nghiên cứu phải xin được sự cho phép bằng văn bản từ hội đồng đạo đức trước khi tiến hành các thử nghiệm lâm sàng."
+      }
+    },
+    {
+      "id": 8,
+      "word": "pertinent",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "having relevance to the matter at hand",
+      "definition_vi": "thích đáng, có liên quan trực tiếp (đến vấn đề đang xét)",
+      "examples": [
+        {
+          "en": "You should mention any pertinent health issues to the staff before you are admitted for surgery.",
+          "vi": "Bạn nên đề cập bất kỳ vấn đề sức khỏe nào có liên quan với nhân viên y tế trước khi nhập viện phẫu thuật."
+        },
+        {
+          "en": "The patient's health record contained pertinent information, like the dates of all his inoculations.",
+          "vi": "Hồ sơ sức khỏe của bệnh nhân chứa các thông tin liên quan thiết thực, chẳng hạn như ngày tháng của tất cả các mũi tiêm chủng của ông ấy."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "pertinent information",
+        "pertinent details",
+        "pertinent to",
+        "pertinent questions"
+      ],
+      "usage": {
+        "structures": [
+          "pertinent + N (information/facts/details)",
+          "be pertinent + to + N"
+        ],
+        "prepositions": [
+          "to"
+        ],
+        "collocations": [
+          "pertinent medical information",
+          "pertinent to the investigation",
+          "pertinent documents",
+          "ask pertinent questions"
+        ],
+        "tip": "Đồng nghĩa với 'relevant' và cũng đi với giới từ 'to' (be pertinent to the case = be relevant to the case)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "pertinence",
+          "example": "The physician questioned the pertinence of the outdated lab results.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "verb",
+          "word": "pertain",
+          "example": "Please bring all documents that pertain to your previous knee surgery.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "pertinently",
+          "example": "The head nurse pertinently pointed out that the emergency generator needed testing.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Please ensure that all _____ medical history is recorded on the intake form before seeing the surgeon.",
+        "answer": "pertinent",
+        "base_word": "pertinent",
+        "pos_hint": "tính từ",
+        "vi": "Vui lòng đảm bảo rằng mọi tiền sử bệnh lý có liên quan đều được ghi lại trên tờ khai tiếp nhận trước khi gặp bác sĩ phẫu thuật."
+      }
+    },
+    {
+      "id": 9,
+      "word": "procedure",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a series of steps taken to accomplish an end",
+      "definition_vi": "quy trình, thủ tục; ca thủ thuật/phẫu thuật y tế",
+      "examples": [
+        {
+          "en": "The surgical procedure can now be done in half the amount of time it took even five years ago.",
+          "vi": "Thủ thuật phẫu thuật này hiện có thể được thực hiện chỉ trong một nửa thời gian so với cách đây năm năm."
+        },
+        {
+          "en": "Call the hospital to schedule this procedure for tomorrow.",
+          "vi": "Hãy gọi cho bệnh viện để lên lịch cho ca thủ thuật này vào ngày mai."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "standard procedure",
+        "surgical procedure",
+        "follow a procedure",
+        "safety procedures"
+      ],
+      "usage": {
+        "structures": [
+          "follow/comply with a procedure",
+          "procedure + for + N/V-ing",
+          "medical/surgical procedure"
+        ],
+        "prepositions": [
+          "for"
+        ],
+        "collocations": [
+          "surgical procedure",
+          "standard operating procedure",
+          "safety procedures",
+          "outpatient procedure"
+        ],
+        "tip": "Trong văn phòng mang nghĩa 'quy trình/thủ tục' (follow standard procedures), còn trong y khoa mang nghĩa 'ca thủ thuật/phẫu thuật' (undergo a surgical procedure)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "procedure",
+          "example": "All staff must follow strict sanitation procedures in the operating room.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "procedural",
+          "example": "The audit revealed several procedural errors in how patient forms were filed.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "procedurally",
+          "example": "Everything in the clinical trial was handled procedurally according to federal guidelines.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Most minor laser eye _____ are performed on an outpatient basis and require no overnight stay.",
+        "answer": "procedures",
+        "base_word": "procedure",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Hầu hết các ca tiểu phẫu mắt bằng laser đều được thực hiện theo diện ngoại trú và không cần nằm viện qua đêm."
+      }
+    },
+    {
+      "id": 10,
+      "word": "result",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an outcome",
+      "definition_vi": "kết quả; dẫn đến, bắt nguồn từ",
+      "examples": [
+        {
+          "en": "Your lab results won't be ready for hours.",
+          "vi": "Kết quả xét nghiệm phòng thí nghiệm của bạn sẽ chưa thể có ngay trong vài giờ tới."
+        },
+        {
+          "en": "The scientific results prove that the new procedure is not significantly safer than the traditional one.",
+          "vi": "Các kết quả khoa học chứng minh rằng thủ thuật mới không an toàn hơn đáng kể so với phương pháp truyền thống."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "test results",
+        "as a result of",
+        "result in",
+        "result from"
+      ],
+      "usage": {
+        "structures": [
+          "as a result (of + N)",
+          "result + IN + hậu quả (dẫn đến)",
+          "result + FROM + nguyên nhân (bắt nguồn từ)"
+        ],
+        "prepositions": [
+          "of",
+          "in",
+          "from"
+        ],
+        "collocations": [
+          "lab test results",
+          "as a result of",
+          "result in delays",
+          "result from negligence"
+        ],
+        "tip": "Cực kỳ lưu ý 2 cụm động từ ngược chiều nhau: 'result IN + kết quả' (gây ra/dẫn đến) và 'result FROM + nguyên nhân' (do cái gì gây ra)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "result",
+          "example": "Implementing electronic check-in kiosks resulted in shorter waiting times for patients.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "resulting",
+          "example": "The storm and the resulting power outage forced the clinic to use backup generators.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "resultant",
+          "example": "The merger and resultant staff reorganization improved hospital efficiency.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Patients can log in to the secure online portal to view their laboratory test _____ within 48 hours.",
+        "answer": "results",
+        "base_word": "result",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Bệnh nhân có thể đăng nhập vào cổng thông tin trực tuyến bảo mật để xem kết quả xét nghiệm của mình trong vòng 48 giờ."
+      }
+    },
+    {
+      "id": 11,
+      "word": "statement",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an accounting showing an amount due; a bill",
+      "definition_vi": "bản sao kê, hóa đơn thanh toán; lời tuyên bố, phát biểu",
+      "examples": [
+        {
+          "en": "The billing statement was filed with the insurance company last month.",
+          "vi": "Bảng kê hóa đơn viện phí đã được gửi lên công ty bảo hiểm vào tháng trước."
+        },
+        {
+          "en": "Check with your doctor's office for an original statement; we cannot process a faxed copy.",
+          "vi": "Hãy hỏi văn phòng bác sĩ của bạn để lấy bản sao kê gốc; chúng tôi không thể xử lý bản sao qua máy fax."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "billing statement",
+        "bank statement",
+        "issue a statement",
+        "financial statement"
+      ],
+      "usage": {
+        "structures": [
+          "billing/account/bank/financial statement",
+          "issue/make a statement"
+        ],
+        "prepositions": [
+          "of",
+          "on"
+        ],
+        "collocations": [
+          "monthly billing statement",
+          "financial statement",
+          "official statement",
+          "statement of account"
+        ],
+        "tip": "Ngoài nghĩa 'lời phát biểu' (make a statement), trong tài chính/bệnh viện 'statement' là 'bản sao kê/bảng kê chi phí' (billing statement / bank statement)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "state",
+          "example": "The hospital's policy clearly states that payment is due at the time of service.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "stated",
+          "example": "Please arrive at the stated time on your appointment confirmation card.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "verb",
+          "word": "restate",
+          "example": "Let me restate the post-operative care instructions so there is no confusion.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "If you notice an error on your monthly billing _____, please contact the hospital accounting office immediately.",
+        "answer": "statement",
+        "base_word": "statement",
+        "pos_hint": "danh từ",
+        "vi": "Nếu bạn nhận thấy có sai sót trên bảng sao kê thanh toán hàng tháng của mình, vui lòng liên hệ ngay với phòng kế toán bệnh viện."
+      }
+    },
+    {
+      "id": 12,
+      "word": "usually",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "customarily",
+      "definition_vi": "thường, thông thường, theo lệ thường",
+      "examples": [
+        {
+          "en": "That kind of surgery is usually performed on an outpatient basis.",
+          "vi": "Loại phẫu thuật đó thông thường được thực hiện theo diện điều trị ngoại trú."
+        },
+        {
+          "en": "The insurance company does not usually pay for procedures that are considered elective or optional.",
+          "vi": "Công ty bảo hiểm thường không chi trả cho các thủ thuật được coi là tự chọn hoặc không bắt buộc."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "usual",
+          "example": "It is usual for health insurance companies to require patients to make co-payments for hospital stays."
+        },
+        {
+          "pos": "",
+          "word": "unusual",
+          "example": "Because of her unusual condition, Martha&#x27;s doctor sent her to a specialist for treatment."
+        },
+        {
+          "pos": "",
+          "word": "usually",
+          "example": "These days, patients usually stay in the hospital for only a few days at a time."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "usually take",
+        "usually require",
+        "as usual",
+        "business as usual"
+      ],
+      "usage": {
+        "structures": [
+          "usually + V",
+          "be + usually + V-ed / adj",
+          "as usual"
+        ],
+        "prepositions": [],
+        "collocations": [
+          "usually performed",
+          "longer than usual",
+          "as usual",
+          "unusually high"
+        ],
+        "tip": "Trạng từ tần suất 'usually' đứng trước động từ thường nhưng đứng SAU động từ 'to be' (is usually performed)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "unusually",
+          "example": "The emergency room experienced an unusually high volume of patients over the holiday weekend.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Because of her _____ symptoms, the physician ordered a series of specialized blood tests.",
+        "answer": "unusual",
+        "base_word": "usually",
+        "pos_hint": "tính từ (mang nghĩa trái ngược)",
+        "vi": "Vì những triệu chứng bất thường của cô ấy, bác sĩ đã chỉ định làm một loạt các xét nghiệm máu chuyên sâu."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. Hospitals have a (1) ____ to provide patients with high-quality medical care. Everyone on staff will make sure that you get the best possible treatment for your condition. When you arrive at the hospital, you should have with you all the (2) ____ information needed to be admitted, like your insurance information and copies of X-rays and other test (3) ____, even if they were taken at another facility. Bring your insurance card and any referral or (4) ____ form from your doctor. You should also have some form of (5) ____ with a photo. You will also need to sign an agreement regarding treatment consent. Once you arrive, there is usually a concierge who will assist you with the (6) ____ process. Many elective surgeries and other (7) ____ are (8) ____ done on the same day. Usually a hospital staff member will (9) ____ you to the exit and make sure you get into the car safely. After you leave the hospital, you will receive a (10) ____ from the hospital for the charges your insurer does not cover. Your insurance policy will outline any amount for which you may be responsible. You will find that smoking is not (11) ____ in any hospital building. Often, hospitals have (12) ____ smoking areas outside for patients, families, and staff who wish to smoke.",
+    "word_bank": [
+      "admitting",
+      "escort",
+      "permitted",
+      "results",
+      "authorization",
+      "identification",
+      "pertinent",
+      "statement",
+      "designated",
+      "mission",
+      "procedures",
+      "usually"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "admit",
+        "example": "The patients lined the hospital corridors waiting to be admitted.",
+        "pos": ""
+      },
+      {
+        "word": "admittance",
+        "example": "Your admittance to the hospital is dependent on your showing proof that you can pay the bills.",
+        "pos": ""
+      },
+      {
+        "word": "admission",
+        "example": "Take these records down to Admissions and have them duplicate the files for you.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "authorize",
+        "example": "Your doctor has to authorize these tests before we can proceed with them.",
+        "pos": ""
+      },
+      {
+        "word": "authority",
+        "example": "Before major surgery, it is a good idea to give decision-making authority to a close relative in case something happens to you.",
+        "pos": ""
+      },
+      {
+        "word": "authorization",
+        "example": "The nurse could not submit an authorization over the phone; it had to be done in writing.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "designate",
+        "example": "The hospital administrator designated a team to create an emergency preparedness plan.",
+        "pos": ""
+      },
+      {
+        "word": "designation",
+        "example": "The designation of the hospital as one of the best in the region certainly helped its marketing efforts.",
+        "pos": ""
+      },
+      {
+        "word": "designator",
+        "example": "The national health service is the sole designator of which hospitals will get the grants.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "identify",
+        "example": "If you will identify your valuables, the nurse will give them back to you.",
+        "pos": ""
+      },
+      {
+        "word": "identification",
+        "example": "Please remember to bring some form of identification with you when you check in at the hospital.",
+        "pos": ""
+      },
+      {
+        "word": "identifiable",
+        "example": "The red cross on the hospital&#x27;s helicopter landing pad was identifiable from the air.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "permit",
+        "example": "I can&#x27;t permit more than one visitor at a time in the intensive care unit.",
+        "pos": ""
+      },
+      {
+        "word": "permission",
+        "example": "Mohammed got his insurance company&#x27;s permission to stay another day in the hospital.",
+        "pos": ""
+      },
+      {
+        "word": "permissible",
+        "example": "It is not permissible to smoke inside the hospital.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "usual",
+        "example": "It is usual for health insurance companies to require patients to make co-payments for hospital stays.",
+        "pos": ""
+      },
+      {
+        "word": "unusual",
+        "example": "Because of her unusual condition, Martha&#x27;s doctor sent her to a specialist for treatment.",
+        "pos": ""
+      },
+      {
+        "word": "usually",
+        "example": "These days, patients usually stay in the hospital for only a few days at a time.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "Before my father was ____ to the hospital, he had to undergo a series of tests.",
+        "options": [
+          {
+            "label": "A",
+            "text": "admit"
+          },
+          {
+            "label": "B",
+            "text": "admitted"
+          },
+          {
+            "label": "C",
+            "text": "admittance"
+          },
+          {
+            "label": "D",
+            "text": "admissions"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "Will your insurance company ____ a visit to a specialist?",
+        "options": [
+          {
+            "label": "A",
+            "text": "authorize"
+          },
+          {
+            "label": "B",
+            "text": "authorization"
+          },
+          {
+            "label": "C",
+            "text": "authority"
+          },
+          {
+            "label": "D",
+            "text": "authorizing"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "As a precaution, it's wise to ____ someone in your family to make health care decisions for you in case there is a time that you cannot.",
+        "options": [
+          {
+            "label": "A",
+            "text": "designation"
+          },
+          {
+            "label": "B",
+            "text": "designate"
+          },
+          {
+            "label": "C",
+            "text": "designator"
+          },
+          {
+            "label": "D",
+            "text": "designated"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "Your X-rays will have your name and social security number printed on them, so we can easily ____ them as yours.",
+        "options": [
+          {
+            "label": "A",
+            "text": "identifiably"
+          },
+          {
+            "label": "B",
+            "text": "identification"
+          },
+          {
+            "label": "C",
+            "text": "identifiable"
+          },
+          {
+            "label": "D",
+            "text": "identify"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "Before we can begin the surgery, we will need your signed ____ authorizing us to perform the procedure.",
+        "options": [
+          {
+            "label": "A",
+            "text": "permit"
+          },
+          {
+            "label": "B",
+            "text": "permissive"
+          },
+          {
+            "label": "C",
+            "text": "permission"
+          },
+          {
+            "label": "D",
+            "text": "permissible"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "Is it ____ for a doctor to order so many tests?",
+        "options": [
+          {
+            "label": "A",
+            "text": "usual"
+          },
+          {
+            "label": "B",
+            "text": "usually"
+          },
+          {
+            "label": "C",
+            "text": "unusually"
+          },
+          {
+            "label": "D",
+            "text": "used"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "City Hospital Admissions Procedures \\- When you arrive, check in with the nurse on duty at the front desk. \\- All patients must have signed [16] from a doctor before entering the hospital. Please give the signed form to the nurse. \\- The nurse will also need to see a form of identification and proof of insurance. We cannot [17] anyone to the hospital without these. There will be no exceptions. \\- The nurse will complete the pertinent paperwork and assign you to a room. \\- Please wait in the designated area. A hospital staff member [18] you to your room. \\- Family members are not permitted to accompany patients to their rooms. They must wait until the usual visiting hours to see their loved ones. A schedule of visiting hours is posted in the main lobby.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "author"
+            },
+            {
+              "label": "B",
+              "text": "authorize"
+            },
+            {
+              "label": "C",
+              "text": "authority"
+            },
+            {
+              "label": "D",
+              "text": "authorization"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "submit"
+            },
+            {
+              "label": "B",
+              "text": "admit"
+            },
+            {
+              "label": "C",
+              "text": "remit"
+            },
+            {
+              "label": "D",
+              "text": "omit"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "escorts"
+            },
+            {
+              "label": "B",
+              "text": "will escort"
+            },
+            {
+              "label": "C",
+              "text": "is escorting"
+            },
+            {
+              "label": "D",
+              "text": "has escorted"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Part 7 Reading Comprehension Questions 19–23 refer to the following two e-mail messages. To: Annabelle Pope From: Henry Rice Subject: Surgery Hi Annabelle, I was wondering if you could help me out with something. My doctor has recommended that I get knee replacement surgery. I am trying to identify the best hospital for this sort of procedure. My doctor says she usually recommends City Hospital, but I have heard that Upstate Hospital specializes in this kind of surgery. You had a similar procedure last year, didn't you? I think you broke your knee, or was it your elbow? Which hospital did you go to? Were you satisfied with the results of your treatment, and were you well cared for by the staff? I would appreciate the benefit of your advice. I need to make a decision soon since my doctor thinks this should be done before another month goes by. Thanks. Henry To: Henry Rice From: Annabelle Pope Subject: Re: Surgery I am sorry you need surgery, but I am sure you will feel it is worth it. I had my procedure done at Upstate Hospital, and I would recommend that place to anyone. The procedure I had was similar to yours, except it was my hip, not my knee. My surgeon was excellent, and I received good care from all the staff. The mission of the hospital is to provide the highest level of care possible, and the entire staff works hard to fulfill that mission. I was originally told that I would need to be in the hospital for a week, but when it became clear that I wouldn't be recovered enough by that time, the doctor didn't hesitate to keep me there for an extra three days. They wouldn't permit me to go home until they were sure I was ready. I really think Upstate is the best hospital for your surgery. Let me know when it is scheduled, and I will visit you there. Annabelle",
+        "questions": [
+          {
+            "number": 19,
+            "question": "What does Henry ask Annabelle to do?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Recommend a hospital."
+              },
+              {
+                "label": "B",
+                "text": "Perform surgery."
+              },
+              {
+                "label": "C",
+                "text": "Visit him in the hospital."
+              },
+              {
+                "label": "D",
+                "text": "Talk to his doctor."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "Why was Annabelle in the hospital last year?",
+            "options": [
+              {
+                "label": "A",
+                "text": "For a broken knee."
+              },
+              {
+                "label": "B",
+                "text": "For a broken elbow."
+              },
+              {
+                "label": "C",
+                "text": "For a hip replacement."
+              },
+              {
+                "label": "D",
+                "text": "For a knee replacement."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "How long was Annabelle in the hospital?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Three days."
+              },
+              {
+                "label": "B",
+                "text": "A week."
+              },
+              {
+                "label": "C",
+                "text": "Ten days."
+              },
+              {
+                "label": "D",
+                "text": "A month."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word results in the first e-mail, line 10 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "outcome"
+              },
+              {
+                "label": "B",
+                "text": "process"
+              },
+              {
+                "label": "C",
+                "text": "nature"
+              },
+              {
+                "label": "D",
+                "text": "price"
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word mission in the second e-mail, line 7 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "rule"
+              },
+              {
+                "label": "B",
+                "text": "goal"
+              },
+              {
+                "label": "C",
+                "text": "demand"
+              },
+              {
+                "label": "D",
+                "text": "requirement"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What is the woman's complaint?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The records weren't delivered on time."
+          },
+          {
+            "label": "B",
+            "text": "Her husband didn't get an identification card."
+          },
+          {
+            "label": "C",
+            "text": "The computer system broke down."
+          },
+          {
+            "label": "D",
+            "text": "Her husband's records got mixed up."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "Why was the woman's husband in the hospital?",
+        "options": [
+          {
+            "label": "A",
+            "text": "For a surgical procedure."
+          },
+          {
+            "label": "B",
+            "text": "To change his medications."
+          },
+          {
+            "label": "C",
+            "text": "For tests."
+          },
+          {
+            "label": "D",
+            "text": "To visit a friend."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "Who is the man?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A hospital administrator."
+          },
+          {
+            "label": "B",
+            "text": "A hospital patient."
+          },
+          {
+            "label": "C",
+            "text": "A doctor."
+          },
+          {
+            "label": "D",
+            "text": "A nurse."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "Who is the speaker?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A doctor."
+          },
+          {
+            "label": "B",
+            "text": "A lab technician."
+          },
+          {
+            "label": "C",
+            "text": "A nurse."
+          },
+          {
+            "label": "D",
+            "text": "An insurance agent."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "When will the surgery take place?",
+        "options": [
+          {
+            "label": "A",
+            "text": "In eight days."
+          },
+          {
+            "label": "B",
+            "text": "In a week."
+          },
+          {
+            "label": "C",
+            "text": "In ten days."
+          },
+          {
+            "label": "D",
+            "text": "In 23 days."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What will the listener do with the paperwork?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Prepare it."
+          },
+          {
+            "label": "B",
+            "text": "Give it to the nurse."
+          },
+          {
+            "label": "C",
+            "text": "Take it to the lab."
+          },
+          {
+            "label": "D",
+            "text": "Submit it to the insurance company."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. What is the woman's complaint? (A) The records weren't delivered on time. (B) Her husband didn't get an identification card. (C) The computer system broke down. (D) Her husband's records got mixed up. 6. Why was the woman's husband in the hospital? (A) For a surgical procedure. (B) To change his medications. (C) For tests. (D) To visit a friend. 5. Who is the man? (A) A hospital administrator. (B) A hospital patient. (C) A doctor. (D) A nurse. Listen to the talk. Then read each question and choose the best answer. 7. Who is the speaker? (A) A doctor. (B) A lab technician. (C) A nurse. (D) An insurance agent. 8. When will the surgery take place? (A) In eight days. (B) In a week. (C) In ten days. (D) In 23 days. 9. What will the listener do with the paperwork? (A) Prepare it. (B) Give it to the nurse. (C) Take it to the lab. (D) Submit it to the insurance company.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question–Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What is the woman's complaint?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The records weren't delivered on time."
+          },
+          {
+            "label": "B",
+            "text": "Her husband didn't get an identification card."
+          },
+          {
+            "label": "C",
+            "text": "The computer system broke down."
+          },
+          {
+            "label": "D",
+            "text": "Her husband's records got mixed up."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "Why was the woman's husband in the hospital?",
+        "options": [
+          {
+            "label": "A",
+            "text": "For a surgical procedure."
+          },
+          {
+            "label": "B",
+            "text": "To change his medications."
+          },
+          {
+            "label": "C",
+            "text": "For tests."
+          },
+          {
+            "label": "D",
+            "text": "To visit a friend."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "Who is the man?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A hospital administrator."
+          },
+          {
+            "label": "B",
+            "text": "A hospital patient."
+          },
+          {
+            "label": "C",
+            "text": "A doctor."
+          },
+          {
+            "label": "D",
+            "text": "A nurse."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "Who is the speaker?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A doctor."
+          },
+          {
+            "label": "B",
+            "text": "A lab technician."
+          },
+          {
+            "label": "C",
+            "text": "A nurse."
+          },
+          {
+            "label": "D",
+            "text": "An insurance agent."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "When will the surgery take place?",
+        "options": [
+          {
+            "label": "A",
+            "text": "In eight days."
+          },
+          {
+            "label": "B",
+            "text": "In a week."
+          },
+          {
+            "label": "C",
+            "text": "In ten days."
+          },
+          {
+            "label": "D",
+            "text": "In 23 days."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What will the listener do with the paperwork?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Prepare it."
+          },
+          {
+            "label": "B",
+            "text": "Give it to the nurse."
+          },
+          {
+            "label": "C",
+            "text": "Take it to the lab."
+          },
+          {
+            "label": "D",
+            "text": "Submit it to the insurance company."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "49\n\n## Hospitals\n\nStudy the following definitions and examples.\n\n1. admit v., to permit to enter\n\na. The injured patient was admitted to the unit directly from the emergency room.\n\nb. The staff refused to admit the patient until he had proof of insurance.\n\n2. authorize v., to approve\n\na. The doctor suggested that she check with her insurance company to make sure it would authorize a lengthened hospital stay.\n\nb. We cannot share the test results with you until we have been authorized to do so by your doctor.\n\n3. designate v., to indicate or specify\n\na. The labels on the bags designated the type of blood they contained.\n\nb. On her admittance form, Grandmother designated Aunt Tessa as her chief decision-maker.\n\n4. escort n., a person accompanying another to guide or protect\n\na. Let's see if there is an escort available to take you to the parking garage.\n\nb. You cannot leave the unit on your own; you'll have to wait for an escort.\n\n5. identify v., to ascertain the name or belongings of\n\na. The tiny bracelets identified each baby in the nursery.\n\nb. Your medical records are all marked with your patient number to identify them in case of a mix-up.\n\n6. mission n., an inner calling to pursue an activity or perform a service\n\na. The hospital chaplain took as his mission to visit every patient admitted each day.\n\nb. The nurse explained that the mission of everyone in the unit was to make sure the patients got well as soon as possible.\n\n7. permit v., to allow\n\na. Smoking is not permitted anywhere inside the hospital.\n\nb. Would you check with the nurse to see if I am permitted to eat before surgery?\n\n8. pertinent adj., having relevance to the matter at hand\n\na. You should mention any pertinent health issues to the staff before you are admitted for surgery.\n\nb. The patient's health record contained pertinent information, like the dates of all his inoculations.\n\n9. procedure n., a series of steps taken to accomplish an end\n\na. The surgical procedure can now be done in half the amount of time it took even five years ago.\n\nb. Call the hospital to schedule this procedure for tomorrow.\n\n10. result n., an outcome\n\na. Your lab results won't be ready for hours.\n\nb. The scientific results prove that the new procedure is not significantly safer than the traditional one.\n\n11. statement n., an accounting showing an amount due; a bill\n\na. The billing statement was filed with the insurance company last month.\n\nb. Check with your doctor's office for an original statement; we cannot process a faxed copy.\n\n12. usually adv., customarily\n\na. That kind of surgery is usually performed on an outpatient basis.\n\nb. The insurance company does not usually pay for procedures that are considered elective or optional.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\n| admitting | escort | permitted | results |\n| --- | --- | --- | --- |\n| authorization | identification | pertinent | statement |\n| designated | mission | procedures | usually |\n\nHospitals have a (1) \\_\\_\\_\\_ to provide patients with high-quality medical care. Everyone on staff will make sure that you get the best possible treatment for your condition.\n\nWhen you arrive at the hospital, you should have with you all the (2) \\_\\_\\_\\_ information needed to be admitted, like your insurance information and copies of X-rays and other test (3) \\_\\_\\_\\_, even if they were taken at another facility. Bring your insurance card and any referral or (4) \\_\\_\\_\\_ form from your doctor. You should also have some form of (5) \\_\\_\\_\\_ with a photo. You will also need to sign an agreement regarding treatment consent. Once you arrive, there is usually a concierge who will assist you with the (6) \\_\\_\\_\\_ process.\n\nMany elective surgeries and other (7) \\_\\_\\_\\_ are (8) \\_\\_\\_\\_ done on the same day. Usually a hospital staff member will (9) \\_\\_\\_\\_ you to the exit and make sure you get into the car safely. After you leave the hospital, you will receive a (10) \\_\\_\\_\\_ from the hospital for the charges your insurer does not cover. Your insurance policy will outline any amount for which you may be responsible.\n\nYou will find that smoking is not (11) \\_\\_\\_\\_ in any hospital building. Often, hospitals have (12) \\_\\_\\_\\_ smoking areas outside for patients, families, and staff who wish to smoke.",
+    "word_families": "<table><tr><td>admit</td><td>The patients lined the hospital corridors waiting to be admitted.</td></tr><tr><td>admittance</td><td>Your admittance to the hospital is dependent on your showing proof that you can pay the bills.</td></tr><tr><td>admission</td><td>Take these records down to Admissions and have them duplicate the files for you.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>authorize</td><td>Your doctor has to authorize these tests before we can proceed with them.</td></tr><tr><td>authority</td><td>Before major surgery, it is a good idea to give decision-making authority to a close relative in case something happens to you.</td></tr><tr><td>authorization</td><td>The nurse could not submit an authorization over the phone; it had to be done in writing.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>designate</td><td>The hospital administrator designated a team to create an emergency preparedness plan.</td></tr><tr><td>designation</td><td>The designation of the hospital as one of the best in the region certainly helped its marketing efforts.</td></tr><tr><td>designator</td><td>The national health service is the sole designator of which hospitals will get the grants.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>identify</td><td>If you will identify your valuables, the nurse will give them back to you.</td></tr><tr><td>identification</td><td>Please remember to bring some form of identification with you when you check in at the hospital.</td></tr><tr><td>identifiable</td><td>The red cross on the hospital&#x27;s helicopter landing pad was identifiable from the air.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>permit</td><td>I can&#x27;t permit more than one visitor at a time in the intensive care unit.</td></tr><tr><td>permission</td><td>Mohammed got his insurance company&#x27;s permission to stay another day in the hospital.</td></tr><tr><td>permissible</td><td>It is not permissible to smoke inside the hospital.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>usual</td><td>It is usual for health insurance companies to require patients to make co-payments for hospital stays.</td></tr><tr><td>unusual</td><td>Because of her unusual condition, Martha&#x27;s doctor sent her to a specialist for treatment.</td></tr><tr><td>usually</td><td>These days, patients usually stay in the hospital for only a few days at a time.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n## Part 2 Question–Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. What is the woman's complaint?\n(A) The records weren't delivered on time.\n(B) Her husband didn't get an identification card.\n(C) The computer system broke down.\n(D) Her husband's records got mixed up.\n\n6. Why was the woman's husband in the hospital?\n(A) For a surgical procedure.\n(B) To change his medications.\n(C) For tests.\n(D) To visit a friend.\n\n5. Who is the man?\n(A) A hospital administrator.\n(B) A hospital patient.\n(C) A doctor.\n(D) A nurse.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. Who is the speaker?\n(A) A doctor.\n(B) A lab technician.\n(C) A nurse.\n(D) An insurance agent.\n\n8. When will the surgery take place?  \n(A) In eight days.  \n(B) In a week.  \n(C) In ten days.  \n(D) In 23 days.\n\n9. What will the listener do with the paperwork?\n(A) Prepare it.\n(B) Give it to the nurse.\n(C) Take it to the lab.\n(D) Submit it to the insurance company.",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. Before my father was \\_\\_\\_\\_ to the hospital, he had to undergo a series of tests.\n(A) admit (C) admittance\n(B) admitted (D) admissions\n\n11. Will your insurance company \\_\\_\\_\\_ a visit to a specialist?\n(A) authorize (C) authority\n(B) authorization (D) authorizing\n\n12. As a precaution, it's wise to \\_\\_\\_\\_ someone in your family to make health care decisions for you in case there is a time that you cannot.\n(A) designation (C) designator\n(B) designate (D) designated\n\n13. Your X-rays will have your name and social security number printed on them, so we can easily \\_\\_\\_\\_ them as yours.\n(A) identifiably (C) identifiable\n(B) identification (D) identify\n\n14. Before we can begin the surgery, we will need your signed \\_\\_\\_\\_ authorizing us to perform the procedure.\n(A) permit (C) permission\n(B) permissive (D) permissible\n\n15. Is it \\_\\_\\_\\_ for a doctor to order so many tests?\n(A) usual (C) unusually\n(B) usually (D) used\n\n## Part 6 Text Completion\n\n## City Hospital\n\n## Admissions Procedures\n\n\\- When you arrive, check in with the nurse on duty at the front desk.\n\n\\- All patients must have signed \\_16\\_ from a doctor before entering the hospital. Please give the signed form to the nurse.\n\n\\- The nurse will also need to see a form of identification and proof of insurance. We cannot \\_17\\_ anyone to the hospital without these. There will be no exceptions.\n\n\\- The nurse will complete the pertinent paperwork and assign you to a room.\n\n\\- Please wait in the designated area. A hospital staff member \\_18\\_ you to your room.\n\n\\- Family members are not permitted to accompany patients to their rooms. They must wait until the usual visiting hours to see their loved ones. A schedule of visiting hours is posted in the main lobby.\n\n16. (A) author  \n(B) authorize  \n(C) authority  \n(D) authorization\n\n17. (A) submit  \n(B) admit  \n(C) remit  \n(D) omit\n\n18. (A) escorts  \n(B) will escort  \n(C) is escorting  \n(D) has escorted",
+    "reading_part7": "Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following two e-mail messages.\n\nTo: Annabelle Pope  \nFrom: Henry Rice  \nSubject: Surgery\n\nHi Annabelle,\n\nI was wondering if you could help me out with something. My doctor has recommended that I get knee replacement surgery. I am trying to identify the best hospital for this sort of procedure. My doctor says she usually recommends City Hospital, but I have heard that Upstate Hospital specializes in this kind of surgery. You had a similar procedure last year, didn't you? I think you broke your knee, or was it your elbow? Which hospital did you go to? Were you satisfied with the results of your treatment, and were you well cared for by the staff? I would appreciate the benefit of your advice. I need to make a decision soon since my doctor thinks this should be done before another month goes by. Thanks.\n\nHenry\n\n19. What does Henry ask Annabelle to do?  \n(A) Recommend a hospital.  \n(B) Perform surgery.  \n(C) Visit him in the hospital.  \n(D) Talk to his doctor.\n\nTo: Henry Rice  \nFrom: Annabelle Pope  \nSubject: Re: Surgery\n\n20. Why was Annabelle in the hospital last year?\n(A) For a broken knee.\n(B) For a broken elbow.\n(C) For a hip replacement.\n(D) For a knee replacement.\n\n21. How long was Annabelle in the hospital?\n(A) Three days.\n(B) A week.\n(C) Ten days.\n(D) A month.\n\n## Hi Henry,\n\nI am sorry you need surgery, but I am sure you will feel it is worth it. I had my procedure done at Upstate Hospital, and I would recommend that place to anyone. The procedure I had was similar to yours, except it was my hip, not my knee. My surgeon was excellent, and I received good care from all the staff. The mission of the hospital is to provide the highest level of care possible, and the entire staff works hard to fulfill that mission. I was originally told that I would need to be in the hospital for a week, but when it became clear that I wouldn't be recovered enough by that time, the doctor didn't hesitate to keep me there for an extra three days. They wouldn't permit me to go home until they were sure I was ready. I really think Upstate is the best hospital for your surgery. Let me know when it is scheduled, and I will visit you there.\n\nAnnabelle\n\n22. The word results in the first e-mail, line 10 is closest in meaning to  \n(A) outcome  \n(B) process  \n(C) nature  \n(D) price\n\n23. The word mission in the second e-mail, line 7 is closest in meaning to  \n(A) rule  \n(B) goal  \n(C) demand  \n(D) requirement"
+  },
+  "needs_review": true
+}

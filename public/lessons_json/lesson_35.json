@@ -1,0 +1,1654 @@
+{
+  "lesson_id": 35,
+  "title": "Events",
+  "theme_name": "Restaurants and Events",
+  "audio_track": "track_35.mp3",
+  "part1_photo": "part1_photos/lesson_35.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "assist",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to give help or support to",
+      "definition_vi": "hỗ trợ, giúp đỡ",
+      "examples": [
+        {
+          "en": "Bonnie hired a secretary to assist her with the many details of the event.",
+          "vi": "Bonnie đã thuê một thư ký để hỗ trợ cô ấy xử lý nhiều chi tiết của sự kiện."
+        },
+        {
+          "en": "The hotel manager was able to assist us with some last-minute advice.",
+          "vi": "Quản lý khách sạn đã có thể hỗ trợ chúng tôi bằng một vài lời khuyên vào phút chót."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "assist",
+          "example": "Let me assist you with planning your next event."
+        },
+        {
+          "pos": "noun",
+          "word": "assistance",
+          "example": "Dennis&#x27;s idea of assistance is to call a professional firm for advice."
+        },
+        {
+          "pos": "",
+          "word": "assistant",
+          "example": "In light of the number of events she had to run this year, Annu asked her boss for an assistant."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "assist someone with",
+        "assist in doing",
+        "financial assistance",
+        "administrative assistant"
+      ],
+      "usage": {
+        "structures": [
+          "assist somebody with something (hỗ trợ ai việc gì)",
+          "assist (somebody) in V-ing (giúp đỡ ai làm việc gì)"
+        ],
+        "prepositions": [
+          "with",
+          "in"
+        ],
+        "collocations": [
+          "offer assistance",
+          "be of assistance",
+          "assistant manager",
+          "directory assistance"
+        ],
+        "tip": "Bẫy kinh điển trong Part 5 TOEIC: phân biệt danh từ không đếm được chỉ sự việc 'assistance' (sự hỗ trợ) và danh từ đếm được chỉ người 'assistant' (trợ lý, phụ tá)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "assist",
+          "example": "The hotel concierge will assist guests with making tour reservations.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "assistance",
+          "example": "Please contact human resources if you require assistance with your benefits.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "assistive",
+          "example": "The venue is equipped with assistive listening devices for attendees.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "If you require any _____ with setting up the audiovisual equipment in the banquet hall, please contact the front desk.",
+        "answer": "assistance",
+        "base_word": "assist",
+        "pos_hint": "danh từ (chỉ sự giúp đỡ, không đếm được)",
+        "vi": "Nếu bạn cần bất kỳ sự hỗ trợ nào trong việc lắp đặt thiết bị nghe nhìn tại sảnh tiệc, vui lòng liên hệ quầy lễ tân."
+      }
+    },
+    {
+      "id": 2,
+      "word": "coordinate",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to adjust or arrange parts to work together",
+      "definition_vi": "điều phối, phối hợp, làm cho ăn khớp",
+      "examples": [
+        {
+          "en": "Benet tried to coordinate all departments to make sure the event ran smoothly.",
+          "vi": "Benet đã cố gắng điều phối tất cả các bộ phận để đảm bảo sự kiện diễn ra suôn sẻ."
+        },
+        {
+          "en": "The colors of the flowers were ordered to coordinate with the colors in the corporate logo.",
+          "vi": "Màu sắc của hoa được đặt hàng sao cho phối hợp hài hòa với màu sắc trong biểu trưng của công ty."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "coordinate",
+          "example": "Ralph had a hard time coordinating the schedules of everybody involved in planning the event."
+        },
+        {
+          "pos": "noun",
+          "word": "coordination",
+          "example": "Edna is a very good organizer, and coordination of events is one of her specialties."
+        },
+        {
+          "pos": "",
+          "word": "coordinator",
+          "example": "The staff chose Marcel to be the coordinator for the company picnic."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "coordinate efforts",
+        "coordinate with",
+        "event coordinator",
+        "close coordination"
+      ],
+      "usage": {
+        "structures": [
+          "coordinate something with somebody/something (phối hợp cái gì với ai/cái gì)"
+        ],
+        "prepositions": [
+          "with",
+          "between",
+          "among"
+        ],
+        "collocations": [
+          "coordinate schedules",
+          "event coordinator",
+          "in coordination with",
+          "color-coordinated"
+        ],
+        "tip": "Cẩn thận phân biệt danh từ chỉ sự việc 'coordination' (sự phối hợp/điều phối) và danh từ chỉ người 'coordinator' (điều phối viên)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "coordinated",
+          "example": "Thanks to a well-coordinated effort by the hotel staff, the conference banquet started right on time.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Ms. Gomez was hired as the lead event _____ for the company's fiftieth anniversary celebration.",
+        "answer": "coordinator",
+        "base_word": "coordinate",
+        "pos_hint": "danh từ chỉ người",
+        "vi": "Cô Gomez đã được thuê làm điều phối viên sự kiện chính cho lễ kỷ niệm 50 năm thành lập công ty."
+      }
+    },
+    {
+      "id": 3,
+      "word": "dimension",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a measure of width, height, or length",
+      "definition_vi": "kích thước (chiều rộng, chiều cao, chiều dài); khía cạnh, chiều hướng",
+      "examples": [
+        {
+          "en": "What are the dimensions of the ballroom?",
+          "vi": "Kích thước của phòng khiêu vũ là bao nhiêu?"
+        },
+        {
+          "en": "We need the dimensions of the meeting rooms before we can determine how many chairs each will hold.",
+          "vi": "Chúng tôi cần biết kích thước của các phòng họp trước khi có thể xác định mỗi phòng chứa được bao nhiêu ghế."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "exact dimensions",
+        "room dimensions",
+        "add a new dimension",
+        "three-dimensional"
+      ],
+      "usage": {
+        "structures": [
+          "the dimensions of something (kích thước dài-rộng-cao của cái gì - luôn dùng số nhiều)",
+          "add a new dimension to something (thêm một khía cạnh mới cho cái gì)"
+        ],
+        "prepositions": [
+          "of",
+          "to"
+        ],
+        "collocations": [
+          "overall dimensions",
+          "interior dimensions",
+          "measure the dimensions",
+          "dimensional accuracy"
+        ],
+        "tip": "Khi nói về số đo kích thước của một căn phòng hoặc kiện hàng, 'dimensions' hầu như luôn ở dạng số nhiều (the dimensions of the room)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "dimension",
+          "example": "Please check the dimensions of the stage before ordering the backdrop banner.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "dimensional",
+          "example": "The architect provided a three-dimensional model of the new convention hall.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "dimensionally",
+          "example": "The replacement tables are dimensionally identical to the ones currently in the ballroom.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Before purchasing the banquet tables, the decorator measured the exact _____ of the reception hall.",
+        "answer": "dimensions",
+        "base_word": "dimension",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Trước khi mua các bàn tiệc, người trang trí đã đo đạc kích thước chính xác của sảnh tiếp tân."
+      }
+    },
+    {
+      "id": 4,
+      "word": "exact",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "characterized by accurate measurements or inferences",
+      "definition_vi": "chính xác, chuẩn xác",
+      "examples": [
+        {
+          "en": "We will need an exact head count by noon tomorrow.",
+          "vi": "Chúng tôi sẽ cần con số thống kê số lượng khách chính xác trước buổi trưa ngày mai."
+        },
+        {
+          "en": "The exact measurements of the room are unknown, but we can guess.",
+          "vi": "Số đo chính xác của căn phòng hiện chưa rõ, nhưng chúng ta có thể ước chừng."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "exact head count",
+        "exact measurements",
+        "exact amount",
+        "exact same"
+      ],
+      "usage": {
+        "structures": [
+          "exact + N (number, amount, time, location, copy)",
+          "to be exact (nói một cách chính xác)"
+        ],
+        "prepositions": [
+          "in"
+        ],
+        "collocations": [
+          "exact figures",
+          "exact change",
+          "exact location",
+          "know the exact time"
+        ],
+        "tip": "Trạng từ 'exactly' rất hay đứng trước các con số, từ để hỏi (exactly when/where/how) hoặc dùng để nhấn mạnh sự đồng tình."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "exact",
+          "example": "The venue rental agency exacts a penalty fee for cancellations made less than 48 hours in advance.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "exactness",
+          "example": "Seating arrangements for state dinners must be planned with great exactness.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "exacting",
+          "example": "The banquet director is known for her exacting standards regarding table presentation.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "exactly",
+          "example": "The keynote speech began at exactly nine o'clock in the main auditorium.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The catering company needs to know _____ how many vegetarian meals to prepare by Wednesday afternoon.",
+        "answer": "exactly",
+        "base_word": "exact",
+        "pos_hint": "trạng từ",
+        "vi": "Công ty dịch vụ ăn uống cần biết chính xác phải chuẩn bị bao nhiêu suất ăn chay trước chiều thứ Tư."
+      }
+    },
+    {
+      "id": 5,
+      "word": "general",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "involving only the main features rather than precise details",
+      "definition_vi": "chung, tổng quát, đại khái",
+      "examples": [
+        {
+          "en": "We have a general idea of how many guests will attend.",
+          "vi": "Chúng tôi đã có hình dung sơ bộ về số lượng khách mời sẽ tham dự."
+        },
+        {
+          "en": "In general, about half the guests will bring their spouses.",
+          "vi": "Nhìn chung, khoảng một nửa số khách mời sẽ đưa vợ hoặc chồng của họ đi cùng."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "generalize",
+          "example": "When we generalize, we must be aware of the many exceptions."
+        },
+        {
+          "pos": "",
+          "word": "general",
+          "example": "I need a general idea of what you want before I can provide specific answers."
+        },
+        {
+          "pos": "",
+          "word": "generally",
+          "example": "Although I cannot speak for every case, generally it is less expensive to buy in quantity."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "in general",
+        "general idea",
+        "general public",
+        "general manager"
+      ],
+      "usage": {
+        "structures": [
+          "in general (= generally: nhìn chung, nói chung)",
+          "a general idea/overview of something (ý niệm khái quát về cái gì)"
+        ],
+        "prepositions": [
+          "in",
+          "to"
+        ],
+        "collocations": [
+          "in general",
+          "general public",
+          "general manager",
+          "generally speaking"
+        ],
+        "tip": "Ghi nhớ cụm giới từ cố định 'in general' (= generally: nhìn chung) và cụm danh từ 'the general public' (công chúng)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "generalization",
+          "example": "While it is a generalization, outdoor events in June usually enjoy pleasant weather.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "_____ speaking, conference halls in the city center should be booked at least six months in advance.",
+        "answer": "Generally",
+        "base_word": "general",
+        "pos_hint": "trạng từ (viết hoa chữ cái đầu câu)",
+        "vi": "Nói chung, các hội trường ở trung tâm thành phố nên được đặt trước ít nhất sáu tháng."
+      }
+    },
+    {
+      "id": 6,
+      "word": "ideally",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "perfectly; conforming to an ideal",
+      "definition_vi": "một cách lý tưởng, theo đúng lý tưởng",
+      "examples": [
+        {
+          "en": "Ideally, the location for the concert would have plenty of parking.",
+          "vi": "Lý tưởng nhất là địa điểm tổ chức buổi hòa nhạc sẽ có nhiều chỗ đậu xe."
+        },
+        {
+          "en": "Lucy explained that ideally her wedding would take place on the beach, but she realized it might be difficult to arrange.",
+          "vi": "Lucy giải thích rằng lý tưởng nhất thì đám cưới của cô ấy sẽ diễn ra trên bãi biển, nhưng cô nhận ra việc đó có thể khó sắp xếp."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "idealize",
+          "example": "Rhoda idealized the location until she could no longer see any flaws in it."
+        },
+        {
+          "pos": "",
+          "word": "ideal",
+          "example": "A hotel with a large garden would be the ideal site for the reception."
+        },
+        {
+          "pos": "",
+          "word": "ideally",
+          "example": "Ideally, the site would be within our budget and have an outdoor area."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "ideally suited",
+        "ideally located",
+        "ideally positioned",
+        "work ideally"
+      ],
+      "usage": {
+        "structures": [
+          "Ideally, + S + V (Lý tưởng nhất là...)",
+          "be ideally suited/located for something (có vị trí/điều kiện vô cùng lý tưởng cho cái gì)"
+        ],
+        "prepositions": [
+          "for",
+          "to"
+        ],
+        "collocations": [
+          "ideally located near",
+          "ideally suited for",
+          "an ideal venue",
+          "under ideal conditions"
+        ],
+        "tip": "Mặc dù sách ghi 'adj.', 'ideally' là trạng từ thường đứng đầu câu (ngăn cách bằng dấu phẩy) hoặc đứng trước phân từ 'located / suited' (ideally located: có vị trí lý tưởng)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "ideal",
+          "example": "The event planner worked tirelessly to live up to the client's high ideals.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "With its spacious garden and ample parking, the historic manor is the _____ venue for a summer wedding.",
+        "answer": "ideal",
+        "base_word": "ideally",
+        "pos_hint": "tính từ",
+        "vi": "Với khu vườn rộng rãi và bãi đậu xe thoải mái, dinh thự cổ kính này là địa điểm lý tưởng cho một đám cưới mùa hè."
+      }
+    },
+    {
+      "id": 7,
+      "word": "lead time",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the time between the initial stage of a project and the appearance of results",
+      "definition_vi": "thời gian chuẩn bị (từ lúc bắt đầu đặt hàng/lên kế hoạch đến khi hoàn tất)",
+      "examples": [
+        {
+          "en": "The lead time for reservations is unrealistic.",
+          "vi": "Thời gian báo trước để đặt bàn như vậy là không thực tế."
+        },
+        {
+          "en": "We will need to give the caterer enough lead time to cut the cake.",
+          "vi": "Chúng ta sẽ cần cho bên dịch vụ tiệc đủ thời gian chuẩn bị để cắt bánh."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "sufficient lead time",
+        "require lead time",
+        "reduce lead time",
+        "long lead time"
+      ],
+      "usage": {
+        "structures": [
+          "give/allow somebody enough lead time (cho ai đủ thời gian chuẩn bị)",
+          "a lead time of + khoảng thời gian (thời gian chờ/chuẩn bị là bao lâu)"
+        ],
+        "prepositions": [
+          "for",
+          "of",
+          "between"
+        ],
+        "collocations": [
+          "enough lead time",
+          "short lead time",
+          "delivery lead time",
+          "production lead time"
+        ],
+        "tip": "'Lead time' là thuật ngữ cực kỳ thông dụng trong tổ chức sự kiện và chuỗi cung ứng TOEIC, chỉ khoảng thời gian cần phải báo trước hoặc chuẩn bị trước khi giao hàng/tổ chức."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "lead",
+          "example": "Ms. Patel will lead the planning committee for the annual charity gala.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "leader",
+          "example": "Our firm is a recognized leader in corporate event management.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "leading",
+          "example": "We partnered with one of the city's leading florists to decorate the ballroom.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Custom-printed banquet invitations require a minimum _____ of three weeks before delivery.",
+        "answer": "lead time",
+        "base_word": "lead time",
+        "pos_hint": "cụm danh từ",
+        "vi": "Thiệp mời dự tiệc in theo yêu cầu đòi hỏi thời gian chuẩn bị tối thiểu là ba tuần trước khi giao hàng."
+      }
+    },
+    {
+      "id": 8,
+      "word": "plan",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to formulate a scheme",
+      "definition_vi": "lên kế hoạch, dự định; bản kế hoạch",
+      "examples": [
+        {
+          "en": "We plan to get together tomorrow to discuss the menu.",
+          "vi": "Chúng tôi dự định sẽ gặp nhau vào ngày mai để thảo luận về thực đơn."
+        },
+        {
+          "en": "Planning their wedding was a source of tension for the young couple.",
+          "vi": "Việc lên kế hoạch cho đám cưới là một nguồn gây căng thẳng cho cặp đôi trẻ."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "plan",
+          "example": "The committee planned to hold the luncheon in the office conference room rather than at a restaurant."
+        },
+        {
+          "pos": "",
+          "word": "plan",
+          "example": "The finalized plans for the event will be presented at the staff meeting tomorrow."
+        },
+        {
+          "pos": "",
+          "word": "planner",
+          "example": "Since she wanted to have a large wedding, Matilda decided to hire a wedding planner to help her make the arrangements."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "plan to do",
+        "make a plan",
+        "event planner",
+        "go according to plan"
+      ],
+      "usage": {
+        "structures": [
+          "plan to V (dự định làm gì)",
+          "plan on V-ing / plan for + N (lên kế hoạch cho việc gì)"
+        ],
+        "prepositions": [
+          "to",
+          "on",
+          "for"
+        ],
+        "collocations": [
+          "floor plan",
+          "contingency plan",
+          "wedding planner",
+          "ahead of plan"
+        ],
+        "tip": "Danh từ 'planner' vừa chỉ người (event/wedding planner: người lập kế hoạch sự kiện) vừa chỉ cuốn sổ lập kế hoạch (daily planner)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "planned",
+          "example": "All planned outdoor activities will be moved indoors in the event of rain.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Because neither of them had time to organize the reception, the couple hired a professional wedding _____.",
+        "answer": "planner",
+        "base_word": "plan",
+        "pos_hint": "danh từ chỉ người",
+        "vi": "Vì cả hai đều không có thời gian để tổ chức tiệc chiêu đãi, cặp đôi đã thuê một chuyên gia lập kế hoạch đám cưới chuyên nghiệp."
+      }
+    },
+    {
+      "id": 9,
+      "word": "proximity",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the state, quality, sense, or fact of being near or next to; closeness",
+      "definition_vi": "sự gần gũi, khoảng cách gần",
+      "examples": [
+        {
+          "en": "The fans were worried by the proximity of the storm clouds.",
+          "vi": "Người hâm mộ lo lắng trước sự tiến lại gần của những đám mây giông."
+        },
+        {
+          "en": "An important factor in selecting the site was its close proximity to a parking garage.",
+          "vi": "Một yếu tố quan trọng trong việc lựa chọn địa điểm này là vị trí rất gần một nhà để xe."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "in close proximity to",
+        "immediate proximity",
+        "geographic proximity",
+        "proximity to the airport"
+      ],
+      "usage": {
+        "structures": [
+          "in (close) proximity to something (ở rất gần với cái gì)",
+          "proximity to + N (khoảng cách gần tới đâu)"
+        ],
+        "prepositions": [
+          "to",
+          "in",
+          "of"
+        ],
+        "collocations": [
+          "in close proximity to",
+          "proximity to public transit",
+          "within close proximity",
+          "physical proximity"
+        ],
+        "tip": "Trong đề thi TOEIC, khi thấy chỗ trống đứng trước giới từ 'to + địa điểm' hoặc sau 'in close ____ to', đáp án gần như chắc chắn là 'proximity'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "proximity",
+          "example": "The hotel's proximity to the convention center makes it popular with exhibitors.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "proximate",
+          "example": "Guests staying in buildings proximate to the main hall can walk to the reception.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The banquet hall was chosen primarily for its close _____ to the central subway station.",
+        "answer": "proximity",
+        "base_word": "proximity",
+        "pos_hint": "danh từ",
+        "vi": "Sảnh tiệc được lựa chọn chủ yếu vì vị trí ở rất gần nhà ga tàu điện ngầm trung tâm."
+      }
+    },
+    {
+      "id": 10,
+      "word": "regulate",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to control",
+      "definition_vi": "quản lý, điều tiết, quy định bằng luật lệ",
+      "examples": [
+        {
+          "en": "The state strictly regulates the preparation of food for public consumption.",
+          "vi": "Chính quyền tiểu bang quản lý nghiêm ngặt việc chế biến thực phẩm phục vụ tiêu dùng công cộng."
+        },
+        {
+          "en": "The site staff closely regulates how many cars can be brought on the grounds.",
+          "vi": "Nhân viên tại địa điểm kiểm soát chặt chẽ số lượng ô tô được phép đưa vào khuôn viên."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "regulate",
+          "example": "The state will regulate the food-handling precautions."
+        },
+        {
+          "pos": "",
+          "word": "regulation",
+          "example": "Please obey the state regulations regarding serving alcohol to minors."
+        },
+        {
+          "pos": "",
+          "word": "regulatory",
+          "example": "Even though it is private, the country club&#x27;s kitchen is subject to the rules of regulatory agencies."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "strictly regulate",
+        "safety regulations",
+        "regulatory agency",
+        "regulate temperature"
+      ],
+      "usage": {
+        "structures": [
+          "regulate + N (kiểm soát/điều tiết hoạt động gì)",
+          "comply with / obey regulations (tuân thủ các quy định)"
+        ],
+        "prepositions": [
+          "by",
+          "under"
+        ],
+        "collocations": [
+          "strictly regulated",
+          "fire safety regulations",
+          "regulatory compliance",
+          "government regulator"
+        ],
+        "tip": "Danh từ đếm được 'regulation(s)' (quy định, quy tắc) thường đi sau các động từ 'comply with', 'abide by', 'follow', 'violate'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "regulator",
+          "example": "Health regulators inspected the outdoor food stalls before the festival opened.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "All catering companies operating in the city must comply with strict health and safety _____.",
+        "answer": "regulations",
+        "base_word": "regulate",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Tất cả các công ty dịch vụ ăn uống hoạt động trong thành phố phải tuân thủ các quy định nghiêm ngặt về sức khỏe và an toàn."
+      }
+    },
+    {
+      "id": 11,
+      "word": "site",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a place or setting",
+      "definition_vi": "địa điểm, khu đất, hiện trường; trang mạng (website)",
+      "examples": [
+        {
+          "en": "Once we saw the site, we knew it would be perfect for the event.",
+          "vi": "Ngay khi nhìn thấy địa điểm đó, chúng tôi biết nó sẽ hoàn hảo cho sự kiện."
+        },
+        {
+          "en": "The manager of the site was most helpful.",
+          "vi": "Người quản lý của khu vực tổ chức sự kiện đã giúp đỡ chúng tôi rất nhiệt tình."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "event site",
+        "construction site",
+        "on-site parking",
+        "historic site"
+      ],
+      "usage": {
+        "structures": [
+          "the site of/for something (địa điểm của/cho cái gì)",
+          "on site / on-site (tại chỗ, ngay tại khuôn viên)"
+        ],
+        "prepositions": [
+          "of",
+          "for",
+          "on",
+          "at"
+        ],
+        "collocations": [
+          "on-site catering",
+          "select a site",
+          "wedding site",
+          "off-site location"
+        ],
+        "tip": "Cụm tính từ/trạng từ 'on-site' (ngay tại chỗ, ví dụ: on-site parking, on-site technician) xuất hiện cực kỳ thường xuyên trong bài đọc TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "site",
+          "example": "The organizers decided to site the main stage near the eastern entrance of the park.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "site",
+          "example": "The committee visited three potential sites for the annual trade show.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "on-site",
+          "example": "An on-site coordinator will be available throughout the banquet to assist guests.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "After inspecting several venues, the board selected a scenic lakeside property as the _____ for the corporate retreat.",
+        "answer": "site",
+        "base_word": "site",
+        "pos_hint": "danh từ",
+        "vi": "Sau khi khảo sát một số địa điểm, ban giám đốc đã chọn một khu đất ven hồ tuyệt đẹp làm nơi tổ chức kỳ nghỉ dưỡng của công ty."
+      }
+    },
+    {
+      "id": 12,
+      "word": "stage",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to exhibit or present",
+      "definition_vi": "tổ chức, dàn dựng, trình diễn; sân khấu, giai đoạn",
+      "examples": [
+        {
+          "en": "The gazebo outside was the perfect location from which to stage the cutting of the cake.",
+          "vi": "Nhà chòi nghỉ mát bên ngoài là vị trí hoàn hảo để tổ chức nghi thức cắt bánh."
+        },
+        {
+          "en": "A historic house can be the perfect site to stage a small reception.",
+          "vi": "Một ngôi nhà cổ có thể là địa điểm hoàn hảo để tổ chức một buổi tiệc chiêu đãi nhỏ."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "stage an event",
+        "stage a reception",
+        "initial stage",
+        "on stage"
+      ],
+      "usage": {
+        "structures": [
+          "stage + N (an event, a reception, a comeback, an exhibition: tổ chức/dàn dựng sự kiện gì)",
+          "at an early/initial stage (ở giai đoạn đầu)"
+        ],
+        "prepositions": [
+          "at",
+          "in",
+          "on"
+        ],
+        "collocations": [
+          "stage a concert",
+          "planning stages",
+          "in the final stage",
+          "center stage"
+        ],
+        "tip": "Ngoài nghĩa danh từ là 'sân khấu' hoặc 'giai đoạn (in the early stages)', động từ 'stage' còn có nghĩa là 'tổ chức, dàn dựng một sự kiện/buổi triển lãm'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "stage",
+          "example": "The convention center has the capacity to stage three major exhibitions simultaneously.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "staging",
+          "example": "Professional lighting and staging made the awards ceremony unforgettable.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "staged",
+          "example": "The grand finale was a beautifully staged fireworks display over the harbor.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The city museum plans to _____ a special charity gala next month to raise funds for its new wing.",
+        "answer": "stage",
+        "base_word": "stage",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Bảo tàng thành phố có kế hoạch tổ chức một đêm tiệc từ thiện đặc biệt vào tháng tới để gây quỹ cho khu trưng bày mới."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. Planning an event is not simple. There are hundreds of details that have to be (1) ____, whether it is a wedding or a business conference. Early in the (2) ____ process, you need to decide on the (3) ____. If you know where you want to (4) ____ the event, you should contact the site representative for an (5) ____ description of the facility. The staff will provide you with information about room (6) ____, food and beverage arrangements, including whether there are local (7) ____ or restrictions for serving alcoholic beverages; and required (8) ____ for reserving the site. If you decide that the first site is not (9) ____ suited for your specific requirements, a guidebook will (10) ____ you in finding an alternative setting. In considering location, you should also think about its (11) ____ to public transportation. With a (12) ____ idea of how many people will attend, and how much money you can spend, you can narrow down the available sites to the ones that best accommodate the needs of your group.",
+    "word_bank": [
+      "assist",
+      "exact",
+      "lead time",
+      "regulations",
+      "coordinated",
+      "general",
+      "planning",
+      "site",
+      "dimensions",
+      "ideally",
+      "proximity",
+      "stage"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "assist",
+        "example": "Let me assist you with planning your next event.",
+        "pos": "verb"
+      },
+      {
+        "word": "assistance",
+        "example": "Dennis&#x27;s idea of assistance is to call a professional firm for advice.",
+        "pos": "noun"
+      },
+      {
+        "word": "assistant",
+        "example": "In light of the number of events she had to run this year, Annu asked her boss for an assistant.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "coordinate",
+        "example": "Ralph had a hard time coordinating the schedules of everybody involved in planning the event.",
+        "pos": ""
+      },
+      {
+        "word": "coordination",
+        "example": "Edna is a very good organizer, and coordination of events is one of her specialties.",
+        "pos": "noun"
+      },
+      {
+        "word": "coordinator",
+        "example": "The staff chose Marcel to be the coordinator for the company picnic.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "generalize",
+        "example": "When we generalize, we must be aware of the many exceptions.",
+        "pos": ""
+      },
+      {
+        "word": "general",
+        "example": "I need a general idea of what you want before I can provide specific answers.",
+        "pos": ""
+      },
+      {
+        "word": "generally",
+        "example": "Although I cannot speak for every case, generally it is less expensive to buy in quantity.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "idealize",
+        "example": "Rhoda idealized the location until she could no longer see any flaws in it.",
+        "pos": ""
+      },
+      {
+        "word": "ideal",
+        "example": "A hotel with a large garden would be the ideal site for the reception.",
+        "pos": ""
+      },
+      {
+        "word": "ideally",
+        "example": "Ideally, the site would be within our budget and have an outdoor area.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "plan",
+        "example": "The committee planned to hold the luncheon in the office conference room rather than at a restaurant.",
+        "pos": ""
+      },
+      {
+        "word": "plan",
+        "example": "The finalized plans for the event will be presented at the staff meeting tomorrow.",
+        "pos": ""
+      },
+      {
+        "word": "planner",
+        "example": "Since she wanted to have a large wedding, Matilda decided to hire a wedding planner to help her make the arrangements.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "regulate",
+        "example": "The state will regulate the food-handling precautions.",
+        "pos": ""
+      },
+      {
+        "word": "regulation",
+        "example": "Please obey the state regulations regarding serving alcohol to minors.",
+        "pos": ""
+      },
+      {
+        "word": "regulatory",
+        "example": "Even though it is private, the country club&#x27;s kitchen is subject to the rules of regulatory agencies.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "Do you need our ____ with any of the evening's details?",
+        "options": [
+          {
+            "label": "A",
+            "text": "assist"
+          },
+          {
+            "label": "B",
+            "text": "assisting"
+          },
+          {
+            "label": "C",
+            "text": "assistance"
+          },
+          {
+            "label": "D",
+            "text": "assistant"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "The event did not go off well because the ____ did a poor job of organizing it.",
+        "options": [
+          {
+            "label": "A",
+            "text": "coordinator"
+          },
+          {
+            "label": "B",
+            "text": "coordination"
+          },
+          {
+            "label": "C",
+            "text": "coordinated"
+          },
+          {
+            "label": "D",
+            "text": "coordinates"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "____ speaking, the event was poorly organized.",
+        "options": [
+          {
+            "label": "A",
+            "text": "General"
+          },
+          {
+            "label": "B",
+            "text": "Generally"
+          },
+          {
+            "label": "C",
+            "text": "Generality"
+          },
+          {
+            "label": "D",
+            "text": "Generalizations"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "When the event planner saw the hotel ballroom, she knew that the size wasn't ____, but the price was right.",
+        "options": [
+          {
+            "label": "A",
+            "text": "ideal"
+          },
+          {
+            "label": "B",
+            "text": "ideally"
+          },
+          {
+            "label": "C",
+            "text": "idealize"
+          },
+          {
+            "label": "D",
+            "text": "idealist"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "Joshua quit his job and started his own business as an events ____.",
+        "options": [
+          {
+            "label": "A",
+            "text": "planned"
+          },
+          {
+            "label": "B",
+            "text": "plans"
+          },
+          {
+            "label": "C",
+            "text": "planner"
+          },
+          {
+            "label": "D",
+            "text": "planning"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "Like restaurants, caterers are subject to ____ concerning safe food handling.",
+        "options": [
+          {
+            "label": "A",
+            "text": "regulate"
+          },
+          {
+            "label": "B",
+            "text": "regulations"
+          },
+          {
+            "label": "C",
+            "text": "regulatory"
+          },
+          {
+            "label": "D",
+            "text": "regulating"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "The most important part of [16] a successful event is to give yourself plenty of lead time. You don't want to leave important details until the last minute. Ideally, you should give yourself several weeks to plan your event, or several months if it will be a large affair. The first step is to find a suitable [17] for your event. You want a place that is pleasant and convenient. You also need a place that is the right size. If you have even a general idea of the number of guests you can expect to attend, it will be easy to calculate the [18] of the room that you will need. Many places that rent rooms for events can also provide food and entertainment, and may also assist you with your plans.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "plan"
+            },
+            {
+              "label": "B",
+              "text": "plans"
+            },
+            {
+              "label": "C",
+              "text": "to plan"
+            },
+            {
+              "label": "D",
+              "text": "planning"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "site"
+            },
+            {
+              "label": "B",
+              "text": "stage"
+            },
+            {
+              "label": "C",
+              "text": "assistant"
+            },
+            {
+              "label": "D",
+              "text": "regulation"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "dimities"
+            },
+            {
+              "label": "B",
+              "text": "dimmers"
+            },
+            {
+              "label": "C",
+              "text": "dimensions"
+            },
+            {
+              "label": "D",
+              "text": "diminishments"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following advertisement and e-mail message. Are you planning a party, banquet, reception, or conference? We have the ideal location for you. We can accommodate groups of all sizes. Choose from any of our elegant event rooms: The Garden View Room—holds up to 100 people The Starlight Room—holds up to 200 people The Banquet Hall—holds up to 250 people The Stardust Ballroom—holds up to 350 people We are ready to assist you with planning food, entertainment, invitations, and decorations. We are conveniently located in the heart of the downtown entertainment district, in proximity to major bus and subway lines. Contact Prisca Haines, Site Coordinator phone: 953-9172 e-mail: p_haines@starlight.com To: Prisca Haines From: Peter Richards Subject: Event room Date: September 22 Dear Ms. Haines, I saw the ad for event rooms at the Starlight Hotel in the Weston Daily News of September 20th. I am coordinating our company's annual awards banquet, which will be held on the 18th of next month. We would like to stage a simple but elegant affair. We don't expect more than about 75–85 guests. We would like to have a dinner followed by speeches and presentations of awards. Other than that, we don't plan to have any special entertainment. I would like to discuss the menu with you. Ideally, we would like to provide our guests with a choice of a meat entrée and a vegetarian entrée. I would like to know if your hotel kitchen can provide that, and which dishes you would specifically recommend. Please call me before the weekend to discuss planning this event. I can be reached at 953-0955. Thank you. Peter Richards",
+        "questions": [
+          {
+            "number": 19,
+            "question": "When will the company banquet take place?",
+            "options": [
+              {
+                "label": "A",
+                "text": "This weekend."
+              },
+              {
+                "label": "B",
+                "text": "September 20."
+              },
+              {
+                "label": "C",
+                "text": "September 22."
+              },
+              {
+                "label": "D",
+                "text": "October 18."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "Which room will Ms. Haines probably recommend for the banquet?",
+            "options": [
+              {
+                "label": "A",
+                "text": "The Garden View Room."
+              },
+              {
+                "label": "B",
+                "text": "The Starlight Room."
+              },
+              {
+                "label": "C",
+                "text": "The Banquet Hall."
+              },
+              {
+                "label": "D",
+                "text": "The Stardust Ballroom."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "What will Mr. Richards need assistance with?",
+            "options": [
+              {
+                "label": "A",
+                "text": "The entertainment."
+              },
+              {
+                "label": "B",
+                "text": "The decorations."
+              },
+              {
+                "label": "C",
+                "text": "The invitations."
+              },
+              {
+                "label": "D",
+                "text": "The food."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word ideal in line 5 of the advertisement is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "large"
+              },
+              {
+                "label": "B",
+                "text": "perfect"
+              },
+              {
+                "label": "C",
+                "text": "beautiful"
+              },
+              {
+                "label": "D",
+                "text": "convenient"
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word coordinating in line 3 of the e-mail is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "hosting"
+              },
+              {
+                "label": "B",
+                "text": "presenting"
+              },
+              {
+                "label": "C",
+                "text": "arranging"
+              },
+              {
+                "label": "D",
+                "text": "discussing"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What are the speakers discussing?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The wedding coordinator."
+          },
+          {
+            "label": "B",
+            "text": "The place for the wedding reception."
+          },
+          {
+            "label": "C",
+            "text": "The decorations for the reception."
+          },
+          {
+            "label": "D",
+            "text": "The wedding date."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "Where does the man want to hold the wedding reception?",
+        "options": [
+          {
+            "label": "A",
+            "text": "At a hotel."
+          },
+          {
+            "label": "B",
+            "text": "In a park."
+          },
+          {
+            "label": "C",
+            "text": "At a club."
+          },
+          {
+            "label": "D",
+            "text": "In his backyard."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "When do they have to sign the contract?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Right now."
+          },
+          {
+            "label": "B",
+            "text": "Later today."
+          },
+          {
+            "label": "C",
+            "text": "This week."
+          },
+          {
+            "label": "D",
+            "text": "In four weeks."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "What event is being planned?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A meeting."
+          },
+          {
+            "label": "B",
+            "text": "An awards ceremony."
+          },
+          {
+            "label": "C",
+            "text": "A formal dance."
+          },
+          {
+            "label": "D",
+            "text": "An office party."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "When will the event take place?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Next week."
+          },
+          {
+            "label": "B",
+            "text": "Next month."
+          },
+          {
+            "label": "C",
+            "text": "In the afternoon."
+          },
+          {
+            "label": "D",
+            "text": "Next weekend."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What kind of site are they looking for?",
+        "options": [
+          {
+            "label": "A",
+            "text": "One that is near the office."
+          },
+          {
+            "label": "B",
+            "text": "A small one."
+          },
+          {
+            "label": "C",
+            "text": "One that has a stage."
+          },
+          {
+            "label": "D",
+            "text": "An inexpensive one."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. What are the speakers discussing? (A) The wedding coordinator. (B) The place for the wedding reception. (C) The decorations for the reception. (D) The wedding date. 5. Where does the man want to hold the wedding reception? (A) At a hotel. (B) In a park. (C) At a club. (D) In his backyard. 6. When do they have to sign the contract? (A) Right now. (B) Later today. (C) This week. (D) In four weeks. Listen to the talk. Then read each question and choose the best answer. 7. What event is being planned? (A) A meeting. (B) An awards ceremony. (C) A formal dance. (D) An office party. 8. When will the event take place? (A) Next week. (B) Next month. (C) In the afternoon. (D) Next weekend. 9. What kind of site are they looking for? (A) One that is near the office. (B) A small one. (C) One that has a stage. (D) An inexpensive one.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What are the speakers discussing?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The wedding coordinator."
+          },
+          {
+            "label": "B",
+            "text": "The place for the wedding reception."
+          },
+          {
+            "label": "C",
+            "text": "The decorations for the reception."
+          },
+          {
+            "label": "D",
+            "text": "The wedding date."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "Where does the man want to hold the wedding reception?",
+        "options": [
+          {
+            "label": "A",
+            "text": "At a hotel."
+          },
+          {
+            "label": "B",
+            "text": "In a park."
+          },
+          {
+            "label": "C",
+            "text": "At a club."
+          },
+          {
+            "label": "D",
+            "text": "In his backyard."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "When do they have to sign the contract?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Right now."
+          },
+          {
+            "label": "B",
+            "text": "Later today."
+          },
+          {
+            "label": "C",
+            "text": "This week."
+          },
+          {
+            "label": "D",
+            "text": "In four weeks."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "What event is being planned?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A meeting."
+          },
+          {
+            "label": "B",
+            "text": "An awards ceremony."
+          },
+          {
+            "label": "C",
+            "text": "A formal dance."
+          },
+          {
+            "label": "D",
+            "text": "An office party."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "When will the event take place?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Next week."
+          },
+          {
+            "label": "B",
+            "text": "Next month."
+          },
+          {
+            "label": "C",
+            "text": "In the afternoon."
+          },
+          {
+            "label": "D",
+            "text": "Next weekend."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What kind of site are they looking for?",
+        "options": [
+          {
+            "label": "A",
+            "text": "One that is near the office."
+          },
+          {
+            "label": "B",
+            "text": "A small one."
+          },
+          {
+            "label": "C",
+            "text": "One that has a stage."
+          },
+          {
+            "label": "D",
+            "text": "An inexpensive one."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "## Events\n\nStudy the following definitions and examples.\n\n1. assist v., to give help or support to  \na. Bonnie hired a secretary to assist her with the many details of the event.  \nb. The hotel manager was able to assist us with some last-minute advice.\n\n2. coordinate v., to adjust or arrange parts to work together a. Benet tried to coordinate all departments to make sure the event ran smoothly.\n\nb. The colors of the flowers were ordered to coordinate with the colors in the corporate logo.\n\n3. dimension n., a measure of width, height, or length\n\na. What are the dimensions of the ballroom?\n\nb. We need the dimensions of the meeting rooms before we can determine how many chairs each will hold.\n\n4. exact adj., characterized by accurate measurements or inferences  \na. We will need an exact head count by noon tomorrow.  \nb. The exact measurements of the room are unknown, but we can guess.\n\n5. general adj., involving only the main features rather than precise details  \na. We have a general idea of how many guests will attend.  \nb. In general, about half the guests will bring their spouses.\n\n6. ideally adj., perfectly; conforming to an ideal\n\na. Ideally, the location for the concert would have plenty of parking.\nb. Lucy explained that ideally her wedding would take place on the beach, but she realized it might be difficult to arrange.\n\n7. lead time n., the time between the initial stage of a project and the appearance of results\n\na. The lead time for reservations is unrealistic.\n\nb. We will need to give the caterer enough lead time to cut the cake.\n\n8. plan v., to formulate a scheme  \na. We plan to get together tomorrow to discuss the menu.  \nb. Planning their wedding was a source of tension for the young couple.\n\n9. proximity n., the state, quality, sense, or fact of being near or next to; closeness\n\na. The fans were worried by the proximity of the storm clouds.\n\nb. An important factor in selecting the site was its close proximity to a parking garage.\n\n10. regulate v., to control\n\na. The state strictly regulates the preparation of food for public consumption.\n\nb. The site staff closely regulates how many cars can be brought on the grounds.\n\n11. site n., a place or setting\n\na. Once we saw the site, we knew it would be perfect for the event.\nb. The manager of the site was most helpful.\n\n12. stage v., to exhibit or present\n\na. The gazebo outside was the perfect location from which to stage the cutting of the cake.\n\nb. A historic house can be the perfect site to stage a small reception.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\n| assist | exact | lead time | regulations |\n| --- | --- | --- | --- |\n| coordinated | general | planning | site |\n| dimensions | ideally | proximity | stage |\n\nPlanning an event is not simple. There are hundreds of details that have to be (1) \\_\\_\\_\\_, whether it is a wedding or a business conference. Early in the (2) \\_\\_\\_\\_ process, you need to decide on the (3) \\_\\_\\_\\_. If you know where you want to (4) \\_\\_\\_\\_ the event, you should contact the site representative for an (5) \\_\\_\\_\\_ description of the facility. The staff will provide you with information about room (6) \\_\\_\\_\\_, food and beverage arrangements, including whether there are local (7) \\_\\_\\_\\_ or restrictions for serving alcoholic beverages; and required (8) \\_\\_\\_\\_ for reserving the site.\n\nIf you decide that the first site is not (9) \\_\\_\\_\\_ suited for your specific requirements, a guidebook will (10) \\_\\_\\_\\_ you in finding an alternative setting. In considering location, you should also think about its (11) \\_\\_\\_\\_ to public transportation.\n\nWith a (12) \\_\\_\\_\\_ idea of how many people will attend, and how much money you can spend, you can narrow down the available sites to the ones that best accommodate the needs of your group.",
+    "word_families": "<table><tr><td>verb</td><td>assist</td><td>Let me assist you with planning your next event.</td></tr><tr><td>noun</td><td>assistance</td><td>Dennis&#x27;s idea of assistance is to call a professional firm for advice.</td></tr><tr><td>1</td><td>assistant</td><td>In light of the number of events she had to run this year, Annu asked her boss for an assistant.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>1</td><td>coordinate</td><td>Ralph had a hard time coordinating the schedules of everybody involved in planning the event.</td></tr><tr><td>noun</td><td>coordination</td><td>Edna is a very good organizer, and coordination of events is one of her specialties.</td></tr><tr><td>1 1</td><td>coordinator</td><td>The staff chose Marcel to be the coordinator for the company picnic.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>1 b</td><td>generalize</td><td>When we generalize, we must be aware of the many exceptions.</td></tr><tr><td rowspan=\"2\">2</td><td>general</td><td>I need a general idea of what you want before I can provide specific answers.</td></tr><tr><td>generally</td><td>Although I cannot speak for every case, generally it is less expensive to buy in quantity.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>erb</td><td>idealize</td><td>Rhoda idealized the location until she could no longer see any flaws in it.</td></tr><tr><td>4</td><td>ideal</td><td>A hotel with a large garden would be the ideal site for the reception.</td></tr><tr><td>5</td><td>ideally</td><td>Ideally, the site would be within our budget and have an outdoor area.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td rowspan=\"3\">.</td><td>plan</td><td>The committee planned to hold the luncheon in the office conference room rather than at a restaurant.</td></tr><tr><td>plan</td><td>The finalized plans for the event will be presented at the staff meeting tomorrow.</td></tr><tr><td>planner</td><td>Since she wanted to have a large wedding, Matilda decided to hire a wedding planner to help her make the arrangements.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td rowspan=\"3\">.</td><td>regulate</td><td>The state will regulate the food-handling precautions.</td></tr><tr><td>regulation</td><td>Please obey the state regulations regarding serving alcohol to minors.</td></tr><tr><td>regulatory</td><td>Even though it is private, the country club&#x27;s kitchen is subject to the rules of regulatory agencies.</td></tr></table>\n\n## WORD FAMILIES",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. What are the speakers discussing?\n(A) The wedding coordinator.\n(B) The place for the wedding reception.\n(C) The decorations for the reception.\n(D) The wedding date.\n\n5. Where does the man want to hold the wedding reception?\n(A) At a hotel.\n(B) In a park.\n(C) At a club.\n(D) In his backyard.\n\n6. When do they have to sign the contract?\n(A) Right now.\n(B) Later today.\n(C) This week.\n(D) In four weeks.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. What event is being planned?\n(A) A meeting.\n(B) An awards ceremony.\n(C) A formal dance.\n(D) An office party.\n\n8. When will the event take place?\n(A) Next week.\n(B) Next month.\n(C) In the afternoon.\n(D) Next weekend.\n\n9. What kind of site are they looking for?  \n(A) One that is near the office.  \n(B) A small one.  \n(C) One that has a stage.  \n(D) An inexpensive one.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. Do you need our \\_\\_\\_\\_ with any of the evening's details?\n(A) assist (C) assistance\n(B) assisting (D) assistant\n\n11. The event did not go off well because the \\_\\_\\_\\_ did a poor job of organizing it.\n(A) coordinator (C) coordinated\n(B) coordination (D) coordinates\n\n12. \\_\\_\\_\\_ speaking, the event was poorly organized.\n(A) General (C) Generality\n(B) Generally (D) Generalizations\n\n13. When the event planner saw the hotel ballroom, she knew that the size wasn't \\_\\_\\_\\_, but the price was right.\n(A) ideal (C) idealize\n(B) ideally (D) idealist\n\n14. Joshua quit his job and started his own business as an events \\_\\_\\_\\_.\n(A) planned (C) planner\n(B) plans (D) planning\n\n15. Like restaurants, caterers are subject to \\_\\_\\_\\_ concerning safe food handling.\n(A) regulate (C) regulatory\n(B) regulations (D) regulating\n\n## Part 6 Text Completion\n\nThe most important part of \\_16\\_ a successful event is to give yourself plenty of lead time. You don't want to leave important details until the last minute. Ideally, you should give yourself several weeks to plan your event, or several months if it will be a large affair. The first step is to find a suitable \\_17\\_ for your event. You want a place that is pleasant and convenient. You also need a place that is the right size. If you have even a general idea of the number of guests you can expect to attend, it will be easy to calculate the \\_18\\_ of the room that you will need. Many places that rent rooms for events can also provide food and entertainment, and may also assist you with your plans.\n\n16. (A) plan (B) plans (C) to plan (D) planning\n\n17. (A) site  \n(B) stage  \n(C) assistant  \n(D) regulation\n\n18. (A) dimities  \n(B) dimmers  \n(C) dimensions  \n(D) diminishments",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following advertisement and e-mail message.\n\n## Hold your next event at the Starlight Hotel The grandest hotel in Weston\n\nAre you planning a party, banquet, reception, or conference? We have the ideal location for you. We can accommodate groups of all sizes. Choose from any of our elegant event rooms:\n\nThe Garden View Room—holds up to 100 people  \nThe Starlight Room—holds up to 200 people  \nThe Banquet Hall—holds up to 250 people  \nThe Stardust Ballroom—holds up to 350 people\n\nWe are ready to assist you with planning food, entertainment, invitations, and decorations.\n\nWe are conveniently located in the heart of the downtown entertainment district, in proximity to major bus and subway lines.\n\nContact Prisca Haines, Site Coordinator\nphone: 953-9172\ne-mail: p\\_haines@starlight.com\n\n19. When will the company banquet take place?\n(A) This weekend.\n(B) September 20.\n(C) September 22.\n(D) October 18.\n\n20. Which room will Ms. Haines probably recommend for the banquet?\n(A) The Garden View Room.\n(B) The Starlight Room.\n(C) The Banquet Hall.\n(D) The Stardust Ballroom.\n\n21. What will Mr. Richards need assistance with?\n(A) The entertainment.\n(B) The decorations.\n(C) The invitations.\n(D) The food.\n\nTo: Prisca Haines  \nFrom: Peter Richards  \nSubject: Event room  \nDate: September 22\n\nDear Ms. Haines,\n\nI saw the ad for event rooms at the Starlight Hotel in the Weston Daily News of September 20th. I am coordinating our company's annual awards banquet, which will be held on the 18th of next month. We would like to stage a simple but elegant affair. We don't expect more than about 75–85 guests. We would like to have a dinner followed by speeches and presentations of awards. Other than that, we don't plan to have any special entertainment. I would like to discuss the menu with you. Ideally, we would like to provide our guests with a choice of a meat entrée and a vegetarian entrée. I would like to know if your hotel kitchen can provide that, and which dishes you would specifically recommend.\n\nPlease call me before the weekend to discuss planning this event. I can be reached at 953-0955. Thank you.\n\nPeter Richards\n\n22. The word ideal in line 5 of the advertisement is closest in meaning to  \n(A) large  \n(B) perfect  \n(C) beautiful  \n(D) convenient\n\n23. The word coordinating in line 3 of the e-mail is closest in meaning to  \n(A) hosting  \n(B) presenting  \n(C) arranging  \n(D) discussing"
+  },
+  "needs_review": true
+}

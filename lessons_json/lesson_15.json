@@ -1,0 +1,1577 @@
+{
+  "lesson_id": 15,
+  "title": "Promotions, Pensions, and Awards",
+  "theme_name": "Personnel",
+  "audio_track": "track_15.mp3",
+  "part1_photo": "part1_photos/lesson_15.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "achievement",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an accomplishment, a completed act",
+      "definition_vi": "thành tựu, thành tích đạt được",
+      "examples": [
+        {
+          "en": "Your main achievements will be listed in your personnel file.",
+          "vi": "Những thành tích chính của bạn sẽ được liệt kê trong hồ sơ nhân sự."
+        },
+        {
+          "en": "Joseph's achievements in R&D will go down in company history.",
+          "vi": "Những thành tựu của Joseph trong bộ phận Nghiên cứu & Phát triển (R&D) sẽ đi vào lịch sử công ty."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "achievement",
+          "example": "His achievements were noticed by the vice president and he was sent to the London office."
+        },
+        {
+          "pos": "",
+          "word": "achieve",
+          "example": "Making a list of your objectives will help you achieve them."
+        },
+        {
+          "pos": "",
+          "word": "achiever",
+          "example": "Mr. Vadji always considered himself a high achiever."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "outstanding achievement",
+        "lifetime achievement award",
+        "academic achievement",
+        "recognize an achievement"
+      ],
+      "usage": {
+        "structures": [
+          "achievement in + N (thành tựu trong lĩnh vực gì)",
+          "achieve + a goal/objective/success (đạt được mục tiêu/thành công)"
+        ],
+        "prepositions": [
+          "in",
+          "of"
+        ],
+        "collocations": [
+          "remarkable achievement",
+          "crowning achievement",
+          "sense of achievement",
+          "high achiever"
+        ],
+        "tip": "Động từ 'achieve' luôn đi với các tân ngữ chỉ mục tiêu hoặc kết quả tích cực (achieve goals, targets, objectives, success)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "achievable",
+          "example": "Managers should set realistic and achievable quarterly targets for their teams.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "By streamlining the assembly line, the plant manager _____ a twenty percent reduction in operating costs.",
+        "answer": "achieved",
+        "base_word": "achievement",
+        "pos_hint": "động từ chia quá khứ đơn (V-ed)",
+        "vi": "Bằng cách tinh gọn dây chuyền lắp ráp, giám đốc nhà máy đã đạt được mức giảm hai mươi phần trăm chi phí vận hành."
+      }
+    },
+    {
+      "id": 2,
+      "word": "contribute",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to add to; to donate, to give",
+      "definition_vi": "đóng góp, góp phần, quyên góp",
+      "examples": [
+        {
+          "en": "Make sure your boss is aware of the work you contributed to the project.",
+          "vi": "Hãy chắc chắn rằng sếp của bạn biết về công sức bạn đã đóng góp cho dự án."
+        },
+        {
+          "en": "All employees are asked to contribute a few minutes of their spare time to clean up the office.",
+          "vi": "Tất cả nhân viên được yêu cầu đóng góp vài phút thời gian rảnh của mình để dọn dẹp văn phòng."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "contribute",
+          "example": "All employees were urged to contribute something useful at the staff meetings."
+        },
+        {
+          "pos": "",
+          "word": "contribution",
+          "example": "Each of you has made a significant contribution to our team's success."
+        },
+        {
+          "pos": "",
+          "word": "contributor",
+          "example": "As contributors to the company's outstanding year, all employees will receive an additional holiday bonus."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "contribute to the project",
+        "contribute to a pension fund",
+        "make a contribution",
+        "valuable contributor"
+      ],
+      "usage": {
+        "structures": [
+          "contribute + (sth) + to + N/V-ing (đóng góp cái gì vào việc gì / góp phần dẫn đến việc gì)",
+          "make a contribution to + N (có sự đóng góp cho cái gì)"
+        ],
+        "prepositions": [
+          "to",
+          "toward"
+        ],
+        "collocations": [
+          "contribute significantly to",
+          "charitable contribution",
+          "matching contribution",
+          "contribute ideas"
+        ],
+        "tip": "Giới từ 'to' đi sau 'contribute' và 'contribution' là giới từ (không phải to-infinitive), nên theo sau nó phải là danh từ hoặc V-ing (contribute to improving...)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "contributory",
+          "example": "All full-time staff are enrolled in a contributory pension scheme.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Dr. Lin received a plaque in recognition of her outstanding _____ to medical research.",
+        "answer": "contributions",
+        "base_word": "contribute",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Tiến sĩ Lin đã nhận được tấm bảng vinh danh nhằm ghi nhận những đóng góp xuất sắc của bà cho nghiên cứu y học."
+      }
+    },
+    {
+      "id": 3,
+      "word": "look forward to",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to anticipate, to be eager for something to happen",
+      "definition_vi": "mong đợi, trông mong, háo hức chờ đón",
+      "examples": [
+        {
+          "en": "The regional director was looking forward to the new, larger offices.",
+          "vi": "Giám đốc khu vực đang rất mong chờ được chuyển sang văn phòng mới rộng hơn."
+        },
+        {
+          "en": "We look forward to seeing you at the next meeting.",
+          "vi": "Chúng tôi rất mong được gặp bạn tại cuộc họp tiếp theo."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "look forward to hearing from you",
+        "look forward to working with you",
+        "look forward to meeting you",
+        "look forward to the event"
+      ],
+      "usage": {
+        "structures": [
+          "look forward to + V-ing / N (mong đợi làm gì / điều gì)"
+        ],
+        "prepositions": [
+          "to"
+        ],
+        "collocations": [
+          "look forward to seeing you",
+          "eagerly look forward to",
+          "look forward to a productive partnership",
+          "look forward to your reply"
+        ],
+        "tip": "Bẫy ngữ pháp kinh điển nhất trong TOEIC Part 5 & 6: chữ 'to' trong 'look forward to' là giới từ, nên động từ theo sau BẮT BUỘC phải chia dạng V-ing!"
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "look",
+          "example": "We look to expand our regional presence over the next two years.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "forward",
+          "example": "The board approved a bold forward plan for international growth.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "forward",
+          "example": "We are moving forward with the construction of the new warehouse.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "We look forward to _____ your delegation at our Tokyo headquarters next month.",
+        "answer": "welcoming",
+        "base_word": "look forward to",
+        "pos_hint": "danh động từ (V-ing) sau look forward to",
+        "vi": "Chúng tôi rất mong được chào đón phái đoàn của quý vị tại trụ sở Tokyo của chúng tôi vào tháng tới."
+      }
+    },
+    {
+      "id": 4,
+      "word": "look to",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to depend on, to rely on",
+      "definition_vi": "trông cậy vào, dựa vào, kỳ vọng vào",
+      "examples": [
+        {
+          "en": "The workers always looked to him to settle their disagreements.",
+          "vi": "Các công nhân luôn trông cậy vào ông ấy để giải quyết những bất đồng của họ."
+        },
+        {
+          "en": "The staff is looking to their supervisor for guidance and direction.",
+          "vi": "Đội ngũ nhân viên đang trông cậy vào người giám sát của họ để có sự hướng dẫn và định hướng."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "look to a supervisor for guidance",
+        "look to the future",
+        "look to cut costs",
+        "look to someone for leadership"
+      ],
+      "usage": {
+        "structures": [
+          "look to + sb + for + N (trông cậy vào ai để có được sự chỉ dẫn/hỗ trợ)",
+          "look to + sb + to V (trông cậy vào ai để làm gì)"
+        ],
+        "prepositions": [
+          "to",
+          "for"
+        ],
+        "collocations": [
+          "look to experts for advice",
+          "look to management for support",
+          "look to new markets",
+          "look to improve efficiency"
+        ],
+        "tip": "Khi đi với cấu trúc 'look to sb FOR sth', cụm này đồng nghĩa với 'rely on / depend on / turn to sb for sth'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "look",
+          "example": "Investors often look at quarterly earnings before making decisions.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "outlook",
+          "example": "Analysts maintain a favorable outlook on the retail sector.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "onlooker",
+          "example": "A crowd of onlookers gathered for the grand opening ceremony.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "During the corporate restructuring, employees _____ the executive director for clear direction.",
+        "answer": "looked to",
+        "base_word": "look to",
+        "pos_hint": "cụm động từ chia quá khứ đơn",
+        "vi": "Trong quá trình tái cơ cấu doanh nghiệp, các nhân viên đã trông cậy vào giám đốc điều hành để có định hướng rõ ràng."
+      }
+    },
+    {
+      "id": 5,
+      "word": "loyal",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "faithful, believing in someone or something",
+      "definition_vi": "trung thành, gắn bó",
+      "examples": [
+        {
+          "en": "You have been such a loyal advisor for so many years, I'm not sure what I'll do without you.",
+          "vi": "Bạn đã là một cố vấn trung thành trong suốt nhiều năm qua, tôi không chắc mình sẽ xoay xở thế nào nếu thiếu bạn."
+        },
+        {
+          "en": "Even though your assistant is loyal, you have to question his job performance.",
+          "vi": "Mặc dù trợ lý của bạn rất trung thành, bạn vẫn phải đặt câu hỏi về hiệu suất làm việc của anh ta."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "loyal",
+          "example": "He has been both a loyal coworker and a loyal friend."
+        },
+        {
+          "pos": "",
+          "word": "loyalty",
+          "example": "Her loyalty to the company impressed even the owners."
+        },
+        {
+          "pos": "",
+          "word": "loyally",
+          "example": "The security officer loyally guarded the company's vault."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "loyal customer",
+        "loyal employee",
+        "remain loyal to",
+        "customer loyalty"
+      ],
+      "usage": {
+        "structures": [
+          "be/remain loyal to + sb/sth (trung thành/gắn bó với ai/tổ chức nào)"
+        ],
+        "prepositions": [
+          "to"
+        ],
+        "collocations": [
+          "fiercely loyal",
+          "brand loyalty",
+          "loyalty program",
+          "reward loyal patrons"
+        ],
+        "tip": "Cả tính từ 'loyal' và danh từ 'loyalty' đều đi với giới từ 'to'; cụm 'customer loyalty program' (chương trình khách hàng thân thiết) cực kỳ phổ biến trong TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "disloyal",
+          "example": "Sharing proprietary data with a competitor is a disloyal and unlawful act.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The airline introduced a new frequent-flyer tier to reward customer _____.",
+        "answer": "loyalty",
+        "base_word": "loyal",
+        "pos_hint": "danh từ",
+        "vi": "Hãng hàng không đã giới thiệu một hạng thẻ khách hàng thường xuyên mới nhằm tưởng thưởng cho lòng trung thành của khách hàng."
+      }
+    },
+    {
+      "id": 6,
+      "word": "merit",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "excellence, high quality",
+      "definition_vi": "(n) công trạng, phẩm chất xứng đáng, giá trị; (v) xứng đáng nhận",
+      "examples": [
+        {
+          "en": "Employees are evaluated on their merit and not on seniority.",
+          "vi": "Nhân viên được đánh giá dựa trên năng lực thực chất chứ không phải theo thâm niên."
+        },
+        {
+          "en": "Your work has improved tremendously and is of great merit.",
+          "vi": "Công việc của bạn đã cải thiện vượt bậc và có giá trị rất lớn."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "on one's own merit",
+        "merit pay",
+        "evaluate on merit",
+        "certificate of merit"
+      ],
+      "usage": {
+        "structures": [
+          "on the merits of + N / on one's own merit (dựa trên năng lực/giá trị thực chất)",
+          "merit + consideration/attention (xứng đáng được xem xét/chú ý)"
+        ],
+        "prepositions": [
+          "on",
+          "of"
+        ],
+        "collocations": [
+          "merit-based promotion",
+          "merit increase",
+          "artistic merit",
+          "judge each case on its merits"
+        ],
+        "tip": "Trong chủ đề nhân sự TOEIC, 'merit' thường đối lập với 'seniority' (thâm niên) và xuất hiện trong cụm 'merit raise / merit bonus' (thưởng/tăng lương theo năng lực)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "merit",
+          "example": "The engineer's cost-saving proposal certainly merits serious consideration.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "merit",
+          "example": "Promotions at our firm are awarded strictly on the basis of merit.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "meritorious",
+          "example": "She received a medal for twenty years of meritorious service to the agency.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The safety committee's recommendations _____ immediate attention from factory management.",
+        "answer": "merit",
+        "base_word": "merit",
+        "pos_hint": "động từ chia hiện tại đơn",
+        "vi": "Các khuyến nghị của ủy ban an toàn xứng đáng nhận được sự quan tâm ngay lập tức từ ban quản lý nhà máy."
+      }
+    },
+    {
+      "id": 7,
+      "word": "obviously",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "clearly, evidently",
+      "definition_vi": "rõ ràng là, hiển nhiên là",
+      "examples": [
+        {
+          "en": "Her tardiness was obviously resented by her coworkers.",
+          "vi": "Việc đi trễ của cô ấy rõ ràng đã khiến các đồng nghiệp bất bình."
+        },
+        {
+          "en": "This is obviously not the first time that the customer has had problems with this particular model of sander.",
+          "vi": "Đây hiển nhiên không phải là lần đầu tiên khách hàng gặp trục trặc với mẫu máy chà nhám cụ thể này."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "obviously pleased",
+        "obviously beneficial",
+        "quite obviously",
+        "obviously mistaken"
+      ],
+      "usage": {
+        "structures": [
+          "Obviously, + S + V (Rõ ràng là...)",
+          "be + obviously + adj/V3/V-ing (rõ ràng là...)"
+        ],
+        "prepositions": [],
+        "collocations": [
+          "for obvious reasons",
+          "obvious choice",
+          "state the obvious",
+          "become obvious"
+        ],
+        "tip": "Thường đứng đầu câu (ngăn cách bằng dấu phẩy) hoặc đứng sau động từ 'to be' để nhấn mạnh tính hiển nhiên của sự việc."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "obviousness",
+          "example": "Despite the obviousness of the error, it went unnoticed until the final audit.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "obvious",
+          "example": "It was obvious from the sales report that the new campaign was working.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "obviously",
+          "example": "The client was obviously delighted with the redesigned website.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "With her extensive international experience, Ms. Chen was the _____ choice to lead the overseas branch.",
+        "answer": "obvious",
+        "base_word": "obviously",
+        "pos_hint": "tính từ",
+        "vi": "Với kinh nghiệm quốc tế sâu rộng của mình, bà Chen là sự lựa chọn hiển nhiên để dẫn dắt chi nhánh nước ngoài."
+      }
+    },
+    {
+      "id": 8,
+      "word": "productive",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "useful, getting a lot done",
+      "definition_vi": "năng suất, hiệu quả, sinh lợi nhiều",
+      "examples": [
+        {
+          "en": "The researcher wasn't as productive when he first started working here.",
+          "vi": "Nhà nghiên cứu đã không làm việc năng suất như vậy khi ông mới bắt đầu làm việc tại đây."
+        },
+        {
+          "en": "The managers had a very productive meeting and were able to solve many of the problems.",
+          "vi": "Các nhà quản lý đã có một cuộc họp rất hiệu quả và giải quyết được nhiều vấn đề."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "productive",
+          "example": "The most productive team in the department will win a two-day vacation in the Bahamas."
+        },
+        {
+          "pos": "",
+          "word": "product",
+          "example": "The new product will be released in the early spring."
+        },
+        {
+          "pos": "",
+          "word": "produce",
+          "example": "The film was produced in Manila."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "productive meeting",
+        "highly productive",
+        "productive workforce",
+        "increase productivity"
+      ],
+      "usage": {
+        "structures": [
+          "be productive (có năng suất / đạt hiệu quả cao)",
+          "a productive meeting/session/discussion (một cuộc họp/buổi thảo luận hiệu quả)"
+        ],
+        "prepositions": [
+          "of",
+          "for"
+        ],
+        "collocations": [
+          "productive use of time",
+          "productive relationship",
+          "workplace productivity",
+          "counterproductive"
+        ],
+        "tip": "Phân biệt hai danh từ trong họ từ: 'production' (sự sản xuất/sản lượng) và 'productivity' (năng suất làm việc)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "productivity",
+          "example": "Upgrading the factory machinery boosted overall worker productivity by fifteen percent.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "productively",
+          "example": "The two departments worked productively together to meet the tight deadline.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Allowing employees to work remotely two days a week has noticeably improved overall _____.",
+        "answer": "productivity",
+        "base_word": "productive",
+        "pos_hint": "danh từ chỉ năng suất",
+        "vi": "Việc cho phép nhân viên làm việc từ xa hai ngày một tuần đã cải thiện đáng kể năng suất tổng thể."
+      }
+    },
+    {
+      "id": 9,
+      "word": "promote",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to give someone a better job; to support, to make known",
+      "definition_vi": "thăng chức; quảng bá, thúc đẩy",
+      "examples": [
+        {
+          "en": "Even though the sales associate had a good year, it wasn't possible to promote him.",
+          "vi": "Mặc dù nhân viên bán hàng đã có một năm làm việc tốt, vẫn không thể thăng chức cho anh ấy."
+        },
+        {
+          "en": "The assistant director promoted the idea that the director was incompetent.",
+          "vi": "Phó giám đốc đã lan truyền ý kiến cho rằng giám đốc là người thiếu năng lực."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "promote",
+          "example": "In order to move ahead in the company, you must promote yourself."
+        },
+        {
+          "pos": "",
+          "word": "promotion",
+          "example": "Promotions are given to those who prove their worth."
+        },
+        {
+          "pos": "",
+          "word": "promoter",
+          "example": "As the main promoter of the product, Ms. Ross was responsible for the marketing campaign."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "promote to manager",
+        "promote a new product",
+        "promote growth",
+        "earn a promotion"
+      ],
+      "usage": {
+        "structures": [
+          "be promoted to + N (được thăng chức lên vị trí gì)",
+          "promote + a product/service/event (quảng bá sản phẩm/dịch vụ/sự kiện)"
+        ],
+        "prepositions": [
+          "to",
+          "from"
+        ],
+        "collocations": [
+          "promote from within",
+          "promotional campaign",
+          "sales promotion",
+          "promote teamwork"
+        ],
+        "tip": "Mang 2 nghĩa cốt lõi trong TOEIC: (1) thăng chức (thường chia bị động 'be promoted to + chức vụ') và (2) quảng bá/thúc đẩy doanh số (promotional offers)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "promotional",
+          "example": "Visitors to our trade show booth will receive free promotional merchandise.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The marketing team distributed _____ flyers to announce the grand opening of the downtown store.",
+        "answer": "promotional",
+        "base_word": "promote",
+        "pos_hint": "tính từ",
+        "vi": "Đội ngũ tiếp thị đã phát tờ rơi quảng cáo để thông báo lễ khai trương cửa hàng ở trung tâm thành phố."
+      }
+    },
+    {
+      "id": 10,
+      "word": "recognition",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "credit, praise for doing something well",
+      "definition_vi": "sự công nhận, sự ghi nhận, sự tuyên dương",
+      "examples": [
+        {
+          "en": "The president's personal assistant was finally given the recognition that she has deserved for many years.",
+          "vi": "Trợ lý cá nhân của chủ tịch cuối cùng cũng nhận được sự ghi nhận mà cô ấy xứng đáng có được trong nhiều năm qua."
+        },
+        {
+          "en": "Recognition of excellent work should be routine for every manager.",
+          "vi": "Việc ghi nhận thành tích làm việc xuất sắc nên là việc làm thường xuyên của mọi nhà quản lý."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "in recognition of",
+        "brand recognition",
+        "receive recognition",
+        "employee recognition"
+      ],
+      "usage": {
+        "structures": [
+          "in recognition of + N (để ghi nhận/tuyên dương cái gì)",
+          "gain/receive recognition for + N (nhận được sự công nhận về điều gì)"
+        ],
+        "prepositions": [
+          "in",
+          "of",
+          "for"
+        ],
+        "collocations": [
+          "international recognition",
+          "deserve recognition",
+          "voice recognition",
+          "recognition award"
+        ],
+        "tip": "Cụm giới từ 'in recognition of + [thành tích/sự cống hiến]' xuất hiện rất nhiều trong các bài phát biểu trao giải và thông báo nội bộ TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "recognize",
+          "example": "The annual banquet is held to recognize employees who have served for ten years.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "recognition",
+          "example": "She was given a bonus in recognition of her exceptional leadership.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "recognizable",
+          "example": "The company's new logo is instantly recognizable to consumers worldwide.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "recognizably",
+          "example": "The redesigned model is recognizably more fuel-efficient than its predecessor.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The CEO presented Mr. Gomez with a gold watch to _____ his three decades of dedicated service.",
+        "answer": "recognize",
+        "base_word": "recognition",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Giám đốc điều hành đã trao tặng ông Gomez một chiếc đồng hồ vàng để ghi nhận ba thập kỷ cống hiến tận tụy của ông."
+      }
+    },
+    {
+      "id": 11,
+      "word": "value",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to state the worth",
+      "definition_vi": "(v) định giá; coi trọng, trân trọng; (n) giá trị",
+      "examples": [
+        {
+          "en": "Employees value their colleagues' opinions.",
+          "vi": "Các nhân viên luôn coi trọng ý kiến của đồng nghiệp mình."
+        },
+        {
+          "en": "The expert valued the text at $7,000.",
+          "vi": "Chuyên gia đã định giá văn bản cổ đó ở mức 7.000 đô la."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "value someone's opinion",
+        "value the property at",
+        "market value",
+        "valued customer"
+      ],
+      "usage": {
+        "structures": [
+          "value + sth + at + [số tiền] (định giá cái gì ở mức bao nhiêu)",
+          "value + sb/sth (trân trọng/đánh giá cao ai/cái gì)"
+        ],
+        "prepositions": [
+          "at",
+          "for"
+        ],
+        "collocations": [
+          "highly valued employee",
+          "core values",
+          "good value for money",
+          "decline in value"
+        ],
+        "tip": "Chú ý phân biệt: 'valuable' (có giá trị lớn/quý giá), 'invaluable' (vô giá = cực kỳ quý giá), 'valueless' (vô giá trị), và 'valued' (được trân trọng: a valued client)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "value",
+          "example": "We deeply value the feedback provided by our long-term clients.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "valuation",
+          "example": "An independent appraiser completed a valuation of the commercial property.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "valuable",
+          "example": "Internships provide students with valuable hands-on industry experience.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "valued",
+          "example": "As a valued member of our rewards program, you qualify for free shipping.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Thank you for being a _____ customer of Apex Telecommunications over the past five years.",
+        "answer": "valued",
+        "base_word": "value",
+        "pos_hint": "tính từ (V-ed) bổ nghĩa cho customer",
+        "vi": "Cảm ơn quý khách đã là một khách hàng đáng trân trọng của Viễn thông Apex trong suốt năm năm qua."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. Congratulations. You have been chosen by your colleagues to receive the Keeler Award of Excellence. This prestigious award (1) ____ employees who have made extraordinary (2) ____ to the corporation over the years. Your coworkers gave several reasons for selecting you. First, they mentioned your (3) ____ in the marketing department. In the past four years, you have had four (4) ____ in this department, all based on the many (5) ____ of your work in developing our image in new markets. In addition, your (6) ____ to the department is (7) ____ to all. Many of your coworkers mention that they (8) ____ you for advice. Your supervisor praised your high (9) ____. The Keeler Award acknowledges an employee's (10) ____ with a $1,000 bonus. We (11) ____ to the opportunity to (12) ____ a rosebush in the company garden in each recipient's name. The awards ceremony will be held on August 7 on the front lawn at 10:30 a.m. Again, congratulations.",
+    "word_bank": [
+      "achievements",
+      "look",
+      "forward",
+      "merits",
+      "promotions",
+      "contributions",
+      "look",
+      "to",
+      "obvious",
+      "recognizes",
+      "dedicate",
+      "loyalty",
+      "productivity",
+      "value"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": false
+  },
+  "word_families": [
+    [
+      {
+        "word": "achievement",
+        "example": "His achievements were noticed by the vice president and he was sent to the London office.",
+        "pos": ""
+      },
+      {
+        "word": "achieve",
+        "example": "Making a list of your objectives will help you achieve them.",
+        "pos": ""
+      },
+      {
+        "word": "achiever",
+        "example": "Mr. Vadji always considered himself a high achiever.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "contribute",
+        "example": "All employees were urged to contribute something useful at the staff meetings.",
+        "pos": ""
+      },
+      {
+        "word": "contribution",
+        "example": "Each of you has made a significant contribution to our team's success.",
+        "pos": ""
+      },
+      {
+        "word": "contributor",
+        "example": "As contributors to the company's outstanding year, all employees will receive an additional holiday bonus.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "dedicate",
+        "example": "The manager dedicates too much time to reports and not enough time to the customer.",
+        "pos": ""
+      },
+      {
+        "word": "dedication",
+        "example": "Margo's dedication to the company was rewarded with a two-week trip to Hawaii.",
+        "pos": ""
+      },
+      {
+        "word": "dedicated",
+        "example": "Before the change in management, he used to be a more dedicated worker.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "loyal",
+        "example": "He has been both a loyal coworker and a loyal friend.",
+        "pos": ""
+      },
+      {
+        "word": "loyalty",
+        "example": "Her loyalty to the company impressed even the owners.",
+        "pos": ""
+      },
+      {
+        "word": "loyally",
+        "example": "The security officer loyally guarded the company's vault.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "productive",
+        "example": "The most productive team in the department will win a two-day vacation in the Bahamas.",
+        "pos": ""
+      },
+      {
+        "word": "product",
+        "example": "The new product will be released in the early spring.",
+        "pos": ""
+      },
+      {
+        "word": "produce",
+        "example": "The film was produced in Manila.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "promote",
+        "example": "In order to move ahead in the company, you must promote yourself.",
+        "pos": ""
+      },
+      {
+        "word": "promotion",
+        "example": "Promotions are given to those who prove their worth.",
+        "pos": ""
+      },
+      {
+        "word": "promoter",
+        "example": "As the main promoter of the product, Ms. Ross was responsible for the marketing campaign.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "When he thought about his long career, he realized that his biggest ____ was in developing the new leaders of the company.",
+        "options": [
+          {
+            "label": "A",
+            "text": "achiever"
+          },
+          {
+            "label": "B",
+            "text": "achieved"
+          },
+          {
+            "label": "C",
+            "text": "achievement"
+          },
+          {
+            "label": "D",
+            "text": "achieves"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "She has ____ so much time and energy to the project that her name should appear on the award.",
+        "options": [
+          {
+            "label": "A",
+            "text": "contributes"
+          },
+          {
+            "label": "B",
+            "text": "contribution"
+          },
+          {
+            "label": "C",
+            "text": "contributed"
+          },
+          {
+            "label": "D",
+            "text": "contributor"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "Hard work and ____ will help you move up the corporate ladder.",
+        "options": [
+          {
+            "label": "A",
+            "text": "dedicated"
+          },
+          {
+            "label": "B",
+            "text": "dedicates"
+          },
+          {
+            "label": "C",
+            "text": "dedication"
+          },
+          {
+            "label": "D",
+            "text": "dedicated"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "There is no reason to question her ____ to our company.",
+        "options": [
+          {
+            "label": "A",
+            "text": "loyal"
+          },
+          {
+            "label": "B",
+            "text": "loyally"
+          },
+          {
+            "label": "C",
+            "text": "loyalty"
+          },
+          {
+            "label": "D",
+            "text": "laurels"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "These microchips are ____ faster and more cheaply in Asia.",
+        "options": [
+          {
+            "label": "A",
+            "text": "produce"
+          },
+          {
+            "label": "B",
+            "text": "produced"
+          },
+          {
+            "label": "C",
+            "text": "product"
+          },
+          {
+            "label": "D",
+            "text": "production"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "Because you are a valued and dedicated employee, we are ____ you to director of the department.",
+        "options": [
+          {
+            "label": "A",
+            "text": "promoting"
+          },
+          {
+            "label": "B",
+            "text": "promote"
+          },
+          {
+            "label": "C",
+            "text": "promotion"
+          },
+          {
+            "label": "D",
+            "text": "promoter"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Dear Harry, We are pleased to inform you of your promotion within our company. Starting the first of next month, you will begin in your new position as manager of the Fulfillment Department. During your years as a member of the Fulfillment Department staff, you have made many [16] to the productivity and smooth operation of the department. We have always valued your dedication to your job, and now we are pleased to be able [17] your hard work and fine skills with this promotion. We know you will do a wonderful job. The Personnel Department will contact you soon regarding the changes in your salary and benefits. We [18] welcoming you to your new position next month. Sincerely, Madeline Kovacs President",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "contribute"
+            },
+            {
+              "label": "B",
+              "text": "contributes"
+            },
+            {
+              "label": "C",
+              "text": "contributors"
+            },
+            {
+              "label": "D",
+              "text": "contributions"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "recognize"
+            },
+            {
+              "label": "B",
+              "text": "to recognize"
+            },
+            {
+              "label": "C",
+              "text": "recognizing"
+            },
+            {
+              "label": "D",
+              "text": "will recognize"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "look forward to"
+            },
+            {
+              "label": "B",
+              "text": "look in on"
+            },
+            {
+              "label": "C",
+              "text": "look for"
+            },
+            {
+              "label": "D",
+              "text": "look to"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following memo and e-mail message. To: All company staff From: Claude Dubois, Personnel Manager Re: Annual Awards Ceremony It is time to start getting ready for the company's annual awards ceremony. It will take place at the Merrimack Hotel on Friday, November 10. Up to 15 staff members will receive awards from the company president that evening. We look to you, our company staff, to help us select deserving award recipients. Please send in your nominations for colleagues who you think merit the recognition of an award. Obviously, we would like to see names of people who have contributed more than average to the company. Send me your nominations by e-mail before October 15 so that we can have the list finalized before November 5. Thank you. To: claude_dubois@starco.com From: marilyn_freeland@starco.com Subject: nomination I would like to nominate my coworker, Janet McGhee, assistant manager of the research department, for an award. Her dedication to her job is far above average. She always works long hours to make sure she gets her job done. If she is working on an important project, she will come into the office on weekends if she thinks it's necessary to completing her job on time. The rest of us in the department always look to Janet as an example of how to get a job done right. If anyone deserves the recognition of an award for loyalty and dedication, it's Janet. I hope you will consider her as an award recipient. Thank you. Marilyn",
+        "questions": [
+          {
+            "number": 19,
+            "question": "When will the awards ceremony be held?",
+            "options": [
+              {
+                "label": "A",
+                "text": "October 15."
+              },
+              {
+                "label": "B",
+                "text": "November 5."
+              },
+              {
+                "label": "C",
+                "text": "November 10."
+              },
+              {
+                "label": "D",
+                "text": "November 15."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "Who will suggest award recipients?",
+            "options": [
+              {
+                "label": "A",
+                "text": "The personnel manager."
+              },
+              {
+                "label": "B",
+                "text": "The company president."
+              },
+              {
+                "label": "C",
+                "text": "The assistant manager."
+              },
+              {
+                "label": "D",
+                "text": "The company staff members."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "Why does Marilyn Freeland think Janet McGhee deserves an award?",
+            "options": [
+              {
+                "label": "A",
+                "text": "She works on important projects."
+              },
+              {
+                "label": "B",
+                "text": "She always works long hours."
+              },
+              {
+                "label": "C",
+                "text": "She looks to others as an example."
+              },
+              {
+                "label": "D",
+                "text": "She manages the research department."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word Obviously in line 9 of the first e-mail is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "clearly"
+              },
+              {
+                "label": "B",
+                "text": "quickly"
+              },
+              {
+                "label": "C",
+                "text": "usually"
+              },
+              {
+                "label": "D",
+                "text": "importantly"
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word dedication in line 3 of the second e-mail is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "ability"
+              },
+              {
+                "label": "B",
+                "text": "commitment"
+              },
+              {
+                "label": "C",
+                "text": "knowledge"
+              },
+              {
+                "label": "D",
+                "text": "attendance"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "Why will the ceremony be held?",
+        "options": [
+          {
+            "label": "A",
+            "text": "To honor Darrell."
+          },
+          {
+            "label": "B",
+            "text": "To boast about production figures."
+          },
+          {
+            "label": "C",
+            "text": "To celebrate the opening of a new office."
+          },
+          {
+            "label": "D",
+            "text": "To present awards."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What is the speaker's opinion of Darrell?",
+        "options": [
+          {
+            "label": "A",
+            "text": "He is loyal."
+          },
+          {
+            "label": "B",
+            "text": "He is not productive."
+          },
+          {
+            "label": "C",
+            "text": "He is unimpressive."
+          },
+          {
+            "label": "D",
+            "text": "He is not a hard worker."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "When will the ceremony be held?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Today."
+          },
+          {
+            "label": "B",
+            "text": "Tuesday."
+          },
+          {
+            "label": "C",
+            "text": "Tonight."
+          },
+          {
+            "label": "D",
+            "text": "Tomorrow."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "Who is talking?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Two employees."
+          },
+          {
+            "label": "B",
+            "text": "An award presenter."
+          },
+          {
+            "label": "C",
+            "text": "Community volunteers."
+          },
+          {
+            "label": "D",
+            "text": "A professor."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "Who is the audience?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Students."
+          },
+          {
+            "label": "B",
+            "text": "Customers."
+          },
+          {
+            "label": "C",
+            "text": "Employees."
+          },
+          {
+            "label": "D",
+            "text": "Citizens."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "When did the company open?",
+        "options": [
+          {
+            "label": "A",
+            "text": "1965."
+          },
+          {
+            "label": "B",
+            "text": "1975."
+          },
+          {
+            "label": "C",
+            "text": "1985."
+          },
+          {
+            "label": "D",
+            "text": "1995."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best response. 4. Why will the ceremony be held? (A) To honor Darrell. (B) To boast about production figures. (C) To celebrate the opening of a new office. (D) To present awards. 6. What is the speaker's opinion of Darrell? (A) He is loyal. (B) He is not productive. (C) He is unimpressive. (D) He is not a hard worker. 5. When will the ceremony be held? (A) Today. (B) Tuesday. (C) Tonight. (D) Tomorrow. Listen to the talk. Then read each question and choose the best answer. 7. Who is talking? (A) Two employees. (B) An award presenter. (C) Community volunteers. (D) A professor. 8. Who is the audience? (A) Students. (B) Customers. (C) Employees. (D) Citizens. 9. When did the company open? (A) 1965. (B) 1975. (C) 1985. (D) 1995.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "Why will the ceremony be held?",
+        "options": [
+          {
+            "label": "A",
+            "text": "To honor Darrell."
+          },
+          {
+            "label": "B",
+            "text": "To boast about production figures."
+          },
+          {
+            "label": "C",
+            "text": "To celebrate the opening of a new office."
+          },
+          {
+            "label": "D",
+            "text": "To present awards."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What is the speaker's opinion of Darrell?",
+        "options": [
+          {
+            "label": "A",
+            "text": "He is loyal."
+          },
+          {
+            "label": "B",
+            "text": "He is not productive."
+          },
+          {
+            "label": "C",
+            "text": "He is unimpressive."
+          },
+          {
+            "label": "D",
+            "text": "He is not a hard worker."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "When will the ceremony be held?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Today."
+          },
+          {
+            "label": "B",
+            "text": "Tuesday."
+          },
+          {
+            "label": "C",
+            "text": "Tonight."
+          },
+          {
+            "label": "D",
+            "text": "Tomorrow."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "Who is talking?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Two employees."
+          },
+          {
+            "label": "B",
+            "text": "An award presenter."
+          },
+          {
+            "label": "C",
+            "text": "Community volunteers."
+          },
+          {
+            "label": "D",
+            "text": "A professor."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "Who is the audience?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Students."
+          },
+          {
+            "label": "B",
+            "text": "Customers."
+          },
+          {
+            "label": "C",
+            "text": "Employees."
+          },
+          {
+            "label": "D",
+            "text": "Citizens."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "When did the company open?",
+        "options": [
+          {
+            "label": "A",
+            "text": "1965."
+          },
+          {
+            "label": "B",
+            "text": "1975."
+          },
+          {
+            "label": "C",
+            "text": "1985."
+          },
+          {
+            "label": "D",
+            "text": "1995."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "Lesson 15\n\n## WORDS TO LEARN\n\nach ave .\n\ndedation\nlc < fc\nlook to\nlroyal\n\n“rously” “i”\npromote\n.\nJe\n\n# Promotions, Pensions, and Awards\n\nStudy the following definitions and examples.\n\n1. achievement n., an accomplishment, a completed act  \na. Your main achievements will be listed in your personnel file.  \nb. Joseph's achievements in R&D will go down in company history.\n\n2. contribute v., to add to; to donate, to give  \na. Make sure your boss is aware of the work you contributed to the project.  \nb. All employees are asked to contribute a few minutes of their spare time to clean up the office.\n\n4. look forward to v., to anticipate, to be eager for something to happen a. The regional director was looking forward to the new, larger offices. b. We look forward to seeing you at the next meeting.\n\n5. look to v., to depend on, to rely on  \na. The workers always looked to him to settle their disagreements.  \nb. The staff is looking to their supervisor for guidance and direction.\n\n6. loyal adj., faithful, believing in someone or something  \na. You have been such a loyal advisor for so many years, I'm not sure what I'll do without you.  \nb. Even though your assistant is loyal, you have to question his job performance.\n\n7. merit n., excellence, high quality  \na. Employees are evaluated on their merit and not on seniority.  \nb. Your work has improved tremendously and is of great merit.\n\n8. obviously adv., clearly, evidently  \na. Her tardiness was obviously resented by her coworkers.  \nb. This is obviously not the first time that the customer has had problems with this particular model of sander.\n\n9. productive adj., useful, getting a lot done a. The researcher wasn't as productive when he first started working here.\nb. The managers had a very productive meeting and were able to solve many of the problems.\n\n10. promote v., to give someone a better job; to support, to make known  \na. Even though the sales associate had a good year, it wasn't possible to promote him.  \nb. The assistant director promoted the idea that the director was incompetent.\n\n11. recognition n., credit, praise for doing something well  \na. The president's personal assistant was finally given the recognition that she has deserved for many years.  \nb. Recognition of excellent work should be routine for every manager.\n\n12. value v., to state the worth  \na. Employees value their colleagues' opinions.  \nb. The expert valued the text at $7,000.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\nachievements look forward merits promotions contributions look to obvious recognizes dedicate loyalty productivity value\n\nCongratulations. You have been chosen by your colleagues to receive the Keeler Award of Excellence. This prestigious award (1) \\_\\_\\_\\_ employees who have made extraordinary (2) \\_\\_\\_\\_ to the corporation over the years.\n\nYour coworkers gave several reasons for selecting you. First, they mentioned your (3) \\_\\_\\_\\_ in the marketing department. In the past four years, you have had four (4) \\_\\_\\_\\_ in this department, all based on the many (5) \\_\\_\\_\\_ of your work in developing our image in new markets. In addition, your (6) \\_\\_\\_\\_ to the department is (7) \\_\\_\\_\\_ to all. Many of your coworkers mention that they (8) \\_\\_\\_\\_ you for advice. Your supervisor praised your high (9) \\_\\_\\_\\_.\n\nThe Keeler Award acknowledges an employee's (10) \\_\\_\\_\\_ with a $1,000 bonus. We (11) \\_\\_\\_\\_ to the opportunity to (12) \\_\\_\\_\\_ a rosebush in the company garden in each recipient's name.\n\nThe awards ceremony will be held on August 7 on the front lawn at 10:30 a.m. Again, congratulations.",
+    "word_families": "## WORD FAMILIES\n\n| achievement | His achievements were noticed by the vice president and he was sent to the London office. |\n| --- | --- |\n| achieve | Making a list of your objectives will help you achieve them. |\n| achiever | Mr. Vadji always considered himself a high achiever. |\n\n| contribute | All employees were urged to contribute something useful at the staff meetings. |\n| --- | --- |\n| contribution | Each of you has made a significant contribution to our team's success. |\n| contributor | As contributors to the company's outstanding year, all employees will receive an additional holiday bonus. |\n\n| dedicate | The manager dedicates too much time to reports and not enough time to the customer. |\n| --- | --- |\n| dedication | Margo's dedication to the company was rewarded with a two-week trip to Hawaii. |\n| dedicated | Before the change in management, he used to be a more dedicated worker. |\n\n| loyal | He has been both a loyal coworker and a loyal friend. |\n| --- | --- |\n| loyalty | Her loyalty to the company impressed even the owners. |\n| loyally | The security officer loyally guarded the company's vault. |\n\n| productive | The most productive team in the department will win a two-day vacation in the Bahamas. |\n| --- | --- |\n| product | The new product will be released in the early spring. |\n| produce | The film was produced in Manila. |\n\n| promote | In order to move ahead in the company, you must promote yourself. |\n| --- | --- |\n| promotion | Promotions are given to those who prove their worth. |\n| promoter | As the main promoter of the product, Ms. Ross was responsible for the marketing campaign. |",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best response.\n\n4. Why will the ceremony be held?\n(A) To honor Darrell.\n(B) To boast about production figures.\n(C) To celebrate the opening of a new office.\n(D) To present awards.\n\n6. What is the speaker's opinion of Darrell?\n(A) He is loyal.\n(B) He is not productive.\n(C) He is unimpressive.\n(D) He is not a hard worker.\n\n5. When will the ceremony be held?\n(A) Today.\n(B) Tuesday.\n(C) Tonight.\n(D) Tomorrow.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. Who is talking?\n(A) Two employees.\n(B) An award presenter.\n(C) Community volunteers.\n(D) A professor.\n\n8. Who is the audience?\n(A) Students.\n(B) Customers.\n(C) Employees.\n(D) Citizens.\n\n9. When did the company open?\n(A) 1965.\n(B) 1975.\n(C) 1985.\n(D) 1995.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. When he thought about his long career, he realized that his biggest \\_\\_\\_\\_ was in developing the new leaders of the company.\n(A) achiever (C) achievement\n(B) achieved (D) achieves\n\n11. She has \\_\\_\\_\\_ so much time and energy to the project that her name should appear on the award.\n(A) contributes (C) contributed\n(B) contribution (D) contributor\n\n12. Hard work and \\_\\_\\_\\_ will help you move up the corporate ladder.\n(A) dedicated (C) dedication\n(B) dedicates (D) dedicated\n\n13. There is no reason to question her \\_\\_\\_\\_ to our company.\n(A) loyal (C) loyalty\n(B) loyally (D) laurels\n\n14. These microchips are \\_\\_\\_\\_ faster and more cheaply in Asia.\n(A) produce (C) product\n(B) produced (D) production\n\n15. Because you are a valued and dedicated employee, we are \\_\\_\\_\\_ you to director of the department.\n(A) promoting (C) promotion\n(B) promote (D) promoter\n\n## Part 6 Text Completion\n\nDear Harry,\n\nWe are pleased to inform you of your promotion within our company. Starting the first of next month, you will begin in your new position as manager of the Fulfillment Department. During your years as a member of the Fulfillment Department staff, you have made many \\_16\\_ to the productivity and smooth operation of the department. We have always valued your dedication to your job, and now we are pleased to be able \\_17\\_ your hard work and fine skills with this promotion. We know you will do a wonderful job. The Personnel Department will contact you soon regarding the changes in your salary and benefits. We \\_18\\_ welcoming you to your new position next month.\n\nSincerely,\n\nMadeline Kovacs\n\nPresident\n\n16. (A) contribute (B) contributes (C) contributors (D) contributions\n\n17. (A) recognize (B) to recognize (C) recognizing (D) will recognize\n\n18. (A) look forward to (B) look in on (C) look for (D) look to",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following memo and e-mail message.\n\nTo: All company staff  \nFrom: Claude Dubois, Personnel Manager  \nRe: Annual Awards Ceremony\n\nIt is time to start getting ready for the company's annual awards ceremony. It will take place at the Merrimack Hotel on Friday, November 10. Up to 15 staff members will receive awards from the company president that evening. We look to you, our company staff, to help us select deserving award recipients. Please send in your nominations for colleagues who you think merit the recognition of an award. Obviously, we would like to see names of people who have contributed more than average to the company. Send me your nominations by e-mail before October 15 so that we can have the list finalized before November 5. Thank you.\n\n19. When will the awards ceremony be held?\n(A) October 15.\n(B) November 5.\n(C) November 10.\n(D) November 15.\n\n20. Who will suggest award recipients?  \n(A) The personnel manager.  \n(B) The company president.  \n(C) The assistant manager.  \n(D) The company staff members.\n\n21. Why does Marilyn Freeland think Janet McGhee deserves an award?\n(A) She works on important projects.\n(B) She always works long hours.\n(C) She looks to others as an example.\n(D) She manages the research department.\n\nTo: claude\\_dubois@starco.com  \nFrom: marilyn\\_freeland@starco.com  \nSubject: nomination\n\n## Hi Claude,\n\nI would like to nominate my coworker, Janet McGhee, assistant manager of the research department, for an award. Her dedication to her job is far above average. She always works long hours to make sure she gets her job done. If she is working on an important project, she will come into the office on weekends if she thinks it's necessary to completing her job on time. The rest of us in the department always look to Janet as an example of how to get a job done right. If anyone deserves the recognition of an award for loyalty and dedication, it's Janet. I hope you will consider her as an award recipient.\n\nThank you.\n\nMarilyn\n\n22. The word Obviously in line 9 of the first e-mail is closest in meaning to  \n(A) clearly  \n(B) quickly  \n(C) usually  \n(D) importantly\n\n23. The word dedication in line 3 of the second e-mail is closest in meaning to  \n(A) ability  \n(B) commitment  \n(C) knowledge  \n(D) attendance"
+  },
+  "needs_review": true
+}

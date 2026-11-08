@@ -1,0 +1,1611 @@
+{
+  "lesson_id": 50,
+  "title": "Pharmacy",
+  "theme_name": "Health",
+  "audio_track": "track_50.mp3",
+  "part1_photo": "part1_photos/lesson_50.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "consult",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to seek advice or information of",
+      "definition_vi": "tham khảo ý kiến, hỏi ý kiến (bác sĩ, chuyên gia)",
+      "examples": [
+        {
+          "en": "The doctor consulted with a specialist before writing a new prescription.",
+          "vi": "Vị bác sĩ đã hội chẩn/tham khảo ý kiến một bác sĩ chuyên khoa trước khi kê đơn thuốc mới."
+        },
+        {
+          "en": "May I consult with you about a drug interaction case I have?",
+          "vi": "Tôi có thể tham khảo ý kiến của ông về một ca tương tác thuốc mà tôi đang gặp phải được không?"
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "consult",
+          "example": "Beatrice consulted her pharmacist about the number of different medications she is taking."
+        },
+        {
+          "pos": "",
+          "word": "consultation",
+          "example": "Let me arrange a consultation with a specialist to discuss your heart problem and some possible medications."
+        },
+        {
+          "pos": "",
+          "word": "consultative",
+          "example": "This is a consultative process and you probably won&#x27;t have a definitive answer immediately."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "consult a doctor",
+        "consult with a specialist",
+        "in consultation with",
+        "management consultant"
+      ],
+      "usage": {
+        "structures": [
+          "consult + sb (a doctor/lawyer/pharmacist)",
+          "consult + with + sb (about/on + N)"
+        ],
+        "prepositions": [
+          "with",
+          "about",
+          "on"
+        ],
+        "collocations": [
+          "consult your pharmacist",
+          "consult with a specialist",
+          "schedule a consultation",
+          "medical consultant"
+        ],
+        "tip": "Có thể dùng trực tiếp 'consult + người' hoặc 'consult with + người'; chú ý phân biệt danh từ chỉ sự việc 'consultation' (buổi tư vấn/hội chẩn) và danh từ chỉ người 'consultant' (chuyên gia tư vấn)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "consultant",
+          "example": "The pharmacy chain hired a healthcare consultant to streamline its inventory system.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Patients should schedule a _____ with their physician before stopping any prescribed blood pressure medication.",
+        "answer": "consultation",
+        "base_word": "consult",
+        "pos_hint": "danh từ",
+        "vi": "Bệnh nhân nên đặt lịch tư vấn với bác sĩ của mình trước khi ngưng bất kỳ loại thuốc huyết áp được kê đơn nào."
+      }
+    },
+    {
+      "id": 2,
+      "word": "control",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to exercise authoritative or dominating influence over",
+      "definition_vi": "kiểm soát, khống chế, điều khiển",
+      "examples": [
+        {
+          "en": "To control the cost of this medication, you may get the generic version.",
+          "vi": "Để kiểm soát chi phí của loại thuốc này, bạn có thể mua thuốc gốc (generic) tương đương."
+        },
+        {
+          "en": "Please take your medication every day to control your high blood pressure.",
+          "vi": "Vui lòng uống thuốc mỗi ngày để kiểm soát chứng huyết áp cao của bạn."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "control costs",
+        "quality control",
+        "under control",
+        "out of control"
+      ],
+      "usage": {
+        "structures": [
+          "control + N (costs/symptoms/blood pressure)",
+          "keep + N + under control",
+          "beyond one's control"
+        ],
+        "prepositions": [
+          "over",
+          "of",
+          "under",
+          "beyond"
+        ],
+        "collocations": [
+          "control high blood pressure",
+          "quality control",
+          "keep costs under control",
+          "circumstances beyond our control"
+        ],
+        "tip": "Cụm 'quality control' (kiểm soát chất lượng), 'under control' (trong tầm kiểm soát) và 'beyond our control' (ngoài tầm kiểm soát) rất hay gặp."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "control",
+          "example": "Proper diet and daily insulin help diabetic patients control their blood sugar levels.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "control",
+          "example": "All pharmaceutical products undergo rigorous quality control before leaving the factory.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "controlled",
+          "example": "Certain strong painkillers are classified as controlled substances and require a special prescription.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "controllable",
+          "example": "Mild seasonal allergies are easily controllable with over-the-counter antihistamines.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The pharmaceutical plant maintains strict temperature _____ in the warehouse where vaccines are stored.",
+        "answer": "control",
+        "base_word": "control",
+        "pos_hint": "danh từ",
+        "vi": "Nhà máy dược phẩm duy trì việc kiểm soát nhiệt độ nghiêm ngặt trong nhà kho nơi lưu trữ vắc-xin."
+      }
+    },
+    {
+      "id": 3,
+      "word": "convenient",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "suited or favorable to one's purpose; easy to reach",
+      "definition_vi": "thuận tiện, tiện lợi",
+      "examples": [
+        {
+          "en": "Is this a convenient location for you to pick up your prescription?",
+          "vi": "Đây có phải là một địa điểm thuận tiện để bạn đến lấy thuốc theo đơn không?"
+        },
+        {
+          "en": "It is convenient to have a pharmacy right across the street from my doctor's office.",
+          "vi": "Thật tiện lợi khi có một hiệu thuốc ngay bên kia đường đối diện phòng khám bác sĩ của tôi."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "convenience",
+          "example": "The convenience of a 24-hour neighborhood pharmacy is not to be underestimated."
+        },
+        {
+          "pos": "",
+          "word": "convenient",
+          "example": "Many people shop there because of its convenient location."
+        },
+        {
+          "pos": "",
+          "word": "conveniently",
+          "example": "The pharmacy is conveniently located on my way home from work."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "convenient location",
+        "convenient time",
+        "convenient for sb",
+        "conveniently located"
+      ],
+      "usage": {
+        "structures": [
+          "It is convenient (for sb) + to V",
+          "be convenient + for + sb/sth",
+          "at your earliest convenience"
+        ],
+        "prepositions": [
+          "for",
+          "to"
+        ],
+        "collocations": [
+          "conveniently located",
+          "at your earliest convenience",
+          "convenience store",
+          "for your convenience"
+        ],
+        "tip": "Không dùng người làm chủ ngữ của 'convenient' (SAI: I am convenient -> ĐÚNG: It is convenient for me); cụm 'conveniently located' và 'at your earliest convenience' là tủ TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "inconvenient",
+          "example": "If this appointment time is inconvenient for you, please call us to reschedule.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "inconvenience",
+          "example": "We apologize for any inconvenience caused by the temporary closure of the drive-through pharmacy.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The new neighborhood drugstore is _____ located right next to the subway station.",
+        "answer": "conveniently",
+        "base_word": "convenient",
+        "pos_hint": "trạng từ",
+        "vi": "Hiệu thuốc mới của khu phố tọa lạc tại một vị trí rất thuận tiện ngay cạnh ga tàu điện ngầm."
+      }
+    },
+    {
+      "id": 4,
+      "word": "detect",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to discover or ascertain",
+      "definition_vi": "phát hiện ra, dò tìm, nhận ra",
+      "examples": [
+        {
+          "en": "My doctor put me through some simple tests to detect if I have asthma.",
+          "vi": "Bác sĩ đã cho tôi làm một số xét nghiệm đơn giản để phát hiện xem tôi có bị hen suyễn hay không."
+        },
+        {
+          "en": "I have to keep track of my sleep patterns to detect how many times I get up in the night.",
+          "vi": "Tôi phải theo dõi giấc ngủ của mình để phát hiện xem mình thức dậy bao nhiêu lần trong đêm."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "detect",
+          "example": "The laboratory test detected the presence of medication in his blood."
+        },
+        {
+          "pos": "noun",
+          "word": "detection",
+          "example": "Early detection of diseases usually means that medications can be more effective."
+        },
+        {
+          "pos": "",
+          "word": "detectable",
+          "example": "After he took his medication faithfully for a few months and exercised more, Jack&#x27;s disease was no longer detectable."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "detect a disease",
+        "early detection",
+        "detect an error",
+        "barely detectable"
+      ],
+      "usage": {
+        "structures": [
+          "detect + N (presence/signs/changes/errors)",
+          "early detection of + N"
+        ],
+        "prepositions": [
+          "in",
+          "by"
+        ],
+        "collocations": [
+          "early detection of disease",
+          "detect subtle changes",
+          "smoke detector",
+          "no longer detectable"
+        ],
+        "tip": "Cụm 'early detection' (việc phát hiện sớm bệnh tật/lỗi) rất phổ biến trong các bài đọc về y học và kỹ thuật."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "detector",
+          "example": "Automated optical detectors inspect every pill bottle on the packaging line.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The pharmacy's new software automatically alerts the pharmacist upon the _____ of a possible drug allergy.",
+        "answer": "detection",
+        "base_word": "detect",
+        "pos_hint": "danh từ",
+        "vi": "Phần mềm mới của hiệu thuốc tự động cảnh báo dược sĩ ngay khi phát hiện khả năng dị ứng thuốc."
+      }
+    },
+    {
+      "id": 5,
+      "word": "factor",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a contribution to an accomplishment, a result, or a process",
+      "definition_vi": "nhân tố, yếu tố",
+      "examples": [
+        {
+          "en": "Taking medications as directed is an important factor in getting well.",
+          "vi": "Việc uống thuốc đúng theo chỉ dẫn là một yếu tố quan trọng giúp mau khỏi bệnh."
+        },
+        {
+          "en": "Could my cat be a factor contributing to my asthma?",
+          "vi": "Liệu con mèo của tôi có thể là một yếu tố góp phần gây ra bệnh hen suyễn của tôi không?"
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "key factor",
+        "contributing factor",
+        "deciding factor",
+        "risk factor"
+      ],
+      "usage": {
+        "structures": [
+          "a (key/major/contributing) factor + in + N/V-ing",
+          "factor + into/in + N (tính đến yếu tố)"
+        ],
+        "prepositions": [
+          "in",
+          "into"
+        ],
+        "collocations": [
+          "important factor in",
+          "contributing factor",
+          "deciding factor",
+          "risk factors for heart disease"
+        ],
+        "tip": "Danh từ 'factor' thường đi với giới từ 'in' (an important factor in getting well / a key factor in our decision)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "factor",
+          "example": "When calculating the dosage, the pediatrician factored in the child's age and weight.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "factorial",
+          "example": "Researchers used a factorial study design to test combinations of the two vitamins.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Patient compliance with dosage instructions is a crucial _____ in the success of antibiotic therapy.",
+        "answer": "factor",
+        "base_word": "factor",
+        "pos_hint": "danh từ",
+        "vi": "Sự tuân thủ của bệnh nhân đối với hướng dẫn liều dùng là một yếu tố then chốt trong sự thành công của liệu pháp kháng sinh."
+      }
+    },
+    {
+      "id": 6,
+      "word": "interaction",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a mutual activity",
+      "definition_vi": "sự tương tác (giữa các loại thuốc, hoặc giữa người với người)",
+      "examples": [
+        {
+          "en": "My pharmacist was concerned about the interaction of the two medications I was prescribed.",
+          "vi": "Dược sĩ của tôi lo ngại về sự tương tác của hai loại thuốc mà tôi đã được kê đơn."
+        },
+        {
+          "en": "The interaction between the patient and the doctor showed a high level of trust.",
+          "vi": "Sự tương tác giữa bệnh nhân và bác sĩ cho thấy một mức độ tin tưởng cao."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "drug interaction",
+        "social interaction",
+        "interaction between",
+        "face-to-face interaction"
+      ],
+      "usage": {
+        "structures": [
+          "interaction + between A and B",
+          "interaction + with + sb/sth",
+          "drug interaction"
+        ],
+        "prepositions": [
+          "between",
+          "with",
+          "among"
+        ],
+        "collocations": [
+          "adverse drug interaction",
+          "interaction between medications",
+          "customer interaction",
+          "interact with"
+        ],
+        "tip": "Trong ngữ cảnh nhà thuốc, 'drug interaction' là 'tương tác thuốc' (khi hai loại thuốc phản ứng với nhau); động từ gốc là 'interact with'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "interact",
+          "example": "Certain herbal supplements can interact negatively with prescription blood thinners.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "interactive",
+          "example": "The pharmacy website features an interactive tool for checking medication side effects.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "interactively",
+          "example": "Pharmacists train interactively using computer simulations of patient consultations.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Always inform your pharmacist about any vitamins you take to avoid harmful drug _____.",
+        "answer": "interactions",
+        "base_word": "interaction",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Hãy luôn thông báo cho dược sĩ về bất kỳ loại vitamin nào bạn đang uống để tránh các tương tác thuốc có hại."
+      }
+    },
+    {
+      "id": 7,
+      "word": "limit",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the point beyond which something cannot proceed",
+      "definition_vi": "giới hạn, hạn mức; giới hạn lại",
+      "examples": [
+        {
+          "en": "My prescription has a limit of three refills.",
+          "vi": "Đơn thuốc của tôi có giới hạn là ba lần mua lặp lại (refills)."
+        },
+        {
+          "en": "My health plan authorization sets a limit on which health care providers I can see without their permission.",
+          "vi": "Giấy phép bảo hiểm y tế của tôi đặt ra giới hạn về những nhà cung cấp dịch vụ chăm sóc sức khỏe nào tôi có thể đến khám mà không cần xin phép họ."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "limit",
+          "example": "My health insurance company has severely limited the amount of money it will pay out for prescription medicine."
+        },
+        {
+          "pos": "",
+          "word": "limit",
+          "example": "Even though that headache medicine does not require a prescription, there is a limit to how many times a day you should take it."
+        },
+        {
+          "pos": "",
+          "word": "limited",
+          "example": "The new drugstore on the corner really isn&#x27;t convenient because of its limited hours of operation."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "set a limit on",
+        "within limits",
+        "time limit",
+        "limited edition"
+      ],
+      "usage": {
+        "structures": [
+          "set/impose a limit + on + N",
+          "a limit + to + N",
+          "limit + A + to + B"
+        ],
+        "prepositions": [
+          "on",
+          "to",
+          "within",
+          "beyond"
+        ],
+        "collocations": [
+          "set a limit on",
+          "time limit",
+          "limited hours",
+          "limitations of the study"
+        ],
+        "tip": "Cụm 'set/impose a limit ON sth' (đặt giới hạn lên cái gì) và 'limit A to B' (giới hạn A ở mức B) xuất hiện rất thường xuyên."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "limitation",
+          "example": "Please review the policy booklet for a full list of coverage limitations.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "unlimited",
+          "example": "Members of the premium wellness plan enjoy unlimited telephone consultations with nurses.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "To prevent shortages, the pharmacy has _____ purchases of cold medicine to two boxes per customer.",
+        "answer": "limited",
+        "base_word": "limit",
+        "pos_hint": "động từ chia quá khứ phân từ V3/ed (hiện tại hoàn thành)",
+        "vi": "Để ngăn ngừa tình trạng khan hiếm, hiệu thuốc đã giới hạn việc mua thuốc cảm cúm ở mức hai hộp mỗi khách hàng."
+      }
+    },
+    {
+      "id": 8,
+      "word": "monitor",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to keep track of",
+      "definition_vi": "theo dõi sát sao, giám sát; màn hình, thiết bị theo dõi",
+      "examples": [
+        {
+          "en": "The nurse practitioner carefully monitors the number of medications her patients are taking.",
+          "vi": "Y tá thực hành theo dõi cẩn thận số lượng các loại thuốc mà bệnh nhân của cô đang dùng."
+        },
+        {
+          "en": "The patient had weekly appointments so that the doctor could monitor her progress.",
+          "vi": "Bệnh nhân có các cuộc hẹn hàng tuần để bác sĩ có thể theo dõi sự tiến triển của cô."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "closely monitor",
+        "monitor progress",
+        "heart rate monitor",
+        "monitor side effects"
+      ],
+      "usage": {
+        "structures": [
+          "closely/carefully monitor + N (progress/patients/side effects)"
+        ],
+        "prepositions": [
+          "for"
+        ],
+        "collocations": [
+          "closely monitor the patient",
+          "monitor progress",
+          "blood pressure monitor",
+          "continuous monitoring"
+        ],
+        "tip": "Thường đi kèm các trạng từ như 'closely', 'carefully', 'regularly', 'constantly' (closely monitor the patient's condition)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "monitor",
+          "example": "Doctors must closely monitor patients who are starting this new cardiac medication.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "monitor",
+          "example": "The pharmacy sells digital blood pressure monitors for home use.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "monitoring",
+          "example": "Regular blood glucose monitoring is essential for managing diabetes effectively.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The clinical pharmacist is responsible for _____ patients' lab values to ensure the dosage remains safe.",
+        "answer": "monitoring",
+        "base_word": "monitor",
+        "pos_hint": "danh động từ V-ing (sau giới từ for)",
+        "vi": "Dược sĩ lâm sàng chịu trách nhiệm theo dõi các chỉ số xét nghiệm của bệnh nhân để đảm bảo liều lượng thuốc luôn an toàn."
+      }
+    },
+    {
+      "id": 9,
+      "word": "potential",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "capable of being but not yet in existence; possible",
+      "definition_vi": "tiềm năng, có khả năng xảy ra; tiềm lực",
+      "examples": [
+        {
+          "en": "To avoid any potential side effects from the medication, be sure to tell your doctor all the drugs you are currently taking.",
+          "vi": "Để tránh bất kỳ tác dụng phụ tiềm ẩn nào từ thuốc, hãy chắc chắn nói với bác sĩ tất cả các loại thuốc bạn hiện đang dùng."
+        },
+        {
+          "en": "Given the potential delay in getting reimbursed by the health plan, why don't we just fill one prescription today?",
+          "vi": "Trước nguy cơ chậm trễ tiềm ẩn trong việc được chương trình bảo hiểm hoàn tiền, tại sao hôm nay chúng ta không lấy trước một đơn thuốc thôi?"
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "potential",
+          "example": "Be careful when taking this medication because it has the potential to make you feel sleepy."
+        },
+        {
+          "pos": "",
+          "word": "potential",
+          "example": "Margaret decided not to take the medicine the doctor had prescribed because of its potential side effects."
+        },
+        {
+          "pos": "",
+          "word": "potentially",
+          "example": "Many medications are potentially dangerous so it is important to take them exactly as prescribed by the doctor."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "potential side effects",
+        "potential customers",
+        "reach one's potential",
+        "potentially dangerous"
+      ],
+      "usage": {
+        "structures": [
+          "potential + N (side effects / customers / risks)",
+          "the potential + for + N / to V"
+        ],
+        "prepositions": [
+          "for",
+          "to"
+        ],
+        "collocations": [
+          "potential side effects",
+          "potential risks",
+          "full potential",
+          "potentially harmful"
+        ],
+        "tip": "'Potential' vừa là tính từ (potential side effects/clients) vừa là danh từ không đếm được (have the potential to V / reach one's full potential)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "potentiate",
+          "example": "Combining these two analgesics can potentiate their pain-relieving effects.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Because this antibiotic is _____ harmful if taken with alcohol, a warning label is affixed to the bottle.",
+        "answer": "potentially",
+        "base_word": "potential",
+        "pos_hint": "trạng từ (bổ nghĩa cho tính từ harmful)",
+        "vi": "Vì loại kháng sinh này có khả năng gây hại nếu uống cùng rượu bia, một nhãn cảnh báo đã được dán lên lọ thuốc."
+      }
+    },
+    {
+      "id": 10,
+      "word": "sample",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a portion, piece, or segment that is representative of a whole",
+      "definition_vi": "mẫu thử, mẫu xét nghiệm; dùng thử, lấy mẫu",
+      "examples": [
+        {
+          "en": "The pharmacist gave Myra a few free samples of the allergy medication.",
+          "vi": "Người dược sĩ đã đưa cho Myra một vài mẫu dùng thử miễn phí của loại thuốc trị dị ứng."
+        },
+        {
+          "en": "A sample of the population taking the new medicine was surveyed to determine whether it caused side effects.",
+          "vi": "Một mẫu đại diện trong nhóm dân số đang dùng loại thuốc mới đã được khảo sát để xác định xem thuốc có gây tác dụng phụ hay không."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "free sample",
+        "blood sample",
+        "random sample",
+        "representative sample"
+      ],
+      "usage": {
+        "structures": [
+          "a sample of + N",
+          "free/complimentary sample",
+          "collect/take a sample"
+        ],
+        "prepositions": [
+          "of",
+          "from"
+        ],
+        "collocations": [
+          "free samples of medication",
+          "blood sample",
+          "representative sample",
+          "sample size"
+        ],
+        "tip": "Vừa mang nghĩa 'mẫu hàng dùng thử miễn phí' (free samples), vừa mang nghĩa 'mẫu xét nghiệm/khảo sát' (blood sample / a sample of the population)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "sample",
+          "example": "Quality inspectors randomly sample batches of tablets from the production line.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "sampling",
+          "example": "Random sampling showed that ninety-eight percent of patients were satisfied with the pharmacy.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The dermatologist gave the patient several complimentary _____ of the medicated skin cream to try at home.",
+        "answer": "samples",
+        "base_word": "sample",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Bác sĩ da liễu đã đưa cho bệnh nhân một vài mẫu dùng thử miễn phí của loại kem bôi da đặc trị để thử ở nhà."
+      }
+    },
+    {
+      "id": 11,
+      "word": "sense",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a judgment; an intellectual interpretation",
+      "definition_vi": "cảm nhận, sự phán đoán, ý thức; cảm thấy, nhận biết",
+      "examples": [
+        {
+          "en": "The doctor had a good sense about what the problem was but wanted to get a second opinion.",
+          "vi": "Vị bác sĩ có phán đoán/cảm nhận khá tốt về vấn đề là gì nhưng vẫn muốn có thêm ý kiến chuyên môn thứ hai."
+        },
+        {
+          "en": "I got the sense it would be better to get my prescription filled right away.",
+          "vi": "Tôi có cảm giác rằng sẽ tốt hơn nếu đi lấy thuốc theo đơn ngay lập tức."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "make sense",
+        "common sense",
+        "get the sense that",
+        "sense of urgency"
+      ],
+      "usage": {
+        "structures": [
+          "get/have the sense + that + S + V",
+          "make sense (to V)",
+          "a sense of + N (urgency/responsibility)"
+        ],
+        "prepositions": [
+          "of",
+          "about"
+        ],
+        "collocations": [
+          "make sense",
+          "common sense",
+          "sense of relief",
+          "sensible precaution"
+        ],
+        "tip": "Phân biệt hai tính từ cùng gốc rất hay bẫy trong TOEIC: 'sensible' (hợp lý, khôn ngoan) và 'sensitive' (nhạy cảm)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "sense",
+          "example": "The pharmacist sensed that the elderly customer was confused about the dosage schedule.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "sensible",
+          "example": "Keeping a written list of all your current medications is a sensible precaution.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "sensitive",
+          "example": "This liquid antibiotic is sensitive to heat and must be kept in the refrigerator.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "It is a _____ practice to keep all prescription medications in their original labeled containers.",
+        "answer": "sensible",
+        "base_word": "sense",
+        "pos_hint": "tính từ (mang nghĩa hợp lý, khôn ngoan)",
+        "vi": "Việc giữ tất cả các loại thuốc kê đơn trong lọ đựng có dán nhãn ban đầu của chúng là một thói quen hợp lý."
+      }
+    },
+    {
+      "id": 12,
+      "word": "volunteer",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to perform as a volunteer",
+      "definition_vi": "tình nguyện, tự nguyện làm; tình nguyện viên",
+      "examples": [
+        {
+          "en": "My doctor volunteered to call the drugstore, so my medication would be waiting for me.",
+          "vi": "Bác sĩ của tôi đã tự nguyện gọi điện cho hiệu thuốc để thuốc của tôi sẽ được chuẩn bị sẵn sàng chờ tôi đến lấy."
+        },
+        {
+          "en": "Since Tom was feeling so unwell, his son volunteered to pick up his prescription at the pharmacy for him.",
+          "vi": "Vì Tom cảm thấy quá mệt, con trai ông đã tình nguyện đi lấy thuốc theo đơn ở hiệu thuốc giúp ông."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "volunteer",
+          "example": "The pharmacist volunteers his services monthly at the free clinic for homeless people."
+        },
+        {
+          "pos": "",
+          "word": "volunteer",
+          "example": "Volunteers bring filled prescriptions from the pharmacy to the homes of shut-ins."
+        },
+        {
+          "pos": "",
+          "word": "voluntary",
+          "example": "Your compliance with this new policy is completely voluntary, but we think it is in the public interest that you do so."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "volunteer to do",
+        "volunteer work",
+        "on a voluntary basis",
+        "community volunteer"
+      ],
+      "usage": {
+        "structures": [
+          "volunteer + to V",
+          "volunteer + for + N",
+          "on a voluntary basis"
+        ],
+        "prepositions": [
+          "to",
+          "for",
+          "at"
+        ],
+        "collocations": [
+          "volunteer to help",
+          "hospital volunteers",
+          "voluntary compliance",
+          "voluntarily participate"
+        ],
+        "tip": "Đi với 'to V' (volunteer to V: tình nguyện làm gì); tính từ là 'voluntary' (tự nguyện) và trạng từ là 'voluntarily'."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "voluntarily",
+          "example": "The manufacturer voluntarily recalled one lot of eye drops as a safety precaution.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Over two hundred healthy adults _____ participated in the clinical study for the new allergy nasal spray.",
+        "answer": "voluntarily",
+        "base_word": "volunteer",
+        "pos_hint": "trạng từ",
+        "vi": "Hơn hai trăm người trưởng thành khỏe mạnh đã tự nguyện tham gia vào nghiên cứu lâm sàng cho loại thuốc xịt mũi trị dị ứng mới."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. Yoko is having trouble with seasonal allergies this fall. After (1) ____ with her doctor, they decide she should take medication on a regular basis to (2) ____ her symptoms. Her doctor recommends the medication he thinks will work best and offers her a handful of (3) ____ at no charge. For her long-term needs, Yoko will need to have a prescription filled. Her doctor (4) ____ to call the pharmacy Yoko uses to order a supply, which will (5) ____ the time she spends waiting for the prescription to be filled. Yoko is new in town and does not know which pharmacy she wants to use. She knows that there is a drugstore near her apartment and one near where she works, but does not remember the operating hours for either. Yoko knows that (6) ____ hours and location are important (7) ____ in selecting a pharmacy. Although she can fill different prescriptions at different drugstores, it makes more (8) ____ to Yoko to fill all of her medications at one location. Occasionally, some drugs will have harmful (9) ____. Usually, your doctor will prevent a drug interaction problem before it starts. But, if you see more than one doctor, it is hard to (10) ____ the various medications you are taking. Having all your prescriptions filled at one location increases the chances that the pharmacist will detect a (11) ____ drug interaction problem. This timely (12) ____ can save your life.",
+    "word_bank": [
+      "consulting",
+      "detection",
+      "limit",
+      "samples",
+      "control",
+      "factors",
+      "monitor",
+      "sense",
+      "convenient",
+      "interactions",
+      "potential",
+      "volunteers"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "consult",
+        "example": "Beatrice consulted her pharmacist about the number of different medications she is taking.",
+        "pos": ""
+      },
+      {
+        "word": "consultation",
+        "example": "Let me arrange a consultation with a specialist to discuss your heart problem and some possible medications.",
+        "pos": ""
+      },
+      {
+        "word": "consultative",
+        "example": "This is a consultative process and you probably won&#x27;t have a definitive answer immediately.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "convenience",
+        "example": "The convenience of a 24-hour neighborhood pharmacy is not to be underestimated.",
+        "pos": ""
+      },
+      {
+        "word": "convenient",
+        "example": "Many people shop there because of its convenient location.",
+        "pos": ""
+      },
+      {
+        "word": "conveniently",
+        "example": "The pharmacy is conveniently located on my way home from work.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "detect",
+        "example": "The laboratory test detected the presence of medication in his blood.",
+        "pos": ""
+      },
+      {
+        "word": "detection",
+        "example": "Early detection of diseases usually means that medications can be more effective.",
+        "pos": "noun"
+      },
+      {
+        "word": "detectable",
+        "example": "After he took his medication faithfully for a few months and exercised more, Jack&#x27;s disease was no longer detectable.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "limit",
+        "example": "My health insurance company has severely limited the amount of money it will pay out for prescription medicine.",
+        "pos": ""
+      },
+      {
+        "word": "limit",
+        "example": "Even though that headache medicine does not require a prescription, there is a limit to how many times a day you should take it.",
+        "pos": ""
+      },
+      {
+        "word": "limited",
+        "example": "The new drugstore on the corner really isn&#x27;t convenient because of its limited hours of operation.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "potential",
+        "example": "Be careful when taking this medication because it has the potential to make you feel sleepy.",
+        "pos": ""
+      },
+      {
+        "word": "potential",
+        "example": "Margaret decided not to take the medicine the doctor had prescribed because of its potential side effects.",
+        "pos": ""
+      },
+      {
+        "word": "potentially",
+        "example": "Many medications are potentially dangerous so it is important to take them exactly as prescribed by the doctor.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "volunteer",
+        "example": "The pharmacist volunteers his services monthly at the free clinic for homeless people.",
+        "pos": ""
+      },
+      {
+        "word": "volunteer",
+        "example": "Volunteers bring filled prescriptions from the pharmacy to the homes of shut-ins.",
+        "pos": ""
+      },
+      {
+        "word": "voluntary",
+        "example": "Your compliance with this new policy is completely voluntary, but we think it is in the public interest that you do so.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "Would you please schedule the patient for a medical ____ tomorrow afternoon?",
+        "options": [
+          {
+            "label": "A",
+            "text": "consult"
+          },
+          {
+            "label": "B",
+            "text": "consultation"
+          },
+          {
+            "label": "C",
+            "text": "consulting"
+          },
+          {
+            "label": "D",
+            "text": "consultative"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "Your prescription will be ready in an hour, if that's ____ for you.",
+        "options": [
+          {
+            "label": "A",
+            "text": "conveniences"
+          },
+          {
+            "label": "B",
+            "text": "conveniently"
+          },
+          {
+            "label": "C",
+            "text": "convenience"
+          },
+          {
+            "label": "D",
+            "text": "convenient"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "The procedure ____ a slight problem, but the doctor assured us not to be alarmed.",
+        "options": [
+          {
+            "label": "A",
+            "text": "detected"
+          },
+          {
+            "label": "B",
+            "text": "detect"
+          },
+          {
+            "label": "C",
+            "text": "detection"
+          },
+          {
+            "label": "D",
+            "text": "detectable"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "My doctor has decided to ____ the amount of medication I am taking.",
+        "options": [
+          {
+            "label": "A",
+            "text": "limit"
+          },
+          {
+            "label": "B",
+            "text": "limited"
+          },
+          {
+            "label": "C",
+            "text": "limiting"
+          },
+          {
+            "label": "D",
+            "text": "limits"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "Inform the pharmacist of any other medications you are taking to avoid any ____ drug interactions.",
+        "options": [
+          {
+            "label": "A",
+            "text": "potentially"
+          },
+          {
+            "label": "B",
+            "text": "potential"
+          },
+          {
+            "label": "C",
+            "text": "potentiality"
+          },
+          {
+            "label": "D",
+            "text": "potency"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "We desperately need ____ to help at the free clinic next month.",
+        "options": [
+          {
+            "label": "A",
+            "text": "voluntary"
+          },
+          {
+            "label": "B",
+            "text": "volunteer"
+          },
+          {
+            "label": "C",
+            "text": "volunteers"
+          },
+          {
+            "label": "D",
+            "text": "volunteerism"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Cloverdale Pharmacy The neighborhood pharmacy that you can rely on! Cloverdale is open 24 hours a day, seven days a week. Unlike other pharmacies with limited schedules, we're open all the time. You can rely on us in an emergency at any time of day. And, our schedule makes it [16] for busy working people to fill prescriptions after work or on weekends. You're always safe with us! When you fill a prescription at Cloverdale, we keep a careful record. This way, we can easily [17] the medications you are taking and inform you of any potentially harmful interactions. Do you need help selecting over-the-counter medications? Our pharmacists are available to [18] with you and help you choose the medications that suit your needs. Cloverdale Pharmacy. We're here to serve you.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "convenient"
+            },
+            {
+              "label": "B",
+              "text": "convenience"
+            },
+            {
+              "label": "C",
+              "text": "conveniently"
+            },
+            {
+              "label": "D",
+              "text": "convention"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "are monitored"
+            },
+            {
+              "label": "B",
+              "text": "be monitored"
+            },
+            {
+              "label": "C",
+              "text": "to monitor"
+            },
+            {
+              "label": "D",
+              "text": "monitor"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "conduct"
+            },
+            {
+              "label": "B",
+              "text": "consult"
+            },
+            {
+              "label": "C",
+              "text": "construct"
+            },
+            {
+              "label": "D",
+              "text": "conjunct"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following article. Many people don't realize that their pharmacist is an important member of their health care team. If you always fill you prescriptions at the same pharmacy, then you will have a pharmacist who is familiar with your medical issues and can detect any possible problems with your medications. In fact, it is a good idea to volunteer information about medications you are already taking when you visit a new pharmacist. Then, she can add this information to your records and have a complete file of information. She can monitor the drugs you are taking and let you know of any potential interactions or harmful side effects. If cost is an issue for you, your pharmacist can help. Ask her if there are any less expensive brands of your medication available. Or, you can request that she fill only half the prescription, to give you a chance to try out the medication before paying for the entire amount. You can also ask your doctor for a few free samples. Once you have ascertained that the prescribed medication is working for you, you can go ahead and ask your pharmacist to fill the prescription for you. When you pick up your prescription, don't forget to ask the pharmacist to explain to you how to take it if you have any doubts. She can also supply you with written instructions. Your pharmacist can provide you with important support, but there is a limit to what she can do. If you suspect that you have a problem that requires medical attention, you should always consult your doctor right away. 22. The word detect in line 4 is closest in meaning to (A) repair (B) create (C) inform (D) discover 23. The word potential in line 8 is closest in meaning to (A) common (B) interesting (C) dangerous (D) possible",
+        "questions": [
+          {
+            "number": 19,
+            "question": "What is the purpose of this article?",
+            "options": [
+              {
+                "label": "A",
+                "text": "To explain the role of a pharmacist."
+              },
+              {
+                "label": "B",
+                "text": "To help select medications."
+              },
+              {
+                "label": "C",
+                "text": "To give instructions on taking medications."
+              },
+              {
+                "label": "D",
+                "text": "To advertise a particular pharmacy."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "What can you ask your pharmacist to do?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Recommend a good doctor."
+              },
+              {
+                "label": "B",
+                "text": "Suggest different brands."
+              },
+              {
+                "label": "C",
+                "text": "Write a prescription."
+              },
+              {
+                "label": "D",
+                "text": "Give you medical attention."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "What should you ask for when you pick up your prescription?",
+            "options": [
+              {
+                "label": "A",
+                "text": "A cheaper brand."
+              },
+              {
+                "label": "B",
+                "text": "Some free samples."
+              },
+              {
+                "label": "C",
+                "text": "Instructions."
+              },
+              {
+                "label": "D",
+                "text": "A discount."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "Who is the man talking to?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A doctor."
+          },
+          {
+            "label": "B",
+            "text": "A pharmacist."
+          },
+          {
+            "label": "C",
+            "text": "His wife."
+          },
+          {
+            "label": "D",
+            "text": "His friend."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What is the man's problem?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Headache."
+          },
+          {
+            "label": "B",
+            "text": "Backache."
+          },
+          {
+            "label": "C",
+            "text": "Broken hand."
+          },
+          {
+            "label": "D",
+            "text": "Broken nose."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "When will the man fill the prescription?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Today."
+          },
+          {
+            "label": "B",
+            "text": "Within two days."
+          },
+          {
+            "label": "C",
+            "text": "On the way to work."
+          },
+          {
+            "label": "D",
+            "text": "After trying the samples."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "What is a possible side effect of the medication?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Sleepiness."
+          },
+          {
+            "label": "B",
+            "text": "Stomachaches."
+          },
+          {
+            "label": "C",
+            "text": "Fatigue."
+          },
+          {
+            "label": "D",
+            "text": "Headaches."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "How often should the patient take the medication?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Once a day."
+          },
+          {
+            "label": "B",
+            "text": "Two times a day."
+          },
+          {
+            "label": "C",
+            "text": "Three times a day."
+          },
+          {
+            "label": "D",
+            "text": "Four times a day."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "Why should the patient call the doctor in a few days?",
+        "options": [
+          {
+            "label": "A",
+            "text": "To request more days off work."
+          },
+          {
+            "label": "B",
+            "text": "To report how the medication is working."
+          },
+          {
+            "label": "C",
+            "text": "To get pills for his headaches."
+          },
+          {
+            "label": "D",
+            "text": "To ask for more samples."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. Who is the man talking to? (A) A doctor. (B) A pharmacist. (C) His wife. (D) His friend. 5. What is the man's problem? (A) Headache. (B) Backache. (C) Broken hand. (D) Broken nose. 6. When will the man fill the prescription? (A) Today. (B) Within two days. (C) On the way to work. (D) After trying the samples. Listen to the talk. Then read each question and choose the best answer. 7. What is a possible side effect of the medication? (A) Sleepiness. (B) Stomachaches. (C) Fatigue. (D) Headaches. 8. How often should the patient take the medication? (A) Once a day. (B) Two times a day. (C) Three times a day. (D) Four times a day. 9. Why should the patient call the doctor in a few days? (A) To request more days off work. (B) To report how the medication is working. (C) To get pills for his headaches. (D) To ask for more samples.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "Who is the man talking to?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A doctor."
+          },
+          {
+            "label": "B",
+            "text": "A pharmacist."
+          },
+          {
+            "label": "C",
+            "text": "His wife."
+          },
+          {
+            "label": "D",
+            "text": "His friend."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What is the man's problem?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Headache."
+          },
+          {
+            "label": "B",
+            "text": "Backache."
+          },
+          {
+            "label": "C",
+            "text": "Broken hand."
+          },
+          {
+            "label": "D",
+            "text": "Broken nose."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "When will the man fill the prescription?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Today."
+          },
+          {
+            "label": "B",
+            "text": "Within two days."
+          },
+          {
+            "label": "C",
+            "text": "On the way to work."
+          },
+          {
+            "label": "D",
+            "text": "After trying the samples."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "What is a possible side effect of the medication?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Sleepiness."
+          },
+          {
+            "label": "B",
+            "text": "Stomachaches."
+          },
+          {
+            "label": "C",
+            "text": "Fatigue."
+          },
+          {
+            "label": "D",
+            "text": "Headaches."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "How often should the patient take the medication?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Once a day."
+          },
+          {
+            "label": "B",
+            "text": "Two times a day."
+          },
+          {
+            "label": "C",
+            "text": "Three times a day."
+          },
+          {
+            "label": "D",
+            "text": "Four times a day."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "Why should the patient call the doctor in a few days?",
+        "options": [
+          {
+            "label": "A",
+            "text": "To request more days off work."
+          },
+          {
+            "label": "B",
+            "text": "To report how the medication is working."
+          },
+          {
+            "label": "C",
+            "text": "To get pills for his headaches."
+          },
+          {
+            "label": "D",
+            "text": "To ask for more samples."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "## Pharmacy\n\nStudy the following definitions and examples.\n\n1. consult v., to seek advice or information of\n\na. The doctor consulted with a specialist before writing a new prescription.\n\nb. May I consult with you about a drug interaction case I have?\n\n2. control v., to exercise authoritative or dominating influence over\n\na. To control the cost of this medication, you may get the generic version.\n\nb. Please take your medication every day to control your high blood pressure.\n\n3. convenient adj., suited or favorable to one's purpose; easy to reach\n\na. Is this a convenient location for you to pick up your prescription?\n\nb. It is convenient to have a pharmacy right across the street from my doctor's office.\n\n4. detect v., to discover or ascertain\n\na. My doctor put me through some simple tests to detect if I have asthma.\n\nb. I have to keep track of my sleep patterns to detect how many times I get up in the night.\n\n5. factor n., a contribution to an accomplishment, a result, or a process\n\na. Taking medications as directed is an important factor in getting well.\n\nb. Could my cat be a factor contributing to my asthma?\n\n6. interaction n., a mutual activity\n\na. My pharmacist was concerned about the interaction of the two medications I was prescribed.\n\nb. The interaction between the patient and the doctor showed a high level of trust.\n\n7. limit n., the point beyond which something cannot proceed\n\na. My prescription has a limit of three refills.\n\nb. My health plan authorization sets a limit on which health care providers I can see without their permission.\n\n8. monitor v., to keep track of\n\na. The nurse practitioner carefully monitors the number of medications her patients are taking.\n\nb. The patient had weekly appointments so that the doctor could monitor her progress.\n\n9. potential adj., capable of being but not yet in existence; possible\n\na. To avoid any potential side effects from the medication, be sure to tell your doctor all the drugs you are currently taking.\n\nb. Given the potential delay in getting reimbursed by the health plan, why don't we just fill one prescription today?\n\n10. sample n., a portion, piece, or segment that is representative of a whole a. The pharmacist gave Myra a few free samples of the allergy medication.\n\nb. A sample of the population taking the new medicine was surveyed to determine whether it caused side effects.\n\n11. sense n., a judgment; an intellectual interpretation\n\na. The doctor had a good sense about what the problem was but wanted to get a second opinion.\n\nb. I got the sense it would be better to get my prescription filled right away.\n\n12. volunteer v., to perform as a volunteer\n\na. My doctor volunteered to call the drugstore, so my medication would be waiting for me.\n\nb. Since Tom was feeling so unwell, his son volunteered to pick up his prescription at the pharmacy for him.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\n| consulting | detection | limit | samples |\n| --- | --- | --- | --- |\n| control | factors | monitor | sense |\n| convenient | interactions | potential | volunteers |\n\nYoko is having trouble with seasonal allergies this fall. After (1) \\_\\_\\_\\_ with her doctor, they decide she should take medication on a regular basis to (2) \\_\\_\\_\\_ her symptoms. Her doctor recommends the medication he thinks will work best and offers her a handful of (3) \\_\\_\\_\\_ at no charge. For her long-term needs, Yoko will need to have a prescription filled. Her doctor (4) \\_\\_\\_\\_ to call the pharmacy Yoko uses to order a supply, which will (5) \\_\\_\\_\\_ the time she spends waiting for the prescription to be filled.\n\nYoko is new in town and does not know which pharmacy she wants to use. She knows that there is a drugstore near her apartment and one near where she works, but does not remember the operating hours for either. Yoko knows that (6) \\_\\_\\_\\_ hours and location are important (7) \\_\\_\\_\\_ in selecting a pharmacy. Although she can fill different prescriptions at different drugstores, it makes more (8) \\_\\_\\_\\_ to Yoko to fill all of her medications at one location.\n\nOccasionally, some drugs will have harmful (9) \\_\\_\\_\\_. Usually, your doctor will prevent a drug interaction problem before it starts. But, if you see more than one doctor, it is hard to (10) \\_\\_\\_\\_ the various medications you are taking. Having all your prescriptions filled at one location increases the chances that the pharmacist will detect a (11) \\_\\_\\_\\_ drug interaction problem. This timely (12) \\_\\_\\_\\_ can save your life.",
+    "word_families": "## WORD FAMILIES\n\n<table><tr><td>b</td><td>consult</td><td>Beatrice consulted her pharmacist about the number of different medications she is taking.</td></tr><tr><td>1)</td><td>consultation</td><td>Let me arrange a consultation with a specialist to discuss your heart problem and some possible medications.</td></tr><tr><td>2)</td><td>consultative</td><td>This is a consultative process and you probably won&#x27;t have a definitive answer immediately.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>1)</td><td>convenience</td><td>The convenience of a 24-hour neighborhood pharmacy is not to be underestimated.</td></tr><tr><td>2)</td><td>convenient</td><td>Many people shop there because of its convenient location.</td></tr><tr><td>3)</td><td>conveniently</td><td>The pharmacy is conveniently located on my way home from work.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>1)</td><td>detect</td><td>The laboratory test detected the presence of medication in his blood.</td></tr><tr><td>noun</td><td>detection</td><td>Early detection of diseases usually means that medications can be more effective.</td></tr><tr><td>2)</td><td>detectable</td><td>After he took his medication faithfully for a few months and exercised more, Jack&#x27;s disease was no longer detectable.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>1)</td><td>limit</td><td>My health insurance company has severely limited the amount of money it will pay out for prescription medicine.</td></tr><tr><td>2)</td><td>limit</td><td>Even though that headache medicine does not require a prescription, there is a limit to how many times a day you should take it.</td></tr><tr><td>3)</td><td>limited</td><td>The new drugstore on the corner really isn&#x27;t convenient because of its limited hours of operation.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>1)</td><td>potential</td><td>Be careful when taking this medication because it has the potential to make you feel sleepy.</td></tr><tr><td>2)</td><td>potential</td><td>Margaret decided not to take the medicine the doctor had prescribed because of its potential side effects.</td></tr><tr><td>3)</td><td>potentially</td><td>Many medications are potentially dangerous so it is important to take them exactly as prescribed by the doctor.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>1)</td><td>volunteer</td><td>The pharmacist volunteers his services monthly at the free clinic for homeless people.</td></tr><tr><td>2)</td><td>volunteer</td><td>Volunteers bring filled prescriptions from the pharmacy to the homes of shut-ins.</td></tr><tr><td>3)</td><td>voluntary</td><td>Your compliance with this new policy is completely voluntary, but we think it is in the public interest that you do so.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99\n\n\n\n\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. Who is the man talking to?\n(A) A doctor.\n(B) A pharmacist.\n(C) His wife.\n(D) His friend.\n\n5. What is the man's problem?\n(A) Headache.\n(B) Backache.\n(C) Broken hand.\n(D) Broken nose.\n\n6. When will the man fill the prescription?\n(A) Today.\n(B) Within two days.\n(C) On the way to work.\n(D) After trying the samples.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. What is a possible side effect of the medication?\n(A) Sleepiness.\n(B) Stomachaches.\n(C) Fatigue.\n(D) Headaches.\n\n8. How often should the patient take the medication?\n(A) Once a day.\n(B) Two times a day.\n(C) Three times a day.\n(D) Four times a day.\n\n9. Why should the patient call the doctor in a few days?\n(A) To request more days off work.\n(B) To report how the medication is working.\n(C) To get pills for his headaches.\n(D) To ask for more samples.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. Would you please schedule the patient for a medical \\_\\_\\_\\_ tomorrow afternoon?\n(A) consult (C) consulting\n(B) consultation (D) consultative\n\n11. Your prescription will be ready in an hour, if that's \\_\\_\\_\\_ for you.\n(A) conveniences (C) convenience\n(B) conveniently (D) convenient\n\n12. The procedure \\_\\_\\_\\_ a slight problem, but the doctor assured us not to be alarmed.\n(A) detected (C) detection\n(B) detect (D) detectable\n\n13. My doctor has decided to \\_\\_\\_\\_ the amount of medication I am taking.\n(A) limit (C) limiting\n(B) limited (D) limits\n\n14. Inform the pharmacist of any other medications you are taking to avoid any \\_\\_\\_\\_ drug interactions.\n(A) potentially (C) potentiality\n(B) potential (D) potency\n\n15. We desperately need \\_\\_\\_\\_ to help at the free clinic next month.\n(A) voluntary (C) volunteers\n(B) volunteer (D) volunteerism\n\n## Part 6 Text Completion\n\n## Cloverdale Pharmacy\n\nThe neighborhood pharmacy that you can rely on!\n\nCloverdale is open 24 hours a day, seven days a week. Unlike other pharmacies with limited schedules, we're open all the time. You can rely on us in an emergency at any time of day. And, our schedule makes it \\_16\\_ for busy working people to fill prescriptions after work or on weekends.\n\nYou're always safe with us! When you fill a prescription at Cloverdale, we keep a careful record. This way, we can easily \\_17\\_ the medications you are taking and inform you of any potentially harmful interactions.\n\nDo you need help selecting over-the-counter medications? Our pharmacists are available to \\_18\\_ with you and help you choose the medications that suit your needs.\n\nCloverdale Pharmacy. We're here to serve you.\n\n16. (A) convenient 18. (A) conduct  \n(B) convenience (B) consult  \n(C) conveniently (C) construct  \n(D) convention (D) conjunct\n\n17. (A) are monitored  \n(B) be monitored  \n(C) to monitor  \n(D) monitor",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following article.\n\nMany people don't realize that their pharmacist is an important member of their health care team. If you always fill you prescriptions at the same pharmacy, then you will have a pharmacist who is familiar with your medical issues and can detect any possible problems with your medications. In fact, it is a good idea to volunteer information about medications you are already taking when you visit a new pharmacist. Then, she can add this information to your records and have a complete file of information. She can monitor the drugs you are taking and let you know of any potential interactions or harmful side effects.\n\nIf cost is an issue for you, your pharmacist can help. Ask her if there are any less expensive brands of your medication available. Or, you can request that she fill only half the prescription, to give you a chance to try out the medication before paying for the entire amount. You can also ask your doctor for a few free samples. Once you have ascertained that the prescribed medication is working for you, you can go ahead and ask your pharmacist to fill the prescription for you. When you pick up your prescription, don't forget to ask the pharmacist to explain to you how to take it if you have any doubts. She can also supply you with written instructions.\n\nYour pharmacist can provide you with important support, but there is a limit to what she can do. If you suspect that you have a problem that requires medical attention, you should always consult your doctor right away.\n\n19. What is the purpose of this article?\n(A) To explain the role of a pharmacist.\n(B) To help select medications.\n(C) To give instructions on taking medications.\n(D) To advertise a particular pharmacy.\n\n20. What can you ask your pharmacist to do?\n(A) Recommend a good doctor.\n(B) Suggest different brands.\n(C) Write a prescription.\n(D) Give you medical attention.\n\n21. What should you ask for when you pick up your prescription?\n(A) A cheaper brand.\n(B) Some free samples.\n(C) Instructions.\n(D) A discount.\n\n22. The word detect in line 4 is closest in meaning to (A) repair (B) create (C) inform (D) discover\n\n23. The word potential in line 8 is closest in meaning to (A) common (B) interesting (C) dangerous (D) possible"
+  },
+  "needs_review": true
+}

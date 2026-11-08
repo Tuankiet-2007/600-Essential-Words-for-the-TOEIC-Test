@@ -1,0 +1,1648 @@
+{
+  "lesson_id": 9,
+  "title": "Electronics",
+  "theme_name": "Office Issues",
+  "audio_track": "track_09.mp3",
+  "part1_photo": "part1_photos/lesson_09.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "disk",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an object used to store digital information",
+      "definition_vi": "đĩa máy tính, ổ đĩa (dùng để lưu trữ dữ liệu kỹ thuật số)",
+      "examples": [
+        {
+          "en": "The head of the optical disk reader was dirty.",
+          "vi": "Đầu đọc của ổ đĩa quang đã bị bẩn."
+        },
+        {
+          "en": "Rewritable compact discs are more expensive than read-only CDs.",
+          "vi": "Đĩa компакт (CD) có thể ghi lại đắt hơn so với đĩa CD chỉ đọc."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "hard disk",
+        "disk drive",
+        "optical disk",
+        "disk space"
+      ],
+      "usage": {
+        "structures": [
+          "save / store (data) on a disk",
+          "hard disk drive (ổ đĩa cứng)"
+        ],
+        "prepositions": [
+          "on",
+          "from"
+        ],
+        "collocations": [
+          "external hard disk",
+          "backup disk",
+          "format a disk",
+          "eject a disk"
+        ],
+        "tip": "Đi kèm với giới từ 'on' khi nói về việc lưu dữ liệu trên ổ đĩa (store files on a hard disk)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "disk",
+          "example": "Please back up your files on an external hard disk before Friday.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "diskette",
+          "example": "Older archival records from the 1990s were originally stored on diskettes.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The computer alerted the user that there was insufficient space on the hard _____ to install the update.",
+        "answer": "disk",
+        "base_word": "disk",
+        "pos_hint": "danh từ số ít",
+        "vi": "Máy tính cảnh báo người dùng rằng không còn đủ dung lượng trên ổ đĩa cứng để cài đặt bản cập nhật."
+      }
+    },
+    {
+      "id": 2,
+      "word": "facilitate",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to make easier",
+      "definition_vi": "tạo điều kiện thuận lợi, làm cho dễ dàng hơn, thúc đẩy",
+      "examples": [
+        {
+          "en": "The computer program facilitated the scheduling of appointments.",
+          "vi": "Chương trình máy tính đã giúp việc lên lịch hẹn trở nên dễ dàng hơn."
+        },
+        {
+          "en": "The director tried to facilitate the transition to the new policy by meeting with all staff who would be affected.",
+          "vi": "Vị giám đốc đã cố gắng tạo điều kiện thuận lợi cho quá trình chuyển đổi sang chính sách mới bằng cách gặp gỡ tất cả nhân viên sẽ bị ảnh hưởng."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "facilitate communication",
+        "facilitate the process",
+        "facilitate trade",
+        "workshop facilitator"
+      ],
+      "usage": {
+        "structures": [
+          "facilitate + N (communication / learning / transition / growth)"
+        ],
+        "prepositions": [
+          "by",
+          "through"
+        ],
+        "collocations": [
+          "greatly facilitate",
+          "facilitate collaboration",
+          "facilitate the exchange of",
+          "training facilitator"
+        ],
+        "tip": "Lưu ý: chủ ngữ của 'facilitate' thường là sự vật/công cụ/chính sách, và tân ngữ là một công việc/quá trình (The new software facilitates data sharing), KHÔNG lấy người làm tân ngữ trực tiếp (không viết 'facilitate employees')."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "facilitate",
+          "example": "The new bridge will facilitate trade between the two provinces.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "facilitation",
+          "example": "Trade facilitation measures have reduced customs clearance times.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "facilitator",
+          "example": "We hired an experienced facilitator to lead the strategic planning retreat.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "facilitative",
+          "example": "Modern managers adopt a facilitative approach rather than micromanaging.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The open-plan office layout was designed to _____ communication among different departments.",
+        "answer": "facilitate",
+        "base_word": "facilitate",
+        "pos_hint": "động từ nguyên mẫu (sau 'to')",
+        "vi": "Cách bố trí văn phòng không gian mở được thiết kế nhằm tạo điều kiện thuận lợi cho việc giao tiếp giữa các phòng ban khác nhau."
+      }
+    },
+    {
+      "id": 3,
+      "word": "network",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to connect; to broadcast; n., an interconnected group or system over a radio or TV; to engage in informal communication",
+      "definition_vi": "kết nối mạng; giao lưu mở rộng mối quan hệ (v.); mạng lưới (máy tính, truyền hình, quan hệ) (n.)",
+      "examples": [
+        {
+          "en": "The recent graduate networked with her mother's coworkers.",
+          "vi": "Sinh viên mới tốt nghiệp đã giao lưu tạo dựng mối quan hệ với các đồng nghiệp của mẹ cô ấy."
+        },
+        {
+          "en": "We set up a new network in my office to share files.",
+          "vi": "Chúng tôi đã thiết lập một mạng máy tính mới trong văn phòng để chia sẻ tệp tin."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "computer network",
+        "network with peers",
+        "networking event",
+        "distribution network"
+      ],
+      "usage": {
+        "structures": [
+          "network with + sb (giao lưu kết nối quan hệ công việc với ai)",
+          "set up / build a network"
+        ],
+        "prepositions": [
+          "with",
+          "of",
+          "on"
+        ],
+        "collocations": [
+          "wireless network",
+          "professional networking",
+          "network administrator",
+          "global network"
+        ],
+        "tip": "Trong TOEIC, 'network / networking' ngoài nghĩa 'mạng máy tính' còn cực kỳ phổ biến với nghĩa 'giao lưu mở rộng quan hệ nghề nghiệp' tại các hội nghị."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "network",
+          "example": "Trade shows offer a great opportunity to network with potential clients.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "networking",
+          "example": "A one-hour networking reception will follow the keynote presentation.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "networked",
+          "example": "All of the printers on this floor are networked to the main server.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The evening reception provides an informal setting for conference attendees to _____ with industry leaders.",
+        "answer": "network",
+        "base_word": "network",
+        "pos_hint": "động từ nguyên mẫu (sau 'to')",
+        "vi": "Buổi tiệc chiêu đãi tối mang lại một không gian thân mật để những người tham dự hội nghị giao lưu kết nối với các nhà lãnh đạo trong ngành."
+      }
+    },
+    {
+      "id": 4,
+      "word": "popularity",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the state of being widely admired, sought, or accepted",
+      "definition_vi": "sự phổ biến, sự được ưa chuộng rộng rãi",
+      "examples": [
+        {
+          "en": "After the new commercials began running, the popularity of the batteries increased significantly.",
+          "vi": "Sau khi các quảng cáo mới bắt đầu phát sóng, mức độ ưa chuộng của loại pin này đã tăng lên đáng kể."
+        },
+        {
+          "en": "This brand of computers is extremely popular among college students.",
+          "vi": "Thương hiệu máy tính này cực kỳ phổ biến trong giới sinh viên đại học."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "popularize",
+          "example": "The Internet has popularized last-minute travel."
+        },
+        {
+          "pos": "noun",
+          "word": "popularity",
+          "example": "The popularity of the product was extremely short-lived, and it soon disappeared from the store shelves."
+        },
+        {
+          "pos": "",
+          "word": "popular",
+          "example": "The new computer program was extremely popular, and people asked for it at all the stores."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "gain popularity",
+        "grow in popularity",
+        "enjoy great popularity",
+        "popular among / with"
+      ],
+      "usage": {
+        "structures": [
+          "gain / grow / increase in popularity (ngày càng được ưa chuộng)",
+          "be popular with / among + đối tượng khách hàng"
+        ],
+        "prepositions": [
+          "of",
+          "in",
+          "with",
+          "among"
+        ],
+        "collocations": [
+          "widespread popularity",
+          "declining popularity",
+          "popular demand",
+          "immensely popular"
+        ],
+        "tip": "Tính từ 'popular' đi với giới từ 'with' hoặc 'among' (popular with young commuters), còn danh từ 'popularity' rất hay đi với cụm 'grow/increase IN popularity'."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "popularly",
+          "example": "The historic district is popularly known as the Old Quarter.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Electric scooters have grown rapidly in _____ among urban commuters over the past two years.",
+        "answer": "popularity",
+        "base_word": "popularity",
+        "pos_hint": "danh từ (sau giới từ 'in')",
+        "vi": "Xe trượt điện đã tăng nhanh về mức độ phổ biến trong giới người đi làm ở đô thị suốt hai năm qua."
+      }
+    },
+    {
+      "id": 5,
+      "word": "process",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to put through a series of actions or prescribed procedure; n., a series of operations or actions to bring about a result",
+      "definition_vi": "xử lý (dữ liệu, đơn hàng, hồ sơ), chế biến (v.); quy trình, quá trình (n.)",
+      "examples": [
+        {
+          "en": "I've processed the data I collected and have gotten some interesting results.",
+          "vi": "Tôi đã xử lý xong dữ liệu mình thu thập được và thu về một số kết quả thú vị."
+        },
+        {
+          "en": "There is a process for determining why your computer is malfunctioning.",
+          "vi": "Có một quy trình để xác định lý do tại sao máy tính của bạn lại gặp trục trặc."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "in the process of",
+        "process an order",
+        "hiring process",
+        "data processing"
+      ],
+      "usage": {
+        "structures": [
+          "be in the process of + V-ing (đang trong quá trình làm gì)",
+          "process + N (application / refund / order / payment / data)"
+        ],
+        "prepositions": [
+          "in",
+          "of",
+          "for"
+        ],
+        "collocations": [
+          "word processor",
+          "manufacturing process",
+          "selection process",
+          "processed food"
+        ],
+        "tip": "Động từ 'process' xuất hiện cực nhiều trong ngữ cảnh hành chính/thương mại điện tử: 'Please allow 5 business days for your refund/application/order to be processed'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "process",
+          "example": "It takes three business days to process a passport renewal application.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "processor",
+          "example": "The new laptop is equipped with an ultra-fast quad-core processor.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "processing",
+          "example": "A small processing fee is charged for all international wire transfers.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "processed",
+          "example": "All processed orders are shipped from our warehouse within 24 hours.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Please allow up to seven business days for your reimbursement request to be _____.",
+        "answer": "processed",
+        "base_word": "process",
+        "pos_hint": "động từ chia quá khứ phân từ (V3/ed - bị động)",
+        "vi": "Vui lòng chờ tối đa bảy ngày làm việc để yêu cầu hoàn trả chi phí của bạn được xử lý."
+      }
+    },
+    {
+      "id": 6,
+      "word": "replace",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to put back in a former place or position; to take the place of",
+      "definition_vi": "thay thế (vật hỏng, người nghỉ việc); đặt lại chỗ cũ",
+      "examples": [
+        {
+          "en": "I've replaced the hard drive that was malfunctioning.",
+          "vi": "Tôi đã thay thế ổ cứng bị trục trặc."
+        },
+        {
+          "en": "We have been looking for three months and we've found no one who can replace our former administrator.",
+          "vi": "Chúng tôi đã tìm kiếm trong ba tháng và vẫn chưa tìm được ai có thể thay thế cho người quản trị viên trước đây của chúng tôi."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "replace",
+          "example": "I replaced your music CDs that I borrowed from your desk last week."
+        },
+        {
+          "pos": "noun",
+          "word": "replacement",
+          "example": "A replacement for this damaged computer will not be cheap."
+        },
+        {
+          "pos": "adjective",
+          "word": "replaceable",
+          "example": "That hard disk is not easily replaceable."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "replace A with B",
+        "replacement parts",
+        "find a replacement",
+        "easily replaceable"
+      ],
+      "usage": {
+        "structures": [
+          "replace A with/by B (thay thế cái cũ A bằng cái mới B)",
+          "a replacement for + A (người/vật thay thế cho A)"
+        ],
+        "prepositions": [
+          "with",
+          "by",
+          "for"
+        ],
+        "collocations": [
+          "battery replacement",
+          "free replacement",
+          "irreplaceable asset",
+          "replacement cost"
+        ],
+        "tip": "Động từ 'replace' đi với giới từ 'with' (replace old monitors WITH flat screens), nhưng danh từ 'replacement' đi với giới từ 'for' (a replacement FOR the retiring director)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "irreplaceable",
+          "example": "Her twenty years of institutional knowledge made her nearly irreplaceable.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "If your appliance stops working during the warranty period, we will send you a _____ free of charge.",
+        "answer": "replacement",
+        "base_word": "replace",
+        "pos_hint": "danh từ số ít",
+        "vi": "Nếu thiết bị của bạn ngừng hoạt động trong thời gian bảo hành, chúng tôi sẽ gửi cho bạn một sản phẩm thay thế miễn phí."
+      }
+    },
+    {
+      "id": 7,
+      "word": "revolution",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a sudden or momentous change in a situation; a single complete cycle",
+      "definition_vi": "cuộc cách mạng, sự thay đổi mang tính đột phá; một vòng quay trọn vẹn",
+      "examples": [
+        {
+          "en": "We see a revolution in the computer field almost every day.",
+          "vi": "Chúng ta chứng kiến một cuộc cách mạng trong lĩnh vực máy tính gần như mỗi ngày."
+        },
+        {
+          "en": "My CD player is broken; the disk cannot make a complete revolution around the magnet.",
+          "vi": "Đầu đĩa CD của tôi bị hỏng; chiếc đĩa không thể quay trọn một vòng quanh nam châm."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "revolutionized",
+          "example": "Using diamond has revolutionized the pressure sensor industry during the last decade."
+        },
+        {
+          "pos": "noun",
+          "word": "revolution",
+          "example": "The revolution in electronics technology has allowed products such as phones to get smaller and more portable."
+        },
+        {
+          "pos": "",
+          "word": "revolutionary",
+          "example": "The Internet is revolutionary in how it has changed the way we communicate."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "technological revolution",
+        "industrial revolution",
+        "revolutionary design",
+        "revolutionize the industry"
+      ],
+      "usage": {
+        "structures": [
+          "a revolution in + lĩnh vực (cuộc cách mạng trong ngành gì)",
+          "revolutionize + N (cách mạng hóa ngành/lĩnh vực gì)"
+        ],
+        "prepositions": [
+          "in",
+          "around"
+        ],
+        "collocations": [
+          "digital revolution",
+          "complete revolution",
+          "revolutionary product",
+          "revolutionary approach"
+        ],
+        "tip": "Tính từ 'revolutionary' (mang tính cách mạng/đột phá) là từ rất được ưa chuộng trong các bài quảng cáo sản phẩm công nghệ mới của TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "revolutionize",
+          "example": "Cloud computing has revolutionized the way small businesses manage data.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The company's _____ new battery technology allows electric cars to charge in just ten minutes.",
+        "answer": "revolutionary",
+        "base_word": "revolution",
+        "pos_hint": "tính từ",
+        "vi": "Công nghệ pin mới mang tính cách mạng của công ty cho phép ô tô điện sạc chỉ trong mười phút."
+      }
+    },
+    {
+      "id": 8,
+      "word": "sharp",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "abrupt or acute; smart",
+      "definition_vi": "đột ngột, mạnh (tăng/giảm); nhạy bén, thông minh; sắc bén, rõ nét; đúng giờ",
+      "examples": [
+        {
+          "en": "There was a sharp decline in calls to the help desk after we upgraded each employee's computer.",
+          "vi": "Đã có một sự sụt giảm mạnh về số lượng cuộc gọi đến bàn trợ giúp sau khi chúng tôi nâng cấp máy tính của từng nhân viên."
+        },
+        {
+          "en": "The new employee proved how sharp she was when she mastered the new program in a few days.",
+          "vi": "Nhân viên mới đã chứng minh cô ấy nhạy bén đến mức nào khi làm chủ được chương trình mới chỉ trong vài ngày."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "sharp decline / drop",
+        "sharp increase / rise",
+        "at 9 o'clock sharp",
+        "sharply higher"
+      ],
+      "usage": {
+        "structures": [
+          "a sharp + N (increase / rise / decline / drop / contrast) (tăng/giảm đột ngột)",
+          "rise / fall / drop + sharply (tăng/giảm mạnh)",
+          "at + giờ + sharp (đúng chính xác mấy giờ)"
+        ],
+        "prepositions": [
+          "in",
+          "at"
+        ],
+        "collocations": [
+          "sharp contrast",
+          "sharpen skills",
+          "sharp mind",
+          "sharp image"
+        ],
+        "tip": "Trong TOEIC, 'sharp / sharply' cực kỳ hay đi kèm với các từ chỉ sự biến động số liệu như 'increase, rise, drop, decline, fall' (tăng/giảm mạnh và đột ngột)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "sharpen",
+          "example": "The workshop is designed to help managers sharpen their leadership skills.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "sharpness",
+          "example": "The new monitor offers exceptional color accuracy and image sharpness.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "sharp",
+          "example": "There was a sharp rise in online orders during the fourth quarter.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "sharply",
+          "example": "Raw material prices have risen sharply over the past six months.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Attendance at the museum rose _____ after the new dinosaur exhibit opened in June.",
+        "answer": "sharply",
+        "base_word": "sharp",
+        "pos_hint": "trạng từ (bổ nghĩa cho động từ 'rose')",
+        "vi": "Lượng khách tham quan bảo tàng đã tăng vọt sau khi cuộc triển lãm khủng long mới mở cửa vào tháng Sáu."
+      }
+    },
+    {
+      "id": 9,
+      "word": "skill",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a developed ability",
+      "definition_vi": "kỹ năng, sự khéo léo, tay nghề",
+      "examples": [
+        {
+          "en": "The software developer has excellent technical skills and would be an asset to our software programming team.",
+          "vi": "Nhà phát triển phần mềm có kỹ năng kỹ thuật xuất sắc và sẽ là một tài sản quý giá cho nhóm lập trình phần mềm của chúng ta."
+        },
+        {
+          "en": "Salman's job as designer of electronic tools makes good use of his manual dexterity skills.",
+          "vi": "Công việc thiết kế dụng cụ điện tử của Salman tận dụng rất tốt kỹ năng khéo léo đôi tay của anh ấy."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "skill",
+          "example": "Her marketing skills inspired Jason to return to school for his MBA."
+        },
+        {
+          "pos": "",
+          "word": "skilled",
+          "example": "Our carpenters are skilled in everything from cabinetry to furniture making."
+        },
+        {
+          "pos": "adverb",
+          "word": "skillfully",
+          "example": "He negotiates so skillfully that both parties end up feeling that they've gotten what they wanted."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "communication skills",
+        "technical skills",
+        "skilled workers",
+        "interpersonal skills"
+      ],
+      "usage": {
+        "structures": [
+          "be skilled in / at + N/V-ing (có tay nghề/giỏi về việc gì)",
+          "acquire / develop / hone skills"
+        ],
+        "prepositions": [
+          "in",
+          "at"
+        ],
+        "collocations": [
+          "highly skilled",
+          "management skills",
+          "computer skills",
+          "skillful negotiator"
+        ],
+        "tip": "Tính từ 'skilled' (có tay nghề cao, lành nghề) thường đi với giới từ 'in' hoặc 'at' (skilled in negotiation) hoặc đứng trước danh từ chỉ người (skilled technicians)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "skillful",
+          "example": "Thanks to her skillful handling of the crisis, the company avoided a lawsuit.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The shipyard is currently recruiting _____ welders and electricians for a major contract.",
+        "answer": "skilled",
+        "base_word": "skill",
+        "pos_hint": "tính từ",
+        "vi": "Xưởng đóng tàu hiện đang tuyển dụng những thợ hàn và thợ điện lành nghề cho một hợp đồng lớn."
+      }
+    },
+    {
+      "id": 10,
+      "word": "software",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the programs for a computer",
+      "definition_vi": "phần mềm máy tính, chương trình máy tính",
+      "examples": [
+        {
+          "en": "This software allows me to integrate tables and spreadsheets into my reports.",
+          "vi": "Phần mềm này cho phép tôi tích hợp các bảng biểu và bảng tính vào báo cáo của mình."
+        },
+        {
+          "en": "Many computers come pre-loaded with software.",
+          "vi": "Nhiều máy tính được cài đặt sẵn phần mềm khi xuất xưởng."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "software application",
+        "accounting software",
+        "software developer",
+        "install software"
+      ],
+      "usage": {
+        "structures": [
+          "install / update / upgrade software (luôn là danh từ KHÔNG đếm được)",
+          "a piece of software / a software program (khi muốn đếm số lượng)"
+        ],
+        "prepositions": [
+          "on",
+          "for"
+        ],
+        "collocations": [
+          "antivirus software",
+          "proprietary software",
+          "software update",
+          "software engineering"
+        ],
+        "tip": "Bẫy ngữ pháp: 'software' (cũng như hardware, equipment, information) là danh từ KHÔNG đếm được, không bao giờ có 'a software' hay 'softwares'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "software",
+          "example": "All employees must install the latest security software on their laptops.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "ware",
+          "example": "The artisan market features locally crafted glassware and ceramic wares.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Our IT department will install the new accounting _____ on all office computers this weekend.",
+        "answer": "software",
+        "base_word": "software",
+        "pos_hint": "danh từ không đếm được",
+        "vi": "Bộ phận công nghệ thông tin của chúng tôi sẽ cài đặt phần mềm kế toán mới trên tất cả máy tính văn phòng vào cuối tuần này."
+      }
+    },
+    {
+      "id": 11,
+      "word": "store",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to keep",
+      "definition_vi": "lưu trữ, cất giữ, tích trữ (v.); cửa hàng; kho dự trữ (n.)",
+      "examples": [
+        {
+          "en": "You can store more data on a zip drive.",
+          "vi": "Bạn có thể lưu trữ nhiều dữ liệu hơn trên ổ đĩa zip."
+        },
+        {
+          "en": "We store the master disks in the fireproof safe.",
+          "vi": "Chúng tôi cất giữ các đĩa gốc trong két sắt chống cháy."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "store",
+          "example": "He stored too much information on the hard drive, making the computer sluggish."
+        },
+        {
+          "pos": "",
+          "word": "store",
+          "example": "The store's inventory has to be entered manually into the database."
+        },
+        {
+          "pos": "",
+          "word": "storage",
+          "example": "The storage closet is where you will find all our office supplies."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "store data",
+        "storage space",
+        "storage facility",
+        "in storage"
+      ],
+      "usage": {
+        "structures": [
+          "store + N (data / supplies / luggage) + in/on + địa điểm",
+          "put / keep + N + in storage (cất giữ trong kho)"
+        ],
+        "prepositions": [
+          "in",
+          "on",
+          "at"
+        ],
+        "collocations": [
+          "cold storage",
+          "cloud storage",
+          "storage capacity",
+          "department store"
+        ],
+        "tip": "Danh từ không đếm được 'storage' (sự lưu trữ / kho chứa / dung lượng lưu trữ) xuất hiện rất thường xuyên trong các cụm 'storage space, storage room, cloud storage'."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "storable",
+          "example": "Freeze-dried meals are lightweight and easily storable for months.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The office leased an off-site _____ unit to keep archival tax documents and extra furniture.",
+        "answer": "storage",
+        "base_word": "store",
+        "pos_hint": "danh từ (làm định ngữ cho 'unit')",
+        "vi": "Văn phòng đã thuê một kho lưu trữ bên ngoài để cất giữ các tài liệu thuế lưu trữ và đồ nội thất dư thừa."
+      }
+    },
+    {
+      "id": 12,
+      "word": "technically",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "with specialized skill or knowledge",
+      "definition_vi": "về mặt kỹ thuật/chuyên môn; xét theo lý thuyết/quy định chặt chẽ",
+      "examples": [
+        {
+          "en": "Technically speaking, the virus infected only script files.",
+          "vi": "Xét về mặt kỹ thuật, loại vi-rút này chỉ lây nhiễm vào các tệp kịch bản (script)."
+        },
+        {
+          "en": "The office was finally up-to-speed technically.",
+          "vi": "Văn phòng cuối cùng cũng đã bắt kịp tiến độ về mặt kỹ thuật."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "technically",
+          "example": "Technically, she was fired from her job."
+        },
+        {
+          "pos": "",
+          "word": "technical",
+          "example": "The computer can only be repaired by someone with technical knowledge."
+        },
+        {
+          "pos": "",
+          "word": "technicality",
+          "example": "After we go over these minor technicalities, the agreement will be set."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "technically speaking",
+        "technically advanced",
+        "technical support",
+        "technical difficulties"
+      ],
+      "usage": {
+        "structures": [
+          "Technically (speaking), + mệnh đề (Xét về mặt lý thuyết/quy định chặt chẽ thì...)",
+          "technically + Adj/V3-ed (technically demanding / advanced / qualified)"
+        ],
+        "prepositions": [
+          "in"
+        ],
+        "collocations": [
+          "technical specifications",
+          "technical expertise",
+          "minor technicality",
+          "technical manual"
+        ],
+        "tip": "Chú ý cụm danh từ cực kỳ phổ biến 'technical support' (hỗ trợ kỹ thuật) và 'technical specifications' (thông số kỹ thuật)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "technician",
+          "example": "A certified technician will arrive tomorrow to repair the photocopier.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The live webinar was delayed by fifteen minutes due to unexpected _____ difficulties.",
+        "answer": "technical",
+        "base_word": "technically",
+        "pos_hint": "tính từ",
+        "vi": "Buổi hội thảo trực tuyến đã bị trễ mười lăm phút do những sự cố kỹ thuật ngoài dự kiến."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. By the mid-1980s, virtually all U.S. businesses owned at least one computer. Prices of computers declined (1) ____ over the next few years, resulting in a surge in popularity. At the same time, offices started to rely on (2) ____, which (3) ____ the sharing and processing of data. Such data (4) ____ was made possible by improvements in both the hardware and software industries. More recently, data storage (5) ____ have undergone their own revolution. Because of (6) ____ advancements, the (7) ____ capacity of a compact disc increased significantly. In addition, manufacturers of (8) ____ offer competitive upgrades to (9) ____ competitors' products. Virtually all office workers today are trained in the most (10) ____ word processing software. Computers repeatedly (11) ____ the workplace, and everyone, no matter how accomplished he or she is with other (12) ____, needs to stay abreast of major trends in computer development.",
+    "word_bank": [
+      "disks",
+      "popular",
+      "revolutionize",
+      "software",
+      "facilitated",
+      "processing",
+      "sharply",
+      "storage",
+      "networks",
+      "replace",
+      "skills",
+      "technical"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "popularize",
+        "example": "The Internet has popularized last-minute travel.",
+        "pos": ""
+      },
+      {
+        "word": "popularity",
+        "example": "The popularity of the product was extremely short-lived, and it soon disappeared from the store shelves.",
+        "pos": "noun"
+      },
+      {
+        "word": "popular",
+        "example": "The new computer program was extremely popular, and people asked for it at all the stores.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "replace",
+        "example": "I replaced your music CDs that I borrowed from your desk last week.",
+        "pos": ""
+      },
+      {
+        "word": "replacement",
+        "example": "A replacement for this damaged computer will not be cheap.",
+        "pos": "noun"
+      },
+      {
+        "word": "replaceable",
+        "example": "That hard disk is not easily replaceable.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "revolutionized",
+        "example": "Using diamond has revolutionized the pressure sensor industry during the last decade.",
+        "pos": ""
+      },
+      {
+        "word": "revolution",
+        "example": "The revolution in electronics technology has allowed products such as phones to get smaller and more portable.",
+        "pos": "noun"
+      },
+      {
+        "word": "revolutionary",
+        "example": "The Internet is revolutionary in how it has changed the way we communicate.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "skill",
+        "example": "Her marketing skills inspired Jason to return to school for his MBA.",
+        "pos": ""
+      },
+      {
+        "word": "skilled",
+        "example": "Our carpenters are skilled in everything from cabinetry to furniture making.",
+        "pos": ""
+      },
+      {
+        "word": "skillfully",
+        "example": "He negotiates so skillfully that both parties end up feeling that they've gotten what they wanted.",
+        "pos": "adverb"
+      }
+    ],
+    [
+      {
+        "word": "store",
+        "example": "He stored too much information on the hard drive, making the computer sluggish.",
+        "pos": "verb"
+      },
+      {
+        "word": "store",
+        "example": "The store's inventory has to be entered manually into the database.",
+        "pos": ""
+      },
+      {
+        "word": "storage",
+        "example": "The storage closet is where you will find all our office supplies.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "technically",
+        "example": "Technically, she was fired from her job.",
+        "pos": ""
+      },
+      {
+        "word": "technical",
+        "example": "The computer can only be repaired by someone with technical knowledge.",
+        "pos": ""
+      },
+      {
+        "word": "technicality",
+        "example": "After we go over these minor technicalities, the agreement will be set.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "The ____ of the new computer network was apparent among the employees after only a few months.",
+        "options": [
+          {
+            "label": "A",
+            "text": "popular"
+          },
+          {
+            "label": "B",
+            "text": "popularize"
+          },
+          {
+            "label": "C",
+            "text": "popularity"
+          },
+          {
+            "label": "D",
+            "text": "population"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "We will ____ all of our outdated software with the newest versions.",
+        "options": [
+          {
+            "label": "A",
+            "text": "replacement"
+          },
+          {
+            "label": "B",
+            "text": "replaced"
+          },
+          {
+            "label": "C",
+            "text": "replaceable"
+          },
+          {
+            "label": "D",
+            "text": "replace"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "There is a ____ approach to software design integration that all the big software developers are currently learning.",
+        "options": [
+          {
+            "label": "A",
+            "text": "revolutionized"
+          },
+          {
+            "label": "B",
+            "text": "revolutionary"
+          },
+          {
+            "label": "C",
+            "text": "revolution"
+          },
+          {
+            "label": "D",
+            "text": "revolt"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "While Fabio's ____ with computers surpasses the technicians, he is unable to communicate his personal needs to the office manager.",
+        "options": [
+          {
+            "label": "A",
+            "text": "skill"
+          },
+          {
+            "label": "B",
+            "text": "skilled"
+          },
+          {
+            "label": "C",
+            "text": "skillful"
+          },
+          {
+            "label": "D",
+            "text": "skillfully"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "The hard disk can ____ up to 25 gigabytes of data.",
+        "options": [
+          {
+            "label": "A",
+            "text": "stores"
+          },
+          {
+            "label": "B",
+            "text": "storage"
+          },
+          {
+            "label": "C",
+            "text": "store"
+          },
+          {
+            "label": "D",
+            "text": "storing"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "The newspaper article on the development of new fiber-optic cables was so full of ____ language that nobody could understand it.",
+        "options": [
+          {
+            "label": "A",
+            "text": "technical"
+          },
+          {
+            "label": "B",
+            "text": "technically"
+          },
+          {
+            "label": "C",
+            "text": "technicality"
+          },
+          {
+            "label": "D",
+            "text": "technique"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Computer technology has brought about a [16] in the workplace. Now employees all around the country do all or part of their jobs from home. This phenomenon is called telecommuting and has been made possible by the widespread use of the Internet. Telecommuting has become [17] among employees, although the reactions of employers are mixed. Some like telecommuting and some don't. But most agree that it facilitates work for employees who live at a distance from the worksite. Telecommuting enables companies to keep skilled employees who move out of the area or who have family obligations that require them to stay close to home. [18] the regular nine-to-five office job? Probably not entirely, but we are sure to see more and more of it in the future.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "revolted"
+            },
+            {
+              "label": "B",
+              "text": "revolution"
+            },
+            {
+              "label": "C",
+              "text": "revolutionary"
+            },
+            {
+              "label": "D",
+              "text": "revolutionize"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "sharp"
+            },
+            {
+              "label": "B",
+              "text": "technical"
+            },
+            {
+              "label": "C",
+              "text": "popular"
+            },
+            {
+              "label": "D",
+              "text": "replaceable"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "It replaces"
+            },
+            {
+              "label": "B",
+              "text": "It will replace"
+            },
+            {
+              "label": "C",
+              "text": "Will it replace"
+            },
+            {
+              "label": "D",
+              "text": "Will it be replaced by"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "| To: mary@acme.comFrom: fred@acme.comSubject: software trainingMary,As you know, we have decided to replace our old soft-ware with a new program that will facilitate our work better. Although the new software is not technically difficult to use, it is significantly different from our old software. The entire staff will need to be trained to use it. Of course, not everyone can attend a training session together, because we need some staff members to be in the office at all times. The trainer suggests that each person attend one training session and one follow-up session. The sessions will last three to four hours each. The trainer can be here once a week. Please develop a training schedule so that everyone can be trained over the next two months. Thank you. | To: fred@acme.comFrom: mary@acme.comSubject: re: software trainingFred,I have written up a schedule that will facilitate the training process. There will be eight weekly training sessions all together. Since we have four departments, the easiest way is to send one person from each department to each training session during the first month. Of course it will be a different person each week. We can repeat the process during the second month for the follow up sessions. This way everyone will have a chance to develop their skills on the new software. I am attaching a copy of the schedule. Please let me know what you think.Mary | | --- | --- | Questions 19–23 refer to the following two e-mails. Fred",
+        "questions": [
+          {
+            "number": 19,
+            "question": "What is true about the new software?",
+            "options": [
+              {
+                "label": "A",
+                "text": "It's difficult to use."
+              },
+              {
+                "label": "B",
+                "text": "It's very different from the old software."
+              },
+              {
+                "label": "C",
+                "text": "It requires many months of training."
+              },
+              {
+                "label": "D",
+                "text": "It's very expensive."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "Which staff members will be trained to use the new software?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Just one from each department."
+              },
+              {
+                "label": "B",
+                "text": "Fred and Mary only."
+              },
+              {
+                "label": "C",
+                "text": "Only four of them."
+              },
+              {
+                "label": "D",
+                "text": "All of them."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "How many training sessions will each person attend?",
+            "options": [
+              {
+                "label": "A",
+                "text": "One."
+              },
+              {
+                "label": "B",
+                "text": "Two."
+              },
+              {
+                "label": "C",
+                "text": "Four."
+              },
+              {
+                "label": "D",
+                "text": "Eight."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word skills in line 9 of the second e-mail is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "abilities"
+              },
+              {
+                "label": "B",
+                "text": "opportunities"
+              },
+              {
+                "label": "C",
+                "text": "tasks"
+              },
+              {
+                "label": "D",
+                "text": "ideas"
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word replace in line 1 of the first e-mail is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "sell"
+              },
+              {
+                "label": "B",
+                "text": "change"
+              },
+              {
+                "label": "C",
+                "text": "keep"
+              },
+              {
+                "label": "D",
+                "text": "locate"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "Why can't the woman retrieve her file?",
+        "options": [
+          {
+            "label": "A",
+            "text": "She doesn't know how."
+          },
+          {
+            "label": "B",
+            "text": "She forgot its name."
+          },
+          {
+            "label": "C",
+            "text": "It was accidentally deleted."
+          },
+          {
+            "label": "D",
+            "text": "She can't remember where it's stored."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "Why does she need the file?",
+        "options": [
+          {
+            "label": "A",
+            "text": "To do her accounts."
+          },
+          {
+            "label": "B",
+            "text": "To report the news."
+          },
+          {
+            "label": "C",
+            "text": "To finish her proposal."
+          },
+          {
+            "label": "D",
+            "text": "To get information about a store."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the man suggest the woman should do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Figure it out herself."
+          },
+          {
+            "label": "B",
+            "text": "Let him help her."
+          },
+          {
+            "label": "C",
+            "text": "Improve her skills."
+          },
+          {
+            "label": "D",
+            "text": "Get help from the IT department."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "What is the speaker's opinion of the process of downloading software?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Anyone can do it."
+          },
+          {
+            "label": "B",
+            "text": "It requires technical skills."
+          },
+          {
+            "label": "C",
+            "text": "It's easiest if you download from a remote server."
+          },
+          {
+            "label": "D",
+            "text": "It's time-consuming."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "Who is the intended audience for this talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Computer technicians."
+          },
+          {
+            "label": "B",
+            "text": "Network managers."
+          },
+          {
+            "label": "C",
+            "text": "New computer users."
+          },
+          {
+            "label": "D",
+            "text": "Software writers."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What will the listeners do next?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Look at a chart."
+          },
+          {
+            "label": "B",
+            "text": "Turn on their computers."
+          },
+          {
+            "label": "C",
+            "text": "Connect to the Internet."
+          },
+          {
+            "label": "D",
+            "text": "Type a web address."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best response. 4. Why can't the woman retrieve her file? (A) She doesn't know how. (B) She forgot its name. (C) It was accidentally deleted. (D) She can't remember where it's stored. 5. Why does she need the file? (A) To do her accounts. (B) To report the news. (C) To finish her proposal. (D) To get information about a store. 6. What does the man suggest the woman should do? (A) Figure it out herself. (B) Let him help her. (C) Improve her skills. (D) Get help from the IT department. Listen to the talk. Then read each question and choose the best answer. 7. What is the speaker's opinion of the process of downloading software? (A) Anyone can do it. (B) It requires technical skills. (C) It's easiest if you download from a remote server. (D) It's time-consuming. 8. Who is the intended audience for this talk? (A) Computer technicians. (B) Network managers. (C) New computer users. (D) Software writers. 9. What will the listeners do next? (A) Look at a chart. (B) Turn on their computers. (C) Connect to the Internet. (D) Type a web address.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question–Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "Why can't the woman retrieve her file?",
+        "options": [
+          {
+            "label": "A",
+            "text": "She doesn't know how."
+          },
+          {
+            "label": "B",
+            "text": "She forgot its name."
+          },
+          {
+            "label": "C",
+            "text": "It was accidentally deleted."
+          },
+          {
+            "label": "D",
+            "text": "She can't remember where it's stored."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "Why does she need the file?",
+        "options": [
+          {
+            "label": "A",
+            "text": "To do her accounts."
+          },
+          {
+            "label": "B",
+            "text": "To report the news."
+          },
+          {
+            "label": "C",
+            "text": "To finish her proposal."
+          },
+          {
+            "label": "D",
+            "text": "To get information about a store."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the man suggest the woman should do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Figure it out herself."
+          },
+          {
+            "label": "B",
+            "text": "Let him help her."
+          },
+          {
+            "label": "C",
+            "text": "Improve her skills."
+          },
+          {
+            "label": "D",
+            "text": "Get help from the IT department."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "What is the speaker's opinion of the process of downloading software?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Anyone can do it."
+          },
+          {
+            "label": "B",
+            "text": "It requires technical skills."
+          },
+          {
+            "label": "C",
+            "text": "It's easiest if you download from a remote server."
+          },
+          {
+            "label": "D",
+            "text": "It's time-consuming."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "Who is the intended audience for this talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Computer technicians."
+          },
+          {
+            "label": "B",
+            "text": "Network managers."
+          },
+          {
+            "label": "C",
+            "text": "New computer users."
+          },
+          {
+            "label": "D",
+            "text": "Software writers."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What will the listeners do next?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Look at a chart."
+          },
+          {
+            "label": "B",
+            "text": "Turn on their computers."
+          },
+          {
+            "label": "C",
+            "text": "Connect to the Internet."
+          },
+          {
+            "label": "D",
+            "text": "Type a web address."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "## Electronics\n\nStudy the following definitions and examples.\n\n1. disk n., an object used to store digital information\n\na. The head of the optical disk reader was dirty.\n\nb. Rewritable compact discs are more expensive than read-only CDs.\n\n2. facilitate v., to make easier\n\na. The computer program facilitated the scheduling of appointments.\n\nb. The director tried to facilitate the transition to the new policy by meeting with all staff who would be affected.\n\n3. network v., to connect; to broadcast; n., an interconnected group or system over a radio or TV; to engage in informal communication\n\na. The recent graduate networked with her mother's coworkers.\n\nb. We set up a new network in my office to share files.\n\n4. popularity n., the state of being widely admired, sought, or accepted a. After the new commercials began running, the popularity of the batteries increased significantly.\n\nb. This brand of computers is extremely popular among college students.\n\n5. process v., to put through a series of actions or prescribed procedure; n., a series of operations or actions to bring about a result\n\na. I've processed the data I collected and have gotten some interesting results.\n\nb. There is a process for determining why your computer is malfunctioning.\n\n6. replace v., to put back in a former place or position; to take the place of\n\na. I've replaced the hard drive that was malfunctioning.\n\nb. We have been looking for three months and we've found no one who can replace our former administrator.\n\n7. revolution n., a sudden or momentous change in a situation; a single complete cycle\n\na. We see a revolution in the computer field almost every day.\n\nb. My CD player is broken; the disk cannot make a complete revolution around the magnet.\n\n8. sharp adj., abrupt or acute; smart a. There was a sharp decline in calls to the help desk after we upgraded each employee's computer.\n\nb. The new employee proved how sharp she was when she mastered the new program in a few days.\n\n9. skill n., a developed ability\n\na. The software developer has excellent technical skills and would be an asset to our software programming team.\n\nb. Salman's job as designer of electronic tools makes good use of his manual dexterity skills.\n\n10. software n., the programs for a computer a. This software allows me to integrate tables and spreadsheets into my reports.\nb. Many computers come pre-loaded with software.\n\n11. store v., to keep\n\na. You can store more data on a zip drive.\n\nb. We store the master disks in the fireproof safe.\n\n12. technically adv., with specialized skill or knowledge\n\na. Technically speaking, the virus infected only script files.\n\nb. The office was finally up-to-speed technically.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\ndisks popular revolutionize software  \nfacilitated processing sharply storage  \nnetworks replace skills technical\n\nBy the mid-1980s, virtually all U.S. businesses owned at least one computer. Prices of computers declined (1) \\_\\_\\_\\_ over the next few years, resulting in a surge in popularity. At the same time, offices started to rely on (2) \\_\\_\\_\\_, which (3) \\_\\_\\_\\_ the sharing and processing of data. Such data (4) \\_\\_\\_\\_ was made possible by improvements in both the hardware and software industries.\n\nMore recently, data storage (5) \\_\\_\\_\\_ have undergone their own revolution. Because of (6) \\_\\_\\_\\_ advancements, the (7) \\_\\_\\_\\_ capacity of a compact disc increased significantly.\n\nIn addition, manufacturers of (8) \\_\\_\\_\\_ offer competitive upgrades to (9) \\_\\_\\_\\_ competitors' products.\n\nVirtually all office workers today are trained in the most (10) \\_\\_\\_\\_ word processing software.\n\nComputers repeatedly (11) \\_\\_\\_\\_ the workplace, and everyone, no matter how accomplished he or she is with other (12) \\_\\_\\_\\_, needs to stay abreast of major trends in computer development.",
+    "word_families": "## WORD FAMILIES\n\n| 1 | popularize | The Internet has popularized last-minute travel. |\n| --- | --- | --- |\n| noun | popularity | The popularity of the product was extremely short-lived, and it soon disappeared from the store shelves. |\n| active | popular | The new computer program was extremely popular, and people asked for it at all the stores. |\n\n| 1.5. | replace | I replaced your music CDs that I borrowed from your desk last week. |\n| --- | --- | --- |\n| noun | replacement | A replacement for this damaged computer will not be cheap. |\n| adjective | replaceable | That hard disk is not easily replaceable. |\n\n| 12 | revolutionized | Using diamond has revolutionized the pressure sensor industry during the last decade. |\n| --- | --- | --- |\n| noun | revolution | The revolution in electronics technology has allowed products such as phones to get smaller and more portable. |\n| i | revolutionary | The Internet is revolutionary in how it has changed the way we communicate. |\n\n|  | skill | Her marketing skills inspired Jason to return to school for his MBA. |\n| --- | --- | --- |\n|  | skilled | Our carpenters are skilled in everything from cabinetry to furniture making. |\n| adverb | skillfully | He negotiates so skillfully that both parties end up feeling that they've gotten what they wanted. |\n\n| verb | store | He stored too much information on the hard drive, making the computer sluggish. |\n| --- | --- | --- |\n| 1 | store | The store's inventory has to be entered manually into the database. |\n| 1 . | storage | The storage closet is where you will find all our office supplies. |\n\n|  | technically | Technically, she was fired from her job. |\n| --- | --- | --- |\n|  | technical | The computer can only be repaired by someone with technical knowledge. |\n|  | technicality | After we go over these minor technicalities, the agreement will be set. |",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n\n\n## Part 2 Question–Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best response.\n\n4. Why can't the woman retrieve her file?\n(A) She doesn't know how.\n(B) She forgot its name.\n(C) It was accidentally deleted.\n(D) She can't remember where it's stored.\n\n5. Why does she need the file?\n(A) To do her accounts.\n(B) To report the news.\n(C) To finish her proposal.\n(D) To get information about a store.\n\n6. What does the man suggest the woman should do?  \n(A) Figure it out herself.  \n(B) Let him help her.  \n(C) Improve her skills.  \n(D) Get help from the IT department.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. What is the speaker's opinion of the process of downloading software?\n(A) Anyone can do it.\n(B) It requires technical skills.\n(C) It's easiest if you download from a remote server.\n(D) It's time-consuming.\n\n8. Who is the intended audience for this talk?  \n(A) Computer technicians.  \n(B) Network managers.  \n(C) New computer users.  \n(D) Software writers.\n\n9. What will the listeners do next?\n(A) Look at a chart.\n(B) Turn on their computers.\n(C) Connect to the Internet.\n(D) Type a web address.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. The \\_\\_\\_\\_ of the new computer network was apparent among the employees after only a few months.\n(A) popular (C) popularity\n(B) popularize (D) population\n\n11. We will \\_\\_\\_\\_ all of our outdated software with the newest versions.\n(A) replacement (C) replaceable\n(B) replaced (D) replace\n\n12. There is a \\_\\_\\_\\_ approach to software design integration that all the big software developers are currently learning.\n(A) revolutionized (C) revolution\n(B) revolutionary (D) revolt\n\n13. While Fabio's \\_\\_\\_\\_ with computers surpasses the technicians, he is unable to communicate his personal needs to the office manager.\n(A) skill (C) skillful\n(B) skilled (D) skillfully\n\n14. The hard disk can \\_\\_\\_\\_ up to 25 gigabytes of data.\n(A) stores (C) store\n(B) storage (D) storing\n\n15. The newspaper article on the development of new fiber-optic cables was so full of \\_\\_\\_\\_ language that nobody could understand it.\n(A) technical (C) technicality\n(B) technically (D) technique\n\n## Part 6 Text Completion\n\nComputer technology has brought about a \\_16\\_ in the workplace. Now employees all around the country do all or part of their jobs from home. This phenomenon is called telecommuting and has been made possible by the widespread use of the Internet. Telecommuting has become \\_17\\_ among employees, although the reactions of employers are mixed. Some like telecommuting and some don't. But most agree that it facilitates work for employees who live at a distance from the worksite. Telecommuting enables companies to keep skilled employees who move out of the area or who have family obligations that require them to stay close to home. \\_18\\_ the regular nine-to-five office job? Probably not entirely, but we are sure to see more and more of it in the future.\n\n16. (A) revolted  \n(B) revolution  \n(C) revolutionary  \n(D) revolutionize\n\n17. (A) sharp  \n(B) technical  \n(C) popular  \n(D) replaceable\n\n18. (A) It replaces  \n(B) It will replace  \n(C) Will it replace  \n(D) Will it be replaced by",
+    "reading_part7": "| To: mary@acme.comFrom: fred@acme.comSubject: software trainingMary,As you know, we have decided to replace our old soft-ware with a new program that will facilitate our work better. Although the new software is not technically difficult to use, it is significantly different from our old software. The entire staff will need to be trained to use it. Of course, not everyone can attend a training session together, because we need some staff members to be in the office at all times. The trainer suggests that each person attend one training session and one follow-up session. The sessions will last three to four hours each. The trainer can be here once a week. Please develop a training schedule so that everyone can be trained over the next two months. Thank you. | To: fred@acme.comFrom: mary@acme.comSubject: re: software trainingFred,I have written up a schedule that will facilitate the training process. There will be eight weekly training sessions all together. Since we have four departments, the easiest way is to send one person from each department to each training session during the first month. Of course it will be a different person each week. We can repeat the process during the second month for the follow up sessions. This way everyone will have a chance to develop their skills on the new software. I am attaching a copy of the schedule. Please let me know what you think.Mary |\n| --- | --- |\n\n## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following two e-mails.\n\nFred\n\n19. What is true about the new software?\n(A) It's difficult to use.\n(B) It's very different from the old software.\n(C) It requires many months of training.\n(D) It's very expensive.\n\n20. Which staff members will be trained to use the new software?\n(A) Just one from each department.\n(B) Fred and Mary only.\n(C) Only four of them.\n(D) All of them.\n\n21. How many training sessions will each person attend?\n(A) One.\n(B) Two.\n(C) Four.\n(D) Eight.\n\n22. The word skills in line 9 of the second e-mail is closest in meaning to  \n(A) abilities  \n(B) opportunities  \n(C) tasks  \n(D) ideas\n\n23. The word replace in line 1 of the first e-mail is closest in meaning to  \n(A) sell  \n(B) change  \n(C) keep  \n(D) locate"
+  },
+  "needs_review": true
+}

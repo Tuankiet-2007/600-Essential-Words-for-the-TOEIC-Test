@@ -1,0 +1,1644 @@
+{
+  "lesson_id": 6,
+  "title": "Computers",
+  "theme_name": "Office Issues",
+  "audio_track": "track_06.mp3",
+  "part1_photo": "part1_photos/lesson_06.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "access",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the ability or right to enter or use; v., to obtain; to gain entry",
+      "definition_vi": "quyền truy cập, lối vào (n.); truy cập, tiếp cận (dữ liệu, địa điểm) (v.)",
+      "examples": [
+        {
+          "en": "You can't gain access to the files unless you know the password.",
+          "vi": "Bạn không thể truy cập vào các tệp tin trừ khi bạn biết mật khẩu."
+        },
+        {
+          "en": "We accessed the information on the company's web site.",
+          "vi": "Chúng tôi đã truy cập thông tin trên trang web của công ty."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "access",
+          "example": "To gain access to the computer lab, all users must have a valid ID."
+        },
+        {
+          "pos": "verb",
+          "word": "access",
+          "example": "Internet cafés allow you to access your web-based e-mail account."
+        },
+        {
+          "pos": "adjective",
+          "word": "accessible",
+          "example": "The staff assistant always keeps the door to her office open to show she is accessible."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "gain access to",
+        "have access to",
+        "remote access",
+        "easily accessible"
+      ],
+      "usage": {
+        "structures": [
+          "have / gain / grant access to + N (danh từ 'access' luôn đi với giới từ 'to')",
+          "access + N (động từ 'access' cộng trực tiếp tân ngữ, KHÔNG có giới từ 'to')"
+        ],
+        "prepositions": [
+          "to"
+        ],
+        "collocations": [
+          "Internet access",
+          "restricted access",
+          "wheelchair accessible",
+          "unauthorized access"
+        ],
+        "tip": "Bẫy kinh điển trong TOEIC: khi là danh từ thì bắt buộc có 'to' (have/gain access TO the building), nhưng khi là động từ thì KHÔNG có 'to' (access the files)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "accessibility",
+          "example": "The website redesign improved accessibility for visually impaired users.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "accessibly",
+          "example": "The user manual is written accessibly so that beginners can follow it.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The new community library is fully _____ to patrons with physical disabilities.",
+        "answer": "accessible",
+        "base_word": "access",
+        "pos_hint": "tính từ",
+        "vi": "Thư viện cộng đồng mới hoàn toàn dễ tiếp cận đối với những độc giả khuyết tật về thể chất."
+      }
+    },
+    {
+      "id": 2,
+      "word": "allocate",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to designate for a specific purpose",
+      "definition_vi": "phân bổ, cấp phát (ngân sách, thời gian, tài nguyên cho một mục đích cụ thể)",
+      "examples": [
+        {
+          "en": "The office manager did not allocate enough money to purchase software.",
+          "vi": "Quản lý văn phòng đã không phân bổ đủ tiền để mua phần mềm."
+        },
+        {
+          "en": "The software architect did not allocate enough memory for the sound card to work in your computer.",
+          "vi": "Kiến trúc sư phần mềm đã không cấp phát đủ bộ nhớ để card âm thanh hoạt động trên máy tính của bạn."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "allocate",
+          "example": "Marla didn't allocate enough time to train the new hires on our computer systems."
+        },
+        {
+          "pos": "noun",
+          "word": "allocation",
+          "example": "A different allocation of resources could certainly strengthen the R&amp;D department."
+        },
+        {
+          "pos": "",
+          "word": "allocated",
+          "example": "The allocated money was never spent on new monitors."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "allocate funds",
+        "allocate resources",
+        "allocate time",
+        "budget allocation"
+      ],
+      "usage": {
+        "structures": [
+          "allocate + sth + to / for + N (phân bổ cái gì cho ai/việc gì)",
+          "allocate + sth + to V (phân bổ cái gì để làm gì)"
+        ],
+        "prepositions": [
+          "to",
+          "for",
+          "among"
+        ],
+        "collocations": [
+          "resource allocation",
+          "allocate a portion of",
+          "allocated budget",
+          "fairly allocate"
+        ],
+        "tip": "Thường đi kèm các tân ngữ chỉ tiền bạc, thời gian hoặc nguồn lực (funds, money, budget, time, space, resources) và giới từ 'to/for'."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "allocable",
+          "example": "Only travel expenses directly allocable to the client project will be reimbursed.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The city council approved the _____ of two million dollars for road repairs.",
+        "answer": "allocation",
+        "base_word": "allocate",
+        "pos_hint": "danh từ",
+        "vi": "Hội đồng thành phố đã phê duyệt việc phân bổ hai triệu đô la để sửa chữa đường sá."
+      }
+    },
+    {
+      "id": 3,
+      "word": "compatible",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "able to function together",
+      "definition_vi": "tương thích, có thể hoạt động cùng nhau; hòa hợp",
+      "examples": [
+        {
+          "en": "This operating system is not compatible with this model computer.",
+          "vi": "Hệ điều hành này không tương thích với mẫu máy tính này."
+        },
+        {
+          "en": "Users of software applications want new versions to be compatible with current versions.",
+          "vi": "Người dùng các ứng dụng phần mềm luôn muốn phiên bản mới tương thích với phiên bản hiện tại."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "be compatible with",
+        "fully compatible",
+        "backward compatible",
+        "software compatibility"
+      ],
+      "usage": {
+        "structures": [
+          "be compatible with + N (tương thích với thiết bị/hệ thống nào)"
+        ],
+        "prepositions": [
+          "with"
+        ],
+        "collocations": [
+          "compatible devices",
+          "check compatibility",
+          "compatible operating system",
+          "mutually compatible"
+        ],
+        "tip": "Trong TOEIC Part 5, thấy chỗ trống đứng trước giới từ 'with' trong ngữ cảnh máy tính/phần mềm thì 99% đáp án là 'compatible'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "compatibility",
+          "example": "Please verify hardware compatibility before installing the new graphics card.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "compatible",
+          "example": "The wireless printer is compatible with both Windows and Mac computers.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "compatibly",
+          "example": "The two software modules were designed to work compatibly with each other.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Before purchasing the adapter, check its _____ with your laptop model.",
+        "answer": "compatibility",
+        "base_word": "compatible",
+        "pos_hint": "danh từ",
+        "vi": "Trước khi mua bộ chuyển đổi, hãy kiểm tra tính tương thích của nó với mẫu máy tính xách tay của bạn."
+      }
+    },
+    {
+      "id": 4,
+      "word": "delete",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to remove; to erase",
+      "definition_vi": "xóa bỏ, gạch bỏ (dữ liệu, tệp tin, văn bản)",
+      "examples": [
+        {
+          "en": "The technicians deleted all the data on the disk accidentally.",
+          "vi": "Các kỹ thuật viên đã vô tình xóa toàn bộ dữ liệu trên ổ đĩa."
+        },
+        {
+          "en": "This button on the keyboard deletes the characters from the screen.",
+          "vi": "Nút này trên bàn phím dùng để xóa các ký tự khỏi màn hình."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "delete a file",
+        "accidentally delete",
+        "delete from the database",
+        "deletion of data"
+      ],
+      "usage": {
+        "structures": [
+          "delete + A (from B) (xóa A khỏi B)"
+        ],
+        "prepositions": [
+          "from"
+        ],
+        "collocations": [
+          "permanently delete",
+          "delete key",
+          "delete an entry",
+          "recover deleted files"
+        ],
+        "tip": "Thường đi với giới từ 'from' (delete old records from the system) hoặc dùng ở dạng quá khứ phân từ 'deleted files' (các tệp đã bị xóa)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "delete",
+          "example": "Please delete any duplicate contacts from the customer mailing list.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "deletion",
+          "example": "The editor recommended the deletion of the last two paragraphs.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "deleted",
+          "example": "Our IT specialist was able to recover the accidentally deleted spreadsheet.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Regular cloud backups protect the company against the accidental _____ of critical files.",
+        "answer": "deletion",
+        "base_word": "delete",
+        "pos_hint": "danh từ",
+        "vi": "Việc sao lưu đám mây thường xuyên bảo vệ công ty khỏi sự cố vô tình xóa mất các tệp tin quan trọng."
+      }
+    },
+    {
+      "id": 5,
+      "word": "display",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "what is visible on a monitor; v., to show",
+      "definition_vi": "màn hình hiển thị, sự trưng bày (n.); hiển thị, trưng bày, thể hiện (v.)",
+      "examples": [
+        {
+          "en": "The light on the LCD display is too weak.",
+          "vi": "Ánh sáng trên màn hình tinh thể lỏng (LCD) quá yếu."
+        },
+        {
+          "en": "The accounting program displays a current balance when opened.",
+          "vi": "Chương trình kế toán sẽ hiển thị số dư hiện tại khi được mở lên."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "on display",
+        "window display",
+        "digital display",
+        "display a permit"
+      ],
+      "usage": {
+        "structures": [
+          "be on display (đang được trưng bày)",
+          "clearly display + N (hiển thị rõ ràng cái gì - như thẻ đỗ xe, bảng giá)"
+        ],
+        "prepositions": [
+          "on",
+          "in",
+          "at"
+        ],
+        "collocations": [
+          "fireworks display",
+          "display case",
+          "prominently display",
+          "LCD display"
+        ],
+        "tip": "Cụm giới từ cố định 'on display' (= being exhibited: đang được trưng bày) xuất hiện rất thường xuyên trong cả Part 1, Part 5 và Part 7."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "display",
+          "example": "All visitors must display their security badges at all times.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "display",
+          "example": "New fall merchandise is now on display in the store's front windows.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "displayed",
+          "example": "The displayed prices do not include local sales tax or shipping.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Vehicles parked in the company lot must clearly _____ a valid parking permit on the dashboard.",
+        "answer": "display",
+        "base_word": "display",
+        "pos_hint": "động từ nguyên mẫu (sau động từ khuyết thiếu 'must')",
+        "vi": "Các phương tiện đỗ trong bãi xe của công ty phải đặt hiển thị rõ ràng giấy phép đỗ xe hợp lệ trên bảng điều khiển."
+      }
+    },
+    {
+      "id": 6,
+      "word": "duplicate",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to produce something equal; to make identical",
+      "definition_vi": "sao chép, nhân bản; lặp lại y hệt (thành công) (v.); bản sao (n.); giống hệt (adj.)",
+      "examples": [
+        {
+          "en": "I think the new word processing program will duplicate the success of the one introduced last year.",
+          "vi": "Tôi nghĩ chương trình xử lý văn bản mới sẽ lặp lại được thành công của chương trình đã ra mắt năm ngoái."
+        },
+        {
+          "en": "Before you leave, please duplicate that file by making a copy on the CD-ROM.",
+          "vi": "Trước khi bạn về, vui lòng nhân bản tệp tin đó bằng cách tạo một bản sao trên đĩa CD-ROM."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "duplicate",
+          "example": "If we work hard, we can duplicate last year's sales records for computers."
+        },
+        {
+          "pos": "noun",
+          "word": "duplicate",
+          "example": "Don't worry, I have a duplicate on my hard drive."
+        },
+        {
+          "pos": "noun",
+          "word": "duplication",
+          "example": "His success at our company was based on the duplication of management techniques he had used elsewhere in his career."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "duplicate a file",
+        "in duplicate",
+        "duplicate key",
+        "avoid duplication"
+      ],
+      "usage": {
+        "structures": [
+          "duplicate + N (sao chép tài liệu / lặp lại thành tích)",
+          "in duplicate (thành hai bản giống nhau)"
+        ],
+        "prepositions": [
+          "in",
+          "of"
+        ],
+        "collocations": [
+          "duplicate copy",
+          "duplication of effort",
+          "duplicate receipt",
+          "exact duplicate"
+        ],
+        "tip": "Từ 'duplicate' có thể làm động từ, danh từ lẫn tính từ mà không đổi cách viết; còn 'duplication' là danh từ chỉ hành động sao chép/sự trùng lặp."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "duplicate",
+          "example": "Please request a duplicate receipt if you need to claim travel expenses.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Merging the two databases will eliminate the unnecessary _____ of customer records.",
+        "answer": "duplication",
+        "base_word": "duplicate",
+        "pos_hint": "danh từ chỉ sự việc",
+        "vi": "Việc hợp nhất hai cơ sở dữ liệu sẽ loại bỏ tình trạng trùng lặp không cần thiết của hồ sơ khách hàng."
+      }
+    },
+    {
+      "id": 7,
+      "word": "failure",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an unsuccessful work or effort",
+      "definition_vi": "sự thất bại; sự hỏng hóc, ngừng hoạt động (máy móc, hệ thống); việc không làm gì đó",
+      "examples": [
+        {
+          "en": "Your failure to inform us about the changed password cost the company a day's work.",
+          "vi": "Việc bạn không thông báo cho chúng tôi về mật khẩu đã thay đổi khiến công ty mất một ngày làm việc."
+        },
+        {
+          "en": "The repeated failure of her printer baffled the technician.",
+          "vi": "Sự cố hỏng hóc lặp đi lặp lại của chiếc máy in đã làm người kỹ thuật viên bối rối."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "failure",
+          "example": "The power failure caused the system to shut down."
+        },
+        {
+          "pos": "verb",
+          "word": "fail",
+          "example": "We failed to tell you that your records were deleted."
+        },
+        {
+          "pos": "",
+          "word": "fallible",
+          "example": "Everyone can make a mistake. Even a computer is fallible."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "power failure",
+        "mechanical failure",
+        "failure to do sth",
+        "equipment failure"
+      ],
+      "usage": {
+        "structures": [
+          "failure to + V (việc không làm điều gì theo quy định)",
+          "power / system / engine / crop failure (sự cố mất điện / hỏng hệ thống / mất mùa)"
+        ],
+        "prepositions": [
+          "to",
+          "of",
+          "in"
+        ],
+        "collocations": [
+          "fail to comply",
+          "unfailing support",
+          "heart failure",
+          "end in failure"
+        ],
+        "tip": "Trong văn bản thông báo và hợp đồng TOEIC, cấu trúc 'Failure to + V will result in...' (Việc không làm... sẽ dẫn đến...) xuất hiện cực kỳ nhiều."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "unfailing",
+          "example": "We thank our customers for their unfailing loyalty over the past thirty years.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "unfailingly",
+          "example": "The front desk staff remained unfailingly polite even during peak check-in hours.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The factory had to halt production for three hours yesterday due to a sudden power _____.",
+        "answer": "failure",
+        "base_word": "failure",
+        "pos_hint": "danh từ số ít",
+        "vi": "Nhà máy đã phải ngừng sản xuất trong ba giờ ngày hôm qua do sự cố mất điện đột ngột."
+      }
+    },
+    {
+      "id": 8,
+      "word": "figure out",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to understand; to solve",
+      "definition_vi": "tìm ra cách giải quyết, hiểu ra, tính toán ra",
+      "examples": [
+        {
+          "en": "By examining all of the errors, the technicians figured out how to fix the problem.",
+          "vi": "Bằng cách kiểm tra tất cả các lỗi, các kỹ thuật viên đã tìm ra cách khắc phục sự cố."
+        },
+        {
+          "en": "We figured out that it would take us at least ten minutes to download the file.",
+          "vi": "Chúng tôi tính ra rằng sẽ mất ít nhất mười phút để tải tệp tin đó xuống."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "figure out how to",
+        "figure out a problem",
+        "figure out the cause",
+        "figure out a way"
+      ],
+      "usage": {
+        "structures": [
+          "figure out + N / figure + N + out",
+          "figure out + how/what/why + to V / mệnh đề"
+        ],
+        "prepositions": [
+          "out"
+        ],
+        "collocations": [
+          "try to figure out",
+          "hard to figure out",
+          "sales figures",
+          "key figure"
+        ],
+        "tip": "Bản thân từ 'figure' khi đứng độc lập còn là danh từ rất phổ biến trong TOEIC mang nghĩa 'con số thống kê' (sales figures) hoặc 'nhân vật' (a public figure)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "figure",
+          "example": "Shipping costs figure prominently in our decision to choose a local supplier.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "figure",
+          "example": "According to the latest sales figures, our revenue grew by eight percent.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "figurative",
+          "example": "The speaker used figurative language to describe the company's journey.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "figuratively",
+          "example": "The new product launch put our small startup on the map, figuratively speaking.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "It took the IT department several hours to _____ out why the server kept crashing.",
+        "answer": "figure",
+        "base_word": "figure out",
+        "pos_hint": "động từ nguyên mẫu (sau 'to')",
+        "vi": "Bộ phận công nghệ thông tin đã mất vài giờ để tìm ra lý do tại sao máy chủ liên tục bị sập."
+      }
+    },
+    {
+      "id": 9,
+      "word": "ignore",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "not to notice; to disregard",
+      "definition_vi": "phớt lờ, bỏ qua, không chú ý đến",
+      "examples": [
+        {
+          "en": "When the director is working at the computer, she ignores everything around her.",
+          "vi": "Khi bà giám đốc đang làm việc bên máy tính, bà không để ý đến bất cứ thứ gì xung quanh mình."
+        },
+        {
+          "en": "Don't ignore the technician's advice when connecting cables.",
+          "vi": "Đừng phớt lờ lời khuyên của kỹ thuật viên khi kết nối dây cáp."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "ignore",
+          "example": "Unfortunately, she ignored the warning about the virus."
+        },
+        {
+          "pos": "",
+          "word": "ignorance",
+          "example": "His ignorance of this word processing program surprised everyone."
+        },
+        {
+          "pos": "",
+          "word": "ignored",
+          "example": "The ignored computer glitch caused the database to function improperly."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "ignore a warning",
+        "ignore advice",
+        "completely ignore",
+        "cannot be ignored"
+      ],
+      "usage": {
+        "structures": [
+          "ignore + N (warning / advice / complaint / rule)",
+          "be ignorant of + N (không biết về điều gì)"
+        ],
+        "prepositions": [
+          "of",
+          "by"
+        ],
+        "collocations": [
+          "ignore a request",
+          "willfully ignore",
+          "ignorance of the law",
+          "blissfully ignorant"
+        ],
+        "tip": "Chú ý: động từ 'ignore' là 'cố tình phớt lờ', còn tính từ 'ignorant (of)' và danh từ 'ignorance (of)' mang nghĩa 'thiếu hiểu biết/không biết về điều gì'."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "ignorant",
+          "example": "Many consumers remain ignorant of the new data privacy regulations.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "ignorantly",
+          "example": "He ignorantly signed the contract without reading the fine print.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Please _____ the previous billing statement if you have already submitted your payment.",
+        "answer": "ignore",
+        "base_word": "ignore",
+        "pos_hint": "động từ nguyên mẫu (câu mệnh lệnh)",
+        "vi": "Vui lòng bỏ qua bảng sao kê thanh toán trước đó nếu bạn đã gửi khoản thanh toán của mình."
+      }
+    },
+    {
+      "id": 10,
+      "word": "search",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "investigation; v., to look for",
+      "definition_vi": "cuộc tìm kiếm, sự tra cứu (n.); tìm kiếm, rà soát (v.)",
+      "examples": [
+        {
+          "en": "Our search of the database produced very little information.",
+          "vi": "Việc tra cứu cơ sở dữ liệu của chúng tôi mang lại rất ít thông tin."
+        },
+        {
+          "en": "The computer searched for all names that began with $W$.",
+          "vi": "Máy tính đã tìm kiếm tất cả những cái tên bắt đầu bằng chữ W."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "search for",
+        "in search of",
+        "job search",
+        "search engine"
+      ],
+      "usage": {
+        "structures": [
+          "search (A) for B (lục tìm khắp nơi A để tìm kiếm mục tiêu B)",
+          "in search of + N (để tìm kiếm cái gì)"
+        ],
+        "prepositions": [
+          "for",
+          "of",
+          "through"
+        ],
+        "collocations": [
+          "thorough search",
+          "conduct a search",
+          "search the database",
+          "searchable archive"
+        ],
+        "tip": "Phân biệt: 'search the database' (tìm trong cơ sở dữ liệu - nơi tìm kiếm) và 'search FOR the file' (tìm kiếm tệp tin - thứ cần tìm)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "search",
+          "example": "The committee is still searching for a suitable candidate to fill the vacancy.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "search",
+          "example": "A thorough search of the warehouse failed to locate the missing crate.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "searchable",
+          "example": "All past issues of the newsletter are now available in a searchable online archive.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "searchingly",
+          "example": "The auditor questioned the chief accountant searchingly about the discrepancy.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The library has digitized its historical newspapers into a fully _____ online database.",
+        "answer": "searchable",
+        "base_word": "search",
+        "pos_hint": "tính từ",
+        "vi": "Thư viện đã số hóa các tờ báo lịch sử của mình thành một cơ sở dữ liệu trực tuyến có thể tra cứu toàn diện."
+      }
+    },
+    {
+      "id": 11,
+      "word": "shut down",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to turn off; to cease operations",
+      "definition_vi": "tắt máy (máy tính, thiết bị); đóng cửa, ngừng hoạt động (nhà máy, công ty)",
+      "examples": [
+        {
+          "en": "Please shut down the computer before you leave.",
+          "vi": "Vui lòng tắt máy tính trước khi bạn rời đi."
+        },
+        {
+          "en": "We always shut down the air conditioning system on the weekend.",
+          "vi": "Chúng tôi luôn tắt hệ thống điều hòa không khí vào dịp cuối tuần."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "shut down a computer",
+        "shut down a factory",
+        "system shutdown",
+        "temporary shutdown"
+      ],
+      "usage": {
+        "structures": [
+          "shut down + N / shut + N + down (tắt máy / đóng cửa nhà máy)",
+          "shut down (nội động từ: ngừng hoạt động)"
+        ],
+        "prepositions": [
+          "down"
+        ],
+        "collocations": [
+          "emergency shutdown",
+          "plant shutdown",
+          "completely shut down",
+          "automatically shut down"
+        ],
+        "tip": "Chú ý: viết tách 2 chữ 'shut down' là cụm động từ (phrasal verb), còn viết liền 1 chữ 'shutdown' là danh từ (a temporary plant shutdown)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "shut",
+          "example": "Please make sure all windows are tightly shut before leaving the office.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "shutdown",
+          "example": "The annual maintenance shutdown of the assembly plant is scheduled for August.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "shut",
+          "example": "The fire doors must be kept shut at all times to comply with safety codes.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The manufacturing plant will undergo a two-week _____ in July for equipment upgrades.",
+        "answer": "shutdown",
+        "base_word": "shut down",
+        "pos_hint": "danh từ số ít (viết liền)",
+        "vi": "Nhà máy sản xuất sẽ trải qua một đợt ngừng hoạt động kéo dài hai tuần vào tháng Bảy để nâng cấp thiết bị."
+      }
+    },
+    {
+      "id": 12,
+      "word": "warning",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an alert to danger or problems",
+      "definition_vi": "lời cảnh báo, dấu hiệu báo trước nguy hiểm/sự cố",
+      "examples": [
+        {
+          "en": "The red flashing light gives a warning to users that the battery is low.",
+          "vi": "Đèn nhấp nháy màu đỏ đưa ra cảnh báo cho người dùng rằng pin đang yếu."
+        },
+        {
+          "en": "Flashing images on a web page are warnings to attract users' attention.",
+          "vi": "Những hình ảnh nhấp nháy trên trang web là các cảnh báo nhằm thu hút sự chú ý của người dùng."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "warn",
+          "example": "We were warned that our e-mail was not private."
+        },
+        {
+          "pos": "noun",
+          "word": "warning",
+          "example": "The warning was written on the box."
+        },
+        {
+          "pos": "",
+          "word": "warning",
+          "example": "The warning signs were all there; we should have paid attention to them."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "without warning",
+        "issue a warning",
+        "warning sign",
+        "advance warning"
+      ],
+      "usage": {
+        "structures": [
+          "give / issue a warning (to sb) (about/against sth)",
+          "warn + sb + to V / not to V / that + mệnh đề"
+        ],
+        "prepositions": [
+          "about",
+          "against",
+          "of",
+          "without"
+        ],
+        "collocations": [
+          "early warning system",
+          "written warning",
+          "weather warning",
+          "heed a warning"
+        ],
+        "tip": "Cụm giới từ cố định 'without warning' (= suddenly/unexpectedly: không báo trước, đột ngột) rất hay gặp trong bài đọc TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "warningly",
+          "example": "The supervisor looked warningly at the staff members who arrived late.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Meteorologists have _____ residents that heavy snowstorms could disrupt commuter rail service.",
+        "answer": "warned",
+        "base_word": "warning",
+        "pos_hint": "động từ chia quá khứ phân từ (V3/ed)",
+        "vi": "Các nhà khí tượng học đã cảnh báo người dân rằng bão tuyết lớn có thể làm gián đoạn dịch vụ tàu điện ngoại ô."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. When I try to (1) ____ my computer, a (2) ____ pops up that says \"Low Memory.\" From there, I can't (3) ____ what to do. The computer won't let me (4) ____ any of my files, so I can't (5) ____ for those that I could delete. I've already (6) ____ all of my (7) ____ files, and I can't believe that my remaining files are using up so much memory. I'd be happy to (8) ____ the computer's warning, but I have no option, since the (9) ____ is frozen on this message. Do you think I've (10) ____ to understand something about the operations of this computer? If you can, would you please (11) ____ a few minutes in your busy schedule to help me solve this dilemma? As I said before, I'm sure that my software is (12) ____ and is not the source of this problem.",
+    "word_bank": [
+      "access",
+      "deleted",
+      "failed",
+      "search",
+      "allocate",
+      "display",
+      "figure out",
+      "shut down",
+      "compatible",
+      "duplicate",
+      "ignore",
+      "warning"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "access",
+        "example": "To gain access to the computer lab, all users must have a valid ID.",
+        "pos": "noun"
+      },
+      {
+        "word": "access",
+        "example": "Internet cafés allow you to access your web-based e-mail account.",
+        "pos": "verb"
+      },
+      {
+        "word": "accessible",
+        "example": "The staff assistant always keeps the door to her office open to show she is accessible.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "allocate",
+        "example": "Marla didn't allocate enough time to train the new hires on our computer systems.",
+        "pos": "verb"
+      },
+      {
+        "word": "allocation",
+        "example": "A different allocation of resources could certainly strengthen the R&amp;D department.",
+        "pos": "noun"
+      },
+      {
+        "word": "allocated",
+        "example": "The allocated money was never spent on new monitors.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "duplicate",
+        "example": "If we work hard, we can duplicate last year's sales records for computers.",
+        "pos": ""
+      },
+      {
+        "word": "duplicate",
+        "example": "Don't worry, I have a duplicate on my hard drive.",
+        "pos": "noun"
+      },
+      {
+        "word": "duplication",
+        "example": "His success at our company was based on the duplication of management techniques he had used elsewhere in his career.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "failure",
+        "example": "The power failure caused the system to shut down.",
+        "pos": "noun"
+      },
+      {
+        "word": "fail",
+        "example": "We failed to tell you that your records were deleted.",
+        "pos": "verb"
+      },
+      {
+        "word": "fallible",
+        "example": "Everyone can make a mistake. Even a computer is fallible.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "warn",
+        "example": "We were warned that our e-mail was not private.",
+        "pos": ""
+      },
+      {
+        "word": "warning",
+        "example": "The warning was written on the box.",
+        "pos": "noun"
+      },
+      {
+        "word": "warning",
+        "example": "The warning signs were all there; we should have paid attention to them.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "ignore",
+        "example": "Unfortunately, she ignored the warning about the virus.",
+        "pos": "noun"
+      },
+      {
+        "word": "ignorance",
+        "example": "His ignorance of this word processing program surprised everyone.",
+        "pos": ""
+      },
+      {
+        "word": "ignored",
+        "example": "The ignored computer glitch caused the database to function improperly.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "In order to ____ your e-mail messages, you must type in your password.",
+        "options": [
+          {
+            "label": "A",
+            "text": "access"
+          },
+          {
+            "label": "B",
+            "text": "accessible"
+          },
+          {
+            "label": "C",
+            "text": "accessed"
+          },
+          {
+            "label": "D",
+            "text": "accessibility"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "After reviewing the schedule, I realized we had not ____ enough time for the software training.",
+        "options": [
+          {
+            "label": "A",
+            "text": "allocate"
+          },
+          {
+            "label": "B",
+            "text": "allocated"
+          },
+          {
+            "label": "C",
+            "text": "allocating"
+          },
+          {
+            "label": "D",
+            "text": "allocation"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "The computer staff is responsible for making sure all system files are _.",
+        "options": [
+          {
+            "label": "A",
+            "text": "duplication"
+          },
+          {
+            "label": "B",
+            "text": "duplicated"
+          },
+          {
+            "label": "C",
+            "text": "duplicator"
+          },
+          {
+            "label": "D",
+            "text": "duplicate"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "____ to examine the capabilities of the computer carefully has cost us a lot of time and money.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Fail"
+          },
+          {
+            "label": "B",
+            "text": "Failure"
+          },
+          {
+            "label": "C",
+            "text": "Failed"
+          },
+          {
+            "label": "D",
+            "text": "Fallible"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "She ____ the warning that the hard drive was full, and consequently they were unable to save the test data.",
+        "options": [
+          {
+            "label": "A",
+            "text": "ignore"
+          },
+          {
+            "label": "B",
+            "text": "ignored"
+          },
+          {
+            "label": "C",
+            "text": "ignoring"
+          },
+          {
+            "label": "D",
+            "text": "ignorant"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "The computer will ____ you to save your work before quitting.",
+        "options": [
+          {
+            "label": "A",
+            "text": "warning"
+          },
+          {
+            "label": "B",
+            "text": "warned"
+          },
+          {
+            "label": "C",
+            "text": "warn"
+          },
+          {
+            "label": "D",
+            "text": "warns"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Memo To: All Office Staff From: IT Department Re: Avoiding Computer Problems We are here to help you with any problems you may have with your computer. Please make our job easier by observing the following guidelines. \\- If you have problems seeing the [16], check to make sure that your monitor is turned on. \\- If your computer crashes, write down any warning message that appears. We can [17] a problem more easily if we have this information. \\- Please do not install any new software without our approval. Some software is not compatible with what is already on the computer and can cause problems. \\- Some parts of the company web site are [18] without a password. If you need a password, please let us know and we will assign you one.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "keyboard"
+            },
+            {
+              "label": "B",
+              "text": "display"
+            },
+            {
+              "label": "C",
+              "text": "printer"
+            },
+            {
+              "label": "D",
+              "text": "controls"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "figure out"
+            },
+            {
+              "label": "B",
+              "text": "to figure out"
+            },
+            {
+              "label": "C",
+              "text": "will figure out"
+            },
+            {
+              "label": "D",
+              "text": "figures out"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "accesses"
+            },
+            {
+              "label": "B",
+              "text": "accessing"
+            },
+            {
+              "label": "C",
+              "text": "accessible"
+            },
+            {
+              "label": "D",
+              "text": "inaccessible"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following note. Jim, I have decided to get a new computer for my home office, and I need your advice to help me select the right one. I have allocated a certain amount of money from my budget for this. I think it is enough for a completely new system including computer, monitor, printer, and scanner. I would like to continue using the software I already use, so I need a system that is compatible with my current system and software. However, I think I should get a different brand. I have had nothing but trouble with the computer I have now. It often shuts down without warning, and sometimes I can't access my files. I haven't been able to figure out the reason for these problems, and no one has been able to fix it for me. I plan to go to some stores this Saturday and Sunday to search for my new computer. Would you be able to go with me? If not, I'll call you before the weekend to get your advice. I have a big project coming up next month, so I would like to get my new computer up and running soon. Let me know if you can help me this weekend. Janet 23. The word access in line 11 is closest in meaning to (A) save (B) write (C) close (D) open",
+        "questions": [
+          {
+            "number": 19,
+            "question": "What does Janet want Jim to help her with?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Finding money to buy a computer."
+              },
+              {
+                "label": "B",
+                "text": "Accessing her files."
+              },
+              {
+                "label": "C",
+                "text": "Choosing a new computer."
+              },
+              {
+                "label": "D",
+                "text": "Repairing her computer."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "What does Janet plan to do this weekend?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Call Jim."
+              },
+              {
+                "label": "B",
+                "text": "Go on a date with Jim."
+              },
+              {
+                "label": "C",
+                "text": "Look for a new computer."
+              },
+              {
+                "label": "D",
+                "text": "Figure out the reason for her problems."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "When will Janet's big project begin?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Saturday."
+              },
+              {
+                "label": "B",
+                "text": "Sunday."
+              },
+              {
+                "label": "C",
+                "text": "Before the weekend."
+              },
+              {
+                "label": "D",
+                "text": "Next month."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word allocated in line 3 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "earned"
+              },
+              {
+                "label": "B",
+                "text": "designated"
+              },
+              {
+                "label": "C",
+                "text": "borrowed"
+              },
+              {
+                "label": "D",
+                "text": "removed"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What happens when the man tries to access his e-mail?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The computer shuts down."
+          },
+          {
+            "label": "B",
+            "text": "A warning appears on the screen."
+          },
+          {
+            "label": "C",
+            "text": "He hears a beeping noise."
+          },
+          {
+            "label": "D",
+            "text": "The screen turns black."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the woman suggest doing?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Working harder."
+          },
+          {
+            "label": "B",
+            "text": "Taking the computer back to the store."
+          },
+          {
+            "label": "C",
+            "text": "Calling someone to fix the computer."
+          },
+          {
+            "label": "D",
+            "text": "Ignoring the problem."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What will the man do now?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Turn off the computer."
+          },
+          {
+            "label": "B",
+            "text": "Get a new monitor."
+          },
+          {
+            "label": "C",
+            "text": "Use a different program."
+          },
+          {
+            "label": "D",
+            "text": "Wait some more time."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "What does the speaker suggest that listeners do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Buy his software."
+          },
+          {
+            "label": "B",
+            "text": "Read the manual."
+          },
+          {
+            "label": "C",
+            "text": "Figure out the program by tinkering with it."
+          },
+          {
+            "label": "D",
+            "text": "Consult the competitor's manual to check for compatibility."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What problems could users face?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Their warranties could be invalidated."
+          },
+          {
+            "label": "B",
+            "text": "Their warning systems could malfunction."
+          },
+          {
+            "label": "C",
+            "text": "Their computers could shut down without warning."
+          },
+          {
+            "label": "D",
+            "text": "Their manuals could be inaccurate."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What does the speaker recommend doing with files?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Reading them."
+          },
+          {
+            "label": "B",
+            "text": "Accessing them."
+          },
+          {
+            "label": "C",
+            "text": "Deleting them."
+          },
+          {
+            "label": "D",
+            "text": "Copying them."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best response. 4. What happens when the man tries to access his e-mail? (A) The computer shuts down. (B) A warning appears on the screen. (C) He hears a beeping noise. (D) The screen turns black. 6. What does the woman suggest doing? (A) Working harder. (B) Taking the computer back to the store. (C) Calling someone to fix the computer. (D) Ignoring the problem. 5. What will the man do now? (A) Turn off the computer. (B) Get a new monitor. (C) Use a different program. (D) Wait some more time. Listen to the talk. Then read each question and choose the best answer. 7. What does the speaker suggest that listeners do? (A) Buy his software. (B) Read the manual. (C) Figure out the program by tinkering with it. (D) Consult the competitor's manual to check for compatibility. 8. What problems could users face? (A) Their warranties could be invalidated. (B) Their warning systems could malfunction. (C) Their computers could shut down without warning. (D) Their manuals could be inaccurate. 9. What does the speaker recommend doing with files? (A) Reading them. (B) Accessing them. (C) Deleting them. (D) Copying them.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What happens when the man tries to access his e-mail?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The computer shuts down."
+          },
+          {
+            "label": "B",
+            "text": "A warning appears on the screen."
+          },
+          {
+            "label": "C",
+            "text": "He hears a beeping noise."
+          },
+          {
+            "label": "D",
+            "text": "The screen turns black."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the woman suggest doing?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Working harder."
+          },
+          {
+            "label": "B",
+            "text": "Taking the computer back to the store."
+          },
+          {
+            "label": "C",
+            "text": "Calling someone to fix the computer."
+          },
+          {
+            "label": "D",
+            "text": "Ignoring the problem."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What will the man do now?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Turn off the computer."
+          },
+          {
+            "label": "B",
+            "text": "Get a new monitor."
+          },
+          {
+            "label": "C",
+            "text": "Use a different program."
+          },
+          {
+            "label": "D",
+            "text": "Wait some more time."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "What does the speaker suggest that listeners do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Buy his software."
+          },
+          {
+            "label": "B",
+            "text": "Read the manual."
+          },
+          {
+            "label": "C",
+            "text": "Figure out the program by tinkering with it."
+          },
+          {
+            "label": "D",
+            "text": "Consult the competitor's manual to check for compatibility."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What problems could users face?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Their warranties could be invalidated."
+          },
+          {
+            "label": "B",
+            "text": "Their warning systems could malfunction."
+          },
+          {
+            "label": "C",
+            "text": "Their computers could shut down without warning."
+          },
+          {
+            "label": "D",
+            "text": "Their manuals could be inaccurate."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What does the speaker recommend doing with files?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Reading them."
+          },
+          {
+            "label": "B",
+            "text": "Accessing them."
+          },
+          {
+            "label": "C",
+            "text": "Deleting them."
+          },
+          {
+            "label": "D",
+            "text": "Copying them."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "## Computers\n\nStudy the following definitions and examples.\n\n1. access n., the ability or right to enter or use; v., to obtain; to gain entry\n\na. You can't gain access to the files unless you know the password.\n\nb. We accessed the information on the company's web site.\n\n2. allocate v., to designate for a specific purpose\n\na. The office manager did not allocate enough money to purchase software.\n\nb. The software architect did not allocate enough memory for the sound card to work in your computer.\n\n3. compatible adj., able to function together\n\na. This operating system is not compatible with this model computer.\n\nb. Users of software applications want new versions to be compatible with current versions.\n\n4. delete v., to remove; to erase\n\na. The technicians deleted all the data on the disk accidentally.\n\nb. This button on the keyboard deletes the characters from the screen.\n\n5. display n., what is visible on a monitor; v., to show\n\na. The light on the LCD display is too weak.\n\nb. The accounting program displays a current balance when opened.\n\n6. duplicate v., to produce something equal; to make identical a. I think the new word processing program will duplicate the success of the one introduced last year.\n\nb. Before you leave, please duplicate that file by making a copy on the CD-ROM.\n\n7 failure n., an unsuccessful work or effort\n\na. Your failure to inform us about the changed password cost the company a day's work.\n\nb. The repeated failure of her printer baffled the technician.\n\n8. figure out v., to understand; to solve a. By examining all of the errors, the technicians figured out how to fix the problem.\n\nb. We figured out that it would take us at least ten minutes to download the file.\n\n9. ignore v., not to notice; to disregard a. When the director is working at the computer, she ignores everything around her.\n\nb. Don't ignore the technician's advice when connecting cables.\n\n10. search n., investigation; v., to look for\n\na. Our search of the database produced very little information.\n\nb. The computer searched for all names that began with $W$.\n\n11. shut down v., to turn off; to cease operations\n\na. Please shut down the computer before you leave.\n\nb. We always shut down the air conditioning system on the weekend.\n\n12 warning n., an alert to danger or problems\n\na. The red flashing light gives a warning to users that the battery is low.\n\nb. Flashing images on a web page are warnings to attract users' attention.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\naccess deleted failed search\n\nallocate\n\ndisplay\n\nfigure out\n\nshut down\n\ncompatible\n\nduplicate\n\nignore\n\nwarning\n\nWhen I try to (1) \\_\\_\\_\\_ my computer, a\n\n(2) \\_\\_\\_\\_ pops up that says \"Low Memory.\" From there,\n\nI can't (3) \\_\\_\\_\\_ what to do. The computer won't\n\nlet me (4) \\_\\_\\_\\_ any of my files, so I can't\n\n(5) \\_\\_\\_\\_ for those that I could delete. I've already\n\n(6) \\_\\_\\_\\_ all of my (7) \\_\\_\\_\\_ files, and I can't believe that my remaining files are using up so much memory. I'd be happy to (8) \\_\\_\\_\\_ the computer's warning, but I have no option, since the (9) \\_\\_\\_\\_ is frozen on this message. Do you think I've (10) \\_\\_\\_\\_ to understand something about the operations of this computer? If you can, would you please (11) \\_\\_\\_\\_ a few minutes in your busy schedule to help me solve this dilemma? As I said before, I'm sure that my software is (12) \\_\\_\\_\\_ and is not the source of this problem.",
+    "word_families": "## WORD FAMILIES\n\n| noun | access | To gain access to the computer lab, all users must have a valid ID. |\n| --- | --- | --- |\n| verb | access | Internet cafés allow you to access your web-based e-mail account. |\n| adjective | accessible | The staff assistant always keeps the door to her office open to show she is accessible. |\n\n| verb | allocate | Marla didn't allocate enough time to train the new hires on our computer systems. |\n| --- | --- | --- |\n| noun | allocation | A different allocation of resources could certainly strengthen the R&amp;D department. |\n| 〉 | allocated | The allocated money was never spent on new monitors. |\n\n|  | duplicate | If we work hard, we can duplicate last year's sales records for computers. |\n| --- | --- | --- |\n| noun | duplicate | Don't worry, I have a duplicate on my hard drive. |\n| noun | duplication | His success at our company was based on the duplication of management techniques he had used elsewhere in his career. |\n\n| noun | failure | The power failure caused the system to shut down. |\n| --- | --- | --- |\n| verb | fail | We failed to tell you that your records were deleted. |\n| adjec1 7 | fallible | Everyone can make a mistake. Even a computer is fallible. |\n\n<table><tr><td rowspan=\"3\">_ noun &amp; .</td><td>ignore</td><td>Unfortunately, she ignored the warning about the virus.</td></tr><tr><td>ignorance</td><td>His ignorance of this word processing program surprised everyone.</td></tr><tr><td>ignored</td><td>The ignored computer glitch caused the database to function improperly.</td></tr></table>\n\n| , -b | warn | We were warned that our e-mail was not private. |\n| --- | --- | --- |\n| noun | warning | The warning was written on the box. |\n| ) | warning | The warning signs were all there; we should have paid attention to them. |",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best response.\n\n4. What happens when the man tries to access his e-mail?\n(A) The computer shuts down.\n(B) A warning appears on the screen.\n(C) He hears a beeping noise.\n(D) The screen turns black.\n\n6. What does the woman suggest doing?\n(A) Working harder.\n(B) Taking the computer back to the store.\n(C) Calling someone to fix the computer.\n(D) Ignoring the problem.\n\n5. What will the man do now?\n(A) Turn off the computer.\n(B) Get a new monitor.\n(C) Use a different program.\n(D) Wait some more time.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. What does the speaker suggest that listeners do?  \n(A) Buy his software.  \n(B) Read the manual.  \n(C) Figure out the program by tinkering with it.  \n(D) Consult the competitor's manual to check for compatibility.\n\n8. What problems could users face?\n(A) Their warranties could be invalidated.\n(B) Their warning systems could malfunction.\n(C) Their computers could shut down without warning.\n(D) Their manuals could be inaccurate.\n\n9. What does the speaker recommend doing with files?  \n(A) Reading them.  \n(B) Accessing them.  \n(C) Deleting them.  \n(D) Copying them.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. In order to \\_\\_\\_\\_ your e-mail messages, you must type in your password.\n(A) access (C) accessed\n(B) accessible (D) accessibility\n\n11. After reviewing the schedule, I realized we had not \\_\\_\\_\\_ enough time for the software training.\n(A) allocate (C) allocating\n(B) allocated (D) allocation\n\n12. The computer staff is responsible for making sure all system files are \\_.  \n(A) duplication (C) duplicator  \n(B) duplicated (D) duplicate\n\n13. \\_\\_\\_\\_ to examine the capabilities of the computer carefully has cost us a lot of time and money.\n(A) Fail (C) Failed\n(B) Failure (D) Fallible\n\n14. She \\_\\_\\_\\_ the warning that the hard drive was full, and consequently they were unable to save the test data.\n(A) ignore (C) ignoring\n(B) ignored (D) ignorant\n\n15. The computer will \\_\\_\\_\\_ you to save your work before quitting.\n(A) warning (C) warn\n(B) warned (D) warns\n\n## Part 6 Text Completion\n\n## Memo\n\nTo: All Office Staff  \nFrom: IT Department  \nRe: Avoiding Computer Problems\n\nWe are here to help you with any problems you may have with your computer. Please make our job easier by observing the following guidelines.\n\n\\- If you have problems seeing the \\_16\\_, check to make sure that your monitor is turned on.\n\n\\- If your computer crashes, write down any warning message that appears. We can \\_17\\_ a problem more easily if we have this information.\n\n\\- Please do not install any new software without our approval. Some software is not compatible with what is already on the computer and can cause problems.\n\n\\- Some parts of the company web site are \\_18\\_ without a password. If you need a password, please let us know and we will assign you one.\n\n16. (A) keyboard  \n(B) display  \n(C) printer  \n(D) controls\n\n18. (A) accesses\n\n(B) accessing\n\n(C) accessible\n\n(D) inaccessible\n\n17. (A) figure out  \n(B) to figure out  \n(C) will figure out  \n(D) figures out",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following note.\n\nJim,\n\nI have decided to get a new computer for my home office, and I need your advice to help me select the right one. I have allocated a certain amount of money from my budget for this. I think it is enough for a completely new system including computer, monitor, printer, and scanner. I would like to continue using the software I already use, so I need a system that is compatible with my current system and software. However, I think I should get a different brand. I have had nothing but trouble with the computer I have now. It often shuts down without warning, and sometimes I can't access my files. I haven't been able to figure out the reason for these problems, and no one has been able to fix it for me.\n\nI plan to go to some stores this Saturday and Sunday to search for my new computer. Would you be able to go with me? If not, I'll call you before the weekend to get your advice. I have a big project coming up next month, so I would like to get my new computer up and running soon. Let me know if you can help me this weekend.\n\nJanet\n\n19. What does Janet want Jim to help her with?\n(A) Finding money to buy a computer.\n(B) Accessing her files.\n(C) Choosing a new computer.\n(D) Repairing her computer.\n\n20. What does Janet plan to do this weekend?\n(A) Call Jim.\n(B) Go on a date with Jim.\n(C) Look for a new computer.\n(D) Figure out the reason for her problems.\n\n21. When will Janet's big project begin?\n(A) Saturday.\n(B) Sunday.\n(C) Before the weekend.\n(D) Next month.\n\n22. The word allocated in line 3 is closest in meaning to  \n(A) earned  \n(B) designated  \n(C) borrowed  \n(D) removed\n\n23. The word access in line 11 is closest in meaning to (A) save (B) write (C) close (D) open"
+  },
+  "needs_review": true
+}

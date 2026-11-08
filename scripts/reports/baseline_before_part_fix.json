@@ -1,0 +1,1089 @@
+{
+  "_generated_by": "scripts/reports/snapshot_baseline.py",
+  "_what": "Baseline cua public/lessons_json/ chup TRUOC khi sua parse_listening de xuat part3/part4 (task-1).",
+  "fields": [
+    "words",
+    "examples",
+    "family",
+    "bank",
+    "blanks",
+    "listening_questions",
+    "listening_instructions"
+  ],
+  "lesson_count": 50,
+  "lessons": {
+    "01": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 1276,
+      "listening_keys": [
+        "instructions",
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 6,
+      "question_numbers": [
+        4,
+        6,
+        5,
+        7,
+        8,
+        9
+      ],
+      "words": 12
+    },
+    "02": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "03": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 1410,
+      "listening_keys": [
+        "instructions",
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 6,
+      "question_numbers": [
+        4,
+        6,
+        5,
+        7,
+        9,
+        8
+      ],
+      "words": 12
+    },
+    "04": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "05": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "06": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "07": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "08": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "09": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "10": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 1177,
+      "listening_keys": [
+        "instructions",
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 6,
+      "question_numbers": [
+        4,
+        6,
+        5,
+        7,
+        8,
+        9
+      ],
+      "words": 12
+    },
+    "11": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 1186,
+      "listening_keys": [
+        "instructions",
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 6,
+      "question_numbers": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "words": 12
+    },
+    "12": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "13": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "14": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "15": {
+      "bank": 14,
+      "blanks": 12,
+      "examples": 22,
+      "family": 15,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 11
+    },
+    "16": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "17": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 7,
+      "listening_keys": [
+        "instructions",
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "18": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "19": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 1179,
+      "listening_keys": [
+        "instructions",
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 6,
+      "question_numbers": [
+        4,
+        6,
+        5,
+        7,
+        8,
+        9
+      ],
+      "words": 12
+    },
+    "20": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 23,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "21": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 17,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "22": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 17,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 1305,
+      "listening_keys": [
+        "instructions",
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 6,
+      "question_numbers": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "words": 12
+    },
+    "23": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 1399,
+      "listening_keys": [
+        "instructions",
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 6,
+      "question_numbers": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "words": 12
+    },
+    "24": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 16,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "25": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "26": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 1365,
+      "listening_keys": [
+        "instructions",
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 6,
+      "question_numbers": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "words": 12
+    },
+    "27": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 15,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 1224,
+      "listening_keys": [
+        "instructions",
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 6,
+      "question_numbers": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "words": 12
+    },
+    "28": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "29": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "30": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "31": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 15,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "32": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "33": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 17,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 1157,
+      "listening_keys": [
+        "instructions",
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 6,
+      "question_numbers": [
+        4,
+        6,
+        5,
+        7,
+        8,
+        9
+      ],
+      "words": 12
+    },
+    "34": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "35": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "36": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 17,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "37": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 17,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 1310,
+      "listening_keys": [
+        "instructions",
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 6,
+      "question_numbers": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "words": 12
+    },
+    "38": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "39": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 17,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "40": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "41": {
+      "bank": 12,
+      "blanks": 10,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "42": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "43": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "44": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "45": {
+      "bank": 12,
+      "blanks": 11,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "46": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "47": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    },
+    "48": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 1467,
+      "listening_keys": [
+        "instructions",
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 6,
+      "question_numbers": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "words": 12
+    },
+    "49": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 1155,
+      "listening_keys": [
+        "instructions",
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 6,
+      "question_numbers": [
+        4,
+        6,
+        5,
+        7,
+        8,
+        9
+      ],
+      "words": 12
+    },
+    "50": {
+      "bank": 12,
+      "blanks": 12,
+      "examples": 24,
+      "family": 18,
+      "has_part3_key": true,
+      "has_part4_key": true,
+      "listening_instructions": 0,
+      "listening_keys": [
+        "part3",
+        "part4",
+        "parts",
+        "questions",
+        "tapescript"
+      ],
+      "listening_questions": 0,
+      "question_numbers": [],
+      "words": 12
+    }
+  },
+  "lessons_with_listening_text": [
+    "01",
+    "03",
+    "10",
+    "11",
+    "19",
+    "22",
+    "23",
+    "26",
+    "27",
+    "33",
+    "37",
+    "48",
+    "49"
+  ],
+  "lessons_with_listening_text_count": 13,
+  "missing_lessons": [],
+  "source_dir": "public/lessons_json"
+}

@@ -1,0 +1,1602 @@
+{
+  "lesson_id": 20,
+  "title": "Inventory",
+  "theme_name": "Purchasing",
+  "audio_track": "track_20.mp3",
+  "part1_photo": "part1_photos/lesson_20.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "adjustment",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "a change in order to match",
+      "definition_vi": "sự điều chỉnh, sự chỉnh sửa cho khớp",
+      "examples": [
+        {
+          "en": "With these adjustments to the numbers of screws and nuts, we are close to having an accurate count.",
+          "vi": "Với những sự điều chỉnh này đối với số lượng ốc vít và đai ốc, chúng ta đã tiến gần đến việc có một con số kiểm đếm chính xác."
+        },
+        {
+          "en": "An adjustment to the number of damaged items would help us align our figures.",
+          "vi": "Việc điều chỉnh số lượng các mặt hàng bị hư hỏng sẽ giúp chúng ta cân đối khớp các con số."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "adjust",
+          "example": "After you&#x27;ve verified the quantities in the stockroom, I&#x27;ll adjust the numbers in the computer."
+        },
+        {
+          "pos": "noun",
+          "word": "adjustment",
+          "example": "While the adjustments are being made to the computer inventory, the computer will be off-line and unavailable for use."
+        },
+        {
+          "pos": "adjective",
+          "word": "adjustable",
+          "example": "The height of the shelves is adjustable, which makes it easier to reach and count the merchandise."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "make an adjustment",
+        "price adjustment",
+        "inventory adjustment",
+        "minor adjustment"
+      ],
+      "usage": {
+        "structures": [
+          "make an adjustment to + N (thực hiện điều chỉnh đối với cái gì)",
+          "adjust to + N/V-ing (thích nghi với cái gì)"
+        ],
+        "prepositions": [
+          "to",
+          "for"
+        ],
+        "collocations": [
+          "cost-of-living adjustment",
+          "seasonal adjustment",
+          "adjustable height",
+          "adjust the figures"
+        ],
+        "tip": "Danh từ 'adjustment' luôn đi với giới từ 'to' (an adjustment to the invoice/inventory), còn tính từ 'adjustable' (có thể điều chỉnh được) rất hay dùng cho bàn ghế, kệ hàng."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "adjusted",
+          "example": "Please review the adjusted totals on the final inventory sheet.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The ergonomic office chair features _____ armrests and lumbar support.",
+        "answer": "adjustable",
+        "base_word": "adjustment",
+        "pos_hint": "tính từ",
+        "vi": "Chiếc ghế văn phòng công thái học có tay vịn và phần tựa lưng có thể điều chỉnh được."
+      }
+    },
+    {
+      "id": 2,
+      "word": "automatically",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "independently, without outside prompting",
+      "definition_vi": "một cách tự động",
+      "examples": [
+        {
+          "en": "The program automatically sends an e-mail response to all messages while she's out of town. verify run : 1",
+          "vi": "Chương trình sẽ tự động gửi thư điện tử phản hồi cho tất cả các tin nhắn trong thời gian cô ấy đi công tác xa."
+        },
+        {
+          "en": "The door opens automatically.",
+          "vi": "Cánh cửa mở ra một cách tự động."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "automation",
+          "example": "Computers have brought a heightened level of automation into the retail industry."
+        },
+        {
+          "pos": "",
+          "word": "automatic",
+          "example": "The automatic updating of the inventory is convenient, but always a day behind."
+        },
+        {
+          "pos": "",
+          "word": "automatically",
+          "example": "After every cash register transaction, the computer automatically updates the inventory record."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "automatically generated",
+        "automatically updated",
+        "automatically deducted",
+        "automatically renew"
+      ],
+      "usage": {
+        "structures": [
+          "automatically + V / be + automatically + V3/ed (tự động làm gì / được tự động làm gì)"
+        ],
+        "prepositions": [],
+        "collocations": [
+          "shut off automatically",
+          "automatically enrolled",
+          "office automation",
+          "automatic renewal"
+        ],
+        "tip": "Trạng từ cực kỳ phổ biến trong TOEIC Part 5, thường đứng giữa 'be' và quá khứ phân từ (is automatically deducted/updated/renewed)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "automate",
+          "example": "The warehouse plans to automate its sorting and packing operations.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "automated",
+          "example": "Customers receive an automated confirmation call the day before delivery.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Your annual magazine subscription will renew _____ unless you cancel it before the billing date.",
+        "answer": "automatically",
+        "base_word": "automatically",
+        "pos_hint": "trạng từ",
+        "vi": "Gói đăng ký tạp chí hàng năm của bạn sẽ tự động gia hạn trừ khi bạn hủy trước ngày lập hóa đơn."
+      }
+    },
+    {
+      "id": 3,
+      "word": "crucial",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "extremely significant or important",
+      "definition_vi": "cốt yếu, tối quan trọng, mang tính quyết định",
+      "examples": [
+        {
+          "en": "Knowing how many products we have in stock is crucial to our shipping procedures.",
+          "vi": "Việc nắm được chúng ta có bao nhiêu sản phẩm trong kho là điều tối quan trọng đối với quy trình vận chuyển của chúng ta."
+        },
+        {
+          "en": "Inventory is a crucial process and must be taken seriously by all staff.",
+          "vi": "Kiểm kê hàng tồn kho là một quy trình cốt yếu và phải được toàn thể nhân viên thực hiện nghiêm túc."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "crucial role",
+        "crucial to success",
+        "crucial factor",
+        "at a crucial stage"
+      ],
+      "usage": {
+        "structures": [
+          "be crucial to/for + N (tối quan trọng đối với cái gì)",
+          "It is crucial that + S + (should) + V-inf (Điều cốt yếu là...)"
+        ],
+        "prepositions": [
+          "to",
+          "for"
+        ],
+        "collocations": [
+          "play a crucial part",
+          "crucial decision",
+          "crucial information",
+          "crucial importance"
+        ],
+        "tip": "Đồng nghĩa với 'vital, essential, critical, imperative'; đi với giới từ 'to' hoặc 'for' và cũng dùng trong cấu trúc giả định (It is crucial that...)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "cruciality",
+          "example": "The director emphasized the cruciality of accurate stock counts.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "crucial",
+          "example": "Timely delivery of raw materials is crucial to our production schedule.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "crucially",
+          "example": "Crucially, the new barcode system can operate even without an internet connection.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Accurate inventory tracking plays a _____ role in preventing stockouts during peak season.",
+        "answer": "crucial",
+        "base_word": "crucial",
+        "pos_hint": "tính từ",
+        "vi": "Việc theo dõi hàng tồn kho chính xác đóng vai trò tối quan trọng trong việc ngăn chặn tình trạng hết hàng vào mùa cao điểm."
+      }
+    },
+    {
+      "id": 4,
+      "word": "discrepancy",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "a divergence or disagreement",
+      "definition_vi": "sự chênh lệch, sự khác biệt, sự không nhất quán (giữa các con số/báo cáo)",
+      "examples": [
+        {
+          "en": "We easily explained the discrepancy between the two counts.",
+          "vi": "Chúng tôi đã dễ dàng giải thích được sự chênh lệch giữa hai lần kiểm đếm."
+        },
+        {
+          "en": "Unless you catch the error immediately, the discrepancy gets entered into the computer and becomes very difficult to correct.",
+          "vi": "Trừ khi bạn phát hiện ra lỗi ngay lập tức, sự chênh lệch đó sẽ được nhập vào máy tính và trở nên rất khó sửa."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "discrepancy between",
+        "discrepancy in the figures",
+        "resolve a discrepancy",
+        "inventory discrepancy"
+      ],
+      "usage": {
+        "structures": [
+          "a discrepancy between + A and B (sự chênh lệch giữa A và B)",
+          "a discrepancy in + N (sự sai lệch trong bảng số liệu/tài khoản)"
+        ],
+        "prepositions": [
+          "between",
+          "in"
+        ],
+        "collocations": [
+          "minor discrepancy",
+          "investigate a discrepancy",
+          "explain the discrepancy",
+          "financial discrepancies"
+        ],
+        "tip": "Từ vựng TOEIC cấp độ 700+: luôn dùng để chỉ sự không khớp nhau giữa 2 con số, 2 bản kiểm kê hoặc hóa đơn với thực tế; đi kèm giới từ 'between' hoặc 'in'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "discrepancy",
+          "example": "The auditor found a discrepancy between the physical count and the digital log.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "discrepancies",
+          "example": "Any billing discrepancies must be reported within fourteen days of receipt.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "discrepant",
+          "example": "The two warehouses reported discrepant inventory figures for the same item.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The bookkeeper stayed late to reconcile several _____ between the bank statement and the ledger.",
+        "answer": "discrepancies",
+        "base_word": "discrepancy",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Nhân viên kế toán đã ở lại muộn để đối chiếu một số khoản chênh lệch giữa sao kê ngân hàng và sổ cái."
+      }
+    },
+    {
+      "id": 5,
+      "word": "disturb",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "to interfere with; to interrupt",
+      "definition_vi": "làm phiền, quấy rầy; làm xáo trộn",
+      "examples": [
+        {
+          "en": "Let's see how many products we can count in advance of inventory so we disturb fewer customers.",
+          "vi": "Hãy xem chúng ta có thể đếm trước được bao nhiêu sản phẩm trước kỳ kiểm kê để làm phiền ít khách hàng hơn."
+        },
+        {
+          "en": "I hope I'm not disturbing you, but I need to ask you to move so I can record the products behind you.",
+          "vi": "Tôi hy vọng mình không làm phiền bạn, nhưng tôi cần nhờ bạn dịch chuyển một chút để tôi có thể ghi chép các sản phẩm phía sau bạn."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "disturb",
+          "example": "Count as many of the items on the salesroom floor as you can without disturbing the customers."
+        },
+        {
+          "pos": "",
+          "word": "disturbance",
+          "example": "After considering all the options, Ellen decided that closing the store a day to do the annual inventory would cause the least amount of disturbance for customers."
+        },
+        {
+          "pos": "",
+          "word": "disturbingly",
+          "example": "The computer count and the physical count were disturbingly incongruous, which distressed the store manager."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "do not disturb",
+        "disturb customers",
+        "sorry to disturb you",
+        "cause a disturbance"
+      ],
+      "usage": {
+        "structures": [
+          "without disturbing + O (mà không làm phiền đến ai)",
+          "cause a disturbance (gây ra sự xáo trộn/ồn ào)"
+        ],
+        "prepositions": [
+          "by"
+        ],
+        "collocations": [
+          "disturb the peace",
+          "disturbing trend",
+          "minimal disturbance",
+          "undisturbed"
+        ],
+        "tip": "Phân biệt: 'disturbance' (danh từ: sự xáo trộn/phiền phức), 'disturbed' (tính từ: bị làm phiền/lo lắng), và 'disturbing' (tính từ: đáng lo ngại, VD: a disturbing report)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "disturbing",
+          "example": "The audit revealed a disturbing rise in unexplained inventory losses.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Renovation work will be carried out at night to cause the least possible _____ to hotel guests.",
+        "answer": "disturbance",
+        "base_word": "disturb",
+        "pos_hint": "danh từ",
+        "vi": "Công việc cải tạo sẽ được thực hiện vào ban đêm để gây ra ít sự phiền hà nhất có thể cho khách nghỉ tại khách sạn."
+      }
+    },
+    {
+      "id": 6,
+      "word": "liability",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "an obligation; a responsibility",
+      "definition_vi": "trách nhiệm pháp lý; khoản nợ phải trả; mối bất lợi/gánh nặng",
+      "examples": [
+        {
+          "en": "The store's insured liability protects against theft and damaged inventory.",
+          "vi": "Bảo hiểm trách nhiệm pháp lý của cửa hàng giúp bảo vệ trước tình trạng trộm cắp và hàng tồn kho bị hư hại."
+        },
+        {
+          "en": "The slippery steps were a terrible liability for the store.",
+          "vi": "Những bậc cầu thang trơn trượt là một mối nguy trách nhiệm khủng khiếp đối với cửa hàng."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "liability insurance",
+        "accept liability",
+        "assets and liabilities",
+        "limited liability company"
+      ],
+      "usage": {
+        "structures": [
+          "liability for + N (trách nhiệm pháp lý đối với cái gì)",
+          "assets and liabilities (tài sản và nợ phải trả)"
+        ],
+        "prepositions": [
+          "for",
+          "to"
+        ],
+        "collocations": [
+          "assume liability",
+          "legal liability",
+          "tax liability",
+          "financial liabilities"
+        ],
+        "tip": "Trong kế toán TOEIC, số nhiều 'liabilities' là 'các khoản nợ phải trả' (trái nghĩa với 'assets' = tài sản); còn tính từ 'liable for/to' nghĩa là 'chịu trách nhiệm pháp lý / có nguy cơ bị'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "liability",
+          "example": "The shipping company disclaims all liability for unrecorded cash items.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "liable",
+          "example": "Tenants will be held liable for any damage caused to the property.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "liably",
+          "example": "Any contractor acting liably in breach of safety codes will be fined.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The parking garage management is not _____ for personal belongings left inside unattended vehicles.",
+        "answer": "liable",
+        "base_word": "liability",
+        "pos_hint": "tính từ (chịu trách nhiệm pháp lý)",
+        "vi": "Ban quản lý nhà để xe không chịu trách nhiệm pháp lý đối với đồ đạc cá nhân để lại bên trong các phương tiện không có người trông coi."
+      }
+    },
+    {
+      "id": 7,
+      "word": "reflection",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a likeness, an image",
+      "definition_vi": "hình ảnh phản chiếu; sự phản ánh; sự suy ngẫm",
+      "examples": [
+        {
+          "en": "She saw her reflection in the mirror.",
+          "vi": "Cô ấy nhìn thấy hình ảnh phản chiếu của mình trong gương."
+        },
+        {
+          "en": "The reflection in the glass made it hard for her to distinguish how many were on the shelf.",
+          "vi": "Ánh phản chiếu trên mặt kính khiến cô khó phân biệt được có bao nhiêu món đồ trên kệ."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "reflect",
+          "example": "The numbers in the computer log should accurately reflect the actual numbers available on the shelf or in the warehouse."
+        },
+        {
+          "pos": "noun",
+          "word": "reflection",
+          "example": "Upon reflection, the supply clerk decided that there was an error in the inventory."
+        },
+        {
+          "pos": "noun",
+          "word": "reflector",
+          "example": "Reflectors were attached to the corners of the shelves to alert the clerks that the shelf edges were sharp."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "a reflection of",
+        "upon reflection",
+        "accurate reflection",
+        "reflect on"
+      ],
+      "usage": {
+        "structures": [
+          "be a reflection of + N (là sự phản ánh của cái gì)",
+          "upon/on reflection (sau khi suy nghĩ/cân nhắc kỹ)",
+          "reflect + O (phản ánh chính xác số liệu/thực trạng)"
+        ],
+        "prepositions": [
+          "of",
+          "on",
+          "upon"
+        ],
+        "collocations": [
+          "reflect positively on",
+          "careful reflection",
+          "reflective vest",
+          "reflect changes"
+        ],
+        "tip": "Động từ 'reflect' xuất hiện rất nhiều trong ngữ cảnh hóa đơn và kiểm kê: 'The updated invoice reflects the 10% discount' (Hóa đơn cập nhật đã phản ánh khoản giảm giá 10%)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "reflective",
+          "example": "Warehouse workers must wear reflective safety vests on the loading dock.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Your monthly account statement may not yet _____ payments made within the last forty-eight hours.",
+        "answer": "reflect",
+        "base_word": "reflection",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Bản sao kê tài khoản hàng tháng của quý khách có thể chưa phản ánh các khoản thanh toán được thực hiện trong vòng bốn mươi tám giờ qua."
+      }
+    },
+    {
+      "id": 8,
+      "word": "run",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "to operate",
+      "definition_vi": "(v) vận hành (máy móc), điều hành (doanh nghiệp), chạy (kiểm kê/chương trình); (n) đợt chạy",
+      "examples": [
+        {
+          "en": "As long as the computer is running, you can keep adding new data.",
+          "vi": "Chừng nào máy tính còn đang chạy, bạn có thể tiếp tục thêm dữ liệu mới."
+        },
+        {
+          "en": "We'll be running inventory next weekend, so don't make any other plans.",
+          "vi": "Chúng ta sẽ tiến hành chạy kiểm kê kho vào cuối tuần tới, vì vậy đừng lên bất kỳ kế hoạch nào khác."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "run a business",
+        "run inventory",
+        "run out of stock",
+        "in the long run"
+      ],
+      "usage": {
+        "structures": [
+          "run + a business/company/department (điều hành doanh nghiệp/phòng ban)",
+          "run + a machine/test/check/inventory (vận hành máy / chạy kiểm tra / kiểm kê)",
+          "run low on / run out of + N (sắp cạn / hết sạch cái gì)"
+        ],
+        "prepositions": [
+          "out of",
+          "on",
+          "in"
+        ],
+        "collocations": [
+          "run smoothly",
+          "run short of supplies",
+          "trial run",
+          "production run"
+        ],
+        "tip": "Trong chủ đề Inventory, nhớ kỹ 2 cụm 'run low on supplies' (sắp hết vật tư) và 'run out of stock' (hết sạch hàng trong kho)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "run",
+          "example": "She has been running the regional distribution center for five years.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "run",
+          "example": "The factory completed a test run of five hundred units.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "running",
+          "example": "The software maintains a running total of all items sold each day.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Please place an order for toner cartridges whenever the supply room _____ low.",
+        "answer": "runs",
+        "base_word": "run",
+        "pos_hint": "động từ chia hiện tại đơn ngôi thứ 3 số ít",
+        "vi": "Vui lòng đặt hàng hộp mực máy in bất cứ khi nào phòng vật tư sắp cạn."
+      }
+    },
+    {
+      "id": 9,
+      "word": "scan",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to look over quickly",
+      "definition_vi": "(v) quét (mã vạch, tài liệu); đọc lướt nhanh; (n) sự quét",
+      "examples": [
+        {
+          "en": "The computer's optical disk scanned in the price and ordering information.",
+          "vi": "Đĩa quang của máy tính đã quét thông tin về giá cả và đặt hàng vào hệ thống."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "scan",
+          "example": "Scan the aisles and see if you find the missing carton."
+        },
+        {
+          "pos": "",
+          "word": "scanner",
+          "example": "We will install a scanner at two of the computer terminals."
+        },
+        {
+          "pos": "",
+          "word": "scanned",
+          "example": "These scanned documents need to be returned to their original owners."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "scan a barcode",
+        "scan a document",
+        "scan the list",
+        "optical scanner"
+      ],
+      "usage": {
+        "structures": [
+          "scan + a barcode/label/document (quét mã vạch/nhãn/tài liệu)",
+          "scan + a page/list (đọc lướt nhanh qua trang giấy/danh sách)"
+        ],
+        "prepositions": [
+          "into",
+          "for"
+        ],
+        "collocations": [
+          "handheld barcode scanner",
+          "scan items at checkout",
+          "scanned copy",
+          "quick scan"
+        ],
+        "tip": "Danh từ có đuôi -er là 'scanner' (máy quét mã vạch/tài liệu - thiết bị vật lý), không phải người."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "scanning",
+          "example": "High-speed barcode scanning has reduced warehouse check-in times.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Each warehouse clerk is equipped with a handheld wireless _____ to record stock levels.",
+        "answer": "scanner",
+        "base_word": "scan",
+        "pos_hint": "danh từ chỉ thiết bị máy quét",
+        "vi": "Mỗi nhân viên kho được trang bị một máy quét không dây cầm tay để ghi lại mức tồn kho."
+      }
+    },
+    {
+      "id": 10,
+      "word": "subtract",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to take away; to deduct",
+      "definition_vi": "trừ đi, khấu trừ",
+      "examples": [
+        {
+          "en": "Once you ring up an item, the computer automatically subtracts it from the inventory log.",
+          "vi": "Ngay khi bạn tính tiền một món hàng trên máy, máy tính sẽ tự động trừ món hàng đó khỏi nhật ký tồn kho."
+        },
+        {
+          "en": "Whoever did the inventory forgot to subtract the items that arrived damaged and were never put into the stockroom.",
+          "vi": "Bất cứ ai làm việc kiểm kê đã quên trừ đi những mặt hàng bị hư hỏng khi mới giao đến và chưa bao giờ được đưa vào kho."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "subtract",
+          "example": "Subtract 50 from the total—I just found an unusable box."
+        },
+        {
+          "pos": "",
+          "word": "subtraction",
+          "example": "If you feel confident doing basic addition and subtraction in your head, you don&#x27;t have to carry the calculator with you."
+        },
+        {
+          "pos": "",
+          "word": "subtracted",
+          "example": "These subtracted figures don&#x27;t add up to the total that was supposed to be subtracted."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "subtract from the total",
+        "subtract damaged items",
+        "addition and subtraction",
+        "automatically subtract"
+      ],
+      "usage": {
+        "structures": [
+          "subtract + A + from + B (trừ A khỏi B)"
+        ],
+        "prepositions": [
+          "from"
+        ],
+        "collocations": [
+          "subtract expenses from revenue",
+          "subtract the discount",
+          "subtract returned goods",
+          "basic subtraction"
+        ],
+        "tip": "Luôn đi kèm giới từ 'from' (subtract A FROM B = trừ A ra khỏi tổng B), đồng nghĩa với 'deduct A from B'."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "subtractive",
+          "example": "The accounting module uses a subtractive method to calculate net stock.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "When calculating net profit, remember to _____ all operating expenses from gross revenue.",
+        "answer": "subtract",
+        "base_word": "subtract",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Khi tính lợi nhuận ròng, hãy nhớ trừ đi tất cả chi phí vận hành khỏi tổng doanh thu."
+      }
+    },
+    {
+      "id": 11,
+      "word": "tedious",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "tiresome by reason of length, slowness, or dullness; boring",
+      "definition_vi": "tẻ nhạt, nhàm chán, đơn điệu và mất thời gian",
+      "examples": [
+        {
+          "en": "This may be tedious work but you will be glad the inventory is accurate when you hit the busy holiday sales season.",
+          "vi": "Đây có thể là công việc tẻ nhạt nhưng bạn sẽ thấy mừng vì số liệu tồn kho chính xác khi bước vào mùa bán hàng lễ hội bận rộn."
+        },
+        {
+          "en": "Counting merchandise all weekend is the most tedious job I can imagine.",
+          "vi": "Đếm hàng hóa suốt cả dịp cuối tuần là công việc tẻ nhạt nhất mà tôi có thể tưởng tượng ra."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "tedious task",
+        "tedious process",
+        "tedious work",
+        "long and tedious"
+      ],
+      "usage": {
+        "structures": [
+          "a tedious + task/job/process/chore (một công việc/quy trình tẻ nhạt và tốn thời gian)"
+        ],
+        "prepositions": [
+          "for"
+        ],
+        "collocations": [
+          "tedious manual data entry",
+          "tedious paperwork",
+          "relieve tediousness",
+          "find the work tedious"
+        ],
+        "tip": "Thường đi kèm với 'time-consuming' hoặc 'repetitive' để mô tả các công việc thủ công nhàm chán như nhập liệu, kiểm đếm kho."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "tedium",
+          "example": "Barcode scanners have eliminated much of the tedium of annual stocktaking.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "tediousness",
+          "example": "Despite the tediousness of the audit, the clerks checked every single box.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "tedious",
+          "example": "Entering thousands of serial numbers by hand is a tedious task.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "tediously",
+          "example": "Before the software upgrade, invoices had to be tediously cross-checked by hand.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The new optical recognition software automates the _____ process of entering receipt data manually.",
+        "answer": "tedious",
+        "base_word": "tedious",
+        "pos_hint": "tính từ",
+        "vi": "Phần mềm nhận dạng quang học mới giúp tự động hóa quy trình nhập dữ liệu biên lai thủ công vốn rất tẻ nhạt."
+      }
+    },
+    {
+      "id": 12,
+      "word": "verify",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "to prove the truth of",
+      "definition_vi": "xác minh, kiểm chứng, đối chiếu cho chuẩn xác",
+      "examples": [
+        {
+          "en": "I can't verify the accuracy of these numbers, since I was not present for inventory weekend.",
+          "vi": "Tôi không thể xác minh độ chính xác của những con số này vì tôi đã không có mặt vào dịp cuối tuần kiểm kê kho."
+        },
+        {
+          "en": "The inventory process verifies that you have accounted for all the items that are supposed to be in the store.",
+          "vi": "Quy trình kiểm kê giúp xác minh rằng bạn đã kiểm đếm đầy đủ tất cả các mặt hàng lẽ ra phải có trong cửa hàng."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "verify the accuracy",
+        "verify information",
+        "verify shipments",
+        "identity verification"
+      ],
+      "usage": {
+        "structures": [
+          "verify + N (accuracy/figures/identity/receipt) (xác minh độ chính xác/số liệu/danh tính)",
+          "verify that + S + V (xác minh rằng...)"
+        ],
+        "prepositions": [
+          "with",
+          "by"
+        ],
+        "collocations": [
+          "verify the contents of a package",
+          "independently verified",
+          "verification code",
+          "easily verifiable"
+        ],
+        "tip": "Từ vựng cực kỳ quan trọng trong TOEIC; chú ý danh từ 'verification' (sự xác minh: require verification) và tính từ 'verifiable' (có thể kiểm chứng được)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "verify",
+          "example": "Please verify the quantity of items received before signing the delivery slip.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "verification",
+          "example": "For security verification, please enter the six-digit code sent to your phone.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "verifiable",
+          "example": "All expense claims must be supported by verifiable receipts.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "verified",
+          "example": "Only verified vendors are permitted to bid on municipal supply contracts.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Upon _____ of your employment history, the human resources office will issue a formal contract.",
+        "answer": "verification",
+        "base_word": "verify",
+        "pos_hint": "danh từ",
+        "vi": "Sau khi xác minh lịch sử làm việc của bạn, phòng nhân sự sẽ phát hành hợp đồng chính thức."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "In a retail business, inventory has multiple meanings. Inventory means all the goods that a company has on hand or available to it in a warehouse. Inventory also means the process by which the business (1) ____ the number of goods. An accurate account of the inventory available is (2) ____. The amount of stock is a (3) ____ because it is already owned by the business. Taking an inventory is a physical count of the inventory holdings. Today, almost every business keeps a (4) ____ inventory count by having its sales records tied by computer to its inventory. When a customer makes a purchase, the computer system tied to the register (5) ____ the purchase from the inventory records. If a customer makes a return or an exchange, the inventory numbers will be (6) ____ by the computer (7) ____. That's often why (8) ____ the bar code is so important in stores. If merchandise is broken or damaged in the stockroom or on the sales floor, the manager will ask the sales and stock help to change the stock holdings to (9) ____ the loss. As good as the computer records may be, they are just an estimate. At least once a year, most businesses do an actual physical count of the inventory. This process can be (10) ____ but it is necessary as there are always (11) ____ between what the computer says you own and what your physical count says. Often stores close for a day, or at least close early, so that staff can perform the inventory without (12) ____.",
+    "word_bank": [
+      "adjusted",
+      "discrepancies",
+      "reflect",
+      "subtracts",
+      "automatically",
+      "disturbances",
+      "running",
+      "tedious",
+      "crucial",
+      "liability",
+      "scanning",
+      "verifies"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "adjust",
+        "example": "After you&#x27;ve verified the quantities in the stockroom, I&#x27;ll adjust the numbers in the computer.",
+        "pos": "verb"
+      },
+      {
+        "word": "adjustment",
+        "example": "While the adjustments are being made to the computer inventory, the computer will be off-line and unavailable for use.",
+        "pos": "noun"
+      },
+      {
+        "word": "adjustable",
+        "example": "The height of the shelves is adjustable, which makes it easier to reach and count the merchandise.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "automation",
+        "example": "Computers have brought a heightened level of automation into the retail industry.",
+        "pos": "noun"
+      },
+      {
+        "word": "automatic",
+        "example": "The automatic updating of the inventory is convenient, but always a day behind.",
+        "pos": ""
+      },
+      {
+        "word": "automatically",
+        "example": "After every cash register transaction, the computer automatically updates the inventory record.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "disturb",
+        "example": "Count as many of the items on the salesroom floor as you can without disturbing the customers.",
+        "pos": "verb"
+      },
+      {
+        "word": "disturbance",
+        "example": "After considering all the options, Ellen decided that closing the store a day to do the annual inventory would cause the least amount of disturbance for customers.",
+        "pos": ""
+      },
+      {
+        "word": "disturbingly",
+        "example": "The computer count and the physical count were disturbingly incongruous, which distressed the store manager.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "reflect",
+        "example": "The numbers in the computer log should accurately reflect the actual numbers available on the shelf or in the warehouse.",
+        "pos": ""
+      },
+      {
+        "word": "reflection",
+        "example": "Upon reflection, the supply clerk decided that there was an error in the inventory.",
+        "pos": "noun"
+      },
+      {
+        "word": "reflector",
+        "example": "Reflectors were attached to the corners of the shelves to alert the clerks that the shelf edges were sharp.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "scan",
+        "example": "Scan the aisles and see if you find the missing carton.",
+        "pos": ""
+      },
+      {
+        "word": "scanner",
+        "example": "We will install a scanner at two of the computer terminals.",
+        "pos": ""
+      },
+      {
+        "word": "scanned",
+        "example": "These scanned documents need to be returned to their original owners.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "subtract",
+        "example": "Subtract 50 from the total—I just found an unusable box.",
+        "pos": ""
+      },
+      {
+        "word": "subtraction",
+        "example": "If you feel confident doing basic addition and subtraction in your head, you don&#x27;t have to carry the calculator with you.",
+        "pos": ""
+      },
+      {
+        "word": "subtracted",
+        "example": "These subtracted figures don&#x27;t add up to the total that was supposed to be subtracted.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "The computer's inventory figures will be considered inaccurate until the store manager enters the data from the physical count and ____ the figures.",
+        "options": [
+          {
+            "label": "A",
+            "text": "adjustment"
+          },
+          {
+            "label": "B",
+            "text": "adjusts"
+          },
+          {
+            "label": "C",
+            "text": "adjustable"
+          },
+          {
+            "label": "D",
+            "text": "adjusted"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "Inventory control cannot be performed ____, but must be done by physically counting the merchandise.",
+        "options": [
+          {
+            "label": "A",
+            "text": "automatically"
+          },
+          {
+            "label": "B",
+            "text": "automatic"
+          },
+          {
+            "label": "C",
+            "text": "automation"
+          },
+          {
+            "label": "D",
+            "text": "automated"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "Do not ____ the staff when they are counting the items; they need to concentrate.",
+        "options": [
+          {
+            "label": "A",
+            "text": "disturb"
+          },
+          {
+            "label": "B",
+            "text": "disturbance"
+          },
+          {
+            "label": "C",
+            "text": "disturbing"
+          },
+          {
+            "label": "D",
+            "text": "disturbingly"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "Having an accurate inventory count is a good ____ on a competent store manager.",
+        "options": [
+          {
+            "label": "A",
+            "text": "reflectively"
+          },
+          {
+            "label": "B",
+            "text": "reflective"
+          },
+          {
+            "label": "C",
+            "text": "reflect"
+          },
+          {
+            "label": "D",
+            "text": "reflection"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "In order to scan the bar code, you need to sweep the bar code directly in front of the ____.",
+        "options": [
+          {
+            "label": "A",
+            "text": "scan"
+          },
+          {
+            "label": "B",
+            "text": "scanned"
+          },
+          {
+            "label": "C",
+            "text": "scanning"
+          },
+          {
+            "label": "D",
+            "text": "scanner"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "If we ____ the damaged merchandise from the inventory, our figures will accurately reflect what we have on hand.",
+        "options": [
+          {
+            "label": "A",
+            "text": "subtract"
+          },
+          {
+            "label": "B",
+            "text": "subtracting"
+          },
+          {
+            "label": "C",
+            "text": "subtracted"
+          },
+          {
+            "label": "D",
+            "text": "subtraction"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Notice Our new cash registers will be installed over the weekend so that we can start using them next week. The main reason we have bought these new machines is that they will make it easier to keep track of our inventory. When you [16] customer's purchase into the machine, it will automatically record the purchase in the inventory files of our computer. This will help us track sales and reorder items promptly. It will save us the [17] work of manually entering data into the computer and ensure that our numbers are accurate. All staff members are required to attend a training session on Friday afternoon during which you will learn how [18] the new cash registers. See you there.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "scan"
+            },
+            {
+              "label": "B",
+              "text": "will scan"
+            },
+            {
+              "label": "C",
+              "text": "scanned"
+            },
+            {
+              "label": "D",
+              "text": "are going to scan"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "tedious"
+            },
+            {
+              "label": "B",
+              "text": "tedium"
+            },
+            {
+              "label": "C",
+              "text": "tenacity"
+            },
+            {
+              "label": "D",
+              "text": "tenacious"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "running"
+            },
+            {
+              "label": "B",
+              "text": "to run"
+            },
+            {
+              "label": "C",
+              "text": "runs"
+            },
+            {
+              "label": "D",
+              "text": "run"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following memo. To: All store staff From: Bill Jones, manager Re: Next week This is a reminder that we will be closing the store for two days at the end of next week, Friday and Saturday, for inventory. This is a long and tedious job, and we will need the assistance of each and every one of you to get it done. Therefore, no vacation days will be granted during that time. During the inventory process, we will verify the numbers in our computer files, clear up any discrepancies we may find, and adjust our records as necessary. We need to make sure that our records accurately reflect the stock that we actually have on hand. When you report to work on Thursday, your supervisor will give you your assignment. Some of you will be required to work in the stockroom taking a physical count, and others will be asked to work in the office entering data on the computers. We won't reopen the store until the following Tuesday since Monday is a national holiday. I hope that will give you a chance to rest up a bit after the big job. Thank you in advance for your assistance with this crucial work. 22. The word adjust in line 7 is closest in meaning to (A) enter (B) write (C) change (D) create 23. The word crucial in line 16 is closest in meaning to (A) important (B) boring (C) difficult (D) lengthy",
+        "questions": [
+          {
+            "number": 19,
+            "question": "Why will the store close next week?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Everyone will be on vacation."
+              },
+              {
+                "label": "B",
+                "text": "They need to count their stock."
+              },
+              {
+                "label": "C",
+                "text": "The staff members need a rest."
+              },
+              {
+                "label": "D",
+                "text": "There will be a computer training session."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "Who will give the assignments?",
+            "options": [
+              {
+                "label": "A",
+                "text": "The manager."
+              },
+              {
+                "label": "B",
+                "text": "The assistants."
+              },
+              {
+                "label": "C",
+                "text": "The supervisors."
+              },
+              {
+                "label": "D",
+                "text": "The record keeper."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "When will the store open again?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Monday."
+              },
+              {
+                "label": "B",
+                "text": "Tuesday."
+              },
+              {
+                "label": "C",
+                "text": "Thursday."
+              },
+              {
+                "label": "D",
+                "text": "Friday."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What information does the man want to verify?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The size of the bedspreads."
+          },
+          {
+            "label": "B",
+            "text": "The number of bedspreads on hand."
+          },
+          {
+            "label": "C",
+            "text": "The reason for the discrepancy."
+          },
+          {
+            "label": "D",
+            "text": "The number of bedspreads the customer needs."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "Where are the bedspreads?",
+        "options": [
+          {
+            "label": "A",
+            "text": "In a box."
+          },
+          {
+            "label": "B",
+            "text": "On a shelf."
+          },
+          {
+            "label": "C",
+            "text": "On the bed."
+          },
+          {
+            "label": "D",
+            "text": "In the stockroom."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "According to the computer, how many bedspreads are there?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Three."
+          },
+          {
+            "label": "B",
+            "text": "Five."
+          },
+          {
+            "label": "C",
+            "text": "Seven."
+          },
+          {
+            "label": "D",
+            "text": "Eleven."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "What happens every year in January?",
+        "options": [
+          {
+            "label": "A",
+            "text": "They adjust the file drawers."
+          },
+          {
+            "label": "B",
+            "text": "They record the audio portion."
+          },
+          {
+            "label": "C",
+            "text": "They delete unnecessary computer files."
+          },
+          {
+            "label": "D",
+            "text": "They do a physical count."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What is one problem with their work?",
+        "options": [
+          {
+            "label": "A",
+            "text": "It consumes too much time."
+          },
+          {
+            "label": "B",
+            "text": "Nobody appreciates it."
+          },
+          {
+            "label": "C",
+            "text": "The hourly rate is low."
+          },
+          {
+            "label": "D",
+            "text": "It's boring."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "How many days does it take to complete the work?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Two."
+          },
+          {
+            "label": "B",
+            "text": "Three."
+          },
+          {
+            "label": "C",
+            "text": "Four."
+          },
+          {
+            "label": "D",
+            "text": "Eight."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best response. 4. What information does the man want to verify? (A) The size of the bedspreads. (B) The number of bedspreads on hand. (C) The reason for the discrepancy. (D) The number of bedspreads the customer needs. 6. Where are the bedspreads? (A) In a box. (B) On a shelf. (C) On the bed. (D) In the stockroom. 5. According to the computer, how many bedspreads are there? (A) Three. (B) Five. (C) Seven. (D) Eleven. Listen to the talk. Then read each question and choose the best answer. 7. What happens every year in January? (A) They adjust the file drawers. (B) They record the audio portion. (C) They delete unnecessary computer files. (D) They do a physical count. 8. What is one problem with their work? (A) It consumes too much time. (B) Nobody appreciates it. (C) The hourly rate is low. (D) It's boring. 9. How many days does it take to complete the work? (A) Two. (B) Three. (C) Four. (D) Eight.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What information does the man want to verify?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The size of the bedspreads."
+          },
+          {
+            "label": "B",
+            "text": "The number of bedspreads on hand."
+          },
+          {
+            "label": "C",
+            "text": "The reason for the discrepancy."
+          },
+          {
+            "label": "D",
+            "text": "The number of bedspreads the customer needs."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "Where are the bedspreads?",
+        "options": [
+          {
+            "label": "A",
+            "text": "In a box."
+          },
+          {
+            "label": "B",
+            "text": "On a shelf."
+          },
+          {
+            "label": "C",
+            "text": "On the bed."
+          },
+          {
+            "label": "D",
+            "text": "In the stockroom."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "According to the computer, how many bedspreads are there?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Three."
+          },
+          {
+            "label": "B",
+            "text": "Five."
+          },
+          {
+            "label": "C",
+            "text": "Seven."
+          },
+          {
+            "label": "D",
+            "text": "Eleven."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "What happens every year in January?",
+        "options": [
+          {
+            "label": "A",
+            "text": "They adjust the file drawers."
+          },
+          {
+            "label": "B",
+            "text": "They record the audio portion."
+          },
+          {
+            "label": "C",
+            "text": "They delete unnecessary computer files."
+          },
+          {
+            "label": "D",
+            "text": "They do a physical count."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What is one problem with their work?",
+        "options": [
+          {
+            "label": "A",
+            "text": "It consumes too much time."
+          },
+          {
+            "label": "B",
+            "text": "Nobody appreciates it."
+          },
+          {
+            "label": "C",
+            "text": "The hourly rate is low."
+          },
+          {
+            "label": "D",
+            "text": "It's boring."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "How many days does it take to complete the work?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Two."
+          },
+          {
+            "label": "B",
+            "text": "Three."
+          },
+          {
+            "label": "C",
+            "text": "Four."
+          },
+          {
+            "label": "D",
+            "text": "Eight."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "Lesson\n\n20\n\nJRDS\n\nTO\n\n## Inventory\n\nadjustment\n\nStudy the following definitions and examples.\n\n1. adjustment n., a change in order to match\n\na. With these adjustments to the numbers of screws and nuts, we are close to having an accurate count.\n\nb. An adjustment to the number of damaged items would help us align our figures.\n\n2. automatically adv., independently, without outside prompting\n\na. The program automatically sends an e-mail response to all messages while she's out of town.\n\nverify run : 1\n\nb. The door opens automatically.\n\n3. crucial adj., extremely significant or important a. Knowing how many products we have in stock is crucial to our shipping procedures.\n\nb. Inventory is a crucial process and must be taken seriously by all staff.\n\n4. discrepancy n., a divergence or disagreement\n\na. We easily explained the discrepancy between the two counts.\n\nb. Unless you catch the error immediately, the discrepancy gets entered into the computer and becomes very difficult to correct.\n\n5. disturb v., to interfere with; to interrupt\n\na. Let's see how many products we can count in advance of inventory so we disturb fewer customers.\n\nb. I hope I'm not disturbing you, but I need to ask you to move so I can record the products behind you.\n\n6. liability n., an obligation; a responsibility\n\na. The store's insured liability protects against theft and damaged inventory.\n\nb. The slippery steps were a terrible liability for the store.\n\n7. reflection n., a likeness, an image\n\na. She saw her reflection in the mirror.\n\nb. The reflection in the glass made it hard for her to distinguish how many were on the shelf.\n\n8. run v., to operate\n\na. As long as the computer is running, you can keep adding new data.\n\nb. We'll be running inventory next weekend, so don't make any other plans.\n\n9. scan v., to look over quickly\n\na. The computer's optical disk scanned in the price and ordering information.\n\n10. subtract v., to take away; to deduct\n\na. Once you ring up an item, the computer automatically subtracts it from the inventory log.\n\nb. Whoever did the inventory forgot to subtract the items that arrived damaged and were never put into the stockroom.\n\n11. tedious adj., tiresome by reason of length, slowness, or dullness; boring a. This may be tedious work but you will be glad the inventory is accurate when you hit the busy holiday sales season.\n\nb. Counting merchandise all weekend is the most tedious job I can imagine.\n\n12. verify v., to prove the truth of\n\na. I can't verify the accuracy of these numbers, since I was not present for inventory weekend.\n\nb. The inventory process verifies that you have accounted for all the items that are supposed to be in the store.",
+    "words_in_context": "## WORDS IN CONTEXT\n\n## Read the following passage and write the words in the blanks below.\n\nadjusted discrepancies reflect subtracts automatically disturbances running tedious crucial liability scanning verifies\n\nIn a retail business, inventory has multiple meanings. Inventory means all the goods that a company has on hand or available to it in a warehouse. Inventory also means the process by which the business (1) \\_\\_\\_\\_ the number of goods. An accurate account of the inventory available is (2) \\_\\_\\_\\_. The amount of stock is a (3) \\_\\_\\_\\_ because it is already owned by the business.\n\nTaking an inventory is a physical count of the inventory holdings.\nToday, almost every business keeps a (4) \\_\\_\\_\\_ inventory count by having its sales records tied by computer to its inventory. When a customer makes a purchase, the computer system tied to the register (5) \\_\\_\\_\\_ the purchase from the inventory records. If a customer makes a return or an exchange, the inventory numbers will be (6) \\_\\_\\_\\_ by the computer (7) \\_\\_\\_\\_. That's often why (8) \\_\\_\\_\\_ the bar code is so important in stores. If merchandise is broken or damaged in the stockroom or on the sales floor, the manager will ask the sales and stock help to change the stock holdings to (9) \\_\\_\\_\\_ the loss.\n\nAs good as the computer records may be, they are just an estimate. At least once a year, most businesses do an actual physical count of the inventory. This process can be (10) \\_\\_\\_\\_ but it is necessary as there are always (11) \\_\\_\\_\\_ between what the computer says you own and what your physical count says. Often stores close for a day, or at least close early, so that staff can perform the inventory without (12) \\_\\_\\_\\_.",
+    "word_families": "## WORD FAMILIES\n\n<table><tr><td>verb</td><td>adjust</td><td>After you&#x27;ve verified the quantities in the stockroom, I&#x27;ll adjust the numbers in the computer.</td></tr><tr><td>n</td><td>adjustment</td><td>While the adjustments are being made to the computer inventory, the computer will be off-line and unavailable for use.</td></tr><tr><td>adjective</td><td>adjustable</td><td>The height of the shelves is adjustable, which makes it easier to reach and count the merchandise.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>noun</td><td>automation</td><td>Computers have brought a heightened level of automation into the retail industry.</td></tr><tr><td>active</td><td>automatic</td><td>The automatic updating of the inventory is convenient, but always a day behind.</td></tr><tr><td>.</td><td>automatically</td><td>After every cash register transaction, the computer automatically updates the inventory record.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td rowspan=\"3\">v)</td><td>disturb</td><td>Count as many of the items on the salesroom floor as you can without disturbing the customers.</td></tr><tr><td>disturbance</td><td>After considering all the options, Ellen decided that closing the store a day to do the annual inventory would cause the least amount of disturbance for customers.</td></tr><tr><td>disturbingly</td><td>The computer count and the physical count were disturbingly incongruous, which distressed the store manager.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>)</td><td>reflect</td><td>The numbers in the computer log should accurately reflect the actual numbers available on the shelf or in the warehouse.</td></tr><tr><td>noun</td><td>reflection</td><td>Upon reflection, the supply clerk decided that there was an error in the inventory.</td></tr><tr><td>noun</td><td>reflector</td><td>Reflectors were attached to the corners of the shelves to alert the clerks that the shelf edges were sharp.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td rowspan=\"2\"></td><td>scan</td><td>Scan the aisles and see if you find the missing carton.</td></tr><tr><td>scanner</td><td>We will install a scanner at two of the computer terminals.</td></tr><tr><td>e</td><td>scanned</td><td>These scanned documents need to be returned to their original owners.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>)</td><td>subtract</td><td>Subtract 50 from the total—I just found an unusable box.</td></tr><tr><td>nor</td><td>subtraction</td><td>If you feel confident doing basic addition and subtraction in your head, you don&#x27;t have to carry the calculator with you.</td></tr><tr><td></td><td>subtracted</td><td>These subtracted figures don&#x27;t add up to the total that was supposed to be subtracted.</td></tr></table>",
+    "listening_practice": "# WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences.\nChoose the sentence that best describes the picture.\n\n\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best response.\n\n4. What information does the man want to verify?\n(A) The size of the bedspreads.\n(B) The number of bedspreads on hand.\n(C) The reason for the discrepancy.\n(D) The number of bedspreads the customer needs.\n\n6. Where are the bedspreads?\n(A) In a box.\n(B) On a shelf.\n(C) On the bed.\n(D) In the stockroom.\n\n5. According to the computer, how many bedspreads are there?\n(A) Three.\n(B) Five.\n(C) Seven.\n(D) Eleven.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. What happens every year in January?\n(A) They adjust the file drawers.\n(B) They record the audio portion.\n(C) They delete unnecessary computer files.\n(D) They do a physical count.\n\n8. What is one problem with their work?\n(A) It consumes too much time.\n(B) Nobody appreciates it.\n(C) The hourly rate is low.\n(D) It's boring.\n\n9. How many days does it take to complete the work?\n(A) Two.\n(B) Three.\n(C) Four.\n(D) Eight.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. The computer's inventory figures will be considered inaccurate until the store manager enters the data from the physical count and \\_\\_\\_\\_ the figures.\n(A) adjustment (C) adjustable\n(B) adjusts (D) adjusted\n\n11. Inventory control cannot be performed \\_\\_\\_\\_, but must be done by physically counting the merchandise.\n(A) automatically (C) automation\n(B) automatic (D) automated\n\n12. Do not \\_\\_\\_\\_ the staff when they are counting the items; they need to concentrate.\n(A) disturb (C) disturbing\n(B) disturbance (D) disturbingly\n\n13. Having an accurate inventory count is a good \\_\\_\\_\\_ on a competent store manager.\n(A) reflectively (C) reflect\n(B) reflective (D) reflection\n\n14. In order to scan the bar code, you need to sweep the bar code directly in front of the \\_\\_\\_\\_.\n(A) scan (C) scanning\n(B) scanned (D) scanner\n\n15. If we \\_\\_\\_\\_ the damaged merchandise from the inventory, our figures will accurately reflect what we have on hand.\n(A) subtract (C) subtracted\n(B) subtracting (D) subtraction\n\n## Part 6 Text Completion\n\n## Notice\n\nOur new cash registers will be installed over the weekend so that we can start using them next week. The main reason we have bought these new machines is that they will make it easier to keep track of our inventory. When you \\_16\\_ customer's purchase into the machine, it will automatically record the purchase in the inventory files of our computer. This will help us track sales and reorder items promptly. It will save us the \\_17\\_ work of manually entering data into the computer and ensure that our numbers are accurate. All staff members are required to attend a training session on Friday afternoon during which you will learn how \\_18\\_ the new cash registers. See you there.\n\n16. (A) scan 18. (A) running  \n(B) will scan (B) to run  \n(C) scanned (C) runs  \n(D) are going to scan (D) run\n\n17. (A) tedious  \n(B) tedium  \n(C) tenacity  \n(D) tenacious",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following memo.\n\nTo: All store staff\n\nFrom: Bill Jones, manager\n\nRe: Next week\n\nThis is a reminder that we will be closing the store for two days at the end of next week, Friday and Saturday, for inventory. This is a long and tedious job, and we will need the assistance of each and every one of you to get it done. Therefore, no vacation days will be granted during that time. During the inventory process, we will verify the numbers in our computer files, clear up any discrepancies we may find, and adjust our records as necessary. We need to make sure that our records accurately reflect the stock that we actually have on hand. When you report to work on Thursday, your supervisor will give you your assignment. Some of you will be required to work in the stockroom taking a physical count, and others will be asked to work in the office entering data on the computers. We won't reopen the store until the following Tuesday since Monday is a national holiday. I hope that will give you a chance to rest up a bit after the big job. Thank you in advance for your assistance with this crucial work.\n\n19. Why will the store close next week?\n(A) Everyone will be on vacation.\n(B) They need to count their stock.\n(C) The staff members need a rest.\n(D) There will be a computer training session.\n\n20. Who will give the assignments?\n(A) The manager.\n(B) The assistants.\n(C) The supervisors.\n(D) The record keeper.\n\n21. When will the store open again?\n(A) Monday.\n(B) Tuesday.\n(C) Thursday.\n(D) Friday.\n\n22. The word adjust in line 7 is closest in meaning to (A) enter (B) write (C) change (D) create\n\n23. The word crucial in line 16 is closest in meaning to (A) important (B) boring (C) difficult (D) lengthy"
+  },
+  "needs_review": true
+}

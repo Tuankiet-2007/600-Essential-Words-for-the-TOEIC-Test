@@ -1,0 +1,1629 @@
+{
+  "lesson_id": 23,
+  "title": "Investments",
+  "theme_name": "Financing and Budgeting",
+  "audio_track": "track_23.mp3",
+  "part1_photo": "part1_photos/lesson_23.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "aggressively",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "competitively, assertively",
+      "definition_vi": "một cách quyết liệt, táo bạo, năng nổ (đầu tư, tiếp thị)",
+      "examples": [
+        {
+          "en": "Some people are risk takers and prefer to invest aggressively.",
+          "vi": "Một số người thích mạo hiểm và chuộng việc đầu tư một cách táo bạo."
+        },
+        {
+          "en": "His ideas were not well received because he spoke so aggressively.",
+          "vi": "Ý tưởng của anh ấy không được đón nhận nồng nhiệt vì anh ấy phát biểu quá gay gắt."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "aggression",
+          "example": "The act of aggression against our country caused a fear of war and had a negative effect on the stock market."
+        },
+        {
+          "pos": "adjective",
+          "word": "aggressive",
+          "example": "The director's aggressive position on investing was frowned upon by the Board of Directors."
+        },
+        {
+          "pos": "adverb",
+          "word": "aggressively",
+          "example": "I chose this stockbroker because he invests my money aggressively."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "invest aggressively",
+        "market aggressively",
+        "pursue aggressively",
+        "compete aggressively"
+      ],
+      "usage": {
+        "structures": [
+          "aggressively + V (quyết liệt làm gì: quảng bá, mở rộng, đầu tư)",
+          "V + aggressively (hành động một cách quyết liệt/táo bạo)"
+        ],
+        "prepositions": [
+          "in",
+          "toward"
+        ],
+        "collocations": [
+          "aggressive growth strategy",
+          "aggressive marketing campaign",
+          "expand aggressively",
+          "price aggressively"
+        ],
+        "tip": "Trong tiếng Anh thương mại TOEIC, 'aggressive/aggressively' thường mang nghĩa tích cực là 'năng nổ, quyết liệt, táo bạo' (chứ không phải hung hăng)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "aggress",
+          "example": "Strict market regulations prevent dominant monopolies from aggressing against smaller rivals.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The electronics manufacturer launched an _____ marketing campaign to capture a larger share of the youth market.",
+        "answer": "aggressive",
+        "base_word": "aggressively",
+        "pos_hint": "tính từ",
+        "vi": "Nhà sản xuất điện tử đã tung ra một chiến dịch tiếp thị quyết liệt để chiếm thị phần lớn hơn trong phân khúc giới trẻ."
+      }
+    },
+    {
+      "id": 2,
+      "word": "attitude",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a feeling about something or someone",
+      "definition_vi": "thái độ, quan điểm",
+      "examples": [
+        {
+          "en": "The new fund manager's attitude changed quickly after the first big downturn in the market.",
+          "vi": "Thái độ của người quản lý quỹ mới đã thay đổi nhanh chóng sau đợt suy thoái lớn đầu tiên trên thị trường."
+        },
+        {
+          "en": "Each investor should assess his or her own attitude toward investment.",
+          "vi": "Mỗi nhà đầu tư nên tự đánh giá thái độ của chính mình đối với việc đầu tư."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "attitude toward",
+        "positive attitude",
+        "change in attitude",
+        "wait-and-see attitude"
+      ],
+      "usage": {
+        "structures": [
+          "attitude toward/to + N/V-ing (thái độ đối với cái gì)",
+          "maintain a positive/professional attitude (duy trì thái độ tích cực/chuyên nghiệp)"
+        ],
+        "prepositions": [
+          "toward",
+          "towards",
+          "to",
+          "about"
+        ],
+        "collocations": [
+          "public attitude",
+          "consumer attitudes",
+          "favorable attitude",
+          "adopt an attitude"
+        ],
+        "tip": "Danh từ 'attitude' hầu như luôn đi kèm với giới từ 'toward' hoặc 'towards' (attitude toward risk/work)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "attitude",
+          "example": "A courteous attitude is essential for anyone working in customer relations.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "attitudinal",
+          "example": "The market survey measured attitudinal shifts among younger investors over the past five years.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "attitudinally",
+          "example": "New hires must be both technically qualified and attitudinally suited to teamwork.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Recent surveys indicate a noticeable shift in consumer _____ toward environmentally friendly packaging.",
+        "answer": "attitudes",
+        "base_word": "attitude",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Các cuộc khảo sát gần đây cho thấy sự dịch chuyển đáng chú ý trong thái độ của người tiêu dùng đối với bao bì thân thiện với môi trường."
+      }
+    },
+    {
+      "id": 3,
+      "word": "commit",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to consign for future use, to promise",
+      "definition_vi": "cam kết, tận tụy; dành ra (tiền bạc, thời gian, nguồn lực)",
+      "examples": [
+        {
+          "en": "It is a good idea to commit a certain percentage of your income to investments.",
+          "vi": "Dành ra một tỷ lệ phần trăm nhất định trong thu nhập của bạn cho các khoản đầu tư là một ý tưởng hay."
+        },
+        {
+          "en": "The stockbroker committed herself to finding the best investments for each client.",
+          "vi": "Người môi giới chứng khoán đã cam kết tìm kiếm những khoản đầu tư tốt nhất cho từng khách hàng."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "commit",
+          "example": "I'm committed to keeping the money in my pension fund until I retire."
+        },
+        {
+          "pos": "noun",
+          "word": "commitment",
+          "example": "The employee's commitment to working hard and saving her money was commendable."
+        },
+        {
+          "pos": "",
+          "word": "noncommittal",
+          "example": "I had hoped that the discussion would yield a definite answer from them, but they were noncommittal."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "commit funds to",
+        "be committed to",
+        "make a commitment",
+        "commit resources"
+      ],
+      "usage": {
+        "structures": [
+          "commit + money/time/resources + to + N/V-ing (dành tiền bạc/thời gian/nguồn lực vào việc gì)",
+          "be committed to + N/V-ing (cam kết/tận tâm với việc gì)"
+        ],
+        "prepositions": [
+          "to"
+        ],
+        "collocations": [
+          "firm commitment",
+          "financial commitment",
+          "fully committed",
+          "long-term commitment"
+        ],
+        "tip": "Cấu trúc kinh điển của TOEIC Part 5: 'be committed to + V-ing / Noun' (chữ 'to' ở đây là giới từ, theo sau là V-ing hoặc danh từ!)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "committed",
+          "example": "Our company is fully committed to reducing carbon emissions across all manufacturing plants.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The board of directors praised the project team for its unwavering _____ to quality and safety.",
+        "answer": "commitment",
+        "base_word": "commit",
+        "pos_hint": "danh từ",
+        "vi": "Hội đồng quản trị đã khen ngợi nhóm dự án vì sự cam kết không ngừng nghỉ đối với chất lượng và sự an toàn."
+      }
+    },
+    {
+      "id": 4,
+      "word": "conservative",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "cautious, restrained",
+      "definition_vi": "thận trọng, dè dặt (ít mạo hiểm); bảo thủ",
+      "examples": [
+        {
+          "en": "Her conservative strategy paid off over the years.",
+          "vi": "Chiến lược thận trọng của bà ấy đã mang lại thành quả qua nhiều năm."
+        },
+        {
+          "en": "Generally, older people should be more conservative in their investing than younger people.",
+          "vi": "Nhìn chung, người lớn tuổi nên thận trọng hơn trong việc đầu tư so với người trẻ tuổi."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "conserve",
+          "example": "Conserve your money now so you will be able to invest when the stock market gets better."
+        },
+        {
+          "pos": "",
+          "word": "conservative",
+          "example": "Some people are conservative investors and take few risks with their money."
+        },
+        {
+          "pos": "",
+          "word": "conservatively",
+          "example": "If you invest too conservatively, you may lose some chances for making money."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "conservative estimate",
+        "conservative investor",
+        "conservative strategy",
+        "conservative approach"
+      ],
+      "usage": {
+        "structures": [
+          "be conservative in + N/V-ing (thận trọng trong việc gì)",
+          "a conservative estimate/forecast (một ước tính/dự báo dè dặt, khiêm tốn)"
+        ],
+        "prepositions": [
+          "in",
+          "about",
+          "with"
+        ],
+        "collocations": [
+          "financially conservative",
+          "conservative projection",
+          "invest conservatively",
+          "conservative management"
+        ],
+        "tip": "Trong tài chính, 'conservative' trái nghĩa với 'aggressive' (đầu tư an toàn, ít rủi ro) hoặc đi với 'estimate' (ước tính ở mức thấp/an toàn)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "conservation",
+          "example": "Energy conservation measures have helped the factory lower its monthly utility bills.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Even when calculated _____, the new product line is expected to generate at least two million dollars in sales.",
+        "answer": "conservatively",
+        "base_word": "conservative",
+        "pos_hint": "trạng từ",
+        "vi": "Ngay cả khi được tính toán một cách dè dặt, dòng sản phẩm mới dự kiến sẽ tạo ra doanh thu ít nhất hai triệu đô la."
+      }
+    },
+    {
+      "id": 5,
+      "word": "fund",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an amount of money for something specific; v., to provide money for",
+      "definition_vi": "quỹ, nguồn tiền; (v.) tài trợ, cấp vốn cho",
+      "examples": [
+        {
+          "en": "He will have access to his trust fund when he is 21 years old.",
+          "vi": "Anh ấy sẽ được quyền tiếp cận quỹ tín thác của mình khi tròn 21 tuổi."
+        },
+        {
+          "en": "The company will fund the trip to the conference.",
+          "vi": "Công ty sẽ tài trợ kinh phí cho chuyến đi dự hội nghị."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "mutual fund",
+        "pension fund",
+        "raise funds",
+        "sufficient funding"
+      ],
+      "usage": {
+        "structures": [
+          "fund + a project/program (tài trợ vốn cho một dự án/chương trình)",
+          "raise/allocate funds for + N (gây quỹ/phân bổ nguồn vốn cho việc gì)"
+        ],
+        "prepositions": [
+          "for",
+          "from",
+          "by"
+        ],
+        "collocations": [
+          "emergency fund",
+          "trust fund",
+          "publicly funded",
+          "insufficient funds"
+        ],
+        "tip": "Danh từ số ít 'a fund' chỉ một quỹ cụ thể (pension fund), còn số nhiều 'funds' chỉ 'nguồn tiền/ngân quỹ' nói chung."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "fund",
+          "example": "A group of venture capitalists agreed to fund the biotechnology startup.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "funding",
+          "example": "The research institute secured government funding for its renewable energy project.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "funded",
+          "example": "The community center renovation is a jointly funded initiative between local businesses and the city.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The medical research project cannot proceed until additional _____ is approved by the foundation.",
+        "answer": "funding",
+        "base_word": "fund",
+        "pos_hint": "danh từ không đếm được (nguồn kinh phí/tài trợ)",
+        "vi": "Dự án nghiên cứu y học không thể tiếp tục cho đến khi nguồn tài trợ bổ sung được quỹ phê duyệt."
+      }
+    },
+    {
+      "id": 6,
+      "word": "invest",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to put money into a business or activity with the hope of making more money; to put effort into something",
+      "definition_vi": "đầu tư (tiền bạc, thời gian, công sức)",
+      "examples": [
+        {
+          "en": "The chief financial officer invested in the stock at a very good time.",
+          "vi": "Giám đốc tài chính đã đầu tư vào cổ phiếu đó vào một thời điểm rất tốt."
+        },
+        {
+          "en": "Don't invest all of your time in just one project.",
+          "vi": "Đừng đầu tư toàn bộ thời gian của bạn chỉ vào một dự án duy nhất."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "invest",
+          "example": "The company has been successful because it has invested wisely in its resources."
+        },
+        {
+          "pos": "noun",
+          "word": "investment",
+          "example": "The CFO is responsible for corporate investment."
+        },
+        {
+          "pos": "noun",
+          "word": "investor",
+          "example": "The fall in the stock market shook up the investors."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "invest in stocks",
+        "invest heavily in",
+        "return on investment",
+        "foreign investor"
+      ],
+      "usage": {
+        "structures": [
+          "invest + (money/time) + in + N/V-ing (đầu tư tiền/thời gian vào cái gì)",
+          "make an investment in + N (thực hiện khoản đầu tư vào đâu)"
+        ],
+        "prepositions": [
+          "in",
+          "into"
+        ],
+        "collocations": [
+          "institutional investor",
+          "profitable investment",
+          "invest wisely",
+          "real estate investment"
+        ],
+        "tip": "Luôn đi kèm giới từ 'in' (invest in real estate / investment in technology); lưu ý phân biệt 'investment' (sự/khoản đầu tư) và 'investor' (nhà đầu tư)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "invested",
+          "example": "All invested capital is protected by federal deposit insurance up to the legal limit.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Foreign _____ have shown keen interest in the country's rapidly expanding renewable energy sector.",
+        "answer": "investors",
+        "base_word": "invest",
+        "pos_hint": "danh từ chỉ người số nhiều",
+        "vi": "Các nhà đầu tư nước ngoài đã bày tỏ sự quan tâm sâu sắc đến lĩnh vực năng lượng tái tạo đang mở rộng nhanh chóng của quốc gia này."
+      }
+    },
+    {
+      "id": 7,
+      "word": "long-term",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "involving or extending over a long period",
+      "definition_vi": "dài hạn, lâu dài",
+      "examples": [
+        {
+          "en": "The CEO's long-term goal was to increase the return on investment.",
+          "vi": "Mục tiêu dài hạn của vị CEO là gia tăng tỷ suất hoàn vốn đầu tư."
+        },
+        {
+          "en": "Over the long-term forecast, unemployment is expected to remain steady.",
+          "vi": "Theo dự báo dài hạn, tỷ lệ thất nghiệp dự kiến sẽ duy trì ở mức ổn định."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "long-term goal",
+        "long-term investment",
+        "long-term contract",
+        "in the long term"
+      ],
+      "usage": {
+        "structures": [
+          "long-term + N (mục tiêu/kế hoạch/hợp đồng dài hạn)",
+          "in the long term / over the long term (về lâu về dài)"
+        ],
+        "prepositions": [
+          "in",
+          "over",
+          "for"
+        ],
+        "collocations": [
+          "long-term growth",
+          "long-term strategy",
+          "long-term viability",
+          "long-term benefits"
+        ],
+        "tip": "Có dấu gạch ngang 'long-term' khi đứng trước danh từ làm tính từ, trái nghĩa với 'short-term' (ngắn hạn)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "term",
+          "example": "Please read the terms and conditions of the investment agreement carefully.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "short-term",
+          "example": "Despite short-term market fluctuations, our long-term outlook remains positive.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Under the _____ of the investment contract, principal funds cannot be withdrawn for at least three years.",
+        "answer": "terms",
+        "base_word": "long-term",
+        "pos_hint": "danh từ số nhiều (điều khoản - họ từ term)",
+        "vi": "Theo các điều khoản của hợp đồng đầu tư, tiền vốn gốc không được rút ra trong ít nhất ba năm."
+      }
+    },
+    {
+      "id": 8,
+      "word": "portfolio",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a list of investments",
+      "definition_vi": "danh mục đầu tư; hồ sơ năng lực/tác phẩm",
+      "examples": [
+        {
+          "en": "Investors are advised to have diverse portfolios.",
+          "vi": "Các nhà đầu tư được khuyên nên có danh mục đầu tư đa dạng."
+        },
+        {
+          "en": "The investor's portfolio consisted of blue chip company stocks and government bonds.",
+          "vi": "Danh mục đầu tư của nhà đầu tư đó bao gồm cổ phiếu của các công ty lớn uy tín (blue-chip) và trái phiếu chính phủ."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "investment portfolio",
+        "diversify a portfolio",
+        "portfolio manager",
+        "product portfolio"
+      ],
+      "usage": {
+        "structures": [
+          "build/diversify a portfolio (xây dựng/đa dạng hóa danh mục đầu tư)",
+          "a portfolio of + N (một danh mục gồm các tài sản/sản phẩm gì)"
+        ],
+        "prepositions": [
+          "of"
+        ],
+        "collocations": [
+          "diverse portfolio",
+          "balanced portfolio",
+          "client portfolio",
+          "design portfolio"
+        ],
+        "tip": "Trong tài chính, 'portfolio' là 'danh mục các khoản đầu tư'; trong tuyển dụng thiết kế/nghệ thuật, nó có nghĩa là 'hồ sơ mẫu thiết kế'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "portfolios",
+          "example": "Financial planners review their clients' portfolios quarterly to adjust for market changes.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Wealth advisors recommend maintaining diverse investment _____ to protect against sudden downturns in any single industry.",
+        "answer": "portfolios",
+        "base_word": "portfolio",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Các cố vấn tài sản khuyên nên duy trì các danh mục đầu tư đa dạng để bảo vệ trước những đợt suy thoái đột ngột ở bất kỳ ngành đơn lẻ nào."
+      }
+    },
+    {
+      "id": 9,
+      "word": "pull out",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to withdraw, to stop participating; n., a withdrawal, removal",
+      "definition_vi": "rút khỏi, rút vốn, ngừng tham gia; (n.) sự rút lui",
+      "examples": [
+        {
+          "en": "His advisor suggested that she pull out her investments in the troubled country.",
+          "vi": "Cố vấn của cô ấy đề nghị rằng cô nên rút các khoản đầu tư khỏi quốc gia đang gặp bất ổn đó."
+        },
+        {
+          "en": "The pull out of the bank has left the company without financing.",
+          "vi": "Việc rút lui của ngân hàng đã khiến công ty không còn nguồn tài trợ vốn."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "pull out of a deal",
+        "pull out investments",
+        "pull out of a market",
+        "sudden pullout"
+      ],
+      "usage": {
+        "structures": [
+          "pull out of + N (rút lui khỏi một thỏa thuận/thị trường/dự án)",
+          "pull + money/troops/investments + out (rút tiền/quân/vốn đầu tư ra)"
+        ],
+        "prepositions": [
+          "of",
+          "from"
+        ],
+        "collocations": [
+          "pull out of an agreement",
+          "pull out of negotiations",
+          "threaten to pull out",
+          "investor pullout"
+        ],
+        "tip": "Cụm động từ 'pull out (of)' đồng nghĩa với 'withdraw (from)' khi nói về việc rút vốn hoặc rút khỏi hợp đồng."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "pull",
+          "example": "The main sponsor decided to pull its financial backing after the scandal.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "pullout",
+          "example": "The unexpected pullout of the primary investor delayed the construction project.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The sudden _____ of our overseas partner forced the board to seek alternative sources of capital.",
+        "answer": "pullout",
+        "base_word": "pull out",
+        "pos_hint": "danh từ",
+        "vi": "Sự rút lui đột ngột của đối tác nước ngoài đã buộc hội đồng quản trị phải tìm kiếm các nguồn vốn thay thế."
+      }
+    },
+    {
+      "id": 10,
+      "word": "resource",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "assets; valuable things",
+      "definition_vi": "nguồn lực, tài nguyên, tài sản quý giá",
+      "examples": [
+        {
+          "en": "If you don't invest in petroleum resources now, you will find that the stock prices will get away from you.",
+          "vi": "Nếu bạn không đầu tư vào các nguồn tài nguyên dầu mỏ ngay bây giờ, bạn sẽ thấy giá cổ phiếu vượt xa tầm với của mình."
+        },
+        {
+          "en": "The company's most valuable resource was its staff.",
+          "vi": "Nguồn lực quý giá nhất của công ty chính là đội ngũ nhân viên."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "human resources",
+        "natural resources",
+        "financial resources",
+        "allocate resources"
+      ],
+      "usage": {
+        "structures": [
+          "allocate/pool/conserve resources (phân bổ/tập hợp/bảo tồn nguồn lực)",
+          "valuable/limited resources (nguồn lực quý giá/hạn chế)"
+        ],
+        "prepositions": [
+          "for",
+          "of"
+        ],
+        "collocations": [
+          "scarce resources",
+          "valuable resource",
+          "resource management",
+          "resourceful employee"
+        ],
+        "tip": "Chú ý tính từ cùng họ 'resourceful' mang nghĩa 'tháo vát, giỏi xoay xở' khi miêu tả nhân viên/nhà quản lý."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "resourcefulness",
+          "example": "The project manager's resourcefulness allowed the team to finish on time despite budget cuts.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "resourceful",
+          "example": "A resourceful supervisor can find creative solutions even when funding is limited.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "resourcefully",
+          "example": "The startup responded resourcefully to the supply chain shortage by sourcing materials locally.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Ms. Kono proved to be a highly _____ manager who solved complex logistical issues with minimal budget.",
+        "answer": "resourceful",
+        "base_word": "resource",
+        "pos_hint": "tính từ (tháo vát)",
+        "vi": "Bà Kono đã chứng tỏ là một nhà quản lý vô cùng tháo vát, người đã giải quyết các vấn đề hậu cần phức tạp với ngân sách tối thiểu."
+      }
+    },
+    {
+      "id": 11,
+      "word": "return",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the amount of money gained as profit",
+      "definition_vi": "tiền lãi, lợi nhuận thu về (từ khoản đầu tư); sự trả lại",
+      "examples": [
+        {
+          "en": "The 44 percent return on the new stock was far more than the stockbroker had anticipated.",
+          "vi": "Mức lợi nhuận 44 phần trăm từ cổ phiếu mới cao hơn nhiều so với những gì người môi giới chứng khoán đã dự đoán."
+        },
+        {
+          "en": "Some investors are satisfied with a 15 percent return, while others want to see a much larger return.",
+          "vi": "Một số nhà đầu tư hài lòng với mức sinh lời 15 phần trăm, trong khi những người khác lại muốn thấy mức lợi nhuận lớn hơn nhiều."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "return",
+          "example": "I wish I could return to the days where investing was simple."
+        },
+        {
+          "pos": "noun",
+          "word": "returns",
+          "example": "Our returns on our investments exceeded expectations."
+        },
+        {
+          "pos": "",
+          "word": "returnable",
+          "example": "The merchandise is returnable as long as you have your receipt."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "return on investment (ROI)",
+        "high return",
+        "annual return",
+        "diminishing returns"
+      ],
+      "usage": {
+        "structures": [
+          "return on + N (lợi nhuận thu được từ khoản đầu tư gì)",
+          "yield/generate high returns (mang lại lợi nhuận cao)"
+        ],
+        "prepositions": [
+          "on",
+          "from",
+          "to"
+        ],
+        "collocations": [
+          "rate of return",
+          "expected return",
+          "tax return",
+          "return policy"
+        ],
+        "tip": "Nhớ các cụm danh từ đặc biệt trong TOEIC: 'return on investment' (lợi nhuận đầu tư) và 'tax return' (tờ khai thuế, bài 24)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "return",
+          "example": "Customers may return any unused merchandise within thirty days for a full refund.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "returnable",
+          "example": "All glass beverage containers are returnable for a five-cent deposit at participating stores.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Please note that clearance items and customized products are not _____ once purchased.",
+        "answer": "returnable",
+        "base_word": "return",
+        "pos_hint": "tính từ",
+        "vi": "Xin lưu ý rằng các mặt hàng thanh lý và sản phẩm đặt làm riêng không thể đổi trả sau khi đã mua."
+      }
+    },
+    {
+      "id": 12,
+      "word": "wisely",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "knowledgeably, smartly",
+      "definition_vi": "một cách khôn ngoan, sáng suốt",
+      "examples": [
+        {
+          "en": "If you invest wisely, you will be able to retire early.",
+          "vi": "Nếu bạn đầu tư một cách khôn ngoan, bạn sẽ có thể nghỉ hưu sớm."
+        },
+        {
+          "en": "Mary wisely followed her stockbroker's advice and took her money out of some bad investments.",
+          "vi": "Mary đã sáng suốt làm theo lời khuyên của người môi giới chứng khoán và rút tiền ra khỏi một số khoản đầu tư tồi."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "wisdom",
+          "example": "Common wisdom is to place your money in a variety of investments."
+        },
+        {
+          "pos": "",
+          "word": "wise",
+          "example": "The wise investor does her homework before parting with her money."
+        },
+        {
+          "pos": "adverb",
+          "word": "wisely",
+          "example": "She planned her retirement wisely and was able to retire to her summer house."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "invest wisely",
+        "spend wisely",
+        "choose wisely",
+        "act wisely"
+      ],
+      "usage": {
+        "structures": [
+          "V + wisely (làm gì một cách khôn ngoan)",
+          "wisely + V-ed (đã khôn ngoan khi làm gì)"
+        ],
+        "prepositions": [
+          "in",
+          "with"
+        ],
+        "collocations": [
+          "use resources wisely",
+          "manage money wisely",
+          "wise decision",
+          "conventional wisdom"
+        ],
+        "tip": "Trạng từ 'wisely' rất hay bổ nghĩa cho các động từ liên quan đến tiền bạc và quyết định như 'invest', 'spend', 'choose', 'use'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "wisdom",
+          "example": "Several analysts questioned the wisdom of merging the two competing airlines.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "wise",
+          "example": "Consulting a certified financial planner before retirement is a wise decision.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "It would be _____ to consult a legal specialist before signing any binding real estate contract.",
+        "answer": "wise",
+        "base_word": "wisely",
+        "pos_hint": "tính từ",
+        "vi": "Sẽ thật khôn ngoan nếu tham khảo ý kiến chuyên gia pháp lý trước khi ký bất kỳ hợp đồng bất động sản có tính ràng buộc nào."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Investment is a common, everyday occurrence. Companies (1) ____ time and money in finding and training their employees. Employees invest in their own training and education. Financial investment takes place at a corporate level and at an individual level. Whether an individual or a company, a decision must be made on the percentage of (2) ____ to have invested and the percentage to have in cash. To avoid making stupid decisions, many people use financial advisors. Financial advisors help individuals and corporations make (3) ____ investment decisions. What kind of portfolio should be maintained? What should be in this (4) ____ At what point should an investor pull back or (5) ____ of the market? What kind of (6) ____ should the investor realistically expect? How much risk can an investor take (both emotionally and financially)? Investors who are (7) ____ for the (8) ____ can more easily weather the ups and downs of a market. As one analyst commented, “If you’re staying awake at night thinking about the stock market, you probably have too much invested.” Many employees have retirement plans at work. They decide what level of contribution to make to a certain (9) ____. These decisions and large company decisions depend to a large degree on (10) ____. Is the decision maker (11) ____ or (12) ____? That attitude often depends on the age of the investor or on the stage and the needs of the business.",
+    "word_bank": [
+      "aggressive",
+      "committed",
+      "long-term",
+      "resources",
+      "attitude",
+      "fund",
+      "portfolio",
+      "return",
+      "conservative",
+      "invest",
+      "pull out",
+      "wise"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "aggression",
+        "example": "The act of aggression against our country caused a fear of war and had a negative effect on the stock market.",
+        "pos": "noun"
+      },
+      {
+        "word": "aggressive",
+        "example": "The director's aggressive position on investing was frowned upon by the Board of Directors.",
+        "pos": "adjective"
+      },
+      {
+        "word": "aggressively",
+        "example": "I chose this stockbroker because he invests my money aggressively.",
+        "pos": "adverb"
+      }
+    ],
+    [
+      {
+        "word": "commit",
+        "example": "I'm committed to keeping the money in my pension fund until I retire.",
+        "pos": "verb"
+      },
+      {
+        "word": "commitment",
+        "example": "The employee's commitment to working hard and saving her money was commendable.",
+        "pos": "noun"
+      },
+      {
+        "word": "noncommittal",
+        "example": "I had hoped that the discussion would yield a definite answer from them, but they were noncommittal.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "conserve",
+        "example": "Conserve your money now so you will be able to invest when the stock market gets better.",
+        "pos": "verb"
+      },
+      {
+        "word": "conservative",
+        "example": "Some people are conservative investors and take few risks with their money.",
+        "pos": ""
+      },
+      {
+        "word": "conservatively",
+        "example": "If you invest too conservatively, you may lose some chances for making money.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "invest",
+        "example": "The company has been successful because it has invested wisely in its resources.",
+        "pos": "verb"
+      },
+      {
+        "word": "investment",
+        "example": "The CFO is responsible for corporate investment.",
+        "pos": "noun"
+      },
+      {
+        "word": "investor",
+        "example": "The fall in the stock market shook up the investors.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "return",
+        "example": "I wish I could return to the days where investing was simple.",
+        "pos": ""
+      },
+      {
+        "word": "returns",
+        "example": "Our returns on our investments exceeded expectations.",
+        "pos": "noun"
+      },
+      {
+        "word": "returnable",
+        "example": "The merchandise is returnable as long as you have your receipt.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "wisdom",
+        "example": "Common wisdom is to place your money in a variety of investments.",
+        "pos": ""
+      },
+      {
+        "word": "wise",
+        "example": "The wise investor does her homework before parting with her money.",
+        "pos": ""
+      },
+      {
+        "word": "wisely",
+        "example": "She planned her retirement wisely and was able to retire to her summer house.",
+        "pos": "adverb"
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "The stockbroker recommended investing some money more ____.",
+        "options": [
+          {
+            "label": "A",
+            "text": "aggressive"
+          },
+          {
+            "label": "B",
+            "text": "aggression"
+          },
+          {
+            "label": "C",
+            "text": "aggressively"
+          },
+          {
+            "label": "D",
+            "text": "aggressor"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "All employees are encouraged to ____ a percentage of their earnings to the retirement fund.",
+        "options": [
+          {
+            "label": "A",
+            "text": "committed"
+          },
+          {
+            "label": "B",
+            "text": "commit"
+          },
+          {
+            "label": "C",
+            "text": "commitment"
+          },
+          {
+            "label": "D",
+            "text": "committing"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "Because he had made such ____ investments, he lost very little money when the stock market went down.",
+        "options": [
+          {
+            "label": "A",
+            "text": "conservative"
+          },
+          {
+            "label": "B",
+            "text": "conserved"
+          },
+          {
+            "label": "C",
+            "text": "conservatively"
+          },
+          {
+            "label": "D",
+            "text": "conserve"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "After months of study and research, the ____ decided to put his money into new facilities and materials.",
+        "options": [
+          {
+            "label": "A",
+            "text": "investor"
+          },
+          {
+            "label": "B",
+            "text": "investment"
+          },
+          {
+            "label": "C",
+            "text": "investing"
+          },
+          {
+            "label": "D",
+            "text": "invested"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "A good financial analyst will advise investors on strategies that will generate higher ____.",
+        "options": [
+          {
+            "label": "A",
+            "text": "returned"
+          },
+          {
+            "label": "B",
+            "text": "returning"
+          },
+          {
+            "label": "C",
+            "text": "returns"
+          },
+          {
+            "label": "D",
+            "text": "returnable"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "Is it ____ to consider funding a new project when we haven't even seen the returns from the last one?",
+        "options": [
+          {
+            "label": "A",
+            "text": "wisdom"
+          },
+          {
+            "label": "B",
+            "text": "wisest"
+          },
+          {
+            "label": "C",
+            "text": "wisely"
+          },
+          {
+            "label": "D",
+            "text": "wise"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Many people try to save money by acting as their own investment advisors. This is not usually considered to be a wise choice. In the long term, it can actually end up costing the investor more money because of poor investment decisions. A professional investment advisor understands investment options more thoroughly than the layperson ever could. A good investment advisor becomes familiar with her clients' [16] toward investing and gives advice accordingly. The advisor makes certain recommendations to clients who are conservative investors and makes different recommendations to clients who prefer to invest more [17]. The best way to create a strong investment [18] that matches your needs and preferred investing strategy is to work with a professional investment advisor.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "funds"
+            },
+            {
+              "label": "B",
+              "text": "returns"
+            },
+            {
+              "label": "C",
+              "text": "attitudes"
+            },
+            {
+              "label": "D",
+              "text": "resources"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "aggressor"
+            },
+            {
+              "label": "B",
+              "text": "aggression"
+            },
+            {
+              "label": "C",
+              "text": "aggressive"
+            },
+            {
+              "label": "D",
+              "text": "aggressively"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "portage"
+            },
+            {
+              "label": "B",
+              "text": "portrait"
+            },
+            {
+              "label": "C",
+              "text": "portfolio"
+            },
+            {
+              "label": "D",
+              "text": "portmanteau"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following two e-mail messages. | To: Amelia WaddellFrom: Peter SimpkinsSubject: InvestmentHi Amelia,I wondered if you would give me the name of your investment advisor. My business is doing very well this year. In fact, I am now making a lot more money than I did when I had a job with a salary. I would prefer to invest my profits in the stock market as I'm sure I would earn more money that way than just letting it earn interest in a bank account. Of course, I want to invest wisely, so I am looking for professional advice. You know I tend to have a conservative attitude toward money, and I hope your advisor can help me make some safe investments. Please get back to me soon as I'd like to get started on this before the end of the month. Thanks.Peter | To: Peter SimpkinsFrom: Amelia WaddellSubject: Re: InvestmentHi Peter,I would be happy to help you out. As a matter of fact, I just talked with my investment advisor this morning, and she mentioned that she is looking for more clients. Her name is Susannah Oliveros. I have been working with her for several years and have always been satisfied. I have gotten good returns on the investments I have made with her. I will call you this afternoon, and we can discuss all the details then. I will also give you her phone number so you can call her tomorrow. I know you will like her.Amelia | | --- | --- |",
+        "questions": [
+          {
+            "number": 19,
+            "question": "Why did Peter write the e-mail message?",
+            "options": [
+              {
+                "label": "A",
+                "text": "He is looking for a job."
+              },
+              {
+                "label": "B",
+                "text": "He needs some investment advice."
+              },
+              {
+                "label": "C",
+                "text": "He lent some money to Amelia."
+              },
+              {
+                "label": "D",
+                "text": "He is looking for new clients."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "Why does Peter have extra money to invest?",
+            "options": [
+              {
+                "label": "A",
+                "text": "He earned a lot of interest in his bank account."
+              },
+              {
+                "label": "B",
+                "text": "He has a high salary."
+              },
+              {
+                "label": "C",
+                "text": "His business is very profitable."
+              },
+              {
+                "label": "D",
+                "text": "He made money in the stock market last year."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "When will Amelia call Peter?",
+            "options": [
+              {
+                "label": "A",
+                "text": "This morning."
+              },
+              {
+                "label": "B",
+                "text": "This afternoon."
+              },
+              {
+                "label": "C",
+                "text": "Tomorrow."
+              },
+              {
+                "label": "D",
+                "text": "Before the end of the month."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word wisely in line 8 of the first e-mail is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "smartly"
+              },
+              {
+                "label": "B",
+                "text": "carefully"
+              },
+              {
+                "label": "C",
+                "text": "quickly"
+              },
+              {
+                "label": "D",
+                "text": "easily"
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word returns in line 6 of the second e-mail is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "goes back"
+              },
+              {
+                "label": "B",
+                "text": "gives back"
+              },
+              {
+                "label": "C",
+                "text": "suggestions"
+              },
+              {
+                "label": "D",
+                "text": "profits"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What does the man recommend?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Investing mainly in natural resources."
+          },
+          {
+            "label": "B",
+            "text": "Investing in various industries."
+          },
+          {
+            "label": "C",
+            "text": "Investing aggressively."
+          },
+          {
+            "label": "D",
+            "text": "Investing in the basket industry."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How much money has the man made through his investments?",
+        "options": [
+          {
+            "label": "A",
+            "text": "One million dollars."
+          },
+          {
+            "label": "B",
+            "text": "Two million dollars."
+          },
+          {
+            "label": "C",
+            "text": "Five million dollars."
+          },
+          {
+            "label": "D",
+            "text": "Ten million dollars."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What will the woman do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Take her money out of the stock market."
+          },
+          {
+            "label": "B",
+            "text": "Hire an investment advisor."
+          },
+          {
+            "label": "C",
+            "text": "Start a marketing business."
+          },
+          {
+            "label": "D",
+            "text": "Follow the man's investment strategy."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "What is this talk about?",
+        "options": [
+          {
+            "label": "A",
+            "text": "How to invest in the stock market."
+          },
+          {
+            "label": "B",
+            "text": "How to choose a good college."
+          },
+          {
+            "label": "C",
+            "text": "How to choose investments."
+          },
+          {
+            "label": "D",
+            "text": "How to save money for college."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "When should parents start saving money for college?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Two or three years from now."
+          },
+          {
+            "label": "B",
+            "text": "When their children are small."
+          },
+          {
+            "label": "C",
+            "text": "After they have had two or three children."
+          },
+          {
+            "label": "D",
+            "text": "When their children are in high school."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "How often should parents put money in the stock market?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Every month."
+          },
+          {
+            "label": "B",
+            "text": "Every two or three months."
+          },
+          {
+            "label": "C",
+            "text": "Every year."
+          },
+          {
+            "label": "D",
+            "text": "Every two or three years."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. What does the man recommend? (A) Investing mainly in natural resources. (B) Investing in various industries. (C) Investing aggressively. (D) Investing in the basket industry. 5. How much money has the man made through his investments? (A) One million dollars. (B) Two million dollars. (C) Five million dollars. (D) Ten million dollars. 6. What will the woman do? (A) Take her money out of the stock market. (B) Hire an investment advisor. (C) Start a marketing business. (D) Follow the man's investment strategy. Listen to the talk. Then read each question and choose the best answer. 7. What is this talk about? (A) How to invest in the stock market. (B) How to choose a good college. (C) How to choose investments. (D) How to save money for college. 8. When should parents start saving money for college? (A) Two or three years from now. (B) When their children are small. (C) After they have had two or three children. (D) When their children are in high school. 9. How often should parents put money in the stock market? (A) Every month. (B) Every two or three months. (C) Every year. (D) Every two or three years.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What does the man recommend?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Investing mainly in natural resources."
+          },
+          {
+            "label": "B",
+            "text": "Investing in various industries."
+          },
+          {
+            "label": "C",
+            "text": "Investing aggressively."
+          },
+          {
+            "label": "D",
+            "text": "Investing in the basket industry."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How much money has the man made through his investments?",
+        "options": [
+          {
+            "label": "A",
+            "text": "One million dollars."
+          },
+          {
+            "label": "B",
+            "text": "Two million dollars."
+          },
+          {
+            "label": "C",
+            "text": "Five million dollars."
+          },
+          {
+            "label": "D",
+            "text": "Ten million dollars."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What will the woman do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Take her money out of the stock market."
+          },
+          {
+            "label": "B",
+            "text": "Hire an investment advisor."
+          },
+          {
+            "label": "C",
+            "text": "Start a marketing business."
+          },
+          {
+            "label": "D",
+            "text": "Follow the man's investment strategy."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "What is this talk about?",
+        "options": [
+          {
+            "label": "A",
+            "text": "How to invest in the stock market."
+          },
+          {
+            "label": "B",
+            "text": "How to choose a good college."
+          },
+          {
+            "label": "C",
+            "text": "How to choose investments."
+          },
+          {
+            "label": "D",
+            "text": "How to save money for college."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "When should parents start saving money for college?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Two or three years from now."
+          },
+          {
+            "label": "B",
+            "text": "When their children are small."
+          },
+          {
+            "label": "C",
+            "text": "After they have had two or three children."
+          },
+          {
+            "label": "D",
+            "text": "When their children are in high school."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "How often should parents put money in the stock market?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Every month."
+          },
+          {
+            "label": "B",
+            "text": "Every two or three months."
+          },
+          {
+            "label": "C",
+            "text": "Every year."
+          },
+          {
+            "label": "D",
+            "text": "Every two or three years."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "Lesson\n\n23\n\n## WORDS TO LEAF\n\nan possibly\n\nattitu\n\ncon ..\n\ncon\n\nfund\n\ninve +\n\n• 16\n\n, u  x\nresourc\\~\n\nn:turn\n\n“ J\n\n# Investments\n\nStudy the following definitions and examples.\n\n1. aggressively adv., competitively, assertively\n\na. Some people are risk takers and prefer to invest aggressively.\n\nb. His ideas were not well received because he spoke so aggressively.\n\n2. attitude n., a feeling about something or someone\n\na. The new fund manager's attitude changed quickly after the first big downturn in the market.\n\nb. Each investor should assess his or her own attitude toward investment.\n\n3. commit v., to consign for future use, to promise a. It is a good idea to commit a certain percentage of your income to investments.\n\nb. The stockbroker committed herself to finding the best investments for each client.\n\n4. conservative adj., cautious, restrained\n\na. Her conservative strategy paid off over the years.\n\nb. Generally, older people should be more conservative in their investing than younger people.\n\n5. fund n., an amount of money for something specific; v., to provide money for a. He will have access to his trust fund when he is 21 years old.\n\nb. The company will fund the trip to the conference.\n\n6. invest v., to put money into a business or activity with the hope of making more money; to put effort into something\n\na. The chief financial officer invested in the stock at a very good time.\n\nb. Don't invest all of your time in just one project.\n\n7. long-term adj., involving or extending over a long period\n\na. The CEO's long-term goal was to increase the return on investment.\n\nb. Over the long-term forecast, unemployment is expected to remain steady.\n\n8. portfolio n., a list of investments\n\na. Investors are advised to have diverse portfolios.\n\nb. The investor's portfolio consisted of blue chip company stocks and government bonds.\n\n9. pull out v., to withdraw, to stop participating; n., a withdrawal, removal a. His advisor suggested that she pull out her investments in the troubled country.\n\nb. The pull out of the bank has left the company without financing.\n\n10. resource n., assets; valuable things\n\na. If you don't invest in petroleum resources now, you will find that the stock prices will get away from you.\n\nb. The company's most valuable resource was its staff.\n\n11. return n., the amount of money gained as profit\n\na. The 44 percent return on the new stock was far more than the stockbroker had anticipated.\n\nb. Some investors are satisfied with a 15 percent return, while others want to see a much larger return.\n\n12. wisely adj., knowledgeably, smartly\n\na. If you invest wisely, you will be able to retire early.\n\nb. Mary wisely followed her stockbroker's advice and took her money out of some bad investments.",
+    "words_in_context": "## WORDS IN CONTEXT\n\n## Read the following passage and write the words in the blanks below.\n\n| aggressive | committed | long-term | resources |\n| --- | --- | --- | --- |\n| attitude | fund | portfolio | return |\n| conservative | invest | pull out | wise |\n\nInvestment is a common, everyday occurrence. Companies (1) \\_\\_\\_\\_ time and money in finding and training their employees. Employees invest in their own training and education. Financial investment takes place at a corporate level and at an individual level. Whether an individual or a company, a decision must be made on the percentage of (2) \\_\\_\\_\\_ to have invested and the percentage to have in cash.\n\nTo avoid making stupid decisions, many people use financial advisors. Financial advisors help individuals and corporations make (3) \\_\\_\\_\\_ investment decisions. What kind of portfolio should be maintained? What should be in this (4) \\_\\_\\_\\_ At what point should an investor pull back or (5) \\_\\_\\_\\_ of the market? What kind of (6) \\_\\_\\_\\_ should the investor realistically expect? How much risk can an investor take (both emotionally and financially)? Investors who are (7) \\_\\_\\_\\_ for the (8) \\_\\_\\_\\_ can more easily weather the ups and downs of a market. As one analyst commented, “If you’re staying awake at night thinking about the stock market, you probably have too much invested.”\n\nMany employees have retirement plans at work. They decide what level of contribution to make to a certain (9) \\_\\_\\_\\_. These decisions and large company decisions depend to a large degree on (10) \\_\\_\\_\\_. Is the decision maker (11) \\_\\_\\_\\_ or (12) \\_\\_\\_\\_? That attitude often depends on the age of the investor or on the stage and the needs of the business.",
+    "word_families": "## WORD FAMILIES\n\n| noun | aggression | The act of aggression against our country caused a fear of war and had a negative effect on the stock market. |\n| --- | --- | --- |\n| adj | aggressive | The director's aggressive position on investing was frowned upon by the Board of Directors. |\n| adverb | aggressively | I chose this stockbroker because he invests my money aggressively. |\n\n| verb | commit | I'm committed to keeping the money in my pension fund until I retire. |\n| --- | --- | --- |\n| noun | commitment | The employee's commitment to working hard and saving her money was commendable. |\n| i | noncommittal | I had hoped that the discussion would yield a definite answer from them, but they were noncommittal. |\n\n| verb | conserve | Conserve your money now so you will be able to invest when the stock market gets better. |\n| --- | --- | --- |\n| i j | conservative | Some people are conservative investors and take few risks with their money. |\n| k | conservatively | If you invest too conservatively, you may lose some chances for making money. |\n\n| verb | invest | The company has been successful because it has invested wisely in its resources. |\n| --- | --- | --- |\n| noun | investment | The CFO is responsible for corporate investment. |\n| noun | investor | The fall in the stock market shook up the investors. |\n\n| 15 | return | I wish I could return to the days where investing was simple. |\n| --- | --- | --- |\n| noun | returns | Our returns on our investments exceeded expectations. |\n| ve | returnable | The merchandise is returnable as long as you have your receipt. |\n\n<table><tr><td colspan=\"2\">wisdom</td><td>Common wisdom is to place your money in a variety of investments.</td></tr><tr><td>tive</td><td>wise</td><td>The wise investor does her homework before parting with her money.</td></tr><tr><td>adverb</td><td>wisely</td><td>She planned her retirement wisely and was able to retire to her summer house.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. What does the man recommend?\n(A) Investing mainly in natural resources.\n(B) Investing in various industries.\n(C) Investing aggressively.\n(D) Investing in the basket industry.\n\n5. How much money has the man made through his investments?\n(A) One million dollars.\n(B) Two million dollars.\n(C) Five million dollars.\n(D) Ten million dollars.\n\n6. What will the woman do?\n(A) Take her money out of the stock market.\n(B) Hire an investment advisor.\n(C) Start a marketing business.\n(D) Follow the man's investment strategy.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. What is this talk about?  \n(A) How to invest in the stock market.  \n(B) How to choose a good college.  \n(C) How to choose investments.  \n(D) How to save money for college.\n\n8. When should parents start saving money for college?\n(A) Two or three years from now.\n(B) When their children are small.\n(C) After they have had two or three children.\n(D) When their children are in high school.\n\n9. How often should parents put money in the stock market?\n(A) Every month.\n(B) Every two or three months.\n(C) Every year.\n(D) Every two or three years.",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. The stockbroker recommended investing some money more \\_\\_\\_\\_.\n(A) aggressive (C) aggressively\n(B) aggression (D) aggressor\n\n11. All employees are encouraged to \\_\\_\\_\\_ a percentage of their earnings to the retirement fund.\n(A) committed (C) commitment\n(B) commit (D) committing\n\n12. Because he had made such \\_\\_\\_\\_ investments, he lost very little money when the stock market went down.\n(A) conservative (C) conservatively\n(B) conserved (D) conserve\n\n13. After months of study and research, the \\_\\_\\_\\_ decided to put his money into new facilities and materials.\n(A) investor (C) investing\n(B) investment (D) invested\n\n14. A good financial analyst will advise investors on strategies that will generate higher \\_\\_\\_\\_.\n(A) returned (C) returns\n(B) returning (D) returnable\n\n15. Is it \\_\\_\\_\\_ to consider funding a new project when we haven't even seen the returns from the last one?\n(A) wisdom (C) wisely\n(B) wisest (D) wise\n\n## Part 6 Text Completion\n\nMany people try to save money by acting as their own investment advisors. This is not usually considered to be a wise choice. In the long term, it can actually end up costing the investor more money because of poor investment decisions. A professional investment advisor understands investment options more thoroughly than the layperson ever could. A good investment advisor becomes familiar with her clients' \\_16\\_ toward investing and gives advice accordingly. The advisor makes certain recommendations to clients who are conservative investors and makes different recommendations to clients who prefer to invest more \\_17\\_. The best way to create a strong investment \\_18\\_ that matches your needs and preferred investing strategy is to work with a professional investment advisor.\n\n16. (A) funds  \n(B) returns  \n(C) attitudes  \n(D) resources\n\n17. (A) aggressor  \n(B) aggression  \n(C) aggressive  \n(D) aggressively\n\n18. (A) portage  \n(B) portrait  \n(C) portfolio  \n(D) portmanteau",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following two e-mail messages.\n\n| To: Amelia WaddellFrom: Peter SimpkinsSubject: InvestmentHi Amelia,I wondered if you would give me the name of your investment advisor. My business is doing very well this year. In fact, I am now making a lot more money than I did when I had a job with a salary. I would prefer to invest my profits in the stock market as I'm sure I would earn more money that way than just letting it earn interest in a bank account. Of course, I want to invest wisely, so I am looking for professional advice. You know I tend to have a conservative attitude toward money, and I hope your advisor can help me make some safe investments. Please get back to me soon as I'd like to get started on this before the end of the month. Thanks.Peter | To: Peter SimpkinsFrom: Amelia WaddellSubject: Re: InvestmentHi Peter,I would be happy to help you out. As a matter of fact, I just talked with my investment advisor this morning, and she mentioned that she is looking for more clients. Her name is Susannah Oliveros. I have been working with her for several years and have always been satisfied. I have gotten good returns on the investments I have made with her. I will call you this afternoon, and we can discuss all the details then. I will also give you her phone number so you can call her tomorrow. I know you will like her.Amelia |\n| --- | --- |\n\n19. Why did Peter write the e-mail message?\n(A) He is looking for a job.\n(B) He needs some investment advice.\n(C) He lent some money to Amelia.\n(D) He is looking for new clients.\n\n20. Why does Peter have extra money to invest?\n(A) He earned a lot of interest in his bank account.\n(B) He has a high salary.\n(C) His business is very profitable.\n(D) He made money in the stock market last year.\n\n21. When will Amelia call Peter?\n(A) This morning.\n(B) This afternoon.\n(C) Tomorrow.\n(D) Before the end of the month.\n\n22. The word wisely in line 8 of the first e-mail is closest in meaning to  \n(A) smartly  \n(B) carefully  \n(C) quickly  \n(D) easily\n\n23. The word returns in line 6 of the second e-mail is closest in meaning to  \n(A) goes back  \n(B) gives back  \n(C) suggestions  \n(D) profits"
+  },
+  "needs_review": true
+}

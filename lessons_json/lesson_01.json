@@ -1,0 +1,1666 @@
+{
+  "lesson_id": 1,
+  "title": "Contracts",
+  "theme_name": "General Business",
+  "audio_track": "track_01.mp3",
+  "part1_photo": "part1_photos/lesson_01.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "abide by",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to comply with; to conform",
+      "definition_vi": "tuân thủ, chấp hành (quy định, quyết định, hợp đồng)",
+      "examples": [
+        {
+          "en": "The two parties agreed to abide by the judge's decision.",
+          "vi": "Hai bên đã đồng ý tuân thủ phán quyết của thẩm phán."
+        },
+        {
+          "en": "For years he has abided by a commitment to annual employee raises.",
+          "vi": "Trong nhiều năm qua, ông ấy luôn giữ vững cam kết tăng lương hàng năm cho nhân viên."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "abide by the rules",
+        "abide by the decision",
+        "abide by the terms of the contract",
+        "strictly abide by"
+      ],
+      "usage": {
+        "structures": [
+          "abide by + N (rules / law / agreement / decision)",
+          "agree / promise / refuse to abide by + N"
+        ],
+        "prepositions": [
+          "by"
+        ],
+        "collocations": [
+          "abide by the terms",
+          "abide by the regulations",
+          "abide by the court's ruling",
+          "abide by a commitment"
+        ],
+        "tip": "Trong TOEIC Part 5, khi thấy chỗ trống đứng trước giới từ 'by' và tân ngữ chỉ luật lệ/hợp đồng, hãy chọn ngay động từ 'abide'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "abide",
+          "example": "All contractors must abide by the safety regulations on site.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "abidance",
+          "example": "Strict abidance by the terms of the lease is required of all tenants.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "abiding",
+          "example": "Our founder had an abiding commitment to business ethics and quality.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "abidingly",
+          "example": "The staff remained abidingly loyal to the company during the merger.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "For the past decade, our corporation has strictly _____ by all environmental regulations.",
+        "answer": "abided",
+        "base_word": "abide by",
+        "pos_hint": "động từ chia quá khứ phân từ (V3/ed)",
+        "vi": "Trong suốt thập kỷ qua, tập đoàn của chúng tôi đã tuân thủ nghiêm ngặt mọi quy định về môi trường."
+      }
+    },
+    {
+      "id": 2,
+      "word": "agreement",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a mutual arrangement, a contract",
+      "definition_vi": "hợp đồng, thỏa thuận; sự đồng tình, nhất trí",
+      "examples": [
+        {
+          "en": "The landlord and tenant were in agreement that the rent should be prorated to the middle of the month.",
+          "vi": "Chủ nhà và người thuê nhà đã thống nhất rằng tiền thuê nhà nên được tính theo tỷ lệ đến giữa tháng."
+        },
+        {
+          "en": "According to the agreement, the caterer will also supply the flowers for the event.",
+          "vi": "Theo hợp đồng, bên cung cấp dịch vụ ăn uống cũng sẽ cung cấp hoa cho sự kiện."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "agree",
+          "example": "If both parties agree to the terms, we can finalize the contract."
+        },
+        {
+          "pos": "",
+          "word": "agreement",
+          "example": "As soon as the labor agreement was signed, the factory resumed production of new cars and vans."
+        },
+        {
+          "pos": "",
+          "word": "agreeable",
+          "example": "The parties are agreeable to the terms."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "reach an agreement",
+        "sign an agreement",
+        "be in agreement",
+        "according to the agreement"
+      ],
+      "usage": {
+        "structures": [
+          "reach / come to / sign / enter into an agreement",
+          "be in agreement (with sb) (on/about sth)"
+        ],
+        "prepositions": [
+          "in",
+          "on",
+          "with",
+          "between"
+        ],
+        "collocations": [
+          "mutual agreement",
+          "verbal agreement",
+          "contractual agreement",
+          "violate an agreement"
+        ],
+        "tip": "Chú ý cụm cố định 'be in agreement' (= agree) và 'reach an agreement' (đạt được thỏa thuận) rất hay xuất hiện trong đề thi."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "agreeably",
+          "example": "We were agreeably surprised by the rapid growth in third-quarter revenue.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "If both parties are _____ to the proposed terms, we can sign the contract tomorrow morning.",
+        "answer": "agreeable",
+        "base_word": "agreement",
+        "pos_hint": "tính từ",
+        "vi": "Nếu cả hai bên đều đồng ý với các điều khoản được đề xuất, chúng ta có thể ký hợp đồng vào sáng mai."
+      }
+    },
+    {
+      "id": 3,
+      "word": "assurance",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a guarantee; confidence",
+      "definition_vi": "sự cam đoan, lời bảo đảm; sự tự tin",
+      "examples": [
+        {
+          "en": "The sales associate gave his assurance that the missing keyboard would be replaced the next day.",
+          "vi": "Nhân viên bán hàng đã cam đoan rằng chiếc bàn phím bị thiếu sẽ được thay thế vào ngày hôm sau."
+        },
+        {
+          "en": "Her self-assurance made it easy to see why she was in charge of the negotiations.",
+          "vi": "Sự tự tin của cô ấy khiến mọi người dễ dàng hiểu tại sao cô lại phụ trách cuộc đàm phán."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "assure",
+          "example": "I assure you that our drug-testing policy is applied fairly."
+        },
+        {
+          "pos": "",
+          "word": "assurance",
+          "example": "What assurance is there that the company will still be in business?"
+        },
+        {
+          "pos": "",
+          "word": "assuredly",
+          "example": "He spoke assuredly, but his follow-up memo showed less conviction."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "give an assurance",
+        "quality assurance",
+        "self-assurance",
+        "seek assurances from"
+      ],
+      "usage": {
+        "structures": [
+          "give / offer (sb) an assurance (that + mệnh đề)",
+          "assurance of + N"
+        ],
+        "prepositions": [
+          "of",
+          "from",
+          "that"
+        ],
+        "collocations": [
+          "quality assurance department",
+          "written assurance",
+          "firm assurance",
+          "solemn assurance"
+        ],
+        "tip": "Cụm danh từ ghép 'quality assurance' (đảm bảo chất lượng) và cấu trúc 'give an assurance that...' xuất hiện rất thường xuyên trong Part 5 & 7."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "assured",
+          "example": "You can rest assured that your order will be delivered before Friday.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The project manager _____ the board of directors that the construction would be completed on schedule.",
+        "answer": "assured",
+        "base_word": "assurance",
+        "pos_hint": "động từ chia quá khứ đơn (V-ed)",
+        "vi": "Giám đốc dự án đã cam đoan với hội đồng quản trị rằng việc xây dựng sẽ hoàn thành đúng tiến độ."
+      }
+    },
+    {
+      "id": 4,
+      "word": "cancellation",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "annulment; stopping",
+      "definition_vi": "sự hủy bỏ, sự bãi bỏ (chuyến bay, hợp đồng, đặt chỗ)",
+      "examples": [
+        {
+          "en": "The cancellation of her flight caused her problems for the rest of the week.",
+          "vi": "Việc hủy chuyến bay đã gây ra nhiều rắc rối cho cô ấy trong suốt phần còn lại của tuần."
+        },
+        {
+          "en": "The cancellation clause appears at the back of the contract.",
+          "vi": "Điều khoản hủy bỏ xuất hiện ở mặt sau của hợp đồng."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "cancel",
+          "example": "The man canceled his magazine subscription and got his money back."
+        },
+        {
+          "pos": "",
+          "word": "cancellation",
+          "example": "Writers usually receive a cancellation fee even if their articles are not published."
+        },
+        {
+          "pos": "",
+          "word": "canceled",
+          "example": "The canceled concert ended up costing our agency millions."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "cancellation clause",
+        "cancellation fee",
+        "flight cancellation",
+        "last-minute cancellation"
+      ],
+      "usage": {
+        "structures": [
+          "cancellation of + N",
+          "cancellation + N (clause / fee / policy / notice)"
+        ],
+        "prepositions": [
+          "of",
+          "for"
+        ],
+        "collocations": [
+          "cancellation policy",
+          "subject to cancellation",
+          "notice of cancellation",
+          "order cancellation"
+        ],
+        "tip": "Danh từ 'cancellation' thường đứng trước một danh từ khác để tạo cụm danh từ ghép như 'cancellation fee/clause/policy'."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "cancelable",
+          "example": "Please note that promotional airline tickets are non-refundable and non-cancelable.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Customers who _____ their reservation less than 24 hours in advance will be charged a small fee.",
+        "answer": "cancel",
+        "base_word": "cancellation",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Khách hàng hủy đặt chỗ trước ít hơn 24 giờ sẽ bị tính một khoản phí nhỏ."
+      }
+    },
+    {
+      "id": 5,
+      "word": "determine",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to find out; to influence",
+      "definition_vi": "xác định, tìm ra; quyết định, định đoạt",
+      "examples": [
+        {
+          "en": "After reading the contract, I was still unable to determine if our company was liable for back wages.",
+          "vi": "Sau khi đọc hợp đồng, tôi vẫn không thể xác định được liệu công ty chúng ta có phải chịu trách nhiệm trả lương truy lĩnh hay không."
+        },
+        {
+          "en": "The skill of the union bargainers will determine whether the automotive plant will open next week.",
+          "vi": "Kỹ năng của những người đàm phán công đoàn sẽ quyết định liệu nhà máy ô tô có mở cửa vào tuần tới hay không."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "determine the cause",
+        "determine whether",
+        "be determined to V",
+        "determine the price"
+      ],
+      "usage": {
+        "structures": [
+          "determine + whether / if / wh-clause",
+          "be determined to + V (quyết tâm làm gì)"
+        ],
+        "prepositions": [
+          "by",
+          "to"
+        ],
+        "collocations": [
+          "determine eligibility",
+          "determine the outcome",
+          "determine the feasibility",
+          "yet to be determined"
+        ],
+        "tip": "Thường đi theo sau bởi mệnh đề bắt đầu bằng 'whether/if' hoặc từ để hỏi (how, what, why) để diễn tả việc xác định một thông tin."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "determine",
+          "example": "An independent auditor will determine the exact value of the company's assets.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "determination",
+          "example": "Her fierce determination helped the startup survive its first two years.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "determined",
+          "example": "Our sales team is determined to exceed this quarter's revenue targets.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "determinedly",
+          "example": "The committee worked determinedly to resolve the budget deficit before Friday.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The final price of the software package will be _____ by the number of user licenses required.",
+        "answer": "determined",
+        "base_word": "determine",
+        "pos_hint": "động từ chia quá khứ phân từ (V3/ed - bị động)",
+        "vi": "Giá cuối cùng của gói phần mềm sẽ được quyết định bởi số lượng giấy phép người dùng được yêu cầu."
+      }
+    },
+    {
+      "id": 6,
+      "word": "engage",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "participate; involve",
+      "definition_vi": "tham gia vào, dấn thân vào; thu hút, lôi cuốn; thuê (nhân sự/dịch vụ)",
+      "examples": [
+        {
+          "en": "Before engaging in a new business, it is important to do thorough research.",
+          "vi": "Trước khi tham gia vào một lĩnh vực kinh doanh mới, điều quan trọng là phải nghiên cứu kỹ lưỡng."
+        },
+        {
+          "en": "He engaged us in a fascinating discussion about current business law.",
+          "vi": "Anh ấy đã lôi cuốn chúng tôi vào một cuộc thảo luận hấp dẫn về luật kinh doanh hiện hành."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "engage in business",
+        "engage in a discussion",
+        "engage a consultant",
+        "be engaged in"
+      ],
+      "usage": {
+        "structures": [
+          "engage in + N / V-ing (tham gia vào)",
+          "engage + sb + in + N (lôi cuốn ai vào việc gì)",
+          "be engaged to + sb (đính hôn với ai)"
+        ],
+        "prepositions": [
+          "in",
+          "with",
+          "to"
+        ],
+        "collocations": [
+          "engage in negotiations",
+          "engage legal counsel",
+          "actively engage with customers",
+          "prior engagement"
+        ],
+        "tip": "Giới từ kinh điển đi kèm với 'engage' (mang nghĩa tham gia) là 'in': 'engage in + N/V-ing' (= participate in)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "engage",
+          "example": "The firm decided to engage an outside agency to handle public relations.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "engagement",
+          "example": "The director had to decline the invitation due to a prior business engagement.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "engaging",
+          "example": "The keynote speaker gave a very engaging presentation on market trends.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "engagingly",
+          "example": "She spoke so engagingly that the audience stayed for an extra hour of questions.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The CEO apologized for missing the awards banquet due to a prior business _____ in Tokyo.",
+        "answer": "engagement",
+        "base_word": "engage",
+        "pos_hint": "danh từ số ít",
+        "vi": "Vị giám đốc điều hành đã xin lỗi vì vắng mặt tại bữa tiệc trao giải do có một lịch hẹn công việc từ trước ở Tokyo."
+      }
+    },
+    {
+      "id": 7,
+      "word": "establish",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to institute permanently; to bring about",
+      "definition_vi": "thành lập, thiết lập; khẳng định (vị thế, uy tín)",
+      "examples": [
+        {
+          "en": "Through her many books and interviews, Dr. Wan established herself as an authority on conflict resolution.",
+          "vi": "Thông qua nhiều cuốn sách và các cuộc phỏng vấn của mình, Tiến sĩ Wan đã khẳng định mình là một chuyên gia có uy tín về giải quyết xung đột."
+        },
+        {
+          "en": "The merger of the two companies established a powerful new corporation.",
+          "vi": "Việc sáp nhập hai công ty đã tạo lập nên một tập đoàn mới hùng mạnh."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "establish a company",
+        "establish a reputation",
+        "establish guidelines",
+        "establish oneself as"
+      ],
+      "usage": {
+        "structures": [
+          "establish + N (company / relationship / policy)",
+          "establish oneself as + N (khẳng định bản thân là...)"
+        ],
+        "prepositions": [
+          "as",
+          "in"
+        ],
+        "collocations": [
+          "well-established firm",
+          "establish a committee",
+          "establish diplomatic relations",
+          "newly established branch"
+        ],
+        "tip": "Tính từ phân từ 'established' hoặc 'well-established' (lâu đời, có uy tín vững chắc) thường đứng trước danh từ chỉ công ty/tổ chức."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "establish",
+          "example": "The bank plans to establish three new branches in the metropolitan area.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "establishment",
+          "example": "The establishment of a regional headquarters will improve distribution speed.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "established",
+          "example": "It is difficult for newcomers to compete with well-established brands.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The _____ of the new safety committee has significantly reduced workplace accidents.",
+        "answer": "establishment",
+        "base_word": "establish",
+        "pos_hint": "danh từ",
+        "vi": "Việc thành lập ủy ban an toàn mới đã làm giảm đáng kể các vụ tai nạn lao động."
+      }
+    },
+    {
+      "id": 8,
+      "word": "obligate",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to bind legally or morally",
+      "definition_vi": "bắt buộc, ép buộc (về mặt pháp lý hoặc đạo đức)",
+      "examples": [
+        {
+          "en": "The contractor was obligated by the contract to work 40 hours a week.",
+          "vi": "Nhà thầu bị ràng buộc bởi hợp đồng phải làm việc 40 giờ một tuần."
+        },
+        {
+          "en": "I felt obligated to finish the project even though I could have exercised my option to quit.",
+          "vi": "Tôi cảm thấy có nghĩa vụ phải hoàn thành dự án mặc dù tôi có thể sử dụng quyền lựa chọn nghỉ việc của mình."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "obligate",
+          "example": "The terms of the contracts obligate us to work for at least one more month."
+        },
+        {
+          "pos": "",
+          "word": "obligation",
+          "example": "The factory managers have a legal and moral obligation to provide a safe work site."
+        },
+        {
+          "pos": "",
+          "word": "obligatory",
+          "example": "He finished his obligatory military service, and then joined his father on the orange farm."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "be obligated to V",
+        "feel obligated to",
+        "legal obligation",
+        "contractually obligated"
+      ],
+      "usage": {
+        "structures": [
+          "obligate + sb + to V",
+          "be / feel obligated to + V"
+        ],
+        "prepositions": [
+          "to",
+          "by"
+        ],
+        "collocations": [
+          "fulfill an obligation",
+          "meet one's obligations",
+          "without obligation",
+          "obligatory attendance"
+        ],
+        "tip": "Hầu như luôn dùng ở dạng bị động 'be/feel obligated to V' (có nghĩa vụ/bị bắt buộc phải làm gì)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "obligatorily",
+          "example": "All visitors to the chemical plant are obligatorily required to wear protective eyewear.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Under the terms of the lease, tenants are under no _____ to renew their contract after one year.",
+        "answer": "obligation",
+        "base_word": "obligate",
+        "pos_hint": "danh từ",
+        "vi": "Theo các điều khoản của hợp đồng thuê, người thuê nhà không có nghĩa vụ phải gia hạn hợp đồng sau một năm."
+      }
+    },
+    {
+      "id": 9,
+      "word": "party",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a person or group participating in an action or plan; the persons or sides concerned in a legal matter",
+      "definition_vi": "bên (tham gia hợp đồng, tranh chấp pháp lý); bữa tiệc, đoàn/nhóm người",
+      "examples": [
+        {
+          "en": "The parties agreed to a settlement in their contract dispute.",
+          "vi": "Các bên đã đồng ý dàn xếp vụ tranh chấp hợp đồng của họ."
+        },
+        {
+          "en": "The party that prepares the contract has a distinct advantage.",
+          "vi": "Bên soạn thảo hợp đồng có một lợi thế rõ rệt."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "both parties",
+        "third party",
+        "interested party",
+        "contracting parties"
+      ],
+      "usage": {
+        "structures": [
+          "the party / parties to + N (the contract / agreement)",
+          "third-party + N (vendor / supplier / insurance)"
+        ],
+        "prepositions": [
+          "to",
+          "in"
+        ],
+        "collocations": [
+          "all parties concerned",
+          "be a party to an agreement",
+          "third-party software",
+          "involved parties"
+        ],
+        "tip": "Trong ngữ cảnh pháp lý và hợp đồng TOEIC, 'party' không dịch là 'bữa tiệc' mà luôn mang nghĩa là 'bên đối tác/bên tham gia'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "party",
+          "example": "Both parties signed the non-disclosure agreement before starting negotiations.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "partisan",
+          "example": "The mediator remained strictly non-partisan throughout the labor dispute.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "All _____ involved in the merger must sign the confidentiality agreement before Friday.",
+        "answer": "parties",
+        "base_word": "party",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Tất cả các bên liên quan đến vụ sáp nhập phải ký thỏa thuận bảo mật trước thứ Sáu."
+      }
+    },
+    {
+      "id": 10,
+      "word": "provision",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a measure taken beforehand; a stipulation",
+      "definition_vi": "điều khoản (trong hợp đồng, văn bản luật); sự cung cấp, sự dự phòng",
+      "examples": [
+        {
+          "en": "The father made provisions for his children through his will.",
+          "vi": "Người cha đã lập các khoản dự phòng cho con cái thông qua di chúc của mình."
+        },
+        {
+          "en": "The contract contains a provision to deal with how payments are made if John loses his job.",
+          "vi": "Hợp đồng có một điều khoản giải quyết cách thức thanh toán nếu John bị mất việc."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "provide",
+          "example": "Since the machine is very reliable, why don’t we cancel the service contract they provided?"
+        },
+        {
+          "pos": "",
+          "word": "provider",
+          "example": "We must negotiate a new contract with our Internet service provider."
+        },
+        {
+          "pos": "",
+          "word": "provision",
+          "example": "The provision for canceling the contract is in the last clause."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "make provisions for",
+        "contractual provision",
+        "under the provisions of",
+        "provision of services"
+      ],
+      "usage": {
+        "structures": [
+          "make provision(s) for + N (chuẩn bị/dự phòng cho)",
+          "contain / include a provision (that + mệnh đề)"
+        ],
+        "prepositions": [
+          "for",
+          "of",
+          "under"
+        ],
+        "collocations": [
+          "key provision",
+          "special provision",
+          "legal provisions",
+          "penalty provision"
+        ],
+        "tip": "Khi đi với hợp đồng (contract/law), 'provision' đồng nghĩa với 'clause' hoặc 'stipulation' (điều khoản)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "provisional",
+          "example": "The committee issued a provisional approval pending the final safety inspection.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "provisionally",
+          "example": "The annual conference has been provisionally scheduled for the third week of October.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The telecommunications _____ announced that it would upgrade its fiber-optic network next month.",
+        "answer": "provider",
+        "base_word": "provision",
+        "pos_hint": "danh từ chỉ người/tổ chức",
+        "vi": "Nhà cung cấp dịch vụ viễn thông đã thông báo rằng họ sẽ nâng cấp mạng cáp quang vào tháng tới."
+      }
+    },
+    {
+      "id": 11,
+      "word": "resolve",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to deal with successfully; to declare; n., conviction",
+      "definition_vi": "giải quyết, tháo gỡ (vấn đề, tranh chấp); quyết tâm (làm gì); sự kiên quyết",
+      "examples": [
+        {
+          "en": "The mediator was able to resolve the problem to everyone's satisfaction.",
+          "vi": "Người hòa giải đã có thể giải quyết vấn đề làm hài lòng tất cả mọi người."
+        },
+        {
+          "en": "The businessman resolved to clean out all the files by the end of the week.",
+          "vi": "Doanh nhân đó đã quyết tâm dọn sạch tất cả các hồ sơ trước cuối tuần."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "resolve a dispute",
+        "resolve an issue",
+        "resolve a conflict",
+        "resolve to do"
+      ],
+      "usage": {
+        "structures": [
+          "resolve + N (problem / issue / dispute / crisis)",
+          "resolve + to V (quyết tâm làm gì)"
+        ],
+        "prepositions": [
+          "to",
+          "by"
+        ],
+        "collocations": [
+          "conflict resolution",
+          "pass a resolution",
+          "peacefully resolve",
+          "quickly resolve"
+        ],
+        "tip": "Thường đi kèm các tân ngữ chỉ rắc rối như 'problem, issue, dispute, complaint, conflict'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "resolve",
+          "example": "Our technical support team is working hard to resolve the network outage.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "resolution",
+          "example": "The board passed a resolution to expand operations into Southeast Asia.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "resolute",
+          "example": "The chief executive remained resolute in her decision to restructure the division.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "resolutely",
+          "example": "The union leaders resolutely opposed any reduction in health benefits.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The board of directors passed a formal _____ to allocate more funds to research and development.",
+        "answer": "resolution",
+        "base_word": "resolve",
+        "pos_hint": "danh từ số ít",
+        "vi": "Hội đồng quản trị đã thông qua một nghị quyết chính thức nhằm phân bổ thêm ngân sách cho nghiên cứu và phát triển."
+      }
+    },
+    {
+      "id": 12,
+      "word": "specific",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "particular",
+      "definition_vi": "cụ thể, rõ ràng, chi tiết, đặc trưng",
+      "examples": [
+        {
+          "en": "The customer's specific complaint was not addressed in his e-mail.",
+          "vi": "Khiếu nại cụ thể của khách hàng đã không được giải quyết trong email của anh ta."
+        },
+        {
+          "en": "In a contract, one specific word can change the meaning dramatically.",
+          "vi": "Trong một bản hợp đồng, một từ cụ thể có thể làm thay đổi ý nghĩa một cách đáng kể."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "specify",
+          "example": "The contract specifies the percentage of raise the workers will see next year."
+        },
+        {
+          "pos": "",
+          "word": "specification",
+          "example": "The work was done according to our specifications."
+        },
+        {
+          "pos": "",
+          "word": "specific",
+          "example": "We have not chosen a specific location for the reunion."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "be specific about",
+        "specific requirements",
+        "specific instructions",
+        "specific details"
+      ],
+      "usage": {
+        "structures": [
+          "specific to + N (đặc thù/riêng biệt cho cái gì)",
+          "meet the specifications (đạt các thông số kỹ thuật)"
+        ],
+        "prepositions": [
+          "to",
+          "about"
+        ],
+        "collocations": [
+          "technical specifications",
+          "for a specific purpose",
+          "industry-specific knowledge",
+          "specify the date"
+        ],
+        "tip": "Danh từ 'specifications' (thường ở dạng số nhiều) mang nghĩa 'thông số kỹ thuật/yêu cầu chi tiết', rất hay đi với động từ 'meet'."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "specifically",
+          "example": "This software was specifically designed for small accounting firms.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The new machinery was built strictly according to the client's technical _____.",
+        "answer": "specifications",
+        "base_word": "specific",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Hệ thống máy móc mới được chế tạo hoàn toàn tuân theo các thông số kỹ thuật của khách hàng."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Contracts are an integral part of the workplace. In simple terms, contracts are an (1) ____ between two or more (2) ____ that (3) ____ terms and (4) ____ the parties to follow them. Contracts often include the amount that a client will pay contractors and what services will be provided. For example, in your office, you may have a contract that provides (5) ____ that your copier machine or phones will be repaired within a certain amount of time. This service can either be done off-site or at your (6) ____. A contract often states ways to (7) ____ if quality of work delivered is acceptable. Well-written contracts usually (8) ____ ways to (9) ____ problems like these when they happen. Before (10) ____ in a contract, both parties should think carefully, as they will have to (11) ____ the conditions specified in it. A contract usually specifies how the two parties can (12) ____ it if either party fails to meet the terms.",
+    "word_bank": [
+      "abide by",
+      "cancel",
+      "establishment",
+      "provide",
+      "agreement",
+      "determine",
+      "obligates",
+      "resolve",
+      "assurance",
+      "engaging",
+      "parties",
+      "specifies"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "agree",
+        "example": "If both parties agree to the terms, we can finalize the contract.",
+        "pos": ""
+      },
+      {
+        "word": "agreement",
+        "example": "As soon as the labor agreement was signed, the factory resumed production of new cars and vans.",
+        "pos": ""
+      },
+      {
+        "word": "agreeable",
+        "example": "The parties are agreeable to the terms.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "assure",
+        "example": "I assure you that our drug-testing policy is applied fairly.",
+        "pos": ""
+      },
+      {
+        "word": "assurance",
+        "example": "What assurance is there that the company will still be in business?",
+        "pos": ""
+      },
+      {
+        "word": "assuredly",
+        "example": "He spoke assuredly, but his follow-up memo showed less conviction.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "cancel",
+        "example": "The man canceled his magazine subscription and got his money back.",
+        "pos": ""
+      },
+      {
+        "word": "cancellation",
+        "example": "Writers usually receive a cancellation fee even if their articles are not published.",
+        "pos": ""
+      },
+      {
+        "word": "canceled",
+        "example": "The canceled concert ended up costing our agency millions.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "obligate",
+        "example": "The terms of the contracts obligate us to work for at least one more month.",
+        "pos": ""
+      },
+      {
+        "word": "obligation",
+        "example": "The factory managers have a legal and moral obligation to provide a safe work site.",
+        "pos": ""
+      },
+      {
+        "word": "obligatory",
+        "example": "He finished his obligatory military service, and then joined his father on the orange farm.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "provide",
+        "example": "Since the machine is very reliable, why don’t we cancel the service contract they provided?",
+        "pos": ""
+      },
+      {
+        "word": "provider",
+        "example": "We must negotiate a new contract with our Internet service provider.",
+        "pos": ""
+      },
+      {
+        "word": "provision",
+        "example": "The provision for canceling the contract is in the last clause.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "specify",
+        "example": "The contract specifies the percentage of raise the workers will see next year.",
+        "pos": ""
+      },
+      {
+        "word": "specification",
+        "example": "The work was done according to our specifications.",
+        "pos": ""
+      },
+      {
+        "word": "specific",
+        "example": "We have not chosen a specific location for the reunion.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "The two sides were no closer to a final ____ at midnight than they were at noon.",
+        "options": [
+          {
+            "label": "A",
+            "text": "agreement"
+          },
+          {
+            "label": "B",
+            "text": "agreeable"
+          },
+          {
+            "label": "C",
+            "text": "agree"
+          },
+          {
+            "label": "D",
+            "text": "agreed"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "Our union representative ____ members that our rights would be defended.",
+        "options": [
+          {
+            "label": "A",
+            "text": "assured"
+          },
+          {
+            "label": "B",
+            "text": "assurance"
+          },
+          {
+            "label": "C",
+            "text": "assuredly"
+          },
+          {
+            "label": "D",
+            "text": "assure"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "If you ____ your reservation 48 hours in advance, you will not be billed.",
+        "options": [
+          {
+            "label": "A",
+            "text": "will cancel"
+          },
+          {
+            "label": "B",
+            "text": "cancel"
+          },
+          {
+            "label": "C",
+            "text": "cancellation"
+          },
+          {
+            "label": "D",
+            "text": "canceled"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "I don't feel any ____ to give my boss more than two weeks notice when I leave.",
+        "options": [
+          {
+            "label": "A",
+            "text": "oblige"
+          },
+          {
+            "label": "B",
+            "text": "obligatory"
+          },
+          {
+            "label": "C",
+            "text": "obliged"
+          },
+          {
+            "label": "D",
+            "text": "obligation"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "The ____ for terminating the contract were not discussed.",
+        "options": [
+          {
+            "label": "A",
+            "text": "provide"
+          },
+          {
+            "label": "B",
+            "text": "provisions"
+          },
+          {
+            "label": "C",
+            "text": "provider"
+          },
+          {
+            "label": "D",
+            "text": "provisioning"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "The contract calls for the union to ____ who their bargaining representative will be.",
+        "options": [
+          {
+            "label": "A",
+            "text": "specific"
+          },
+          {
+            "label": "B",
+            "text": "specification"
+          },
+          {
+            "label": "C",
+            "text": "specifying"
+          },
+          {
+            "label": "D",
+            "text": "specify"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Rental Property for Everyone More and more people are investing in rental property these days. Whether you have a small apartment in your house to rent, or decide to invest in an apartment or office building, rental property can provide extra income for you and your family. What does every landlord need to know? Leases A lease is an [16] between a landlord and a tenant. Standard leases are available at most office supply stores, and many property owners find them quite satisfactory. Read the standard lease carefully to determine if it meets the needs of your situation. You may want to make some additional [17]. You may want to add a pet clause, for example, or make different specifications pertaining to the security deposit. If you decide to make changes to the standard lease, you should meet with a lawyer. The lease is the most important tool you have if you need to resolve a dispute with your tenant. When you have a lease written by a lawyer, you [18] that you have the protection you need.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "agree"
+            },
+            {
+              "label": "B",
+              "text": "agreed"
+            },
+            {
+              "label": "C",
+              "text": "agreeable"
+            },
+            {
+              "label": "D",
+              "text": "agreement"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "provision"
+            },
+            {
+              "label": "B",
+              "text": "provisions"
+            },
+            {
+              "label": "C",
+              "text": "provider"
+            },
+            {
+              "label": "D",
+              "text": "providers"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "assure"
+            },
+            {
+              "label": "B",
+              "text": "will assure"
+            },
+            {
+              "label": "C",
+              "text": "are assuring"
+            },
+            {
+              "label": "D",
+              "text": "are assured"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following letter and form. Santos Office Cleaners 112 Main St. Windsor, Ontario December 15, 20— Mr. James Harrison 17 Hartland Road Windsor, Ontario Dear Mr. Harrison, We are very sorry that you have decided to cancel your cleaning service contract with us. In order to assure that we provide our customers with the best possible service, we always try to determine the reasons for contract cancellations. Please take a few minutes to fill out the enclosed form. This is for our information only; completing the form does not obligate you to buy any product or enter into any new agreement with our company. We appreciate your cooperation. If at any time in the future you decide to renew your contract with us, please don't hesitate to contact me. Sincerely, Rosa Santos Rosa Santos Owner Date contract signed: March 23, 20— Type of facility: ☑ single office □ office building □ private home □ other Frequency of service: □ daily ☒ weekly □ monthly □ other Reason for contract cancellation (choose one): □ no longer need service □ signed contract with a different company ☑ payment dispute not satisfactorily resolved □ specific complaint not resolved □ other Comments: I was always satisfied with the service provided by your employees. However, I am frustrated by your inability to resolve the payment issues.",
+        "questions": [
+          {
+            "number": 19,
+            "question": "What is the purpose of the letter?",
+            "options": [
+              {
+                "label": "A",
+                "text": "To find out why Mr. Harrison no longer wants this service."
+              },
+              {
+                "label": "B",
+                "text": "To ask Mr. Harrison to renew his contract."
+              },
+              {
+                "label": "C",
+                "text": "To advertise new services provided by the company."
+              },
+              {
+                "label": "D",
+                "text": "To offer the customer a better contract."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "What is Ms. Santos's business?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Customer relations."
+              },
+              {
+                "label": "B",
+                "text": "Cleaning service."
+              },
+              {
+                "label": "C",
+                "text": "Contract review."
+              },
+              {
+                "label": "D",
+                "text": "Conflict resolution."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "Why did this customer cancel the contract?",
+            "options": [
+              {
+                "label": "A",
+                "text": "The company damaged something in his office."
+              },
+              {
+                "label": "B",
+                "text": "The employees provided unsatisfactory service."
+              },
+              {
+                "label": "C",
+                "text": "He had a disagreement about his bill."
+              },
+              {
+                "label": "D",
+                "text": "He doesn't want this type of service anymore."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word assure in letter one, line 2, is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "guarantee."
+              },
+              {
+                "label": "B",
+                "text": "discover."
+              },
+              {
+                "label": "C",
+                "text": "prove."
+              },
+              {
+                "label": "D",
+                "text": "advertise."
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word specific in form two, line 15, is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "personal."
+              },
+              {
+                "label": "B",
+                "text": "important."
+              },
+              {
+                "label": "C",
+                "text": "repeated."
+              },
+              {
+                "label": "D",
+                "text": "particular."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What problem do the speakers have with the computer company?",
+        "options": [
+          {
+            "label": "A",
+            "text": "It won't renew the contract."
+          },
+          {
+            "label": "B",
+            "text": "It can't repair the computer."
+          },
+          {
+            "label": "C",
+            "text": "It sends incorrect bills."
+          },
+          {
+            "label": "D",
+            "text": "It charges them for extra spare parts."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the woman suggest doing?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Asking the company to write a new contract."
+          },
+          {
+            "label": "B",
+            "text": "Canceling the contract."
+          },
+          {
+            "label": "C",
+            "text": "Renewing the contract."
+          },
+          {
+            "label": "D",
+            "text": "Waiting until the contract runs out."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "When will the contract run out?",
+        "options": [
+          {
+            "label": "A",
+            "text": "In two months."
+          },
+          {
+            "label": "B",
+            "text": "In nine months."
+          },
+          {
+            "label": "C",
+            "text": "In one year."
+          },
+          {
+            "label": "D",
+            "text": "In four years."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "Who is talking?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A lawyer."
+          },
+          {
+            "label": "B",
+            "text": "An upset signer of the contract."
+          },
+          {
+            "label": "C",
+            "text": "A secretary."
+          },
+          {
+            "label": "D",
+            "text": "Someone who has canceled his agreement."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "Which part of the contract are they looking at?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A cancellation clause."
+          },
+          {
+            "label": "B",
+            "text": "The assurance of quality."
+          },
+          {
+            "label": "C",
+            "text": "The agreement on payment."
+          },
+          {
+            "label": "D",
+            "text": "A provision in case of bankruptcy."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "When can the parties sign the contract?",
+        "options": [
+          {
+            "label": "A",
+            "text": "In two days."
+          },
+          {
+            "label": "B",
+            "text": "At the end of the week."
+          },
+          {
+            "label": "C",
+            "text": "Next week."
+          },
+          {
+            "label": "D",
+            "text": "In thirty days."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. What problem do the speakers have with the computer company? (A) It won't renew the contract. (B) It can't repair the computer. (C) It sends incorrect bills. (D) It charges them for extra spare parts. 6. What does the woman suggest doing? (A) Asking the company to write a new contract. (B) Canceling the contract. (C) Renewing the contract. (D) Waiting until the contract runs out. 5. When will the contract run out? (A) In two months. (B) In nine months. (C) In one year. (D) In four years. Listen to the talk. Then read each question and choose the best answer. 7. Who is talking? (A) A lawyer. (B) An upset signer of the contract. (C) A secretary. (D) Someone who has canceled his agreement. 8. Which part of the contract are they looking at? (A) A cancellation clause. (B) The assurance of quality. (C) The agreement on payment. (D) A provision in case of bankruptcy. 9. When can the parties sign the contract? (A) In two days. (B) At the end of the week. (C) Next week. (D) In thirty days.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question—Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What problem do the speakers have with the computer company?",
+        "options": [
+          {
+            "label": "A",
+            "text": "It won't renew the contract."
+          },
+          {
+            "label": "B",
+            "text": "It can't repair the computer."
+          },
+          {
+            "label": "C",
+            "text": "It sends incorrect bills."
+          },
+          {
+            "label": "D",
+            "text": "It charges them for extra spare parts."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the woman suggest doing?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Asking the company to write a new contract."
+          },
+          {
+            "label": "B",
+            "text": "Canceling the contract."
+          },
+          {
+            "label": "C",
+            "text": "Renewing the contract."
+          },
+          {
+            "label": "D",
+            "text": "Waiting until the contract runs out."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "When will the contract run out?",
+        "options": [
+          {
+            "label": "A",
+            "text": "In two months."
+          },
+          {
+            "label": "B",
+            "text": "In nine months."
+          },
+          {
+            "label": "C",
+            "text": "In one year."
+          },
+          {
+            "label": "D",
+            "text": "In four years."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "Who is talking?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A lawyer."
+          },
+          {
+            "label": "B",
+            "text": "An upset signer of the contract."
+          },
+          {
+            "label": "C",
+            "text": "A secretary."
+          },
+          {
+            "label": "D",
+            "text": "Someone who has canceled his agreement."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "Which part of the contract are they looking at?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A cancellation clause."
+          },
+          {
+            "label": "B",
+            "text": "The assurance of quality."
+          },
+          {
+            "label": "C",
+            "text": "The agreement on payment."
+          },
+          {
+            "label": "D",
+            "text": "A provision in case of bankruptcy."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "When can the parties sign the contract?",
+        "options": [
+          {
+            "label": "A",
+            "text": "In two days."
+          },
+          {
+            "label": "B",
+            "text": "At the end of the week."
+          },
+          {
+            "label": "C",
+            "text": "Next week."
+          },
+          {
+            "label": "D",
+            "text": "In thirty days."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "## Contracts\n\nStudy the following definitions and examples.\n\n1. abide by v., to comply with; to conform\n\na. The two parties agreed to abide by the judge's decision.\n\nb. For years he has abided by a commitment to annual employee raises.\n\n2. agreement n., a mutual arrangement, a contract a. The landlord and tenant were in agreement that the rent should be prorated to the middle of the month.\n\nb. According to the agreement, the caterer will also supply the flowers for the event.\n\n3. assurance n., a guarantee; confidence a. The sales associate gave his assurance that the missing keyboard would be replaced the next day.\n\nb. Her self-assurance made it easy to see why she was in charge of the negotiations.\n\n4. cancellation n., annulment; stopping a. The cancellation of her flight caused her problems for the rest of the week.\n\nb. The cancellation clause appears at the back of the contract.\n\n5. determine v., to find out; to influence a. After reading the contract, I was still unable to determine if our company was liable for back wages.\n\nb. The skill of the union bargainers will determine whether the automotive plant will open next week.\n\n6. engage v., participate; involve\n\na. Before engaging in a new business, it is important to do thorough research.\n\nb. He engaged us in a fascinating discussion about current business law.\n\n7. establish v., to institute permanently; to bring about a. Through her many books and interviews, Dr. Wan established herself as an authority on conflict resolution.\n\nb. The merger of the two companies established a powerful new corporation.\n\n8. obligate v., to bind legally or morally\n\na. The contractor was obligated by the contract to work 40 hours a week.\n\nb. I felt obligated to finish the project even though I could have exercised my option to quit.\n\n9. party n., a person or group participating in an action or plan; the persons or sides concerned in a legal matter\n\na. The parties agreed to a settlement in their contract dispute.\n\nb. The party that prepares the contract has a distinct advantage.\n\n10. provision n., a measure taken beforehand; a stipulation\n\na. The father made provisions for his children through his will.\n\nb. The contract contains a provision to deal with how payments are made if John loses his job.\n\n11. resolve v., to deal with successfully; to declare; n., conviction\n\na. The mediator was able to resolve the problem to everyone's satisfaction.\n\nb. The businessman resolved to clean out all the files by the end of the week.\n\n12. specific adj., particular\n\na. The customer's specific complaint was not addressed in his e-mail.\n\nb. In a contract, one specific word can change the meaning dramatically.",
+    "words_in_context": "## WORDS IN CONTEXT\n\n## Read the following passage and write the words in the blanks below.\n\n| abide by | cancel | establishment | provide |\n| --- | --- | --- | --- |\n| agreement | determine | obligates | resolve |\n| assurance | engaging | parties | specifies |\n\nContracts are an integral part of the workplace. In simple terms, contracts are an (1) \\_\\_\\_\\_ between two or more (2) \\_\\_\\_\\_ that (3) \\_\\_\\_\\_ terms and (4) \\_\\_\\_\\_ the parties to follow them. Contracts often include the amount that a client will pay contractors and what services will be provided. For example, in your office, you may have a contract that provides (5) \\_\\_\\_\\_ that your copier machine or phones will be repaired within a certain amount of time. This service can either be done off-site or at your (6) \\_\\_\\_\\_. A contract often states ways to (7) \\_\\_\\_\\_ if quality of work delivered is acceptable. Well-written contracts usually (8) \\_\\_\\_\\_ ways to (9) \\_\\_\\_\\_ problems like these when they happen. Before (10) \\_\\_\\_\\_ in a contract, both parties should think carefully, as they will have to (11) \\_\\_\\_\\_ the conditions specified in it. A contract usually specifies how the two parties can (12) \\_\\_\\_\\_ it if either party fails to meet the terms.",
+    "word_families": "## WORD FAMILIES\n\n<table><tr><td>agree</td><td>If both parties agree to the terms, we can finalize the contract.</td></tr><tr><td>agreement</td><td>As soon as the labor agreement was signed, the factory resumed production of new cars and vans.</td></tr><tr><td>agreeable</td><td>The parties are agreeable to the terms.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>assure</td><td>I assure you that our drug-testing policy is applied fairly.</td></tr><tr><td>assurance</td><td>What assurance is there that the company will still be in business?</td></tr><tr><td>assuredly</td><td>He spoke assuredly, but his follow-up memo showed less conviction.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>cancel</td><td>The man canceled his magazine subscription and got his money back.</td></tr><tr><td>cancellation</td><td>Writers usually receive a cancellation fee even if their articles are not published.</td></tr><tr><td>canceled</td><td>The canceled concert ended up costing our agency millions.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>obligate</td><td>The terms of the contracts obligate us to work for at least one more month.</td></tr><tr><td>obligation</td><td>The factory managers have a legal and moral obligation to provide a safe work site.</td></tr><tr><td>obligatory</td><td>He finished his obligatory military service, and then joined his father on the orange farm.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>provide</td><td>Since the machine is very reliable, why don’t we cancel the service contract they provided?</td></tr><tr><td>provider</td><td>We must negotiate a new contract with our Internet service provider.</td></tr><tr><td>provision</td><td>The provision for canceling the contract is in the last clause.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>specify</td><td>The contract specifies the percentage of raise the workers will see next year.</td></tr><tr><td>specification</td><td>The work was done according to our specifications.</td></tr><tr><td>specific</td><td>We have not chosen a specific location for the reunion.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE\n\n## LISTENING COMPREHENSION\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n## Part 2 Question—Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. What problem do the speakers have with the computer company?\n(A) It won't renew the contract.\n(B) It can't repair the computer.\n(C) It sends incorrect bills.\n(D) It charges them for extra spare parts.\n\n6. What does the woman suggest doing?  \n(A) Asking the company to write a new contract.  \n(B) Canceling the contract.  \n(C) Renewing the contract.  \n(D) Waiting until the contract runs out.\n\n5. When will the contract run out?\n(A) In two months.\n(B) In nine months.\n(C) In one year.\n(D) In four years.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. Who is talking?  \n(A) A lawyer.  \n(B) An upset signer of the contract.  \n(C) A secretary.  \n(D) Someone who has canceled his agreement.\n\n8. Which part of the contract are they looking at?\n(A) A cancellation clause.\n(B) The assurance of quality.\n(C) The agreement on payment.\n(D) A provision in case of bankruptcy.\n\n9. When can the parties sign the contract?\n(A) In two days.\n(B) At the end of the week.\n(C) Next week.\n(D) In thirty days.",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. The two sides were no closer to a final \\_\\_\\_\\_ at midnight than they were at noon.\n(A) agreement (C) agree\n(B) agreeable (D) agreed\n\n11. Our union representative \\_\\_\\_\\_ members that our rights would be defended.\n(A) assured (C) assuredly\n(B) assurance (D) assure\n\n12. If you \\_\\_\\_\\_ your reservation 48 hours in advance, you will not be billed.\n(A) will cancel (C) cancellation\n(B) cancel (D) canceled\n\n13. I don't feel any \\_\\_\\_\\_ to give my boss more than two weeks notice when I leave.\n(A) oblige (C) obliged\n(B) obligatory (D) obligation\n\n14. The \\_\\_\\_\\_ for terminating the contract were not discussed.\n(A) provide (C) provider\n(B) provisions (D) provisioning\n\n15. The contract calls for the union to \\_\\_\\_\\_ who their bargaining representative will be.\n(A) specific (C) specifying\n(B) specification (D) specify\n\n## Part 6 Text Completion\n\nChoose the word or phrase that best completes the sentence.\n\n## Rental Property for Everyone\n\nMore and more people are investing in rental property these days. Whether you have a small apartment in your house to rent, or decide to invest in an apartment or office building, rental property can provide extra income for you and your family. What does every landlord need to know?\n\n## Leases\n\nA lease is an \\_16\\_ between a landlord and a tenant. Standard leases are available at most office supply stores, and many property owners find them quite satisfactory. Read the standard lease carefully to determine if it meets the needs of your situation. You may want to make some additional \\_17\\_. You may want to add a pet clause, for example, or make different specifications pertaining to the security deposit. If you decide to make changes to the standard lease, you should meet with a lawyer. The lease is the most important tool you have if you need to resolve a dispute with your tenant. When you have a lease written by a lawyer, you \\_18\\_ that you have the protection you need.\n\n16. (A) agree 18. (A) assure  \n(B) agreed (B) will assure  \n(C) agreeable (C) are assuring  \n(D) agreement (D) are assured\n\n17. (A) provision  \n(B) provisions  \n(C) provider  \n(D) providers",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following letter and form.\n\nSantos Office Cleaners  \n112 Main St.  \nWindsor, Ontario\n\nDecember 15, 20—\n\nMr. James Harrison  \n17 Hartland Road  \nWindsor, Ontario\n\nDear Mr. Harrison,\n\nWe are very sorry that you have decided to cancel your cleaning service contract with us. In order to assure that we provide our customers with the best possible service, we always try to determine the reasons for contract cancellations. Please take a few minutes to fill out the enclosed form. This is for our information only; completing the form does not obligate you to buy any product or enter into any new agreement with our company. We appreciate your cooperation. If at any time in the future you decide to renew your contract with us, please don't hesitate to contact me.\n\nSincerely,\nRosa Santos\nRosa Santos\nOwner\n\n19. What is the purpose of the letter?\n(A) To find out why Mr. Harrison no longer wants this service.\n(B) To ask Mr. Harrison to renew his contract.\n(C) To advertise new services provided by the company.\n(D) To offer the customer a better contract.\n\n20. What is Ms. Santos's business?\n(A) Customer relations.\n(B) Cleaning service.\n(C) Contract review.\n(D) Conflict resolution.\n\n21. Why did this customer cancel the contract?\n(A) The company damaged something in his office.\n(B) The employees provided unsatisfactory service.\n(C) He had a disagreement about his bill.\n(D) He doesn't want this type of service anymore.\n\n## Santos Office Cleaners Customer Questionnaire\n\nDate contract signed: March 23, 20—\n\nType of facility:\n☑ single office\n□ office building\n□ private home\n□ other\n\nFrequency of service:\n□ daily\n☒ weekly\n□ monthly\n□ other\n\nReason for contract cancellation (choose one):\n□ no longer need service\n□ signed contract with a different company\n☑ payment dispute not satisfactorily resolved\n□ specific complaint not resolved\n□ other\n\nComments: I was always satisfied with the service provided by your employees. However, I am frustrated by your inability to resolve the payment issues.\n\n22. The word assure in letter one, line 2, is closest in meaning to  \n(A) guarantee.  \n(B) discover.  \n(C) prove.  \n(D) advertise.\n\n23. The word specific in form two, line 15, is closest in meaning to  \n(A) personal.  \n(B) important.  \n(C) repeated.  \n(D) particular."
+  },
+  "needs_review": true
+}

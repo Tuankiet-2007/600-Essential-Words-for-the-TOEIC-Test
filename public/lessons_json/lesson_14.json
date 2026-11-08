@@ -1,0 +1,1599 @@
+{
+  "lesson_id": 14,
+  "title": "Salaries and Benefits",
+  "theme_name": "Personnel",
+  "audio_track": "track_14.mp3",
+  "part1_photo": "part1_photos/lesson_14.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "basis",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the main reason for something; a base or foundation",
+      "definition_vi": "nền tảng, cơ sở; định kỳ",
+      "examples": [
+        {
+          "en": "The manager didn't have any basis for firing the employee.",
+          "vi": "Người quản lý không có bất kỳ cơ sở nào để sa thải nhân viên đó."
+        },
+        {
+          "en": "On the basis of my ten years of loyalty to this company, I feel that I deserve three weeks vacation.",
+          "vi": "Trên cơ sở mười năm gắn bó trung thành với công ty này, tôi cảm thấy mình xứng đáng có ba tuần nghỉ phép."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "basis",
+          "example": "Your raise will be determined on the basis of performance alone."
+        },
+        {
+          "pos": "verb",
+          "word": "base",
+          "example": "We base promotions on seniority."
+        },
+        {
+          "pos": "adjective",
+          "word": "based",
+          "example": "Based on the assumption that you will earn more in your new position, you can afford the car you've been wanting."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "on the basis of",
+        "on a regular basis",
+        "on a daily basis",
+        "on a temporary basis"
+      ],
+      "usage": {
+        "structures": [
+          "on the basis of + N (dựa trên cơ sở cái gì)",
+          "on a + adj (daily/weekly/regular/temporary) + basis (theo định kỳ hàng ngày/hàng tuần/thường xuyên/tạm thời)"
+        ],
+        "prepositions": [
+          "on",
+          "of",
+          "for"
+        ],
+        "collocations": [
+          "form the basis of",
+          "on a first-come, first-served basis",
+          "on a voluntary basis",
+          "legal basis"
+        ],
+        "tip": "Cụm 'on a [adj] basis' (on a regular/daily/monthly basis) là một trong những cụm cố định xuất hiện nhiều nhất trong đề thi TOEIC Part 5."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "basic",
+          "example": "All new hires must complete a basic accounting course.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "basically",
+          "example": "The two benefit packages are basically identical in coverage.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Performance bonuses are _____ primarily on individual sales figures and customer feedback.",
+        "answer": "based",
+        "base_word": "basis",
+        "pos_hint": "động từ chia quá khứ phân từ (V3/ed) ở câu bị động",
+        "vi": "Tiền thưởng hiệu suất được tính dựa chủ yếu vào doanh số bán hàng cá nhân và phản hồi của khách hàng."
+      }
+    },
+    {
+      "id": 2,
+      "word": "be aware of",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to be conscious of; to be knowledgeable about",
+      "definition_vi": "nhận thức được, biết về, nắm được",
+      "examples": [
+        {
+          "en": "The new staff member wasn't aware of the company's position on working a second job.",
+          "vi": "Nhân viên mới không biết về quan điểm của công ty đối với việc làm thêm công việc thứ hai."
+        },
+        {
+          "en": "Are you aware of the new employee's past work history?",
+          "vi": "Bạn có nắm được lịch sử làm việc trước đây của nhân viên mới không?"
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "be fully aware of",
+        "make employees aware of",
+        "become aware of",
+        "aware of the policy"
+      ],
+      "usage": {
+        "structures": [
+          "be aware of + N/V-ing (biết/nhận thức về điều gì)",
+          "be aware that + S + V (biết rằng...)"
+        ],
+        "prepositions": [
+          "of"
+        ],
+        "collocations": [
+          "well aware of the risks",
+          "acutely aware of",
+          "raise awareness of",
+          "public awareness"
+        ],
+        "tip": "Nếu sau chỗ trống là giới từ 'of' + cụm danh từ, hãy chọn tính từ 'aware' (be aware of)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "awareness",
+          "example": "The campaign aims to increase employee awareness of cybersecurity threats.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "aware",
+          "example": "Please ensure that all team members are aware of the revised safety rules.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "unaware",
+          "example": "Several commuters were unaware of the schedule change.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The workshop was organized to promote greater _____ of workplace wellness programs.",
+        "answer": "awareness",
+        "base_word": "be aware of",
+        "pos_hint": "danh từ",
+        "vi": "Buổi hội thảo được tổ chức nhằm nâng cao nhận thức sâu rộng hơn về các chương trình chăm sóc sức khỏe tại nơi làm việc."
+      }
+    },
+    {
+      "id": 3,
+      "word": "benefit",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an advantage provided to an employee in addition to salary; v., to take advantage of",
+      "definition_vi": "(n) phúc lợi, lợi ích; (v) hưởng lợi, mang lại lợi ích",
+      "examples": [
+        {
+          "en": "Although the analyst earned a better salary at his new job, his benefits were better at his previous job.",
+          "vi": "Mặc dù chuyên viên phân tích kiếm được mức lương cao hơn ở công việc mới, chế độ phúc lợi của anh ấy ở công việc trước lại tốt hơn."
+        },
+        {
+          "en": "We all benefit from the company's policy of semiannual reviews.",
+          "vi": "Tất cả chúng ta đều hưởng lợi từ chính sách đánh giá định kỳ nửa năm một lần của công ty."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "benefit",
+          "example": "In order to benefit from the plan, you must fill out the paperwork and submit it to the personnel office."
+        },
+        {
+          "pos": "",
+          "word": "benefits",
+          "example": "The new employee's benefits went into effect three months after his start date."
+        },
+        {
+          "pos": "adjective",
+          "word": "beneficial",
+          "example": "The service that the insurance has provided has been very beneficial."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "employee benefits",
+        "fringe benefits",
+        "benefit from",
+        "mutually beneficial"
+      ],
+      "usage": {
+        "structures": [
+          "benefit from + N (hưởng lợi từ cái gì - nội động từ)",
+          "be beneficial to + sb/sth (có lợi cho ai/cái gì)"
+        ],
+        "prepositions": [
+          "from",
+          "to",
+          "of"
+        ],
+        "collocations": [
+          "comprehensive benefits package",
+          "retirement benefits",
+          "health-care benefits",
+          "reap the benefits"
+        ],
+        "tip": "Khi mang nghĩa 'chế độ đãi ngộ/phúc lợi nhân viên', danh từ luôn dùng ở dạng số nhiều 'benefits' (benefits package, fringe benefits)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "beneficiary",
+          "example": "Please name a primary beneficiary on your life insurance enrollment form.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "beneficially",
+          "example": "The new flexible schedule has beneficially impacted staff morale.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Establishing a partnership with the local university will be mutually _____ to both institutions.",
+        "answer": "beneficial",
+        "base_word": "benefit",
+        "pos_hint": "tính từ",
+        "vi": "Việc thiết lập quan hệ đối tác với trường đại học địa phương sẽ mang lại lợi ích chung cho cả hai tổ chức."
+      }
+    },
+    {
+      "id": 4,
+      "word": "compensate",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to pay; to make up for",
+      "definition_vi": "đền bù, bồi thường, trả thù lao",
+      "examples": [
+        {
+          "en": "The company compensates employees for overtime by paying double for extra hours.",
+          "vi": "Công ty trả thù lao làm thêm giờ cho nhân viên bằng cách trả gấp đôi cho những giờ làm thêm."
+        },
+        {
+          "en": "The company will compensate employees for any travel expenses.",
+          "vi": "Công ty sẽ bồi hoàn cho nhân viên bất kỳ khoản chi phí đi lại nào."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "compensate",
+          "example": "The company compensates its full-time employees well."
+        },
+        {
+          "pos": "noun",
+          "word": "compensation",
+          "example": "Compensation will be based on your work performance over the past six months."
+        },
+        {
+          "pos": "",
+          "word": "compensatory",
+          "example": "Compensatory time is given in lieu of overtime pay."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "compensate for overtime",
+        "compensate employees",
+        "financial compensation",
+        "workers' compensation"
+      ],
+      "usage": {
+        "structures": [
+          "compensate + sb + for + sth (trả thù lao / bồi thường cho ai vì cái gì)",
+          "compensate for + sth (bù đắp cho cái gì)"
+        ],
+        "prepositions": [
+          "for",
+          "with"
+        ],
+        "collocations": [
+          "adequately compensated",
+          "compensation package",
+          "seek compensation for damages",
+          "compensatory time off"
+        ],
+        "tip": "Luôn đi kèm giới từ 'for' khi chỉ lý do được trả công hoặc tổn thất được đền bù (compensate sb for sth)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "compensated",
+          "example": "Sales representatives are generously compensated for exceeding their quotas.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The airline offered hotel vouchers as _____ for the overnight flight cancellation.",
+        "answer": "compensation",
+        "base_word": "compensate",
+        "pos_hint": "danh từ",
+        "vi": "Hãng hàng không đã cung cấp phiếu nghỉ khách sạn như khoản đền bù cho việc hủy chuyến bay qua đêm."
+      }
+    },
+    {
+      "id": 5,
+      "word": "delicately",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "with sensitivity",
+      "definition_vi": "một cách khéo léo, tế nhị, nhẹ nhàng",
+      "examples": [
+        {
+          "en": "Senior management is handling these contract negotiations delicately.",
+          "vi": "Ban lãnh đạo cấp cao đang xử lý các cuộc đàm phán hợp đồng này một cách khéo léo."
+        },
+        {
+          "en": "The manager delicately asked about the health of his client.",
+          "vi": "Người quản lý đã tế nhị hỏi thăm về tình hình sức khỏe của khách hàng."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "handle delicately",
+        "negotiate delicately",
+        "worded delicately",
+        "delicately balanced"
+      ],
+      "usage": {
+        "structures": [
+          "handle/treat/approach + sth + delicately (xử lý việc gì một cách tế nhị/khéo léo)"
+        ],
+        "prepositions": [],
+        "collocations": [
+          "delicately phrased",
+          "delicate negotiations",
+          "delicate matter",
+          "move delicately"
+        ],
+        "tip": "Thường bổ nghĩa cho các động từ như 'handle, negotiate, phrase, ask' khi nói về các vấn đề nhạy cảm trong công sở."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "delicacy",
+          "example": "Personnel disputes must be handled with great tact and delicacy.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "delicate",
+          "example": "Salary restructuring is a delicate issue that requires careful planning.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "delicately",
+          "example": "The mediator delicately guided both parties toward a compromise.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Because the merger talks are at a _____ stage, executives have declined to comment publicly.",
+        "answer": "delicate",
+        "base_word": "delicately",
+        "pos_hint": "tính từ",
+        "vi": "Vì các cuộc đàm phán sáp nhập đang ở giai đoạn nhạy cảm, các giám đốc điều hành đã từ chối bình luận công khai."
+      }
+    },
+    {
+      "id": 6,
+      "word": "eligible",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "able to participate in something; qualified",
+      "definition_vi": "đủ tư cách, đủ điều kiện hưởng",
+      "examples": [
+        {
+          "en": "Some employees may be eligible for the tuition reimbursement plan.",
+          "vi": "Một số nhân viên có thể đủ điều kiện tham gia chương trình hoàn trả học phí."
+        },
+        {
+          "en": "I don't understand why I'm not eligible if I have been with the company for over a year.",
+          "vi": "Tôi không hiểu tại sao mình lại không đủ điều kiện khi tôi đã làm việc cho công ty hơn một năm."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "eligible for promotion",
+        "eligible for benefits",
+        "eligible to participate",
+        "eligible employees"
+      ],
+      "usage": {
+        "structures": [
+          "be eligible for + N (đủ điều kiện nhận/tham gia cái gì)",
+          "be eligible to + V (đủ điều kiện làm gì)"
+        ],
+        "prepositions": [
+          "for",
+          "to"
+        ],
+        "collocations": [
+          "eligible for a refund",
+          "eligible for overtime pay",
+          "eligible voters",
+          "determine eligibility"
+        ],
+        "tip": "Điểm ngữ pháp trọng tâm TOEIC: 'eligible' đi với 'for + N' hoặc 'to + V', thường dùng cho quyền lợi, bảo hiểm, thăng chức hoặc hoàn tiền."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "eligibility",
+          "example": "Please review the eligibility criteria before submitting your grant application.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "eligible",
+          "example": "Full-time staff become eligible for dental coverage after ninety days.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "ineligible",
+          "example": "Part-time contractors are ineligible for the company pension plan.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "eligibly",
+          "example": "All eligibly enrolled members will receive their membership cards by mail.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The human resources clerk verified the employee's _____ for parental leave benefits.",
+        "answer": "eligibility",
+        "base_word": "eligible",
+        "pos_hint": "danh từ",
+        "vi": "Nhân viên phòng nhân sự đã xác minh việc đủ điều kiện hưởng chế độ nghỉ phép chăm con của nhân viên đó."
+      }
+    },
+    {
+      "id": 7,
+      "word": "flexibly",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "with the ability to change; loosely",
+      "definition_vi": "một cách linh hoạt, mềm dẻo",
+      "examples": [
+        {
+          "en": "My manager thinks flexibly, enabling herself to solve many sticky problems.",
+          "vi": "Quản lý của tôi suy nghĩ rất linh hoạt, giúp cô ấy giải quyết được nhiều vấn đề hóc búa."
+        },
+        {
+          "en": "We need to respond flexibly if we want to keep customers in this competitive market.",
+          "vi": "Chúng ta cần phản ứng một cách linh hoạt nếu muốn giữ chân khách hàng trong thị trường cạnh tranh này."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "flexibly",
+          "example": "She approaches problems flexibly, looking at the situation from every different angle."
+        },
+        {
+          "pos": "",
+          "word": "flexible",
+          "example": "Younger workers tend to be more flexible with their work schedules."
+        },
+        {
+          "pos": "noun",
+          "word": "flexibility",
+          "example": "His flexibility on benefits was one of the main reasons we were able to hire him at this time."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "respond flexibly",
+        "work flexibly",
+        "think flexibly",
+        "adapt flexibly"
+      ],
+      "usage": {
+        "structures": [
+          "V + flexibly (làm việc/ứng phó một cách linh hoạt)"
+        ],
+        "prepositions": [],
+        "collocations": [
+          "flexible working hours",
+          "workplace flexibility",
+          "manage schedules flexibly",
+          "flexible benefits plan"
+        ],
+        "tip": "Họ từ 'flexible / flexibility / flexibly' xuất hiện dày đặc trong các bài đọc về giờ làm việc linh hoạt (flexible hours / flextime)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "flex",
+          "example": "Employees can flex their start and end times with supervisor approval.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Many job seekers prioritize schedule _____ when evaluating employment offers.",
+        "answer": "flexibility",
+        "base_word": "flexibly",
+        "pos_hint": "danh từ",
+        "vi": "Nhiều người tìm việc ưu tiên sự linh hoạt về lịch trình khi đánh giá các lời mời làm việc."
+      }
+    },
+    {
+      "id": 8,
+      "word": "negotiate",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to talk for the purpose of reaching an agreement, especially on prices or contracts",
+      "definition_vi": "đàm phán, thương lượng",
+      "examples": [
+        {
+          "en": "You must know what you want and what you can accept when you negotiate a salary.",
+          "vi": "Bạn phải biết mình muốn gì và có thể chấp nhận mức nào khi đàm phán tiền lương."
+        },
+        {
+          "en": "The associate looked forward to the day that she would be able to negotiate her own contracts.",
+          "vi": "Chuyên viên cộng tác rất mong chờ đến ngày cô có thể tự đàm phán các hợp đồng của riêng mình."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "negotiate",
+          "example": "The employee prepared a list of her accomplishments to share with her supervisor so that she could negotiate a higher salary."
+        },
+        {
+          "pos": "noun",
+          "word": "negotiation",
+          "example": "The director was very pleased that the negotiations brought about the end of the strike."
+        },
+        {
+          "pos": "noun",
+          "word": "negotiator",
+          "example": "I should take lessons from Mr. Tarsa; he is such a skilled negotiator."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "negotiate a contract",
+        "negotiate a salary",
+        "negotiate with suppliers",
+        "enter into negotiations"
+      ],
+      "usage": {
+        "structures": [
+          "negotiate + sth (a contract/salary/settlement) (đàm phán cái gì)",
+          "negotiate with + sb + for/over + sth (đàm phán với ai về cái gì)"
+        ],
+        "prepositions": [
+          "with",
+          "for",
+          "over"
+        ],
+        "collocations": [
+          "under negotiation",
+          "negotiate favorable terms",
+          "skilled negotiator",
+          "negotiating table"
+        ],
+        "tip": "Chú ý cụm cố định 'under negotiation' (đang trong quá trình đàm phán) và tính từ 'negotiable' (có thể thương lượng được)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "negotiable",
+          "example": "The starting salary for this executive role is negotiable based on experience.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "After weeks of intense _____, management and the labor union reached a three-year agreement.",
+        "answer": "negotiations",
+        "base_word": "negotiate",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Sau nhiều tuần đàm phán căng thẳng, ban giám đốc và công đoàn lao động đã đạt được một thỏa thuận kéo dài ba năm."
+      }
+    },
+    {
+      "id": 9,
+      "word": "raise",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an increase in salary; v., to move up",
+      "definition_vi": "(n) sự tăng lương; (v) nâng lên, tăng lên, quyên góp, nêu lên",
+      "examples": [
+        {
+          "en": "With his raise, Mr. Drvoshanov was able to afford to buy a new car.",
+          "vi": "Với khoản tăng lương của mình, ông Drvoshanov đã có đủ khả năng mua một chiếc ô tô mới."
+        },
+        {
+          "en": "We need to raise the standard for timeliness.",
+          "vi": "Chúng ta cần nâng cao tiêu chuẩn về sự đúng giờ."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "get a pay raise",
+        "raise standards",
+        "raise funds",
+        "raise a question"
+      ],
+      "usage": {
+        "structures": [
+          "raise + O (ngoại động từ: tăng/nâng cái gì lên)",
+          "ask for / receive a raise (xin / nhận khoản tăng lương)"
+        ],
+        "prepositions": [
+          "by",
+          "to"
+        ],
+        "collocations": [
+          "annual salary raise",
+          "raise prices",
+          "raise awareness",
+          "raise capital"
+        ],
+        "tip": "Phân biệt 'raise' (ngoại động từ: luôn có tân ngữ phía sau, VD: raise prices/salaries) và 'rise' (nội động từ: không có tân ngữ, VD: prices rise)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "raise",
+          "example": "The board voted to raise the minimum hourly wage across all stores.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "raise",
+          "example": "She received a five percent merit raise after her annual evaluation.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "raised",
+          "example": "The raised platform in the conference hall improves visibility for attendees.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The charity banquet succeeded in _____ over fifty thousand dollars for the local hospital.",
+        "answer": "raising",
+        "base_word": "raise",
+        "pos_hint": "danh động từ (V-ing)",
+        "vi": "Bữa tiệc từ thiện đã thành công trong việc quyên góp hơn năm mươi nghìn đô la cho bệnh viện địa phương."
+      }
+    },
+    {
+      "id": 10,
+      "word": "retire",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to stop working; to withdraw from a business or profession",
+      "definition_vi": "nghỉ hưu, về hưu",
+      "examples": [
+        {
+          "en": "She retired at the age of 64 but continued to be very active with volunteer work.",
+          "vi": "Bà đã nghỉ hưu ở tuổi 64 nhưng vẫn tiếp tục tham gia rất tích cực vào công việc tình nguyện."
+        },
+        {
+          "en": "Many people would like to win the lottery and retire.",
+          "vi": "Nhiều người mong muốn trúng xổ số và nghỉ hưu."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "retire",
+          "example": "Many people don’t know what to do with all their time when they retire from work."
+        },
+        {
+          "pos": "noun",
+          "word": "retirement",
+          "example": "The administrator added more money to the fund for her retirement."
+        },
+        {
+          "pos": "",
+          "word": "retired",
+          "example": "The retired worker came back to the office from time to time to see his friends."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "retire from the company",
+        "early retirement",
+        "retirement plan",
+        "retirement age"
+      ],
+      "usage": {
+        "structures": [
+          "retire from + N (nghỉ hưu rời khỏi công ty/vị trí nào)",
+          "retire at the age of... (nghỉ hưu ở tuổi...)"
+        ],
+        "prepositions": [
+          "from",
+          "at",
+          "on"
+        ],
+        "collocations": [
+          "mandatory retirement",
+          "retirement fund",
+          "retirement party",
+          "retired executive"
+        ],
+        "tip": "Danh từ 'retirement' rất hay đứng trước danh từ khác tạo thành danh từ ghép: 'retirement plan/fund/party/age/benefits'."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "retiree",
+          "example": "The company hosts an annual luncheon for all former employees and retirees.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "We are holding a farewell reception on Friday to honor Mr. Jenkins upon his _____ after thirty years of service.",
+        "answer": "retirement",
+        "base_word": "retire",
+        "pos_hint": "danh từ",
+        "vi": "Chúng tôi sẽ tổ chức một buổi tiệc chia tay vào thứ Sáu để vinh danh ông Jenkins nhân dịp ông nghỉ hưu sau ba mươi năm cống hiến."
+      }
+    },
+    {
+      "id": 11,
+      "word": "vested",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "guaranteed as a right, involved",
+      "definition_vi": "được trao quyền hưởng trọn vẹn (quỹ hưu trí/cổ phần); gắn liền quyền lợi",
+      "examples": [
+        {
+          "en": "The day that Ms. Weng became fully vested in the retirement plan, she gave her two weeks' notice.",
+          "vi": "Ngay vào ngày bà Weng đủ điều kiện hưởng trọn vẹn quỹ hưu trí, bà đã nộp đơn xin nghỉ việc báo trước hai tuần."
+        },
+        {
+          "en": "The company has a vested interest in the happiness of its employees.",
+          "vi": "Công ty có quyền lợi gắn liền mật thiết với sự hạnh phúc của người lao động."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "fully vested",
+        "vested in the retirement plan",
+        "have a vested interest in",
+        "vested rights"
+      ],
+      "usage": {
+        "structures": [
+          "become (fully) vested in + N (đủ thâm niên để hưởng trọn quyền lợi trong quỹ hưu trí/cổ phiếu)",
+          "have a vested interest in + N (có lợi ích gắn liền với cái gì)"
+        ],
+        "prepositions": [
+          "in"
+        ],
+        "collocations": [
+          "vested pension benefits",
+          "vested shares",
+          "vesting period",
+          "vested interest"
+        ],
+        "tip": "Nhớ 2 cụm cố định trong TOEIC: 'fully vested in the pension/retirement plan' và 'have a vested interest in'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "vest",
+          "example": "Stock options granted to employees vest over a four-year period.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "vesting",
+          "example": "The employee handbook explains the five-year vesting schedule for matching contributions.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "vested",
+          "example": "Local businesses have a vested interest in improving public transportation.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Employees become fully _____ in the company-sponsored pension fund after five years of continuous employment.",
+        "answer": "vested",
+        "base_word": "vested",
+        "pos_hint": "tính từ (V-ed)",
+        "vi": "Nhân viên sẽ có toàn quyền hưởng quỹ hưu trí do công ty tài trợ sau năm năm làm việc liên tục."
+      }
+    },
+    {
+      "id": 12,
+      "word": "wage",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the money paid for work done, usually hourly",
+      "definition_vi": "tiền công, tiền lương (thường trả theo giờ hoặc tuần)",
+      "examples": [
+        {
+          "en": "Hourly wages have increased by 20 percent over the last two years.",
+          "vi": "Mức lương theo giờ đã tăng 20 phần trăm trong hai năm qua."
+        },
+        {
+          "en": "The intern spends more than half of her wages on rent.",
+          "vi": "Thực tập sinh dành hơn một nửa số tiền lương của mình để trả tiền thuê nhà."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "hourly wage",
+        "minimum wage",
+        "living wage",
+        "wage increase"
+      ],
+      "usage": {
+        "structures": [
+          "hourly/minimum/daily + wage(s) (mức lương theo giờ / tối thiểu / theo ngày)",
+          "earn a good wage (kiếm được mức lương khá)"
+        ],
+        "prepositions": [
+          "of",
+          "for"
+        ],
+        "collocations": [
+          "wage negotiations",
+          "wage freeze",
+          "competitive wages",
+          "fair wages"
+        ],
+        "tip": "Phân biệt: 'wage(s)' thường là tiền công trả theo giờ/tuần (hourly wages), còn 'salary' là lương cố định trả theo tháng/năm."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "wage",
+          "example": "The state legislature approved an increase in the minimum wage.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "wages",
+          "example": "Unclaimed wages may be collected at the payroll office on Friday.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Factory workers negotiated higher hourly _____ in their new collective bargaining agreement.",
+        "answer": "wages",
+        "base_word": "wage",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Các công nhân nhà máy đã đàm phán mức tiền công theo giờ cao hơn trong thỏa ước lao động tập thể mới của họ."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "An important part of the job search often comes after an offer has been made. Papers should not be signed until you have successfully (1) ____ your salary and (2) ____. You want to make sure you will be adequately (3) ____ for your skills, work, and time. This is a (4) ____ and difficult area. You should (5) ____ what the salary ranges are at the company and in the field. Some workers are not on a salary; rather they work for an hourly (6) ____. In some cases, workers who earn an hourly wage have more (7) ____ with the hours they work. The trade-off is that the worker may not receive any benefits. For those workers on a salary, the base salary that is negotiated is critical, because most subsequent pay raises come in small incremental amounts. Most companies have a review process either on an annual or semiannual (8) ____. As a result of the review, an employee may receive a (9) ____. Each employee has a unique situation. Health insurance coverage and (10) ____ plans may be essential to some employees, whereas they are not important to others. Many companies will offer benefits in such a way that it is to the employee's advantage to stay with the company for a longer period of time. Employees may not be (11) ____ to sign up for a retirement plan until they have been with the company for one year and employees are not fully (12) ____ in these plans until they have five years of service under their belts. Some bonus plans are paid out over a period of years. Vacation time increases after more years of service.",
+    "word_bank": [
+      "basis",
+      "compensated",
+      "flexibility",
+      "retirement",
+      "be aware of",
+      "delicate",
+      "negotiated",
+      "vested",
+      "benefits",
+      "eligible",
+      "raise",
+      "wage"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "basis",
+        "example": "Your raise will be determined on the basis of performance alone.",
+        "pos": "noun"
+      },
+      {
+        "word": "base",
+        "example": "We base promotions on seniority.",
+        "pos": "verb"
+      },
+      {
+        "word": "based",
+        "example": "Based on the assumption that you will earn more in your new position, you can afford the car you've been wanting.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "benefit",
+        "example": "In order to benefit from the plan, you must fill out the paperwork and submit it to the personnel office.",
+        "pos": "verb"
+      },
+      {
+        "word": "benefits",
+        "example": "The new employee's benefits went into effect three months after his start date.",
+        "pos": ""
+      },
+      {
+        "word": "beneficial",
+        "example": "The service that the insurance has provided has been very beneficial.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "compensate",
+        "example": "The company compensates its full-time employees well.",
+        "pos": "verb"
+      },
+      {
+        "word": "compensation",
+        "example": "Compensation will be based on your work performance over the past six months.",
+        "pos": "noun"
+      },
+      {
+        "word": "compensatory",
+        "example": "Compensatory time is given in lieu of overtime pay.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "flexibly",
+        "example": "She approaches problems flexibly, looking at the situation from every different angle.",
+        "pos": ""
+      },
+      {
+        "word": "flexible",
+        "example": "Younger workers tend to be more flexible with their work schedules.",
+        "pos": ""
+      },
+      {
+        "word": "flexibility",
+        "example": "His flexibility on benefits was one of the main reasons we were able to hire him at this time.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "negotiate",
+        "example": "The employee prepared a list of her accomplishments to share with her supervisor so that she could negotiate a higher salary.",
+        "pos": ""
+      },
+      {
+        "word": "negotiation",
+        "example": "The director was very pleased that the negotiations brought about the end of the strike.",
+        "pos": "noun"
+      },
+      {
+        "word": "negotiator",
+        "example": "I should take lessons from Mr. Tarsa; he is such a skilled negotiator.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "retire",
+        "example": "Many people don’t know what to do with all their time when they retire from work.",
+        "pos": "verb"
+      },
+      {
+        "word": "retirement",
+        "example": "The administrator added more money to the fund for her retirement.",
+        "pos": "noun"
+      },
+      {
+        "word": "retired",
+        "example": "The retired worker came back to the office from time to time to see his friends.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "All temporary workers are paid on an hourly ____ and receive no benefits.",
+        "options": [
+          {
+            "label": "A",
+            "text": "base"
+          },
+          {
+            "label": "B",
+            "text": "based"
+          },
+          {
+            "label": "C",
+            "text": "basis"
+          },
+          {
+            "label": "D",
+            "text": "basic"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "What is the company's policy on ____ for part-time workers?",
+        "options": [
+          {
+            "label": "A",
+            "text": "benefited"
+          },
+          {
+            "label": "B",
+            "text": "beneficial"
+          },
+          {
+            "label": "C",
+            "text": "benefits"
+          },
+          {
+            "label": "D",
+            "text": "benefit"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "The tired employee hoped that she would be ____ for all the long hours she kept and weekends she worked.",
+        "options": [
+          {
+            "label": "A",
+            "text": "compensation"
+          },
+          {
+            "label": "B",
+            "text": "compensates"
+          },
+          {
+            "label": "C",
+            "text": "compensated"
+          },
+          {
+            "label": "D",
+            "text": "compensate"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "Sometimes the manager is too ____ and his workers take advantage of him.",
+        "options": [
+          {
+            "label": "A",
+            "text": "flex"
+          },
+          {
+            "label": "B",
+            "text": "flexible"
+          },
+          {
+            "label": "C",
+            "text": "flexibly"
+          },
+          {
+            "label": "D",
+            "text": "flexibility"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "If the ____ continue into the evening, we will break for dinner at six.",
+        "options": [
+          {
+            "label": "A",
+            "text": "negotiator"
+          },
+          {
+            "label": "B",
+            "text": "negotiations"
+          },
+          {
+            "label": "C",
+            "text": "negotiate"
+          },
+          {
+            "label": "D",
+            "text": "negotiated"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "No one is sure what will happen to the company when the president finally ____.",
+        "options": [
+          {
+            "label": "A",
+            "text": "retires"
+          },
+          {
+            "label": "B",
+            "text": "retirement"
+          },
+          {
+            "label": "C",
+            "text": "retired"
+          },
+          {
+            "label": "D",
+            "text": "retiree"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "To all union members: Your union has been working for you. You may [16] aware that we have been negotiating with management for improvements in the benefits package. Yesterday an agreement was reached on the following points: 1) All employees of the company will be [17] for an increase in wages every six months, following a performance review. Reasons for refusal to give a raise must be carefully documented according to union guidelines. 2) Employees [18] at one and a half times their usual hourly wages for overtime hours. Any time worked beyond 40 hours a week counts as overtime. 3) Part-time employees can now receive full health benefits. It is each employee's responsibility to complete and submit the application forms. Part-time employees are also guaranteed five days of paid vacation per year. These two benefits apply to employees who work a minimum of 20 hours per week on a permanent basis.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "be"
+            },
+            {
+              "label": "B",
+              "text": "is"
+            },
+            {
+              "label": "C",
+              "text": "are"
+            },
+            {
+              "label": "D",
+              "text": "were"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "flexible"
+            },
+            {
+              "label": "B",
+              "text": "beneficial"
+            },
+            {
+              "label": "C",
+              "text": "eligible"
+            },
+            {
+              "label": "D",
+              "text": "negotiable"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "will compensate"
+            },
+            {
+              "label": "B",
+              "text": "are going to compensate"
+            },
+            {
+              "label": "C",
+              "text": "will be compensated"
+            },
+            {
+              "label": "D",
+              "text": "have to compensate"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Part 7 Reading Comprehension Questions 19–23 refer to the following e-mail message. | To: James PorterFrom: Helene BourassaSubject: Re: Benefits questions | | --- | | Dear James, | | I will try to clarify for you your questions about retirement benefits. | | Time of retirement: The time at which an employee can retire is calculated on the basis of age and number of years of service to the company. An employee of the company can retire with full benefits at age 55 if he or she has worked a minimum of 30 years for the company. Employees can retire at age 60 or above with 25 years of service to the company. Since you are younger than 60 years old and have worked for the company for 22 years, you won't be eligible to retire for another few years. | | Benefits for your spouse: I know this is a delicate matter, but it is important to know about. If you die before your spouse, she will continue to receive full retirement benefits for the rest of her life. | | Health insurance: Retirees are eligible to receive health insurance. There are several packages to choose from, and I will send you brochures about them. Your spouse will also be eligible for health coverage when you retire. If you happen to have any dependent children under the age of 21 and living at home, they, too, will be eligible for health coverage. | | I hope this answers your questions. Please don't hesitate to contact me if you need any further information. | | Helene | 22. The word basis in line 2 is closest in meaning to (A) solution (B) formula (C) amount (D) foundation 23. The word delicate in line 7 is closest in meaning to (A) sensitive (B) complicated (C) necessary (D) interesting",
+        "questions": [
+          {
+            "number": 19,
+            "question": "How old is James Porter?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Between 22 and 25."
+              },
+              {
+                "label": "B",
+                "text": "25."
+              },
+              {
+                "label": "C",
+                "text": "Younger than 60."
+              },
+              {
+                "label": "D",
+                "text": "Exactly 60."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "Who can receive retirement benefits after James dies?",
+            "options": [
+              {
+                "label": "A",
+                "text": "His children."
+              },
+              {
+                "label": "B",
+                "text": "His wife."
+              },
+              {
+                "label": "C",
+                "text": "All of his dependents."
+              },
+              {
+                "label": "D",
+                "text": "Nobody."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "Who can get health coverage when James retires?",
+            "options": [
+              {
+                "label": "A",
+                "text": "His 19-year-old son who lives at home."
+              },
+              {
+                "label": "B",
+                "text": "His 20-year-old daughter who lives with her spouse."
+              },
+              {
+                "label": "C",
+                "text": "Any of his children who want it."
+              },
+              {
+                "label": "D",
+                "text": "Only his wife."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "Why is the man disappointed?",
+        "options": [
+          {
+            "label": "A",
+            "text": "His health coverage is poor."
+          },
+          {
+            "label": "B",
+            "text": "He asked for too much compensation."
+          },
+          {
+            "label": "C",
+            "text": "He doesn't know how to negotiate."
+          },
+          {
+            "label": "D",
+            "text": "He doesn't earn enough money."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How long has he been working at the company?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Two months."
+          },
+          {
+            "label": "B",
+            "text": "Four months."
+          },
+          {
+            "label": "C",
+            "text": "Six months."
+          },
+          {
+            "label": "D",
+            "text": "Nine months."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What benefit does he get?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Life insurance."
+          },
+          {
+            "label": "B",
+            "text": "Health insurance."
+          },
+          {
+            "label": "C",
+            "text": "Paid vacation."
+          },
+          {
+            "label": "D",
+            "text": "Regular raises."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "How often are raises given?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Once a year."
+          },
+          {
+            "label": "B",
+            "text": "Twice a year."
+          },
+          {
+            "label": "C",
+            "text": "At an employee's request."
+          },
+          {
+            "label": "D",
+            "text": "Whenever an employee is eligible for a raise."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "Where should employees go to learn more about wage increases?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The Employee Handbook."
+          },
+          {
+            "label": "B",
+            "text": "Their paycheck stubs."
+          },
+          {
+            "label": "C",
+            "text": "Their contract."
+          },
+          {
+            "label": "D",
+            "text": "Their supervisor."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "How many days of paid vacation does each employee get?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Five."
+          },
+          {
+            "label": "B",
+            "text": "Ten."
+          },
+          {
+            "label": "C",
+            "text": "Fourteen."
+          },
+          {
+            "label": "D",
+            "text": "Forty-two."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best response. 4. Why is the man disappointed? (A) His health coverage is poor. (B) He asked for too much compensation. (C) He doesn't know how to negotiate. (D) He doesn't earn enough money. 5. How long has he been working at the company? (A) Two months. (B) Four months. (C) Six months. (D) Nine months. 6. What benefit does he get? (A) Life insurance. (B) Health insurance. (C) Paid vacation. (D) Regular raises. Listen to the talk. Then read each question and choose the best answer. 7. How often are raises given? (A) Once a year. (B) Twice a year. (C) At an employee's request. (D) Whenever an employee is eligible for a raise. 8. Where should employees go to learn more about wage increases? (A) The Employee Handbook. (B) Their paycheck stubs. (C) Their contract. (D) Their supervisor. 9. How many days of paid vacation does each employee get? (A) Five. (B) Ten. (C) Fourteen. (D) Forty-two.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "Why is the man disappointed?",
+        "options": [
+          {
+            "label": "A",
+            "text": "His health coverage is poor."
+          },
+          {
+            "label": "B",
+            "text": "He asked for too much compensation."
+          },
+          {
+            "label": "C",
+            "text": "He doesn't know how to negotiate."
+          },
+          {
+            "label": "D",
+            "text": "He doesn't earn enough money."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How long has he been working at the company?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Two months."
+          },
+          {
+            "label": "B",
+            "text": "Four months."
+          },
+          {
+            "label": "C",
+            "text": "Six months."
+          },
+          {
+            "label": "D",
+            "text": "Nine months."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What benefit does he get?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Life insurance."
+          },
+          {
+            "label": "B",
+            "text": "Health insurance."
+          },
+          {
+            "label": "C",
+            "text": "Paid vacation."
+          },
+          {
+            "label": "D",
+            "text": "Regular raises."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "How often are raises given?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Once a year."
+          },
+          {
+            "label": "B",
+            "text": "Twice a year."
+          },
+          {
+            "label": "C",
+            "text": "At an employee's request."
+          },
+          {
+            "label": "D",
+            "text": "Whenever an employee is eligible for a raise."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "Where should employees go to learn more about wage increases?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The Employee Handbook."
+          },
+          {
+            "label": "B",
+            "text": "Their paycheck stubs."
+          },
+          {
+            "label": "C",
+            "text": "Their contract."
+          },
+          {
+            "label": "D",
+            "text": "Their supervisor."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "How many days of paid vacation does each employee get?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Five."
+          },
+          {
+            "label": "B",
+            "text": "Ten."
+          },
+          {
+            "label": "C",
+            "text": "Fourteen."
+          },
+          {
+            "label": "D",
+            "text": "Forty-two."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "# Salaries and Benefits\n\nStudy the following definitions and examples.\n\n1. basis n., the main reason for something; a base or foundation a. The manager didn't have any basis for firing the employee.\n\nb. On the basis of my ten years of loyalty to this company, I feel that I deserve three weeks vacation.\n\n2. be aware of v., to be conscious of; to be knowledgeable about\n\na. The new staff member wasn't aware of the company's position on working a second job.\n\nb. Are you aware of the new employee's past work history?\n\n3. benefit n., an advantage provided to an employee in addition to salary;\n\nv., to take advantage of\n\na. Although the analyst earned a better salary at his new job, his benefits were better at his previous job.\n\nb. We all benefit from the company's policy of semiannual reviews.\n\n4. compensate v., to pay; to make up for\n\na. The company compensates employees for overtime by paying double for extra hours.\n\nb. The company will compensate employees for any travel expenses.\n\n5. delicately adv., with sensitivity\n\na. Senior management is handling these contract negotiations delicately.\n\nb. The manager delicately asked about the health of his client.\n\n6. eligible adj., able to participate in something; qualified\n\na. Some employees may be eligible for the tuition reimbursement plan.\n\nb. I don't understand why I'm not eligible if I have been with the company for over a year.\n\n7. flexibly adv., with the ability to change; loosely\n\na. My manager thinks flexibly, enabling herself to solve many sticky problems.\n\nb. We need to respond flexibly if we want to keep customers in this competitive market.\n\n8. negotiate v., to talk for the purpose of reaching an agreement, especially on prices or contracts\n\na. You must know what you want and what you can accept when you negotiate a salary.\n\nb. The associate looked forward to the day that she would be able to negotiate her own contracts.\n\n9. raise n., an increase in salary; v., to move up\n\na. With his raise, Mr. Drvoshanov was able to afford to buy a new car.\n\nb. We need to raise the standard for timeliness.\n\n10. retire v., to stop working; to withdraw from a business or profession a. She retired at the age of 64 but continued to be very active with volunteer work.\n\nb. Many people would like to win the lottery and retire.\n\n11. vested adj., guaranteed as a right, involved\n\na. The day that Ms. Weng became fully vested in the retirement plan, she gave her two weeks' notice.\n\nb. The company has a vested interest in the happiness of its employees.\n\n12. wage n., the money paid for work done, usually hourly\n\na. Hourly wages have increased by 20 percent over the last two years.\n\nb. The intern spends more than half of her wages on rent.",
+    "words_in_context": "## WORDS IN CONTEXT\n\n## Read the following passage and write the words in the blanks below.\n\n| basis | compensated | flexibility | retirement |\n| --- | --- | --- | --- |\n| be aware of | delicate | negotiated | vested |\n| benefits | eligible | raise | wage |\n\nAn important part of the job search often comes after an offer has been made. Papers should not be signed until you have successfully (1) \\_\\_\\_\\_ your salary and (2) \\_\\_\\_\\_. You want to make sure you will be adequately (3) \\_\\_\\_\\_ for your skills, work, and time. This is a (4) \\_\\_\\_\\_ and difficult area. You should (5) \\_\\_\\_\\_ what the salary ranges are at the company and in the field.\n\nSome workers are not on a salary; rather they work for an hourly (6) \\_\\_\\_\\_. In some cases, workers who earn an hourly wage have more (7) \\_\\_\\_\\_ with the hours they work. The trade-off is that the worker may not receive any benefits. For those workers on a salary, the base salary that is negotiated is critical, because most subsequent pay raises come in small incremental amounts. Most companies have a review process either on an annual or semiannual (8) \\_\\_\\_\\_. As a result of the review, an employee may receive a (9) \\_\\_\\_\\_.\n\nEach employee has a unique situation. Health insurance coverage and (10) \\_\\_\\_\\_ plans may be essential to some employees, whereas they are not important to others. Many companies will offer benefits in such a way that it is to the employee's advantage to stay with the company for a longer period of time. Employees may not be (11) \\_\\_\\_\\_ to sign up for a retirement plan until they have been with the company for one year and employees are not fully (12) \\_\\_\\_\\_ in these plans until they have five years of service under their belts. Some bonus plans are paid out over a period of years. Vacation time increases after more years of service.",
+    "word_families": "## WORD FAMILIES\n\n| _n | basis | Your raise will be determined on the basis of performance alone. |\n| --- | --- | --- |\n| verb | base | We base promotions on seniority. |\n| adjective | based | Based on the assumption that you will earn more in your new position, you can afford the car you've been wanting. |\n\n| verb | benefit | In order to benefit from the plan, you must fill out the paperwork and submit it to the personnel office. |\n| --- | --- | --- |\n| 1 | benefits | The new employee's benefits went into effect three months after his start date. |\n| adjective | beneficial | The service that the insurance has provided has been very beneficial. |\n\n| verb | compensate | The company compensates its full-time employees well. |\n| --- | --- | --- |\n| noun | compensation | Compensation will be based on your work performance over the past six months. |\n| i . | compensatory | Compensatory time is given in lieu of overtime pay. |\n\n| 1 | flexibly | She approaches problems flexibly, looking at the situation from every different angle. |\n| --- | --- | --- |\n| active | flexible | Younger workers tend to be more flexible with their work schedules. |\n| n | flexibility | His flexibility on benefits was one of the main reasons we were able to hire him at this time. |\n\n|  | negotiate | The employee prepared a list of her accomplishments to share with her supervisor so that she could negotiate a higher salary. |\n| --- | --- | --- |\n| noun | negotiation | The director was very pleased that the negotiations brought about the end of the strike. |\n| noun | negotiator | I should take lessons from Mr. Tarsa; he is such a skilled negotiator. |\n\n| verb | retire | Many people don’t know what to do with all their time when they retire from work. |\n| --- | --- | --- |\n| noun | retirement | The administrator added more money to the fund for her retirement. |\n| i ə | retired | The retired worker came back to the office from time to time to see his friends. |",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best response.\n\n4. Why is the man disappointed?\n(A) His health coverage is poor.\n(B) He asked for too much compensation.\n(C) He doesn't know how to negotiate.\n(D) He doesn't earn enough money.\n\n5. How long has he been working at the company?\n(A) Two months.\n(B) Four months.\n(C) Six months.\n(D) Nine months.\n\n6. What benefit does he get?\n(A) Life insurance.\n(B) Health insurance.\n(C) Paid vacation.\n(D) Regular raises.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. How often are raises given?  \n(A) Once a year.  \n(B) Twice a year.  \n(C) At an employee's request.  \n(D) Whenever an employee is eligible for a raise.\n\n8. Where should employees go to learn more about wage increases?\n(A) The Employee Handbook.\n(B) Their paycheck stubs.\n(C) Their contract.\n(D) Their supervisor.\n\n9. How many days of paid vacation does each employee get?\n(A) Five.\n(B) Ten.\n(C) Fourteen.\n(D) Forty-two.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. All temporary workers are paid on an hourly \\_\\_\\_\\_ and receive no benefits.\n(A) base (C) basis\n(B) based (D) basic\n\n11. What is the company's policy on \\_\\_\\_\\_ for part-time workers?\n(A) benefited (C) benefits\n(B) beneficial (D) benefit\n\n12. The tired employee hoped that she would be \\_\\_\\_\\_ for all the long hours she kept and weekends she worked.\n(A) compensation (C) compensated\n(B) compensates (D) compensate\n\n13. Sometimes the manager is too \\_\\_\\_\\_ and his workers take advantage of him.\n(A) flex (C) flexibly\n(B) flexible (D) flexibility\n\n14. If the \\_\\_\\_\\_ continue into the evening, we will break for dinner at six.\n(A) negotiator (C) negotiate\n(B) negotiations (D) negotiated\n\n15. No one is sure what will happen to the company when the president finally \\_\\_\\_\\_.  \n(A) retires (C) retired  \n(B) retirement (D) retiree\n\n## Part 6 Text Completion\n\nTo all union members:\n\nYour union has been working for you. You may \\_16\\_ aware that we have been negotiating with management for improvements in the benefits package. Yesterday an agreement was reached on the following points:\n\n1) All employees of the company will be \\_17\\_ for an increase in wages every six months, following a performance review. Reasons for refusal to give a raise must be carefully documented according to union guidelines.\n\n2) Employees \\_18\\_ at one and a half times their usual hourly wages for overtime hours. Any time worked beyond 40 hours a week counts as overtime.\n\n3) Part-time employees can now receive full health benefits. It is each employee's responsibility to complete and submit the application forms. Part-time employees are also guaranteed five days of paid vacation per year. These two benefits apply to employees who work a minimum of 20 hours per week on a permanent basis.\n\n16. (A) be 18. (A) will compensate (B) is (B) are going to compensate (C) are (C) will be compensated (D) were (D) have to compensate\n\n17. (A) flexible  \n(B) beneficial  \n(C) eligible  \n(D) negotiable",
+    "reading_part7": "Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following e-mail message.\n\n| To: James PorterFrom: Helene BourassaSubject: Re: Benefits questions |\n| --- |\n| Dear James, |\n| I will try to clarify for you your questions about retirement benefits. |\n| Time of retirement: The time at which an employee can retire is calculated on the basis of age and number of years of service to the company. An employee of the company can retire with full benefits at age 55 if he or she has worked a minimum of 30 years for the company. Employees can retire at age 60 or above with 25 years of service to the company. Since you are younger than 60 years old and have worked for the company for 22 years, you won't be eligible to retire for another few years. |\n| Benefits for your spouse: I know this is a delicate matter, but it is important to know about. If you die before your spouse, she will continue to receive full retirement benefits for the rest of her life. |\n| Health insurance: Retirees are eligible to receive health insurance. There are several packages to choose from, and I will send you brochures about them. Your spouse will also be eligible for health coverage when you retire. If you happen to have any dependent children under the age of 21 and living at home, they, too, will be eligible for health coverage. |\n| I hope this answers your questions. Please don't hesitate to contact me if you need any further information. |\n| Helene |\n\n19. How old is James Porter?\n(A) Between 22 and 25.\n(B) 25.\n(C) Younger than 60.\n(D) Exactly 60.\n\n20. Who can receive retirement benefits after James dies?\n(A) His children.\n(B) His wife.\n(C) All of his dependents.\n(D) Nobody.\n\n21. Who can get health coverage when James retires?\n(A) His 19-year-old son who lives at home.\n(B) His 20-year-old daughter who lives with her spouse.\n(C) Any of his children who want it.\n(D) Only his wife.\n\n22. The word basis in line 2 is closest in meaning to (A) solution (B) formula (C) amount (D) foundation\n\n23. The word delicate in line 7 is closest in meaning to (A) sensitive (B) complicated (C) necessary (D) interesting"
+  },
+  "needs_review": true
+}

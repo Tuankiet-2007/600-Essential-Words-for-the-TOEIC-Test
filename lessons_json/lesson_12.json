@@ -1,0 +1,1615 @@
+{
+  "lesson_id": 12,
+  "title": "Applying and Interviewing",
+  "theme_name": "Personnel",
+  "audio_track": "track_12.mp3",
+  "part1_photo": "part1_photos/lesson_12.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "ability",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a skill, a competence",
+      "definition_vi": "khả năng, năng lực",
+      "examples": [
+        {
+          "en": "The designer's ability was obvious from her portfolio.",
+          "vi": "Năng lực của nhà thiết kế thể hiện rất rõ qua hồ sơ năng lực của cô ấy."
+        },
+        {
+          "en": "The ability to work with others is a key requirement.",
+          "vi": "Khả năng làm việc cùng người khác là một yêu cầu cốt lõi."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "ability to work",
+        "leadership ability",
+        "to the best of one's ability",
+        "demonstrate the ability"
+      ],
+      "usage": {
+        "structures": [
+          "ability + to V (khả năng làm gì)",
+          "to the best of one's ability (hết khả năng của ai)"
+        ],
+        "prepositions": [
+          "to",
+          "in"
+        ],
+        "collocations": [
+          "proven ability",
+          "exceptional ability",
+          "problem-solving ability",
+          "assess a candidate's ability"
+        ],
+        "tip": "Sau 'ability' hầu như luôn là động từ nguyên mẫu có 'to' (ability to V)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "enable",
+          "example": "The new training module will enable staff to handle customer inquiries faster.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "ability",
+          "example": "She has the ability to manage multiple complex projects simultaneously.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "able",
+          "example": "Will you be able to attend the orientation session tomorrow morning?",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "ably",
+          "example": "Mr. Kim was ably assisted by a team of junior researchers.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Upgrading our server capacity will _____ the website to process twice as many orders.",
+        "answer": "enable",
+        "base_word": "ability",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Việc nâng cấp dung lượng máy chủ sẽ giúp trang web xử lý số lượng đơn hàng gấp đôi."
+      }
+    },
+    {
+      "id": 2,
+      "word": "apply",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to look for; to submit an application",
+      "definition_vi": "nộp đơn ứng tuyển; áp dụng",
+      "examples": [
+        {
+          "en": "The college graduate applied for three jobs and received three offers.",
+          "vi": "Sinh viên mới tốt nghiệp đại học đã nộp đơn xin ba công việc và nhận được cả ba lời mời làm việc."
+        },
+        {
+          "en": "Everyone who is interested should apply in person at any branch office.",
+          "vi": "Tất cả những ai quan tâm nên trực tiếp nộp đơn tại bất kỳ văn phòng chi nhánh nào."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "apply",
+          "example": "Your chances are better if you apply for a job in the spring."
+        },
+        {
+          "pos": "",
+          "word": "applicant",
+          "example": "The manager selected him from all the applicants."
+        },
+        {
+          "pos": "noun",
+          "word": "application",
+          "example": "The department can’t process your application until all documents have been received."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "apply for a job",
+        "apply in person",
+        "apply online",
+        "apply to a company"
+      ],
+      "usage": {
+        "structures": [
+          "apply for + a position/job/grant (nộp đơn xin vị trí/công việc/tài trợ)",
+          "apply to + a company/organization (nộp đơn vào công ty/tổ chức)"
+        ],
+        "prepositions": [
+          "for",
+          "to",
+          "in"
+        ],
+        "collocations": [
+          "apply for a transfer",
+          "apply in writing",
+          "apply a discount",
+          "applicable regulations"
+        ],
+        "tip": "Phân biệt rõ danh từ chỉ người 'applicant' (ứng viên) và danh từ chỉ vật 'application' (đơn xin việc/ứng dụng)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "applicable",
+          "example": "Please fill out all sections of the form that are applicable to your situation.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "All _____ for the internship program must submit two letters of recommendation.",
+        "answer": "applicants",
+        "base_word": "apply",
+        "pos_hint": "danh từ chỉ người số nhiều",
+        "vi": "Tất cả các ứng viên cho chương trình thực tập phải nộp hai thư giới thiệu."
+      }
+    },
+    {
+      "id": 3,
+      "word": "background",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a person's experience, education, and family history",
+      "definition_vi": "nền tảng, kinh nghiệm quá khứ, lý lịch",
+      "examples": [
+        {
+          "en": "Your background in the publishing industry is a definite asset for this job.",
+          "vi": "Nền tảng kinh nghiệm của bạn trong ngành xuất bản chắc chắn là một lợi thế cho công việc này."
+        },
+        {
+          "en": "The employer did a complete background check before offering him the job.",
+          "vi": "Nhà tuyển dụng đã thực hiện việc kiểm tra lý lịch toàn diện trước khi mời anh ấy nhận việc."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "background check",
+        "educational background",
+        "professional background",
+        "background in finance"
+      ],
+      "usage": {
+        "structures": [
+          "background in + N (nền tảng chuyên môn trong lĩnh vực gì)",
+          "conduct a background check (tiến hành kiểm tra lý lịch)"
+        ],
+        "prepositions": [
+          "in",
+          "on"
+        ],
+        "collocations": [
+          "strong background in sales",
+          "diverse background",
+          "technical background",
+          "background information"
+        ],
+        "tip": "Đi với giới từ 'in' khi nói về nền tảng kinh nghiệm trong một ngành nghề cụ thể (a background in accounting/engineering)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "background",
+          "example": "Her extensive background in hospitality makes her ideal for the hotel manager role.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "groundwork",
+          "example": "The research team laid the groundwork for the new product launch.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Every prospective employee must undergo a thorough _____ check prior to receiving a formal job offer.",
+        "answer": "background",
+        "base_word": "background",
+        "pos_hint": "danh từ ghép bổ nghĩa",
+        "vi": "Mỗi nhân viên tiềm năng phải trải qua quá trình kiểm tra lý lịch kỹ lưỡng trước khi nhận được lời mời làm việc chính thức."
+      }
+    },
+    {
+      "id": 4,
+      "word": "be ready for",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to be prepared",
+      "definition_vi": "sẵn sàng cho, chuẩn bị sẵn cho",
+      "examples": [
+        {
+          "en": "Thanks to her careful research, the applicant felt that she was ready for the interview with the director of the program.",
+          "vi": "Nhờ sự tìm hiểu kỹ lưỡng của mình, ứng viên cảm thấy cô đã sẵn sàng cho buổi phỏng vấn với giám đốc chương trình."
+        },
+        {
+          "en": "The employer wasn't ready for the applicant's questions.",
+          "vi": "Nhà tuyển dụng đã không chuẩn bị tinh thần cho những câu hỏi của ứng viên."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "be ready for the interview",
+        "be ready for a challenge",
+        "be ready for launch",
+        "get ready for work"
+      ],
+      "usage": {
+        "structures": [
+          "be ready for + N (sẵn sàng cho cái gì)",
+          "be ready to + V (sẵn sàng làm gì)"
+        ],
+        "prepositions": [
+          "for",
+          "to"
+        ],
+        "collocations": [
+          "ready for occupancy",
+          "ready for distribution",
+          "ready for inspection",
+          "ready for the next step"
+        ],
+        "tip": "Dùng 'ready for + cụm danh từ' và 'ready to + động từ nguyên mẫu'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "ready",
+          "example": "Warehouse workers are readying the shipment for morning dispatch.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "readiness",
+          "example": "The emergency drill tested the staff's readiness for unexpected power outages.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "ready",
+          "example": "All promotional materials will be ready for printing by Wednesday.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "readily",
+          "example": "Information about employee benefits is readily available on the company intranet.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Replacement parts for this printer model are _____ available at most office supply stores.",
+        "answer": "readily",
+        "base_word": "be ready for",
+        "pos_hint": "trạng từ",
+        "vi": "Phụ tùng thay thế cho mẫu máy in này luôn có sẵn một cách dễ dàng tại hầu hết các cửa hàng văn phòng phẩm."
+      }
+    },
+    {
+      "id": 5,
+      "word": "call in",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to ask to come; to beckon",
+      "definition_vi": "mời tới, triệu tập; gọi điện báo (nghỉ ốm)",
+      "examples": [
+        {
+          "en": "The young woman was so excited when she was called in for an interview that she told everyone she knew.",
+          "vi": "Cô gái trẻ hào hứng đến mức khi được mời tới phỏng vấn, cô đã kể cho tất cả những người mình quen."
+        },
+        {
+          "en": "The human resources manager called in all the qualified applicants for a second interview.",
+          "vi": "Trưởng phòng nhân sự đã mời tất cả các ứng viên đủ tiêu chuẩn tới tham dự vòng phỏng vấn thứ hai."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "call in for an interview",
+        "call in a specialist",
+        "call in sick",
+        "call in an expert"
+      ],
+      "usage": {
+        "structures": [
+          "call + sb + in / call in + sb (mời/triệu tập ai đến làm việc hoặc phỏng vấn)",
+          "be called in for + N (được mời đến để làm gì)"
+        ],
+        "prepositions": [
+          "for"
+        ],
+        "collocations": [
+          "be called in for questioning",
+          "call in outside consultants",
+          "call in technicians",
+          "call in applicants"
+        ],
+        "tip": "Thường chia ở thể bị động 'be called in for an interview' (được mời đến phỏng vấn) hoặc chủ động 'call in a technician' (gọi kỹ thuật viên đến hỗ trợ)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "call",
+          "example": "Please call the human resources office to confirm your interview time.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "caller",
+          "example": "The receptionist politely asked the caller to hold the line.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "call",
+          "example": "We received several phone calls regarding the advertised vacancy.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Five of the top candidates were _____ for a final panel interview with the executive board.",
+        "answer": "called in",
+        "base_word": "call in",
+        "pos_hint": "cụm động từ ở dạng bị động (V3/ed)",
+        "vi": "Năm trong số các ứng viên hàng đầu đã được mời tới tham dự buổi phỏng vấn hội đồng cuối cùng với ban giám đốc."
+      }
+    },
+    {
+      "id": 6,
+      "word": "confidence",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a belief in one's abilities, self-esteem",
+      "definition_vi": "sự tự tin, lòng tin, sự tín nhiệm",
+      "examples": [
+        {
+          "en": "Good applicants show confidence during an interview.",
+          "vi": "Những ứng viên tốt luôn thể hiện sự tự tin trong suốt buổi phỏng vấn."
+        },
+        {
+          "en": "He had too much confidence and thought that the job was his.",
+          "vi": "Anh ta có quá nhiều sự tự tin và nghĩ rằng công việc đó chắc chắn thuộc về mình."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "confidence",
+          "example": "It's refreshing to see a manager with so much confidence in her employees."
+        },
+        {
+          "pos": "",
+          "word": "confident",
+          "example": "Don't be too confident until you actually have an offer."
+        },
+        {
+          "pos": "adverb",
+          "word": "confidently",
+          "example": "The applicant confidently walked into the interview, sat down, and began to talk about himself."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "have confidence in",
+        "show confidence",
+        "consumer confidence",
+        "boost confidence"
+      ],
+      "usage": {
+        "structures": [
+          "confidence in + sb/sth (niềm tin/sự tin tưởng vào ai/cái gì)",
+          "with confidence (một cách tự tin)"
+        ],
+        "prepositions": [
+          "in",
+          "with"
+        ],
+        "collocations": [
+          "vote of confidence",
+          "inspire confidence",
+          "gain confidence",
+          "strict confidence"
+        ],
+        "tip": "Lưu ý giới từ 'in' đi sau cả danh từ và tính từ: 'confidence in' và 'confident in/about'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "confide",
+          "example": "Employees should feel comfortable confiding their concerns to the HR counselor.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Ms. Rivera answered the panel's technical questions _____ and impressed all the interviewers.",
+        "answer": "confidently",
+        "base_word": "confidence",
+        "pos_hint": "trạng từ",
+        "vi": "Cô Rivera đã trả lời các câu hỏi kỹ thuật của hội đồng một cách tự tin và gây ấn tượng với tất cả những người phỏng vấn."
+      }
+    },
+    {
+      "id": 7,
+      "word": "constantly",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "on a continual basis, happening all the time",
+      "definition_vi": "liên tục, luôn luôn, không ngừng",
+      "examples": [
+        {
+          "en": "The company is constantly looking for highly trained employees.",
+          "vi": "Công ty luôn liên tục tìm kiếm những nhân viên được đào tạo bài bản."
+        },
+        {
+          "en": "Martin constantly checked his messages to see if anyone had called for an interview.",
+          "vi": "Martin liên tục kiểm tra tin nhắn của mình để xem có ai gọi điện mời phỏng vấn hay không."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "constantly changing",
+        "constantly looking for",
+        "constantly improving",
+        "constantly evolving"
+      ],
+      "usage": {
+        "structures": [
+          "constantly + V / be + constantly + V-ing / V3 (liên tục làm gì / được làm gì)"
+        ],
+        "prepositions": [],
+        "collocations": [
+          "constantly updated",
+          "constantly monitored",
+          "constantly seeking",
+          "constantly shifting market"
+        ],
+        "tip": "Trạng từ tần suất thường đứng giữa trợ động từ 'be/have' và động từ chính (is constantly seeking / has constantly improved)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "constancy",
+          "example": "The constancy of her dedication to quality earned her the annual leadership award.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "constant",
+          "example": "The customer support team is under constant pressure to reduce wait times.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "constantly",
+          "example": "Our software engineers are constantly updating security protocols.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "To remain competitive, retail businesses must adapt to _____ changes in consumer preferences.",
+        "answer": "constant",
+        "base_word": "constantly",
+        "pos_hint": "tính từ",
+        "vi": "Để duy trì khả năng cạnh tranh, các doanh nghiệp bán lẻ phải thích ứng với những thay đổi liên tục trong thị hiếu người tiêu dùng."
+      }
+    },
+    {
+      "id": 8,
+      "word": "expert",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a specialist",
+      "definition_vi": "(n) chuyên gia; (adj) thành thạo, chuyên sâu",
+      "examples": [
+        {
+          "en": "Our department head is an expert in financing.",
+          "vi": "Trưởng bộ phận của chúng tôi là một chuyên gia về tài chính."
+        },
+        {
+          "en": "The candidate demonstrated that he was an expert in marketing.",
+          "vi": "Ứng viên đã chứng minh rằng anh ấy là một chuyên gia trong lĩnh vực tiếp thị."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "expert",
+          "example": "Don&#x27;t portray yourself as an expert if you aren&#x27;t."
+        },
+        {
+          "pos": "",
+          "word": "expertise",
+          "example": "The worker gained expertise over the years and was promoted to a higher position."
+        },
+        {
+          "pos": "adjective",
+          "word": "expert",
+          "example": "As an expert negotiator, she should have no problems getting what the company wants."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "expert in marketing",
+        "expert advice",
+        "industry expert",
+        "consult an expert"
+      ],
+      "usage": {
+        "structures": [
+          "an expert in/on/at + N/V-ing (chuyên gia trong lĩnh vực gì)",
+          "expert + N (lời khuyên/ý kiến chuyên môn: expert advice/opinion)"
+        ],
+        "prepositions": [
+          "in",
+          "on",
+          "at"
+        ],
+        "collocations": [
+          "leading expert",
+          "financial expert",
+          "expert testimony",
+          "expert guidance"
+        ],
+        "tip": "Phân biệt danh từ đếm được 'expert' (chuyên gia - cần mạo từ a/an hoặc số nhiều) và danh từ không đếm được 'expertise' (chuyên môn)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "expertly",
+          "example": "The mediator expertly resolved the contract dispute between the two firms.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "We hired an external consulting firm because we lacked the internal _____ to manage the merger.",
+        "answer": "expertise",
+        "base_word": "expert",
+        "pos_hint": "danh từ không đếm được chỉ chuyên môn",
+        "vi": "Chúng tôi đã thuê một công ty tư vấn bên ngoài vì chúng tôi thiếu chuyên môn nội bộ để quản lý thương vụ sáp nhập."
+      }
+    },
+    {
+      "id": 9,
+      "word": "follow up",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to take additional steps, to continue; n., the continuation of a previous action",
+      "definition_vi": "(v) theo sát, thực hiện bước tiếp theo; (n) hành động tiếp nối",
+      "examples": [
+        {
+          "en": "Always follow up an interview with a thank-you note.",
+          "vi": "Hãy luôn theo sát sau buổi phỏng vấn bằng một bức thư cảm ơn."
+        },
+        {
+          "en": "As a follow up, the candidate sent the company a list of references.",
+          "vi": "Như một bước tiếp theo, ứng viên đã gửi cho công ty danh sách những người giới thiệu."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "follow up on a lead",
+        "follow up with a client",
+        "follow-up call",
+        "as a follow-up"
+      ],
+      "usage": {
+        "structures": [
+          "follow up + with + sb (liên hệ tiếp với ai sau sự việc trước đó)",
+          "follow up + on + sth (theo dõi/xử lý tiếp vấn đề gì)"
+        ],
+        "prepositions": [
+          "with",
+          "on"
+        ],
+        "collocations": [
+          "follow-up appointment",
+          "follow-up email",
+          "follow up promptly",
+          "require a follow-up"
+        ],
+        "tip": "Khi làm động từ thì viết rời (follow up), khi làm danh từ hoặc tính từ ghép đứng trước danh từ thường có gạch nối (a follow-up email)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "follow",
+          "example": "All visitors must follow the safety guidelines while touring the plant.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "follow-up",
+          "example": "The sales representative scheduled a follow-up with the prospective buyer.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "following",
+          "example": "The orientation session will take place on the following Monday.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "After the initial product demonstration, the account manager _____ with each attendee by phone.",
+        "answer": "followed up",
+        "base_word": "follow up",
+        "pos_hint": "cụm động từ chia quá khứ đơn",
+        "vi": "Sau buổi giới thiệu sản phẩm ban đầu, quản lý khách hàng đã liên hệ tiếp với từng người tham dự qua điện thoại."
+      }
+    },
+    {
+      "id": 10,
+      "word": "hesitant",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "reluctant; with reservation",
+      "definition_vi": "do dự, ngập ngừng, lưỡng lự",
+      "examples": [
+        {
+          "en": "Marla was hesitant about negotiating a higher salary.",
+          "vi": "Marla đã do dự về việc đàm phán một mức lương cao hơn."
+        },
+        {
+          "en": "The recent college graduate was hesitant about accepting his first offer.",
+          "vi": "Sinh viên mới tốt nghiệp đại học đã lưỡng lự trong việc chấp nhận lời mời làm việc đầu tiên của mình."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "hesitant",
+          "example": "The applicant was hesitant to explain his reason for leaving his last job."
+        },
+        {
+          "pos": "noun",
+          "word": "hesitation",
+          "example": "Her hesitation about accepting the job made the department wonder if she was really interested."
+        },
+        {
+          "pos": "",
+          "word": "hesitate",
+          "example": "Don't hesitate to call if you have any questions concerning the job."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "hesitant to accept",
+        "hesitant about investing",
+        "seem hesitant",
+        "understandably hesitant"
+      ],
+      "usage": {
+        "structures": [
+          "be hesitant to + V (do dự khi làm gì)",
+          "be hesitant about + N/V-ing (ngập ngừng/lưỡng lự về việc gì)"
+        ],
+        "prepositions": [
+          "to",
+          "about"
+        ],
+        "collocations": [
+          "hesitant to make a commitment",
+          "hesitant about changing jobs",
+          "hesitant response",
+          "remain hesitant"
+        ],
+        "tip": "Chú ý cấu trúc cố định trong thư tín thương mại: 'Please do not hesitate to contact us' (Đừng ngần ngại liên hệ với chúng tôi)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "hesitantly",
+          "example": "The intern spoke hesitantly when asked to explain the budget error.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Should you require any further assistance, please do not _____ to contact our support desk.",
+        "answer": "hesitate",
+        "base_word": "hesitant",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Nếu quý khách cần bất kỳ sự hỗ trợ nào thêm, xin đừng ngần ngại liên hệ với bộ phận hỗ trợ của chúng tôi."
+      }
+    },
+    {
+      "id": 11,
+      "word": "present",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to introduce; to show; to offer for consideration",
+      "definition_vi": "trình bày, xuất trình, giới thiệu, trao tặng",
+      "examples": [
+        {
+          "en": "The human resources director presents each candidate's résumé to the department supervisor for review.",
+          "vi": "Giám đốc nhân sự trình sơ yếu lý lịch của từng ứng viên lên giám sát viên bộ phận để xem xét."
+        },
+        {
+          "en": "The candidate presented her qualifications so well that the employer offered her a job on the spot.",
+          "vi": "Ứng viên đã trình bày năng lực chuyên môn của mình tốt đến mức nhà tuyển dụng mời cô nhận việc ngay tại chỗ."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "present",
+          "example": "I'd like to present my résumé for your consideration."
+        },
+        {
+          "pos": "noun",
+          "word": "presentation",
+          "example": "The applicant's presentation made a favorable impression."
+        },
+        {
+          "pos": "adjective",
+          "word": "presentable",
+          "example": "The applicant was well dressed and presentable."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "present a résumé",
+        "present findings",
+        "present an award",
+        "present credentials"
+      ],
+      "usage": {
+        "structures": [
+          "present + sth + to + sb (trình bày/xuất trình cái gì cho ai)",
+          "present + sb + with + sth (trao tặng cho ai cái gì)"
+        ],
+        "prepositions": [
+          "to",
+          "with",
+          "at"
+        ],
+        "collocations": [
+          "present a proposal",
+          "present identification",
+          "present an opportunity",
+          "give a presentation"
+        ],
+        "tip": "Ngoài nghĩa động từ 'trình bày/trao tặng', 'present' còn là tính từ mang nghĩa 'có mặt' (be present at the meeting)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "presenter",
+          "example": "The keynote presenter shared valuable insights on talent retention.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Ms. Ortiz gave an impressive _____ on market expansion strategies at the annual conference.",
+        "answer": "presentation",
+        "base_word": "present",
+        "pos_hint": "danh từ",
+        "vi": "Bà Ortiz đã có một bài thuyết trình ấn tượng về các chiến lược mở rộng thị trường tại hội nghị thường niên."
+      }
+    },
+    {
+      "id": 12,
+      "word": "weakly",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "without strength; poorly",
+      "definition_vi": "một cách yếu ớt, kém cỏi, mờ nhạt",
+      "examples": [
+        {
+          "en": "Her hands trembled and she spoke weakly at the interview.",
+          "vi": "Đôi tay cô run rẩy và cô nói chuyện một cách yếu ớt tại buổi phỏng vấn."
+        },
+        {
+          "en": "She wrote so weakly we couldn't read it.",
+          "vi": "Cô ấy viết mờ và yếu đến mức chúng tôi không thể đọc được."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "weakly",
+          "example": "The applicant shook hands weakly, making me question her strength of character."
+        },
+        {
+          "pos": "adjective",
+          "word": "weak",
+          "example": "She gave a weak description of her computer skills."
+        },
+        {
+          "pos": "noun",
+          "word": "weakness",
+          "example": "Interviewers often ask candidates about their strengths and weaknesses."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "speak weakly",
+        "smile weakly",
+        "respond weakly",
+        "perform weakly"
+      ],
+      "usage": {
+        "structures": [
+          "V + weakly (làm việc gì một cách yếu ớt/kém hiệu quả)"
+        ],
+        "prepositions": [],
+        "collocations": [
+          "shake hands weakly",
+          "argue weakly",
+          "weakly correlated",
+          "react weakly"
+        ],
+        "tip": "Trong ngữ cảnh phỏng vấn TOEIC, danh từ 'strengths and weaknesses' (điểm mạnh và điểm yếu) và động từ 'weaken' xuất hiện rất thường xuyên."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "weaken",
+          "example": "Rising raw material costs could weaken the company's profit margins this quarter.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "During the interview, candidates are often asked to describe their greatest strengths and _____.",
+        "answer": "weaknesses",
+        "base_word": "weakly",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Trong buổi phỏng vấn, các ứng viên thường được yêu cầu mô tả những điểm mạnh và điểm yếu lớn nhất của họ."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. How many times in your life will you search for a new job? The (1) ____ say probably more times than you think! Some people find the job search time-consuming and hard on their self- (2) ____. The best job hunters are those who never stop looking and don't dwell on their (3) ____. They network (4) ____: at meetings, at social gatherings, and with people they meet on the street. They (5) ____ periodically with contacts and acquaintances to keep up with new developments. Good job hunters assess their (6) ____ all the time. Before they even (7) ____ for a position, they have researched the field and the specific companies they are interested in. They know where they could fit into the company and they tailor their résumés for each position. They try to show how their (8) ____ match the job opening. Therefore, when they are (9) ____ for an interview, they're prepared. They (10) ____ anything! At the interview, these job hunters know that they must (11) ____ themselves in the best way possible. This is their opportunity to shine. It is also their opportunity to see if this is truly the job that they want. If either party is (12) ____ at the interview, it may be a sign that it isn't a good fit.",
+    "word_bank": [
+      "abilities",
+      "backgrounds",
+      "constantly",
+      "hesitant",
+      "apply",
+      "called in",
+      "experts",
+      "present",
+      "are ready for",
+      "confidence",
+      "follow up",
+      "weaknesses"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "apply",
+        "example": "Your chances are better if you apply for a job in the spring.",
+        "pos": ""
+      },
+      {
+        "word": "applicant",
+        "example": "The manager selected him from all the applicants.",
+        "pos": ""
+      },
+      {
+        "word": "application",
+        "example": "The department can’t process your application until all documents have been received.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "expert",
+        "example": "Don&#x27;t portray yourself as an expert if you aren&#x27;t.",
+        "pos": "noun"
+      },
+      {
+        "word": "expertise",
+        "example": "The worker gained expertise over the years and was promoted to a higher position.",
+        "pos": ""
+      },
+      {
+        "word": "expert",
+        "example": "As an expert negotiator, she should have no problems getting what the company wants.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "confidence",
+        "example": "It's refreshing to see a manager with so much confidence in her employees.",
+        "pos": ""
+      },
+      {
+        "word": "confident",
+        "example": "Don't be too confident until you actually have an offer.",
+        "pos": ""
+      },
+      {
+        "word": "confidently",
+        "example": "The applicant confidently walked into the interview, sat down, and began to talk about himself.",
+        "pos": "adverb"
+      }
+    ],
+    [
+      {
+        "word": "hesitant",
+        "example": "The applicant was hesitant to explain his reason for leaving his last job.",
+        "pos": ""
+      },
+      {
+        "word": "hesitation",
+        "example": "Her hesitation about accepting the job made the department wonder if she was really interested.",
+        "pos": "noun"
+      },
+      {
+        "word": "hesitate",
+        "example": "Don't hesitate to call if you have any questions concerning the job.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "present",
+        "example": "I'd like to present my résumé for your consideration.",
+        "pos": ""
+      },
+      {
+        "word": "presentation",
+        "example": "The applicant's presentation made a favorable impression.",
+        "pos": "noun"
+      },
+      {
+        "word": "presentable",
+        "example": "The applicant was well dressed and presentable.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "weakly",
+        "example": "The applicant shook hands weakly, making me question her strength of character.",
+        "pos": ""
+      },
+      {
+        "word": "weak",
+        "example": "She gave a weak description of her computer skills.",
+        "pos": "adjective"
+      },
+      {
+        "word": "weakness",
+        "example": "Interviewers often ask candidates about their strengths and weaknesses.",
+        "pos": "noun"
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "So many well-qualified people ____ for the position that we won't be able to make a decision for several weeks.",
+        "options": [
+          {
+            "label": "A",
+            "text": "apply"
+          },
+          {
+            "label": "B",
+            "text": "application"
+          },
+          {
+            "label": "C",
+            "text": "applicant"
+          },
+          {
+            "label": "D",
+            "text": "applied"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "As the interview continued, the applicant's ____ began to decline.",
+        "options": [
+          {
+            "label": "A",
+            "text": "confidently"
+          },
+          {
+            "label": "B",
+            "text": "confident"
+          },
+          {
+            "label": "C",
+            "text": "confidence"
+          },
+          {
+            "label": "D",
+            "text": "confidential"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "The applicant's unique ____ enabled her to have almost any job that she wanted.",
+        "options": [
+          {
+            "label": "A",
+            "text": "expertise"
+          },
+          {
+            "label": "B",
+            "text": "experts"
+          },
+          {
+            "label": "C",
+            "text": "expertly"
+          },
+          {
+            "label": "D",
+            "text": "expert"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "She spoke without ____, expressing self-confidence and projecting that she had a firm handle on the information.",
+        "options": [
+          {
+            "label": "A",
+            "text": "hesitant"
+          },
+          {
+            "label": "B",
+            "text": "hesitate"
+          },
+          {
+            "label": "C",
+            "text": "hesitatingly"
+          },
+          {
+            "label": "D",
+            "text": "hesitation"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "During an interview, it is important to ____ your weaknesses in a way that shows you are working to improve them.",
+        "options": [
+          {
+            "label": "A",
+            "text": "presentation"
+          },
+          {
+            "label": "B",
+            "text": "present"
+          },
+          {
+            "label": "C",
+            "text": "presentable"
+          },
+          {
+            "label": "D",
+            "text": "presenting"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "Her handshake had always felt like a dead fish and it was taken as a sign of a ____ character.",
+        "options": [
+          {
+            "label": "A",
+            "text": "weak"
+          },
+          {
+            "label": "B",
+            "text": "weakly"
+          },
+          {
+            "label": "C",
+            "text": "weakness"
+          },
+          {
+            "label": "D",
+            "text": "weakening"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "When you go on a job interview, the most important thing to remember is to present yourself well. Before you go, prepare yourself by dressing neatly and professionally. When you arrive, enter the interview room [16]. Look the interviewer in the eye when you shake hands. When you talk about yourself, do not be shy about your abilities. You are there to prove that you can do the job. Explain your work and educational background briefly and discuss the skills you have developed through experience. [17] to point out areas in which you have expertise. The worst thing you can do is discuss your experience weakly. Remember, if you believe in yourself, other people will, too. Don't forget to [18] the interview with a thank-you note before a week has passed.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "confident"
+            },
+            {
+              "label": "B",
+              "text": "confidently"
+            },
+            {
+              "label": "C",
+              "text": "confide"
+            },
+            {
+              "label": "D",
+              "text": "confidence"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "No hesitation"
+            },
+            {
+              "label": "B",
+              "text": "Not hesitating"
+            },
+            {
+              "label": "C",
+              "text": "Don't hesitate"
+            },
+            {
+              "label": "D",
+              "text": "Doesn't hesitate"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "call in"
+            },
+            {
+              "label": "B",
+              "text": "apply to"
+            },
+            {
+              "label": "C",
+              "text": "be ready for"
+            },
+            {
+              "label": "D",
+              "text": "follow up"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following letter. Matilda Moreno, Human Resources Director Milestone Marketing, Inc. 1476 Honeycutt Avenue Riverdale Dear Ms. Moreno, I am writing in response to your ad in last Sunday's newspaper. I am interested in applying for the marketing research assistant position. I have the background and abilities you are looking for. I have recently graduated from a four-year university program with a degree in Marketing. My work experience includes three months working as an intern for a local marketing firm, so I have on-the-job marketing experience in addition to my university training. I have also worked for the past two years as a part-time office manager while going to school. My experience at this job allowed me to develop important managerial and organizational skills. I am enclosing my résumé and three letters of reference. Please don't hesitate to contact me if you have any questions or need further information. I believe I am a good match for your company, and I am confident that I can do the job. I look forward to hearing from you. Samuel Rutherford 22. The word background in line 2 is closest in meaning to (A) experience (B) location (C) position (D) age",
+        "questions": [
+          {
+            "number": 19,
+            "question": "What kind of job is Mr. Rutherford looking for?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Office manager."
+              },
+              {
+                "label": "B",
+                "text": "Human resources director."
+              },
+              {
+                "label": "C",
+                "text": "Marketing research assistant."
+              },
+              {
+                "label": "D",
+                "text": "Newspaper reporter."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "When does he want to have an interview?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Sunday."
+              },
+              {
+                "label": "B",
+                "text": "Next week."
+              },
+              {
+                "label": "C",
+                "text": "Next month."
+              },
+              {
+                "label": "D",
+                "text": "In three months."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "What does he include with this letter?",
+            "options": [
+              {
+                "label": "A",
+                "text": "A copy of his university degree."
+              },
+              {
+                "label": "B",
+                "text": "Three reference books."
+              },
+              {
+                "label": "C",
+                "text": "A job description."
+              },
+              {
+                "label": "D",
+                "text": "His résumé."
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word confident in line 13 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "afraid"
+              },
+              {
+                "label": "B",
+                "text": "lucky"
+              },
+              {
+                "label": "C",
+                "text": "glad"
+              },
+              {
+                "label": "D",
+                "text": "sure"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What do people think about the woman now?",
+        "options": [
+          {
+            "label": "A",
+            "text": "She has no confidence."
+          },
+          {
+            "label": "B",
+            "text": "She is an expert."
+          },
+          {
+            "label": "C",
+            "text": "She is a beginner at networking."
+          },
+          {
+            "label": "D",
+            "text": "Her computer skills are weak."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the man want the woman to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Help him with a workshop."
+          },
+          {
+            "label": "B",
+            "text": "Speak at a conference."
+          },
+          {
+            "label": "C",
+            "text": "Give him some change."
+          },
+          {
+            "label": "D",
+            "text": "Hire him."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What was the woman hesitant to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Apply for a job."
+          },
+          {
+            "label": "B",
+            "text": "Use a computer."
+          },
+          {
+            "label": "C",
+            "text": "Give a presentation."
+          },
+          {
+            "label": "D",
+            "text": "Go to a job interview."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "Who would call in to this hotline?",
+        "options": [
+          {
+            "label": "A",
+            "text": "An expert in Salvo's product line."
+          },
+          {
+            "label": "B",
+            "text": "An employer."
+          },
+          {
+            "label": "C",
+            "text": "A human resources presenter."
+          },
+          {
+            "label": "D",
+            "text": "A job seeker."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What is the purpose of this recording?",
+        "options": [
+          {
+            "label": "A",
+            "text": "To inform callers about Salvo."
+          },
+          {
+            "label": "B",
+            "text": "To explain to callers what they can do."
+          },
+          {
+            "label": "C",
+            "text": "To present the company's philosophy."
+          },
+          {
+            "label": "D",
+            "text": "To give background information about a product problem."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What kind of people is Salvo currently looking for?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Fashion designers."
+          },
+          {
+            "label": "B",
+            "text": "Foreign language speakers."
+          },
+          {
+            "label": "C",
+            "text": "Human resource experts."
+          },
+          {
+            "label": "D",
+            "text": "Software users."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. What do people think about the woman now? (A) She has no confidence. (B) She is an expert. (C) She is a beginner at networking. (D) Her computer skills are weak. 6. What does the man want the woman to do? (A) Help him with a workshop. (B) Speak at a conference. (C) Give him some change. (D) Hire him. 5. What was the woman hesitant to do? (A) Apply for a job. (B) Use a computer. (C) Give a presentation. (D) Go to a job interview. Listen to the talk. Then read each question and choose the best answer. 7. Who would call in to this hotline? (A) An expert in Salvo's product line. (B) An employer. (C) A human resources presenter. (D) A job seeker. 8. What is the purpose of this recording? (A) To inform callers about Salvo. (B) To explain to callers what they can do. (C) To present the company's philosophy. (D) To give background information about a product problem. 9. What kind of people is Salvo currently looking for? (A) Fashion designers. (B) Foreign language speakers. (C) Human resource experts. (D) Software users.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What do people think about the woman now?",
+        "options": [
+          {
+            "label": "A",
+            "text": "She has no confidence."
+          },
+          {
+            "label": "B",
+            "text": "She is an expert."
+          },
+          {
+            "label": "C",
+            "text": "She is a beginner at networking."
+          },
+          {
+            "label": "D",
+            "text": "Her computer skills are weak."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What does the man want the woman to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Help him with a workshop."
+          },
+          {
+            "label": "B",
+            "text": "Speak at a conference."
+          },
+          {
+            "label": "C",
+            "text": "Give him some change."
+          },
+          {
+            "label": "D",
+            "text": "Hire him."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What was the woman hesitant to do?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Apply for a job."
+          },
+          {
+            "label": "B",
+            "text": "Use a computer."
+          },
+          {
+            "label": "C",
+            "text": "Give a presentation."
+          },
+          {
+            "label": "D",
+            "text": "Go to a job interview."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "Who would call in to this hotline?",
+        "options": [
+          {
+            "label": "A",
+            "text": "An expert in Salvo's product line."
+          },
+          {
+            "label": "B",
+            "text": "An employer."
+          },
+          {
+            "label": "C",
+            "text": "A human resources presenter."
+          },
+          {
+            "label": "D",
+            "text": "A job seeker."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What is the purpose of this recording?",
+        "options": [
+          {
+            "label": "A",
+            "text": "To inform callers about Salvo."
+          },
+          {
+            "label": "B",
+            "text": "To explain to callers what they can do."
+          },
+          {
+            "label": "C",
+            "text": "To present the company's philosophy."
+          },
+          {
+            "label": "D",
+            "text": "To give background information about a product problem."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "What kind of people is Salvo currently looking for?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Fashion designers."
+          },
+          {
+            "label": "B",
+            "text": "Foreign language speakers."
+          },
+          {
+            "label": "C",
+            "text": "Human resource experts."
+          },
+          {
+            "label": "D",
+            "text": "Software users."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "# Applying and Interviewing\n\n## Study the following definitions and examples.\n\n1. ability n., a skill, a competence  \na. The designer's ability was obvious from her portfolio.  \nb. The ability to work with others is a key requirement.\n\n2. apply v., to look for; to submit an application  \na. The college graduate applied for three jobs and received three offers.  \nb. Everyone who is interested should apply in person at any branch office.\n\n3. background n., a person's experience, education, and family history  \na. Your background in the publishing industry is a definite asset for this job.  \nb. The employer did a complete background check before offering him the job.\n\n4. be ready for v., to be prepared\n\na. Thanks to her careful research, the applicant felt that she was ready for the interview with the director of the program.  \nb. The employer wasn't ready for the applicant's questions.\n\n5. call in v., to ask to come; to beckon\n\na. The young woman was so excited when she was called in for an interview that she told everyone she knew.\n\nb. The human resources manager called in all the qualified applicants for a second interview.\n\n6. confidence n., a belief in one's abilities, self-esteem  \na. Good applicants show confidence during an interview.  \nb. He had too much confidence and thought that the job was his.\n\n7. constantly adj., on a continual basis, happening all the time  \na. The company is constantly looking for highly trained employees.  \nb. Martin constantly checked his messages to see if anyone had called for an interview.\n\n8. expert n., a specialist  \na. Our department head is an expert in financing.  \nb. The candidate demonstrated that he was an expert in marketing.\n\n9. follow up v., to take additional steps, to continue; n., the continuation of a previous action  \na. Always follow up an interview with a thank-you note.  \nb. As a follow up, the candidate sent the company a list of references.\n\n10. hesitant adj., reluctant; with reservation  \na. Marla was hesitant about negotiating a higher salary.  \nb. The recent college graduate was hesitant about accepting his first offer.\n\n11. present v., to introduce; to show; to offer for consideration  \na. The human resources director presents each candidate's résumé to the department supervisor for review.  \nb. The candidate presented her qualifications so well that the employer offered her a job on the spot.\n\n12. weakly adv., without strength; poorly  \na. Her hands trembled and she spoke weakly at the interview.  \nb. She wrote so weakly we couldn't read it.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\nabilities backgrounds constantly hesitant  \napply called in experts present  \nare ready for confidence follow up weaknesses\n\nHow many times in your life will you search for a new job? The (1) \\_\\_\\_\\_ say probably more times than you think! Some people find the job search time-consuming and hard on their self- (2) \\_\\_\\_\\_. The best job hunters are those who never stop looking and don't dwell on their (3) \\_\\_\\_\\_. They network (4) \\_\\_\\_\\_: at meetings, at social gatherings, and with people they meet on the street. They (5) \\_\\_\\_\\_ periodically with contacts and acquaintances to keep up with new developments.\n\nGood job hunters assess their (6) \\_\\_\\_\\_ all the time.\nBefore they even (7) \\_\\_\\_\\_ for a position, they have researched the field and the specific companies they are interested in.\nThey know where they could fit into the company and they tailor their résumés for each position. They try to show how their (8) \\_\\_\\_\\_ match the job opening. Therefore, when they are (9) \\_\\_\\_\\_ for an interview, they're prepared. They (10) \\_\\_\\_\\_ anything!\n\nAt the interview, these job hunters know that they must (11) \\_\\_\\_\\_ themselves in the best way possible. This is their opportunity to shine. It is also their opportunity to see if this is truly the job that they want. If either party is (12) \\_\\_\\_\\_ at the interview, it may be a sign that it isn't a good fit.",
+    "word_families": "## WORD FAMILIES\n\n<table><tr><td rowspan=\"2\">rev.</td><td>apply</td><td>Your chances are better if you apply for a job in the spring.</td></tr><tr><td>applicant</td><td>The manager selected him from all the applicants.</td></tr><tr><td>noun</td><td>application</td><td>The department can’t process your application until all documents have been received.</td></tr></table>\n\n| nour | confidence | It's refreshing to see a manager with so much confidence in her employees. |\n| --- | --- | --- |\n| adje | confident | Don't be too confident until you actually have an offer. |\n| adverb | confidently | The applicant confidently walked into the interview, sat down, and began to talk about himself. |\n\n<table><tr><td rowspan=\"2\">noun</td><td>expert</td><td>Don&#x27;t portray yourself as an expert if you aren&#x27;t.</td></tr><tr><td>expertise</td><td>The worker gained expertise over the years and was promoted to a higher position.</td></tr><tr><td>adjective</td><td>expert</td><td>As an expert negotiator, she should have no problems getting what the company wants.</td></tr></table>\n\n|  | hesitant | The applicant was hesitant to explain his reason for leaving his last job. |\n| --- | --- | --- |\n| noun | hesitation | Her hesitation about accepting the job made the department wonder if she was really interested. |\n| ...J | hesitate | Don't hesitate to call if you have any questions concerning the job. |\n\n| t.5 | present | I'd like to present my résumé for your consideration. |\n| --- | --- | --- |\n| noun | presentation | The applicant's presentation made a favorable impression. |\n| adjective | presentable | The applicant was well dressed and presentable. |\n\n| adv. ID | weakly | The applicant shook hands weakly, making me question her strength of character. |\n| --- | --- | --- |\n| adjective | weak | She gave a weak description of her computer skills. |\n| noun | weakness | Interviewers often ask candidates about their strengths and weaknesses. |",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. What do people think about the woman now?\n(A) She has no confidence.\n(B) She is an expert.\n(C) She is a beginner at networking.\n(D) Her computer skills are weak.\n\n6. What does the man want the woman to do?\n(A) Help him with a workshop.\n(B) Speak at a conference.\n(C) Give him some change.\n(D) Hire him.\n\n5. What was the woman hesitant to do?  \n(A) Apply for a job.  \n(B) Use a computer.  \n(C) Give a presentation.  \n(D) Go to a job interview.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. Who would call in to this hotline?\n(A) An expert in Salvo's product line.\n(B) An employer.\n(C) A human resources presenter.\n(D) A job seeker.\n\n8. What is the purpose of this recording?\n(A) To inform callers about Salvo.\n(B) To explain to callers what they can do.\n(C) To present the company's philosophy.\n(D) To give background information about a product problem.\n\n9. What kind of people is Salvo currently looking for?  \n(A) Fashion designers.  \n(B) Foreign language speakers.  \n(C) Human resource experts.  \n(D) Software users.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. So many well-qualified people \\_\\_\\_\\_ for the position that we won't be able to make a decision for several weeks.\n(A) apply (C) applicant\n(B) application (D) applied\n\n11. As the interview continued, the applicant's \\_\\_\\_\\_ began to decline.\n(A) confidently (C) confidence\n(B) confident (D) confidential\n\n12. The applicant's unique \\_\\_\\_\\_ enabled her to have almost any job that she wanted.\n(A) expertise (C) expertly\n(B) experts (D) expert\n\n13. She spoke without \\_\\_\\_\\_, expressing self-confidence and projecting that she had a firm handle on the information.\n(A) hesitant (C) hesitatingly\n(B) hesitate (D) hesitation\n\n14. During an interview, it is important to \\_\\_\\_\\_ your weaknesses in a way that shows you are working to improve them.\n(A) presentation (C) presentable\n(B) present (D) presenting\n\n15. Her handshake had always felt like a dead fish and it was taken as a sign of a \\_\\_\\_\\_ character.\n(A) weak (C) weakness\n(B) weakly (D) weakening\n\n## Part 6 Text Completion\n\nWhen you go on a job interview, the most important thing to remember is to present yourself well. Before you go, prepare yourself by dressing neatly and professionally. When you arrive, enter the interview room \\_16\\_. Look the interviewer in the eye when you shake hands. When you talk about yourself, do not be shy about your abilities. You are there to prove that you can do the job. Explain your work and educational background briefly and discuss the skills you have developed through experience. \\_17\\_ to point out areas in which you have expertise. The worst thing you can do is discuss your experience weakly. Remember, if you believe in yourself, other people will, too. Don't forget to \\_18\\_ the interview with a thank-you note before a week has passed.\n\n16. (A) confident  \n(B) confidently  \n(C) confide  \n(D) confidence\n\n18. (A) call in (B) apply to (C) be ready for (D) follow up\n\n17. (A) No hesitation  \n(B) Not hesitating  \n(C) Don't hesitate  \n(D) Doesn't hesitate",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following letter.\n\nMatilda Moreno, Human Resources Director Milestone Marketing, Inc. 1476 Honeycutt Avenue Riverdale\n\nDear Ms. Moreno,\n\nI am writing in response to your ad in last Sunday's newspaper. I am interested in applying for the marketing research assistant position. I have the background and abilities you are looking for. I have recently graduated from a four-year university program with a degree in Marketing. My work experience includes three months working as an intern for a local marketing firm, so I have on-the-job marketing experience in addition to my university training. I have also worked for the past two years as a part-time office manager while going to school. My experience at this job allowed me to develop important managerial and organizational skills.\n\nI am enclosing my résumé and three letters of reference. Please don't hesitate to contact me if you have any questions or need further information. I believe I am a good match for your company, and I am confident that I can do the job. I look forward to hearing from you.\n\nSamuel Rutherford\n\n19. What kind of job is Mr. Rutherford looking for?\n(A) Office manager.\n(B) Human resources director.\n(C) Marketing research assistant.\n(D) Newspaper reporter.\n\n20. When does he want to have an interview?\n(A) Sunday.\n(B) Next week.\n(C) Next month.\n(D) In three months.\n\n21. What does he include with this letter?\n(A) A copy of his university degree.\n(B) Three reference books.\n(C) A job description.\n(D) His résumé.\n\n22. The word background in line 2 is closest in meaning to (A) experience (B) location (C) position (D) age\n\n23. The word confident in line 13 is closest in meaning to  \n(A) afraid  \n(B) lucky  \n(C) glad  \n(D) sure"
+  },
+  "needs_review": true
+}

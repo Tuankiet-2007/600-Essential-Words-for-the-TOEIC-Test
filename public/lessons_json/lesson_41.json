@@ -1,0 +1,1636 @@
+{
+  "lesson_id": 41,
+  "title": "Movies",
+  "theme_name": "Entertainment",
+  "audio_track": "track_41.mp3",
+  "part1_photo": "part1_photos/lesson_41.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "attainment",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "achievement",
+      "definition_vi": "sự đạt được, thành tựu",
+      "examples": [
+        {
+          "en": "The actress received a lot of attention for her many professional attainments.",
+          "vi": "Nữ diễn viên đã nhận được rất nhiều sự chú ý nhờ nhiều thành tựu nghề nghiệp của cô."
+        },
+        {
+          "en": "The attainment of an Academy Award validates a performer's career.",
+          "vi": "Việc đạt được giải thưởng Viện hàn lâm (Oscar) khẳng định sự nghiệp của một nghệ sĩ biểu diễn."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "attain",
+          "example": "The film quickly attained a reputation as a “must-see” movie."
+        },
+        {
+          "pos": "",
+          "word": "attainment",
+          "example": "The technical attainments in the movie's special effects were impressive."
+        },
+        {
+          "pos": "",
+          "word": "attainable",
+          "example": "The director's goal of having an unlimited budget was not attainable."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "professional attainment",
+        "educational attainment",
+        "attainment of a goal",
+        "high attainment"
+      ],
+      "usage": {
+        "structures": [
+          "attainment of + N",
+          "beyond attainment"
+        ],
+        "prepositions": [
+          "of",
+          "in"
+        ],
+        "collocations": [
+          "professional attainments",
+          "attainment of an award",
+          "academic attainment",
+          "level of attainment"
+        ],
+        "tip": "Đi sau mạo từ 'the' và trước giới từ 'of' (the attainment of...) để chỉ việc giành được một mục tiêu/giải thưởng lớn."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "attainably",
+          "example": "The sales targets were set attainably so that every team member stayed motivated.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The film quickly _____ a reputation as one of the most innovative documentaries of the decade.",
+        "answer": "attained",
+        "base_word": "attainment",
+        "pos_hint": "động từ chia quá khứ đơn V2/ed",
+        "vi": "Bộ phim nhanh chóng đạt được danh tiếng là một trong những bộ phim tài liệu sáng tạo nhất thập kỷ."
+      }
+    },
+    {
+      "id": 2,
+      "word": "combine",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to come together desc$^{vi}$ n",
+      "definition_vi": "kết hợp, phối hợp",
+      "examples": [
+        {
+          "en": "The director combined two previously separate visual techniques.",
+          "vi": "Đạo diễn đã kết hợp hai kỹ thuật hình ảnh trước đây vốn tách biệt nhau."
+        },
+        {
+          "en": "The new production company combines the talents of three of Hollywood's best known teams.",
+          "vi": "Công ty sản xuất mới kết hợp tài năng của ba trong số những đội ngũ nổi tiếng nhất Hollywood."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "combine efforts",
+        "combine A with B",
+        "combined total",
+        "combine resources"
+      ],
+      "usage": {
+        "structures": [
+          "combine A with B",
+          "combine A and B",
+          "combine to V"
+        ],
+        "prepositions": [
+          "with",
+          "into"
+        ],
+        "collocations": [
+          "combine visual techniques",
+          "combine talents",
+          "combined effort",
+          "in combination with"
+        ],
+        "tip": "Thường đi kèm giới từ 'with' (combine A with B: kết hợp A với B) hoặc cụm danh từ 'in combination with'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "combine",
+          "example": "The studio plans to combine traditional animation with modern computer graphics.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "combination",
+          "example": "A combination of strong acting and clever directing made the movie a box-office hit.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "combined",
+          "example": "The two sequels earned a combined total of over five hundred million dollars.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The success of the festival was due to a _____ of favorable weather and excellent publicity.",
+        "answer": "combination",
+        "base_word": "combine",
+        "pos_hint": "danh từ",
+        "vi": "Sự thành công của lễ hội là nhờ sự kết hợp giữa thời tiết thuận lợi và hoạt động quảng bá xuất sắc."
+      }
+    },
+    {
+      "id": 3,
+      "word": "continue",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to maintain without interruption",
+      "definition_vi": "tiếp tục, duy trì không gián đoạn",
+      "examples": [
+        {
+          "en": "The film continues the story set out in an earlier film.",
+          "vi": "Bộ phim tiếp nối câu chuyện đã được mở ra trong một phần phim trước đó."
+        },
+        {
+          "en": "The search for a star will continue until one is found. rep., .. 1",
+          "vi": "Cuộc tìm kiếm một ngôi sao sẽ tiếp tục cho đến khi tìm thấy một người phù hợp."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "continue",
+          "example": "Continue giving out movie passes until I tell you to stop."
+        },
+        {
+          "pos": "",
+          "word": "continuation",
+          "example": "The continuation of the film will be shown after the intermission."
+        },
+        {
+          "pos": "",
+          "word": "continual",
+          "example": "The actors’ continual demands slowed down the pace of production."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "continue to grow",
+        "continue doing",
+        "continued success",
+        "continue unabated"
+      ],
+      "usage": {
+        "structures": [
+          "continue + to V",
+          "continue + V-ing",
+          "continue + with + N"
+        ],
+        "prepositions": [
+          "with",
+          "into",
+          "until"
+        ],
+        "collocations": [
+          "continue the story",
+          "continued support",
+          "continual demands",
+          "continuation of the project"
+        ],
+        "tip": "Sau 'continue' có thể dùng cả 'to V' lẫn 'V-ing' mà nghĩa không đổi; chú ý tính từ 'continued' (liên tục) rất hay đứng trước 'support/success/growth'."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "continually",
+          "example": "The streaming platform continually updates its movie library to attract new viewers.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The actors' _____ demands for script changes slowed down the pace of production.",
+        "answer": "continual",
+        "base_word": "continue",
+        "pos_hint": "tính từ",
+        "vi": "Những yêu cầu liên tiếp của các diễn viên về việc sửa kịch bản đã làm chậm tiến độ sản xuất."
+      }
+    },
+    {
+      "id": 4,
+      "word": "description",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a representation in words or pictures",
+      "definition_vi": "sự miêu tả, bản mô tả",
+      "examples": [
+        {
+          "en": "The description of the film did not match what we saw on screen.",
+          "vi": "Bản mô tả về bộ phim không khớp với những gì chúng tôi thấy trên màn ảnh."
+        },
+        {
+          "en": "The critic's description of the film made it sound very appealing.",
+          "vi": "Lời miêu tả của nhà phê bình về bộ phim khiến nó nghe có vẻ rất hấp dẫn."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "describe",
+          "example": "Please describe the new movie theater to me."
+        },
+        {
+          "pos": "",
+          "word": "description",
+          "example": "The description of Africa in the film was not as I remembered it."
+        },
+        {
+          "pos": "",
+          "word": "descriptive",
+          "example": "The writer&#x27;s descriptive account of the war is shocking and saddening."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "job description",
+        "accurate description",
+        "detailed description",
+        "beyond description"
+      ],
+      "usage": {
+        "structures": [
+          "description of + N",
+          "fit/match a description",
+          "beyond description"
+        ],
+        "prepositions": [
+          "of",
+          "beyond"
+        ],
+        "collocations": [
+          "job description",
+          "detailed description",
+          "vivid description",
+          "brief description"
+        ],
+        "tip": "Cụm danh từ ghép 'job description' (bản mô tả công việc) và cấu trúc 'description of + N' xuất hiện với tần suất rất cao trong TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "descriptively",
+          "example": "The author wrote so descriptively that readers could easily picture every scene.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Applicants should read the job _____ carefully before submitting their resumes.",
+        "answer": "description",
+        "base_word": "description",
+        "pos_hint": "danh từ",
+        "vi": "Ứng viên nên đọc kỹ bản mô tả công việc trước khi nộp hồ sơ xin việc."
+      }
+    },
+    {
+      "id": 5,
+      "word": "disperse",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to spread widely, to scatter",
+      "definition_vi": "giải tán, phân tán, lan truyền",
+      "examples": [
+        {
+          "en": "The reporters dispersed after the press agent cancelled the interview with the film director.",
+          "vi": "Các phóng viên đã giải tán sau khi người đại diện báo chí hủy buổi phỏng vấn với đạo diễn bộ phim."
+        },
+        {
+          "en": "The crowd outside the movie premiere would not disperse until they had seen the movie stars.",
+          "vi": "Đám đông bên ngoài buổi công chiếu phim nhất quyết không giải tán cho đến khi họ nhìn thấy các ngôi sao điện ảnh."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "disperse a crowd",
+        "disperse quickly",
+        "widely dispersed",
+        "disperse seeds"
+      ],
+      "usage": {
+        "structures": [
+          "disperse + N (crowd/group)",
+          "disperse into + N",
+          "be dispersed across/throughout"
+        ],
+        "prepositions": [
+          "into",
+          "across",
+          "throughout"
+        ],
+        "collocations": [
+          "disperse the crowd",
+          "disperse peacefully",
+          "widely dispersed offices",
+          "dispersal of funds"
+        ],
+        "tip": "Thường dùng với chủ ngữ hoặc tân ngữ là 'crowd/reporters/demonstrators' (đám đông giải tán) hoặc phân bổ khắp nơi."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "disperse",
+          "example": "Security guards asked the fans to disperse after the premiere ended.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "dispersal",
+          "example": "The police ensured the peaceful dispersal of the crowd outside the theater.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "dispersed",
+          "example": "The production crew was dispersed across several filming locations.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The crowd gathered outside the cinema quickly _____ once the celebrity got into the limousine.",
+        "answer": "dispersed",
+        "base_word": "disperse",
+        "pos_hint": "động từ chia quá khứ đơn V2/ed",
+        "vi": "Đám đông tụ tập bên ngoài rạp chiếu phim nhanh chóng giải tán ngay khi ngôi sao bước vào xe limousine."
+      }
+    },
+    {
+      "id": 6,
+      "word": "entertainment",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a diverting performance or activity",
+      "definition_vi": "sự giải trí, hoạt động giải trí",
+      "examples": [
+        {
+          "en": "The movie was provided for our entertainment.",
+          "vi": "Bộ phim được chiếu để phục vụ nhu cầu giải trí của chúng tôi."
+        },
+        {
+          "en": "There was no entertainment for children of guests at the hotel.",
+          "vi": "Không có hoạt động giải trí nào dành cho con cái của khách lưu trú tại khách sạn."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "entertain",
+          "example": "The comedian worked hard to entertain the children in the hospital."
+        },
+        {
+          "pos": "noun",
+          "word": "entertainment",
+          "example": "Movies are one of the most popular forms of entertainment."
+        },
+        {
+          "pos": "",
+          "word": "entertaining",
+          "example": "The light comedy was entertaining, if not memorable."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "entertainment industry",
+        "live entertainment",
+        "home entertainment",
+        "form of entertainment"
+      ],
+      "usage": {
+        "structures": [
+          "for one's entertainment",
+          "provide entertainment for + sb"
+        ],
+        "prepositions": [
+          "for"
+        ],
+        "collocations": [
+          "entertainment industry",
+          "live entertainment",
+          "popular form of entertainment",
+          "entertainment expenses"
+        ],
+        "tip": "Danh từ không đếm được; hay đứng trước danh từ khác tạo cụm 'entertainment industry' (ngành công nghiệp giải trí)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "entertainingly",
+          "example": "The host spoke so entertainingly that the three-hour ceremony flew by.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The romantic comedy was light and _____, making it a popular choice for weekend viewers.",
+        "answer": "entertaining",
+        "base_word": "entertainment",
+        "pos_hint": "tính từ",
+        "vi": "Bộ phim hài lãng mạn nhẹ nhàng và giàu tính giải trí, khiến nó trở thành lựa chọn phổ biến cho khán giả dịp cuối tuần."
+      }
+    },
+    {
+      "id": 7,
+      "word": "influence",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to alter or affect",
+      "definition_vi": "ảnh hưởng, tác động đến",
+      "examples": [
+        {
+          "en": "The editor's style influenced a generation of film editors.",
+          "vi": "Phong cách của người biên tập phim đã ảnh hưởng đến cả một thế hệ các nhà dựng phim."
+        },
+        {
+          "en": "The producer was able to influence the town council to allow her to film in the park.",
+          "vi": "Nhà sản xuất đã có thể tác động đến hội đồng thành phố để cho phép cô quay phim trong công viên."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "influence a decision",
+        "strong influence",
+        "have an influence on",
+        "under the influence of"
+      ],
+      "usage": {
+        "structures": [
+          "influence + sb + to V",
+          "influence + N",
+          "have an influence on/over + N"
+        ],
+        "prepositions": [
+          "on",
+          "over",
+          "upon"
+        ],
+        "collocations": [
+          "heavily influence",
+          "positive influence on",
+          "influential critic",
+          "sphere of influence"
+        ],
+        "tip": "Khi là động từ, 'influence' là ngoại động từ (influence sb/sth - KHÔNG có giới từ 'on'); khi là danh từ mới đi với 'on' (have an influence on)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "influence",
+          "example": "Online reviews strongly influence which movies audiences decide to watch.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "influence",
+          "example": "Classic European cinema had a profound influence on the young director's work.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "influential",
+          "example": "She is one of the most influential film producers in the country.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "influentially",
+          "example": "Several critics wrote influentially about the need for independent film funding.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The documentary received praise from several _____ film critics at the international festival.",
+        "answer": "influential",
+        "base_word": "influence",
+        "pos_hint": "tính từ",
+        "vi": "Bộ phim tài liệu nhận được lời khen ngợi từ một số nhà phê bình điện ảnh có tầm ảnh hưởng tại liên hoan quốc tế."
+      }
+    },
+    {
+      "id": 8,
+      "word": "range",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the scope",
+      "definition_vi": "phạm vi, tầm, dãy, loạt",
+      "examples": [
+        {
+          "en": "The range of the director's vision is impressive.",
+          "vi": "Tầm nhìn sâu rộng của vị đạo diễn thật đáng ấn tượng."
+        },
+        {
+          "en": "What is the price range you are willing to pay for a ticket to the premiere?",
+          "vi": "Khoảng giá mà bạn sẵn lòng chi trả cho một tấm vé dự buổi công chiếu là bao nhiêu?"
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "wide range of",
+        "price range",
+        "within range",
+        "range from A to B"
+      ],
+      "usage": {
+        "structures": [
+          "a wide/broad range of + N (số nhiều)",
+          "in/within the price range",
+          "range from A to B"
+        ],
+        "prepositions": [
+          "of",
+          "from",
+          "to",
+          "within"
+        ],
+        "collocations": [
+          "a wide range of topics",
+          "price range",
+          "age range",
+          "full range of services"
+        ],
+        "tip": "Cụm 'a wide/broad range of + danh từ số nhiều' (một loạt/đa dạng các...) và 'range from A to B' cực kỳ phổ biến trong Part 5."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "range",
+          "example": "Ticket prices for the film festival range from ten to fifty dollars.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "range",
+          "example": "The streaming service offers a wide range of international films.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "ranging",
+          "example": "The festival attracts audiences of all ages, ranging from students to retirees.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Ticket prices for the charity screening _____ from twenty dollars for general admission to one hundred dollars for VIP seats.",
+        "answer": "range",
+        "base_word": "range",
+        "pos_hint": "động từ nguyên mẫu hiện tại đơn",
+        "vi": "Giá vé cho buổi chiếu phim từ thiện dao động từ 20 đô la cho vé thường đến 100 đô la cho ghế VIP."
+      }
+    },
+    {
+      "id": 9,
+      "word": "release",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to make available to the public; to give permission for performance",
+      "definition_vi": "phát hành, công bố, thải ra",
+      "examples": [
+        {
+          "en": "The film was finally released to movie theaters after many delays.",
+          "vi": "Bộ phim cuối cùng đã được phát hành tại các rạp chiếu phim sau nhiều lần trì hoãn."
+        },
+        {
+          "en": "The producers of the film are hoping to release it in time for the holidays.",
+          "vi": "Các nhà sản xuất bộ phim đang hy vọng sẽ phát hành nó kịp dịp nghỉ lễ."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "press release",
+        "release a film",
+        "newly released",
+        "scheduled for release"
+      ],
+      "usage": {
+        "structures": [
+          "release + N + to + N",
+          "be scheduled for release",
+          "release from + N"
+        ],
+        "prepositions": [
+          "to",
+          "for",
+          "from"
+        ],
+        "collocations": [
+          "press release",
+          "release date",
+          "newly released movie",
+          "official release"
+        ],
+        "tip": "Vừa là động từ vừa là danh từ; đặc biệt lưu ý cụm 'press release' (thông cáo báo chí) và 'newly released' (mới được phát hành)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "release",
+          "example": "The studio will release the soundtrack album next Friday.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "release",
+          "example": "The public relations team issued a press release announcing the cast.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "released",
+          "example": "Recently released figures show a sharp rise in cinema attendance.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The sequel was finally _____ to theaters worldwide after months of post-production work.",
+        "answer": "released",
+        "base_word": "release",
+        "pos_hint": "động từ chia quá khứ phân từ V3/ed (bị động)",
+        "vi": "Phần tiếp theo cuối cùng đã được phát hành tại các rạp trên toàn thế giới sau nhiều tháng làm hậu kỳ."
+      }
+    },
+    {
+      "id": 10,
+      "word": "representation",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "exemplification; symbolization",
+      "definition_vi": "sự thể hiện, sự đại diện, hình ảnh tiêu biểu",
+      "examples": [
+        {
+          "en": "The actor's representation of his character did not seem authentic.",
+          "vi": "Sự thể hiện nhân vật của nam diễn viên có vẻ không chân thực."
+        },
+        {
+          "en": "The film's representation of world poverty through the character of the hungry child was quite moving.",
+          "vi": "Sự khắc họa tình trạng đói nghèo trên thế giới của bộ phim thông qua nhân vật đứa trẻ đói khát thật sự rất xúc động."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "represent",
+          "example": "The actor represented the ideals of the culture."
+        },
+        {
+          "pos": "noun",
+          "word": "representation",
+          "example": "We felt that the movie's representation of the effects of war was very realistic."
+        },
+        {
+          "pos": "",
+          "word": "representative",
+          "example": "The actress couldn't attend the awards ceremony so she had a representative accept the award for her."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "accurate representation",
+        "visual representation",
+        "legal representation",
+        "fair representation"
+      ],
+      "usage": {
+        "structures": [
+          "representation of + N",
+          "make representations to + sb"
+        ],
+        "prepositions": [
+          "of",
+          "by"
+        ],
+        "collocations": [
+          "realistic representation",
+          "visual representation",
+          "sales representative",
+          "legal representation"
+        ],
+        "tip": "Phân biệt danh từ chỉ sự việc 'representation' (sự đại diện/thể hiện) với danh từ chỉ người 'representative' (người đại diện)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "representative",
+          "example": "The survey polled a representative sample of moviegoers across the country.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "representatively",
+          "example": "The committee was chosen representatively from all branches of the film guild.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Because the director was filming abroad, she sent a _____ to accept the award on her behalf.",
+        "answer": "representative",
+        "base_word": "representation",
+        "pos_hint": "danh từ chỉ người",
+        "vi": "Vì nữ đạo diễn đang quay phim ở nước ngoài, cô đã cử một người đại diện đến nhận giải thưởng thay mình."
+      }
+    },
+    {
+      "id": 11,
+      "word": "separately",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "apart",
+      "definition_vi": "một cách riêng biệt, tách rời",
+      "examples": [
+        {
+          "en": "Each scene of the movie was filmed separately from the others.",
+          "vi": "Mỗi cảnh của bộ phim được quay riêng biệt với các cảnh khác."
+        },
+        {
+          "en": "The theater was very crowded so we had to sit separately.",
+          "vi": "Rạp chiếu phim rất đông nên chúng tôi phải ngồi tách nhau ra."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "separate",
+          "example": "Some movie fans can't separate fantasy from reality and confuse an actor with the character he plays."
+        },
+        {
+          "pos": "adjective",
+          "word": "separate",
+          "example": "Moviemaking combines several separate processes."
+        },
+        {
+          "pos": "",
+          "word": "separately",
+          "example": "The actors rehearsed their lines separately before filming the scene together."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "sold separately",
+        "packaged separately",
+        "billed separately",
+        "rehearse separately"
+      ],
+      "usage": {
+        "structures": [
+          "V + separately (from + N)",
+          "be sold/billed separately"
+        ],
+        "prepositions": [
+          "from"
+        ],
+        "collocations": [
+          "sold separately",
+          "filmed separately",
+          "interviewed separately",
+          "kept separately"
+        ],
+        "tip": "Trạng từ thường bổ nghĩa cho phân từ hai như 'sold separately' (được bán riêng) hoặc 'packaged separately' (được đóng gói riêng)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "separation",
+          "example": "There is a clear separation between the editorial and advertising departments.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "To speed up production, the sound effects and musical score were recorded in _____ studios.",
+        "answer": "separate",
+        "base_word": "separately",
+        "pos_hint": "tính từ",
+        "vi": "Để đẩy nhanh tiến độ sản xuất, hiệu ứng âm thanh và nhạc nền đã được thu âm tại các phòng thu riêng biệt."
+      }
+    },
+    {
+      "id": 12,
+      "word": "successive",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "following in order",
+      "definition_vi": "liên tiếp, kế tiếp nhau",
+      "examples": [
+        {
+          "en": "The script went through successive rewrites.",
+          "vi": "Kịch bản đã trải qua nhiều lần viết lại liên tiếp."
+        },
+        {
+          "en": "Somehow the successive images were interrupted and had to be edited again.",
+          "vi": "Bằng cách nào đó những hình ảnh nối tiếp nhau đã bị gián đoạn và phải được chỉnh sửa lại."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "successive years",
+        "three successive wins",
+        "successive rewrites",
+        "successive generations"
+      ],
+      "usage": {
+        "structures": [
+          "for + số đếm + successive + N (số nhiều)",
+          "in successive + N"
+        ],
+        "prepositions": [
+          "for",
+          "in"
+        ],
+        "collocations": [
+          "for three successive years",
+          "successive stages",
+          "successive rewrites",
+          "successive days"
+        ],
+        "tip": "Đừng nhầm 'successive' (liên tiếp = consecutive) với 'successful' (thành công) dù cùng gốc từ 'succeed'!"
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "succeed",
+          "example": "Who will succeed Mr. Meyer as head of the motion picture division?",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "succession",
+          "example": "The studio released a succession of blockbuster movies over the summer.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "successively",
+          "example": "The award was won successively by three directors from the same film school.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The independent theater has won the community arts award for four _____ years.",
+        "answer": "successive",
+        "base_word": "successive",
+        "pos_hint": "tính từ",
+        "vi": "Rạp chiếu phim độc lập đó đã giành giải thưởng nghệ thuật cộng đồng trong bốn năm liên tiếp."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "The popularity of the movies began early in the 20th century and today. People of all ages find movies (1) ____ today. Movies are a worldwide phenomenon, as the internationalism of movie distribution has helped to ideas around the globe. One movie can quickly (4) ____ other movies. But why are movies so popular? Movies are a kind of storytelling. They try to describe an idea or record an observation about our culture. These (5) ____ are recorded using moving visual images. Some movies portray the situation accurately and realistically, whereas other movies find visual symbols to (6) ____ those situations. On the most simple level, movies are a succession of moving images. These (7) ____ images are captured on film. Directors film a wide (8) ____ of shots—long, medium, and close up—to create a visual composition. The visual images, along with plot, characterization, and sound, produce the desired narrative. The shots are joined together in any number of combinations in a process called editing. Making a film is a massive, complex, and expensive task that (9) ____ art and business. Making a movie involves the talents of hundreds, and sometimes thousands, of artists, producers, and business people. It can take months, even years, for a film to be (10) ____ into a movie theater. Like a novel, a movie is not just a story, but a story told a certain way. A film director may want to make a movie that tells a meaningful story or one that is primarily entertaining, and will use different filming techniques to (11) ____ that goal. It is impossible to (12) ____ what is told in a movie from how it is told. A director's artistic vision can range from improvised to carefully controlled. Think about the complexity of a movie the next time you see one.",
+    "word_bank": [
+      "attain",
+      "descriptions",
+      "influence",
+      "represent",
+      "combines",
+      "disperse",
+      "range",
+      "separate",
+      "continues",
+      "entertaining",
+      "released",
+      "successive"
+    ],
+    "blanks": [
+      1,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": false
+  },
+  "word_families": [
+    [
+      {
+        "word": "attain",
+        "example": "The film quickly attained a reputation as a “must-see” movie.",
+        "pos": ""
+      },
+      {
+        "word": "attainment",
+        "example": "The technical attainments in the movie's special effects were impressive.",
+        "pos": ""
+      },
+      {
+        "word": "attainable",
+        "example": "The director's goal of having an unlimited budget was not attainable.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "continue",
+        "example": "Continue giving out movie passes until I tell you to stop.",
+        "pos": ""
+      },
+      {
+        "word": "continuation",
+        "example": "The continuation of the film will be shown after the intermission.",
+        "pos": ""
+      },
+      {
+        "word": "continual",
+        "example": "The actors’ continual demands slowed down the pace of production.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "entertain",
+        "example": "The comedian worked hard to entertain the children in the hospital.",
+        "pos": ""
+      },
+      {
+        "word": "entertainment",
+        "example": "Movies are one of the most popular forms of entertainment.",
+        "pos": "noun"
+      },
+      {
+        "word": "entertaining",
+        "example": "The light comedy was entertaining, if not memorable.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "represent",
+        "example": "The actor represented the ideals of the culture.",
+        "pos": "verb"
+      },
+      {
+        "word": "representation",
+        "example": "We felt that the movie's representation of the effects of war was very realistic.",
+        "pos": "noun"
+      },
+      {
+        "word": "representative",
+        "example": "The actress couldn't attend the awards ceremony so she had a representative accept the award for her.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "separate",
+        "example": "Some movie fans can't separate fantasy from reality and confuse an actor with the character he plays.",
+        "pos": "verb"
+      },
+      {
+        "word": "separate",
+        "example": "Moviemaking combines several separate processes.",
+        "pos": "adjective"
+      },
+      {
+        "word": "separately",
+        "example": "The actors rehearsed their lines separately before filming the scene together.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "describe",
+        "example": "Please describe the new movie theater to me.",
+        "pos": ""
+      },
+      {
+        "word": "description",
+        "example": "The description of Africa in the film was not as I remembered it.",
+        "pos": ""
+      },
+      {
+        "word": "descriptive",
+        "example": "The writer&#x27;s descriptive account of the war is shocking and saddening.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "Do you think this actor will ____ the heights of his famous father?",
+        "options": [
+          {
+            "label": "A",
+            "text": "attain"
+          },
+          {
+            "label": "B",
+            "text": "attaining"
+          },
+          {
+            "label": "C",
+            "text": "attainable"
+          },
+          {
+            "label": "D",
+            "text": "attainment"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "A sequel is a ____ of a story set in motion by a previous film.",
+        "options": [
+          {
+            "label": "A",
+            "text": "continuity"
+          },
+          {
+            "label": "B",
+            "text": "continuing"
+          },
+          {
+            "label": "C",
+            "text": "continuation"
+          },
+          {
+            "label": "D",
+            "text": "continues"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "Each director has a uniquely ____ style of storytelling.",
+        "options": [
+          {
+            "label": "A",
+            "text": "descriptive"
+          },
+          {
+            "label": "B",
+            "text": "describe"
+          },
+          {
+            "label": "C",
+            "text": "description"
+          },
+          {
+            "label": "D",
+            "text": "descriptively"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "____ is one of the fastest growing sectors of the economy.",
+        "options": [
+          {
+            "label": "A",
+            "text": "Entertained"
+          },
+          {
+            "label": "B",
+            "text": "Entertainment"
+          },
+          {
+            "label": "C",
+            "text": "Entertain"
+          },
+          {
+            "label": "D",
+            "text": "Entertainingly"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "We were impressed by the director's ____ of the conflict between good and evil.",
+        "options": [
+          {
+            "label": "A",
+            "text": "representative"
+          },
+          {
+            "label": "B",
+            "text": "represented"
+          },
+          {
+            "label": "C",
+            "text": "represents"
+          },
+          {
+            "label": "D",
+            "text": "representation"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "The actors left the hotel ____ in order to avoid attracting a lot of attention.",
+        "options": [
+          {
+            "label": "A",
+            "text": "separate"
+          },
+          {
+            "label": "B",
+            "text": "separately"
+          },
+          {
+            "label": "C",
+            "text": "separation"
+          },
+          {
+            "label": "D",
+            "text": "separating"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "The Silver Screen Movie House is a new entertainment option in the downtown area. The Silver Screen is not your typical movie house. It combines a movie theater with a coffeehouse, so that patrons can relax with coffee and snacks while they enjoy the show. In addition to a menu of delicious homemade sandwiches and tempting pastries, the Silver Screen offers a [16] of movies to suit all tastes. Everything from comedy to drama to action is on their schedule. Prices are reasonable, and frequent customers can take advantage of the ticket special. A booklet of five tickets for the price of four is available, or individual tickets can be bought [17] for each show. The place tends to fill up for the evening show, but if you like quiet, you can stay later. The crowds [18] when the last movie is over, but the café stays open until 1:00 A.M., so night owls can enjoy a quiet cup of coffee into the wee hours. We predict that the Silver Screen will soon attain the status of one of the most popular entertainment venues in the city.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "ridge"
+            },
+            {
+              "label": "B",
+              "text": "rage"
+            },
+            {
+              "label": "C",
+              "text": "rouge"
+            },
+            {
+              "label": "D",
+              "text": "range"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "separate"
+            },
+            {
+              "label": "B",
+              "text": "separator"
+            },
+            {
+              "label": "C",
+              "text": "separately"
+            },
+            {
+              "label": "D",
+              "text": "separation"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "remain"
+            },
+            {
+              "label": "B",
+              "text": "settle"
+            },
+            {
+              "label": "C",
+              "text": "converge"
+            },
+            {
+              "label": "D",
+              "text": "disperse"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following movie review and e-mail message. The newly released romantic comedy, West Wind, opens this week at the State Street Cinema. The combination of a great script with superb acting talent results in a movie that you won't soon forget. The show is entertaining from start to finish, and you'll still be laughing when you leave the theater. If you've been bored to tears by movies recently, don't give up on the cinema yet. Give West Wind a try. You're sure to love it. West Wind continues at the State Street Cinema through next week with shows at 5:15, 7:00, and 9:15 nightly. To: Madeline Wrightwood From: Dan Green Subject: Let's go to the movies Did you see the review in today's paper of West Wind? I think it's worth seeing. I don't usually go for romances, but you know how I love comedies, and the description of this one sounds really good. There's also an action movie playing next door, but I know you don't like that kind of movie, and I don't really, either. I can't leave work before 5:15, so we should go to the second show. I'd like to invite you to have dinner afterwards. I can make reservations at that restaurant you like for 9:00. We should make it there by then easily. Since we'll each be coming from work, we'll have to arrive at the theater separately. If you get there first, would you mind getting the tickets? Thanks. See you tonight. Dan 23. The word separately in the e-mail, second paragraph, line 6, is closest in meaning to (A) connected (B) jointly (C) slowly (D) alone",
+        "questions": [
+          {
+            "number": 19,
+            "question": "What is the reviewer's opinion of the movie?",
+            "options": [
+              {
+                "label": "A",
+                "text": "It's sad."
+              },
+              {
+                "label": "B",
+                "text": "It's boring."
+              },
+              {
+                "label": "C",
+                "text": "It's funny."
+              },
+              {
+                "label": "D",
+                "text": "It's forgettable."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "What kind of movie does Dan like?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Action."
+              },
+              {
+                "label": "B",
+                "text": "Comedy."
+              },
+              {
+                "label": "C",
+                "text": "Romance."
+              },
+              {
+                "label": "D",
+                "text": "Drama."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "What time does Dan want to go to the movies?",
+            "options": [
+              {
+                "label": "A",
+                "text": "5:15."
+              },
+              {
+                "label": "B",
+                "text": "7:00."
+              },
+              {
+                "label": "C",
+                "text": "9:00."
+              },
+              {
+                "label": "D",
+                "text": "9:15."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word entertaining in line 5 of the movie review is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "enjoyable"
+              },
+              {
+                "label": "B",
+                "text": "educational"
+              },
+              {
+                "label": "C",
+                "text": "lengthy"
+              },
+              {
+                "label": "D",
+                "text": "describing"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What are the speakers discussing?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The lighting in the theater."
+          },
+          {
+            "label": "B",
+            "text": "The price of entertainment."
+          },
+          {
+            "label": "C",
+            "text": "Shows on television."
+          },
+          {
+            "label": "D",
+            "text": "An actor's acting style."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What type of movie does the woman prefer?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Comedy."
+          },
+          {
+            "label": "B",
+            "text": "Drama."
+          },
+          {
+            "label": "C",
+            "text": "Mystery."
+          },
+          {
+            "label": "D",
+            "text": "Documentary."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "How many movies has the actor made this year?",
+        "options": [
+          {
+            "label": "A",
+            "text": "One."
+          },
+          {
+            "label": "B",
+            "text": "Two."
+          },
+          {
+            "label": "C",
+            "text": "Three."
+          },
+          {
+            "label": "D",
+            "text": "Ten."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "Who is Ms. Moreno?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A director."
+          },
+          {
+            "label": "B",
+            "text": "An actress."
+          },
+          {
+            "label": "C",
+            "text": "A movie producer."
+          },
+          {
+            "label": "D",
+            "text": "A movie reviewer."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What will Ms. Moreno do next week?",
+        "options": [
+          {
+            "label": "A",
+            "text": "She will attend a performance."
+          },
+          {
+            "label": "B",
+            "text": "She will start a trip around the world."
+          },
+          {
+            "label": "C",
+            "text": "She will be interviewed."
+          },
+          {
+            "label": "D",
+            "text": "She will start a new career."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "When will the movie be released?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Next month."
+          },
+          {
+            "label": "B",
+            "text": "In several weeks."
+          },
+          {
+            "label": "C",
+            "text": "Next year."
+          },
+          {
+            "label": "D",
+            "text": "In several years."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. What are the speakers discussing? (A) The lighting in the theater. (B) The price of entertainment. (C) Shows on television. (D) An actor's acting style. 5. What type of movie does the woman prefer? (A) Comedy. (B) Drama. (C) Mystery. (D) Documentary. 6. How many movies has the actor made this year? (A) One. (B) Two. (C) Three. (D) Ten. Listen to the talk. Then read each question and choose the best answer. 7. Who is Ms. Moreno? (A) A director. (B) An actress. (C) A movie producer. (D) A movie reviewer. 8. What will Ms. Moreno do next week? (A) She will attend a performance. (B) She will start a trip around the world. (C) She will be interviewed. (D) She will start a new career. 9. When will the movie be released? (A) Next month. (B) In several weeks. (C) Next year. (D) In several years.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What are the speakers discussing?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The lighting in the theater."
+          },
+          {
+            "label": "B",
+            "text": "The price of entertainment."
+          },
+          {
+            "label": "C",
+            "text": "Shows on television."
+          },
+          {
+            "label": "D",
+            "text": "An actor's acting style."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What type of movie does the woman prefer?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Comedy."
+          },
+          {
+            "label": "B",
+            "text": "Drama."
+          },
+          {
+            "label": "C",
+            "text": "Mystery."
+          },
+          {
+            "label": "D",
+            "text": "Documentary."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "How many movies has the actor made this year?",
+        "options": [
+          {
+            "label": "A",
+            "text": "One."
+          },
+          {
+            "label": "B",
+            "text": "Two."
+          },
+          {
+            "label": "C",
+            "text": "Three."
+          },
+          {
+            "label": "D",
+            "text": "Ten."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "Who is Ms. Moreno?",
+        "options": [
+          {
+            "label": "A",
+            "text": "A director."
+          },
+          {
+            "label": "B",
+            "text": "An actress."
+          },
+          {
+            "label": "C",
+            "text": "A movie producer."
+          },
+          {
+            "label": "D",
+            "text": "A movie reviewer."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What will Ms. Moreno do next week?",
+        "options": [
+          {
+            "label": "A",
+            "text": "She will attend a performance."
+          },
+          {
+            "label": "B",
+            "text": "She will start a trip around the world."
+          },
+          {
+            "label": "C",
+            "text": "She will be interviewed."
+          },
+          {
+            "label": "D",
+            "text": "She will start a new career."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "When will the movie be released?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Next month."
+          },
+          {
+            "label": "B",
+            "text": "In several weeks."
+          },
+          {
+            "label": "C",
+            "text": "Next year."
+          },
+          {
+            "label": "D",
+            "text": "In several years."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "Lesson\n\n41\n\n## Movies\n\nStudy the following definitions and examples.\n\nTO I' 'RN\n\n1. attainment n., achievement\n\na. The actress received a lot of attention for her many professional attainments.\n\nb. The attainment of an Academy Award validates a performer's career.\n\n2. combine v., to come together\n\ndesc$^{vi}$ n\n\na. The director combined two previously separate visual techniques.\n\nb. The new production company combines the talents of three of Hollywood's best known teams.\n\n3. continue v., to maintain without interruption\n\na. The film continues the story set out in an earlier film.\n\nb. The search for a star will continue until one is found.\n\nrep., .. 1\n\n4. description n., a representation in words or pictures\n\na. The description of the film did not match what we saw on screen.\n\nb. The critic's description of the film made it sound very appealing.\n\n5. disperse v., to spread widely, to scatter\n\na. The reporters dispersed after the press agent cancelled the interview with the film director.\n\nb. The crowd outside the movie premiere would not disperse until they had seen the movie stars.\n\n6. entertainment n., a diverting performance or activity\n\na. The movie was provided for our entertainment.\n\nb. There was no entertainment for children of guests at the hotel.\n\n7. influence v., to alter or affect\n\na. The editor's style influenced a generation of film editors.\n\nb. The producer was able to influence the town council to allow her to film in the park.\n\n8. range n., the scope\n\na. The range of the director's vision is impressive.\n\nb. What is the price range you are willing to pay for a ticket to the premiere?\n\n9. release v., to make available to the public; to give permission for performance\n\na. The film was finally released to movie theaters after many delays.\n\nb. The producers of the film are hoping to release it in time for the holidays.\n\n10. representation n., exemplification; symbolization\n\na. The actor's representation of his character did not seem authentic.\n\nb. The film's representation of world poverty through the character of the hungry child was quite moving.\n\n11. separately adv., apart\n\na. Each scene of the movie was filmed separately from the others.\n\nb. The theater was very crowded so we had to sit separately.\n\n12. successive adj., following in order\n\na. The script went through successive rewrites.\n\nb. Somehow the successive images were interrupted and had to be edited again.",
+    "words_in_context": "## WORDS IN CONTEXT\n\n## Read the following passage and write the words in the blanks below.\n\n| attain | descriptions | influence | represent |\n| --- | --- | --- | --- |\n| combines | disperse | range | separate |\n| continues | entertaining | released | successive |\n\nThe popularity of the movies began early in the 20th century and today. People of all ages find movies (1) \\_\\_\\_\\_ today. Movies are a worldwide phenomenon, as the internationalism of movie distribution has helped to ideas around the globe. One movie can quickly (4) \\_\\_\\_\\_ other movies. But why are movies so popular?\n\nMovies are a kind of storytelling. They try to describe an idea or record an observation about our culture. These (5) \\_\\_\\_\\_ are recorded using moving visual images. Some movies portray the situation accurately and realistically, whereas other movies find visual symbols to (6) \\_\\_\\_\\_ those situations.\n\nOn the most simple level, movies are a succession of moving images. These (7) \\_\\_\\_\\_ images are captured on film. Directors film a wide (8) \\_\\_\\_\\_ of shots—long, medium, and close up—to create a visual composition. The visual images, along with plot, characterization, and sound, produce the desired narrative. The shots are joined together in any number of combinations in a process called editing.\n\nMaking a film is a massive, complex, and expensive task that (9) \\_\\_\\_\\_ art and business. Making a movie involves the talents of hundreds, and sometimes thousands, of artists, producers, and business people. It can take months, even years, for a film to be (10) \\_\\_\\_\\_ into a movie theater.\n\nLike a novel, a movie is not just a story, but a story told a certain way. A film director may want to make a movie that tells a meaningful story or one that is primarily entertaining, and will use different filming techniques to (11) \\_\\_\\_\\_ that goal. It is impossible to (12) \\_\\_\\_\\_ what is told in a movie from how it is told. A director's artistic vision can range from improvised to carefully controlled. Think about the complexity of a movie the next time you see one.",
+    "word_families": "| attain | The film quickly attained a reputation as a “must-see” movie. |\n| --- | --- |\n| attainment | The technical attainments in the movie's special effects were impressive. |\n| attainable | The director's goal of having an unlimited budget was not attainable. |\n\n| continue | Continue giving out movie passes until I tell you to stop. |\n| --- | --- |\n| continuation | The continuation of the film will be shown after the intermission. |\n| continual | The actors’ continual demands slowed down the pace of production. |\n\n<table><tr><td rowspan=\"2\"></td><td>describe</td><td>Please describe the new movie theater to me.</td></tr><tr><td>description</td><td>The description of Africa in the film was not as I remembered it.</td></tr><tr><td></td><td>descriptive</td><td>The writer&#x27;s descriptive account of the war is shocking and saddening.</td></tr></table>\n\n| b | entertain | The comedian worked hard to entertain the children in the hospital. |\n| --- | --- | --- |\n| noun | entertainment | Movies are one of the most popular forms of entertainment. |\n| _live | entertaining | The light comedy was entertaining, if not memorable. |\n\n| verb | represent | The actor represented the ideals of the culture. |\n| --- | --- | --- |\n| noun | representation | We felt that the movie's representation of the effects of war was very realistic. |\n| not | representative | The actress couldn't attend the awards ceremony so she had a representative accept the award for her. |\n\n| verb | separate | Some movie fans can't separate fantasy from reality and confuse an actor with the character he plays. |\n| --- | --- | --- |\n| adjective | separate | Moviemaking combines several separate processes. |\n| ac | separately | The actors rehearsed their lines separately before filming the scene together. |",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. What are the speakers discussing?\n(A) The lighting in the theater.\n(B) The price of entertainment.\n(C) Shows on television.\n(D) An actor's acting style.\n\n5. What type of movie does the woman prefer?\n(A) Comedy.\n(B) Drama.\n(C) Mystery.\n(D) Documentary.\n\n6. How many movies has the actor made this year?\n(A) One.\n(B) Two.\n(C) Three.\n(D) Ten.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. Who is Ms. Moreno?\n(A) A director.\n(B) An actress.\n(C) A movie producer.\n(D) A movie reviewer.\n\n8. What will Ms. Moreno do next week?\n(A) She will attend a performance.\n(B) She will start a trip around the world.\n(C) She will be interviewed.\n(D) She will start a new career.\n\n9. When will the movie be released?\n(A) Next month.\n(B) In several weeks.\n(C) Next year.\n(D) In several years.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. Do you think this actor will \\_\\_\\_\\_ the heights of his famous father?\n(A) attain (C) attainable\n(B) attaining (D) attainment\n\n11. A sequel is a \\_\\_\\_\\_ of a story set in motion by a previous film.\n(A) continuity (C) continuation\n(B) continuing (D) continues\n\n12. Each director has a uniquely \\_\\_\\_\\_ style of storytelling.\n(A) descriptive (C) description\n(B) describe (D) descriptively\n\n13. \\_\\_\\_\\_ is one of the fastest growing sectors of the economy.\n(A) Entertained (C) Entertain\n(B) Entertainment (D) Entertainingly\n\n14. We were impressed by the director's \\_\\_\\_\\_ of the conflict between good and evil.\n(A) representative (C) represents\n(B) represented (D) representation\n\n15. The actors left the hotel \\_\\_\\_\\_ in order to avoid attracting a lot of attention.\n(A) separate (C) separation\n(B) separately (D) separating\n\n## Part 6 Text Completion\n\nThe Silver Screen Movie House is a new entertainment option in the downtown area. The Silver Screen is not your typical movie house. It combines a movie theater with a coffeehouse, so that patrons can relax with coffee and snacks while they enjoy the show. In addition to a menu of delicious homemade sandwiches and tempting pastries, the Silver Screen offers a \\_16\\_ of movies to suit all tastes. Everything from comedy to drama to action is on their schedule. Prices are reasonable, and frequent customers can take advantage of the ticket special. A booklet of five tickets for the price of four is available, or individual tickets can be bought \\_17\\_ for each show. The place tends to fill up for the evening show, but if you like quiet, you can stay later. The crowds \\_18\\_ when the last movie is over, but the café stays open until 1:00 A.M., so night owls can enjoy a quiet cup of coffee into the wee hours. We predict that the Silver Screen will soon attain the status of one of the most popular entertainment venues in the city.\n\n16. (A) ridge  \n(B) rage  \n(C) rouge  \n(D) range\n\n17. (A) separate  \n(B) separator  \n(C) separately  \n(D) separation\n\n18. (A) remain  \n(B) settle  \n(C) converge  \n(D) disperse",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following movie review and e-mail message.\n\nThe newly released romantic comedy, West Wind, opens this week at the State Street Cinema. The combination of a great script with superb acting talent results in a movie that you won't soon forget. The show is entertaining from start to finish, and you'll still be laughing when you leave the theater. If you've been bored to tears by movies recently, don't give up on the cinema yet. Give West Wind a try. You're sure to love it.\n\nWest Wind continues at the State Street Cinema through next week with shows at 5:15, 7:00, and 9:15 nightly.\n\n19. What is the reviewer's opinion of the movie?\n(A) It's sad.\n(B) It's boring.\n(C) It's funny.\n(D) It's forgettable.\n\n20. What kind of movie does Dan like?\n(A) Action.\n(B) Comedy.\n(C) Romance.\n(D) Drama.\n\n21. What time does Dan want to go to the movies?\n(A) 5:15.\n(B) 7:00.\n(C) 9:00.\n(D) 9:15.\n\nTo: Madeline Wrightwood  \nFrom: Dan Green  \nSubject: Let's go to the movies\n\n## Hi Maddy,\n\nDid you see the review in today's paper of West Wind? I think it's worth seeing. I don't usually go for romances, but you know how I love comedies, and the description of this one sounds really good. There's also an action movie playing next door, but I know you don't like that kind of movie, and I don't really, either.\n\nI can't leave work before 5:15, so we should go to the second show. I'd like to invite you to have dinner afterwards. I can make reservations at that restaurant you like for 9:00. We should make it there by then easily. Since we'll each be coming from work, we'll have to arrive at the theater separately. If you get there first, would you mind getting the tickets? Thanks. See you tonight.\n\nDan\n\n22. The word entertaining in line 5 of the movie review is closest in meaning to  \n(A) enjoyable  \n(B) educational  \n(C) lengthy  \n(D) describing\n\n23. The word separately in the e-mail, second paragraph, line 6, is closest in meaning to (A) connected (B) jointly (C) slowly (D) alone"
+  },
+  "needs_review": true
+}

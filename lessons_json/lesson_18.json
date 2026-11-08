@@ -1,0 +1,1598 @@
+{
+  "lesson_id": 18,
+  "title": "Shipping",
+  "theme_name": "Purchasing",
+  "audio_track": "track_18.mp3",
+  "part1_photo": "part1_photos/lesson_18.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "accurately",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "correctly; without errors",
+      "definition_vi": "một cách chính xác, chuẩn xác, không sai sót",
+      "examples": [
+        {
+          "en": "To gauge these figures accurately, we first need to get some facts from the shipping department.",
+          "vi": "Để đánh giá chính xác những con số này, trước tiên chúng ta cần lấy một số dữ kiện từ bộ phận vận chuyển."
+        },
+        {
+          "en": "The container company must balance the load accurately or there could be a disaster at sea.",
+          "vi": "Công ty tàu chở hàng container phải cân bằng tải trọng một cách chính xác nếu không có thể xảy ra thảm họa trên biển."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "accuracy",
+          "example": "His firm was well known for its accuracy in predicting how long shipping would take."
+        },
+        {
+          "pos": "",
+          "word": "accurate",
+          "example": "Don’t forget to keep accurate records; you will need them when you have your annual inventory."
+        },
+        {
+          "pos": "adverb",
+          "word": "accurately",
+          "example": "The in-depth shipping records made it possible for Max to accurately estimate when the mixing bowls would arrive in the store."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "accurately reflect",
+        "accurately estimate",
+        "measure accurately",
+        "accurately recorded"
+      ],
+      "usage": {
+        "structures": [
+          "accurately + V / V + O + accurately (làm việc gì một cách chính xác)"
+        ],
+        "prepositions": [],
+        "collocations": [
+          "accurately predict",
+          "accurately assess",
+          "accurate records",
+          "high degree of accuracy"
+        ],
+        "tip": "Trạng từ 'accurately' thường đứng ngay trước hoặc sau các động từ chỉ việc đo lường, dự đoán, phản ánh: 'reflect, estimate, predict, measure, record'."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "inaccurate",
+          "example": "An inaccurate shipping address caused a three-day delivery delay.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Before sealing the crate, please check the packing slip to ensure the contents are listed with complete _____.",
+        "answer": "accuracy",
+        "base_word": "accurately",
+        "pos_hint": "danh từ",
+        "vi": "Trước khi niêm phong thùng hàng, vui lòng kiểm tra phiếu đóng gói để đảm bảo các món hàng bên trong được liệt kê với độ chính xác tuyệt đối."
+      }
+    },
+    {
+      "id": 2,
+      "word": "carrier",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a person or business that transports passengers or goods",
+      "definition_vi": "hãng vận chuyển, công ty giao nhận; hãng hàng không/viễn thông",
+      "examples": [
+        {
+          "en": "Lou, our favorite carrier, takes extra care of our boxes marked \"fragile.\"",
+          "vi": "Lou, nhân viên vận chuyển yêu thích của chúng tôi, luôn đặc biệt cẩn thận với những chiếc hộp được đánh dấu \"dễ vỡ\" của chúng tôi."
+        },
+        {
+          "en": "Mr. Lau switched carriers in order to get a price savings on deliveries out of state.",
+          "vi": "Ông Lau đã chuyển đổi hãng vận chuyển để tiết kiệm chi phí cho các đơn giao hàng ra ngoài tiểu bang."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "shipping carrier",
+        "freight carrier",
+        "commercial carrier",
+        "express carrier"
+      ],
+      "usage": {
+        "structures": [
+          "via/by a commercial carrier (thông qua một hãng vận chuyển thương mại)"
+        ],
+        "prepositions": [
+          "by",
+          "via"
+        ],
+        "collocations": [
+          "switch carriers",
+          "air carrier",
+          "mail carrier",
+          "overnight carrier"
+        ],
+        "tip": "Trong TOEIC, 'carrier' thường chỉ công ty vận tải/giao hàng (shipping carrier), hãng hàng không (air carrier), hoặc nhà mạng viễn thông (wireless carrier)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "carry",
+          "example": "Our hardware store carries a full line of electrical tools.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "carrier",
+          "example": "Packages shipped via our express carrier are guaranteed to arrive by noon.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "carriage",
+          "example": "The contract stipulates that carriage charges are paid by the buyer.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "International orders are dispatched through a reliable global freight _____.",
+        "answer": "carrier",
+        "base_word": "carrier",
+        "pos_hint": "danh từ chỉ hãng vận chuyển",
+        "vi": "Các đơn đặt hàng quốc tế được gửi đi thông qua một hãng vận tải hàng hóa toàn cầu đáng tin cậy."
+      }
+    },
+    {
+      "id": 3,
+      "word": "catalog",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a list or itemized display; v., to make an itemized list of",
+      "definition_vi": "(n) cuốn danh mục sản phẩm (ca-ta-lô); (v) lập danh mục, phân loại",
+      "examples": [
+        {
+          "en": "The upcoming fall catalog shows a number of items from Laos that Mr. Lau has never before been able to offer.",
+          "vi": "Cuốn danh mục sản phẩm mùa thu sắp tới giới thiệu một số mặt hàng từ Lào mà trước đây ông Lau chưa từng có khả năng cung cấp."
+        },
+        {
+          "en": "Ellen cataloged the complaints according to severity.",
+          "vi": "Ellen đã phân loại các khiếu nại vào danh mục theo mức độ nghiêm trọng."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "product catalog",
+        "mail-order catalog",
+        "online catalog",
+        "catalog items"
+      ],
+      "usage": {
+        "structures": [
+          "browse/request a catalog (xem / yêu cầu cuốn danh mục sản phẩm)",
+          "catalog + O (lập danh mục / phân loại cái gì)"
+        ],
+        "prepositions": [
+          "in",
+          "from",
+          "by"
+        ],
+        "collocations": [
+          "seasonal catalog",
+          "latest catalog",
+          "order from a catalog",
+          "digital cataloging"
+        ],
+        "tip": "Có thể viết là 'catalog' (tiếng Anh Mỹ) hoặc 'catalogue' (tiếng Anh Anh); vừa là danh từ vừa là ngoại động từ."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "catalog",
+          "example": "The archivist spent three months cataloging the museum's new acquisitions.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "catalog",
+          "example": "You can view our complete spring catalog on our website.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "cataloged",
+          "example": "All cataloged spare parts are stored in the north warehouse.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The museum's newly acquired artifacts are being _____ by a team of historians before going on display.",
+        "answer": "cataloged",
+        "base_word": "catalog",
+        "pos_hint": "động từ chia quá khứ phân từ (V3/ed) ở câu bị động",
+        "vi": "Các hiện vật mới thu thập được của bảo tàng đang được một nhóm các nhà sử học lập danh mục trước khi đưa ra trưng bày."
+      }
+    },
+    {
+      "id": 4,
+      "word": "fulfill",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to finish completely",
+      "definition_vi": "hoàn thành, đáp ứng (yêu cầu/đơn hàng), thực hiện (nghĩa vụ/lời hứa)",
+      "examples": [
+        {
+          "en": "The engineers fulfilled a client's request for larger display screens.",
+          "vi": "Các kỹ sư đã đáp ứng yêu cầu của khách hàng về những màn hình hiển thị lớn hơn."
+        },
+        {
+          "en": "Her expectations were so high, we knew they would be hard to fulfill.",
+          "vi": "Kỳ vọng của bà ấy cao đến mức chúng tôi biết rằng sẽ rất khó để đáp ứng được."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "fulfill",
+          "example": "We take pride in fulfilling customers' unusual requests."
+        },
+        {
+          "pos": "",
+          "word": "fulfilling",
+          "example": "Fulfilling the requirement of the contract will necessitate hiring extra staff."
+        },
+        {
+          "pos": "noun",
+          "word": "fulfillment",
+          "example": "Fulfillment of duties can be tedious, but job satisfaction demands attention to detail."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "fulfill an order",
+        "fulfill a requirement",
+        "fulfill a contract",
+        "order fulfillment"
+      ],
+      "usage": {
+        "structures": [
+          "fulfill + an order/request/requirement/obligation/promise (thực hiện đơn hàng / đáp ứng yêu cầu / hoàn thành nghĩa vụ)"
+        ],
+        "prepositions": [
+          "by"
+        ],
+        "collocations": [
+          "fulfill expectations",
+          "fulfillment center",
+          "fulfilling career",
+          "fail to fulfill"
+        ],
+        "tip": "Trong thương mại điện tử và vận chuyển (Shipping), 'order fulfillment / fulfillment center' có nghĩa là việc xử lý & hoàn tất đơn hàng / trung tâm hoàn tất đơn hàng."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "fulfilled",
+          "example": "All fulfilled orders are scanned before leaving the loading dock.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "To speed up delivery times, the online retailer opened a new regional _____ center in Ohio.",
+        "answer": "fulfillment",
+        "base_word": "fulfill",
+        "pos_hint": "danh từ bổ nghĩa",
+        "vi": "Để rút ngắn thời gian giao hàng, nhà bán lẻ trực tuyến đã mở một trung tâm xử lý đơn hàng khu vực mới tại Ohio."
+      }
+    },
+    {
+      "id": 5,
+      "word": "integral",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "necessary for completion",
+      "definition_vi": "thiết yếu, không thể tách rời, tối quan trọng",
+      "examples": [
+        {
+          "en": "Good customer relations is an integral component of any business.",
+          "vi": "Quan hệ khách hàng tốt là một yếu tố thiết yếu không thể tách rời của bất kỳ doanh nghiệp nào."
+        },
+        {
+          "en": "A dependable stream of inventory is integral to reliable shipping of orders.",
+          "vi": "Nguồn hàng tồn kho ổn định đáng tin cậy là yếu tố thiết yếu để việc giao các đơn hàng được tin cậy."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "integral",
+          "example": "This paperwork is integral to our ability to track packages."
+        },
+        {
+          "pos": "verb",
+          "word": "integrate",
+          "example": "The new foreman is unable to integrate information about shipping perishables."
+        },
+        {
+          "pos": "",
+          "word": "integration",
+          "example": "His full integration into the team could take weeks."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "an integral part of",
+        "an integral component",
+        "integral to success",
+        "play an integral role"
+      ],
+      "usage": {
+        "structures": [
+          "be integral to + N (thiết yếu đối với cái gì)",
+          "an integral part/component of + N (một phần không thể tách rời của cái gì)"
+        ],
+        "prepositions": [
+          "to",
+          "of"
+        ],
+        "collocations": [
+          "integral member of the team",
+          "integral element",
+          "seamless integration",
+          "integrate into"
+        ],
+        "tip": "Gần như luôn xuất hiện trong 2 cấu trúc cố định: 'an integral part of' hoặc 'be integral to + cụm danh từ'."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "integrally",
+          "example": "Quality control is integrally linked to customer satisfaction.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The new software allows seamless _____ of our warehouse tracking and billing systems.",
+        "answer": "integration",
+        "base_word": "integral",
+        "pos_hint": "danh từ",
+        "vi": "Phần mềm mới cho phép tích hợp liền mạch hệ thống theo dõi kho hàng và hệ thống thanh toán của chúng tôi."
+      }
+    },
+    {
+      "id": 6,
+      "word": "inventory",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "goods in stock; an itemized record of these goods",
+      "definition_vi": "(n) hàng tồn kho, bảng kiểm kê hàng hóa; (v) kiểm kê kho",
+      "examples": [
+        {
+          "en": "The store closes one day a year so that the staff can take inventory of the stockroom.",
+          "vi": "Cửa hàng đóng cửa một ngày trong năm để nhân viên có thể kiểm kê hàng hóa trong kho."
+        },
+        {
+          "en": "Their inventory has not changed much over the years.",
+          "vi": "Lượng hàng hóa lưu kho của họ không thay đổi nhiều qua các năm."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "take inventory",
+        "manage inventory",
+        "inventory control",
+        "excess inventory"
+      ],
+      "usage": {
+        "structures": [
+          "take/conduct (an) inventory of + N (tiến hành kiểm kê kho hàng)",
+          "keep/have in inventory (có lưu trong kho)"
+        ],
+        "prepositions": [
+          "of",
+          "in"
+        ],
+        "collocations": [
+          "annual inventory",
+          "inventory management system",
+          "liquidate inventory",
+          "inventory levels"
+        ],
+        "tip": "Cụm cố định bắt buộc phải nhớ cho TOEIC: 'take inventory' (kiểm kê hàng tồn kho)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "inventory",
+          "example": "Warehouse clerks inventory all incoming shipments every evening.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "inventory",
+          "example": "Our computerized system tracks inventory across twelve retail locations.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "inventoried",
+          "example": "All inventoried items are tagged with a barcode sticker.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The hardware store will close early on Sunday so staff can take _____ of the stockroom.",
+        "answer": "inventory",
+        "base_word": "inventory",
+        "pos_hint": "danh từ trong cụm take inventory",
+        "vi": "Cửa hàng dụng cụ sẽ đóng cửa sớm vào Chủ nhật để nhân viên có thể kiểm kê kho hàng."
+      }
+    },
+    {
+      "id": 7,
+      "word": "minimize",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to reduce; to give less importance to",
+      "definition_vi": "giảm thiểu tối đa",
+      "examples": [
+        {
+          "en": "The shipping staff minimized customer complaints by working overtime to deliver the packages quickly.",
+          "vi": "Nhân viên vận chuyển đã giảm thiểu khiếu nại của khách hàng bằng cách làm thêm giờ để giao các kiện hàng nhanh chóng."
+        },
+        {
+          "en": "To keep the customers happy and to minimize the effect of the carrier strike, we shipped orders directly to them.",
+          "vi": "Để giữ cho khách hàng hài lòng và giảm thiểu tác động của cuộc đình công từ hãng vận chuyển, chúng tôi đã gửi đơn hàng trực tiếp cho họ."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "minimize",
+          "example": "To minimize any potential risk of injury, all workers must wear closed-toed shoes in the stockroom."
+        },
+        {
+          "pos": "",
+          "word": "minimal",
+          "example": "Luckily, the leak from the roof did only minimal damage to the inventory in the stockroom."
+        },
+        {
+          "pos": "noun",
+          "word": "minimum",
+          "example": "The minimum is $50; orders of less will be assessed a shipping charge."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "minimize costs",
+        "minimize risk",
+        "minimize delays",
+        "minimize waste"
+      ],
+      "usage": {
+        "structures": [
+          "minimize + O (damage/risk/delays/disruption/costs) (giảm thiểu thiệt hại/rủi ro/chậm trễ/gián đoạn/chi phí)"
+        ],
+        "prepositions": [],
+        "collocations": [
+          "minimize inconvenience to customers",
+          "minimal impact",
+          "keep costs to a minimum",
+          "at a minimum"
+        ],
+        "tip": "Trái nghĩa với 'maximize'; rất hay xuất hiện trong thông báo xin lỗi khách hàng: 'to minimize inconvenience to our patrons' (để giảm thiểu sự bất tiện cho khách hàng)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "minimally",
+          "example": "Production was only minimally affected by the brief power outage.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Thanks to the protective foam packaging, the fragile glassware suffered only _____ damage in transit.",
+        "answer": "minimal",
+        "base_word": "minimize",
+        "pos_hint": "tính từ",
+        "vi": "Nhờ lớp bao bì xốp bảo vệ, đồ thủy tinh dễ vỡ chỉ bị hư hại ở mức tối thiểu trong quá trình vận chuyển."
+      }
+    },
+    {
+      "id": 8,
+      "word": "on hand",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "available",
+      "definition_vi": "có sẵn (trong kho); có mặt sẵn sàng (để hỗ trợ)",
+      "examples": [
+        {
+          "en": "We had too much stock on hand, so we had a summer sale.",
+          "vi": "Chúng tôi có quá nhiều hàng tồn kho sẵn có, vì vậy chúng tôi đã tổ chức một đợt giảm giá mùa hè."
+        },
+        {
+          "en": "The new employee will be on hand if we need more help with shipping orders.",
+          "vi": "Nhân viên mới sẽ có mặt sẵn sàng nếu chúng ta cần thêm sự trợ giúp trong việc gửi các đơn hàng."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "have on hand",
+        "stock on hand",
+        "cash on hand",
+        "be on hand to assist"
+      ],
+      "usage": {
+        "structures": [
+          "have + sth + on hand (có sẵn cái gì để dùng ngay)",
+          "be on hand + to V (có mặt sẵn sàng tại chỗ để làm gì)"
+        ],
+        "prepositions": [
+          "to",
+          "for"
+        ],
+        "collocations": [
+          "keep spare parts on hand",
+          "staff on hand",
+          "supplies on hand",
+          "sufficient inventory on hand"
+        ],
+        "tip": "Dùng cho cả vật ('keep extra supplies on hand' = dự trữ sẵn vật tư) và người ('technicians will be on hand to answer questions' = kỹ thuật viên sẽ có mặt sẵn để trả lời câu hỏi)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "hand",
+          "example": "Please hand your completed customs form to the agent at the gate.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "hand",
+          "example": "All fragile parcels are inspected by hand before shipping.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "handy",
+          "example": "Keep your tracking number handy in case you need to check your delivery status.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "handily",
+          "example": "The compact label printer fits handily on any shipping desk.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Customer service representatives will be _____ throughout the conference to assist with registration.",
+        "answer": "on hand",
+        "base_word": "on hand",
+        "pos_hint": "cụm tính từ chỉ sự có mặt sẵn sàng",
+        "vi": "Các nhân viên đại diện chăm sóc khách hàng sẽ có mặt sẵn sàng trong suốt hội nghị để hỗ trợ việc đăng ký."
+      }
+    },
+    {
+      "id": 9,
+      "word": "remember",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to think of again; to retain in the memory",
+      "definition_vi": "nhớ, ghi nhớ",
+      "examples": [
+        {
+          "en": "I remembered the delivery clerk's name as soon as I got off the phone.",
+          "vi": "Tôi đã nhớ ra tên của nhân viên giao hàng ngay khi vừa cúp máy."
+        },
+        {
+          "en": "I will remember the combination to the safe without writing it down.",
+          "vi": "Tôi sẽ nhớ mã số két sắt mà không cần phải ghi chép lại."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "remember to include",
+        "remember doing something",
+        "clearly remember",
+        "please remember that"
+      ],
+      "usage": {
+        "structures": [
+          "remember + to V (nhớ phải làm gì - nhiệm vụ chưa làm)",
+          "remember + V-ing (nhớ là đã làm gì trong quá khứ)"
+        ],
+        "prepositions": [
+          "for",
+          "as"
+        ],
+        "collocations": [
+          "remember the deadline",
+          "worth remembering",
+          "hard to remember",
+          "in remembrance of"
+        ],
+        "tip": "Cấu trúc kinh điển: 'remember + to V' (nhớ phải làm việc gì: Please remember to attach the shipping label) khác với 'remember + V-ing' (nhớ đã làm gì)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "remember",
+          "example": "Please remember to sign the delivery confirmation receipt.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "remembrance",
+          "example": "A plaque was placed in the lobby in remembrance of the company's founder.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "memorable",
+          "example": "The gala dinner was a memorable conclusion to the annual trade convention.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Warehouse staff must remember _____ the loading bay doors before leaving at night.",
+        "answer": "to lock",
+        "base_word": "remember",
+        "pos_hint": "động từ nguyên mẫu có to (to V) sau remember chỉ nhiệm vụ",
+        "vi": "Nhân viên kho phải nhớ khóa cửa khu vực bốc dỡ hàng trước khi ra về vào buổi tối."
+      }
+    },
+    {
+      "id": 10,
+      "word": "ship",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to transport; to send",
+      "definition_vi": "(v) vận chuyển, gửi hàng; (n) tàu thủy",
+      "examples": [
+        {
+          "en": "Eva shipped the package carefully, since she knew the contents were made of glass.",
+          "vi": "Eva đã đóng gói và gửi kiện hàng một cách cẩn thận vì cô biết đồ bên trong làm bằng thủy tinh."
+        },
+        {
+          "en": "Very few customers think about how their packages will be shipped, and are seldom home when the packages arrive.",
+          "vi": "Rất ít khách hàng nghĩ đến việc kiện hàng của họ sẽ được vận chuyển như thế nào, và hiếm khi có mặt ở nhà khi kiện hàng tới nơi."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "ship",
+          "example": "We ship all orders within 24 hours of your phone call."
+        },
+        {
+          "pos": "",
+          "word": "shipper",
+          "example": "We can rely on our shipper to pack large, fragile items carefully."
+        },
+        {
+          "pos": "",
+          "word": "shipment",
+          "example": "The shipment from the supplier was short a number of items, so we complained."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "ship an order",
+        "ship overnight",
+        "free shipping",
+        "incoming shipment"
+      ],
+      "usage": {
+        "structures": [
+          "ship + sth + to + sb/place (gửi/vận chuyển hàng đến ai/nơi nào)",
+          "ship + by air/sea/rail (vận chuyển bằng đường hàng không/biển/sắt)"
+        ],
+        "prepositions": [
+          "to",
+          "from",
+          "by",
+          "via"
+        ],
+        "collocations": [
+          "shipping and handling",
+          "shipping department",
+          "delay a shipment",
+          "drop shipping"
+        ],
+        "tip": "Phân biệt 3 danh từ: 'shipment' (lô hàng được gửi / việc gửi hàng), 'shipping' (dịch vụ/phí vận chuyển: free shipping), và 'shipper' (người/công ty gửi hàng)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "shipping",
+          "example": "Orders over one hundred dollars qualify for complimentary express shipping.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The _____ of electronic components from Taiwan was delayed by two days due to severe weather.",
+        "answer": "shipment",
+        "base_word": "ship",
+        "pos_hint": "danh từ chỉ lô hàng",
+        "vi": "Lô hàng linh kiện điện tử từ Đài Loan đã bị trễ hai ngày do thời tiết xấu."
+      }
+    },
+    {
+      "id": 11,
+      "word": "sufficiently",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "enough",
+      "definition_vi": "đủ, một cách đầy đủ",
+      "examples": [
+        {
+          "en": "The boxcar was sufficiently damaged that it could not be loaded on the truck.",
+          "vi": "Toa tàu chở hàng đã bị hư hỏng nặng đến mức không thể chất hàng lên xe tải được."
+        },
+        {
+          "en": "We are sufficiently organized to begin transferring the palettes tomorrow.",
+          "vi": "Chúng tôi đã sắp xếp tổ chức đầy đủ để bắt đầu chuyển các kiện hàng pallet vào ngày mai."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "sufficiently",
+          "example": "If you are sufficiently certain that the crate is in this room, I will check them one by one."
+        },
+        {
+          "pos": "",
+          "word": "sufficient",
+          "example": "The postage on that box is not sufficient to get it to its destination."
+        },
+        {
+          "pos": "",
+          "word": "suffice",
+          "example": "Will this much Styrofoam suffice?"
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "sufficiently prepared",
+        "sufficiently protected",
+        "sufficiently large",
+        "sufficient funds"
+      ],
+      "usage": {
+        "structures": [
+          "sufficiently + adj/adv (+ to V) (đủ... để làm gì)",
+          "be sufficient for + N / to V (đủ cho cái gì / để làm gì)"
+        ],
+        "prepositions": [
+          "for",
+          "to"
+        ],
+        "collocations": [
+          "sufficient time",
+          "sufficient inventory",
+          "self-sufficient",
+          "sufficiently padded"
+        ],
+        "tip": "Ngược lại với 'enough' (đứng SAU tính từ: large enough), trạng từ 'sufficiently' luôn đứng TRƯỚC tính từ hoặc phân từ (sufficiently large / sufficiently trained)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "sufficiency",
+          "example": "The audit confirmed the sufficiency of the bank's cash reserves.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "insufficient",
+          "example": "The order could not be processed due to insufficient stock in the warehouse.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Please ensure that all fragile items are _____ wrapped in bubble wrap before sealing the box.",
+        "answer": "sufficiently",
+        "base_word": "sufficiently",
+        "pos_hint": "trạng từ",
+        "vi": "Vui lòng đảm bảo rằng tất cả các mặt hàng dễ vỡ đều được bọc đủ kỹ bằng màng xốp hơi trước khi dán kín thùng."
+      }
+    },
+    {
+      "id": 12,
+      "word": "supply",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "stock; v., to make available for use; to provide",
+      "definition_vi": "(n) nguồn cung, vật tư dự trữ; (v) cung cấp, tiếp tế",
+      "examples": [
+        {
+          "en": "By making better use of our supplies, we can avoid ordering until next month.",
+          "vi": "Bằng cách tận dụng tốt hơn nguồn vật tư của mình, chúng ta có thể tránh phải đặt hàng cho đến tháng sau."
+        },
+        {
+          "en": "Gerald supplied the shipping staff with enough labels to last a year.",
+          "vi": "Gerald đã cung cấp cho nhân viên bộ phận vận chuyển đủ nhãn dán để dùng trong cả một năm."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "office supplies",
+        "supply and demand",
+        "supply chain",
+        "in short supply"
+      ],
+      "usage": {
+        "structures": [
+          "supply + sb + with + sth (cung cấp cho ai cái gì)",
+          "supply + sth + to + sb (cung cấp cái gì cho ai)"
+        ],
+        "prepositions": [
+          "with",
+          "to",
+          "in"
+        ],
+        "collocations": [
+          "medical supplies",
+          "steady supply",
+          "leading supplier",
+          "exhaust the supply"
+        ],
+        "tip": "Danh từ số nhiều 'supplies' nghĩa là 'vật tư, nhu yếu phẩm' (office/medical/cleaning supplies); danh từ chỉ người/công ty cung ứng là 'supplier'."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "supply",
+          "example": "Our company supplies packaging materials to over fifty factories.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "supplier",
+          "example": "We are negotiating with a new supplier to lower our raw material costs.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "supplies",
+          "example": "Please check the cabinet before ordering additional cleaning supplies.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The procurement manager is meeting with several potential _____ to compare wholesale prices.",
+        "answer": "suppliers",
+        "base_word": "supply",
+        "pos_hint": "danh từ chỉ nhà cung cấp số nhiều",
+        "vi": "Trưởng phòng thu mua đang gặp gỡ một số nhà cung cấp tiềm năng để so sánh giá bán buôn."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. For Mr. Park's Asian housewares store, shipping is an (1) ____ part of the business. Many customers need to send their purchases to friends or relatives who live far away. Other customers, who do not live near one of his stores, shop by (2) ____ and need their orders sent by mail. (3) ____ is, of course, the process of getting goods delivered to a customer, but it is more than just getting a box in the mail. Goods must be packaged carefully to (4) ____ breakage and ensure that they arrive safely. Staff members must keep (5) ____ records of the inventory shipped, so Mr. Park knows at all times the answers to these questions: When did a box leave the store? Who was the (6) ____ who delivered it? When did it arrive at its destination? Customers will have confidence in Mr. Park's business when he can give quick and accurate answers. The shipping process must be tied to the store's (7) ____. When orders are taken, the shipping staff must know that there is (8) ____ inventory of the product on hand to (9) ____ the request. If a product is on order, the sales staff should advise the customer to expect a delay. When orders are shipped out, they must be deleted from the inventory records so Mr. Park knows exactly how many items are (10) ____ in his warehouse. It takes a good computer program to keep track of the additions and deletions to the inventory. Sales staff must (11) ____ to charge for shipping and appropriate taxes. Mr. Park must keep good records on the cost of the shipping and packing materials and other (12) ____, the cost of the carriers, and staff time to assess whether he is billing enough to cover his shipping expenses.",
+    "word_bank": [
+      "accurate",
+      "fulfillment",
+      "minimize",
+      "shipping",
+      "carrier",
+      "integral",
+      "on hand",
+      "sufficient",
+      "catalog",
+      "inventory",
+      "remember",
+      "supplies"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "accuracy",
+        "example": "His firm was well known for its accuracy in predicting how long shipping would take.",
+        "pos": "noun"
+      },
+      {
+        "word": "accurate",
+        "example": "Don’t forget to keep accurate records; you will need them when you have your annual inventory.",
+        "pos": ""
+      },
+      {
+        "word": "accurately",
+        "example": "The in-depth shipping records made it possible for Max to accurately estimate when the mixing bowls would arrive in the store.",
+        "pos": "adverb"
+      }
+    ],
+    [
+      {
+        "word": "fulfill",
+        "example": "We take pride in fulfilling customers' unusual requests.",
+        "pos": "verb"
+      },
+      {
+        "word": "fulfilling",
+        "example": "Fulfilling the requirement of the contract will necessitate hiring extra staff.",
+        "pos": ""
+      },
+      {
+        "word": "fulfillment",
+        "example": "Fulfillment of duties can be tedious, but job satisfaction demands attention to detail.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "minimize",
+        "example": "To minimize any potential risk of injury, all workers must wear closed-toed shoes in the stockroom.",
+        "pos": "verb"
+      },
+      {
+        "word": "minimal",
+        "example": "Luckily, the leak from the roof did only minimal damage to the inventory in the stockroom.",
+        "pos": ""
+      },
+      {
+        "word": "minimum",
+        "example": "The minimum is $50; orders of less will be assessed a shipping charge.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "ship",
+        "example": "We ship all orders within 24 hours of your phone call.",
+        "pos": ""
+      },
+      {
+        "word": "shipper",
+        "example": "We can rely on our shipper to pack large, fragile items carefully.",
+        "pos": ""
+      },
+      {
+        "word": "shipment",
+        "example": "The shipment from the supplier was short a number of items, so we complained.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "sufficiently",
+        "example": "If you are sufficiently certain that the crate is in this room, I will check them one by one.",
+        "pos": ""
+      },
+      {
+        "word": "sufficient",
+        "example": "The postage on that box is not sufficient to get it to its destination.",
+        "pos": ""
+      },
+      {
+        "word": "suffice",
+        "example": "Will this much Styrofoam suffice?",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "integral",
+        "example": "This paperwork is integral to our ability to track packages.",
+        "pos": ""
+      },
+      {
+        "word": "integrate",
+        "example": "The new foreman is unable to integrate information about shipping perishables.",
+        "pos": "verb"
+      },
+      {
+        "word": "integration",
+        "example": "His full integration into the team could take weeks.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "To assure that your order is ____ filled, it will be checked by a two-person team.",
+        "options": [
+          {
+            "label": "A",
+            "text": "accurately"
+          },
+          {
+            "label": "B",
+            "text": "accurateness"
+          },
+          {
+            "label": "C",
+            "text": "accurate"
+          },
+          {
+            "label": "D",
+            "text": "accuracy"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "The suppliers have ____ the terms of our agreement and are now our supplier of choice.",
+        "options": [
+          {
+            "label": "A",
+            "text": "fulfilling"
+          },
+          {
+            "label": "B",
+            "text": "fulfillment"
+          },
+          {
+            "label": "C",
+            "text": "fulfilled"
+          },
+          {
+            "label": "D",
+            "text": "fulfill"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "Scanning the shipment number is an ____ part of tracking these containers.",
+        "options": [
+          {
+            "label": "A",
+            "text": "integral"
+          },
+          {
+            "label": "B",
+            "text": "integrate"
+          },
+          {
+            "label": "C",
+            "text": "integrating"
+          },
+          {
+            "label": "D",
+            "text": "integration"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "Keeping customer complaints to a ____ is the job of everyone who works in the store.",
+        "options": [
+          {
+            "label": "A",
+            "text": "minimum"
+          },
+          {
+            "label": "B",
+            "text": "minimal"
+          },
+          {
+            "label": "C",
+            "text": "minimize"
+          },
+          {
+            "label": "D",
+            "text": "minimally"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "To keep distribution costs low, we have selected only two ____ firms for the region.",
+        "options": [
+          {
+            "label": "A",
+            "text": "ship"
+          },
+          {
+            "label": "B",
+            "text": "shipment"
+          },
+          {
+            "label": "C",
+            "text": "shipping"
+          },
+          {
+            "label": "D",
+            "text": "shipper"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "Based on their credit check, it seems likely that they have ____ funds to cover this order.",
+        "options": [
+          {
+            "label": "A",
+            "text": "suffice"
+          },
+          {
+            "label": "B",
+            "text": "sufficient"
+          },
+          {
+            "label": "C",
+            "text": "sufficiently"
+          },
+          {
+            "label": "D",
+            "text": "sufficed"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Packing Guidelines In order to [16] breakage of merchandise and loss of shipments and to ensure accurate fulfillment of orders, please observe the following guidelines when preparing packages for shipment: 1) Check the order form carefully to make sure the item number matches the item number and description in the catalog. 2) Make sure that the address label has been [17] filled out, and particularly that names have been spelled correctly. 3) Each box must be [18] filled with packing material to protect the contents from damage. 4) Packages must be ready to be picked up by the carrier before 3:30 p.m. daily. Following these guidelines is of the utmost importance. Lost and damaged shipments cost the company valuable time and money.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "minimum"
+            },
+            {
+              "label": "B",
+              "text": "minimize"
+            },
+            {
+              "label": "C",
+              "text": "minimal"
+            },
+            {
+              "label": "D",
+              "text": "minimally"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "acutely"
+            },
+            {
+              "label": "B",
+              "text": "accessibly"
+            },
+            {
+              "label": "C",
+              "text": "actively"
+            },
+            {
+              "label": "D",
+              "text": "accurately"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "sufficiently"
+            },
+            {
+              "label": "B",
+              "text": "sufficient"
+            },
+            {
+              "label": "C",
+              "text": "suffice"
+            },
+            {
+              "label": "D",
+              "text": "suffuse"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following letter. April 15 Customer Service Department Fleetwood Fashions 21986 North Featherstone Avenue Hiawatha, MN Dear Customer Service, I am writing about an order I made from the Fleetwood Fashions catalog over a month ago, which I have not yet received. When I called to order two new purses and several spring shirts, the customer service representative assured me that there was sufficient inventory on hand to fulfill the order. He told me that it would be shipped before the end of the week and that I would receive it within ten days. When I still had not received the shipment after 14 days, I called the company. The customer service representative checked the ordering information on the computer, and we discovered that my address had not been accurately recorded. He promised to reship the order with my correct address and told me I would receive it within ten days. That was over two weeks ago, and I still have not received the shipment. I cannot understand this. Perhaps the carrier that you use is not reliable. In any case, I am tired of waiting for my order and would like to cancel it. I am not sure whether I will make an order from your company again. This is unfortunate since it is one of the few places that carry dresses and shoes in my size and at a reasonable price. However, this is the second time I have had a problem with an order, and I don't want this to happen again. Please cancel my order #20857631. Thank you. Sincerely, Lucinda Walker 22. The word fulfill in line 3 is closest in meaning to (A) pay for (B) complete (C) send (D) receive 23. The word carrier in line 8 is closest in meaning to (A) communication (B) employee (C) transporter (D) operator",
+        "questions": [
+          {
+            "number": 19,
+            "question": "When did Lucinda Walker make an order from Fleetwood Fashions?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Last week."
+              },
+              {
+                "label": "B",
+                "text": "Ten days ago."
+              },
+              {
+                "label": "C",
+                "text": "Fourteen days ago."
+              },
+              {
+                "label": "D",
+                "text": "Last month."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "What did she order?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Purses."
+              },
+              {
+                "label": "B",
+                "text": "Skirts."
+              },
+              {
+                "label": "C",
+                "text": "Shoes."
+              },
+              {
+                "label": "D",
+                "text": "Dresses."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "What is the problem with her order?",
+            "options": [
+              {
+                "label": "A",
+                "text": "The price is unreasonable."
+              },
+              {
+                "label": "B",
+                "text": "The dress size is wrong."
+              },
+              {
+                "label": "C",
+                "text": "She hasn't received it yet."
+              },
+              {
+                "label": "D",
+                "text": "It contained the wrong merchandise."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "What is the problem?",
+        "options": [
+          {
+            "label": "A",
+            "text": "There aren't enough boxes."
+          },
+          {
+            "label": "B",
+            "text": "The addresses were lost."
+          },
+          {
+            "label": "C",
+            "text": "The packages need repair."
+          },
+          {
+            "label": "D",
+            "text": "The wrong materials were shipped."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "Who is responsible for the problem?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The woman."
+          },
+          {
+            "label": "B",
+            "text": "The man."
+          },
+          {
+            "label": "C",
+            "text": "The packers."
+          },
+          {
+            "label": "D",
+            "text": "The suppliers."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "When should the boxes be shipped?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Today."
+          },
+          {
+            "label": "B",
+            "text": "Tomorrow."
+          },
+          {
+            "label": "C",
+            "text": "By Friday."
+          },
+          {
+            "label": "D",
+            "text": "On the weekend."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "What is the topic of the talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Company mottos."
+          },
+          {
+            "label": "B",
+            "text": "High prices."
+          },
+          {
+            "label": "C",
+            "text": "Customer loyalty."
+          },
+          {
+            "label": "D",
+            "text": "A weak point in the catalog."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What is the company's basic philosophy?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Unsurpassed customer service."
+          },
+          {
+            "label": "B",
+            "text": "A good catalog can sell anything."
+          },
+          {
+            "label": "C",
+            "text": "Outperform the competition."
+          },
+          {
+            "label": "D",
+            "text": "High quality at low cost."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "When will the catalog show a comparison of prices?",
+        "options": [
+          {
+            "label": "A",
+            "text": "January."
+          },
+          {
+            "label": "B",
+            "text": "May."
+          },
+          {
+            "label": "C",
+            "text": "September."
+          },
+          {
+            "label": "D",
+            "text": "December."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best response. 4. What is the problem? (A) There aren't enough boxes. (B) The addresses were lost. (C) The packages need repair. (D) The wrong materials were shipped. 5. Who is responsible for the problem? (A) The woman. (B) The man. (C) The packers. (D) The suppliers. 6. When should the boxes be shipped? (A) Today. (B) Tomorrow. (C) By Friday. (D) On the weekend. Listen to the talk. Then read each question and choose the best answer. 7. What is the topic of the talk? (A) Company mottos. (B) High prices. (C) Customer loyalty. (D) A weak point in the catalog. 8. What is the company's basic philosophy? (A) Unsurpassed customer service. (B) A good catalog can sell anything. (C) Outperform the competition. (D) High quality at low cost. 9. When will the catalog show a comparison of prices? (A) January. (B) May. (C) September. (D) December.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "What is the problem?",
+        "options": [
+          {
+            "label": "A",
+            "text": "There aren't enough boxes."
+          },
+          {
+            "label": "B",
+            "text": "The addresses were lost."
+          },
+          {
+            "label": "C",
+            "text": "The packages need repair."
+          },
+          {
+            "label": "D",
+            "text": "The wrong materials were shipped."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "Who is responsible for the problem?",
+        "options": [
+          {
+            "label": "A",
+            "text": "The woman."
+          },
+          {
+            "label": "B",
+            "text": "The man."
+          },
+          {
+            "label": "C",
+            "text": "The packers."
+          },
+          {
+            "label": "D",
+            "text": "The suppliers."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "When should the boxes be shipped?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Today."
+          },
+          {
+            "label": "B",
+            "text": "Tomorrow."
+          },
+          {
+            "label": "C",
+            "text": "By Friday."
+          },
+          {
+            "label": "D",
+            "text": "On the weekend."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "What is the topic of the talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Company mottos."
+          },
+          {
+            "label": "B",
+            "text": "High prices."
+          },
+          {
+            "label": "C",
+            "text": "Customer loyalty."
+          },
+          {
+            "label": "D",
+            "text": "A weak point in the catalog."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "What is the company's basic philosophy?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Unsurpassed customer service."
+          },
+          {
+            "label": "B",
+            "text": "A good catalog can sell anything."
+          },
+          {
+            "label": "C",
+            "text": "Outperform the competition."
+          },
+          {
+            "label": "D",
+            "text": "High quality at low cost."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "When will the catalog show a comparison of prices?",
+        "options": [
+          {
+            "label": "A",
+            "text": "January."
+          },
+          {
+            "label": "B",
+            "text": "May."
+          },
+          {
+            "label": "C",
+            "text": "September."
+          },
+          {
+            "label": "D",
+            "text": "December."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "18\n\n## ORDS TO LFA'IN\n\naccurately\n\ncatalog\nf:\n\nnventory\n\nr ' nize\n\non h and\n\nsh )\n\n-ply\n-  imply\n\n## Shipping\n\nStudy the following definitions and examples.\n\n1 accurately adv., correctly; without errors\n\na. To gauge these figures accurately, we first need to get some facts from the shipping department.\n\nb. The container company must balance the load accurately or there could be a disaster at sea.\n\n2. carrier n., a person or business that transports passengers or goods\n\na. Lou, our favorite carrier, takes extra care of our boxes marked \"fragile.\"\n\nb. Mr. Lau switched carriers in order to get a price savings on deliveries out of state.\n\n3. catalog n., a list or itemized display; v., to make an itemized list of\n\na. The upcoming fall catalog shows a number of items from Laos that Mr. Lau has never before been able to offer.\n\nb. Ellen cataloged the complaints according to severity.\n\n4. fulfill v., to finish completely  \na. The engineers fulfilled a client's request for larger display screens.  \nb. Her expectations were so high, we knew they would be hard to fulfill.\n\n5. integral adj., necessary for completion\n\na. Good customer relations is an integral component of any business.\n\nb. A dependable stream of inventory is integral to reliable shipping of orders.\n\n6. inventory n., goods in stock; an itemized record of these goods a. The store closes one day a year so that the staff can take inventory of the stockroom.\n\nb. Their inventory has not changed much over the years.\n\n7. minimize v., to reduce; to give less importance to\n\na. The shipping staff minimized customer complaints by working overtime to deliver the packages quickly.\n\nb. To keep the customers happy and to minimize the effect of the carrier strike, we shipped orders directly to them.\n\n8. on hand adj., available\n\na. We had too much stock on hand, so we had a summer sale.\n\nb. The new employee will be on hand if we need more help with shipping orders.\n\n9. remember v., to think of again; to retain in the memory\n\na. I remembered the delivery clerk's name as soon as I got off the phone.\n\nb. I will remember the combination to the safe without writing it down.\n\n10. ship v., to transport; to send\n\na. Eva shipped the package carefully, since she knew the contents were made of glass.\n\nb. Very few customers think about how their packages will be shipped, and are seldom home when the packages arrive.\n\n11. sufficiently adv., enough\n\na. The boxcar was sufficiently damaged that it could not be loaded on the truck.\n\nb. We are sufficiently organized to begin transferring the palettes tomorrow.\n\n12. supply n., stock; v., to make available for use; to provide a. By making better use of our supplies, we can avoid ordering until next month.\n\nb. Gerald supplied the shipping staff with enough labels to last a year.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\naccurate fulfillment minimize shipping carrier integral on hand sufficient catalog inventory remember supplies\n\nFor Mr. Park's Asian housewares store, shipping is an (1) \\_\\_\\_\\_ part of the business. Many customers need to send their purchases to friends or relatives who live far away. Other customers, who do not live near one of his stores, shop by (2) \\_\\_\\_\\_ and need their orders sent by mail.\n\n(3) \\_\\_\\_\\_ is, of course, the process of getting goods delivered to a customer, but it is more than just getting a box in the mail. Goods must be packaged carefully to (4) \\_\\_\\_\\_ breakage and ensure that they arrive safely. Staff members must keep (5) \\_\\_\\_\\_ records of the inventory shipped, so Mr. Park knows at all times the answers to these questions: When did a box leave the store? Who was the (6) \\_\\_\\_\\_ who delivered it? When did it arrive at its destination? Customers will have confidence in Mr. Park's business when he can give quick and accurate answers.\n\nThe shipping process must be tied to the store's (7) \\_\\_\\_\\_. When orders are taken, the shipping staff must know that there is (8) \\_\\_\\_\\_ inventory of the product on hand to (9) \\_\\_\\_\\_ the request. If a product is on order, the sales staff should advise the customer to expect a delay. When orders are shipped out, they must be deleted from the inventory records so Mr. Park knows exactly how many items are (10) \\_\\_\\_\\_ in his warehouse. It takes a good computer program to keep track of the additions and deletions to the inventory.\n\nSales staff must (11) \\_\\_\\_\\_ to charge for shipping and appropriate taxes. Mr. Park must keep good records on the cost of the shipping and packing materials and other (12) \\_\\_\\_\\_, the cost of the carriers, and staff time to assess whether he is billing enough to cover his shipping expenses.",
+    "word_families": "## WORD FAMILIES\n\n| noun | accuracy | His firm was well known for its accuracy in predicting how long shipping would take. |\n| --- | --- | --- |\n| 〈〉 | accurate | Don’t forget to keep accurate records; you will need them when you have your annual inventory. |\n| adverb | accurately | The in-depth shipping records made it possible for Max to accurately estimate when the mixing bowls would arrive in the store. |\n\n| verb | fulfill | We take pride in fulfilling customers' unusual requests. |\n| --- | --- | --- |\n| § | fulfilling | Fulfilling the requirement of the contract will necessitate hiring extra staff. |\n| noun | fulfillment | Fulfillment of duties can be tedious, but job satisfaction demands attention to detail. |\n\n<table><tr><td>ε</td><td>integral</td><td>This paperwork is integral to our ability to track packages.</td></tr><tr><td rowspan=\"2\">verb</td><td>integrate</td><td>The new foreman is unable to integrate information about shipping perishables.</td></tr><tr><td>integration</td><td>His full integration into the team could take weeks.</td></tr></table>\n\n| verb | minimize | To minimize any potential risk of injury, all workers must wear closed-toed shoes in the stockroom. |\n| --- | --- | --- |\n| “” | minimal | Luckily, the leak from the roof did only minimal damage to the inventory in the stockroom. |\n| noun | minimum | The minimum is $50; orders of less will be assessed a shipping charge. |\n\n| \\\\___ | ship | We ship all orders within 24 hours of your phone call. |\n| --- | --- | --- |\n| ir. | shipper | We can rely on our shipper to pack large, fragile items carefully. |\n| r i | shipment | The shipment from the supplier was short a number of items, so we complained. |\n\n|  | sufficiently | If you are sufficiently certain that the crate is in this room, I will check them one by one. |\n| --- | --- | --- |\n| ε | sufficient | The postage on that box is not sufficient to get it to its destination. |\n| . | suffice | Will this much Styrofoam suffice? |",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best response.\n\n4. What is the problem?\n(A) There aren't enough boxes.\n(B) The addresses were lost.\n(C) The packages need repair.\n(D) The wrong materials were shipped.\n\n5. Who is responsible for the problem?\n(A) The woman.\n(B) The man.\n(C) The packers.\n(D) The suppliers.\n\n6. When should the boxes be shipped?\n(A) Today.\n(B) Tomorrow.\n(C) By Friday.\n(D) On the weekend.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. What is the topic of the talk?\n(A) Company mottos.\n(B) High prices.\n(C) Customer loyalty.\n(D) A weak point in the catalog.\n\n8. What is the company's basic philosophy?\n(A) Unsurpassed customer service.\n(B) A good catalog can sell anything.\n(C) Outperform the competition.\n(D) High quality at low cost.\n\n9. When will the catalog show a comparison of prices?\n(A) January.\n(B) May.\n(C) September.\n(D) December.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. To assure that your order is \\_\\_\\_\\_ filled, it will be checked by a two-person team.\n(A) accurately (C) accurate\n(B) accurateness (D) accuracy\n\n11. The suppliers have \\_\\_\\_\\_ the terms of our agreement and are now our supplier of choice.\n(A) fulfilling (C) fulfilled\n(B) fulfillment (D) fulfill\n\n12. Scanning the shipment number is an \\_\\_\\_\\_ part of tracking these containers.\n(A) integral (C) integrating\n(B) integrate (D) integration\n\n13. Keeping customer complaints to a \\_\\_\\_\\_ is the job of everyone who works in the store.\n(A) minimum (C) minimize\n(B) minimal (D) minimally\n\n14. To keep distribution costs low, we have selected only two \\_\\_\\_\\_ firms for the region.\n(A) ship (C) shipping\n(B) shipment (D) shipper\n\n15. Based on their credit check, it seems likely that they have \\_\\_\\_\\_ funds to cover this order.\n(A) suffice (C) sufficiently\n(B) sufficient (D) sufficed\n\n## Part 6 Text Completion\n\n## Packing Guidelines\n\nIn order to \\_16\\_ breakage of merchandise and loss of shipments and to ensure accurate fulfillment of orders, please observe the following guidelines when preparing packages for shipment:\n\n1) Check the order form carefully to make sure the item number matches the item number and description in the catalog.\n\n2) Make sure that the address label has been \\_17\\_ filled out, and particularly that names have been spelled correctly.\n\n3) Each box must be \\_18\\_ filled with packing material to protect the contents from damage.\n\n4) Packages must be ready to be picked up by the carrier before 3:30 p.m. daily.\n\nFollowing these guidelines is of the utmost importance. Lost and damaged shipments cost the company valuable time and money.\n\n16. (A) minimum  \n(B) minimize  \n(C) minimal  \n(D) minimally\n\n17. (A) acutely  \n(B) accessibly  \n(C) actively  \n(D) accurately\n\n18. (A) sufficiently\n\n(B) sufficient\n\n(C) suffice\n\n(D) suffuse",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following letter.\n\nApril 15\n\nCustomer Service Department  \nFleetwood Fashions  \n21986 North Featherstone Avenue  \nHiawatha, MN\n\nDear Customer Service,\n\nI am writing about an order I made from the Fleetwood Fashions catalog over a month ago, which I have not yet received. When I called to order two new purses and several spring shirts, the customer service representative assured me that there was sufficient inventory on hand to fulfill the order. He told me that it would be shipped before the end of the week and that I would receive it within ten days. When I still had not received the shipment after 14 days, I called the company. The customer service representative checked the ordering information on the computer, and we discovered that my address had not been accurately recorded. He promised to reship the order with my correct address and told me I would receive it within ten days. That was over two weeks ago, and I still have not received the shipment. I cannot understand this. Perhaps the carrier that you use is not reliable. In any case, I am tired of waiting for my order and would like to cancel it. I am not sure whether I will make an order from your company again. This is unfortunate since it is one of the few places that carry dresses and shoes in my size and at a reasonable price. However, this is the second time I have had a problem with an order, and I don't want this to happen again. Please cancel my order #20857631. Thank you.\n\nSincerely,\n\nLucinda Walker\n\n19. When did Lucinda Walker make an order from Fleetwood Fashions?  \n(A) Last week.  \n(B) Ten days ago.  \n(C) Fourteen days ago.  \n(D) Last month.\n\n20. What did she order?\n(A) Purses.\n(B) Skirts.\n(C) Shoes.\n(D) Dresses.\n\n21. What is the problem with her order?\n(A) The price is unreasonable.\n(B) The dress size is wrong.\n(C) She hasn't received it yet.\n(D) It contained the wrong merchandise.\n\n22. The word fulfill in line 3 is closest in meaning to (A) pay for (B) complete (C) send (D) receive\n\n23. The word carrier in line 8 is closest in meaning to (A) communication (B) employee (C) transporter (D) operator"
+  },
+  "needs_review": true
+}

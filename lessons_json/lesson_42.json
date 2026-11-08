@@ -1,0 +1,1651 @@
+{
+  "lesson_id": 42,
+  "title": "Theater",
+  "theme_name": "Entertainment",
+  "audio_track": "track_42.mp3",
+  "part1_photo": "part1_photos/lesson_42.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "action",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the series of events that form the plot of a story or play",
+      "definition_vi": "hành động, diễn biến (của vở kịch/câu chuyện)",
+      "examples": [
+        {
+          "en": "The director decided that the second act needed more action and asked the playwright to review the work.",
+          "vi": "Đạo diễn quyết định rằng màn thứ hai cần nhiều kịch tính/hành động hơn và yêu cầu nhà viết kịch xem xét lại tác phẩm."
+        },
+        {
+          "en": "The action on stage was spellbinding.",
+          "vi": "Diễn biến trên sân khấu vô cùng cuốn hút."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "act",
+          "example": "Roger&#x27;s dream is to act in a Broadway play."
+        },
+        {
+          "pos": "",
+          "word": "action",
+          "example": "There isn&#x27;t much action in the play, but it is captivating nonetheless."
+        },
+        {
+          "pos": "",
+          "word": "actor",
+          "example": "There are quite a few well-known actors in the cast."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "take action",
+        "course of action",
+        "corrective action",
+        "legal action"
+      ],
+      "usage": {
+        "structures": [
+          "take action (to V / on N)",
+          "put into action",
+          "call for action"
+        ],
+        "prepositions": [
+          "on",
+          "against",
+          "into"
+        ],
+        "collocations": [
+          "take immediate action",
+          "course of action",
+          "disciplinary action",
+          "action on stage"
+        ],
+        "tip": "Cụm cố định 'take action' (hành động/đưa ra biện pháp) và 'course of action' (hướng hành động) xuất hiện cực nhiều trong TOEIC."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "active",
+          "example": "She has played an active role in the local theater community for decades.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "actively",
+          "example": "The producers are actively seeking sponsors for the upcoming musical.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "There are several well-known _____ in the cast of the new Broadway musical.",
+        "answer": "actors",
+        "base_word": "action",
+        "pos_hint": "danh từ chỉ người số nhiều",
+        "vi": "Có một vài diễn viên nổi tiếng trong dàn diễn viên của vở nhạc kịch Broadway mới."
+      }
+    },
+    {
+      "id": 2,
+      "word": "approach",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to go near; to move toward",
+      "definition_vi": "tiếp cận, tiến đến gần; cách tiếp cận",
+      "examples": [
+        {
+          "en": "The performance approaches perfection.",
+          "vi": "Buổi biểu diễn đạt đến gần sự hoàn hảo."
+        },
+        {
+          "en": "The director approached the play from an unusual angle.",
+          "vi": "Vị đạo diễn đã tiếp cận vở kịch từ một góc độ khác thường."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "approach",
+          "example": "The actress approached me with the idea for a new play."
+        },
+        {
+          "pos": "",
+          "word": "approach",
+          "example": "The informal approach to the play was unconventional."
+        },
+        {
+          "pos": "",
+          "word": "approachable",
+          "example": "Despite his great fame, the director was friendly and approachable."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "approach a problem",
+        "new approach to",
+        "as the deadline approaches",
+        "approachable manager"
+      ],
+      "usage": {
+        "structures": [
+          "approach + sb/sth (ngoại động từ, không giới từ)",
+          "an approach + to + N/V-ing"
+        ],
+        "prepositions": [
+          "to",
+          "with"
+        ],
+        "collocations": [
+          "innovative approach to",
+          "as the opening night approaches",
+          "approach perfection",
+          "friendly and approachable"
+        ],
+        "tip": "Làm động từ 'approach' KHÔNG đi với giới từ (approach the building); làm danh từ 'an approach to + N' (cách tiếp cận cái gì)."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "approachability",
+          "example": "The director's warmth and approachability put the nervous young actors at ease.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Despite his international fame, the veteran playwright remained humble and easily _____.",
+        "answer": "approachable",
+        "base_word": "approach",
+        "pos_hint": "tính từ",
+        "vi": "Bất chấp danh tiếng quốc tế của mình, nhà viết kịch kỳ cựu vẫn khiêm tốn và dễ gần."
+      }
+    },
+    {
+      "id": 3,
+      "word": "audience",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the spectators at a performance",
+      "definition_vi": "khán giả, thính giả",
+      "examples": [
+        {
+          "en": "The audience cheered the actors as they walked off the stage.",
+          "vi": "Khán giả đã reo hò cổ vũ các diễn viên khi họ bước xuống sân khấu."
+        },
+        {
+          "en": "The playwright expanded his audience by writing for film as well as for stage.",
+          "vi": "Nhà viết kịch đã mở rộng lượng khán giả của mình bằng cách viết cho cả điện ảnh lẫn sân khấu."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "target audience",
+        "attract an audience",
+        "wide audience",
+        "audience participation"
+      ],
+      "usage": {
+        "structures": [
+          "attract/draw/reach an audience",
+          "before a live audience",
+          "appeal to an audience"
+        ],
+        "prepositions": [
+          "of",
+          "for",
+          "before"
+        ],
+        "collocations": [
+          "target audience",
+          "captivate the audience",
+          "broad audience",
+          "audience members"
+        ],
+        "tip": "Cụm 'target audience' (khán giả/khách hàng mục tiêu) và 'reach a wider audience' rất hay gặp trong bài đọc về quảng cáo và sự kiện."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "auditorium",
+          "example": "Please take your seats in the main auditorium ten minutes before the curtain rises.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "audible",
+          "example": "The actor's whisper was barely audible from the back row of the theater.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "audibly",
+          "example": "The audience gasped audibly when the stage lights suddenly went out.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "By livestreaming the concert online, the orchestra was able to reach a much wider _____.",
+        "answer": "audience",
+        "base_word": "audience",
+        "pos_hint": "danh từ",
+        "vi": "Bằng cách phát trực tuyến buổi hòa nhạc trên mạng, dàn nhạc đã có thể tiếp cận lượng khán giả rộng lớn hơn nhiều."
+      }
+    },
+    {
+      "id": 4,
+      "word": "creative",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "imaginative or artistic",
+      "definition_vi": "sáng tạo, giàu trí tưởng tượng",
+      "examples": [
+        {
+          "en": "The writer's creative representation of the Seven Deadly Sins was astounding.",
+          "vi": "Sự thể hiện đầy sáng tạo của nhà văn về Bảy mối tội đầu thật đáng kinh ngạc."
+        },
+        {
+          "en": "There are a number of creative people writing for the theater these days.",
+          "vi": "Có khá nhiều người giàu sức sáng tạo đang viết kịch bản cho sân khấu hiện nay."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "create",
+          "example": "The playwright created a realistic town and townspeople with the scenery and dialogue."
+        },
+        {
+          "pos": "",
+          "word": "creation",
+          "example": "The creation of the elaborate costumes took months."
+        },
+        {
+          "pos": "",
+          "word": "creative",
+          "example": "The director is one of the most creative people I know."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "creative thinking",
+        "creative solution",
+        "creative director",
+        "highly creative"
+      ],
+      "usage": {
+        "structures": [
+          "be creative in + V-ing/N",
+          "creative + N (director/solution/process)"
+        ],
+        "prepositions": [
+          "in",
+          "with"
+        ],
+        "collocations": [
+          "creative approach",
+          "creative talent",
+          "creative process",
+          "creative writing"
+        ],
+        "tip": "Đuôi '-ive' ở đây là tính từ (creative: sáng tạo), đứng sau trạng từ 'highly/very' hoặc đứng trước danh từ."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "creatively",
+          "example": "The set designer used lighting creatively to make the small stage look vast.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "creativity",
+          "example": "The drama workshop encourages young performers to express their creativity.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The _____ of the elaborate period costumes required over four months of painstaking work.",
+        "answer": "creation",
+        "base_word": "creative",
+        "pos_hint": "danh từ",
+        "vi": "Việc tạo ra những bộ trang phục cổ trang cầu kỳ đòi hỏi hơn bốn tháng làm việc tỉ mỉ."
+      }
+    },
+    {
+      "id": 5,
+      "word": "dialogue",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a conversation between two or more persons",
+      "definition_vi": "cuộc đối thoại, lời thoại",
+      "examples": [
+        {
+          "en": "The actors performed the dialogue without using scripts.",
+          "vi": "Các diễn viên đã trình diễn phần lời thoại mà không cần dùng kịch bản."
+        },
+        {
+          "en": "The written dialogue seemed great, but was hard to perform.",
+          "vi": "Lời thoại viết ra có vẻ rất tuyệt, nhưng lại khó biểu diễn trên sân khấu."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "open a dialogue",
+        "constructive dialogue",
+        "engage in dialogue",
+        "witty dialogue"
+      ],
+      "usage": {
+        "structures": [
+          "dialogue between A and B",
+          "dialogue with + sb",
+          "enter into a dialogue"
+        ],
+        "prepositions": [
+          "between",
+          "with",
+          "on"
+        ],
+        "collocations": [
+          "constructive dialogue",
+          "maintain a dialogue",
+          "stage dialogue",
+          "meaningful dialogue"
+        ],
+        "tip": "Trong ngữ cảnh sân khấu là 'lời thoại', còn trong kinh doanh TOEIC thường mang nghĩa 'cuộc đối thoại' (open a dialogue with/between)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "dialogue",
+          "example": "Management agreed to dialogue with the actors' union regarding rehearsal hours.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "dialogic",
+          "example": "The play relies on a dialogic structure between the two main characters.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The playwright is famous for writing sharp, realistic _____ that keeps spectators engaged.",
+        "answer": "dialogue",
+        "base_word": "dialogue",
+        "pos_hint": "danh từ",
+        "vi": "Nhà viết kịch nổi tiếng với việc viết những lời thoại sắc sảo, chân thực giúp giữ chân khán giả."
+      }
+    },
+    {
+      "id": 6,
+      "word": "element",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "fundamental or essential constituent",
+      "definition_vi": "yếu tố, thành phần cơ bản",
+      "examples": [
+        {
+          "en": "The audience is an essential element of live theater.",
+          "vi": "Khán giả là một yếu tố thiết yếu của nghệ thuật sân khấu trực tiếp."
+        },
+        {
+          "en": "By putting together all the elements of theater into one play, he overwhelmed the critics.",
+          "vi": "Bằng cách kết hợp tất cả các yếu tố của sân khấu vào một vở kịch, ông đã làm giới phê bình choáng ngợp."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "key element",
+        "essential element",
+        "element of surprise",
+        "crucial element"
+      ],
+      "usage": {
+        "structures": [
+          "an essential/key element of + N",
+          "an element of + N (surprise/risk/truth)"
+        ],
+        "prepositions": [
+          "of",
+          "in"
+        ],
+        "collocations": [
+          "essential element of",
+          "key element in",
+          "element of surprise",
+          "basic elements"
+        ],
+        "tip": "Thường đi sau các tính từ chỉ tầm quan trọng như 'key/essential/crucial/vital element of...'."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "elementary",
+          "example": "Even students with only an elementary knowledge of theater enjoyed the comedy.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "elemental",
+          "example": "The tragedy explores elemental human emotions such as jealousy and forgiveness.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Costume design and stage lighting are two key _____ that bring a theatrical production to life.",
+        "answer": "elements",
+        "base_word": "element",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Thiết kế trang phục và ánh sáng sân khấu là hai yếu tố then chốt mang lại sức sống cho một tác phẩm sân khấu."
+      }
+    },
+    {
+      "id": 7,
+      "word": "experience",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "an event or a series of events participated in or lived through",
+      "definition_vi": "kinh nghiệm, trải nghiệm",
+      "examples": [
+        {
+          "en": "The experience of live theater is very thrilling.",
+          "vi": "Trải nghiệm xem kịch trực tiếp tại nhà hát vô cùng hồi hộp và thú vị."
+        },
+        {
+          "en": "Going to the theater was not part of Claude's experience growing up.",
+          "vi": "Việc đi xem kịch không phải là một phần trải nghiệm thời thơ ấu của Claude."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "experience",
+          "example": "The actor experienced great self-doubt before he became famous."
+        },
+        {
+          "pos": "",
+          "word": "experience",
+          "example": "Directors bring their experience of the world onto the stage."
+        },
+        {
+          "pos": "",
+          "word": "experienced",
+          "example": "The experienced make-up artist transformed Maxine into an old woman in a matter of minutes."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "hands-on experience",
+        "prior experience",
+        "memorable experience",
+        "gain experience"
+      ],
+      "usage": {
+        "structures": [
+          "experience + in + N/V-ing",
+          "learn from experience",
+          "firsthand experience"
+        ],
+        "prepositions": [
+          "in",
+          "with",
+          "of"
+        ],
+        "collocations": [
+          "extensive experience in",
+          "prior work experience",
+          "unforgettable experience",
+          "experienced professional"
+        ],
+        "tip": "Khi mang nghĩa 'kinh nghiệm làm việc' là danh từ không đếm được (đi với 'in'); khi mang nghĩa 'trải nghiệm/sự việc trải qua' là danh từ đếm được."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "inexperienced",
+          "example": "The understudy was relatively inexperienced, yet she delivered a remarkable performance.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The _____ makeup artist transformed the young actor into an elderly king in just twenty minutes.",
+        "answer": "experienced",
+        "base_word": "experience",
+        "pos_hint": "tính từ",
+        "vi": "Chuyên gia trang điểm giàu kinh nghiệm đã hóa trang nam diễn viên trẻ thành một vị vua già chỉ trong hai mươi phút."
+      }
+    },
+    {
+      "id": 8,
+      "word": "occur",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to take place; to come about",
+      "definition_vi": "xảy ra, diễn ra; chợt nảy ra (trong đầu)",
+      "examples": [
+        {
+          "en": "The murder in the play occurs in the second act.",
+          "vi": "Vụ án mạng trong vở kịch diễn ra ở màn thứ hai."
+        },
+        {
+          "en": "It never occurred to me that the wife whom the character referred to was imaginary.",
+          "vi": "Tôi chưa bao giờ chợt nghĩ rằng người vợ mà nhân vật nhắc tới lại là do tưởng tượng."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "occur naturally",
+        "occur to somebody",
+        "frequently occur",
+        "unlikely to occur"
+      ],
+      "usage": {
+        "structures": [
+          "sth occurs (nội động từ, KHÔNG chia bị động)",
+          "It occurs to sb that / to V"
+        ],
+        "prepositions": [
+          "to",
+          "in",
+          "at"
+        ],
+        "collocations": [
+          "occur during the second act",
+          "it occurred to me that",
+          "occurrence of an error",
+          "naturally occurring"
+        ],
+        "tip": "'Occur' là nội động từ (tuyệt đối không có dạng bị động 'be occurred'); gấp đôi chữ 'r' khi thêm -ed/-ing (occurred, occurring)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "occur",
+          "example": "A brief intermission will occur between the second and third acts.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "occurrence",
+          "example": "Technical glitches during live performances are a rare occurrence at this theater.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "occurring",
+          "example": "The play addresses issues commonly occurring in modern family life.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "A fifteen-minute intermission _____ immediately after the conclusion of the first act.",
+        "answer": "occurs",
+        "base_word": "occur",
+        "pos_hint": "động từ chia hiện tại đơn ngôi thứ 3 số ít",
+        "vi": "Một khoảng nghỉ giải lao mười lăm phút diễn ra ngay sau khi kết thúc màn thứ nhất."
+      }
+    },
+    {
+      "id": 9,
+      "word": "perform",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to act before an audience, to give a public presentation of",
+      "definition_vi": "biểu diễn, trình diễn; thực hiện",
+      "examples": [
+        {
+          "en": "The theater group performed a three-act play.",
+          "vi": "Đoàn kịch đã biểu diễn một vở kịch gồm ba màn."
+        },
+        {
+          "en": "Juan performed the role without forgetting any lines.",
+          "vi": "Juan đã biểu diễn vai diễn đó mà không quên bất kỳ câu thoại nào."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "perform",
+          "example": "The popular actress was hired to perform Shakespeare on a world tour."
+        },
+        {
+          "pos": "",
+          "word": "performance",
+          "example": "I booked tickets for the performance the day they went on sale."
+        },
+        {
+          "pos": "",
+          "word": "performer",
+          "example": "The performers each had three costume changes."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "perform a play",
+        "perform duties",
+        "perform well",
+        "live performance"
+      ],
+      "usage": {
+        "structures": [
+          "perform + N (a role / a task / surgery)",
+          "perform well/poorly"
+        ],
+        "prepositions": [
+          "on",
+          "in",
+          "before"
+        ],
+        "collocations": [
+          "perform on stage",
+          "evening performance",
+          "street performer",
+          "perform maintenance"
+        ],
+        "tip": "Chú ý hai danh từ: 'performance' (buổi biểu diễn / hiệu suất công việc) và 'performer' (nghệ sĩ biểu diễn)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "performing",
+          "example": "The city recently opened a new center for the performing arts.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Tickets for Saturday's evening _____ sold out within two hours of going on sale.",
+        "answer": "performance",
+        "base_word": "perform",
+        "pos_hint": "danh từ",
+        "vi": "Vé cho buổi biểu diễn tối thứ Bảy đã bán hết veo trong vòng hai giờ kể từ khi mở bán."
+      }
+    },
+    {
+      "id": 10,
+      "word": "rehearse",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to practice in preparation for a public performance; to direct in rehearsal",
+      "definition_vi": "diễn tập, tập dượt",
+      "examples": [
+        {
+          "en": "The players rehearsed for only three weeks before the show opened.",
+          "vi": "Các diễn viên chỉ tập dượt trong ba tuần trước khi vở diễn công chiếu."
+        },
+        {
+          "en": "The director rehearses with the actors ten hours each day.",
+          "vi": "Đạo diễn tập dượt cùng các diễn viên mười tiếng mỗi ngày."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "rehearse",
+          "example": "The cast had to rehearse the scene over and over again until the director was finally satisfied."
+        },
+        {
+          "pos": "",
+          "word": "rehearsal",
+          "example": "The actors spent several months in rehearsal before they performed the play."
+        },
+        {
+          "pos": "",
+          "word": "rehearsed",
+          "example": "Lydia&#x27;s acceptance speech for her award sounded more rehearsed than natural."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "rehearse a scene",
+        "dress rehearsal",
+        "rehearse for a show",
+        "well-rehearsed speech"
+      ],
+      "usage": {
+        "structures": [
+          "rehearse + N (a scene / lines)",
+          "rehearse + for + N",
+          "rehearse + with + sb"
+        ],
+        "prepositions": [
+          "for",
+          "with",
+          "in"
+        ],
+        "collocations": [
+          "dress rehearsal",
+          "in rehearsal",
+          "rehearse lines",
+          "well-rehearsed presentation"
+        ],
+        "tip": "Danh từ 'rehearsal' (buổi tổng duyệt/diễn tập) tuy có đuôi '-al' nhưng là danh từ, rất hay gặp trong cụm 'dress rehearsal'."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "unrehearsed",
+          "example": "The comedian's unrehearsed remarks made the entire audience burst into laughter.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "All cast members must attend the final dress _____ on Thursday evening before opening night.",
+        "answer": "rehearsal",
+        "base_word": "rehearse",
+        "pos_hint": "danh từ",
+        "vi": "Tất cả các thành viên trong dàn diễn viên phải tham dự buổi tổng duyệt trang phục cuối cùng vào tối thứ Năm trước đêm khai màn."
+      }
+    },
+    {
+      "id": 11,
+      "word": "review",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a critical estimate of a work or performance; v., writing a criticism of a performance",
+      "definition_vi": "bài phê bình, sự đánh giá; xem xét lại, viết bài phê bình",
+      "examples": [
+        {
+          "en": "The critic's influential review of the play was so negative that it sank the entire production.",
+          "vi": "Bài phê bình có sức ảnh hưởng của nhà phê bình về vở kịch tiêu cực đến mức nó làm sụp đổ toàn bộ vở diễn."
+        },
+        {
+          "en": "The newspaper sent a rank amateur to review the play.",
+          "vi": "Tờ báo đã cử một người hoàn toàn nghiệp dư đến viết bài đánh giá vở kịch."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "favorable review",
+        "rave reviews",
+        "annual review",
+        "under review"
+      ],
+      "usage": {
+        "structures": [
+          "receive rave/mixed/favorable reviews",
+          "be under review",
+          "review + N"
+        ],
+        "prepositions": [
+          "of",
+          "under",
+          "for"
+        ],
+        "collocations": [
+          "receive rave reviews",
+          "favorable review",
+          "performance review",
+          "book/play reviewer"
+        ],
+        "tip": "Vừa là danh từ vừa là động từ; cụm 'receive rave reviews' (nhận được những lời khen ngợi nồng nhiệt) rất hay ra trong bài đọc về nghệ thuật."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "review",
+          "example": "Critics from major newspapers were invited to review the opening night show.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "reviewer",
+          "example": "The theater reviewer praised the lead actress for her emotional depth.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "reviewed",
+          "example": "It was the most favorably reviewed play of the autumn season.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The musical received rave _____ from theater critics and quickly extended its run.",
+        "answer": "reviews",
+        "base_word": "review",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Vở nhạc kịch nhận được những bài đánh giá khen ngợi hết lời từ giới phê bình sân khấu và nhanh chóng kéo dài thời gian công chiếu."
+      }
+    },
+    {
+      "id": 12,
+      "word": "sell out",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to sell all the tickets",
+      "definition_vi": "bán hết sạch (vé, hàng hóa)",
+      "examples": [
+        {
+          "en": "The Broadway opening sold out months in advance.",
+          "vi": "Buổi công chiếu trên sân khấu Broadway đã bán hết vé trước nhiều tháng."
+        },
+        {
+          "en": "We expect that this play will be a smash and sell out quickly.",
+          "vi": "Chúng tôi kỳ vọng rằng vở kịch này sẽ là một cú hích lớn và bán hết vé nhanh chóng."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "sell out quickly",
+        "sell out in advance",
+        "sold-out show",
+        "completely sold out"
+      ],
+      "usage": {
+        "structures": [
+          "sell out (of + N)",
+          "be completely sold out"
+        ],
+        "prepositions": [
+          "of",
+          "in"
+        ],
+        "collocations": [
+          "sell out months in advance",
+          "sold-out performance",
+          "sell-out crowd",
+          "completely sold out"
+        ],
+        "tip": "Thường dùng ở dạng bị động 'be sold out' hoặc chủ động 'the show sold out quickly' để chỉ tình trạng cháy vé."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "sell",
+          "example": "The box office began to sell tickets for the winter season this morning.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "sellout",
+          "example": "Every night of the band's three-week tour was a complete sellout.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "sold-out",
+          "example": "The theater troupe performed before a sold-out house at the National Theater.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Because the play was so popular, all weekend performances were completely _____ weeks in advance.",
+        "answer": "sold out",
+        "base_word": "sell out",
+        "pos_hint": "cụm động từ chia quá khứ phân từ (bị động)",
+        "vi": "Vì vở kịch quá nổi tiếng nên tất cả các suất diễn cuối tuần đã bán hết sạch vé trước đó hàng tuần."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. Many people find nothing as exciting as an evening of live theater. The theater combines great works of literature written for the stage, the talents of great actors, and the efforts of hundreds of skilled artisans who work to create a mood. This mood, (1) ____ by the actors, director, and playwright with the supporting (2) ____ of sets, lighting, and costumes, is what makes a theatrical (3) ____ magical. When the curtain goes up, this magic (4) ____ right before your eyes. The director of a play will (5) ____ the work from his or her own artistic perspective. Each director has a different vision and this shapes how he or she directs the movement or (6) ____ between the characters. Directors use not only their theatrical training, but real-life experiences to create a meaningful, realistic evening. Actors also bring their own artistic and personal (7) ____ to their work. This is why every staging of a play is unique. Plays construct another world before your eyes. Ordinary words turn into meaningful (8) ____. Costumes and sets can be realistic or symbolic. Everything in a play looks easy, but it takes many weeks of (9) ____ to get everything in place. Watching a play from the (10) ____ is great fun. To find out if a play is good, look for (11) ____ in the newspapers or ask friends. When plays are really popular, the available seats can fill up quickly and the play will (12) ____.",
+    "word_bank": [
+      "action",
+      "created",
+      "experiences",
+      "rehearsal",
+      "approach",
+      "dialogue",
+      "occurs",
+      "reviews",
+      "audience",
+      "elements",
+      "performance",
+      "sell out"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "act",
+        "example": "Roger&#x27;s dream is to act in a Broadway play.",
+        "pos": ""
+      },
+      {
+        "word": "action",
+        "example": "There isn&#x27;t much action in the play, but it is captivating nonetheless.",
+        "pos": ""
+      },
+      {
+        "word": "actor",
+        "example": "There are quite a few well-known actors in the cast.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "approach",
+        "example": "The actress approached me with the idea for a new play.",
+        "pos": ""
+      },
+      {
+        "word": "approach",
+        "example": "The informal approach to the play was unconventional.",
+        "pos": ""
+      },
+      {
+        "word": "approachable",
+        "example": "Despite his great fame, the director was friendly and approachable.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "create",
+        "example": "The playwright created a realistic town and townspeople with the scenery and dialogue.",
+        "pos": ""
+      },
+      {
+        "word": "creation",
+        "example": "The creation of the elaborate costumes took months.",
+        "pos": ""
+      },
+      {
+        "word": "creative",
+        "example": "The director is one of the most creative people I know.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "experience",
+        "example": "The actor experienced great self-doubt before he became famous.",
+        "pos": ""
+      },
+      {
+        "word": "experience",
+        "example": "Directors bring their experience of the world onto the stage.",
+        "pos": ""
+      },
+      {
+        "word": "experienced",
+        "example": "The experienced make-up artist transformed Maxine into an old woman in a matter of minutes.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "perform",
+        "example": "The popular actress was hired to perform Shakespeare on a world tour.",
+        "pos": ""
+      },
+      {
+        "word": "performance",
+        "example": "I booked tickets for the performance the day they went on sale.",
+        "pos": ""
+      },
+      {
+        "word": "performer",
+        "example": "The performers each had three costume changes.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "rehearse",
+        "example": "The cast had to rehearse the scene over and over again until the director was finally satisfied.",
+        "pos": ""
+      },
+      {
+        "word": "rehearsal",
+        "example": "The actors spent several months in rehearsal before they performed the play.",
+        "pos": ""
+      },
+      {
+        "word": "rehearsed",
+        "example": "Lydia&#x27;s acceptance speech for her award sounded more rehearsed than natural.",
+        "pos": ""
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "The director's creativity showed in everything from her ____ to the literary quality of the play to the costumes and sets.",
+        "options": [
+          {
+            "label": "A",
+            "text": "approaching"
+          },
+          {
+            "label": "B",
+            "text": "approach"
+          },
+          {
+            "label": "C",
+            "text": "approachable"
+          },
+          {
+            "label": "D",
+            "text": "approachability"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "Edward is a very talented ____ although he can't sing or dance well at all.",
+        "options": [
+          {
+            "label": "A",
+            "text": "actor"
+          },
+          {
+            "label": "B",
+            "text": "acts"
+          },
+          {
+            "label": "C",
+            "text": "action"
+          },
+          {
+            "label": "D",
+            "text": "acting"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "As your director, I call upon you to bring your life ____ into your role.",
+        "options": [
+          {
+            "label": "A",
+            "text": "experienced"
+          },
+          {
+            "label": "B",
+            "text": "experiencing"
+          },
+          {
+            "label": "C",
+            "text": "experiential"
+          },
+          {
+            "label": "D",
+            "text": "experience"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "I am not ____ enough to work in the theater, but I certainly enjoy attending it.",
+        "options": [
+          {
+            "label": "A",
+            "text": "create"
+          },
+          {
+            "label": "B",
+            "text": "creativeness"
+          },
+          {
+            "label": "C",
+            "text": "creative"
+          },
+          {
+            "label": "D",
+            "text": "creativity"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "I look forward to the annual ____ of The Nutcracker ballet.",
+        "options": [
+          {
+            "label": "A",
+            "text": "performance"
+          },
+          {
+            "label": "B",
+            "text": "performer"
+          },
+          {
+            "label": "C",
+            "text": "perform"
+          },
+          {
+            "label": "D",
+            "text": "performable"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "There isn't much time left to ____ before the play opens.",
+        "options": [
+          {
+            "label": "A",
+            "text": "rehearsals"
+          },
+          {
+            "label": "B",
+            "text": "rehearse"
+          },
+          {
+            "label": "C",
+            "text": "rehearsing"
+          },
+          {
+            "label": "D",
+            "text": "rehearsed"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "To: Jack Sprague From: Sabrina Clark Subject: Play Hi Jack, I just saw that play that opened recently at the City Theater. You really ought to see it, too. I know you would enjoy the experience. The play combines [16] from both comedy and drama, so it's funny, but it also has an important message. Some people say this play is boring because there isn't a lot of action, but I think the [17] is very creative. The actors say some really funny lines. The whole performance is superb; you can tell that the actors rehearsed a long time before the play opened. You should call the theater today to get a ticket because they will probably sell [18] soon. Let me know how you like the play. Sabrina",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "elements"
+            },
+            {
+              "label": "B",
+              "text": "elemental"
+            },
+            {
+              "label": "C",
+              "text": "elementally"
+            },
+            {
+              "label": "D",
+              "text": "elementary"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "analogue"
+            },
+            {
+              "label": "B",
+              "text": "prologue"
+            },
+            {
+              "label": "C",
+              "text": "dialogue"
+            },
+            {
+              "label": "D",
+              "text": "catalogue"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "up"
+            },
+            {
+              "label": "B",
+              "text": "out"
+            },
+            {
+              "label": "C",
+              "text": "from"
+            },
+            {
+              "label": "D",
+              "text": "down"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Part 7 Reading Comprehension Questions 19–23 refer to the following theater review. Audiences have waited a long time for the opening of the play Dusk to Dawn at the City Theater. Unfortunately, the long wait only adds to the disappointment of seeing a mediocre play. It is an uncomfortable experience from start to finish. The action is slow and the dialogue boring. The performance by most of the cast is awkward and, on the night I attended at least, many of the actors forgot their lines. They obviously did not rehearse enough before opening night. The plot is trite. Theatergoers had been told to expect a fresh approach to the age-old boy-meets-girl romance story. Instead, we get a story that is dull enough to drive one to tears. Although the play is relatively short—under two hours—the performance is so tedious it seems to drag on for three or four hours. The audience made an audible sigh of relief when the final curtain dropped. Rather than the predicted sold out performances, I expect that the play will close very shortly. Unfortunately, the producers invested a lot of money in this play, which they are not likely to get back. My advice to would-be theatergoers: spend the weekend at the movies instead.",
+        "questions": [
+          {
+            "number": 19,
+            "question": "What is the reviewer's opinion of the play?",
+            "options": [
+              {
+                "label": "A",
+                "text": "It's very sad."
+              },
+              {
+                "label": "B",
+                "text": "It's boring."
+              },
+              {
+                "label": "C",
+                "text": "It's too short."
+              },
+              {
+                "label": "D",
+                "text": "It's romantic."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "How long is the play?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Less than two hours."
+              },
+              {
+                "label": "B",
+                "text": "Exactly two hours."
+              },
+              {
+                "label": "C",
+                "text": "Three hours."
+              },
+              {
+                "label": "D",
+                "text": "Four hours."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "What does the reviewer predict about the play?",
+            "options": [
+              {
+                "label": "A",
+                "text": "The performances will be sold out."
+              },
+              {
+                "label": "B",
+                "text": "The producers will make a lot of money."
+              },
+              {
+                "label": "C",
+                "text": "The play will be made into a movie."
+              },
+              {
+                "label": "D",
+                "text": "The play will close in a short time."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word experience in line 5 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "act"
+              },
+              {
+                "label": "B",
+                "text": "wait"
+              },
+              {
+                "label": "C",
+                "text": "event"
+              },
+              {
+                "label": "D",
+                "text": "seat"
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word rehearse in line 9 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "plan"
+              },
+              {
+                "label": "B",
+                "text": "sleep"
+              },
+              {
+                "label": "C",
+                "text": "memorize"
+              },
+              {
+                "label": "D",
+                "text": "practice"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "When did the review appear in the newspaper?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Today."
+          },
+          {
+            "label": "B",
+            "text": "Yesterday."
+          },
+          {
+            "label": "C",
+            "text": "Four weeks ago."
+          },
+          {
+            "label": "D",
+            "text": "Five weeks ago."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What does the woman say about the play?",
+        "options": [
+          {
+            "label": "A",
+            "text": "She has heard that it is funny."
+          },
+          {
+            "label": "B",
+            "text": "Tickets are still on sale."
+          },
+          {
+            "label": "C",
+            "text": "It got a bad review."
+          },
+          {
+            "label": "D",
+            "text": "The dialogue is hard to understand."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What did the woman do last Friday?",
+        "options": [
+          {
+            "label": "A",
+            "text": "She wrote a review."
+          },
+          {
+            "label": "B",
+            "text": "She won a prize."
+          },
+          {
+            "label": "C",
+            "text": "She saw a performance."
+          },
+          {
+            "label": "D",
+            "text": "She bought tickets."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "When can a performance of Romeo and Juliet be seen?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Today."
+          },
+          {
+            "label": "B",
+            "text": "On Thursday afternoon."
+          },
+          {
+            "label": "C",
+            "text": "On Sunday morning."
+          },
+          {
+            "label": "D",
+            "text": "On Thursday evening."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "How can you get tickets to the play?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Call the Shakespeare Organization."
+          },
+          {
+            "label": "B",
+            "text": "Call 656-9025."
+          },
+          {
+            "label": "C",
+            "text": "Write to the theater."
+          },
+          {
+            "label": "D",
+            "text": "Order them by e-mail."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "Where can reviews of the play be read?",
+        "options": [
+          {
+            "label": "A",
+            "text": "In a newspaper."
+          },
+          {
+            "label": "B",
+            "text": "On a web site."
+          },
+          {
+            "label": "C",
+            "text": "In a magazine."
+          },
+          {
+            "label": "D",
+            "text": "At the theater."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best answer. 4. When did the review appear in the newspaper? (A) Today. (B) Yesterday. (C) Four weeks ago. (D) Five weeks ago. 5. What does the woman say about the play? (A) She has heard that it is funny. (B) Tickets are still on sale. (C) It got a bad review. (D) The dialogue is hard to understand. 6. What did the woman do last Friday? (A) She wrote a review. (B) She won a prize. (C) She saw a performance. (D) She bought tickets. Listen to the talk. Then read each question and choose the best answer. 7. When can a performance of Romeo and Juliet be seen? (A) Today. (B) On Thursday afternoon. (C) On Sunday morning. (D) On Thursday evening. 8. How can you get tickets to the play? (A) Call the Shakespeare Organization. (B) Call 656-9025. (C) Write to the theater. (D) Order them by e-mail. 9. Where can reviews of the play be read? (A) In a newspaper. (B) On a web site. (C) In a magazine. (D) At the theater.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question–Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "When did the review appear in the newspaper?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Today."
+          },
+          {
+            "label": "B",
+            "text": "Yesterday."
+          },
+          {
+            "label": "C",
+            "text": "Four weeks ago."
+          },
+          {
+            "label": "D",
+            "text": "Five weeks ago."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "What does the woman say about the play?",
+        "options": [
+          {
+            "label": "A",
+            "text": "She has heard that it is funny."
+          },
+          {
+            "label": "B",
+            "text": "Tickets are still on sale."
+          },
+          {
+            "label": "C",
+            "text": "It got a bad review."
+          },
+          {
+            "label": "D",
+            "text": "The dialogue is hard to understand."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "What did the woman do last Friday?",
+        "options": [
+          {
+            "label": "A",
+            "text": "She wrote a review."
+          },
+          {
+            "label": "B",
+            "text": "She won a prize."
+          },
+          {
+            "label": "C",
+            "text": "She saw a performance."
+          },
+          {
+            "label": "D",
+            "text": "She bought tickets."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "When can a performance of Romeo and Juliet be seen?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Today."
+          },
+          {
+            "label": "B",
+            "text": "On Thursday afternoon."
+          },
+          {
+            "label": "C",
+            "text": "On Sunday morning."
+          },
+          {
+            "label": "D",
+            "text": "On Thursday evening."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "How can you get tickets to the play?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Call the Shakespeare Organization."
+          },
+          {
+            "label": "B",
+            "text": "Call 656-9025."
+          },
+          {
+            "label": "C",
+            "text": "Write to the theater."
+          },
+          {
+            "label": "D",
+            "text": "Order them by e-mail."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "Where can reviews of the play be read?",
+        "options": [
+          {
+            "label": "A",
+            "text": "In a newspaper."
+          },
+          {
+            "label": "B",
+            "text": "On a web site."
+          },
+          {
+            "label": "C",
+            "text": "In a magazine."
+          },
+          {
+            "label": "D",
+            "text": "At the theater."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "Lesson\n\n42\n\n## V ORDS TO LEARN\n\n( )n\n\nach\n\nal.\n\n( )\n\noccur\nperform\nrehearse\n\nI out\n\n## Theater\n\nStudy the following definitions and examples.\n\n1. action n., the series of events that form the plot of a story or play a. The director decided that the second act needed more action and asked the playwright to review the work.\n\nb. The action on stage was spellbinding.\n\n2. approach v., to go near; to move toward\n\na. The performance approaches perfection.\n\nb. The director approached the play from an unusual angle.\n\n3. audience n., the spectators at a performance\n\na. The audience cheered the actors as they walked off the stage.\n\nb. The playwright expanded his audience by writing for film as well as for stage.\n\n4. creative adj., imaginative or artistic\n\na. The writer's creative representation of the Seven Deadly Sins was astounding.\n\nb. There are a number of creative people writing for the theater these days.\n\n5. dialogue n., a conversation between two or more persons\n\na. The actors performed the dialogue without using scripts.\n\nb. The written dialogue seemed great, but was hard to perform.\n\n6. element n., fundamental or essential constituent\n\na. The audience is an essential element of live theater.\n\nb. By putting together all the elements of theater into one play, he overwhelmed the critics.\n\n7. experience n., an event or a series of events participated in or lived through  \na. The experience of live theater is very thrilling.  \nb. Going to the theater was not part of Claude's experience growing up.\n\n8. occur v., to take place; to come about\n\na. The murder in the play occurs in the second act.\n\nb. It never occurred to me that the wife whom the character referred to was imaginary.\n\n9. perform v., to act before an audience, to give a public presentation of a. The theater group performed a three-act play.\n\nb. Juan performed the role without forgetting any lines.\n\n10. rehearse v., to practice in preparation for a public performance; to direct in rehearsal\n\na. The players rehearsed for only three weeks before the show opened.\n\nb. The director rehearses with the actors ten hours each day.\n\n11. review n., a critical estimate of a work or performance; v., writing a criticism of a performance\n\na. The critic's influential review of the play was so negative that it sank the entire production.\n\nb. The newspaper sent a rank amateur to review the play.\n\n12. sell out v., to sell all the tickets\n\na. The Broadway opening sold out months in advance.\n\nb. We expect that this play will be a smash and sell out quickly.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\n| action | created | experiences | rehearsal |\n| --- | --- | --- | --- |\n| approach | dialogue | occurs | reviews |\n| audience | elements | performance | sell out |\n\nMany people find nothing as exciting as an evening of live theater. The theater combines great works of literature written for the stage, the talents of great actors, and the efforts of hundreds of skilled artisans who work to create a mood. This mood, (1) \\_\\_\\_\\_ by the actors, director, and playwright with the supporting (2) \\_\\_\\_\\_ of sets, lighting, and costumes, is what makes a theatrical (3) \\_\\_\\_\\_ magical. When the curtain goes up, this magic (4) \\_\\_\\_\\_ right before your eyes.\n\nThe director of a play will (5) \\_\\_\\_\\_ the work from his or her own artistic perspective. Each director has a different vision and this shapes how he or she directs the movement or (6) \\_\\_\\_\\_ between the characters. Directors use not only their theatrical training, but real-life experiences to create a meaningful, realistic evening. Actors also bring their own artistic and personal (7) \\_\\_\\_\\_ to their work. This is why every staging of a play is unique.\n\nPlays construct another world before your eyes. Ordinary words turn into meaningful (8) \\_\\_\\_\\_. Costumes and sets can be realistic or symbolic. Everything in a play looks easy, but it takes many weeks of (9) \\_\\_\\_\\_ to get everything in place.\n\nWatching a play from the (10) \\_\\_\\_\\_ is great fun. To find out if a play is good, look for (11) \\_\\_\\_\\_ in the newspapers or ask friends. When plays are really popular, the available seats can fill up quickly and the play will (12) \\_\\_\\_\\_.",
+    "word_families": "<table><tr><td>act</td><td>Roger&#x27;s dream is to act in a Broadway play.</td></tr><tr><td>action</td><td>There isn&#x27;t much action in the play, but it is captivating nonetheless.</td></tr><tr><td>actor</td><td>There are quite a few well-known actors in the cast.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>approach</td><td>The actress approached me with the idea for a new play.</td></tr><tr><td>approach</td><td>The informal approach to the play was unconventional.</td></tr><tr><td>approachable</td><td>Despite his great fame, the director was friendly and approachable.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>create</td><td>The playwright created a realistic town and townspeople with the scenery and dialogue.</td></tr><tr><td>creation</td><td>The creation of the elaborate costumes took months.</td></tr><tr><td>creative</td><td>The director is one of the most creative people I know.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>experience</td><td>The actor experienced great self-doubt before he became famous.</td></tr><tr><td>experience</td><td>Directors bring their experience of the world onto the stage.</td></tr><tr><td>experienced</td><td>The experienced make-up artist transformed Maxine into an old woman in a matter of minutes.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>perform</td><td>The popular actress was hired to perform Shakespeare on a world tour.</td></tr><tr><td>performance</td><td>I booked tickets for the performance the day they went on sale.</td></tr><tr><td>performer</td><td>The performers each had three costume changes.</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>rehearse</td><td>The cast had to rehearse the scene over and over again until the director was finally satisfied.</td></tr><tr><td>rehearsal</td><td>The actors spent several months in rehearsal before they performed the play.</td></tr><tr><td>rehearsed</td><td>Lydia&#x27;s acceptance speech for her award sounded more rehearsed than natural.</td></tr></table>",
+    "listening_practice": "# WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question–Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best answer.\n\n4. When did the review appear in the newspaper?\n(A) Today.\n(B) Yesterday.\n(C) Four weeks ago.\n(D) Five weeks ago.\n\n5. What does the woman say about the play?\n(A) She has heard that it is funny.\n(B) Tickets are still on sale.\n(C) It got a bad review.\n(D) The dialogue is hard to understand.\n\n6. What did the woman do last Friday?\n(A) She wrote a review.\n(B) She won a prize.\n(C) She saw a performance.\n(D) She bought tickets.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. When can a performance of Romeo and Juliet be seen?\n(A) Today.\n(B) On Thursday afternoon.\n(C) On Sunday morning.\n(D) On Thursday evening.\n\n8. How can you get tickets to the play?  \n(A) Call the Shakespeare Organization.  \n(B) Call 656-9025.  \n(C) Write to the theater.  \n(D) Order them by e-mail.\n\n9. Where can reviews of the play be read?  \n(A) In a newspaper.  \n(B) On a web site.  \n(C) In a magazine.  \n(D) At the theater.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. The director's creativity showed in everything from her \\_\\_\\_\\_ to the literary quality of the play to the costumes and sets.\n(A) approaching (C) approachable\n(B) approach (D) approachability\n\n11. Edward is a very talented \\_\\_\\_\\_ although he can't sing or dance well at all.\n(A) actor (C) action\n(B) acts (D) acting\n\n12. As your director, I call upon you to bring your life \\_\\_\\_\\_ into your role.\n(A) experienced (C) experiential\n(B) experiencing (D) experience\n\n13. I am not \\_\\_\\_\\_ enough to work in the theater, but I certainly enjoy attending it.\n(A) create (C) creative\n(B) creativeness (D) creativity\n\n14. I look forward to the annual \\_\\_\\_\\_ of The Nutcracker ballet.\n(A) performance (C) perform\n(B) performer (D) performable\n\n15. There isn't much time left to \\_\\_\\_\\_ before the play opens.\n(A) rehearsals (C) rehearsing\n(B) rehearse (D) rehearsed\n\n## Part 6 Text Completion\n\nTo: Jack Sprague  \nFrom: Sabrina Clark  \nSubject: Play\n\nHi Jack,\n\nI just saw that play that opened recently at the City Theater. You really ought to see it, too. I know you would enjoy the experience. The play combines \\_16\\_ from both comedy and drama, so it's funny, but it also has an important message. Some people say this play is boring because there isn't a lot of action, but I think the \\_17\\_ is very creative. The actors say some really funny lines. The whole performance is superb; you can tell that the actors rehearsed a long time before the play opened. You should call the theater today to get a ticket because they will probably sell \\_18\\_ soon. Let me know how you like the play.\n\nSabrina\n\n16. (A) elements  \n(B) elemental  \n(C) elementally  \n(D) elementary\n\n17. (A) analogue  \n(B) prologue  \n(C) dialogue  \n(D) catalogue\n\n18. (A) up  \n(B) out  \n(C) from  \n(D) down",
+    "reading_part7": "Part 7 Reading Comprehension Questions 19–23 refer to the following theater review.\n\nAudiences have waited a long time for the opening of the play Dusk to Dawn at the City Theater. Unfortunately, the long wait only adds to the disappointment of seeing a mediocre play. It is an uncomfortable experience from start to finish. The action is slow and the dialogue boring. The performance by most of the cast is awkward and, on the night I attended at least, many of the actors forgot their lines. They obviously did not rehearse enough before opening night. The plot is trite. Theatergoers had been told to expect a fresh approach to the age-old boy-meets-girl romance story. Instead, we get a story that is dull enough to drive one to tears. Although the play is relatively short—under two hours—the performance is so tedious it seems to drag on for three or four hours. The audience made an audible sigh of relief when the final curtain dropped. Rather than the predicted sold out performances, I expect that the play will close very shortly. Unfortunately, the producers invested a lot of money in this play, which they are not likely to get back. My advice to would-be theatergoers: spend the weekend at the movies instead.\n\n19. What is the reviewer's opinion of the play?  \n(A) It's very sad.  \n(B) It's boring.  \n(C) It's too short.  \n(D) It's romantic.\n\n20. How long is the play?\n(A) Less than two hours.\n(B) Exactly two hours.\n(C) Three hours.\n(D) Four hours.\n\n21. What does the reviewer predict about the play?\n(A) The performances will be sold out.\n(B) The producers will make a lot of money.\n(C) The play will be made into a movie.\n(D) The play will close in a short time.\n\n22. The word experience in line 5 is closest in meaning to  \n(A) act  \n(B) wait  \n(C) event  \n(D) seat\n\n23. The word rehearse in line 9 is closest in meaning to  \n(A) plan  \n(B) sleep  \n(C) memorize  \n(D) practice"
+  },
+  "needs_review": true
+}

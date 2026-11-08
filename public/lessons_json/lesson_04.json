@@ -1,0 +1,1656 @@
+{
+  "lesson_id": 4,
+  "title": "Business Planning",
+  "theme_name": "General Business",
+  "audio_track": "track_04.mp3",
+  "part1_photo": "part1_photos/lesson_04.jpg",
+  "words_to_learn": [
+    {
+      "id": 1,
+      "word": "address",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a formal speech; v., to direct to the attention of",
+      "definition_vi": "giải quyết, xử lý (vấn đề, nhu cầu) (v.); bài diễn văn trang trọng; địa chỉ (n.)",
+      "examples": [
+        {
+          "en": "The article praised her address to the steering committee.",
+          "vi": "Bài báo đã ca ngợi bài phát biểu của bà trước ban chỉ đạo."
+        },
+        {
+          "en": "Marco's business plan addresses the needs of small business owners.",
+          "vi": "Kế hoạch kinh doanh của Marco giải quyết đúng những nhu cầu của các chủ doanh nghiệp nhỏ."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "address an issue",
+        "address the needs of",
+        "deliver an address",
+        "keynote address"
+      ],
+      "usage": {
+        "structures": [
+          "address + a problem / concern / issue / need (giải quyết vấn đề/nhu cầu)",
+          "deliver / give an address to + sb (phát biểu trước ai)"
+        ],
+        "prepositions": [
+          "to"
+        ],
+        "collocations": [
+          "opening address",
+          "address customer complaints",
+          "return address",
+          "address the audience"
+        ],
+        "tip": "Trong TOEIC, ngoài nghĩa 'địa chỉ', 'address' rất hay là động từ mang nghĩa 'giải quyết' (= deal with/resolve) hoặc danh từ mang nghĩa 'bài phát biểu' (= speech)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "address",
+          "example": "The task force was formed to address the decline in employee morale.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "addressee",
+          "example": "If the addressee is no longer at this location, please return the letter to the sender.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "addressable",
+          "example": "Most of the software bugs reported by beta testers are easily addressable.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The CEO's keynote _____ at the annual shareholder meeting focused on sustainable growth.",
+        "answer": "address",
+        "base_word": "address",
+        "pos_hint": "danh từ số ít (bài diễn văn)",
+        "vi": "Bài phát biểu chính của vị giám đốc điều hành tại cuộc họp cổ đông thường niên tập trung vào sự tăng trưởng bền vững."
+      }
+    },
+    {
+      "id": 2,
+      "word": "avoid",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to stay clear of; to keep from happening",
+      "definition_vi": "tránh, ngăn ngừa không cho xảy ra",
+      "examples": [
+        {
+          "en": "To avoid going out of business, owners should prepare a proper business plan.",
+          "vi": "Để tránh bị phá sản, các chủ sở hữu nên chuẩn bị một bản kế hoạch kinh doanh bài bản."
+        },
+        {
+          "en": "Lloyd's errors in accounting could have been avoided by a business consultation with his banker.",
+          "vi": "Những sai sót trong kế toán của Lloyd lẽ ra đã có thể tránh được nhờ một buổi tư vấn kinh doanh với nhân viên ngân hàng của anh ấy."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "avoid",
+          "example": "It is best to avoid get-rich-quick schemes."
+        },
+        {
+          "pos": "noun",
+          "word": "avoidance",
+          "example": "Your avoidance of these issues will not make them go away."
+        },
+        {
+          "pos": "adjective",
+          "word": "avoided",
+          "example": "The avoided question became more important over time."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "avoid making mistakes",
+        "avoid delays",
+        "tax avoidance",
+        "avoidable error"
+      ],
+      "usage": {
+        "structures": [
+          "avoid + N / V-ing (tránh làm gì - KHÔNG đi với to V)"
+        ],
+        "prepositions": [
+          "by",
+          "from"
+        ],
+        "collocations": [
+          "avoid conflict",
+          "avoid traffic congestion",
+          "strictly avoid",
+          "unavoidable delay"
+        ],
+        "tip": "Giống như 'consider', sau động từ 'avoid' nếu là động từ thì bắt buộc phải chia ở dạng danh động từ V-ing (avoid going, avoid paying)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "avoidable",
+          "example": "Many workplace injuries are completely avoidable if safety rules are followed.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "avoidably",
+          "example": "Several shipments were avoidably delayed due to incomplete customs forms.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Your _____ of these financial issues will only make the situation worse in the long run.",
+        "answer": "avoidance",
+        "base_word": "avoid",
+        "pos_hint": "danh từ",
+        "vi": "Việc bạn né tránh những vấn đề tài chính này sẽ chỉ làm cho tình hình trở nên tồi tệ hơn về lâu dài."
+      }
+    },
+    {
+      "id": 3,
+      "word": "demonstrate",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to show clearly and deliberately; to present by example",
+      "definition_vi": "chứng minh, thể hiện rõ; trình diễn, hướng dẫn thực hành (cách dùng sản phẩm)",
+      "examples": [
+        {
+          "en": "Alban's business plan demonstrated that he had put a lot of thought into making his dream a reality.",
+          "vi": "Kế hoạch kinh doanh của Alban đã chứng minh rằng anh ấy đã suy tính rất nhiều để biến ước mơ của mình thành hiện thực."
+        },
+        {
+          "en": "The professor demonstrated through a case study that a business plan can impress a lender.",
+          "vi": "Vị giáo sư đã chứng minh thông qua một nghiên cứu tình huống rằng một kế hoạch kinh doanh có thể gây ấn tượng với bên cho vay."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "demonstrate",
+          "example": "Let me demonstrate how this computer program works."
+        },
+        {
+          "pos": "noun",
+          "word": "demonstration",
+          "example": "After the lecture, there was a demonstration of new marketing techniques."
+        },
+        {
+          "pos": "adjective",
+          "word": "demonstrative",
+          "example": "The densely encoded programming was demonstrative of the computer language of the era."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "demonstrate how to",
+        "product demonstration",
+        "clearly demonstrate",
+        "demonstrate leadership"
+      ],
+      "usage": {
+        "structures": [
+          "demonstrate + N / that + mệnh đề / how to V",
+          "give / hold a demonstration of + N"
+        ],
+        "prepositions": [
+          "to",
+          "by",
+          "through"
+        ],
+        "collocations": [
+          "live demonstration",
+          "demonstrate commitment",
+          "demonstrate proficiency",
+          "cooking demonstration"
+        ],
+        "tip": "Danh từ 'demonstration' (buổi giới thiệu/trình diễn sản phẩm trực tiếp) rất hay xuất hiện trong các thông báo triển lãm thương mại (trade show)."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "demonstratively",
+          "example": "The audience applauded demonstratively at the end of the product launch.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Visitors to booth 14 can watch a live _____ of our latest robotic vacuum cleaner.",
+        "answer": "demonstration",
+        "base_word": "demonstrate",
+        "pos_hint": "danh từ số ít",
+        "vi": "Khách tham quan tại gian hàng số 14 có thể xem một màn trình diễn trực tiếp mẫu robot hút bụi mới nhất của chúng tôi."
+      }
+    },
+    {
+      "id": 4,
+      "word": "develop",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to expand, progress, or improve",
+      "definition_vi": "phát triển, mở rộng, xây dựng (ý tưởng, sản phẩm, kế hoạch)",
+      "examples": [
+        {
+          "en": "Lily developed her ideas into a business plan by taking a class at the community college.",
+          "vi": "Lily đã phát triển các ý tưởng của mình thành một bản kế hoạch kinh doanh bằng cách tham gia một lớp học tại trường cao đẳng cộng đồng."
+        },
+        {
+          "en": "The restaurant Wanda opened ten years ago has developed into a national chain.",
+          "vi": "Nhà hàng mà Wanda mở mười năm trước đã phát triển thành một chuỗi cửa hàng trên toàn quốc."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "verb",
+          "word": "develop",
+          "example": "Our assignment is to develop a cogent business plan."
+        },
+        {
+          "pos": "",
+          "word": "development",
+          "example": "The plan was under development and would not be ready for months."
+        },
+        {
+          "pos": "noun",
+          "word": "developer",
+          "example": "The job developer was kept busy trying to place the recent college graduates."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "develop a plan",
+        "research and development",
+        "software developer",
+        "develop into"
+      ],
+      "usage": {
+        "structures": [
+          "develop (A) into B (phát triển thành cái gì)",
+          "be under development (đang trong quá trình phát triển)"
+        ],
+        "prepositions": [
+          "into",
+          "from",
+          "under"
+        ],
+        "collocations": [
+          "career development",
+          "real estate developer",
+          "developing countries",
+          "recent developments"
+        ],
+        "tip": "Cụm giới từ 'under development' (đang được phát triển/xây dựng) là cụm cố định rất hay được hỏi trong Part 5."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "developed",
+          "example": "Our newly developed battery lasts twice as long as previous models.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The pharmaceutical company currently has three promising new vaccines under _____.",
+        "answer": "development",
+        "base_word": "develop",
+        "pos_hint": "danh từ",
+        "vi": "Công ty dược phẩm hiện đang có ba loại vắc-xin mới đầy triển vọng nằm trong quá trình phát triển."
+      }
+    },
+    {
+      "id": 5,
+      "word": "evaluate",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to determine the value or impact of",
+      "definition_vi": "đánh giá, định giá, thẩm định",
+      "examples": [
+        {
+          "en": "It's important to evaluate your competition when making a business plan.",
+          "vi": "Điều quan trọng là phải đánh giá các đối thủ cạnh tranh của bạn khi lập một kế hoạch kinh doanh."
+        },
+        {
+          "en": "The lenders evaluated our creditability and decided to loan us money.",
+          "vi": "Các bên cho vay đã thẩm định mức độ uy tín tín dụng của chúng tôi và quyết định cho chúng tôi vay tiền."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "evaluate",
+          "example": "Please review these articles and evaluate their usefulness for our plan."
+        },
+        {
+          "pos": "",
+          "word": "evaluation",
+          "example": "Yoko feared the professor&#x27;s evaluation of her business plan."
+        },
+        {
+          "pos": "",
+          "word": "evaluator",
+          "example": "The independent evaluator reviewed our business plan and gave us.good feedback."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "evaluate performance",
+        "annual evaluation",
+        "evaluate the impact",
+        "carefully evaluate"
+      ],
+      "usage": {
+        "structures": [
+          "evaluate + N / wh-clause",
+          "conduct / perform an evaluation of + N"
+        ],
+        "prepositions": [
+          "by",
+          "on",
+          "of"
+        ],
+        "collocations": [
+          "performance evaluation",
+          "independent evaluator",
+          "risk evaluation",
+          "thorough evaluation"
+        ],
+        "tip": "Cụm danh từ ghép 'performance evaluation' (đánh giá năng lực làm việc của nhân viên) xuất hiện cực kỳ phổ biến trong chủ đề Nhân sự (Personnel)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "evaluative",
+          "example": "The consultant used several evaluative criteria to rank the suppliers.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Every employee receives a formal performance _____ at the end of the fiscal year.",
+        "answer": "evaluation",
+        "base_word": "evaluate",
+        "pos_hint": "danh từ số ít",
+        "vi": "Mỗi nhân viên đều nhận được một bản đánh giá năng lực làm việc chính thức vào cuối năm tài chính."
+      }
+    },
+    {
+      "id": 6,
+      "word": "gather",
+      "pos": "v.",
+      "ipa": "",
+      "definition_en": "to accumulate; to conclude",
+      "definition_vi": "thu thập, tập hợp (thông tin, dữ liệu, con người); suy ra, hiểu rằng",
+      "examples": [
+        {
+          "en": "We gathered information for our plan from many sources.",
+          "vi": "Chúng tôi đã thu thập thông tin cho kế hoạch của mình từ nhiều nguồn khác nhau."
+        },
+        {
+          "en": "I gather that interest rates for small businesses will soon change.",
+          "vi": "Tôi suy đoán rằng lãi suất dành cho các doanh nghiệp nhỏ sẽ sớm thay đổi."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "gather information",
+        "gather data",
+        "gather together",
+        "social gathering"
+      ],
+      "usage": {
+        "structures": [
+          "gather + N (information / data / evidence) (from + N)",
+          "gather + (that) + mệnh đề (suy ra/hiểu rằng)"
+        ],
+        "prepositions": [
+          "from",
+          "around",
+          "in"
+        ],
+        "collocations": [
+          "gather feedback",
+          "gather support",
+          "informal gathering",
+          "gather momentum"
+        ],
+        "tip": "Danh từ 'gathering' không mang nghĩa 'sự thu thập' mà thường chỉ một 'buổi tụ họp/cuộc gặp gỡ đông người' (a social/family gathering)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "gather",
+          "example": "Researchers gathered survey responses from over two thousand commuters.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "gathering",
+          "example": "The resort is an ideal venue for corporate retreats and large gatherings.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "gathered",
+          "example": "The CEO thanked the gathered journalists for attending the press conference.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The botanical garden's glass pavilion can be rented for weddings and corporate _____.",
+        "answer": "gatherings",
+        "base_word": "gather",
+        "pos_hint": "danh từ số nhiều",
+        "vi": "Nhà vòm bằng kính của vườn bách thảo có thể được thuê để tổ chức đám cưới và các buổi tụ họp doanh nghiệp."
+      }
+    },
+    {
+      "id": 7,
+      "word": "offer",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a proposal; v., to propose; to present in order to meet a need or satisfy a requirement",
+      "definition_vi": "lời đề nghị, ưu đãi (n.); đề nghị, cung cấp, đưa ra (v.)",
+      "examples": [
+        {
+          "en": "Devon accepted our offer to write the business plan.",
+          "vi": "Devon đã chấp nhận lời đề nghị viết bản kế hoạch kinh doanh của chúng tôi."
+        },
+        {
+          "en": "Jackie must offer her banker new statistics in order to encourage the bank to lend her money toward her start-up business.",
+          "vi": "Jackie phải cung cấp cho nhân viên ngân hàng những số liệu thống kê mới để khuyến khích ngân hàng cho cô vay tiền khởi nghiệp."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "job offer",
+        "special offer",
+        "make an offer",
+        "offer a discount"
+      ],
+      "usage": {
+        "structures": [
+          "offer + to V (đề nghị/tự nguyện làm gì)",
+          "offer + sb + sth / offer + sth + to sb",
+          "accept / decline / make an offer"
+        ],
+        "prepositions": [
+          "to",
+          "for",
+          "on"
+        ],
+        "collocations": [
+          "promotional offer",
+          "limited-time offer",
+          "generous offer",
+          "course offerings"
+        ],
+        "tip": "Danh từ phái sinh 'offering(s)' thường dùng ở số nhiều để chỉ 'các sản phẩm/dịch vụ/khóa học được cung cấp' (product/course offerings)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "offer",
+          "example": "The store offers free home delivery on orders over a hundred dollars.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "offering",
+          "example": "The university has expanded its online course offerings this semester.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "To remain competitive, the bakery is adding several gluten-free pastries to its daily _____.",
+        "answer": "offerings",
+        "base_word": "offer",
+        "pos_hint": "danh từ số nhiều (các mặt hàng được cung cấp)",
+        "vi": "Để duy trì sức cạnh tranh, tiệm bánh đang bổ sung một số loại bánh ngọt không chứa gluten vào danh mục sản phẩm hàng ngày của mình."
+      }
+    },
+    {
+      "id": 8,
+      "word": "primarily",
+      "pos": "adv.",
+      "ipa": "",
+      "definition_en": "first; most importantly",
+      "definition_vi": "chủ yếu, trước hết, quan trọng nhất",
+      "examples": [
+        {
+          "en": "We are primarily concerned with convincing the board of directors to apply for the second loan.",
+          "vi": "Mối quan tâm hàng đầu của chúng tôi là thuyết phục hội đồng quản trị nộp đơn xin khoản vay thứ hai."
+        },
+        {
+          "en": "The developers are thinking primarily of how to enter the South American market.",
+          "vi": "Các nhà phát triển đang suy nghĩ chủ yếu về cách thức thâm nhập thị trường Nam Mỹ."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "primarily responsible for",
+        "consist primarily of",
+        "primarily concerned with",
+        "aimed primarily at"
+      ],
+      "usage": {
+        "structures": [
+          "be + primarily + V3/ed / Adj + Prep (designed for / aimed at / responsible for)",
+          "primarily + giới từ (primarily because of / primarily for)"
+        ],
+        "prepositions": [
+          "for",
+          "with",
+          "of",
+          "at"
+        ],
+        "collocations": [
+          "primarily intended for",
+          "focus primarily on",
+          "primary objective",
+          "primary reason"
+        ],
+        "tip": "Trạng từ 'primarily' (= mainly / chiefly) rất hay đứng giữa động từ to be và phân từ quá khứ hoặc trước một cụm giới từ để nhấn mạnh."
+      },
+      "extra_families": [
+        {
+          "pos": "noun",
+          "word": "primacy",
+          "example": "The company's success is built on the primacy of customer satisfaction.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "primary",
+          "example": "Our primary goal this quarter is to reduce manufacturing defects.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "primarily",
+          "example": "The seminar is designed primarily for newly appointed team leaders.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The _____ reason for relocating our warehouse is to be closer to the main highway.",
+        "answer": "primary",
+        "base_word": "primarily",
+        "pos_hint": "tính từ",
+        "vi": "Lý do chính của việc di dời nhà kho của chúng tôi là để ở gần đường cao tốc chính hơn."
+      }
+    },
+    {
+      "id": 9,
+      "word": "risk",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "the chance of loss or damage",
+      "definition_vi": "rủi ro, nguy cơ tổn thất (n.); liều lĩnh, mạo hiểm (v.)",
+      "examples": [
+        {
+          "en": "The primary risk for most start-up businesses is insufficient capital.",
+          "vi": "Rủi ro hàng đầu đối với hầu hết các doanh nghiệp mới khởi nghiệp là thiếu vốn."
+        },
+        {
+          "en": "Expanding into a new market is a big risk.",
+          "vi": "Việc mở rộng sang một thị trường mới là một sự mạo hiểm lớn."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "take a risk",
+        "at risk of",
+        "minimize risk",
+        "financial risk"
+      ],
+      "usage": {
+        "structures": [
+          "risk + V-ing (mạo hiểm làm gì - KHÔNG đi với to V)",
+          "at the risk of + N/V-ing (với nguy cơ...)"
+        ],
+        "prepositions": [
+          "of",
+          "at",
+          "to"
+        ],
+        "collocations": [
+          "risk management",
+          "high-risk investment",
+          "pose a risk to",
+          "run the risk of"
+        ],
+        "tip": "Khi là động từ, sau 'risk' bắt buộc dùng V-ing (risk losing money: có nguy cơ mất tiền)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "risk",
+          "example": "Companies that ignore market research risk losing their competitive edge.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "risk",
+          "example": "Diversifying your portfolio helps reduce overall investment risk.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "risky",
+          "example": "Launching an untested product nationwide is a very risky strategy.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "riskily",
+          "example": "The hedge fund invested too riskily in volatile tech startups.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Analysts warned that investing all of the firm's capital in a single venture would be too _____.",
+        "answer": "risky",
+        "base_word": "risk",
+        "pos_hint": "tính từ",
+        "vi": "Các nhà phân tích đã cảnh báo rằng việc đầu tư toàn bộ vốn của công ty vào một dự án duy nhất sẽ là quá mạo hiểm."
+      }
+    },
+    {
+      "id": 10,
+      "word": "strategy",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "a plan of action",
+      "definition_vi": "chiến lược, kế hoạch hành động",
+      "examples": [
+        {
+          "en": "A business plan is a strategy for running a business and avoiding problems.",
+          "vi": "Một bản kế hoạch kinh doanh là một chiến lược để điều hành doanh nghiệp và tránh các rắc rối."
+        },
+        {
+          "en": "Let's develop a strategy for promoting our ice cream parlor.",
+          "vi": "Chúng ta hãy xây dựng một chiến lược để quảng bá cho tiệm kem của mình."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "",
+          "word": "strategize",
+          "example": "Instead of going into a panic, let&#x27;s strategize the best way to meet the deadline."
+        },
+        {
+          "pos": "",
+          "word": "strategy",
+          "example": "The business plan lays out a strategy for future growth."
+        },
+        {
+          "pos": "adjective",
+          "word": "strategic",
+          "example": "The handout outlined the strategic points to cover in a business plan."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "marketing strategy",
+        "develop a strategy",
+        "long-term strategy",
+        "strategic alliance"
+      ],
+      "usage": {
+        "structures": [
+          "strategy for + V-ing / N",
+          "strategy + to V"
+        ],
+        "prepositions": [
+          "for",
+          "to"
+        ],
+        "collocations": [
+          "business strategy",
+          "pricing strategy",
+          "strategic planning",
+          "implement a strategy"
+        ],
+        "tip": "Tính từ 'strategic' rất hay đứng trước các danh từ như 'plan, partnership, alliance, location, decision'."
+      },
+      "extra_families": [
+        {
+          "pos": "adverb",
+          "word": "strategically",
+          "example": "Our new distribution center is strategically located near the international airport.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "The hotel is _____ located within walking distance of the city's main convention center.",
+        "answer": "strategically",
+        "base_word": "strategy",
+        "pos_hint": "trạng từ",
+        "vi": "Khách sạn nằm ở một vị trí mang tính chiến lược, chỉ cách trung tâm hội nghị chính của thành phố vài bước chân."
+      }
+    },
+    {
+      "id": 11,
+      "word": "strong",
+      "pos": "adj.",
+      "ipa": "",
+      "definition_en": "powerful; economically or financially sound",
+      "definition_vi": "mạnh mẽ, thuyết phục; vững mạnh (về kinh tế, tài chính)",
+      "examples": [
+        {
+          "en": "The professor made a strong argument for the value of a good business plan.",
+          "vi": "Vị giáo sư đã đưa ra một lập luận đanh thép về giá trị của một bản kế hoạch kinh doanh tốt."
+        },
+        {
+          "en": "Even in a strong economic climate many businesses fail, so do your planning carefully.",
+          "vi": "Ngay cả trong một môi trường kinh tế vững mạnh thì nhiều doanh nghiệp vẫn thất bại, vì vậy hãy lập kế hoạch thật cẩn thận."
+        }
+      ],
+      "word_family": [],
+      "needs_translation": false,
+      "collocations": [
+        "strong economy",
+        "strong argument",
+        "strong demand",
+        "strengthen ties"
+      ],
+      "usage": {
+        "structures": [
+          "strong + N (support / demand / growth / performance)",
+          "strengthen + N (củng cố, tăng cường cái gì)"
+        ],
+        "prepositions": [
+          "in",
+          "on"
+        ],
+        "collocations": [
+          "strong commitment",
+          "strong candidate",
+          "financial strength",
+          "strongly recommend"
+        ],
+        "tip": "Chú ý họ từ bất quy tắc của 'strong (adj)': danh từ là 'strength' (sức mạnh/điểm mạnh) và động từ là 'strengthen' (củng cố/tăng cường)."
+      },
+      "extra_families": [
+        {
+          "pos": "verb",
+          "word": "strengthen",
+          "example": "The trade agreement is expected to strengthen economic ties between the two nations.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "noun",
+          "word": "strength",
+          "example": "One of the candidate's greatest strengths is her fluency in three languages.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adjective",
+          "word": "strong",
+          "example": "Strong consumer demand drove fourth-quarter profits to a record high.",
+          "pos_source": "extended"
+        },
+        {
+          "pos": "adverb",
+          "word": "strongly",
+          "example": "We strongly advise passengers to arrive at the airport two hours early.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "Acquiring the local software firm will significantly _____ our position in the Asian market.",
+        "answer": "strengthen",
+        "base_word": "strong",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Việc mua lại công ty phần mềm địa phương sẽ củng cố đáng kể vị thế của chúng ta tại thị trường châu Á."
+      }
+    },
+    {
+      "id": 12,
+      "word": "substitution",
+      "pos": "n.",
+      "ipa": "",
+      "definition_en": "replacement",
+      "definition_vi": "sự thay thế, sự đổi chỗ",
+      "examples": [
+        {
+          "en": "Your substitution of fake names for real ones makes the document seem insincere.",
+          "vi": "Việc bạn thay thế tên giả cho tên thật khiến tài liệu có vẻ thiếu chân thực."
+        },
+        {
+          "en": "There is no substitution for hard work and perseverance.",
+          "vi": "Không có gì có thể thay thế được cho sự làm việc chăm chỉ và lòng kiên trì."
+        }
+      ],
+      "word_family": [
+        {
+          "pos": "noun",
+          "word": "substitution",
+          "example": "The substitution of gasses is not so easy in this experiment."
+        },
+        {
+          "pos": "",
+          "word": "substitute",
+          "example": "Don&#x27;t try to substitute intuition for good planning."
+        },
+        {
+          "pos": "adjective",
+          "word": "substituted",
+          "example": "Customers complain whenever the substituted product is of lesser value, even though we don&#x27;t charge them for it."
+        }
+      ],
+      "needs_translation": false,
+      "collocations": [
+        "substitution of A for B",
+        "no substitution for",
+        "substitute for",
+        "make a substitution"
+      ],
+      "usage": {
+        "structures": [
+          "substitute A for B (dùng A để thay thế cho B)",
+          "substitute for + B (thay thế cho B)"
+        ],
+        "prepositions": [
+          "for",
+          "of"
+        ],
+        "collocations": [
+          "ingredient substitution",
+          "find a substitute",
+          "substitute teacher",
+          "without substitution"
+        ],
+        "tip": "Giới từ đi kèm với cả danh từ và động từ 'substitute / substitution' luôn là 'for' (substitute A for B = dùng A thay cho B)."
+      },
+      "extra_families": [
+        {
+          "pos": "adjective",
+          "word": "substitutable",
+          "example": "In this recipe, maple syrup is easily substitutable for honey.",
+          "pos_source": "extended"
+        }
+      ],
+      "srs_sentence": {
+        "en": "If the requested item is out of stock, we will _____ a product of equal or greater value.",
+        "answer": "substitute",
+        "base_word": "substitution",
+        "pos_hint": "động từ nguyên mẫu",
+        "vi": "Nếu mặt hàng được yêu cầu đã hết trong kho, chúng tôi sẽ thay thế bằng một sản phẩm có giá trị tương đương hoặc lớn hơn."
+      }
+    }
+  ],
+  "words_in_context": {
+    "passage": "Read the following passage and write the words in the blanks below. Every business must (1) ____ a business plan. The business plan's (2) ____ purpose is to improve the entrepreneur's control over the business and to help him (3) ____ common mistakes. It is not an overstatement to say that a business will fail or succeed on the (4) ____ of its business plan, so there is no (5) ____ for a well-prepared plan. The business plan documents the (6) ____ for growing the business. Think of the business plan as a road map that describes in which direction the company is going, what its goals are, and how it is going to get there. In developing the plan, the entrepreneur will conduct research to determine a systematic and realistic (7) ____ of the company's chances for success in the marketplace. In creating the plan, the entrepreneur must research the company's target market and define its potential. The entrepreneur must be able to prove through research that customers in the market need the good or service that is (8) ____ and that a sufficient number of potential customers exists to support the business. A business plan also looks at the (9) ____ the business faces. Chief among these is competitors. The business plan must analyze the company's competition by (10) ____ information on competitors' market share, products, and strategies. The plan should (11) ____ what distinguishes the entrepreneur's products or services from others already in the market. It is also common for businesses to fail because the owner fails to invest or seek sufficient capital to run the business. A good business plan should (12) ____ this issue as well.",
+    "word_bank": [
+      "address",
+      "develop",
+      "offered",
+      "strategy",
+      "avoid",
+      "evaluation",
+      "primary",
+      "strength",
+      "demonstrate",
+      "gathering",
+      "risks",
+      "substitute"
+    ],
+    "blanks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "questions": [],
+    "bank_certain": true
+  },
+  "word_families": [
+    [
+      {
+        "word": "avoid",
+        "example": "It is best to avoid get-rich-quick schemes.",
+        "pos": ""
+      },
+      {
+        "word": "avoidance",
+        "example": "Your avoidance of these issues will not make them go away.",
+        "pos": "noun"
+      },
+      {
+        "word": "avoided",
+        "example": "The avoided question became more important over time.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "demonstrate",
+        "example": "Let me demonstrate how this computer program works.",
+        "pos": ""
+      },
+      {
+        "word": "demonstration",
+        "example": "After the lecture, there was a demonstration of new marketing techniques.",
+        "pos": "noun"
+      },
+      {
+        "word": "demonstrative",
+        "example": "The densely encoded programming was demonstrative of the computer language of the era.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "develop",
+        "example": "Our assignment is to develop a cogent business plan.",
+        "pos": "verb"
+      },
+      {
+        "word": "development",
+        "example": "The plan was under development and would not be ready for months.",
+        "pos": ""
+      },
+      {
+        "word": "developer",
+        "example": "The job developer was kept busy trying to place the recent college graduates.",
+        "pos": "noun"
+      }
+    ],
+    [
+      {
+        "word": "evaluate",
+        "example": "Please review these articles and evaluate their usefulness for our plan.",
+        "pos": ""
+      },
+      {
+        "word": "evaluation",
+        "example": "Yoko feared the professor&#x27;s evaluation of her business plan.",
+        "pos": ""
+      },
+      {
+        "word": "evaluator",
+        "example": "The independent evaluator reviewed our business plan and gave us.good feedback.",
+        "pos": ""
+      }
+    ],
+    [
+      {
+        "word": "strategize",
+        "example": "Instead of going into a panic, let&#x27;s strategize the best way to meet the deadline.",
+        "pos": ""
+      },
+      {
+        "word": "strategy",
+        "example": "The business plan lays out a strategy for future growth.",
+        "pos": ""
+      },
+      {
+        "word": "strategic",
+        "example": "The handout outlined the strategic points to cover in a business plan.",
+        "pos": "adjective"
+      }
+    ],
+    [
+      {
+        "word": "substitution",
+        "example": "The substitution of gasses is not so easy in this experiment.",
+        "pos": "noun"
+      },
+      {
+        "word": "substitute",
+        "example": "Don&#x27;t try to substitute intuition for good planning.",
+        "pos": ""
+      },
+      {
+        "word": "substituted",
+        "example": "Customers complain whenever the substituted product is of lesser value, even though we don&#x27;t charge them for it.",
+        "pos": "adjective"
+      }
+    ]
+  ],
+  "practice": {
+    "part5": [
+      {
+        "number": 10,
+        "question": "You cannot ____ learning how to use the new software as it will be needed in daily operations from now on.",
+        "options": [
+          {
+            "label": "A",
+            "text": "avoid"
+          },
+          {
+            "label": "B",
+            "text": "avoided"
+          },
+          {
+            "label": "C",
+            "text": "avoiding"
+          },
+          {
+            "label": "D",
+            "text": "avoidance"
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "question": "I don't want to intrude, but would you like me to ____ how to use that machine?",
+        "options": [
+          {
+            "label": "A",
+            "text": "demonstrate"
+          },
+          {
+            "label": "B",
+            "text": "demonstration"
+          },
+          {
+            "label": "C",
+            "text": "demonstrative"
+          },
+          {
+            "label": "D",
+            "text": "demonstrator"
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "question": "While you are ____ your business plan, it is a good idea to keep a resource library of valuable materials.",
+        "options": [
+          {
+            "label": "A",
+            "text": "develop"
+          },
+          {
+            "label": "B",
+            "text": "development"
+          },
+          {
+            "label": "C",
+            "text": "developing"
+          },
+          {
+            "label": "D",
+            "text": "developer"
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "question": "After you turn in your business plan, you will receive a written ____ of your work within two weeks.",
+        "options": [
+          {
+            "label": "A",
+            "text": "evaluator"
+          },
+          {
+            "label": "B",
+            "text": "evaluative"
+          },
+          {
+            "label": "C",
+            "text": "evaluate"
+          },
+          {
+            "label": "D",
+            "text": "evaluation"
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "question": "If we think ____, we can come up with a plan that promises success.",
+        "options": [
+          {
+            "label": "A",
+            "text": "strategize"
+          },
+          {
+            "label": "B",
+            "text": "strategic"
+          },
+          {
+            "label": "C",
+            "text": "strategically"
+          },
+          {
+            "label": "D",
+            "text": "strategist"
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "question": "It is now legal to ____ a generic brand drug for a prescription medicine if you have the patient's consent.",
+        "options": [
+          {
+            "label": "A",
+            "text": "substitute"
+          },
+          {
+            "label": "B",
+            "text": "substituted"
+          },
+          {
+            "label": "C",
+            "text": "substituting"
+          },
+          {
+            "label": "D",
+            "text": "substitution"
+          }
+        ]
+      }
+    ],
+    "part6": {
+      "passage": "Memo To: Stephen Saunders, President From: Willa Richardson, Marketing Department Re: Changes in market In order to address the changes that are currently taking place in the market, I believe we need to modify our business plan. I [16] data for the past several months. The information clearly shows that younger and younger people are becoming interested in purchasing products such as ours. We need to develop a [17] to reach this younger age group. We need to redirect some of our resources toward this goal. I think that if we make this a priority over the next year, we will have a much [18] position against our competitors. If we don't, we risk losing the market share that we already have. I would like to share the results of my research with you. It demonstrates the need to focus our energy toward this younger age group. Please let me know if we can meet this week to discuss it.",
+      "questions": [
+        {
+          "number": 16,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "gather"
+            },
+            {
+              "label": "B",
+              "text": "am gathering"
+            },
+            {
+              "label": "C",
+              "text": "had gathered"
+            },
+            {
+              "label": "D",
+              "text": "have been gathering"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "strategy"
+            },
+            {
+              "label": "B",
+              "text": "strategize"
+            },
+            {
+              "label": "C",
+              "text": "strategic"
+            },
+            {
+              "label": "D",
+              "text": "strategically"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "question": "",
+          "options": [
+            {
+              "label": "A",
+              "text": "strong"
+            },
+            {
+              "label": "B",
+              "text": "more strong"
+            },
+            {
+              "label": "C",
+              "text": "stronger"
+            },
+            {
+              "label": "D",
+              "text": "strongest"
+            }
+          ]
+        }
+      ]
+    },
+    "part7": [
+      {
+        "type": "reading",
+        "text": "Questions 19–23 refer to the following article. When developing a plan for a new business, the entrepreneur quite naturally wants to eliminate all risk. While it is impossible to avoid some risk, the goal is to minimize it as much as possible. How can we do this? Thorough research and careful planning are the keys. There are two parts to good research. First, you must demonstrate that there is a need for the product or service you plan to offer. Are there enough people out there who would be willing to pay for it? Second, you must look at your competition. What do you have to offer that your competitors do not? Is your product or service of better quality in some way? Is it cheaper or more easily available? Is there a niche in the market that your competitors are not addressing? If what you have to offer is identical to what your competitors are offering, your business is not likely to be successful. These are some things to consider when evaluating how well you can measure up against the competition. Once you have evaluated a need for your product or service and determined how yours will be different from your competitors', you are ready to begin the next part of your plan—financing.",
+        "questions": [
+          {
+            "number": 19,
+            "question": "What is this article mostly about?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Financing new businesses."
+              },
+              {
+                "label": "B",
+                "text": "How to price products."
+              },
+              {
+                "label": "C",
+                "text": "The need for research."
+              },
+              {
+                "label": "D",
+                "text": "The best marketing strategies."
+              }
+            ]
+          },
+          {
+            "number": 20,
+            "question": "What does the author say about risk?",
+            "options": [
+              {
+                "label": "A",
+                "text": "We should try to reduce it."
+              },
+              {
+                "label": "B",
+                "text": "We must avoid it."
+              },
+              {
+                "label": "C",
+                "text": "We can eliminate it with careful planning."
+              },
+              {
+                "label": "D",
+                "text": "It is the key to success."
+              }
+            ]
+          },
+          {
+            "number": 21,
+            "question": "According to the article, what can lead to the failure of a new business?",
+            "options": [
+              {
+                "label": "A",
+                "text": "Offering a cheaper product."
+              },
+              {
+                "label": "B",
+                "text": "Selling the exact same product as the competitors sell."
+              },
+              {
+                "label": "C",
+                "text": "Selling only to a niche in the market."
+              },
+              {
+                "label": "D",
+                "text": "Offering only services and not products."
+              }
+            ]
+          },
+          {
+            "number": 22,
+            "question": "The word addressing in line 15 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "focusing on"
+              },
+              {
+                "label": "B",
+                "text": "calling on"
+              },
+              {
+                "label": "C",
+                "text": "giving up"
+              },
+              {
+                "label": "D",
+                "text": "staying away from"
+              }
+            ]
+          },
+          {
+            "number": 23,
+            "question": "The word demonstrate in line 7 is closest in meaning to",
+            "options": [
+              {
+                "label": "A",
+                "text": "felt"
+              },
+              {
+                "label": "B",
+                "text": "created"
+              },
+              {
+                "label": "C",
+                "text": "removed"
+              },
+              {
+                "label": "D",
+                "text": "shown"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "listening": {
+    "questions": [
+      {
+        "number": 4,
+        "question": "How do the speakers feel about Alexa's business plan?",
+        "options": [
+          {
+            "label": "A",
+            "text": "She has gathered too much data."
+          },
+          {
+            "label": "B",
+            "text": "She has taken on too much risk."
+          },
+          {
+            "label": "C",
+            "text": "She has made many obvious mistakes."
+          },
+          {
+            "label": "D",
+            "text": "She is serious-minded and cautious."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "According to the man, what is the most important strategy for success?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Investing in a good sound system."
+          },
+          {
+            "label": "B",
+            "text": "Having a good business plan."
+          },
+          {
+            "label": "C",
+            "text": "Eliminating all risk."
+          },
+          {
+            "label": "D",
+            "text": "Studying the market."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How will the man help Alexa?",
+        "options": [
+          {
+            "label": "A",
+            "text": "By doing market research."
+          },
+          {
+            "label": "B",
+            "text": "By searching for an office."
+          },
+          {
+            "label": "C",
+            "text": "By pointing out her mistakes."
+          },
+          {
+            "label": "D",
+            "text": "By nominating her for an award."
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "question": "What is the topic of the talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Long-term growth plans."
+          },
+          {
+            "label": "B",
+            "text": "An offer for a leveraged buyout."
+          },
+          {
+            "label": "C",
+            "text": "How to minimize risk."
+          },
+          {
+            "label": "D",
+            "text": "Where to borrow funds."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "How will the company fund its growth?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Bank loans."
+          },
+          {
+            "label": "B",
+            "text": "Profits."
+          },
+          {
+            "label": "C",
+            "text": "Sale of stocks."
+          },
+          {
+            "label": "D",
+            "text": "Owner investment."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "When will the evaluation begin?",
+        "options": [
+          {
+            "label": "A",
+            "text": "At the end of this year."
+          },
+          {
+            "label": "B",
+            "text": "At the beginning of next year."
+          },
+          {
+            "label": "C",
+            "text": "In two years."
+          },
+          {
+            "label": "D",
+            "text": "In a few years."
+          }
+        ]
+      }
+    ],
+    "instructions": "Look at the picture and listen to the sentences. Choose the sentence that best describes the picture. Listen to the question and the three responses. Choose the response that best answers the question. Listen to the dialogue. Then read each question and choose the best response. 4. How do the speakers feel about Alexa's business plan? (A) She has gathered too much data. (B) She has taken on too much risk. (C) She has made many obvious mistakes. (D) She is serious-minded and cautious. 6. According to the man, what is the most important strategy for success? (A) Investing in a good sound system. (B) Having a good business plan. (C) Eliminating all risk. (D) Studying the market. 5. How will the man help Alexa? (A) By doing market research. (B) By searching for an office. (C) By pointing out her mistakes. (D) By nominating her for an award. Listen to the talk. Then read each question and choose the best answer. 7. What is the topic of the talk? (A) Long-term growth plans. (B) An offer for a leveraged buyout. (C) How to minimize risk. (D) Where to borrow funds. 8. How will the company fund its growth? (A) Bank loans. (B) Profits. (C) Sale of stocks. (D) Owner investment. 9. When will the evaluation begin? (A) At the end of this year. (B) At the beginning of next year. (C) In two years. (D) In a few years.",
+    "tapescript": "",
+    "parts": [
+      {
+        "part": 1,
+        "title": "Photo"
+      },
+      {
+        "part": 2,
+        "title": "Question-Response"
+      },
+      {
+        "part": 3,
+        "title": "Conversation"
+      },
+      {
+        "part": 4,
+        "title": "Talk"
+      }
+    ],
+    "part3": [
+      {
+        "number": 4,
+        "question": "How do the speakers feel about Alexa's business plan?",
+        "options": [
+          {
+            "label": "A",
+            "text": "She has gathered too much data."
+          },
+          {
+            "label": "B",
+            "text": "She has taken on too much risk."
+          },
+          {
+            "label": "C",
+            "text": "She has made many obvious mistakes."
+          },
+          {
+            "label": "D",
+            "text": "She is serious-minded and cautious."
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "question": "According to the man, what is the most important strategy for success?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Investing in a good sound system."
+          },
+          {
+            "label": "B",
+            "text": "Having a good business plan."
+          },
+          {
+            "label": "C",
+            "text": "Eliminating all risk."
+          },
+          {
+            "label": "D",
+            "text": "Studying the market."
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "question": "How will the man help Alexa?",
+        "options": [
+          {
+            "label": "A",
+            "text": "By doing market research."
+          },
+          {
+            "label": "B",
+            "text": "By searching for an office."
+          },
+          {
+            "label": "C",
+            "text": "By pointing out her mistakes."
+          },
+          {
+            "label": "D",
+            "text": "By nominating her for an award."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "number": 7,
+        "question": "What is the topic of the talk?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Long-term growth plans."
+          },
+          {
+            "label": "B",
+            "text": "An offer for a leveraged buyout."
+          },
+          {
+            "label": "C",
+            "text": "How to minimize risk."
+          },
+          {
+            "label": "D",
+            "text": "Where to borrow funds."
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "question": "How will the company fund its growth?",
+        "options": [
+          {
+            "label": "A",
+            "text": "Bank loans."
+          },
+          {
+            "label": "B",
+            "text": "Profits."
+          },
+          {
+            "label": "C",
+            "text": "Sale of stocks."
+          },
+          {
+            "label": "D",
+            "text": "Owner investment."
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "question": "When will the evaluation begin?",
+        "options": [
+          {
+            "label": "A",
+            "text": "At the end of this year."
+          },
+          {
+            "label": "B",
+            "text": "At the beginning of next year."
+          },
+          {
+            "label": "C",
+            "text": "In two years."
+          },
+          {
+            "label": "D",
+            "text": "In a few years."
+          }
+        ]
+      }
+    ]
+  },
+  "tapescript": "",
+  "_raw": {
+    "words_to_learn": "# Business Planning\n\nStudy the following definitions and examples.\n\n1. address n., a formal speech; v., to direct to the attention of\n\na. The article praised her address to the steering committee.\n\nb. Marco's business plan addresses the needs of small business owners.\n\n2. avoid v., to stay clear of; to keep from happening a. To avoid going out of business, owners should prepare a proper business plan.\n\nb. Lloyd's errors in accounting could have been avoided by a business consultation with his banker.\n\n3. demonstrate v., to show clearly and deliberately; to present by example\n\na. Alban's business plan demonstrated that he had put a lot of thought into making his dream a reality.\n\nb. The professor demonstrated through a case study that a business plan can impress a lender.\n\n4. develop v., to expand, progress, or improve a. Lily developed her ideas into a business plan by taking a class at the community college.\n\nb. The restaurant Wanda opened ten years ago has developed into a national chain.\n\n5. evaluate v., to determine the value or impact of a. It's important to evaluate your competition when making a business plan.\nb. The lenders evaluated our creditability and decided to loan us money.\n\n6. gather v., to accumulate; to conclude  \na. We gathered information for our plan from many sources.  \nb. I gather that interest rates for small businesses will soon change.\n\n7. offer n., a proposal; v., to propose; to present in order to meet a need or satisfy a requirement\n\na. Devon accepted our offer to write the business plan.\n\nb. Jackie must offer her banker new statistics in order to encourage the bank to lend her money toward her start-up business.\n\n8. primarily adv., first; most importantly a. We are primarily concerned with convincing the board of directors to apply for the second loan.\n\nb. The developers are thinking primarily of how to enter the South American market.\n\n9. risk n., the chance of loss or damage\n\na. The primary risk for most start-up businesses is insufficient capital.\n\nb. Expanding into a new market is a big risk.\n\n10. strategy n., a plan of action\n\na. A business plan is a strategy for running a business and avoiding problems.\n\nb. Let's develop a strategy for promoting our ice cream parlor.\n\n11. strong adj., powerful; economically or financially sound a. The professor made a strong argument for the value of a good business plan.\n\nb. Even in a strong economic climate many businesses fail, so do your planning carefully.\n\n12. substitution n., replacement\n\na. Your substitution of fake names for real ones makes the document seem insincere.\n\nb. There is no substitution for hard work and perseverance.",
+    "words_in_context": "## WORDS IN CONTEXT\n\nRead the following passage and write the words in the blanks below.\n\naddress develop offered strategy  \navoid evaluation primary strength  \ndemonstrate gathering risks substitute\n\nEvery business must (1) \\_\\_\\_\\_ a business plan. The business plan's (2) \\_\\_\\_\\_ purpose is to improve the entrepreneur's control over the business and to help him (3) \\_\\_\\_\\_ common mistakes. It is not an overstatement to say that a business will fail or succeed on the (4) \\_\\_\\_\\_ of its business plan, so there is no (5) \\_\\_\\_\\_ for a well-prepared plan. The business plan documents the (6) \\_\\_\\_\\_ for growing the business. Think of the business plan as a road map that describes in which direction the company is going, what its goals are, and how it is going to get there.\n\nIn developing the plan, the entrepreneur will conduct research to determine a systematic and realistic (7) \\_\\_\\_\\_ of the company's chances for success in the marketplace. In creating the plan, the entrepreneur must research the company's target market and define its potential. The entrepreneur must be able to prove through research that customers in the market need the good or service that is (8) \\_\\_\\_\\_ and that a sufficient number of potential customers exists to support the business.\n\nA business plan also looks at the (9) \\_\\_\\_\\_ the business faces. Chief among these is competitors. The business plan must analyze the company's competition by (10) \\_\\_\\_\\_ information on competitors' market share, products, and strategies. The plan should (11) \\_\\_\\_\\_ what distinguishes the entrepreneur's products or services from others already in the market. It is also common for businesses to fail because the owner fails to invest or seek sufficient capital to run the business. A good business plan should (12) \\_\\_\\_\\_ this issue as well.",
+    "word_families": "## WORD FAMILIES\n\n<table><tr><td>√b</td><td>avoid</td><td>It is best to avoid get-rich-quick schemes.</td></tr><tr><td>noun</td><td>avoidance</td><td>Your avoidance of these issues will not make them go away.</td></tr><tr><td>a)</td><td>avoided</td><td>The avoided question became more important over time.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>.b</td><td>demonstrate</td><td>Let me demonstrate how this computer program works.</td></tr><tr><td>noun</td><td>demonstration</td><td>After the lecture, there was a demonstration of new marketing techniques.</td></tr><tr><td>adjective</td><td>demonstrative</td><td>The densely encoded programming was demonstrative of the computer language of the era.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>verb</td><td>develop</td><td>Our assignment is to develop a cogent business plan.</td></tr><tr><td>r)</td><td>development</td><td>The plan was under development and would not be ready for months.</td></tr><tr><td>noun</td><td>developer</td><td>The job developer was kept busy trying to place the recent college graduates.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td rowspan=\"2\">r)</td><td>evaluate</td><td>Please review these articles and evaluate their usefulness for our plan.</td></tr><tr><td>evaluation</td><td>Yoko feared the professor&#x27;s evaluation of her business plan.</td></tr><tr><td>r)</td><td>evaluator</td><td>The independent evaluator reviewed our business plan and gave us.good feedback.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>\\</td><td>strategize</td><td>Instead of going into a panic, let&#x27;s strategize the best way to meet the deadline.</td></tr><tr><td>r)</td><td>strategy</td><td>The business plan lays out a strategy for future growth.</td></tr><tr><td>a)</td><td>strategic</td><td>The handout outlined the strategic points to cover in a business plan.</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>noun</td><td>substitution</td><td>The substitution of gasses is not so easy in this experiment.</td></tr><tr><td>r)</td><td>substitute</td><td>Don&#x27;t try to substitute intuition for good planning.</td></tr><tr><td>a)</td><td>substituted</td><td>Customers complain whenever the substituted product is of lesser value, even though we don&#x27;t charge them for it.</td></tr></table>",
+    "listening_practice": "## WORD PRACTICE LISTENING COMPREHENSION\n\n\n\n## Part 1 Photo\n\nLook at the picture and listen to the sentences. Choose the sentence that best describes the picture.\n\n\n\n## Part 2 Question-Response\n\nListen to the question and the three responses. Choose the response that best answers the question.\n\n\n\n\n\n## Part 3 Conversation\n\nListen to the dialogue. Then read each question and choose the best response.\n\n4. How do the speakers feel about Alexa's business plan?\n(A) She has gathered too much data.\n(B) She has taken on too much risk.\n(C) She has made many obvious mistakes.\n(D) She is serious-minded and cautious.\n\n6. According to the man, what is the most important strategy for success?\n(A) Investing in a good sound system.\n(B) Having a good business plan.\n(C) Eliminating all risk.\n(D) Studying the market.\n\n5. How will the man help Alexa?\n(A) By doing market research.\n(B) By searching for an office.\n(C) By pointing out her mistakes.\n(D) By nominating her for an award.\n\n## Part 4 Talk\n\nListen to the talk. Then read each question and choose the best answer.\n\n7. What is the topic of the talk?  \n(A) Long-term growth plans.  \n(B) An offer for a leveraged buyout.  \n(C) How to minimize risk.  \n(D) Where to borrow funds.\n\n8. How will the company fund its growth?\n(A) Bank loans.\n(B) Profits.\n(C) Sale of stocks.\n(D) Owner investment.\n\n9. When will the evaluation begin?\n(A) At the end of this year.\n(B) At the beginning of next year.\n(C) In two years.\n(D) In a few years.\n",
+    "reading_part5_6": "## READING\n\n## Part 5 Incomplete Sentences\n\nChoose the word that best completes the sentence.\n\n10. You cannot \\_\\_\\_\\_ learning how to use the new software as it will be needed in daily operations from now on.\n(A) avoid (C) avoiding\n(B) avoided (D) avoidance\n\n11. I don't want to intrude, but would you like me to \\_\\_\\_\\_ how to use that machine?\n(A) demonstrate (C) demonstrative\n(B) demonstration (D) demonstrator\n\n12. While you are \\_\\_\\_\\_ your business plan, it is a good idea to keep a resource library of valuable materials.\n(A) develop (C) developing\n(B) development (D) developer\n\n13. After you turn in your business plan, you will receive a written \\_\\_\\_\\_ of your work within two weeks.\n(A) evaluator (C) evaluate\n(B) evaluative (D) evaluation\n\n14. If we think \\_\\_\\_\\_, we can come up with a plan that promises success.\n(A) strategize (C) strategically\n(B) strategic (D) strategist\n\n15. It is now legal to \\_\\_\\_\\_ a generic brand drug for a prescription medicine if you have the patient's consent.\n(A) substitute (C) substituting\n(B) substituted (D) substitution\n\n## Part 6 Text Completion\n\n## Memo\n\nTo: Stephen Saunders, President\n\nFrom: Willa Richardson, Marketing Department\n\nRe: Changes in market\n\nIn order to address the changes that are currently taking place in the market, I believe we need to modify our business plan. I \\_16\\_ data for the past several months. The information clearly shows that younger and younger people are becoming interested in purchasing products such as ours. We need to develop a \\_17\\_ to reach this younger age group. We need to redirect some of our resources toward this goal. I think that if we make this a priority over the next year, we will have a much \\_18\\_ position against our competitors. If we don't, we risk losing the market share that we already have. I would like to share the results of my research with you. It demonstrates the need to focus our energy toward this younger age group. Please let me know if we can meet this week to discuss it.\n\n16. (A) gather 18. (A) strong  \n(B) am gathering (B) more strong  \n(C) had gathered (C) stronger  \n(D) have been gathering (D) strongest\n\n17. (A) strategy  \n(B) strategize  \n(C) strategic  \n(D) strategically",
+    "reading_part7": "## Part 7 Reading Comprehension\n\nQuestions 19–23 refer to the following article.\n\nWhen developing a plan for a new business, the entrepreneur quite naturally wants to eliminate all risk. While it is impossible to avoid some risk, the goal is to minimize it as much as possible. How can we do this? Thorough research and careful planning are the keys. There are two parts to good research. First, you must demonstrate that there is a need for the product or service you plan to offer. Are there enough people out there who would be willing to pay for it? Second, you must look at your competition. What do you have to offer that your competitors do not? Is your product or service of better quality in some way? Is it cheaper or more easily available? Is there a niche in the market that your competitors are not addressing? If what you have to offer is identical to what your competitors are offering, your business is not likely to be successful. These are some things to consider when evaluating how well you can measure up against the competition. Once you have evaluated a need for your product or service and determined how yours will be different from your competitors', you are ready to begin the next part of your plan—financing.\n\n19. What is this article mostly about?\n(A) Financing new businesses.\n(B) How to price products.\n(C) The need for research.\n(D) The best marketing strategies.\n\n20. What does the author say about risk?\n(A) We should try to reduce it.\n(B) We must avoid it.\n(C) We can eliminate it with careful planning.\n(D) It is the key to success.\n\n21. According to the article, what can lead to the failure of a new business?\n(A) Offering a cheaper product.\n(B) Selling the exact same product as the competitors sell.\n(C) Selling only to a niche in the market.\n(D) Offering only services and not products.\n\n22. The word addressing in line 15 is closest in meaning to  \n(A) focusing on  \n(B) calling on  \n(C) giving up  \n(D) staying away from\n\n23. The word demonstrate in line 7 is closest in meaning to  \n(A) felt  \n(B) created  \n(C) removed  \n(D) shown"
+  },
+  "needs_review": true
+}
