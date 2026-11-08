@@ -1700,6 +1700,22 @@ export default function Tab5Practice({ lesson }) {
     };
   }, []);
 
+  // Phím Enter tiếp tục sau khi nộp bài
+  useEffect(() => {
+    const onKey = (e) => {
+      const tag = e.target?.tagName;
+      if (tag === 'INPUT' || tag === 'TEXTAREA' || e.target?.isContentEditable) return;
+      if (e.key === 'Enter' && submitted) {
+        e.preventDefault();
+        document
+          .getElementById('tab5-score-summary')
+          ?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    };
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  }, [submitted]);
+
   const id = Number(lesson?.lesson_id ?? lessonId ?? 1);
   const words = useMemo(() => lessonWords(lesson), [lesson]);
 

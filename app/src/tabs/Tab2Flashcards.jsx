@@ -308,22 +308,77 @@ export default function Tab2Flashcards({ lesson }) {
     [entry, lessonId, show],
   );
 
-  /* ---- keyboard: Space flips, 1/2/3/4 grade ---- */
+  /* ---- keyboard shortcuts: Tab (lật & đọc), Enter (tiếp tục), R (đọc từ), E (đọc ví dụ), Space, 1/2/3/4 ---- */
   useEffect(() => {
     const onKey = (e) => {
       const tag = e.target?.tagName;
       if (tag === 'INPUT' || tag === 'TEXTAREA' || e.target?.isContentEditable) return;
+
+      // Phím Tab: vừa lật vừa phát âm từ vựng
+      if (e.key === 'Tab') {
+        e.preventDefault();
+        flip();
+        if (entry?.word) speak(entry.word);
+        return;
+      }
+
+      // Phím Enter: tiếp tục chuyển sang thẻ tiếp theo
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        setFlipped(false);
+        setPos((p) => (total ? (p + 1) % total : 0));
+        return;
+      }
+
+      // Phím R: phát âm từ vựng (Shift + R để đọc câu ví dụ)
+      if (e.key === 'r' || e.key === 'R') {
+        e.preventDefault();
+        if (e.shiftKey && primary?.en) {
+          speak(primary.en);
+        } else if (entry?.word) {
+          speak(entry.word);
+        }
+        return;
+      }
+
+      // Phím E: phát âm câu ví dụ
+      if (e.key === 'e' || e.key === 'E') {
+        e.preventDefault();
+        if (primary?.en) speak(primary.en);
+        return;
+      }
+
+      // Phím mũi tên: Thẻ sau / Thẻ trước
+      if (e.key === 'ArrowRight') {
+        e.preventDefault();
+        setFlipped(false);
+        setPos((p) => (total ? (p + 1) % total : 0));
+        return;
+      }
+      if (e.key === 'ArrowLeft') {
+        e.preventDefault();
+        setFlipped(false);
+        setPos((p) => (total ? (p - 1 + total) % total : 0));
+        return;
+      }
+
+      // Phím Space: lật mặt thẻ
       if (e.code === 'Space' || e.key === ' ') {
         e.preventDefault();
         flip();
-      } else if (['1', '2', '3', '4'].includes(e.key)) {
+        return;
+      }
+
+      // Phím 1, 2, 3, 4: chấm điểm SRS
+      if (['1', '2', '3', '4'].includes(e.key)) {
         e.preventDefault();
         grade(Number(e.key));
+        return;
       }
     };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
-  }, [flip, grade]);
+  }, [flip, grade, entry, primary, speak, setFlipped, setPos, total]);
 
   /* --- null-safe empty state --- */
   if (!lesson || !entries.length) {
@@ -576,8 +631,8 @@ export default function Tab2Flashcards({ lesson }) {
 
       {/* ---------- grade row also reachable before flipping ---------- */}
       <div className="mx-auto flex max-w-3xl flex-wrap items-center justify-between gap-3">
-        <p className="text-[12px] font-medium text-[var(--color-duo-gray)]">
-          Mẹo: chấm điểm ở mặt trước vẫn được — hệ thống sẽ tự lật sang thẻ kế tiếp.
+        <p className="text-[11.5px] font-semibold text-[var(--color-duo-muted)]">
+          Phím tắt: <kbd className="rounded border border-[var(--color-duo-line)] bg-[var(--color-duo-bg-soft)] px-1.5 py-0.5 font-mono text-[10.5px]">Tab</kbd> Lật &amp; Đọc · <kbd className="rounded border border-[var(--color-duo-line)] bg-[var(--color-duo-bg-soft)] px-1.5 py-0.5 font-mono text-[10.5px]">Enter</kbd> Tiếp tục · <kbd className="rounded border border-[var(--color-duo-line)] bg-[var(--color-duo-bg-soft)] px-1.5 py-0.5 font-mono text-[10.5px]">R</kbd> Đọc từ · <kbd className="rounded border border-[var(--color-duo-line)] bg-[var(--color-duo-bg-soft)] px-1.5 py-0.5 font-mono text-[10.5px]">1-4</kbd> Chấm điểm
         </p>
         <div className="flex gap-2.5">
           <Button
