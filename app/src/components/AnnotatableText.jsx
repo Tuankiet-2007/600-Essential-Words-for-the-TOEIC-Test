@@ -174,7 +174,7 @@ export function HighlightToggleBar({ scopeId = 'default' }) {
   };
 
   return (
-    <div className="mb-3 rounded-xl border border-slate-200 bg-white px-3.5 py-2.5 shadow-xs">
+    <div className="mb-3 rounded-xl border border-[var(--color-duo-line)] bg-[var(--color-duo-bg)] px-3.5 py-2.5 shadow-xs">
       <div className="flex flex-wrap items-center justify-between gap-3">
         {/* Cụm công tắc Highlight nội dung chuẩn Image 4 */}
         <div className="flex flex-wrap items-center gap-2.5">

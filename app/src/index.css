@@ -58,31 +58,71 @@ body,
 
 html.dark {
   color-scheme: dark;
-  --color-duo-bg: #131f24;
-  --color-duo-bg-soft: #18252d;
-  --color-duo-ink: #f1f5f9;
+  --color-duo-bg: #1a2c35;
+  --color-duo-bg-soft: #131f24;
+  --color-duo-ink: #f8fafc;
   --color-duo-gray: #94a3b8;
   --color-duo-muted: #64748b;
   --color-duo-line: #273740;
   --color-duo-line-strong: #334652;
+  --color-duo-green-dark: #4ade80;
+  --color-duo-blue-light: #12344a;
+  --color-duo-green-light: #13381e;
+  --color-duo-red-light: #3f1a1d;
+  --color-duo-green-tint: #142e1b;
 }
 
 html.dark body {
   background-color: #131f24 !important;
-  color: #f1f5f9 !important;
+  color: #f8fafc !important;
 }
 
-html.dark .bg-white {
+/* Backgrounds in dark mode */
+html.dark .bg-white,
+html.dark [class*="bg-white"] {
   background-color: #1a2c35 !important;
 }
 
-html.dark .bg-slate-50 {
+html.dark .bg-slate-50,
+html.dark [class*="bg-slate-50"] {
   background-color: #131f24 !important;
 }
 
+html.dark .bg-slate-100 {
+  background-color: #1f2f38 !important;
+}
+
+html.dark .bg-slate-200 {
+  background-color: #273740 !important;
+}
+
+html.dark .bg-slate-300 {
+  background-color: #334652 !important;
+}
+
+html.dark .bg-brand-50,
+html.dark [class*="bg-brand-50"] {
+  background-color: #12344a !important;
+}
+
+/* Borders in dark mode */
+html.dark .border-white,
+html.dark .border-slate-100,
+html.dark .border-slate-200,
+html.dark .border-slate-300 {
+  border-color: #273740 !important;
+}
+
+html.dark [class*="border-[#cbe7ff]"],
+html.dark [class*="border-[#7cc4fa]"] {
+  border-color: #1e4a68 !important;
+  background-color: #132733 !important;
+}
+
+/* Typography in dark mode */
 html.dark .text-slate-900,
 html.dark .text-slate-800 {
-  color: #f1f5f9 !important;
+  color: #f8fafc !important;
 }
 
 html.dark .text-slate-700,
@@ -95,9 +135,160 @@ html.dark .text-slate-400 {
   color: #94a3b8 !important;
 }
 
-html.dark .border-slate-200,
-html.dark .border-slate-100 {
+html.dark .text-\[\#0b6ea8\] {
+  color: #38bdf8 !important;
+}
+
+html.dark .text-\[\#3f7d00\] {
+  color: #4ade80 !important;
+}
+
+/* App Header & Drawer */
+html.dark header {
+  background-color: rgba(26, 44, 53, 0.95) !important;
   border-color: #273740 !important;
+}
+
+html.dark aside {
+  background-color: #1a2c35 !important;
+  border-color: #273740 !important;
+}
+
+/* Duolingo Cards & Buttons */
+html.dark .duo-card {
+  background: #1a2c35 !important;
+  border-color: #273740 !important;
+  box-shadow: 0 2px 0 0 #273740 !important;
+  color: #f8fafc !important;
+}
+
+html.dark .duo-btn-ghost {
+  background: #1a2c35 !important;
+  color: #f8fafc !important;
+  border-color: #273740 !important;
+  box-shadow: 0 4px 0 0 #131f24 !important;
+}
+
+html.dark .duo-btn-ghost:hover:not(:disabled) {
+  background: #223a46 !important;
+}
+
+/* Multiple choice questions */
+html.dark .duo-choice {
+  background: #1a2c35 !important;
+  border-color: #273740 !important;
+  box-shadow: 0 2px 0 0 #273740 !important;
+  color: #f8fafc !important;
+}
+
+html.dark .duo-choice:hover:not(:disabled) {
+  background: #183547 !important;
+  border-color: var(--color-duo-blue) !important;
+}
+
+html.dark .duo-choice-selected {
+  background: #12344a !important;
+  border-color: var(--color-duo-blue) !important;
+  color: #38bdf8 !important;
+  box-shadow: 0 2px 0 0 var(--color-duo-blue-dark) !important;
+}
+
+html.dark .duo-choice-correct {
+  background: #13381e !important;
+  border-color: #58cc02 !important;
+  color: #86efac !important;
+  box-shadow: 0 2px 0 0 #276700 !important;
+}
+
+html.dark .duo-choice-wrong {
+  background: #3f1a1d !important;
+  border-color: #ff4b4b !important;
+  color: #fca5a5 !important;
+  box-shadow: 0 2px 0 0 #991b1b !important;
+}
+
+html.dark .duo-choice-badge {
+  background: #131f24 !important;
+  border-color: #273740 !important;
+  color: #94a3b8 !important;
+}
+
+html.dark .duo-choice-selected .duo-choice-badge {
+  background: var(--color-duo-blue) !important;
+  color: #ffffff !important;
+  border-color: var(--color-duo-blue) !important;
+}
+
+/* Badges */
+html.dark .duo-badge {
+  background: #273740 !important;
+  color: #cbd5e1 !important;
+}
+
+html.dark .duo-badge-blue {
+  background: #12344a !important;
+  color: #38bdf8 !important;
+}
+
+html.dark .duo-badge-green {
+  background: #13381e !important;
+  color: #86efac !important;
+}
+
+html.dark .duo-badge-yellow {
+  background: #3d3110 !important;
+  color: #fde047 !important;
+}
+
+html.dark .duo-badge-red {
+  background: #3f1a1d !important;
+  color: #fca5a5 !important;
+}
+
+html.dark .duo-badge-purple {
+  background: #321f42 !important;
+  color: #d8b4fe !important;
+}
+
+/* Form Controls */
+html.dark input,
+html.dark textarea,
+html.dark select {
+  background-color: #131f24 !important;
+  color: #f8fafc !important;
+  border-color: #273740 !important;
+}
+
+html.dark input::placeholder,
+html.dark textarea::placeholder {
+  color: #64748b !important;
+}
+
+/* Tabs & Navigation */
+html.dark .duo-nav-item:hover {
+  background: #1f2f38 !important;
+  color: #f8fafc !important;
+}
+
+html.dark .duo-nav-item-active {
+  background: #12344a !important;
+  border-color: var(--color-duo-blue) !important;
+  color: #38bdf8 !important;
+}
+
+html.dark [role="tab"][aria-selected="true"] {
+  background-color: #12344a !important;
+  color: #38bdf8 !important;
+  border-color: var(--color-duo-blue) !important;
+}
+
+html.dark [role="tab"][aria-selected="false"] {
+  color: #94a3b8 !important;
+}
+
+html.dark [role="tab"][aria-selected="false"]:hover {
+  background-color: #1f2f38 !important;
+  color: #f8fafc !important;
 }
 
 body {
@@ -182,7 +373,7 @@ body {
 }
 /* Nút phụ: trắng, viền xám, bóng cứng xám. */
 .duo-btn-ghost {
-  background: #fff;
+  background: var(--color-duo-bg);
   color: var(--color-duo-ink);
   box-shadow: 0 4px 0 0 var(--color-duo-line-strong);
   border: 2px solid var(--color-duo-line);
@@ -206,7 +397,7 @@ body {
 
 /* ---------- 2. Thẻ ---------- */
 .duo-card {
-  background: #fff;
+  background: var(--color-duo-bg);
   border: 2px solid var(--color-duo-line);
   border-radius: 16px;
   box-shadow: 0 2px 0 0 var(--color-duo-line);
@@ -223,7 +414,7 @@ body {
   gap: 0.75rem;
   padding: 0.875rem 1rem;
   text-align: left;
-  background: #fff;
+  background: var(--color-duo-bg);
   border: 2px solid var(--color-duo-line);
   border-radius: 16px;
   box-shadow: 0 2px 0 0 var(--color-duo-line);
@@ -284,7 +475,7 @@ body {
   height: 1.75rem;
   border-radius: 9999px;
   border: 2px solid var(--color-duo-line);
-  background: #fff;
+  background: var(--color-duo-bg);
   font-size: 0.75rem;
   font-weight: 800;
   color: var(--color-duo-gray);

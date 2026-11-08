@@ -102,7 +102,7 @@ export default function Sidebar({ open, onClose }) {
       ) : null}
 
       <aside
-        className={`fixed inset-y-0 left-0 z-50 flex w-72 max-w-[85vw] flex-col border-r-2 border-[var(--color-duo-line)] bg-white shadow-2xl transition-transform duration-300 ease-in-out ${
+        className={`fixed inset-y-0 left-0 z-50 flex w-72 max-w-[85vw] flex-col border-r-2 border-[var(--color-duo-line)] bg-[var(--color-duo-bg)] shadow-2xl transition-transform duration-300 ease-in-out ${
           open ? 'translate-x-0' : '-translate-x-full'
         }`}
       >
@@ -133,7 +133,7 @@ export default function Sidebar({ open, onClose }) {
               onClick={onClose}
               aria-label="Đóng mục lục"
               title="Đóng mục lục"
-              className="flex h-8 w-8 items-center justify-center rounded-lg border border-[var(--color-duo-line)] text-slate-500 hover:bg-[var(--color-duo-bg-soft)] hover:text-slate-900"
+              className="flex h-8 w-8 items-center justify-center rounded-lg border border-[var(--color-duo-line)] text-slate-500 hover:bg-[var(--color-duo-bg-soft)] hover:text-[var(--color-duo-ink)]"
             >
               <X className="h-4 w-4" />
             </button>
@@ -157,7 +157,7 @@ export default function Sidebar({ open, onClose }) {
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
                 placeholder="Tìm bài..."
-                className="w-full rounded-xl border-2 border-[var(--color-duo-line)] bg-[var(--color-duo-bg-soft)] py-1.5 pl-7 pr-2 text-xs font-semibold text-[var(--color-duo-ink)] outline-none transition-colors placeholder:text-[var(--color-duo-muted)] focus:border-[var(--color-duo-blue)] focus:bg-white"
+                className="w-full rounded-xl border-2 border-[var(--color-duo-line)] bg-[var(--color-duo-bg-soft)] py-1.5 pl-7 pr-2 text-xs font-semibold text-[var(--color-duo-ink)] outline-none transition-colors placeholder:text-[var(--color-duo-muted)] focus:border-[var(--color-duo-blue)] focus:bg-[var(--color-duo-bg)]"
               />
             </div>
             <Button

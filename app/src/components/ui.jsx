@@ -173,7 +173,7 @@ export function ProgressBar({ value = 0, max = 100, tone = 'brand', className = 
 
 export function TabBar({ tabs, active, onChange }) {
   return (
-    <div className="flex gap-2 overflow-x-auto border-b-2 border-[var(--color-duo-line)] bg-white px-3 py-2">
+    <div className="flex gap-2 overflow-x-auto border-b-2 border-[var(--color-duo-line)] bg-[var(--color-duo-bg)] px-3 py-2">
       {tabs.map((t) => {
         const isActive = t.id === active;
         return (

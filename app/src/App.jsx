@@ -157,19 +157,19 @@ function Workspace() {
   }, [tab, reviewThemeId, activeView]);
 
   return (
-    <div className="min-h-screen bg-slate-50 transition-colors">
+    <div className="min-h-screen bg-[var(--color-duo-bg-soft)] transition-colors">
       <Sidebar open={menuOpen} onClose={() => setMenuOpen(false)} />
 
       <main className="w-full min-w-0">
         {/* Top Header Bar: Nút Mục lục (bật/tắt) + Logo bên trái & Theme/Cài đặt góc phải */}
-        <header className="sticky top-0 z-20 flex h-14 items-center justify-between border-b-2 border-[var(--color-duo-line)] bg-white/95 px-4 backdrop-blur-sm sm:px-6">
+        <header className="sticky top-0 z-20 flex h-14 items-center justify-between border-b-2 border-[var(--color-duo-line)] bg-[var(--color-duo-bg)]/95 px-4 backdrop-blur-sm sm:px-6">
           <div className="flex items-center gap-2.5">
             <Button
               variant="outline"
               size="icon"
               onClick={() => setMenuOpen((prev) => !prev)}
               aria-label="Mở/đóng mục lục bài học"
-              className="h-9 w-9 rounded-xl border-2 border-[var(--color-duo-line)] bg-white hover:bg-[var(--color-duo-bg-soft)] active:scale-95"
+              className="h-9 w-9 rounded-xl border-2 border-[var(--color-duo-line)] bg-[var(--color-duo-bg)] hover:bg-[var(--color-duo-bg-soft)] active:scale-95"
               title="Mục lục bài học"
             >
               <Menu className="h-5 w-5 text-[var(--color-duo-ink)]" />
@@ -203,7 +203,7 @@ function Workspace() {
               type="button"
               onClick={toggleTheme}
               title={theme === 'dark' ? 'Chuyển sang Giao diện Sáng' : 'Chuyển sang Giao diện Tối'}
-              className="flex h-9 w-9 items-center justify-center rounded-xl border-2 border-[var(--color-duo-line)] text-[var(--color-duo-ink)] transition-colors hover:bg-[var(--color-duo-bg-soft)] active:scale-95"
+              className="flex h-9 w-9 items-center justify-center rounded-xl border-2 border-[var(--color-duo-line)] bg-[var(--color-duo-bg)] text-[var(--color-duo-ink)] transition-colors hover:bg-[var(--color-duo-bg-soft)] active:scale-95"
             >
               {theme === 'dark' ? (
                 <Sun className="h-4 w-4 text-amber-400" />
@@ -220,7 +220,7 @@ function Workspace() {
               className={`flex h-9 w-9 items-center justify-center rounded-xl border-2 transition-colors active:scale-95 ${
                 activeView === 'settings'
                   ? 'border-[var(--color-duo-purple)] bg-purple-50 text-[var(--color-duo-purple-dark)]'
-                  : 'border-[var(--color-duo-line)] text-[var(--color-duo-gray)] hover:bg-[var(--color-duo-bg-soft)] hover:text-[var(--color-duo-ink)]'
+                  : 'border-[var(--color-duo-line)] bg-[var(--color-duo-bg)] text-[var(--color-duo-gray)] hover:bg-[var(--color-duo-bg-soft)] hover:text-[var(--color-duo-ink)]'
               }`}
             >
               <Settings className="h-4 w-4" />

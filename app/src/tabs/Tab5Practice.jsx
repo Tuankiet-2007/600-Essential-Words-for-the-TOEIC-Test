@@ -330,7 +330,7 @@ function AudioPlayer({
   const progressPct = duration > 0 ? clamp01(current / duration) * 100 : 0;
 
   return (
-    <div className="sticky top-0 z-30 -mx-1 mb-5 rounded-xl border border-slate-200 bg-white/95 px-3 py-3 shadow-sm backdrop-blur supports-[backdrop-filter]:bg-white/80">
+    <div className="sticky top-0 z-30 -mx-1 mb-5 rounded-xl border border-[var(--color-duo-line)] bg-[var(--color-duo-bg)]/95 px-3 py-3 shadow-sm backdrop-blur supports-[backdrop-filter]:bg-[var(--color-duo-bg)]/80">
       <div className="flex flex-wrap items-center gap-2">
         <span className="inline-flex h-9 w-9 shrink-0 items-center justify-center rounded-lg bg-brand-50 text-brand-700">
           <Volume2 className="h-4 w-4" />
