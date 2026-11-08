@@ -417,13 +417,6 @@ export default function Tab1Vocabulary({ lesson }) {
   const words = useMemo(() => lessonWords(lesson), [lesson]);
   const entries = useMemo(() => lesson?.words_to_learn || [], [lesson]);
 
-  const familyGroups = useMemo(() => {
-    if (Array.isArray(lesson?.word_families_groups) && lesson.word_families_groups.length) {
-      return lesson.word_families_groups.filter((g) => Array.isArray(g) && g.length);
-    }
-    return groupFamilyRows(normalizeFamilyRows(lesson?.word_families ?? lesson?.word_family));
-  }, [lesson]);
-
   const [filter, setFilter] = useState('all'); // all | learning | learned
 
   const isLearned = useCallback(
@@ -477,8 +470,7 @@ export default function Tab1Vocabulary({ lesson }) {
 
       <SectionTitle
         icon={BookOpenCheck}
-        title="Từ vựng theo ngữ cảnh sâu"
-        subtitle={`${entries.length} từ mục tiêu · mỗi từ luôn đi kèm nghĩa tiếng Việt, khung USE (cách dùng & cụm từ), ví dụ trong sách và bảng họ từ đầy đủ`}
+        title="Vocabulary"
         right={
           <div className="flex flex-wrap items-center gap-2">
             <Badge tone={learnedCount === entries.length ? 'emerald' : 'brand'}>
@@ -547,66 +539,6 @@ export default function Tab1Vocabulary({ lesson }) {
           }
         />
       )}
-
-      {familyGroups.length ? <FamilyTables groups={familyGroups} words={words} /> : null}
     </div>
-  );
-}
-
-/**
- * Bảng Word Families NGUYÊN TRANG SÁCH — sách in một bảng họ từ riêng cho mỗi
- * bài (thường 6 nhóm × 3 dòng). Phần này render đúng bảng đó, kể cả với những
- * từ mục tiêu không được gán nhóm nào (sách chỉ in họ từ cho một phần các từ).
- */
-function FamilyTables({ groups, words }) {
-  const totalRows = groups.reduce((n, g) => n + (Array.isArray(g) ? g.length : 0), 0);
-  return (
-    <section className="mt-8">
-      <SectionTitle
-        icon={BookOpenCheck}
-        title="Bảng Word Families — nguyên trang sách"
-        subtitle={`${groups.length} nhóm họ từ · ${totalRows} dòng, đúng thứ tự trong sách`}
-        right={<Badge tone="violet">Word Families</Badge>}
-      />
-      <div className="grid grid-cols-1 gap-4 xl:grid-cols-2">
-        {groups.map((group, gi) => {
-          const rows = Array.isArray(group) ? group.filter((r) => r && r.word) : [];
-          return (
-            <Card key={gi} className="overflow-hidden">
-              <div className="border-b-2 border-[var(--color-duo-line)] bg-[var(--color-duo-bg-soft)] px-4 py-2.5 text-[11px] font-extrabold uppercase tracking-wide text-[var(--color-duo-gray)]">
-                Nhóm {gi + 1} ·{' '}
-                {rows.map((r) => r.word).join(' · ')}
-              </div>
-              <div className="divide-y-2 divide-[var(--color-duo-line)]">
-                {rows.map((row, ri) => (
-                  <div key={ri} className="grid grid-cols-[minmax(7rem,auto)_1fr] gap-3 px-4 py-2.5">
-                    <div className="min-w-0">
-                      <span className="text-sm font-extrabold text-[var(--color-duo-green-dark)]">
-                        {row.word}
-                      </span>
-                      {row.pos ? (
-                        <span className="ml-1.5 rounded-md bg-[var(--color-duo-blue-light)] px-1.5 py-0.5 text-[10px] font-extrabold uppercase text-[#0b6ea8]">
-                          {WORD_FAMILY_LABEL[row.pos] || row.pos}
-                          {row.pos_source === 'derived' ? ' (suy ra)' : ''}
-                        </span>
-                      ) : null}
-                    </div>
-                    <p className="text-[13px] leading-relaxed text-[var(--color-duo-gray)]">
-                      {row.example ? (
-                        <Highlighted text={row.example} words={words} />
-                      ) : (
-                        <span className="italic text-[var(--color-duo-muted)]">
-                          Sách không in câu ví dụ.
-                        </span>
-                      )}
-                    </p>
-                  </div>
-                ))}
-              </div>
-            </Card>
-          );
-        })}
-      </div>
-    </section>
   );
 }

@@ -253,21 +253,8 @@ function splitSpeakerTurns(raw) {
 /* ------------------------------------------------------------------ */
 
 /** Legend explaining <mark class="vocab-hit"> inside passages and questions. */
-function VocabLegend({ words }) {
-  if (!words.length) return null;
-  return (
-    <p className="mb-4 flex flex-wrap items-center gap-x-2 gap-y-1 rounded-lg bg-amber-50/70 px-3 py-2 text-xs text-amber-900">
-      <Info className="h-3.5 w-3.5 shrink-0" />
-      <span>
-        Các từ được <mark className="vocab-hit">tô vàng</mark> là từ vựng trọng tâm của bài học —
-        bấm sang tab “Học Từ Vựng” để xem định nghĩa và ví dụ.
-      </span>
-      <span className="font-medium">
-        ({words.slice(0, 6).join(', ')}
-        {words.length > 6 ? ', …' : ''})
-      </span>
-    </p>
-  );
+function VocabLegend() {
+  return null;
 }
 
 /* ---------------- Sticky audio player ---------------- */
@@ -1088,12 +1075,6 @@ function Part1({ data, selected, onSelect, graded, photoUrl }) {
               />
             ))}
           </div>
-
-          <p className="mt-3 rounded-lg bg-amber-50 px-3 py-2 text-xs text-amber-800">
-            Lưu ý: dữ liệu bài học của Part 1 chỉ có ảnh, <strong>không có nội dung A/B/C/D</strong>.
-            Bốn lựa chọn này được đọc trong audio (và có thể đối chiếu ở phần tapescript của sách),
-            nên ứng dụng không tự bịa nội dung lựa chọn.
-          </p>
         </div>
       </div>
     </Card>
@@ -1136,13 +1117,6 @@ function Part3({ items, answers, onSelect, graded, words, partNum = 3, title, em
         {graded ? <Badge tone="amber">Tự chấm theo Answer Key</Badge> : null}
         <span className="text-xs text-slate-500">{list.length} câu</span>
       </div>
-
-      {shuffled ? (
-        <p className="rounded-lg bg-sky-50 px-3 py-2 text-xs text-sky-900">
-          Thứ tự câu in trong sách: <strong>{order}</strong>. Ứng dụng giữ đúng thứ tự này, không sắp
-          xếp lại.
-        </p>
-      ) : null}
 
       {list.map((item) => {
         const num = item.question_num;
@@ -1228,8 +1202,7 @@ function ListeningSection({
     <section className="mb-6">
       <SectionTitle
         icon={Headphones}
-        title="PHẦN NGHE — Listening (Câu 1-9)"
-        subtitle={partSubtitle}
+        title="Listening (1-9)"
         right={<Badge tone="sky">9 câu</Badge>}
       />
 
@@ -1265,12 +1238,6 @@ function ListeningSection({
             ))}
           </div>
 
-          <p className="mt-3 rounded-lg bg-violet-50 px-3 py-2 text-xs text-violet-800">
-            Theo đúng dữ liệu của sách, Part 2 chỉ có nhãn A/B/C. Nội dung câu trả lời{' '}
-            <strong>chỉ nghe được trong audio</strong> nên được giữ ẩn. Sau khi nộp bài, đáp án
-            đúng sẽ hiện ra để bạn đối chiếu với phần đã nghe.
-          </p>
-
           {/*
             Chi hien canh bao khi THUC SU thieu dap an. Truoc day dong nay hien
             vo dieu kien, nen sau khi noi Answer Key vao van bao "chua co dap an"
@@ -1304,12 +1271,6 @@ function ListeningSection({
           emptyNote={photoOnlyNote}
         />
       </div>
-
-      {graded && !tapescriptOpen ? (
-        <p className="mt-3 rounded-lg bg-amber-50 px-3 py-2 text-xs text-amber-800">
-          Mẹo: bật nút <strong>Tapescript</strong> ở thanh audio phía trên để đối chiếu phần nghe.
-        </p>
-      ) : null}
     </section>
   );
 }
@@ -2128,8 +2089,7 @@ export default function Tab5Practice({ lesson }) {
 
           <SectionTitle
             icon={BookOpen}
-            title="PHẦN ĐỌC — Reading (Câu 10-23)"
-            subtitle="Part 5 · Part 6 · Part 7"
+            title="Reading (10-23)"
             right={<Badge tone="brand">14 câu</Badge>}
           />
 

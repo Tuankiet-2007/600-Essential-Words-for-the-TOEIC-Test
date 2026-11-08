@@ -63,10 +63,11 @@ function LessonHeader() {
           )}
         </div>
         <h2 className="mt-1.5 truncate text-xl font-bold text-slate-900">{title}</h2>
-        <p className="text-xs text-slate-500">
-          {lesson ? `${lesson.words_to_learn.length} từ vựng mục tiêu · ` : ''}
-          <span className="font-mono">{audioUrlFor(lessonId)}</span>
-        </p>
+        {lesson ? (
+          <p className="text-xs font-semibold text-slate-500">
+            {lesson.words_to_learn.length} từ vựng mục tiêu
+          </p>
+        ) : null}
       </div>
       <div className="flex items-center gap-2.5">
         <img
@@ -156,29 +157,30 @@ function Workspace() {
   }, [tab, reviewThemeId, activeView]);
 
   return (
-    <div className="flex min-h-screen bg-slate-50 transition-colors">
+    <div className="min-h-screen bg-slate-50 transition-colors">
       <Sidebar open={menuOpen} onClose={() => setMenuOpen(false)} />
 
-      <main className="min-w-0 flex-1">
-        {/* Top Header Bar: Logo/Menu bên trái (chỉ mobile) & Theme/Cài đặt góc phải */}
+      <main className="w-full min-w-0">
+        {/* Top Header Bar: Nút Mục lục (bật/tắt) + Logo bên trái & Theme/Cài đặt góc phải */}
         <header className="sticky top-0 z-20 flex h-14 items-center justify-between border-b-2 border-[var(--color-duo-line)] bg-white/95 px-4 backdrop-blur-sm sm:px-6">
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-2.5">
             <Button
-              variant="ghost"
+              variant="outline"
               size="icon"
-              onClick={() => setMenuOpen(true)}
-              aria-label="Mở danh sách bài học"
-              className="lg:hidden"
+              onClick={() => setMenuOpen((prev) => !prev)}
+              aria-label="Mở/đóng mục lục bài học"
+              className="h-9 w-9 rounded-xl border-2 border-[var(--color-duo-line)] bg-white hover:bg-[var(--color-duo-bg-soft)] active:scale-95"
+              title="Mục lục bài học"
             >
               <Menu className="h-5 w-5 text-[var(--color-duo-ink)]" />
             </Button>
-            {/* Chỉ hiện logo 600 WORDS trên mobile khi không có sidebar */}
             <button
               type="button"
               onClick={openDashboard}
-              className="flex items-center gap-2 text-left font-black tracking-wider text-[var(--color-duo-green-dark)] hover:opacity-90 lg:hidden"
+              className="flex items-center gap-2 text-left font-black tracking-wider text-[var(--color-duo-green-dark)] hover:opacity-90"
+              title="Về trang tổng quan Dashboard"
             >
-              <span className="text-base">600 WORDS</span>
+              <span className="text-base font-black">600 WORDS</span>
             </button>
           </div>
 

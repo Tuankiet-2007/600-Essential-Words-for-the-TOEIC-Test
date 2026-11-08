@@ -348,8 +348,7 @@ export default function Tab2Flashcards({ lesson }) {
 
       <SectionTitle
         icon={Sparkles}
-        title="Flashcard ngữ cảnh (cloze)"
-        subtitle="Đoán từ còn thiếu từ chính câu ví dụ trong sách — Space để lật, phím 1/2/3/4 để chấm điểm"
+        title="Flashcard"
         right={
           <div className="flex flex-wrap items-center gap-2">
             <Badge tone="brand">

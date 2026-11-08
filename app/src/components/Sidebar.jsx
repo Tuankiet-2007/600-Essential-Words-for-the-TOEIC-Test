@@ -15,6 +15,7 @@ import {
   RefreshCw,
   Search,
   Settings,
+  X,
 } from 'lucide-react';
 import { THEMES, lessonTitle, TOTAL_WORDS } from '../data/curriculum.js';
 import { Badge, Button, ProgressBar } from './ui.jsx';
@@ -94,37 +95,49 @@ export default function Sidebar({ open, onClose }) {
       {open ? (
         <button
           type="button"
-          aria-label="Đóng menu"
-          className="fixed inset-0 z-30 bg-slate-900/40 lg:hidden"
+          aria-label="Đóng menu mục lục"
+          className="fixed inset-0 z-40 bg-slate-900/40 backdrop-blur-xs transition-opacity duration-200"
           onClick={onClose}
         />
       ) : null}
 
       <aside
-        className={`fixed inset-y-0 left-0 z-40 flex w-64 shrink-0 flex-col border-r-2 border-[var(--color-duo-line)] bg-white transition-transform lg:static lg:translate-x-0 ${
+        className={`fixed inset-y-0 left-0 z-50 flex w-72 max-w-[85vw] flex-col border-r-2 border-[var(--color-duo-line)] bg-white shadow-2xl transition-transform duration-300 ease-in-out ${
           open ? 'translate-x-0' : '-translate-x-full'
         }`}
       >
         {/* Brand */}
         <div className="border-b-2 border-[var(--color-duo-line)] px-3.5 py-3">
-          <button
-            type="button"
-            onClick={() => {
-              openDashboard?.();
-              onClose?.();
-            }}
-            className="group flex w-full items-center gap-2.5 text-left transition-transform active:scale-95"
-            title="Về Dashboard"
-          >
-            <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-[var(--color-duo-green)] text-white shadow-[0_3px_0_0_var(--color-duo-green-dark)] group-hover:brightness-105">
-              <GraduationCap className="h-5 w-5" />
-            </div>
-            <div className="min-w-0">
-              <h1 className="truncate text-base font-black tracking-wider text-[var(--color-duo-green-dark)]">
-                600 WORDS
-              </h1>
-            </div>
-          </button>
+          <div className="flex items-center justify-between gap-2">
+            <button
+              type="button"
+              onClick={() => {
+                openDashboard?.();
+                onClose?.();
+              }}
+              className="group flex flex-1 items-center gap-2.5 text-left transition-transform active:scale-95"
+              title="Về Dashboard"
+            >
+              <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-[var(--color-duo-green)] text-white shadow-[0_3px_0_0_var(--color-duo-green-dark)] group-hover:brightness-105">
+                <GraduationCap className="h-5 w-5" />
+              </div>
+              <div className="min-w-0">
+                <h1 className="truncate text-base font-black tracking-wider text-[var(--color-duo-green-dark)]">
+                  600 WORDS
+                </h1>
+              </div>
+            </button>
+
+            <button
+              type="button"
+              onClick={onClose}
+              aria-label="Đóng mục lục"
+              title="Đóng mục lục"
+              className="flex h-8 w-8 items-center justify-center rounded-lg border border-[var(--color-duo-line)] text-slate-500 hover:bg-[var(--color-duo-bg-soft)] hover:text-slate-900"
+            >
+              <X className="h-4 w-4" />
+            </button>
+          </div>
 
           {/* Overall progress */}
           <div className="mt-3">

@@ -357,7 +357,6 @@ Schema:
         <SectionTitle
           icon={Wand2}
           title="Chọn từ mục tiêu"
-          subtitle="AI sẽ ra một câu tiếng Việt buộc bạn phải dùng đúng từ này trong bản dịch."
         />
         <div className="flex flex-wrap gap-2">
           {words.map((w) => (
@@ -396,10 +395,6 @@ Schema:
       {/* BƯỚC 1 */}
       <Card className="mb-4 px-4 py-4">
         <StepHeader n={1} title="Sinh đề bài tiếng Việt" active={step === 1} done={step > 1} />
-        <p className="mb-3 text-sm text-slate-600">
-          AI tạo một câu tiếng Việt trong ngữ cảnh công sở. Bạn sẽ dịch câu đó sang tiếng Anh, buộc phải
-          dùng từ <span className="font-semibold">{selected}</span>.
-        </p>
         <div className="flex flex-wrap items-center gap-2">
           <Button variant="primary" onClick={generatePrompt} disabled={busy || !entry}>
             {busy && step === 1 ? <Loader2 className="h-4 w-4 animate-spin" /> : <Sparkles className="h-4 w-4" />}
@@ -411,9 +406,6 @@ Schema:
               Làm lại từ đầu
             </Button>
           ) : null}
-          <span className="text-xs text-slate-400">
-            Provider: {PROVIDERS.find((p) => p.id === activeProvider)?.label}
-          </span>
         </div>
 
         {promptData ? (
@@ -661,28 +653,19 @@ function FeedbackView({ feedback, allWords }) {
 /* ------------------------------------------------------------------ */
 
 export default function Tab4AiLab({ lesson }) {
+  if (!lesson) {
+    return (
+      <EmptyState
+        icon={FileQuestion}
+        title="Cần dữ liệu bài học để luyện với AI"
+        description="Bài này chưa được trích xuất nên chưa có danh sách từ mục tiêu."
+      />
+    );
+  }
+
   return (
     <div>
-      <AiProviderStatusBanner />
-
-      {!lesson ? (
-        <EmptyState
-          icon={FileQuestion}
-          title="Cần dữ liệu bài học để luyện với AI"
-          description="Bài này chưa được trích xuất (thiếu lessons_json/lesson_XX.json) nên chưa có danh sách từ mục tiêu. Bạn có thể bấm 'Cài đặt API & Chọn mô hình' ở trên để thiết lập trước. Hãy chạy OCR rồi quét lại, hoặc chọn bài khác."
-        />
-      ) : (
-        <>
-          <div className="mb-3 flex items-start gap-2 rounded-lg border border-sky-100 bg-sky-50 px-3 py-2.5 text-sm text-sky-900">
-            <Info className="mt-0.5 h-4 w-4 shrink-0" />
-            <span>
-              Quy trình 3 bước: AI ra câu tiếng Việt → bạn dịch sang tiếng Anh → AI chấm điểm, chỉ lỗi ngữ
-              pháp và gợi ý 2 câu viết lại chuẩn Business English.
-            </span>
-          </div>
-          <Lab lesson={lesson} />
-        </>
-      )}
+      <Lab lesson={lesson} />
     </div>
   );
 }
