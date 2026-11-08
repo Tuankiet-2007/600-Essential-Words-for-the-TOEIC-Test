@@ -14,6 +14,7 @@ import {
   BookOpenCheck,
   CheckCircle2,
   Cpu,
+  Download,
   Globe,
   Highlighter,
   Info,
@@ -23,6 +24,7 @@ import {
   Settings2,
   Sparkles,
   Trash2,
+  Upload,
   Volume2,
   Wand2,
 } from 'lucide-react';
@@ -32,7 +34,10 @@ import {
   DEFAULT_SETTINGS,
   clearAll,
   clearHistory,
+  exportAllData,
+  importAllData,
   loadProgress,
+  loadSettings,
   loadSrs,
 } from '../lib/storage.js';
 
@@ -247,6 +252,7 @@ export default function SettingsView() {
   const [confirmResetAll, setConfirmResetAll] = useState(false);
 
   const timerRef = useRef(null);
+  const fileInputRef = useRef(null);
 
   useEffect(() => () => timerRef.current && clearTimeout(timerRef.current), []);
 
@@ -255,6 +261,47 @@ export default function SettingsView() {
     if (timerRef.current) clearTimeout(timerRef.current);
     timerRef.current = setTimeout(() => setSavedBanner(''), 2200);
   }, []);
+
+  const handleExportBackup = useCallback(() => {
+    try {
+      const data = exportAllData();
+      const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      const dateStr = new Date().toISOString().slice(0, 10);
+      a.href = url;
+      a.download = `toeic600_backup_${dateStr}.json`;
+      a.click();
+      URL.revokeObjectURL(url);
+      notifySaved('Đã tải xuống file sao lưu!');
+    } catch (err) {
+      notifySaved('Lỗi xuất dữ liệu: ' + err.message);
+    }
+  }, [notifySaved]);
+
+  const handleImportBackup = useCallback(
+    (e) => {
+      const file = e.target.files?.[0];
+      if (!file) return;
+
+      const reader = new FileReader();
+      reader.onload = (event) => {
+        try {
+          const json = JSON.parse(event.target?.result);
+          importAllData(json);
+          updateSettings(loadSettings());
+          if (setProgress) setProgress(loadProgress());
+          if (setSrs) setSrs(loadSrs());
+          notifySaved('Khôi phục dữ liệu sao lưu thành công!');
+          if (fileInputRef.current) fileInputRef.current.value = '';
+        } catch (err) {
+          alert('Không thể khôi phục file sao lưu: ' + err.message);
+        }
+      };
+      reader.readAsText(file);
+    },
+    [notifySaved, updateSettings, setProgress, setSrs],
+  );
 
   const applyPatch = useCallback(
     (patch, msg) => {
@@ -793,93 +840,127 @@ export default function SettingsView() {
             </div>
           </div>
 
-          {/* Quản lý dữ liệu */}
+          {/* Quản lý dữ liệu & Sao lưu */}
           <div className="flex flex-col justify-between space-y-4 rounded-2xl border-2 border-slate-200 bg-slate-50/50 p-4">
             <div>
-              <h4 className="text-sm font-extrabold text-slate-900">Quản lý bộ nhớ học tập</h4>
+              <h4 className="text-sm font-extrabold text-slate-900">Sao lưu &amp; Bảo vệ dữ liệu học tập</h4>
               <p className="mt-1 text-xs text-slate-500">
-                Toàn bộ lịch sử luyện đề, thẻ SRS, ghi chú highlight và tiến độ bài học được lưu cục bộ
-                trong trình duyệt của bạn.
+                Toàn bộ tiến độ, thẻ SRS, điểm bài thi và ghi chú được lưu trong trình duyệt. Hãy tải file sao lưu về máy để không bị mất khi xóa dữ liệu duyệt web hoặc khi muốn chuyển sang thiết bị khác.
               </p>
             </div>
 
-            <div className="flex flex-wrap items-center gap-2.5">
-              {!confirmClearHist ? (
-                <Button
-                  size="sm"
-                  variant="secondary"
-                  type="button"
-                  onClick={() => setConfirmClearHist(true)}
-                >
-                  <Trash2 className="h-3.5 w-3.5" />
-                  Xóa toàn bộ lịch sử làm bài
-                </Button>
-              ) : (
-                <div className="flex items-center gap-2 rounded-xl border border-rose-200 bg-rose-50 px-3 py-1.5">
-                  <span className="text-xs font-bold text-rose-800">Xác nhận xóa lịch sử?</span>
-                  <Button
-                    size="sm"
-                    variant="danger"
-                    type="button"
-                    onClick={() => {
-                      clearHistory(null);
-                      setConfirmClearHist(false);
-                      notifySaved('Đã xóa toàn bộ lịch sử làm bài');
-                    }}
-                  >
-                    Xóa ngay
-                  </Button>
-                  <Button
-                    size="sm"
-                    variant="ghost"
-                    type="button"
-                    onClick={() => setConfirmClearHist(false)}
-                  >
-                    Hủy
-                  </Button>
-                </div>
-              )}
+            <input
+              ref={fileInputRef}
+              type="file"
+              accept=".json,application/json"
+              className="hidden"
+              onChange={handleImportBackup}
+            />
 
-              {!confirmResetAll ? (
-                <Button
-                  size="sm"
-                  variant="ghost"
-                  type="button"
-                  onClick={() => setConfirmResetAll(true)}
-                >
-                  <RotateCcw className="h-3.5 w-3.5" />
-                  Khôi phục gốc (Xóa hết dữ liệu)
-                </Button>
-              ) : (
-                <div className="flex items-center gap-2 rounded-xl border border-rose-300 bg-rose-50 px-3 py-1.5">
-                  <span className="text-xs font-bold text-rose-800">
-                    Xóa mọi tiến độ, SRS &amp; cài đặt?
-                  </span>
+            <div className="flex flex-wrap items-center gap-2.5">
+              <Button
+                size="sm"
+                variant="primary"
+                type="button"
+                onClick={handleExportBackup}
+                title="Tải toàn bộ tiến độ, điểm số và thẻ ghi nhớ về máy dạng file JSON"
+              >
+                <Download className="h-3.5 w-3.5" />
+                Sao lưu dữ liệu (Tải file .json)
+              </Button>
+
+              <Button
+                size="sm"
+                variant="secondary"
+                type="button"
+                onClick={() => fileInputRef.current?.click()}
+                title="Khôi phục tiến độ từ file đã sao lưu trước đó"
+              >
+                <Upload className="h-3.5 w-3.5" />
+                Khôi phục từ file sao lưu
+              </Button>
+            </div>
+
+            <div className="border-t border-slate-200 pt-3">
+              <h5 className="mb-2 text-xs font-bold text-slate-600">Vùng nguy hiểm (Xóa bộ nhớ)</h5>
+              <div className="flex flex-wrap items-center gap-2.5">
+                {!confirmClearHist ? (
                   <Button
                     size="sm"
-                    variant="danger"
+                    variant="secondary"
                     type="button"
-                    onClick={() => {
-                      clearAll();
-                      updateSettings({ ...DEFAULT_SETTINGS });
-                      if (setProgress) setProgress(loadProgress());
-                      if (setSrs) setSrs(loadSrs());
-                      setConfirmResetAll(false);
-                      notifySaved('Đã khôi phục toàn bộ dữ liệu về mặc định');
-                    }}
+                    onClick={() => setConfirmClearHist(true)}
                   >
-                    Đồng ý xóa hết
+                    <Trash2 className="h-3.5 w-3.5" />
+                    Xóa toàn bộ lịch sử làm bài
                   </Button>
+                ) : (
+                  <div className="flex items-center gap-2 rounded-xl border border-rose-200 bg-rose-50 px-3 py-1.5">
+                    <span className="text-xs font-bold text-rose-800">Xác nhận xóa lịch sử?</span>
+                    <Button
+                      size="sm"
+                      variant="danger"
+                      type="button"
+                      onClick={() => {
+                        clearHistory(null);
+                        setConfirmClearHist(false);
+                        notifySaved('Đã xóa toàn bộ lịch sử làm bài');
+                      }}
+                    >
+                      Xóa ngay
+                    </Button>
+                    <Button
+                      size="sm"
+                      variant="ghost"
+                      type="button"
+                      onClick={() => setConfirmClearHist(false)}
+                    >
+                      Hủy
+                    </Button>
+                  </div>
+                )}
+
+                {!confirmResetAll ? (
                   <Button
                     size="sm"
                     variant="ghost"
                     type="button"
-                    onClick={() => setConfirmResetAll(false)}
+                    onClick={() => setConfirmResetAll(true)}
                   >
-                    Hủy
+                    <RotateCcw className="h-3.5 w-3.5" />
+                    Khôi phục gốc (Xóa hết dữ liệu)
                   </Button>
-                </div>
-              )}
+                ) : (
+                  <div className="flex items-center gap-2 rounded-xl border border-rose-300 bg-rose-50 px-3 py-1.5">
+                    <span className="text-xs font-bold text-rose-800">
+                      Xóa mọi tiến độ, SRS &amp; cài đặt?
+                    </span>
+                    <Button
+                      size="sm"
+                      variant="danger"
+                      type="button"
+                      onClick={() => {
+                        clearAll();
+                        updateSettings({ ...DEFAULT_SETTINGS });
+                        if (setProgress) setProgress(loadProgress());
+                        if (setSrs) setSrs(loadSrs());
+                        setConfirmResetAll(false);
+                        notifySaved('Đã khôi phục toàn bộ dữ liệu về mặc định');
+                      }}
+                    >
+                      Đồng ý xóa hết
+                    </Button>
+                    <Button
+                      size="sm"
+                      variant="ghost"
+                      type="button"
+                      onClick={() => setConfirmResetAll(false)}
+                    >
+                      Hủy
+                    </Button>
+                  </div>
+                )}
+              </div>
             </div>
 
             <p className="flex items-center gap-1.5 text-[11px] text-slate-400">

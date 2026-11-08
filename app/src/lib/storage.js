@@ -179,6 +179,53 @@ export function clearAll() {
   });
 }
 
+/**
+ * Export all user state to a downloadable JSON object.
+ */
+export function exportAllData() {
+  return {
+    version: 1,
+    appName: 'Barron 600 Essential Words for the TOEIC',
+    exportedAt: new Date().toISOString(),
+    data: {
+      settings: loadSettings(),
+      srs: loadSrs(),
+      progress: loadProgress(),
+      history: loadHistory(),
+      annotations: loadAllAnnotations(),
+    },
+  };
+}
+
+/**
+ * Import and restore state from a backup JSON payload.
+ */
+export function importAllData(payload) {
+  if (!payload || typeof payload !== 'object') {
+    throw new Error('Định dạng file sao lưu không hợp lệ.');
+  }
+
+  const d = payload.data || payload;
+
+  if (d.settings && typeof d.settings === 'object') {
+    saveSettings(d.settings);
+  }
+  if (d.srs && typeof d.srs === 'object') {
+    saveSrs(d.srs);
+  }
+  if (d.progress && typeof d.progress === 'object') {
+    saveProgress(d.progress);
+  }
+  if (Array.isArray(d.history)) {
+    write(KEY_HISTORY, d.history);
+  }
+  if (d.annotations && typeof d.annotations === 'object') {
+    write(KEY_ANNOTATIONS, d.annotations);
+  }
+
+  return true;
+}
+
 export default {
   loadSettings,
   saveSettings,
@@ -195,4 +242,6 @@ export default {
   saveAnnotation,
   deleteAnnotation,
   clearAll,
+  exportAllData,
+  importAllData,
 };
