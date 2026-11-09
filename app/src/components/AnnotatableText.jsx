@@ -23,6 +23,7 @@ import {
   Volume2,
   X,
 } from 'lucide-react';
+import { ALL_WORDS } from '../data/allWords.js';
 import { useApp } from '../lib/store.jsx';
 import {
   deleteAnnotation,
@@ -55,15 +56,33 @@ function emitAnnotationSync(scopeId) {
 }
 
 /* ------------------------------------------------------------------ */
-/* Dịch & Tra từ trực tiếp (Free Google Dịch + Từ điển hoặc AI BYOK)    */
+/* Dịch & Tra từ trực tiếp (Bộ nhớ đệm + 600 từ TOEIC + Google/AI)     */
 /* ------------------------------------------------------------------ */
+
+// Bộ nhớ đệm tra từ tức thì (0ms) cho các từ đã tra
+const TRANSLATION_CACHE = new Map();
+
+/** Tra cứu tức thời 0ms trong 600 từ TOEIC */
+export function lookupCuratedWord(text) {
+  const clean = String(text ?? '').replace(/\s+/g, ' ').trim().toLowerCase();
+  if (!clean) return null;
+  const match = ALL_WORDS.find((w) => w.word.toLowerCase() === clean);
+  if (match) {
+    const pos = match.pos ? `[${match.pos}] ` : '';
+    return `${pos}${match.defVi}`;
+  }
+  return null;
+}
 
 async function fetchFreeGoogleTranslate(text) {
   const q = encodeURIComponent(text);
   const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=vi&dt=t&dt=bd&q=${q}`;
 
   try {
-    const res = await fetch(url);
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), 4000);
+    const res = await fetch(url, { signal: controller.signal });
+    clearTimeout(timeoutId);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
 
@@ -94,7 +113,10 @@ async function fetchFreeGoogleTranslate(text) {
 
   try {
     const fallbackUrl = `https://api.mymemory.translated.net/get?q=${q}&langpair=en|vi`;
-    const res2 = await fetch(fallbackUrl);
+    const controller2 = new AbortController();
+    const timeoutId2 = setTimeout(() => controller2.abort(), 3500);
+    const res2 = await fetch(fallbackUrl, { signal: controller2.signal });
+    clearTimeout(timeoutId2);
     if (res2.ok) {
       const json2 = await res2.json();
       const t2 = String(json2?.responseData?.translatedText || '').trim();
@@ -104,31 +126,45 @@ async function fetchFreeGoogleTranslate(text) {
     /* ignore */
   }
 
-  return 'Không thể kết nối máy chủ dịch tự động. Vui lòng kiểm tra kết nối mạng.';
+  return 'Không thể kết nối máy chủ dịch tự động. Vui lòng kiểm tra mạng.';
 }
 
 export async function translateSelection(text, settings) {
   const clean = String(text ?? '').replace(/\s+/g, ' ').trim();
   if (!clean) return '';
+  const lower = clean.toLowerCase();
+
+  // 1. Phản hồi tức thì 0ms nếu có trong 600 từ vựng TOEIC
+  const curated = lookupCuratedWord(clean);
+  if (curated) return curated;
+
+  // 2. Phản hồi tức thì 0ms nếu đã có trong bộ nhớ đệm
+  if (TRANSLATION_CACHE.has(lower)) {
+    return TRANSLATION_CACHE.get(lower);
+  }
 
   const mode = settings?.lookupProvider || 'free';
+  let resText = '';
+
   if (mode === 'free') {
-    return fetchFreeGoogleTranslate(clean);
+    resText = await fetchFreeGoogleTranslate(clean);
+  } else {
+    const prompt = `Dịch ngắn gọn sang tiếng Việt (kèm từ loại nếu là từ đơn, tối đa 25 từ) trong ngữ cảnh TOEIC cho: "${clean}". Chỉ trả về nội dung dịch ngắn gọn, không giải thích dài dòng.`;
+    const aiRes = await callAiForFeature(prompt, settings, mode);
+    if (aiRes.ok && aiRes.text) {
+      resText = aiRes.text.replace(/^["'“”]+|["'“”]+$/g, '').trim();
+    } else {
+      const freeText = await fetchFreeGoogleTranslate(clean);
+      resText = aiRes.missingKey
+        ? `${freeText} (Dùng Google Dịch do chưa nhập API key ${mode.toUpperCase()})`
+        : freeText;
+    }
   }
 
-  const prompt = `Dịch ngắn gọn sang tiếng Việt (kèm từ loại nếu là từ đơn, tối đa 25 từ) trong ngữ cảnh TOEIC cho: "${clean}". Chỉ trả về nội dung dịch ngắn gọn, không giải thích dài dòng.`;
-  const aiRes = await callAiForFeature(prompt, settings, mode);
-
-  if (aiRes.ok && aiRes.text) {
-    return aiRes.text.replace(/^["'“”]+|["'“”]+$/g, '').trim();
+  if (resText && !resText.startsWith('Không thể kết nối')) {
+    TRANSLATION_CACHE.set(lower, resText);
   }
-
-  // Tự động fallback về Google Dịch miễn phí nếu chưa nhập API key hoặc lỗi kết nối AI
-  const freeText = await fetchFreeGoogleTranslate(clean);
-  if (aiRes.missingKey) {
-    return `${freeText} (Dùng Google Dịch do chưa nhập API key ${mode.toUpperCase()} trong Cài đặt)`;
-  }
-  return freeText;
+  return resText;
 }
 
 /* ------------------------------------------------------------------ */
@@ -136,7 +172,7 @@ export async function translateSelection(text, settings) {
 /* ------------------------------------------------------------------ */
 
 export function HighlightToggleBar({ scopeId = 'default' }) {
-  const { settings, updateSettings, openSettings } = useApp();
+  const { settings, updateSettings, openSettings, openDictionary } = useApp();
   const [annotations, setAnnotations] = useState([]);
   const [showList, setShowList] = useState(false);
   const [showTip, setShowTip] = useState(false);
@@ -226,6 +262,17 @@ export function HighlightToggleBar({ scopeId = 'default' }) {
 
         {/* Cụm thông tin nguồn Tra từ & danh sách đánh dấu */}
         <div className="flex flex-wrap items-center gap-2 text-xs">
+          {/* Nút mở Từ điển tra cứu nhanh */}
+          <button
+            type="button"
+            onClick={() => openDictionary()}
+            className="inline-flex items-center gap-1.5 rounded-lg border-2 border-[var(--color-duo-green)] bg-[var(--color-duo-green-light)]/40 px-2.5 py-1 font-extrabold text-[var(--color-duo-green-dark)] hover:bg-[var(--color-duo-green-light)] active:scale-95 transition-all shadow-2xs"
+            title="Mở Từ điển tra từ nhanh (Phím tắt: D)"
+          >
+            <BookOpen className="h-3.5 w-3.5" />
+            <span>Từ điển</span>
+          </button>
+
           <button
             type="button"
             onClick={openSettings}
@@ -359,7 +406,7 @@ function collectEligibleTextNodes(container) {
       if (!parent) return NodeFilter.FILTER_REJECT;
       if (
         parent.closest(
-          'button, input, textarea, select, script, style, .user-ann-toolbar, .user-ann-note, .user-ann-trans, .user-ann-wrap, [data-no-annotate="true"]',
+          'button:not(.duo-choice), input, textarea, select, script, style, .user-ann-toolbar, .user-ann-note, .user-ann-trans, .user-ann-wrap, [data-no-annotate="true"]',
         )
       ) {
         return NodeFilter.FILTER_REJECT;
@@ -518,7 +565,7 @@ function applyDomAnnotations(container, annotations) {
 /* ------------------------------------------------------------------ */
 
 export function AnnotatableContainer({ scopeId = 'default', children, className = '' }) {
-  const { settings, openSettings } = useApp();
+  const { settings, openSettings, openDictionary } = useApp();
   const { speak } = useSpeech();
 
   const containerRef = useRef(null);
@@ -580,12 +627,18 @@ export function AnnotatableContainer({ scopeId = 'default', children, className 
     const observer = new MutationObserver((mutations) => {
       if (isApplyingRef.current) return;
       const relevant = mutations.some((m) => {
-        if (m.target?.closest?.('.user-ann-toolbar')) return false;
+        if (m.target?.closest?.('.user-ann-toolbar, .user-ann-note, .user-ann-trans, .user-ann-wrap')) return false;
+        for (let i = 0; i < m.addedNodes.length; i++) {
+          const n = m.addedNodes[i];
+          if (n.nodeType === 1 && n.matches?.('.user-ann-toolbar, .user-ann-note, .user-ann-trans, .user-ann-wrap')) {
+            return false;
+          }
+        }
         return true;
       });
       if (!relevant) return;
       if (debounceTimer) clearTimeout(debounceTimer);
-      debounceTimer = setTimeout(runApply, 60);
+      debounceTimer = setTimeout(runApply, 80);
     });
 
     observer.observe(el, { childList: true, subtree: true });
@@ -694,7 +747,7 @@ export function AnnotatableContainer({ scopeId = 'default', children, className 
   const handleMouseUp = (e) => {
     if (!highlightEnabled) return;
     if (toolbarRef.current && toolbarRef.current.contains(e.target)) return;
-    if (e.target?.closest?.('button, input, textarea, select')) return;
+    if (e.target?.closest?.('button:not(.duo-choice), input, textarea, select')) return;
 
     setTimeout(() => {
       const sel = window.getSelection?.();
@@ -803,9 +856,42 @@ export function AnnotatableContainer({ scopeId = 'default', children, className 
     setPopover(null);
   };
 
-  // Thao tác bấm "Tra từ" — dịch và hiện trực tiếp kế bên từ/câu
+  // Thao tác bấm "Tra từ" — dịch và hiện trực tiếp kế bên từ/câu (phản hồi siêu nhanh 0ms nếu có cache)
   const handleLookup = async () => {
     if (!popover?.text || popover.translating) return;
+    const clean = popover.text.replace(/\s+/g, ' ').trim();
+    const lower = clean.toLowerCase();
+
+    // 1. Phản hồi tức thì 0ms nếu có trong 600 từ TOEIC hoặc cache
+    const instant = lookupCuratedWord(clean) || TRANSLATION_CACHE.get(lower);
+    if (instant) {
+      const record = {
+        id: activeAnn?.id,
+        text: popover.text,
+        color: activeAnn?.color || 'blue',
+        underlineRed: Boolean(activeAnn?.underlineRed),
+        note: activeAnn?.note || '',
+        translation: instant,
+      };
+      const next = saveAnnotation(scopeId, record);
+      setAnnotations(next);
+      emitAnnotationSync(scopeId);
+      window.getSelection?.()?.removeAllRanges?.();
+      const saved = next.find((a) => a.text.toLowerCase() === popover.text.toLowerCase());
+      setPopover((prev) =>
+        prev
+          ? {
+              ...prev,
+              annId: saved?.id || prev.annId,
+              mode: 'translate',
+              translating: false,
+              transPreview: instant,
+            }
+          : null,
+      );
+      return;
+    }
+
     setPopover((prev) =>
       prev ? { ...prev, mode: 'translate', translating: true } : null,
     );
@@ -988,7 +1074,13 @@ export function AnnotatableContainer({ scopeId = 'default', children, className 
                     prev ? { ...prev, noteDraft: e.target.value } : null,
                   )
                 }
-                placeholder="Nhập ghi chú kế bên câu này…"
+                onKeyDown={(e) => {
+                  if (e.key === 'Enter') {
+                    e.preventDefault();
+                    handleSaveNote(e);
+                  }
+                }}
+                placeholder="Nhập ghi chú (Nhấn Enter để lưu)…"
                 className="w-full rounded-lg border border-slate-300 px-2.5 py-1.5 text-xs text-slate-900 outline-none focus:border-sky-500"
               />
               <div className="mt-2 flex items-center justify-end gap-1.5">
@@ -1053,8 +1145,20 @@ export function AnnotatableContainer({ scopeId = 'default', children, className 
                 </div>
               )}
 
-              <div className="mt-2 flex items-center justify-between text-[11px] text-slate-400">
-                <span>Đã gắn trực tiếp kế bên từ/câu</span>
+              <div className="mt-2.5 flex items-center justify-between text-[11px] text-slate-400">
+                <button
+                  type="button"
+                  onClick={() => {
+                    const textToLook = popover.text;
+                    setPopover(null);
+                    openDictionary(textToLook);
+                  }}
+                  className="inline-flex items-center gap-1 font-bold text-[var(--color-duo-green-dark)] hover:underline"
+                  title="Mở toàn bộ nghĩa & bài học trong Từ điển"
+                >
+                  <BookOpen className="h-3 w-3" />
+                  <span>Mở Từ điển (D) →</span>
+                </button>
                 <button
                   type="button"
                   onClick={() => {

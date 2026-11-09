@@ -5,6 +5,7 @@
  */
 import { lazy, Suspense, useEffect, useState } from 'react';
 import {
+  BookOpen,
   FileAudio,
   FileQuestion,
   Home,
@@ -21,6 +22,7 @@ import Sidebar from './components/Sidebar.jsx';
 import ReviewView from './components/ReviewView.jsx';
 import DashboardView from './components/DashboardView.jsx';
 import SettingsView from './components/SettingsView.jsx';
+import QuickDictionaryModal from './components/QuickDictionaryModal.jsx';
 import AnnotatableContainer, { HighlightToggleBar } from './components/AnnotatableText.jsx';
 import { Badge, Button, Card, EmptyState, Spinner, TabBar } from './components/ui.jsx';
 import { AppProvider, useApp } from './lib/store.jsx';
@@ -123,6 +125,7 @@ function Workspace() {
     activeView,
     openDashboard,
     openSettings,
+    openDictionary,
   } = useApp();
   const [menuOpen, setMenuOpen] = useState(false);
   const [theme, setTheme] = useState(() => {
@@ -141,6 +144,22 @@ function Workspace() {
       /* ignore */
     }
   }, [theme]);
+
+  // Phím tắt toàn cục: Nhấn 'D' để bật/tắt Từ điển tra cứu nhanh
+  useEffect(() => {
+    const handleKeyDown = (e) => {
+      if (['INPUT', 'TEXTAREA'].includes(e.target.tagName) || e.target.isContentEditable) {
+        return;
+      }
+      if (e.key === 'd' || e.key === 'D') {
+        e.preventDefault();
+        const sel = window.getSelection?.()?.toString()?.trim() || '';
+        openDictionary(sel);
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [openDictionary]);
 
   const toggleTheme = () => {
     setTheme((prev) => (prev === 'dark' ? 'light' : 'dark'));
@@ -197,6 +216,20 @@ function Workspace() {
                 <span className="hidden sm:inline">Dashboard</span>
               </Button>
             )}
+
+            {/* Nút mở Từ điển tra nhanh */}
+            <button
+              type="button"
+              onClick={() => {
+                const sel = window.getSelection?.()?.toString()?.trim() || '';
+                openDictionary(sel);
+              }}
+              title="Tra từ điển TOEIC & trực tuyến (Phím tắt: D)"
+              className="flex h-9 items-center gap-1.5 rounded-xl border-2 border-[var(--color-duo-green)] bg-[var(--color-duo-green-light)]/40 px-2.5 text-xs font-black text-[var(--color-duo-green-dark)] transition-all hover:bg-[var(--color-duo-green-light)] active:scale-95 shadow-2xs"
+            >
+              <BookOpen className="h-4 w-4" />
+              <span className="hidden sm:inline">Từ điển</span>
+            </button>
 
             {/* Nút chuyển đổi Theme Tối / Sáng */}
             <button
@@ -293,6 +326,9 @@ function Workspace() {
           </p>
         </div>
       </main>
+
+      {/* Cửa sổ Từ điển & Tra cứu nhanh */}
+      <QuickDictionaryModal />
     </div>
   );
 }

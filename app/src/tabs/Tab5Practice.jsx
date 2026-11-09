@@ -807,34 +807,50 @@ function OptionButton({
       : '';
 
   return (
-    <button
-      type="button"
-      disabled={disabled}
-      onClick={() => onSelect(letter)}
+    <div
+      role="button"
+      tabIndex={disabled ? -1 : 0}
+      onClick={(e) => {
+        // Nếu đang bôi đen chữ (để tra từ hoặc ghi chú), không chuyển đáp án
+        const sel = window.getSelection?.();
+        if (sel && !sel.isCollapsed && sel.toString().trim().length > 0) return;
+        // Nếu click vào badge ghi chú, nghĩa tra từ hoặc nút xóa của badge
+        if (e.target?.closest?.('.user-ann-wrap, .user-ann-note, .user-ann-trans, [data-del-note], [data-del-trans]')) return;
+        if (!disabled && onSelect) {
+          onSelect(letter);
+        }
+      }}
+      onKeyDown={(e) => {
+        if ((e.key === 'Enter' || e.key === ' ') && !disabled && onSelect) {
+          e.preventDefault();
+          onSelect(letter);
+        }
+      }}
       aria-pressed={selected}
-      className={`duo-choice ${tone}`}
+      aria-disabled={disabled}
+      className={`duo-choice select-text cursor-pointer ${tone}`}
     >
-      <span className="duo-choice-badge">{letter}</span>
+      <span className="duo-choice-badge select-none shrink-0">{letter}</span>
 
       {!revealText ? (
-        <span className="text-xs italic opacity-60">
+        <span className="text-xs italic opacity-60 select-none">
           Nội dung lựa chọn chỉ nghe được trong audio
         </span>
       ) : hasOptionText ? (
-        <span className="min-w-0 flex-1">{text}</span>
+        <span className="min-w-0 flex-1 select-text">{text}</span>
       ) : (
-        <span className="text-xs italic opacity-60">
+        <span className="text-xs italic opacity-60 select-none">
           (Chưa có nội dung lựa chọn trong dữ liệu)
         </span>
       )}
 
       {showVerdict && isCorrect ? (
-        <CircleCheck className="ml-auto h-5 w-5 shrink-0" />
+        <CircleCheck className="ml-auto h-5 w-5 shrink-0 text-emerald-600 select-none" />
       ) : null}
       {showVerdict && !isCorrect && selected ? (
-        <CircleX className="ml-auto h-5 w-5 shrink-0" />
+        <CircleX className="ml-auto h-5 w-5 shrink-0 text-rose-500 select-none" />
       ) : null}
-    </button>
+    </div>
   );
 }
 

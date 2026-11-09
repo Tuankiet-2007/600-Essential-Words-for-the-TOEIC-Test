@@ -38,6 +38,8 @@ export function AppProvider({ children }) {
 
   const [lessonIndex, setLessonIndex] = useState(null);
   const [pendingScrollWord, setPendingScrollWord] = useState(null);
+  const [dictionaryOpen, setDictionaryOpen] = useState(false);
+  const [dictionaryWord, setDictionaryWord] = useState('');
   const [progress, setProgress] = useState(() => loadProgress());
   const [srs, setSrs] = useState(() => loadSrs());
   const [settings, setSettings] = useState(() => loadSettings());
@@ -110,6 +112,15 @@ export function AppProvider({ children }) {
     if (targetWord) setPendingScrollWord(targetWord);
   }, []);
 
+  const openDictionary = useCallback((initialWord = '') => {
+    setDictionaryWord(initialWord);
+    setDictionaryOpen(true);
+  }, []);
+
+  const closeDictionary = useCallback(() => {
+    setDictionaryOpen(false);
+  }, []);
+
   const value = useMemo(
     () => ({
       lessonId,
@@ -127,6 +138,10 @@ export function AppProvider({ children }) {
       openLesson,
       pendingScrollWord,
       setPendingScrollWord,
+      dictionaryOpen,
+      dictionaryWord,
+      openDictionary,
+      closeDictionary,
       lessonState,
       lesson: lessonState.lesson,
       lessonIndex,
@@ -149,6 +164,10 @@ export function AppProvider({ children }) {
       openSettings,
       openLesson,
       pendingScrollWord,
+      dictionaryOpen,
+      dictionaryWord,
+      openDictionary,
+      closeDictionary,
       lessonState,
       lessonIndex,
       refreshIndex,
