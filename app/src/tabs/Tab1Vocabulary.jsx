@@ -10,7 +10,7 @@
  *
  * Owned by: vocab-dev. Imports only the frozen shared APIs.
  */
-import { useCallback, useMemo, useState } from 'react';
+import { useCallback, useEffect, useMemo, useState } from 'react';
 import { BookOpenCheck, Check, CheckCircle2, Eye, EyeOff, Layers, ListChecks, Volume2, X } from 'lucide-react';
 import { Badge, Button, Card, EmptyState, Highlighted, SectionTitle, useSpeech, useToast } from '../components/ui.jsx';
 import { useApp } from '../lib/store.jsx';
@@ -304,7 +304,10 @@ function WordCard({ entry, lesson, index, words, learned, onToggleLearned, onSpe
   const exampleCount = (entry?.examples || []).length;
 
   return (
-    <Card className="flex h-full flex-col p-4">
+    <Card
+      id={`word-${encodeURIComponent(String(entry?.word || '').toLowerCase().trim())}`}
+      className="flex h-full flex-col p-4 transition-all duration-300"
+    >
       {/* --- head: word + pos + ipa + pronounce --- */}
       <div className="flex items-start justify-between gap-3">
         <div className="min-w-0">
@@ -409,7 +412,7 @@ function WordCard({ entry, lesson, index, words, learned, onToggleLearned, onSpe
 /* ---------------- main tab ---------------- */
 
 export default function Tab1Vocabulary({ lesson }) {
-  const { lessonId: storeLessonId, progress, setProgress } = useApp();
+  const { lessonId: storeLessonId, progress, setProgress, pendingScrollWord, setPendingScrollWord } = useApp();
   const { speak, supported: speechSupported } = useSpeech();
   const { show, node: toastNode } = useToast();
 
@@ -418,6 +421,24 @@ export default function Tab1Vocabulary({ lesson }) {
   const entries = useMemo(() => lesson?.words_to_learn || [], [lesson]);
 
   const [filter, setFilter] = useState('all'); // all | learning | learned
+
+  useEffect(() => {
+    if (!pendingScrollWord || !entries.length) return;
+    setFilter('all');
+    const target = String(pendingScrollWord).toLowerCase().trim();
+    const timer = setTimeout(() => {
+      const el = document.getElementById(`word-${encodeURIComponent(target)}`);
+      if (el) {
+        el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        el.classList.add('ring-4', 'ring-[var(--color-duo-green)]', 'shadow-xl');
+        setTimeout(() => {
+          el.classList.remove('ring-4', 'ring-[var(--color-duo-green)]', 'shadow-xl');
+        }, 2500);
+      }
+      if (setPendingScrollWord) setPendingScrollWord(null);
+    }, 250);
+    return () => clearTimeout(timer);
+  }, [pendingScrollWord, entries, setPendingScrollWord]);
 
   const isLearned = useCallback(
     (w) => pickLearned(progress, lessonId, w),

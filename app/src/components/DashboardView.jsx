@@ -16,14 +16,17 @@ import {
   Flame,
   Layers,
   Play,
+  Search,
   Sparkles,
   Target,
   Trash2,
   TrendingUp,
+  X,
 } from 'lucide-react';
+import { ALL_WORDS } from '../data/allWords.js';
 import { THEMES, TOTAL_WORDS, lessonTitle } from '../data/curriculum.js';
 import { isDue } from '../lib/srs.js';
-import { clearHistory, deleteHistoryItem, loadHistory } from '../lib/storage.js';
+import { clearHistory, deleteHistoryItem, loadHistory, srsKey } from '../lib/storage.js';
 import { useApp } from '../lib/store.jsx';
 import { Button, Card, ProgressBar, useToast } from './ui.jsx';
 
@@ -104,14 +107,83 @@ function SrsDonut({ scheduled, total }) {
   );
 }
 
+const CATEGORY_META = {
+  mastered: {
+    label: 'Thuộc lòng',
+    color: 'text-emerald-600 dark:text-emerald-400',
+    activeRing: 'ring-2 ring-[var(--color-duo-green)] bg-[var(--color-duo-bg-soft)] shadow-sm',
+  },
+  young: {
+    label: 'Đang nhớ',
+    color: 'text-sky-600 dark:text-sky-400',
+    activeRing: 'ring-2 ring-[var(--color-duo-blue)] bg-[var(--color-duo-bg-soft)] shadow-sm',
+  },
+  critical: {
+    label: 'Cần ôn',
+    color: 'text-amber-600 dark:text-amber-400',
+    activeRing: 'ring-2 ring-[var(--color-duo-yellow)] bg-[var(--color-duo-bg-soft)] shadow-sm',
+  },
+  unseen: {
+    label: 'Chưa học',
+    color: 'text-slate-400 dark:text-slate-300',
+    activeRing: 'ring-2 ring-slate-400 bg-[var(--color-duo-bg-soft)] shadow-sm',
+  },
+};
+
 export default function DashboardView() {
   const { progress, srs, openLesson, openSrsReview, setReviewThemeId, setActiveView } = useApp();
   const { show, node } = useToast();
   const [history, setHistory] = useState(() => loadHistory());
+  const [selectedCategory, setSelectedCategory] = useState(null);
+  const [wordFilter, setWordFilter] = useState('');
 
   useEffect(() => {
     setHistory(loadHistory());
   }, [progress, srs]);
+
+  const categorizedWords = useMemo(() => {
+    const mastered = [];
+    const young = [];
+    const critical = [];
+    const unseen = [];
+
+    for (const item of ALL_WORDS) {
+      const key = srsKey(item.lessonId, item.word);
+      const card = srs?.[key];
+      if (!card) {
+        unseen.push(item);
+      } else {
+        const interval = Number(card.interval || 0);
+        const lastGrade = Number(card.lastGrade || 0);
+        if (lastGrade === 1 || interval <= 1) {
+          critical.push({ ...item, interval, lastGrade });
+        } else if (interval >= 7) {
+          mastered.push({ ...item, interval, lastGrade });
+        } else {
+          young.push({ ...item, interval, lastGrade });
+        }
+      }
+    }
+
+    return { mastered, young, critical, unseen };
+  }, [srs]);
+
+  const filteredCategoryWords = useMemo(() => {
+    if (!selectedCategory) return [];
+    const list = categorizedWords[selectedCategory] || [];
+    if (!wordFilter.trim()) return list;
+    const q = wordFilter.toLowerCase().trim();
+    return list.filter(
+      (w) =>
+        w.word.toLowerCase().includes(q) ||
+        (w.defVi && w.defVi.toLowerCase().includes(q)),
+    );
+  }, [selectedCategory, categorizedWords, wordFilter]);
+
+  const handleSelectCategory = (cat) => {
+    setSelectedCategory((prev) => (prev === cat ? null : cat));
+    setWordFilter('');
+  };
 
   const metrics = useMemo(() => {
     const now = new Date();
@@ -276,77 +348,167 @@ export default function DashboardView() {
           <div className="md:col-span-8">
             <div className="grid grid-cols-4 gap-2 pt-2">
               {/* Cột 1: Thuộc lòng */}
-              <div className="flex flex-col items-center gap-1.5">
+              <button
+                type="button"
+                onClick={() => handleSelectCategory('mastered')}
+                className={`group flex flex-col items-center gap-1.5 rounded-2xl p-2 transition-all hover:bg-[var(--color-duo-bg-soft)] active:scale-95 ${
+                  selectedCategory === 'mastered' ? CATEGORY_META.mastered.activeRing : ''
+                }`}
+                title="Bấm để xem danh sách từ Thuộc lòng"
+              >
                 <span className="text-xs font-black text-emerald-600">
-                  {metrics.masteredCount}
+                  {categorizedWords.mastered.length}
                 </span>
                 <div className="flex h-24 w-full items-end justify-center rounded-xl bg-[var(--color-duo-bg-soft)] p-1">
                   <div
-                    className="w-full rounded-lg bg-[var(--color-duo-green)] transition-all"
+                    className="w-full rounded-lg bg-[var(--color-duo-green)] transition-all group-hover:opacity-90"
                     style={{
-                      height: `${Math.max(12, (metrics.masteredCount / maxBarVal) * 100)}%`,
+                      height: `${Math.max(12, (categorizedWords.mastered.length / maxBarVal) * 100)}%`,
                     }}
                   />
                 </div>
                 <span className="text-center text-[11px] font-extrabold text-[var(--color-duo-ink)]">
                   Thuộc lòng
                 </span>
-              </div>
+              </button>
 
               {/* Cột 2: Đang nhớ */}
-              <div className="flex flex-col items-center gap-1.5">
-                <span className="text-xs font-black text-sky-600">{metrics.youngCount}</span>
+              <button
+                type="button"
+                onClick={() => handleSelectCategory('young')}
+                className={`group flex flex-col items-center gap-1.5 rounded-2xl p-2 transition-all hover:bg-[var(--color-duo-bg-soft)] active:scale-95 ${
+                  selectedCategory === 'young' ? CATEGORY_META.young.activeRing : ''
+                }`}
+                title="Bấm để xem danh sách từ Đang nhớ"
+              >
+                <span className="text-xs font-black text-sky-600">
+                  {categorizedWords.young.length}
+                </span>
                 <div className="flex h-24 w-full items-end justify-center rounded-xl bg-[var(--color-duo-bg-soft)] p-1">
                   <div
-                    className="w-full rounded-lg bg-[var(--color-duo-blue)] transition-all"
+                    className="w-full rounded-lg bg-[var(--color-duo-blue)] transition-all group-hover:opacity-90"
                     style={{
-                      height: `${Math.max(12, (metrics.youngCount / maxBarVal) * 100)}%`,
+                      height: `${Math.max(12, (categorizedWords.young.length / maxBarVal) * 100)}%`,
                     }}
                   />
                 </div>
                 <span className="text-center text-[11px] font-extrabold text-[var(--color-duo-ink)]">
                   Đang nhớ
                 </span>
-              </div>
+              </button>
 
               {/* Cột 3: Cần ôn */}
-              <div className="flex flex-col items-center gap-1.5">
+              <button
+                type="button"
+                onClick={() => handleSelectCategory('critical')}
+                className={`group flex flex-col items-center gap-1.5 rounded-2xl p-2 transition-all hover:bg-[var(--color-duo-bg-soft)] active:scale-95 ${
+                  selectedCategory === 'critical' ? CATEGORY_META.critical.activeRing : ''
+                }`}
+                title="Bấm để xem danh sách từ Cần ôn"
+              >
                 <span className="text-xs font-black text-amber-600">
-                  {metrics.criticalCount}
+                  {categorizedWords.critical.length}
                 </span>
                 <div className="flex h-24 w-full items-end justify-center rounded-xl bg-[var(--color-duo-bg-soft)] p-1">
                   <div
-                    className="w-full rounded-lg bg-[var(--color-duo-yellow)] transition-all"
+                    className="w-full rounded-lg bg-[var(--color-duo-yellow)] transition-all group-hover:opacity-90"
                     style={{
-                      height: `${Math.max(12, (metrics.criticalCount / maxBarVal) * 100)}%`,
+                      height: `${Math.max(12, (categorizedWords.critical.length / maxBarVal) * 100)}%`,
                     }}
                   />
                 </div>
                 <span className="text-center text-[11px] font-extrabold text-[var(--color-duo-ink)]">
                   Cần ôn
                 </span>
-              </div>
+              </button>
 
               {/* Cột 4: Chưa học */}
-              <div className="flex flex-col items-center gap-1.5">
+              <button
+                type="button"
+                onClick={() => handleSelectCategory('unseen')}
+                className={`group flex flex-col items-center gap-1.5 rounded-2xl p-2 transition-all hover:bg-[var(--color-duo-bg-soft)] active:scale-95 ${
+                  selectedCategory === 'unseen' ? CATEGORY_META.unseen.activeRing : ''
+                }`}
+                title="Bấm để xem danh sách từ Chưa học"
+              >
                 <span className="text-xs font-black text-slate-400">
-                  {metrics.unseenCount}
+                  {categorizedWords.unseen.length}
                 </span>
                 <div className="flex h-24 w-full items-end justify-center rounded-xl bg-[var(--color-duo-bg-soft)] p-1">
                   <div
-                    className="w-full rounded-lg bg-slate-300 transition-all"
+                    className="w-full rounded-lg bg-slate-300 dark:bg-slate-600 transition-all group-hover:opacity-90"
                     style={{
-                      height: `${Math.max(12, (metrics.unseenCount / maxBarVal) * 100)}%`,
+                      height: `${Math.max(12, (categorizedWords.unseen.length / maxBarVal) * 100)}%`,
                     }}
                   />
                 </div>
                 <span className="text-center text-[11px] font-extrabold text-[var(--color-duo-muted)]">
                   Chưa học
                 </span>
-              </div>
+              </button>
             </div>
           </div>
         </div>
+
+        {/* Danh sách từ khi bấm vào 1 trong 4 mục */}
+        {selectedCategory && (
+          <div className="mt-4 border-t-2 border-[var(--color-duo-line)] pt-3">
+            <div className="mb-2.5 flex flex-wrap items-center justify-between gap-2">
+              <div className="flex items-center gap-2">
+                <span className={`text-xs font-black uppercase tracking-wider ${CATEGORY_META[selectedCategory]?.color}`}>
+                  {CATEGORY_META[selectedCategory]?.label}
+                </span>
+                <span className="rounded-full bg-[var(--color-duo-bg-soft)] px-2 py-0.5 text-[11px] font-bold text-[var(--color-duo-muted)]">
+                  {filteredCategoryWords.length} từ
+                </span>
+              </div>
+
+              <div className="flex items-center gap-2">
+                <div className="relative">
+                  <Search className="pointer-events-none absolute left-2.5 top-1/2 h-3.5 w-3.5 -translate-y-1/2 text-[var(--color-duo-muted)]" />
+                  <input
+                    type="text"
+                    value={wordFilter}
+                    onChange={(e) => setWordFilter(e.target.value)}
+                    placeholder="Tìm từ..."
+                    className="h-7 w-28 sm:w-40 rounded-xl border border-[var(--color-duo-line)] bg-[var(--color-duo-bg-soft)] pl-8 pr-2 text-xs font-bold text-[var(--color-duo-ink)] outline-none focus:border-[var(--color-duo-green)]"
+                  />
+                </div>
+                <button
+                  type="button"
+                  onClick={() => setSelectedCategory(null)}
+                  className="rounded-lg p-1 text-[var(--color-duo-muted)] hover:bg-[var(--color-duo-bg-soft)] hover:text-[var(--color-duo-ink)]"
+                  title="Đóng"
+                >
+                  <X className="h-4 w-4" />
+                </button>
+              </div>
+            </div>
+
+            {filteredCategoryWords.length === 0 ? (
+              <p className="py-4 text-center text-xs font-bold text-[var(--color-duo-muted)]">
+                Không tìm thấy từ nào.
+              </p>
+            ) : (
+              <div className="flex max-h-60 flex-wrap gap-1.5 overflow-y-auto p-1">
+                {filteredCategoryWords.map((item) => (
+                  <button
+                    key={`${item.lessonId}-${item.word}`}
+                    type="button"
+                    onClick={() => openLesson(item.lessonId, 'vocab', item.word)}
+                    className="group flex items-center gap-1.5 rounded-xl border border-[var(--color-duo-line)] bg-white px-2.5 py-1 text-xs font-bold text-[var(--color-duo-ink)] shadow-sm transition hover:border-[var(--color-duo-green)] hover:bg-[var(--color-duo-green-light)]/20 hover:text-[var(--color-duo-green-dark)] active:scale-95 dark:bg-[#1f2937]"
+                    title={`Bài ${String(item.lessonId).padStart(2, '0')}: ${item.defVi}`}
+                  >
+                    <span className="rounded-md bg-[var(--color-duo-bg-soft)] px-1 py-0.5 text-[10px] font-black text-[var(--color-duo-muted)] group-hover:text-[var(--color-duo-green-dark)]">
+                      {`L${String(item.lessonId).padStart(2, '0')}`}
+                    </span>
+                    <span>{item.word}</span>
+                  </button>
+                ))}
+              </div>
+            )}
+          </div>
+        )}
       </Card>
 
       {/* 3. BIỂU ĐỒ 2: TIẾN ĐỘ 10 CHỦ ĐỀ (MINIMAL CARDS) */}

@@ -37,6 +37,7 @@ export function AppProvider({ children }) {
   });
 
   const [lessonIndex, setLessonIndex] = useState(null);
+  const [pendingScrollWord, setPendingScrollWord] = useState(null);
   const [progress, setProgress] = useState(() => loadProgress());
   const [srs, setSrs] = useState(() => loadSrs());
   const [settings, setSettings] = useState(() => loadSettings());
@@ -101,11 +102,12 @@ export function AppProvider({ children }) {
     setActiveView('settings');
   }, []);
 
-  const openLesson = useCallback((id, nextTab = 'vocab') => {
+  const openLesson = useCallback((id, nextTab = 'vocab', targetWord = null) => {
     setReviewThemeId(null);
     setActiveView('lesson');
     if (id) setLessonId(id);
     if (nextTab) setTab(nextTab);
+    if (targetWord) setPendingScrollWord(targetWord);
   }, []);
 
   const value = useMemo(
@@ -123,6 +125,8 @@ export function AppProvider({ children }) {
       srsParams,
       openSettings,
       openLesson,
+      pendingScrollWord,
+      setPendingScrollWord,
       lessonState,
       lesson: lessonState.lesson,
       lessonIndex,
@@ -144,6 +148,7 @@ export function AppProvider({ children }) {
       srsParams,
       openSettings,
       openLesson,
+      pendingScrollWord,
       lessonState,
       lessonIndex,
       refreshIndex,
