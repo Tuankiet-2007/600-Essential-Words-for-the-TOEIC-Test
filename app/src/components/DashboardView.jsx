@@ -125,8 +125,8 @@ const CATEGORY_META = {
   },
   unseen: {
     label: 'Chưa học',
-    color: 'text-slate-400 dark:text-slate-300',
-    activeRing: 'ring-2 ring-slate-400 bg-[var(--color-duo-bg-soft)] shadow-sm',
+    color: 'text-slate-400 dark:text-slate-400',
+    activeRing: 'ring-2 ring-slate-300 dark:ring-slate-600 bg-[var(--color-duo-bg-soft)] shadow-sm',
   },
 };
 
@@ -436,7 +436,7 @@ export default function DashboardView() {
                 </span>
                 <div className="flex h-24 w-full items-end justify-center rounded-xl bg-[var(--color-duo-bg-soft)] p-1">
                   <div
-                    className="w-full rounded-lg bg-slate-300 dark:bg-slate-600 transition-all group-hover:opacity-90"
+                    className="w-full rounded-lg bg-slate-200 dark:bg-slate-700 transition-all group-hover:opacity-90"
                     style={{
                       height: `${Math.max(12, (categorizedWords.unseen.length / maxBarVal) * 100)}%`,
                     }}
@@ -496,13 +496,15 @@ export default function DashboardView() {
                     key={`${item.lessonId}-${item.word}`}
                     type="button"
                     onClick={() => openLesson(item.lessonId, 'vocab', item.word)}
-                    className="group flex items-center gap-1.5 rounded-xl border border-[var(--color-duo-line)] bg-white px-2.5 py-1 text-xs font-bold text-[var(--color-duo-ink)] shadow-sm transition hover:border-[var(--color-duo-green)] hover:bg-[var(--color-duo-green-light)]/20 hover:text-[var(--color-duo-green-dark)] active:scale-95 dark:bg-[#1f2937]"
+                    className="group flex items-center gap-1.5 rounded-xl border border-[var(--color-duo-line)] bg-white px-2.5 py-1 text-xs font-bold text-[var(--color-duo-ink)] shadow-sm transition hover:border-[var(--color-duo-green)] hover:bg-[var(--color-duo-green-light)]/20 hover:text-[var(--color-duo-green-dark)] active:scale-95"
                     title={`Bài ${String(item.lessonId).padStart(2, '0')}: ${item.defVi}`}
                   >
                     <span className="rounded-md bg-[var(--color-duo-bg-soft)] px-1 py-0.5 text-[10px] font-black text-[var(--color-duo-muted)] group-hover:text-[var(--color-duo-green-dark)]">
                       {`L${String(item.lessonId).padStart(2, '0')}`}
                     </span>
-                    <span>{item.word}</span>
+                    <span className="text-[var(--color-duo-ink)] group-hover:text-[var(--color-duo-green-dark)]">
+                      {item.word}
+                    </span>
                   </button>
                 ))}
               </div>

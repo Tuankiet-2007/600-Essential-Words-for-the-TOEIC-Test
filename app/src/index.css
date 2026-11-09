@@ -1,5 +1,7 @@
 @import 'tailwindcss';
 
+@variant dark (&:where(.dark, .dark *));
+
 /* ---------- Barron's 600 TOEIC — design tokens ---------- */
 @theme {
   --color-brand-50: #eef4ff;
