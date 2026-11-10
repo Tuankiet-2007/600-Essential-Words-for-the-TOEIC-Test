@@ -292,6 +292,7 @@ function CompactQuizCard({
   const handleKeyDown = (e) => {
     if (e.key === 'Enter') {
       e.preventDefault();
+      e.stopPropagation();
       if (state === 'answering') {
         handleCheck();
       } else {
@@ -300,11 +301,14 @@ function CompactQuizCard({
     }
   };
 
-  // Phím tắt nghe phát âm khi đã trả lời xong câu hỏi
+  // Phím tắt khi đã trả lời xong câu hỏi (Enter để tiếp tục, R/E để nghe phát âm)
   useEffect(() => {
     const onKey = (e) => {
       if (state === 'answering') return;
-      if (e.key === 'r' || e.key === 'R') {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        onNext?.();
+      } else if (e.key === 'r' || e.key === 'R') {
         e.preventDefault();
         speak(item.answer || entry.word);
       } else if (e.key === 'e' || e.key === 'E') {
@@ -315,7 +319,7 @@ function CompactQuizCard({
     };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
-  }, [state, item, entry, speak]);
+  }, [state, item, entry, speak, onNext]);
 
   const families = useMemo(() => collectEntryFamilies(entry, lessonObj), [entry, lessonObj]);
 
@@ -355,16 +359,16 @@ function CompactQuizCard({
               value={value}
               onChange={(e) => setValue(e.target.value)}
               onKeyDown={handleKeyDown}
-              disabled={state !== 'answering'}
+              readOnly={state !== 'answering'}
               placeholder={
                 item.type === 'base_word' ? 'Gõ từ gốc...' : 'Gõ từ đúng dạng ngữ cảnh...'
               }
               className={`flex-1 rounded-2xl border-2 px-4 py-3 text-base font-extrabold outline-none transition-all placeholder:text-[var(--color-duo-muted)] ${
                 state === 'correct'
-                  ? 'border-[var(--color-duo-green)] bg-emerald-50 text-emerald-800'
+                  ? 'border-[var(--color-duo-green)] bg-emerald-50 text-emerald-800 dark:bg-emerald-950/40 dark:text-emerald-200'
                   : state === 'wrong'
-                    ? 'border-[var(--color-duo-red)] bg-rose-50 text-rose-800'
-                    : 'border-[var(--color-duo-line)] bg-white text-[var(--color-duo-ink)] focus:border-[var(--color-duo-blue)]'
+                    ? 'border-[var(--color-duo-red)] bg-rose-50 text-rose-800 dark:bg-rose-950/40 dark:text-rose-200'
+                    : 'border-[var(--color-duo-line)] bg-white text-[var(--color-duo-ink)] focus:border-[var(--color-duo-blue)] dark:bg-slate-800 dark:text-slate-100'
               }`}
             />
 
@@ -381,6 +385,7 @@ function CompactQuizCard({
               <Button
                 variant={state === 'correct' ? 'primary' : 'secondary'}
                 onClick={onNext}
+                title="Bấm Enter hoặc click để tiếp tục"
                 className="shrink-0 px-5 !text-sm font-black uppercase tracking-wider"
               >
                 Tiếp tục →
@@ -393,19 +398,19 @@ function CompactQuizCard({
             <div
               className={`mt-2.5 flex items-center justify-between rounded-xl px-3.5 py-2 text-xs font-black ${
                 state === 'correct'
-                  ? 'bg-emerald-100 text-emerald-900'
+                  ? 'bg-emerald-100 text-emerald-900 dark:bg-emerald-950/60 dark:text-emerald-200'
                   : state === 'wrong'
-                    ? 'bg-rose-100 text-rose-900'
-                    : 'bg-amber-100 text-amber-900'
+                    ? 'bg-rose-100 text-rose-900 dark:bg-rose-950/60 dark:text-rose-200'
+                    : 'bg-amber-100 text-amber-900 dark:bg-amber-950/60 dark:text-amber-200'
               }`}
             >
               <div className="flex items-center gap-2">
                 {state === 'correct' ? (
-                  <CheckCircle2 className="h-4 w-4 shrink-0 text-emerald-600" />
+                  <CheckCircle2 className="h-4 w-4 shrink-0 text-emerald-600 dark:text-emerald-400" />
                 ) : state === 'wrong' ? (
-                  <XCircle className="h-4 w-4 shrink-0 text-rose-600" />
+                  <XCircle className="h-4 w-4 shrink-0 text-rose-600 dark:text-rose-400" />
                 ) : (
-                  <AlertCircle className="h-4 w-4 shrink-0 text-amber-600" />
+                  <AlertCircle className="h-4 w-4 shrink-0 text-amber-600 dark:text-amber-400" />
                 )}
                 <span>{feedbackMsg}</span>
               </div>
@@ -414,7 +419,7 @@ function CompactQuizCard({
                 <button
                   type="button"
                   onClick={() => speak(item.answer)}
-                  className="inline-flex items-center gap-1 text-[11px] font-bold text-slate-700 hover:underline"
+                  className="inline-flex items-center gap-1 text-[11px] font-bold text-slate-700 dark:text-slate-300 hover:underline"
                 >
                   <Volume2 className="h-3.5 w-3.5" />
                   Phát âm
@@ -888,6 +893,7 @@ export default function Tab3Srs({
         </Card>
       ) : currentQuestion ? (
         <CompactQuizCard
+          key={currentQuestion.uid}
           item={currentQuestion}
           index={cursor}
           total={quizQuestions.length}
