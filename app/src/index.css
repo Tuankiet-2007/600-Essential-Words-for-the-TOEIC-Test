@@ -778,8 +778,9 @@ html.dark mark.vocab-hit,
 .dark mark.vocab-hit,
 .dark .vocab-hit {
   background: rgba(250, 204, 21, 0.22) !important;
+  background-image: none !important;
   color: #fde047 !important;
-  border-bottom: 2px solid #facc15;
+  border-bottom: 2px solid #facc15 !important;
   font-weight: 800;
   padding: 1px 4px;
   border-radius: 4px;
@@ -787,9 +788,11 @@ html.dark mark.vocab-hit,
 }
 
 /* Fallback cho thẻ mark mặc định ở theme tối */
-html.dark mark {
-  background-color: rgba(250, 204, 21, 0.25);
-  color: #fde047;
+html.dark mark,
+.dark mark {
+  background: rgba(250, 204, 21, 0.25) !important;
+  background-image: none !important;
+  color: #fde047 !important;
 }
 
 /* Bôi đen ghi chú thủ công của người dùng (AnnotatableText) ở theme tối */

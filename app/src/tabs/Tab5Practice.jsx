@@ -65,12 +65,10 @@ import {
   loadTapescripts,
   tapescriptFor,
 } from '../lib/answerKey.js';
-import { recordReview } from '../lib/srs.js';
 import {
   clearHistory,
   deleteHistoryItem,
   loadHistory,
-  markWordLearned,
   pushHistory,
 } from '../lib/storage.js';
 import { useApp } from '../lib/store.jsx';
@@ -1972,19 +1970,7 @@ export default function Tab5Practice({ lesson }) {
       return;
     }
     try {
-      for (const q of allQuestions) {
-        const expected = normalizeLetter(q.answer);
-        // Only questions with a known answer can drive SRS/progress honestly.
-        if (!expected) continue;
-        const chosen = normalizeLetter(answers[q.num]);
-        const correct = chosen === expected;
-        // Touch every target word so the lesson shows up in progress + review.
-        for (const w of lesson.words_to_learn || []) {
-          if (!w?.word) continue;
-          markWordLearned(id, w.word, true);
-          recordReview(id, w.word, correct ? 3 : 1, { source: 'practice' });
-        }
-      }
+      // CHỈ LƯU LỊCH SỬ THI ĐỀ TOEIC — TUYỆT ĐỐI KHÔNG GỌI recordReview / can thiệp SRS
       const nextHist = pushHistory({
         type: 'practice',
         lessonId: id,

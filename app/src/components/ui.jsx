@@ -92,7 +92,7 @@ export function Highlighted({ text, words, className = '' }) {
         seg.hit ? (
           <mark
             key={i}
-            className="vocab-hit dark:!text-yellow-300 dark:!bg-yellow-400/20 dark:border-b-2 dark:border-yellow-400 font-bold px-1 rounded-xs"
+            className="vocab-hit font-bold px-1 rounded-xs dark:!bg-none dark:!bg-yellow-400/20 dark:!text-yellow-300 dark:border-b-2 dark:border-yellow-400"
           >
             {seg.text}
           </mark>

@@ -11,11 +11,12 @@
  * Owned by: vocab-dev. Imports only the frozen shared APIs.
  */
 import { useCallback, useEffect, useMemo, useState } from 'react';
-import { BookOpenCheck, Check, CheckCircle2, Eye, EyeOff, Layers, ListChecks, Volume2, X } from 'lucide-react';
+import { ArrowRight, BookOpenCheck, Check, CheckCircle2, Eye, EyeOff, Layers, ListChecks, Sparkles, Volume2, X } from 'lucide-react';
 import { Badge, Button, Card, EmptyState, Highlighted, SectionTitle, useSpeech, useToast } from '../components/ui.jsx';
 import { useApp } from '../lib/store.jsx';
 import { familiesForEntry, groupFamilyRows, normalizeFamilyRows } from '../lib/lessonLoader.js';
 import { markWordLearned } from '../lib/storage.js';
+import { freshCard, loadSrs, saveSrs, srsKey } from '../lib/srs.js';
 import { WORD_FAMILY_LABEL, WORD_FAMILY_ORDER } from '../lib/types.js';
 
 /* ---------------- local helpers (tab-private) ---------------- */
@@ -258,11 +259,11 @@ function WordFamilyTable({ rows, words }) {
                       <p className="break-words text-[13px] font-extrabold text-[var(--color-duo-green-dark)]">
                         {r.word}
                         {r.pos_source === 'derived' ? (
-                          <span className="ml-1 align-middle text-[9.5px] font-bold uppercase text-[var(--color-duo-orange)]">
+                          <span className="ml-1 inline-block whitespace-nowrap align-middle text-[9.5px] font-bold uppercase text-[var(--color-duo-orange)]">
                             suy ra
                           </span>
                         ) : r.pos_source === 'extended' ? (
-                          <span className="ml-1 rounded bg-sky-100 px-1 py-0.5 align-middle text-[9px] font-bold uppercase text-sky-700">
+                          <span className="ml-1 inline-block whitespace-nowrap rounded bg-sky-100 dark:bg-sky-950/70 dark:border dark:border-sky-800 px-1 py-0.5 align-middle text-[9px] font-bold uppercase text-sky-700 dark:text-sky-300">
                             mở rộng
                           </span>
                         ) : null}
@@ -412,7 +413,7 @@ function WordCard({ entry, lesson, index, words, learned, onToggleLearned, onSpe
 /* ---------------- main tab ---------------- */
 
 export default function Tab1Vocabulary({ lesson }) {
-  const { lessonId: storeLessonId, progress, setProgress, pendingScrollWord, setPendingScrollWord } = useApp();
+  const { lessonId: storeLessonId, progress, setProgress, pendingScrollWord, setPendingScrollWord, setTab } = useApp();
   const { speak, supported: speechSupported } = useSpeech();
   const { show, node: toastNode } = useToast();
 
@@ -454,6 +455,28 @@ export default function Tab1Vocabulary({ lesson }) {
     (word, next) => {
       const map = markWordLearned(lessonId, word, next);
       setProgress({ ...map });
+
+      // Khởi tạo thẻ SRS đồng bộ nếu người học tự đánh dấu đã học
+      if (next) {
+        try {
+          const allSrs = loadSrs();
+          const key = srsKey(lessonId, word);
+          if (!allSrs[key]) {
+            allSrs[key] = {
+              ...freshCard(),
+              word,
+              lessonId,
+              lastGrade: 3,
+              interval: 1,
+              reps: 1,
+            };
+            saveSrs(allSrs);
+          }
+        } catch {
+          /* ignore */
+        }
+      }
+
       show(next ? `Đã đánh dấu: ${word}` : `Bỏ đánh dấu: ${word}`, next ? 'emerald' : 'brand');
     },
     [lessonId, setProgress, show],
@@ -491,9 +514,20 @@ export default function Tab1Vocabulary({ lesson }) {
 
       <SectionTitle
         icon={BookOpenCheck}
-        title="Vocabulary"
+        title="Vocabulary (Sổ tay từ vựng)"
         right={
           <div className="flex flex-wrap items-center gap-2">
+            <Button
+              size="sm"
+              variant="primary"
+              onClick={() => setTab?.('flashcard')}
+              className="gap-1.5 shadow-xs"
+              title="Chuyển sang Flashcard (Tab 2) để tiếp cận và học từ mới theo chuẩn Anki"
+            >
+              <Sparkles className="h-3.5 w-3.5" />
+              <span>Luyện Flashcard (Tab 2)</span>
+              <ArrowRight className="h-3.5 w-3.5" />
+            </Button>
             <Badge tone={learnedCount === entries.length ? 'emerald' : 'brand'}>
               {learnedCount}/{entries.length} đã học
             </Badge>
@@ -528,20 +562,48 @@ export default function Tab1Vocabulary({ lesson }) {
       ) : null}
 
       {shown.length ? (
-        <div className="grid grid-cols-1 gap-4 xl:grid-cols-2">
-          {shown.map((entry) => (
-            <WordCard
-              key={entry.id ?? entry.word}
-              entry={entry}
-              lesson={lesson}
-              index={entries.indexOf(entry)}
-              words={words}
-              learned={isLearned(entry.word)}
-              onToggleLearned={handleToggleLearned}
-              onSpeak={handleSpeak}
-              speechSupported={speechSupported}
-            />
-          ))}
+        <div className="space-y-4">
+          <div className="grid grid-cols-1 gap-4 xl:grid-cols-2">
+            {shown.map((entry) => (
+              <WordCard
+                key={entry.id ?? entry.word}
+                entry={entry}
+                lesson={lesson}
+                index={entries.indexOf(entry)}
+                words={words}
+                learned={isLearned(entry.word)}
+                onToggleLearned={handleToggleLearned}
+                onSpeak={handleSpeak}
+                speechSupported={speechSupported}
+              />
+            ))}
+          </div>
+
+          {/* Banner chuyển tiếp sang Tab 2 Flashcard */}
+          <Card className="flex flex-wrap items-center justify-between gap-3 p-4 border-2 border-[var(--color-duo-blue)] bg-[var(--color-duo-blue-light)]/40 dark:bg-slate-800/80">
+            <div className="flex items-center gap-3">
+              <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-[var(--color-duo-blue)] text-white shadow-xs">
+                <Sparkles className="h-5 w-5" />
+              </div>
+              <div>
+                <h4 className="text-sm font-black text-slate-900 dark:text-white">
+                  Bắt đầu nạp từ vào trí nhớ qua Flashcard?
+                </h4>
+                <p className="text-xs font-semibold text-slate-500 dark:text-slate-400">
+                  Lướt nhanh 12 từ với câu đục lỗ ngữ cảnh, nghe audio và tự lượng giá để kích hoạt chu kỳ SM-2.
+                </p>
+              </div>
+            </div>
+            <Button
+              variant="primary"
+              size="md"
+              onClick={() => setTab?.('flashcard')}
+              className="gap-2"
+            >
+              <span>Vào Flashcard ngay</span>
+              <ArrowRight className="h-4 w-4" />
+            </Button>
+          </Card>
         </div>
       ) : (
         <EmptyState

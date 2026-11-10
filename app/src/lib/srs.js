@@ -8,6 +8,7 @@
  *   4 = Easy   (quá dễ)
  */
 import { loadSrs, saveSrs, srsKey } from './storage.js';
+export { loadSrs, saveSrs, srsKey };
 
 export const GRADES = {
   1: { id: 1, label: 'Again', vi: 'Quên', quality: 1, color: 'rose' },
@@ -19,9 +20,51 @@ export const GRADES = {
 const DAY_MS = 24 * 60 * 60 * 1000;
 const MIN_EASE = 1.3;
 
+export const CUTOFF_HOUR = 4; // Mốc chuyển ngày theo chuẩn Anki: 04:00 AM
+
+/**
+ * Trả về chuỗi ngày YYYY-MM-DD theo mốc chuyển ngày 04:00 AM.
+ * Nếu thời gian hiện tại từ 00:00 đến 03:59, ngày hiệu dụng sẽ thuộc về ngày hôm trước.
+ * @param {Date|string} dateInput
+ * @param {number} cutoffHour
+ * @returns {string} định dạng YYYY-MM-DD
+ */
+export function getEffectiveDayString(dateInput = new Date(), cutoffHour = CUTOFF_HOUR) {
+  const d = new Date(dateInput);
+  if (Number.isNaN(d.getTime())) return new Date().toISOString().slice(0, 10);
+
+  // Lùi lại số giờ tương ứng với cutoffHour
+  d.setHours(d.getHours() - cutoffHour);
+
+  const year = d.getFullYear();
+  const month = String(d.getMonth() + 1).padStart(2, '0');
+  const day = String(d.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
+}
+
+/**
+ * Tính toán ngày đáo hạn mới đảm bảo neo vào mốc cutoff 04:00 AM.
+ * @param {number} interval Số ngày giãn cách
+ * @param {Date} now
+ * @returns {string} ISO Date string
+ */
+export function calculateNextDueDate(interval, now = new Date()) {
+  const target = new Date(now);
+  target.setDate(target.getDate() + interval);
+  target.setHours(CUTOFF_HOUR, 0, 0, 0);
+  return target.toISOString();
+}
+
 /** @returns {import('./storage.js').SrsCard} */
 export function freshCard() {
-  return { ease: 2.5, interval: 0, reps: 0, due: new Date().toISOString(), lapses: 0, lastGrade: 0 };
+  return {
+    ease: 2.5,
+    interval: 0,
+    reps: 0,
+    due: new Date().toISOString(),
+    lapses: 0,
+    lastGrade: 0,
+  };
 }
 
 /**
@@ -57,15 +100,20 @@ export function review(card, grade, now = new Date()) {
   }
 
   interval = Math.max(1, Math.min(interval, 365));
-  const due = new Date(now.getTime() + interval * DAY_MS);
+  const due = calculateNextDueDate(interval, now);
 
-  return { ease: Number(ease.toFixed(3)), interval, reps, due: due.toISOString(), lapses, lastGrade: grade };
+  return { ease: Number(ease.toFixed(3)), interval, reps, due, lapses, lastGrade: grade };
 }
 
-/** True when a card is due for review right now. */
+/**
+ * True when a card is due for review right now based on 04:00 AM cutoff.
+ * Thẻ đến hạn khi ngày đáo hạn hiệu dụng <= ngày hôm nay hiệu dụng.
+ */
 export function isDue(card, now = new Date()) {
-  if (!card) return true;
-  return new Date(card.due).getTime() <= now.getTime();
+  if (!card || !card.due) return true;
+  const todayDayKey = getEffectiveDayString(now, CUTOFF_HOUR);
+  const cardDueDayKey = getEffectiveDayString(new Date(card.due), CUTOFF_HOUR);
+  return cardDueDayKey <= todayDayKey;
 }
 
 /**

@@ -13,11 +13,12 @@
  * Owned by: vocab-dev. Imports only the frozen shared APIs.
  */
 import { useCallback, useEffect, useMemo, useState } from 'react';
-import { Eye, Layers, RotateCcw, Shuffle, Sparkles, Volume2 } from 'lucide-react';
+import { ArrowRight, BookOpen, CheckCircle2, Eye, Layers, RotateCcw, Shuffle, Sparkles, Volume2 } from 'lucide-react';
 import { Badge, Button, Card, EmptyState, Highlighted, ProgressBar, SectionTitle, useSpeech, useToast } from '../components/ui.jsx';
 import { makeCloze } from '../lib/assets.js';
 import { familiesForEntry } from '../lib/lessonLoader.js';
 import { GRADES, recordReview } from '../lib/srs.js';
+import { markWordLearned } from '../lib/storage.js';
 import { useApp } from '../lib/store.jsx';
 import { WORD_FAMILY_LABEL, WORD_FAMILY_ORDER } from '../lib/types.js';
 
@@ -236,7 +237,7 @@ function WordFamilyTable({ rows, words, className = '' }) {
 /* ---------------- main tab ---------------- */
 
 export default function Tab2Flashcards({ lesson }) {
-  const { lessonId: storeLessonId } = useApp();
+  const { lessonId: storeLessonId, setProgress, setTab, openSrsReview } = useApp();
   const { speak, supported: speechSupported } = useSpeech();
   const { show, node: toastNode } = useToast();
 
@@ -246,7 +247,7 @@ export default function Tab2Flashcards({ lesson }) {
 
   /**
    * Deck state is keyed by lesson so a lesson switch resets during render
-   * (no setState-in-effect, no double render).
+   * Hỗ trợ Re-queue theo chuẩn Anki và tập hợp passedSet đếm từ hoàn thành.
    */
   const deckKey = entries.map((e) => e?.id ?? e?.word).join('|');
   const [deck, setDeck] = useState(() => ({
@@ -255,26 +256,37 @@ export default function Tab2Flashcards({ lesson }) {
     pos: 0,
     flipped: false,
     graded: 0,
+    passedSet: new Set(),
     lastGrade: null,
   }));
 
-  const freshDeck = (order) => ({ key: deckKey, order, pos: 0, flipped: false, graded: 0, lastGrade: null });
+  const freshDeck = (order) => ({
+    key: deckKey,
+    order,
+    pos: 0,
+    flipped: false,
+    graded: 0,
+    passedSet: new Set(),
+    lastGrade: null,
+  });
 
   // Render-phase reset: React re-renders immediately with the derived state.
   const state = deck.key === deckKey ? deck : freshDeck(entries.map((_, i) => i));
   if (deck.key !== deckKey) setDeck(state);
 
-  const { order, pos, flipped, graded: gradedCount, lastGrade } = state;
+  const { order, pos, flipped, graded: gradedCount, passedSet, lastGrade } = state;
   const setFlipped = useCallback((v) => setDeck((d) => ({ ...d, flipped: typeof v === 'function' ? v(d.flipped) : v })), []);
   const setPos = useCallback((v) => setDeck((d) => ({ ...d, pos: typeof v === 'function' ? v(d.pos) : v })), []);
 
-  const total = order.length;
-  const cardIndex = total ? order[Math.min(pos, total - 1)] : -1;
+  const totalInQueue = order.length;
+  const totalUnique = entries.length;
+  const isFinished = totalUnique > 0 && (pos >= totalInQueue || passedSet.size >= totalUnique);
+  const cardIndex = (!isFinished && totalInQueue && pos < totalInQueue) ? order[pos] : -1;
   const entry = cardIndex >= 0 ? entries[cardIndex] : null;
 
   /** First in-book example, cloze-blanked on the front, full on the back. */
   const primary = entry?.examples?.[0] || null;
-  const clozeText = primary ? makeCloze(primary.en, entry.word) : '';
+  const clozeText = primary && entry ? makeCloze(primary.en, entry.word) : '';
   const familyRows = useMemo(() => combinedFamiliesFor(entry, lesson), [entry, lesson]);
   const frontCollocations = entry?.usage?.collocations?.length
     ? entry.usage.collocations
@@ -290,22 +302,55 @@ export default function Tab2Flashcards({ lesson }) {
     [entries, deckKey],
   );
 
-  /** Grade via SM-2 and move to the next card (advancing past the end wraps once). */
+  /**
+   * Grade via SM-2:
+   * 1. Kích hoạt First-Touch: Tự động đánh dấu từ đã học trong progress
+   * 2. Ghi nhận chu kỳ SM-2 vào toeic_srs
+   * 3. Cơ chế Re-queue Anki: Bấm Again (1) -> thẻ tự động đẩy về cuối hàng đợi
+   */
   const grade = useCallback(
     (g) => {
       if (!entry) return;
+
+      // 1. First-Touch sync sang progress
+      try {
+        const nextProg = markWordLearned(lessonId, entry.word, true);
+        if (setProgress) setProgress({ ...nextProg });
+      } catch {
+        /* ignore */
+      }
+
+      // 2. SM-2 update
       recordReview(lessonId, entry.word, g);
-      setDeck((d) => ({
-        ...d,
-        lastGrade: g,
-        graded: d.graded + 1,
-        flipped: false,
-        pos: d.order.length ? (d.pos + 1) % d.order.length : 0,
-      }));
-      const meta = GRADES[g];
-      show(`${meta.label} · ${meta.vi} — ${entry.word}`, meta.color === 'rose' ? 'rose' : 'emerald');
+
+      // 3. Re-queue logic
+      setDeck((d) => {
+        const nextOrder = [...d.order];
+        const nextPassed = new Set(d.passedSet);
+
+        if (g === 1) {
+          // Again: Chèn lại vào cuối hàng đợi phiên học
+          nextOrder.push(cardIndex);
+          show(`Cần nhớ lại: "${entry.word}" (sẽ xuất hiện lại ở cuối)`, 'rose');
+        } else {
+          // Hard / Good / Easy: Ghi nhận đã vượt qua từ này
+          nextPassed.add(cardIndex);
+          const meta = GRADES[g];
+          show(`${meta.label} · ${meta.vi} — ${entry.word}`, meta.color === 'amber' ? 'brand' : 'emerald');
+        }
+
+        return {
+          ...d,
+          order: nextOrder,
+          passedSet: nextPassed,
+          lastGrade: g,
+          graded: d.graded + 1,
+          flipped: false,
+          pos: d.pos + 1,
+        };
+      });
     },
-    [entry, lessonId, show],
+    [entry, lessonId, cardIndex, setProgress, show],
   );
 
   /* ---- keyboard shortcuts: Tab (lật & đọc), Enter (tiếp tục), R (đọc từ), E (đọc ví dụ), Space, 1/2/3/4 ---- */
@@ -378,7 +423,7 @@ export default function Tab2Flashcards({ lesson }) {
     };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
-  }, [flip, grade, entry, primary, speak, setFlipped, setPos, total]);
+  }, [flip, grade, entry, primary, speak, setFlipped, setPos, totalInQueue]);
 
   /* --- null-safe empty state --- */
   if (!lesson || !entries.length) {
@@ -395,7 +440,8 @@ export default function Tab2Flashcards({ lesson }) {
     );
   }
 
-  const progressPct = total ? Math.round((gradedCount / total) * 100) : 0;
+  const passedCount = passedSet.size;
+  const progressPct = totalUnique ? Math.round((passedCount / totalUnique) * 100) : 0;
 
   return (
     <div className="space-y-4">
@@ -406,10 +452,10 @@ export default function Tab2Flashcards({ lesson }) {
         title="Flashcard"
         right={
           <div className="flex flex-wrap items-center gap-2">
-            <Badge tone="brand">
-              Thẻ {total ? Math.min(pos + 1, total) : 0}/{total}
+            <Badge tone={passedCount === totalUnique ? 'emerald' : 'brand'}>
+              {passedCount}/{totalUnique} từ đã thuộc
             </Badge>
-            <Badge tone="slate">Đã chấm {gradedCount}</Badge>
+            <Badge tone="slate">Lượt chấm: {gradedCount}</Badge>
             <Button size="sm" variant="secondary" onClick={() => restart(true)} title="Xáo trộn bộ thẻ">
               <Shuffle className="h-3.5 w-3.5" />
               Xáo trộn
@@ -424,16 +470,68 @@ export default function Tab2Flashcards({ lesson }) {
 
       <div className="mx-auto max-w-3xl">
         <div className="mb-1.5 flex items-center justify-between text-[11px] font-extrabold uppercase tracking-wide text-[var(--color-duo-gray)]">
-          <span>Tiến độ bộ thẻ</span>
+          <span>Tiến độ bài học (First-Touch)</span>
           <span className="tabular-nums text-[var(--color-duo-green-dark)]">
-            {gradedCount}/{total} thẻ · {progressPct}%
+            {passedCount}/{totalUnique} từ đã qua · {progressPct}%
           </span>
         </div>
-        <ProgressBar value={gradedCount} max={Math.max(total, 1)} />
+        <ProgressBar value={passedCount} max={Math.max(totalUnique, 1)} />
       </div>
 
-      {/* ---------- FLIP CARD ---------- */}
-      <div className="flip-scene mx-auto h-[560px] w-full max-w-3xl">
+      {/* MÀN HÌNH HOÀN THÀNH PHIÊN FLASHCARD (NẾU ĐÃ PASS HẾT TẤT CẢ TỪ) */}
+      {isFinished ? (
+        <Card className="mx-auto max-w-2xl p-7 text-center">
+          <div className="mx-auto flex h-16 w-16 items-center justify-center rounded-2xl bg-[var(--color-duo-green)] text-white shadow-[0_4px_0_0_var(--color-duo-green-dark)]">
+            <CheckCircle2 className="h-8 w-8" />
+          </div>
+          <h3 className="mt-4 text-2xl font-black text-slate-900 dark:text-white">
+            Hoàn thành xuất sắc bộ thẻ Bài {String(lessonId).padStart(2, '0')}!
+          </h3>
+          <p className="mt-2 text-sm font-semibold text-slate-600 dark:text-slate-300">
+            Bạn đã tiếp cận và tự đánh giá đầy đủ {totalUnique}/{totalUnique} từ vựng mục tiêu theo chuẩn Anki.
+            Trạng thái <span className="text-emerald-600 font-bold">"Đã học"</span> đã được kích hoạt đồng bộ vào Sổ tay và Lịch ôn tập SM-2.
+          </p>
+
+          <div className="mt-6 flex flex-wrap justify-center gap-3">
+            <Button
+              variant="primary"
+              size="md"
+              onClick={() => {
+                if (openSrsReview) {
+                  openSrsReview({ filter: 'lesson', lessonId });
+                } else if (setTab) {
+                  setTab('srs');
+                }
+              }}
+              className="gap-2"
+            >
+              <span>Gõ từ ôn tập (Active Recall)</span>
+              <ArrowRight className="h-4 w-4" />
+            </Button>
+            <Button
+              variant="secondary"
+              size="md"
+              onClick={() => setTab?.('vocab')}
+              className="gap-2"
+            >
+              <BookOpen className="h-4 w-4" />
+              <span>Xem Sổ tay từ vựng</span>
+            </Button>
+            <Button
+              variant="ghost"
+              size="md"
+              onClick={() => restart(false)}
+              className="gap-2"
+            >
+              <RotateCcw className="h-4 w-4" />
+              <span>Luyện lại bộ thẻ</span>
+            </Button>
+          </div>
+        </Card>
+      ) : entry ? (
+        <>
+          {/* ---------- FLIP CARD ---------- */}
+          <div className="flip-scene mx-auto h-[560px] w-full max-w-3xl">
         <div className={`flip-inner ${flipped ? 'is-flipped' : ''}`}>
           {/* ================= FRONT ================= */}
           <div className="flip-face front">
@@ -629,36 +727,38 @@ export default function Tab2Flashcards({ lesson }) {
         </div>
       </div>
 
-      {/* ---------- grade row also reachable before flipping ---------- */}
-      <div className="mx-auto flex max-w-3xl flex-wrap items-center justify-between gap-3">
-        <p className="text-[11.5px] font-semibold text-[var(--color-duo-muted)]">
-          Phím tắt: <kbd className="rounded border border-[var(--color-duo-line)] bg-[var(--color-duo-bg-soft)] px-1.5 py-0.5 font-mono text-[10.5px]">Tab</kbd> Lật &amp; Đọc · <kbd className="rounded border border-[var(--color-duo-line)] bg-[var(--color-duo-bg-soft)] px-1.5 py-0.5 font-mono text-[10.5px]">Enter</kbd> Tiếp tục · <kbd className="rounded border border-[var(--color-duo-line)] bg-[var(--color-duo-bg-soft)] px-1.5 py-0.5 font-mono text-[10.5px]">R</kbd> Đọc từ · <kbd className="rounded border border-[var(--color-duo-line)] bg-[var(--color-duo-bg-soft)] px-1.5 py-0.5 font-mono text-[10.5px]">1-4</kbd> Chấm điểm
-        </p>
-        <div className="flex gap-2.5">
-          <Button
-            size="sm"
-            variant="secondary"
-            onClick={() => {
-              setFlipped(false);
-              setPos((p) => (total ? (p - 1 + total) % total : 0));
-            }}
-          >
-            ← Thẻ trước
-          </Button>
-          <Button
-            size="sm"
-            variant="secondary"
-            onClick={() => {
-              setFlipped(false);
-              setPos((p) => (total ? (p + 1) % total : 0));
-            }}
-          >
-            Thẻ sau →
-          </Button>
+        {/* ---------- grade row also reachable before flipping ---------- */}
+        <div className="mx-auto flex max-w-3xl flex-wrap items-center justify-between gap-3">
+          <p className="text-[11.5px] font-semibold text-[var(--color-duo-muted)]">
+            Phím tắt: <kbd className="rounded border border-[var(--color-duo-line)] bg-[var(--color-duo-bg-soft)] px-1.5 py-0.5 font-mono text-[10.5px]">Tab</kbd> Lật &amp; Đọc · <kbd className="rounded border border-[var(--color-duo-line)] bg-[var(--color-duo-bg-soft)] px-1.5 py-0.5 font-mono text-[10.5px]">Enter</kbd> Tiếp tục · <kbd className="rounded border border-[var(--color-duo-line)] bg-[var(--color-duo-bg-soft)] px-1.5 py-0.5 font-mono text-[10.5px]">R</kbd> Đọc từ · <kbd className="rounded border border-[var(--color-duo-line)] bg-[var(--color-duo-bg-soft)] px-1.5 py-0.5 font-mono text-[10.5px]">1-4</kbd> Chấm điểm
+          </p>
+          <div className="flex gap-2.5">
+            <Button
+              size="sm"
+              variant="secondary"
+              onClick={() => {
+                setFlipped(false);
+                setPos((p) => (totalInQueue ? (p - 1 + totalInQueue) % totalInQueue : 0));
+              }}
+            >
+              ← Thẻ trước
+            </Button>
+            <Button
+              size="sm"
+              variant="secondary"
+              onClick={() => {
+                setFlipped(false);
+                setPos((p) => (totalInQueue ? (p + 1) % totalInQueue : 0));
+              }}
+            >
+              Thẻ sau →
+            </Button>
+          </div>
         </div>
-      </div>
-    </div>
-  );
+      </>
+    ) : null}
+  </div>
+);
 }
 
 /** Render a cloze string, styling the blank and highlighting any other target words. */

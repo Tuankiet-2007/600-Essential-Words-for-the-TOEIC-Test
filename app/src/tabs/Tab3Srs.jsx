@@ -260,23 +260,8 @@ function CompactQuizCard({
       setFeedbackMsg('Chính xác tuyệt đối!');
       speak(item.answer);
 
-      // Tự động chấm điểm SRS theo số lần sai:
-      // 0 sai -> Grade 4 (Easy)
-      // 1 sai -> Grade 3 (Good)
-      // >= 2 sai -> Grade 1 (Again)
-      const autoGrade = wrongCount === 0 ? 4 : wrongCount === 1 ? 3 : 1;
-      try {
-        recordReview(lessonId, entry.word, autoGrade, {
-          mode: item.type,
-          form: item.answer,
-        });
-        if (autoGrade >= 3) {
-          markWordLearned(lessonId, entry.word, true);
-        }
-      } catch {
-        /* ignore */
-      }
-      onReviewed?.({ uid: item.uid, ok: true, grade: autoGrade });
+      // Gửi kết quả câu hỏi lên Tab3Srs để thực hiện Session-level Aggregation
+      onReviewed?.({ uid: item.uid, item, isCorrect: true, wrongCount });
     } else {
       const nextWrong = wrongCount + 1;
       setWrongCount(nextWrong);
@@ -293,15 +278,8 @@ function CompactQuizCard({
         setShowTheory(true);
         speak(item.answer);
 
-        try {
-          recordReview(lessonId, entry.word, 1, {
-            mode: item.type,
-            form: item.answer,
-          });
-        } catch {
-          /* ignore */
-        }
-        onReviewed?.({ uid: item.uid, ok: false, grade: 1 });
+        // Gửi kết quả câu hỏi lên Tab3Srs để thực hiện Session-level Aggregation
+        onReviewed?.({ uid: item.uid, item, isCorrect: false, wrongCount: nextWrong });
 
         // Tự cuộn nhẹ xuống xem lý thuyết nếu cần
         setTimeout(() => {
@@ -321,6 +299,23 @@ function CompactQuizCard({
       }
     }
   };
+
+  // Phím tắt nghe phát âm khi đã trả lời xong câu hỏi
+  useEffect(() => {
+    const onKey = (e) => {
+      if (state === 'answering') return;
+      if (e.key === 'r' || e.key === 'R') {
+        e.preventDefault();
+        speak(item.answer || entry.word);
+      } else if (e.key === 'e' || e.key === 'E') {
+        e.preventDefault();
+        const sentence = item.fullEn || item.promptEn || '';
+        if (sentence) speak(sentence.replace(/_{3,}/g, item.answer));
+      }
+    };
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  }, [state, item, entry, speak]);
 
   const families = useMemo(() => collectEntryFamilies(entry, lessonObj), [entry, lessonObj]);
 
@@ -447,9 +442,9 @@ function CompactQuizCard({
           </div>
 
           <Card className="p-4 sm:p-5">
-            <div className="flex flex-wrap items-baseline justify-between gap-2 border-b border-slate-100 pb-3">
+            <div className="flex flex-wrap items-baseline justify-between gap-2 border-b border-slate-100 dark:border-slate-800 pb-3">
               <div className="flex items-baseline gap-2.5">
-                <h4 className="text-xl font-black text-slate-900">{entry.word}</h4>
+                <h4 className="text-xl font-black text-slate-900 dark:text-slate-100">{entry.word}</h4>
                 {entry.pos && <Badge tone="violet">{entry.pos}</Badge>}
                 {entry.ipa && (
                   <span className="font-mono text-xs text-slate-400">{entry.ipa}</span>
@@ -462,11 +457,11 @@ function CompactQuizCard({
             </div>
 
             <div className="mt-3 space-y-1.5 text-xs sm:text-sm">
-              <p className="font-semibold text-slate-800">
+              <p className="font-semibold text-slate-800 dark:text-slate-200">
                 <span className="font-black text-slate-400">EN:</span> {entry.definition_en}
               </p>
               {entry.definition_vi && (
-                <p className="font-bold text-emerald-700">
+                <p className="font-bold text-emerald-700 dark:text-emerald-400">
                   <span className="font-black text-slate-400">VI:</span> {entry.definition_vi}
                 </p>
               )}
@@ -474,7 +469,7 @@ function CompactQuizCard({
 
             {/* Các câu ví dụ trong sách */}
             {(entry.examples || []).length > 0 && (
-              <div className="mt-4 border-t border-slate-100 pt-3">
+              <div className="mt-4 border-t border-slate-100 dark:border-slate-800 pt-3">
                 <p className="mb-2 text-[11px] font-black uppercase tracking-wider text-slate-400">
                   Câu ví dụ thực tế:
                 </p>
@@ -486,13 +481,13 @@ function CompactQuizCard({
                         <button
                           type="button"
                           onClick={() => speak(ex.en)}
-                          className="shrink-0 text-slate-400 hover:text-slate-700"
+                          className="shrink-0 text-slate-400 hover:text-slate-700 dark:hover:text-slate-200"
                           title="Phát âm câu"
                         >
                           <Volume2 className="h-3.5 w-3.5" />
                         </button>
                       </div>
-                      {ex.vi && <p className="mt-1 text-xs text-slate-500">{ex.vi}</p>}
+                      {ex.vi && <p className="mt-1 text-xs text-slate-500 dark:text-slate-400">{ex.vi}</p>}
                     </li>
                   ))}
                 </ul>
@@ -501,14 +496,14 @@ function CompactQuizCard({
 
             {/* Bảng họ từ mở rộng */}
             {families.length > 0 && (
-              <div className="mt-4 border-t border-slate-100 pt-3">
+              <div className="mt-4 border-t border-slate-100 dark:border-slate-800 pt-3">
                 <p className="mb-2 text-[11px] font-black uppercase tracking-wider text-slate-400">
                   Gia đình từ (Word Family):
                 </p>
                 <div className="overflow-x-auto">
                   <table className="w-full text-left text-xs">
                     <thead>
-                      <tr className="border-b border-slate-200 text-slate-400">
+                      <tr className="border-b border-slate-200 dark:border-slate-700 text-slate-400">
                         <th className="py-1 font-bold">Từ loại</th>
                         <th className="py-1 font-bold">Từ</th>
                         <th className="py-1 font-bold">Ví dụ</th>
@@ -516,12 +511,12 @@ function CompactQuizCard({
                     </thead>
                     <tbody>
                       {families.map((f, i) => (
-                        <tr key={i} className="border-b border-slate-100">
-                          <td className="py-1.5 font-bold text-sky-700">
+                        <tr key={i} className="border-b border-slate-100 dark:border-slate-800/60">
+                          <td className="py-1.5 font-bold text-sky-700 dark:text-sky-400">
                             {WORD_FAMILY_LABEL[f.pos] || f.pos}
                           </td>
-                          <td className="py-1.5 font-black text-slate-800">{f.word}</td>
-                          <td className="py-1.5 text-slate-600">{f.example || '—'}</td>
+                          <td className="py-1.5 font-black text-slate-800 dark:text-slate-100">{f.word}</td>
+                          <td className="py-1.5 text-slate-600 dark:text-slate-300">{f.example || '—'}</td>
                         </tr>
                       ))}
                     </tbody>
@@ -682,6 +677,7 @@ export default function Tab3Srs({
 
   // Tạo câu hỏi Random (Shuffle) mỗi lần thay đổi tập từ hoặc bấm làm lại
   const [quizQuestions, setQuizQuestions] = useState([]);
+  const [sessionTracker, setSessionTracker] = useState({});
 
   const initQuiz = useCallback(() => {
     if (!activeWordRecords.length) return;
@@ -689,6 +685,7 @@ export default function Tab3Srs({
     setQuizQuestions(qList);
     setCursor(0);
     setSessionResults([]);
+    setSessionTracker({});
     setFinished(false);
   }, [activeWordRecords]);
 
@@ -704,13 +701,102 @@ export default function Tab3Srs({
     if (cursor + 1 < quizQuestions.length) {
       setCursor((c) => c + 1);
     } else {
+      // Đảm bảo an toàn: Chốt SM-2 cho bất kỳ từ nào đã làm bài nếu chưa được ghi
+      setSessionTracker((prev) => {
+        const next = { ...prev };
+        for (const [, rec] of Object.entries(next)) {
+          if (!rec.recorded && rec.answeredQuestions?.length > 0) {
+            const finalGrade = rec.totalErrors <= 1 ? 3 : 1;
+            try {
+              recordReview(rec.lessonId, rec.word, finalGrade, { source: 'active_recall_end' });
+              if (finalGrade >= 3) {
+                markWordLearned(rec.lessonId, rec.word, true);
+              }
+            } catch {
+              /* ignore */
+            }
+            rec.recorded = true;
+          }
+        }
+        return next;
+      });
       setFinished(true);
     }
   };
 
-  const handleReviewed = (res) => {
+  /**
+   * Session-level Aggregation theo chuẩn Anki:
+   * Gom toàn bộ kết quả các câu hỏi của cùng một từ trong phiên,
+   * sau đó chốt 1 điểm SM-2 duy nhất cho từ đó, loại bỏ triệt để lỗi ghi đè 2 lần.
+   */
+  const handleReviewed = useCallback((res) => {
+    const { item, isCorrect, wrongCount } = res;
+    if (!item?.entry?.word) return;
+
+    const wKey = srsKey(item.lessonId, item.entry.word);
+
+    setSessionTracker((prev) => {
+      const prevRecord = prev[wKey] || {
+        lessonId: item.lessonId,
+        word: item.entry.word,
+        totalErrors: 0,
+        answeredQuestions: [],
+        recorded: false,
+      };
+
+      const updated = {
+        ...prevRecord,
+        totalErrors: prevRecord.totalErrors + (isCorrect ? wrongCount : 2),
+        answeredQuestions: [
+          ...prevRecord.answeredQuestions,
+          { uid: item.uid, type: item.type, isCorrect, wrongCount },
+        ],
+      };
+
+      // Đếm tổng số câu hỏi được tạo cho từ này trong bộ câu hỏi phiên hiện tại
+      const totalQuestionsForThisWord = quizQuestions.filter(
+        (q) => q.lessonId === item.lessonId && q.entry.word === item.entry.word,
+      ).length;
+
+      // Khi người học đã trả lời xong toàn bộ câu hỏi của từ này -> CHỐT ĐIỂM SM-2 DUY NHẤT
+      if (!updated.recorded && updated.answeredQuestions.length >= totalQuestionsForThisWord) {
+        let finalGrade = 3; // Mặc định Good
+
+        // Đúng tuyệt đối không sai lần nào ở tất cả các câu hỏi của từ này
+        if (
+          updated.totalErrors === 0 &&
+          updated.answeredQuestions.every((q) => q.isCorrect && q.wrongCount === 0)
+        ) {
+          finalGrade = 4; // Easy
+        } else if (
+          updated.totalErrors <= 1 &&
+          updated.answeredQuestions.every((q) => q.isCorrect)
+        ) {
+          finalGrade = 3; // Good
+        } else {
+          finalGrade = 1; // Again
+        }
+
+        try {
+          recordReview(item.lessonId, item.entry.word, finalGrade, {
+            source: 'active_recall_session',
+            errors: updated.totalErrors,
+          });
+          if (finalGrade >= 3) {
+            markWordLearned(item.lessonId, item.entry.word, true);
+          }
+        } catch {
+          /* ignore */
+        }
+
+        updated.recorded = true;
+      }
+
+      return { ...prev, [wKey]: updated };
+    });
+
     setSessionResults((prev) => [...prev, res]);
-  };
+  }, [quizQuestions]);
 
   return (
     <div className="space-y-3">
