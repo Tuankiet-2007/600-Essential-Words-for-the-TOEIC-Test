@@ -23,6 +23,7 @@ import ReviewView from './components/ReviewView.jsx';
 import DashboardView from './components/DashboardView.jsx';
 import SettingsView from './components/SettingsView.jsx';
 import QuickDictionaryModal from './components/QuickDictionaryModal.jsx';
+import AskAiPopup from './components/AskAiPopup.jsx';
 import AnnotatableContainer, { HighlightToggleBar } from './components/AnnotatableText.jsx';
 import { Badge, Button, Card, EmptyState, Spinner, TabBar } from './components/ui.jsx';
 import { AppProvider, useApp } from './lib/store.jsx';
@@ -126,6 +127,8 @@ function Workspace() {
     openDashboard,
     openSettings,
     openDictionary,
+    openAskAi,
+    toggleAskAi,
   } = useApp();
   const [menuOpen, setMenuOpen] = useState(false);
   const [theme, setTheme] = useState(() => {
@@ -231,6 +234,20 @@ function Workspace() {
               <span className="hidden sm:inline">Từ điển</span>
             </button>
 
+            {/* Nút mở Hỏi AI Trợ lý */}
+            <button
+              type="button"
+              onClick={() => {
+                const sel = window.getSelection?.()?.toString()?.trim() || '';
+                toggleAskAi(sel ? `Giải thích giúp tôi đoạn này: "${sel}"` : '');
+              }}
+              title="Hỏi AI Trợ lý Tiếng Anh & TOEIC"
+              className="flex h-9 items-center gap-1.5 rounded-xl border-2 border-purple-400/80 bg-purple-50 dark:bg-purple-950/40 px-2.5 text-xs font-black text-purple-700 dark:text-purple-300 transition-all hover:bg-purple-100 dark:hover:bg-purple-900/50 active:scale-95 shadow-2xs"
+            >
+              <Sparkles className="h-4 w-4 text-purple-600 dark:text-purple-400" />
+              <span className="hidden sm:inline">Hỏi AI</span>
+            </button>
+
             {/* Nút chuyển đổi Theme Tối / Sáng */}
             <button
               type="button"
@@ -329,6 +346,9 @@ function Workspace() {
 
       {/* Cửa sổ Từ điển & Tra cứu nhanh */}
       <QuickDictionaryModal />
+
+      {/* Trợ lý Hỏi AI Pop-up */}
+      <AskAiPopup />
     </div>
   );
 }

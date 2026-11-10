@@ -40,6 +40,8 @@ export function AppProvider({ children }) {
   const [pendingScrollWord, setPendingScrollWord] = useState(null);
   const [dictionaryOpen, setDictionaryOpen] = useState(false);
   const [dictionaryWord, setDictionaryWord] = useState('');
+  const [askAiOpen, setAskAiOpen] = useState(false);
+  const [askAiContext, setAskAiContext] = useState('');
   const [progress, setProgress] = useState(() => loadProgress());
   const [srs, setSrs] = useState(() => loadSrs());
   const [settings, setSettings] = useState(() => loadSettings());
@@ -121,6 +123,24 @@ export function AppProvider({ children }) {
     setDictionaryOpen(false);
   }, []);
 
+  const openAskAi = useCallback((contextOrPrompt = '') => {
+    setAskAiContext(contextOrPrompt);
+    setAskAiOpen(true);
+  }, []);
+
+  const closeAskAi = useCallback(() => {
+    setAskAiOpen(false);
+  }, []);
+
+  const toggleAskAi = useCallback((contextOrPrompt = '') => {
+    setAskAiOpen((prev) => {
+      if (!prev && contextOrPrompt) {
+        setAskAiContext(contextOrPrompt);
+      }
+      return !prev;
+    });
+  }, []);
+
   const value = useMemo(
     () => ({
       lessonId,
@@ -142,6 +162,11 @@ export function AppProvider({ children }) {
       dictionaryWord,
       openDictionary,
       closeDictionary,
+      askAiOpen,
+      askAiContext,
+      openAskAi,
+      closeAskAi,
+      toggleAskAi,
       lessonState,
       lesson: lessonState.lesson,
       lessonIndex,
@@ -168,6 +193,11 @@ export function AppProvider({ children }) {
       dictionaryWord,
       openDictionary,
       closeDictionary,
+      askAiOpen,
+      askAiContext,
+      openAskAi,
+      closeAskAi,
+      toggleAskAi,
       lessonState,
       lessonIndex,
       refreshIndex,

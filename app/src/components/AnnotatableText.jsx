@@ -19,6 +19,7 @@ import {
   PenLine,
   Search,
   Settings2,
+  Sparkles,
   Trash2,
   Volume2,
   X,
@@ -172,7 +173,7 @@ export async function translateSelection(text, settings) {
 /* ------------------------------------------------------------------ */
 
 export function HighlightToggleBar({ scopeId = 'default' }) {
-  const { settings, updateSettings, openSettings, openDictionary } = useApp();
+  const { settings, updateSettings, openSettings, openDictionary, openAskAi } = useApp();
   const [annotations, setAnnotations] = useState([]);
   const [showList, setShowList] = useState(false);
   const [showTip, setShowTip] = useState(false);
@@ -271,6 +272,17 @@ export function HighlightToggleBar({ scopeId = 'default' }) {
           >
             <BookOpen className="h-3.5 w-3.5" />
             <span>Từ điển</span>
+          </button>
+
+          {/* Nút mở Hỏi AI */}
+          <button
+            type="button"
+            onClick={() => openAskAi()}
+            className="inline-flex items-center gap-1.5 rounded-lg border-2 border-purple-400 bg-purple-50 dark:bg-purple-950/40 px-2.5 py-1 text-xs font-extrabold text-purple-700 dark:text-purple-300 hover:bg-purple-100 active:scale-95 transition-all shadow-2xs"
+            title="Mở Trợ lý Hỏi AI (Giải đáp ngữ pháp & đề thi)"
+          >
+            <Sparkles className="h-3.5 w-3.5 text-purple-600 dark:text-purple-400" />
+            <span>Hỏi AI</span>
           </button>
 
           <button
@@ -565,7 +577,7 @@ function applyDomAnnotations(container, annotations) {
 /* ------------------------------------------------------------------ */
 
 export function AnnotatableContainer({ scopeId = 'default', children, className = '' }) {
-  const { settings, openSettings, openDictionary } = useApp();
+  const { settings, openSettings, openDictionary, openAskAi } = useApp();
   const { speak } = useSpeech();
 
   const containerRef = useRef(null);
@@ -1005,6 +1017,23 @@ export function AnnotatableContainer({ scopeId = 'default', children, className 
                 <Search className="h-4 w-4" />
               )}
               <span className="text-[11px] font-semibold">Tra từ</span>
+            </button>
+
+            <div className="h-8 w-px bg-slate-500/70" />
+
+            {/* Nút Hỏi AI */}
+            <button
+              type="button"
+              onClick={() => {
+                const text = popover.text;
+                setPopover(null);
+                openAskAi(`Giải thích giúp tôi câu/từ vựng này trong đề TOEIC: "${text}"`);
+              }}
+              className="flex flex-col items-center justify-center gap-0.5 rounded-lg px-2 py-1 text-xs font-medium text-white transition-colors hover:bg-white/15"
+              title="Hỏi trợ lý AI về đoạn văn bản này"
+            >
+              <Sparkles className="h-4 w-4 text-purple-300" />
+              <span className="text-[11px] font-semibold">Hỏi AI</span>
             </button>
 
             <div className="h-8 w-px bg-slate-500/70" />

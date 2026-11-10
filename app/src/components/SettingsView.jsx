@@ -417,14 +417,14 @@ export default function SettingsView() {
               <div className="flex items-center gap-2">
                 <Wand2 className="h-5 w-5 text-brand-600" />
                 <h4 className="text-sm font-extrabold text-slate-900">
-                  Tính năng Luyện đặt câu (AI Sentence Lab)
+                  Nhà cung cấp AI (AI Sentence Lab &amp; Trợ lý Hỏi AI)
                 </h4>
               </div>
-              <Badge tone="brand">Tab 4 · Chấm câu AI</Badge>
+              <Badge tone="brand">Luyện câu &amp; Hỏi AI</Badge>
             </div>
             <p className="mb-3 text-xs text-slate-500">
-              Chọn mô hình AI dùng để ra đề câu tiếng Việt và chấm điểm, sửa lỗi ngữ pháp ở Tab{' '}
-              <strong className="text-slate-700">AI Sentence Lab</strong>:
+              Chọn mô hình AI dùng chung cho tính năng chấm câu (Tab 4) và khung chat trợ lý{' '}
+              <strong className="text-slate-700">Hỏi AI (Ask AI)</strong>:
             </p>
 
             <div className="space-y-2.5">
