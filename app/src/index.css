@@ -770,8 +770,30 @@ mark.vocab-hit {
   background: linear-gradient(180deg, transparent 55%, #fde68a 55%);
   color: inherit;
   font-weight: 700;
-  padding: 0 1px;
-  border-radius: 2px;
+  padding: 0 2px;
+  border-radius: 3px;
+}
+
+html.dark mark.vocab-hit {
+  background: rgba(250, 204, 21, 0.22) !important;
+  color: #fde047 !important;
+  border-bottom: 2px solid #facc15;
+  font-weight: 800;
+  padding: 1px 4px;
+  border-radius: 4px;
+  text-shadow: 0 0 12px rgba(250, 204, 21, 0.25);
+}
+
+/* Fallback cho thẻ mark mặc định ở theme tối */
+html.dark mark {
+  background-color: rgba(250, 204, 21, 0.25);
+  color: #fde047;
+}
+
+/* Bôi đen ghi chú thủ công của người dùng (AnnotatableText) ở theme tối */
+html.dark .user-ann-wrap {
+  color: #0f172a !important;
+  font-weight: 700;
 }
 
 /* Blank slot in cloze / words-in-context exercises. */
@@ -782,6 +804,11 @@ mark.vocab-hit {
   text-align: center;
   font-weight: 600;
   color: #2440dd;
+}
+
+html.dark .cloze-blank {
+  border-bottom-color: #64748b !important;
+  color: #38bdf8 !important;
 }
 
 /* 3D flip card (Tab 2). */
