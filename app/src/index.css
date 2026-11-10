@@ -774,7 +774,9 @@ mark.vocab-hit {
   border-radius: 3px;
 }
 
-html.dark mark.vocab-hit {
+html.dark mark.vocab-hit,
+.dark mark.vocab-hit,
+.dark .vocab-hit {
   background: rgba(250, 204, 21, 0.22) !important;
   color: #fde047 !important;
   border-bottom: 2px solid #facc15;

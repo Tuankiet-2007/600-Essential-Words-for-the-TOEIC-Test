@@ -90,7 +90,10 @@ export function Highlighted({ text, words, className = '' }) {
     <span className={className}>
       {segments.map((seg, i) =>
         seg.hit ? (
-          <mark key={i} className="vocab-hit">
+          <mark
+            key={i}
+            className="vocab-hit dark:!text-yellow-300 dark:!bg-yellow-400/20 dark:border-b-2 dark:border-yellow-400 font-bold px-1 rounded-xs"
+          >
             {seg.text}
           </mark>
         ) : (
