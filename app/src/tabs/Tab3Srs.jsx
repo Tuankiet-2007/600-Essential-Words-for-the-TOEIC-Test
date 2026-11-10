@@ -238,6 +238,7 @@ function CompactQuizCard({
   const [showTheory, setShowTheory] = useState(false);
   const [feedbackMsg, setFeedbackMsg] = useState('');
   const inputRef = useRef(null);
+  const continueBtnRef = useRef(null);
   const theoryRef = useRef(null);
   const { speak } = useSpeech();
 
@@ -247,8 +248,19 @@ function CompactQuizCard({
     setWrongCount(0);
     setShowTheory(false);
     setFeedbackMsg('');
-    setTimeout(() => inputRef.current?.focus(), 50);
+    const timer = setTimeout(() => inputRef.current?.focus(), 60);
+    return () => clearTimeout(timer);
   }, [item.uid]);
+
+  // Tự động focus vào nút "TIẾP TỤC" khi hoàn thành câu hỏi (đúng hoặc sai 2 lần)
+  useEffect(() => {
+    if (state !== 'answering') {
+      const timer = setTimeout(() => {
+        continueBtnRef.current?.focus();
+      }, 50);
+      return () => clearTimeout(timer);
+    }
+  }, [state]);
 
   const handleCheck = () => {
     if (!norm(value) || state === 'correct') return;
@@ -292,7 +304,6 @@ function CompactQuizCard({
   const handleKeyDown = (e) => {
     if (e.key === 'Enter') {
       e.preventDefault();
-      e.stopPropagation();
       if (state === 'answering') {
         handleCheck();
       } else {
@@ -301,11 +312,11 @@ function CompactQuizCard({
     }
   };
 
-  // Phím tắt khi đã trả lời xong câu hỏi (Enter để tiếp tục, R/E để nghe phát âm)
+  // Phím tắt khi đã trả lời xong câu hỏi (Enter / Space để tiếp tục, R/E để nghe phát âm)
   useEffect(() => {
     const onKey = (e) => {
       if (state === 'answering') return;
-      if (e.key === 'Enter') {
+      if (e.key === 'Enter' || (e.key === ' ' && document.activeElement !== continueBtnRef.current)) {
         e.preventDefault();
         onNext?.();
       } else if (e.key === 'r' || e.key === 'R') {
@@ -317,8 +328,8 @@ function CompactQuizCard({
         if (sentence) speak(sentence.replace(/_{3,}/g, item.answer));
       }
     };
-    window.addEventListener('keydown', onKey);
-    return () => window.removeEventListener('keydown', onKey);
+    window.addEventListener('keydown', onKey, true);
+    return () => window.removeEventListener('keydown', onKey, true);
   }, [state, item, entry, speak, onNext]);
 
   const families = useMemo(() => collectEntryFamilies(entry, lessonObj), [entry, lessonObj]);
@@ -383,6 +394,7 @@ function CompactQuizCard({
               </Button>
             ) : (
               <Button
+                ref={continueBtnRef}
                 variant={state === 'correct' ? 'primary' : 'secondary'}
                 onClick={onNext}
                 title="Bấm Enter hoặc click để tiếp tục"
@@ -694,9 +706,11 @@ export default function Tab3Srs({
     setFinished(false);
   }, [activeWordRecords]);
 
+  // Chỉ tự động khởi tạo câu hỏi khi đổi bộ lọc, bài học hoặc chủ đề
   useEffect(() => {
     initQuiz();
-  }, [initQuiz]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [poolFilter, selectedLessonId, selectedThemeId]);
 
   const allWordsList = useMemo(() => activeWordRecords.map((r) => r.entry.word), [activeWordRecords]);
 

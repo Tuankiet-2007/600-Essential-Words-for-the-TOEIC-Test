@@ -37,10 +37,12 @@ export function Button({
   size = 'md',
   className = '',
   as: Tag = 'button',
+  ref,
   ...rest
 }) {
   return (
     <Tag
+      ref={ref}
       className={`${BTN_BASE} ${BTN_VARIANTS[variant] || BTN_VARIANTS.secondary} ${BTN_SIZES[size] || BTN_SIZES.md} ${className}`}
       {...rest}
     />
