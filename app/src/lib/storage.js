@@ -35,7 +35,9 @@ export const DEFAULT_SETTINGS = {
   aiLabProvider: 'gemini', // 'gemini' | 'openai' | 'ollama'
   lookupProvider: 'free', // 'free' | 'gemini' | 'openai' | 'ollama' (for Tra từ)
   geminiKey: '',
+  geminiUrl: '', // Tùy chọn: URL proxy riêng (mặc định https://generativelanguage.googleapis.com)
   openaiKey: '',
+  openaiUrl: '', // Tùy chọn: Base URL riêng (mặc định https://api.openai.com/v1)
   ollamaUrl: 'http://localhost:11434',
   ollamaModel: 'llama3.1',
   model: 'gemini-2.5-flash',

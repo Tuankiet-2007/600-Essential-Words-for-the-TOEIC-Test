@@ -2,10 +2,30 @@
  * aiChat.js — Xử lý gọi API trò chuyện với Trợ lý AI (Ask AI).
  *
  * Tận dụng chung cấu hình trong Cài đặt (Settings):
- * - Gemini API (Google AI Studio)
- * - OpenAI API (GPT-4o-mini / GPT-4o)
+ * - Gemini API (Google AI Studio hoặc reverse proxy riêng)
+ * - OpenAI API & tương thích (OpenAI, DeepSeek, Groq, OpenRouter, Proxy riêng)
  * - Ollama (Local AI)
  */
+
+export function resolveGeminiUrl(customUrl, model, key) {
+  const raw = String(customUrl || '').trim().replace(/\/+$/, '');
+  const base = raw || 'https://generativelanguage.googleapis.com';
+  if (base.includes(':generateContent')) {
+    return base.includes('key=') ? base : `${base}?key=${encodeURIComponent(key)}`;
+  }
+  if (base.includes('/v1beta/models') || base.includes('/v1/models')) {
+    return `${base}/${encodeURIComponent(model)}:generateContent?key=${encodeURIComponent(key)}`;
+  }
+  return `${base}/v1beta/models/${encodeURIComponent(model)}:generateContent?key=${encodeURIComponent(key)}`;
+}
+
+export function resolveOpenAiUrl(customUrl) {
+  const raw = String(customUrl || '').trim().replace(/\/+$/, '');
+  if (!raw) return 'https://api.openai.com/v1/chat/completions';
+  if (raw.endsWith('/chat/completions')) return raw;
+  if (raw.endsWith('/v1')) return `${raw}/chat/completions`;
+  return `${raw}/chat/completions`;
+}
 
 export async function callAiChat(messages, settings, currentContext = '') {
   const s = settings || {};
@@ -36,9 +56,7 @@ Nhiệm vụ của bạn:
     const model =
       String(s.geminiModel || (s.provider === 'gemini' ? s.model : '') || 'gemini-2.5-flash').trim() ||
       'gemini-2.5-flash';
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(
-      model,
-    )}:generateContent?key=${encodeURIComponent(key)}`;
+    const url = resolveGeminiUrl(s.geminiUrl, model, key);
 
     const contents = messages.map((m) => ({
       role: m.role === 'assistant' ? 'model' : 'user',
@@ -121,7 +139,7 @@ Nhiệm vụ của bạn:
           (s.provider === 'openai' && !String(s.model || '').startsWith('gemini') ? s.model : '') ||
           'gpt-4o-mini',
       ).trim() || 'gpt-4o-mini';
-    const url = 'https://api.openai.com/v1/chat/completions';
+    const url = resolveOpenAiUrl(s.openaiUrl);
 
     const reqMessages = [
       { role: 'system', content: systemPrompt },

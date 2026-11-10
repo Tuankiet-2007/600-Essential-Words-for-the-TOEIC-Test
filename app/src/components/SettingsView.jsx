@@ -30,6 +30,7 @@ import {
 } from 'lucide-react';
 import { Badge, Button, Card, SectionTitle } from './ui.jsx';
 import { useApp } from '../lib/store.jsx';
+import { resolveGeminiUrl, resolveOpenAiUrl } from '../lib/aiChat.js';
 import {
   DEFAULT_SETTINGS,
   clearAll,
@@ -149,9 +150,7 @@ export async function callAiForFeature(prompt, settings, featureOrProvider = 'ai
     const model =
       String(s.geminiModel || (s.provider === 'gemini' ? s.model : '') || 'gemini-2.5-flash').trim() ||
       'gemini-2.5-flash';
-    url = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(
-      model,
-    )}:generateContent?key=${encodeURIComponent(key)}`;
+    url = resolveGeminiUrl(s.geminiUrl, model, key);
     body = { contents: [{ parts: [{ text: prompt }] }] };
   } else if (provider === 'openai') {
     const key = String(s.openaiKey || '').trim();
@@ -169,7 +168,7 @@ export async function callAiForFeature(prompt, settings, featureOrProvider = 'ai
           (s.provider === 'openai' && !String(s.model || '').startsWith('gemini') ? s.model : '') ||
           'gpt-4o-mini',
       ).trim() || 'gpt-4o-mini';
-    url = 'https://api.openai.com/v1/chat/completions';
+    url = resolveOpenAiUrl(s.openaiUrl);
     headers = { ...headers, Authorization: `Bearer ${key}` };
     body = {
       model,
@@ -588,14 +587,43 @@ export default function SettingsView() {
                   ))}
                 </div>
               </div>
+
+              <div>
+                <div className="flex items-center justify-between mb-1">
+                  <label className="text-xs font-bold text-slate-600">
+                    Đường dẫn API URL (Tùy chọn)
+                  </label>
+                  {settings?.geminiUrl && (
+                    <button
+                      type="button"
+                      onClick={() => applyPatch({ geminiUrl: '' }, 'Đã khôi phục URL Gemini mặc định')}
+                      className="text-[10px] text-sky-600 hover:underline font-bold"
+                    >
+                      Mặc định
+                    </button>
+                  )}
+                </div>
+                <input
+                  type="text"
+                  value={settings?.geminiUrl ?? ''}
+                  onChange={(e) => applyPatch({ geminiUrl: e.target.value.trim() })}
+                  placeholder="https://generativelanguage.googleapis.com"
+                  autoComplete="off"
+                  spellCheck={false}
+                  className="w-full rounded-xl border-2 border-slate-300 bg-white px-3 py-2 font-mono text-xs text-slate-800 outline-none focus:border-brand-500"
+                />
+                <p className="mt-1 text-[11px] text-slate-400">
+                  Để trống để dùng máy chủ mặc định của Google, hoặc điền URL reverse proxy của bạn.
+                </p>
+              </div>
             </div>
           </div>
 
-          {/* OpenAI */}
+          {/* OpenAI & Tương thích */}
           <div className="flex flex-col justify-between rounded-2xl border-2 border-slate-200 bg-white p-4">
             <div className="space-y-3">
               <div className="flex items-center justify-between">
-                <span className="text-sm font-extrabold text-slate-900">OpenAI (GPT)</span>
+                <span className="text-sm font-extrabold text-slate-900">OpenAI &amp; Tương thích</span>
                 <Badge tone={hasOpenaiKey ? 'emerald' : 'amber'}>
                   {hasOpenaiKey ? `Đã lưu (${maskKey(settings?.openaiKey)})` : 'Chưa có key'}
                 </Badge>
@@ -603,7 +631,7 @@ export default function SettingsView() {
 
               <div>
                 <label className="mb-1 block text-xs font-bold text-slate-600">
-                  OpenAI API Key
+                  API Key (OpenAI / DeepSeek / Groq...)
                 </label>
                 <div className="flex items-center gap-1.5">
                   <input
@@ -616,7 +644,7 @@ export default function SettingsView() {
                         updateSettings({ openaiKey: v.trim() });
                       }
                     }}
-                    placeholder={hasOpenaiKey ? 'Nhập key mới để thay thế…' : 'sk-proj-…'}
+                    placeholder={hasOpenaiKey ? 'Nhập key mới để thay thế…' : 'sk-… hoặc key của bạn'}
                     autoComplete="off"
                     spellCheck={false}
                     className="w-full rounded-xl border-2 border-slate-300 bg-white px-3 py-2 font-mono text-xs text-slate-800 outline-none focus:border-brand-500"
@@ -637,7 +665,7 @@ export default function SettingsView() {
                     type="button"
                     disabled={!openaiDraft.trim()}
                     onClick={() => {
-                      applyPatch({ openaiKey: openaiDraft.trim() }, 'Đã lưu OpenAI API Key');
+                      applyPatch({ openaiKey: openaiDraft.trim() }, 'Đã lưu API Key');
                       setOpenaiDraft('');
                     }}
                   >
@@ -650,7 +678,7 @@ export default function SettingsView() {
                       variant="ghost"
                       type="button"
                       onClick={() => {
-                        applyPatch({ openaiKey: '' }, 'Đã xóa OpenAI API Key');
+                        applyPatch({ openaiKey: '' }, 'Đã xóa API Key');
                         setOpenaiDraft('');
                       }}
                     >
@@ -662,7 +690,7 @@ export default function SettingsView() {
 
               <div>
                 <label className="mb-1 block text-xs font-bold text-slate-600">
-                  Tên mô hình OpenAI
+                  Tên mô hình (Model)
                 </label>
                 <input
                   type="text"
@@ -675,13 +703,18 @@ export default function SettingsView() {
                         : { openaiModel: v },
                     );
                   }}
-                  placeholder="gpt-4o-mini"
+                  placeholder="gpt-4o-mini hoặc deepseek-chat..."
                   autoComplete="off"
                   spellCheck={false}
                   className="w-full rounded-xl border-2 border-slate-300 bg-white px-3 py-2 font-mono text-xs text-slate-800 outline-none focus:border-brand-500"
                 />
                 <div className="mt-1.5 flex flex-wrap gap-1">
-                  {['gpt-4o-mini', 'gpt-4o', 'gpt-4.1-mini'].map((m) => (
+                  {[
+                    { m: 'gpt-4o-mini', label: 'gpt-4o-mini' },
+                    { m: 'gpt-4o', label: 'gpt-4o' },
+                    { m: 'deepseek-chat', label: 'deepseek-chat' },
+                    { m: 'llama-3.3-70b-versatile', label: 'llama-3.3' },
+                  ].map(({ m, label }) => (
                     <button
                       key={m}
                       type="button"
@@ -695,7 +728,60 @@ export default function SettingsView() {
                       }
                       className="rounded-md bg-slate-100 px-2 py-0.5 font-mono text-[11px] text-slate-600 hover:bg-slate-200"
                     >
-                      {m}
+                      {label}
+                    </button>
+                  ))}
+                </div>
+              </div>
+
+              <div>
+                <div className="flex items-center justify-between mb-1">
+                  <label className="text-xs font-bold text-slate-600">
+                    Đường dẫn API URL (Base URL / Endpoint)
+                  </label>
+                  {settings?.openaiUrl && (
+                    <button
+                      type="button"
+                      onClick={() => applyPatch({ openaiUrl: '' }, 'Đã khôi phục URL OpenAI mặc định')}
+                      className="text-[10px] text-sky-600 hover:underline font-bold"
+                    >
+                      Mặc định
+                    </button>
+                  )}
+                </div>
+                <input
+                  type="text"
+                  value={settings?.openaiUrl ?? ''}
+                  onChange={(e) => applyPatch({ openaiUrl: e.target.value.trim() })}
+                  placeholder="https://api.openai.com/v1"
+                  autoComplete="off"
+                  spellCheck={false}
+                  className="w-full rounded-xl border-2 border-slate-300 bg-white px-3 py-2 font-mono text-xs text-slate-800 outline-none focus:border-brand-500"
+                />
+                <p className="mt-1 text-[11px] text-slate-400">
+                  Hỗ trợ OpenAI, DeepSeek, Groq, OpenRouter hoặc máy chủ AI / Proxy riêng.
+                </p>
+                <div className="mt-1.5 flex flex-wrap gap-1">
+                  {[
+                    { name: 'OpenAI chuẩn', url: '', model: 'gpt-4o-mini' },
+                    { name: 'DeepSeek', url: 'https://api.deepseek.com/v1', model: 'deepseek-chat' },
+                    { name: 'OpenRouter', url: 'https://openrouter.ai/api/v1', model: 'meta-llama/llama-3.1-8b-instruct:free' },
+                    { name: 'Groq', url: 'https://api.groq.com/openai/v1', model: 'llama-3.3-70b-versatile' },
+                  ].map((preset) => (
+                    <button
+                      key={preset.name}
+                      type="button"
+                      onClick={() =>
+                        applyPatch(
+                          aiLabProvider === 'openai'
+                            ? { openaiUrl: preset.url, openaiModel: preset.model, model: preset.model }
+                            : { openaiUrl: preset.url, openaiModel: preset.model },
+                          `Đã chọn cấu hình ${preset.name}`,
+                        )
+                      }
+                      className="rounded-md bg-slate-100 px-2 py-0.5 font-mono text-[10.5px] text-slate-600 hover:bg-slate-200"
+                    >
+                      {preset.name}
                     </button>
                   ))}
                 </div>
