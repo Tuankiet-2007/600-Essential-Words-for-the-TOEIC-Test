@@ -297,7 +297,7 @@ export function normalizeFamilyRows(input, wordPos) {
   /** So thu tu nhom goc trong sach (bat dau tu 1). */
   let groupNo = 0;
 
-  const pushRow = (word, example, rawPos, root, grp) => {
+  const pushRow = (word, example, rawPos, root, grp, meaningVi = '') => {
     const w = String(word ?? '').trim();
     if (!w) return; // dong khong co `word` la du lieu rac -> bo qua (khong bia).
     const key = `${w.toLowerCase()}|${String(example ?? '').trim()}`;
@@ -328,6 +328,7 @@ export function normalizeFamilyRows(input, wordPos) {
       pos,
       word: w,
       example: String(example ?? '').trim(),
+      meaning_vi: String(meaningVi ?? '').trim(),
       // `root` = tu goc cua nhom (tu khoa trong bai). Day la truong MOI giup
       // ghep ho tu voi tu muc tieu bang goc tu thay vi so khop tien to 4 ky tu.
       root: String(root ?? '').trim(),
@@ -418,7 +419,7 @@ export function normalizeFamilyRows(input, wordPos) {
        */
       const own = ctx.assigned ? ctx.groupNo : (groupNo += 1);
       if (node.word != null) {
-        pushRow(node.word, node.example ?? node.sentence ?? '', groupPos, groupRoot, own);
+        pushRow(node.word, node.example ?? node.sentence ?? '', groupPos, groupRoot, own, node.meaning_vi);
       }
       for (const child of nested) {
         visit(child, { root: groupRoot, pos: groupPos, group: true, groupNo: own, assigned: true });
@@ -434,6 +435,7 @@ export function normalizeFamilyRows(input, wordPos) {
         groupPos,
         ctx.root || groupRoot,
         ctx.groupNo,
+        node.meaning_vi,
       );
       return;
     }

@@ -26,17 +26,23 @@
         {
           "pos": "",
           "word": "consult",
-          "example": "Beatrice consulted her pharmacist about the number of different medications she is taking."
+          "example": "Beatrice consulted her pharmacist about the number of different medications she is taking.",
+          "meaning_vi": "tham khảo ý kiến; hỏi tư vấn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "consultation",
-          "example": "Let me arrange a consultation with a specialist to discuss your heart problem and some possible medications."
+          "example": "Let me arrange a consultation with a specialist to discuss your heart problem and some possible medications.",
+          "meaning_vi": "buổi tư vấn; buổi khám",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "consultative",
-          "example": "This is a consultative process and you probably won&#x27;t have a definitive answer immediately."
+          "example": "This is a consultative process and you probably won&#x27;t have a definitive answer immediately.",
+          "meaning_vi": "mang tính tham vấn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -69,7 +75,9 @@
           "pos": "noun",
           "word": "consultant",
           "example": "The pharmacy chain hired a healthcare consultant to streamline its inventory system.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chuyên gia tư vấn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -130,25 +138,33 @@
           "pos": "verb",
           "word": "control",
           "example": "Proper diet and daily insulin help diabetic patients control their blood sugar levels.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "kiểm soát",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "control",
           "example": "All pharmaceutical products undergo rigorous quality control before leaving the factory.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự kiểm soát; kiểm tra",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "controlled",
           "example": "Certain strong painkillers are classified as controlled substances and require a special prescription.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bị quản lý nghiêm ngặt",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "controllable",
           "example": "Mild seasonal allergies are easily controllable with over-the-counter antihistamines.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể kiểm soát",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -180,17 +196,23 @@
         {
           "pos": "",
           "word": "convenience",
-          "example": "The convenience of a 24-hour neighborhood pharmacy is not to be underestimated."
+          "example": "The convenience of a 24-hour neighborhood pharmacy is not to be underestimated.",
+          "meaning_vi": "sự tiện lợi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "convenient",
-          "example": "Many people shop there because of its convenient location."
+          "example": "Many people shop there because of its convenient location.",
+          "meaning_vi": "thuận tiện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "conveniently",
-          "example": "The pharmacy is conveniently located on my way home from work."
+          "example": "The pharmacy is conveniently located on my way home from work.",
+          "meaning_vi": "một cách thuận tiện",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -223,13 +245,17 @@
           "pos": "adjective",
           "word": "inconvenient",
           "example": "If this appointment time is inconvenient for you, please call us to reschedule.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bất tiện; không thuận tiện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "inconvenience",
           "example": "We apologize for any inconvenience caused by the temporary closure of the drive-through pharmacy.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự bất tiện; phiền hà",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -261,17 +287,23 @@
         {
           "pos": "",
           "word": "detect",
-          "example": "The laboratory test detected the presence of medication in his blood."
+          "example": "The laboratory test detected the presence of medication in his blood.",
+          "meaning_vi": "phát hiện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "detection",
-          "example": "Early detection of diseases usually means that medications can be more effective."
+          "example": "Early detection of diseases usually means that medications can be more effective.",
+          "meaning_vi": "sự phát hiện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "detectable",
-          "example": "After he took his medication faithfully for a few months and exercised more, Jack&#x27;s disease was no longer detectable."
+          "example": "After he took his medication faithfully for a few months and exercised more, Jack&#x27;s disease was no longer detectable.",
+          "meaning_vi": "có thể phát hiện được",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -303,7 +335,9 @@
           "pos": "noun",
           "word": "detector",
           "example": "Automated optical detectors inspect every pill bottle on the packaging line.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thiết bị phát hiện",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -361,13 +395,17 @@
           "pos": "verb",
           "word": "factor",
           "example": "When calculating the dosage, the pediatrician factored in the child's age and weight.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tính đến; đưa vào tính toán",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "factorial",
           "example": "Researchers used a factorial study design to test combinations of the two vitamins.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đa nhân tố; xét phối hợp các nhân tố",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -427,19 +465,25 @@
           "pos": "verb",
           "word": "interact",
           "example": "Certain herbal supplements can interact negatively with prescription blood thinners.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tương tác",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "interactive",
           "example": "The pharmacy website features an interactive tool for checking medication side effects.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có tính tương tác",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "interactively",
           "example": "Pharmacists train interactively using computer simulations of patient consultations.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thông qua tương tác",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -471,17 +515,23 @@
         {
           "pos": "",
           "word": "limit",
-          "example": "My health insurance company has severely limited the amount of money it will pay out for prescription medicine."
+          "example": "My health insurance company has severely limited the amount of money it will pay out for prescription medicine.",
+          "meaning_vi": "giới hạn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "limit",
-          "example": "Even though that headache medicine does not require a prescription, there is a limit to how many times a day you should take it."
+          "example": "Even though that headache medicine does not require a prescription, there is a limit to how many times a day you should take it.",
+          "meaning_vi": "giới hạn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "limited",
-          "example": "The new drugstore on the corner really isn&#x27;t convenient because of its limited hours of operation."
+          "example": "The new drugstore on the corner really isn&#x27;t convenient because of its limited hours of operation.",
+          "meaning_vi": "hạn chế; có giới hạn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -516,13 +566,17 @@
           "pos": "noun",
           "word": "limitation",
           "example": "Please review the policy booklet for a full list of coverage limitations.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "giới hạn; điều khoản hạn chế",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "unlimited",
           "example": "Members of the premium wellness plan enjoy unlimited telephone consultations with nurses.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "không giới hạn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -578,19 +632,25 @@
           "pos": "verb",
           "word": "monitor",
           "example": "Doctors must closely monitor patients who are starting this new cardiac medication.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo dõi; giám sát",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "monitor",
           "example": "The pharmacy sells digital blood pressure monitors for home use.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "máy theo dõi; máy đo",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "monitoring",
           "example": "Regular blood glucose monitoring is essential for managing diabetes effectively.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc theo dõi",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -622,17 +682,23 @@
         {
           "pos": "",
           "word": "potential",
-          "example": "Be careful when taking this medication because it has the potential to make you feel sleepy."
+          "example": "Be careful when taking this medication because it has the potential to make you feel sleepy.",
+          "meaning_vi": "tiềm ẩn; có thể xảy ra",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "potential",
-          "example": "Margaret decided not to take the medicine the doctor had prescribed because of its potential side effects."
+          "example": "Margaret decided not to take the medicine the doctor had prescribed because of its potential side effects.",
+          "meaning_vi": "tiềm ẩn; có thể xảy ra",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "potentially",
-          "example": "Many medications are potentially dangerous so it is important to take them exactly as prescribed by the doctor."
+          "example": "Many medications are potentially dangerous so it is important to take them exactly as prescribed by the doctor.",
+          "meaning_vi": "có khả năng; tiềm tàng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -664,7 +730,9 @@
           "pos": "verb",
           "word": "potentiate",
           "example": "Combining these two analgesics can potentiate their pain-relieving effects.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "làm tăng hiệu lực",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -723,13 +791,17 @@
           "pos": "verb",
           "word": "sample",
           "example": "Quality inspectors randomly sample batches of tablets from the production line.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "lấy mẫu kiểm tra",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "sampling",
           "example": "Random sampling showed that ninety-eight percent of patients were satisfied with the pharmacy.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc lấy mẫu",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -788,19 +860,25 @@
           "pos": "verb",
           "word": "sense",
           "example": "The pharmacist sensed that the elderly customer was confused about the dosage schedule.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cảm nhận; nhận thấy",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "sensible",
           "example": "Keeping a written list of all your current medications is a sensible precaution.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hợp lý; khôn ngoan",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "sensitive",
           "example": "This liquid antibiotic is sensitive to heat and must be kept in the refrigerator.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhạy cảm; dễ bị ảnh hưởng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -832,17 +910,23 @@
         {
           "pos": "",
           "word": "volunteer",
-          "example": "The pharmacist volunteers his services monthly at the free clinic for homeless people."
+          "example": "The pharmacist volunteers his services monthly at the free clinic for homeless people.",
+          "meaning_vi": "tình nguyện viên",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "volunteer",
-          "example": "Volunteers bring filled prescriptions from the pharmacy to the homes of shut-ins."
+          "example": "Volunteers bring filled prescriptions from the pharmacy to the homes of shut-ins.",
+          "meaning_vi": "tình nguyện viên",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "voluntary",
-          "example": "Your compliance with this new policy is completely voluntary, but we think it is in the public interest that you do so."
+          "example": "Your compliance with this new policy is completely voluntary, but we think it is in the public interest that you do so.",
+          "meaning_vi": "tự nguyện",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -876,7 +960,9 @@
           "pos": "adverb",
           "word": "voluntarily",
           "example": "The manufacturer voluntarily recalled one lot of eye drops as a safety precaution.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách tự nguyện",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -926,102 +1012,138 @@
       {
         "word": "consult",
         "example": "Beatrice consulted her pharmacist about the number of different medications she is taking.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tham khảo ý kiến; hỏi tư vấn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "consultation",
         "example": "Let me arrange a consultation with a specialist to discuss your heart problem and some possible medications.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "buổi tư vấn; buổi khám",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "consultative",
         "example": "This is a consultative process and you probably won&#x27;t have a definitive answer immediately.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "mang tính tham vấn",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "convenience",
         "example": "The convenience of a 24-hour neighborhood pharmacy is not to be underestimated.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự tiện lợi",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "convenient",
         "example": "Many people shop there because of its convenient location.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thuận tiện",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "conveniently",
         "example": "The pharmacy is conveniently located on my way home from work.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách thuận tiện",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "detect",
         "example": "The laboratory test detected the presence of medication in his blood.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "phát hiện",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "detection",
         "example": "Early detection of diseases usually means that medications can be more effective.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự phát hiện",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "detectable",
         "example": "After he took his medication faithfully for a few months and exercised more, Jack&#x27;s disease was no longer detectable.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có thể phát hiện được",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "limit",
         "example": "My health insurance company has severely limited the amount of money it will pay out for prescription medicine.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "giới hạn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "limit",
         "example": "Even though that headache medicine does not require a prescription, there is a limit to how many times a day you should take it.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "giới hạn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "limited",
         "example": "The new drugstore on the corner really isn&#x27;t convenient because of its limited hours of operation.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "hạn chế; có giới hạn",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "potential",
         "example": "Be careful when taking this medication because it has the potential to make you feel sleepy.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tiềm ẩn; có thể xảy ra",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "potential",
         "example": "Margaret decided not to take the medicine the doctor had prescribed because of its potential side effects.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tiềm ẩn; có thể xảy ra",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "potentially",
         "example": "Many medications are potentially dangerous so it is important to take them exactly as prescribed by the doctor.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có khả năng; tiềm tàng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "volunteer",
         "example": "The pharmacist volunteers his services monthly at the free clinic for homeless people.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tình nguyện viên",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "volunteer",
         "example": "Volunteers bring filled prescriptions from the pharmacy to the homes of shut-ins.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tình nguyện viên",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "voluntary",
         "example": "Your compliance with this new policy is completely voluntary, but we think it is in the public interest that you do so.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tự nguyện",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

@@ -25,6 +25,12 @@ test('15 words produce exactly 30 unique base/context questions', () => {
   for (const key of built.words) assert.deepEqual(built.questions.filter((q) => q.wordKey === key).map((q) => q.type).sort(), ['base_word', 'context_word']);
 });
 
+test('both recall types show short Vietnamese meanings, including family-specific context', () => {
+  const built = buildQuizSession([{ lessonId: 1, entry: { word: 'establish', definition_en: 'to found', definition_vi: 'thành lập', extra_families: [{ word: 'establishment', pos: 'noun', example: 'The establishment improves delivery.', meaning_vi: 'sự thành lập' }] } }], { random: () => 0 });
+  assert.equal(built.questions.find((q) => q.type === 'base_word').hintVi, 'thành lập');
+  assert.equal(built.questions.find((q) => q.type === 'context_word').hintVi, 'sự thành lập');
+});
+
 test('missing context is reported rather than a complete one-question session', () => {
   const built = buildQuizSession([{ lessonId: 1, entry: { word: 'demo', definition_en: 'a demonstration' } }]);
   assert.equal(built.complete, false);

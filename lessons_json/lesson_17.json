@@ -26,17 +26,23 @@
         {
           "pos": "",
           "word": "diversify",
-          "example": "We are going to diversify our product line and start selling software as well as computers."
+          "example": "We are going to diversify our product line and start selling software as well as computers.",
+          "meaning_vi": "đa dạng hóa",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "diversity",
-          "example": "The diversity of services that your company offers amazes me."
+          "example": "The diversity of services that your company offers amazes me.",
+          "meaning_vi": "sự đa dạng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "diverse",
-          "example": "The wholesaler offered a more diverse range of computer accessories than I expected."
+          "example": "The wholesaler offered a more diverse range of computer accessories than I expected.",
+          "meaning_vi": "đa dạng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -67,13 +73,17 @@
           "pos": "noun",
           "word": "diversification",
           "example": "Market diversification helped the manufacturer survive the regional downturn.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự đa dạng hóa",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "diversely",
           "example": "The conglomerate's assets are diversely distributed across four continents.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách đa dạng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -105,17 +115,23 @@
         {
           "pos": "",
           "word": "enterprise",
-          "example": "When she began this enterprise, she had no idea of the time it would require."
+          "example": "When she began this enterprise, she had no idea of the time it would require.",
+          "meaning_vi": "hoạt động kinh doanh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "enterprising",
-          "example": "The program gives enterprising young people a chance to test their entrepreneurial skills."
+          "example": "The program gives enterprising young people a chance to test their entrepreneurial skills.",
+          "meaning_vi": "năng động, dám nghĩ dám làm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "enterpriser",
-          "example": "Many enterprisers find themselves in daring and exciting ventures that lack the structure for long-term success."
+          "example": "Many enterprisers find themselves in daring and exciting ventures that lack the structure for long-term success.",
+          "meaning_vi": "doanh nhân, người khởi nghiệp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -146,7 +162,9 @@
           "pos": "adverb",
           "word": "enterprisingly",
           "example": "She enterprisingly turned a local delivery service into a national logistics firm.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách năng động, tháo vát",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -178,17 +196,23 @@
         {
           "pos": "verb",
           "word": "essentially",
-          "example": "Essentially, you will be sitting in a bath of mud for two hours."
+          "example": "Essentially, you will be sitting in a bath of mud for two hours.",
+          "meaning_vi": "về cơ bản",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "essential",
-          "example": "Having Ann on this team is essential if we are to win the contract."
+          "example": "Having Ann on this team is essential if we are to win the contract.",
+          "meaning_vi": "thiết yếu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "essence",
-          "example": "The essence of the problem lies in Jeff&#x27;s relationship with his manager."
+          "example": "The essence of the problem lies in Jeff&#x27;s relationship with his manager.",
+          "meaning_vi": "bản chất, cốt lõi",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -220,7 +244,9 @@
           "pos": "noun",
           "word": "essentials",
           "example": "The small store stocks office essentials such as paper, pens, and toner.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "những vật dụng thiết yếu",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -276,25 +302,33 @@
           "pos": "noun",
           "word": "day",
           "example": "Orders placed before noon are shipped the same day.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ngày",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "everyday",
           "example": "Durable laminating machines are built to handle heavy everyday use.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thường ngày",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "daily",
           "example": "The warehouse supervisor conducts a daily inspection of the forklifts.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hằng ngày",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "daily",
           "example": "Supply levels are monitored daily to prevent unexpected shortages.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mỗi ngày",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -326,17 +360,23 @@
         {
           "pos": "verb",
           "word": "function",
-          "example": "He is still functioning as administrator until they find a replacement."
+          "example": "He is still functioning as administrator until they find a replacement.",
+          "meaning_vi": "đảm nhiệm vai trò",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "function",
-          "example": "The function was attended by all the leading scientists."
+          "example": "The function was attended by all the leading scientists.",
+          "meaning_vi": "buổi lễ, sự kiện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "functional",
-          "example": "This machine is not functional; we need to purchase a new one."
+          "example": "This machine is not functional; we need to purchase a new one.",
+          "meaning_vi": "hoạt động được",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -367,13 +407,17 @@
           "pos": "noun",
           "word": "functionality",
           "example": "The latest software update adds new search functionality.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chức năng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "functionally",
           "example": "Though different in appearance, the two scanner models are functionally identical.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "về mặt chức năng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -405,17 +449,23 @@
         {
           "pos": "",
           "word": "maintain",
-          "example": "Don&#x27;t worry, I&#x27;ll maintain the good relationships that you&#x27;ve established with our clients."
+          "example": "Don&#x27;t worry, I&#x27;ll maintain the good relationships that you&#x27;ve established with our clients.",
+          "meaning_vi": "duy trì",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "maintainability",
-          "example": "The maintainability of our second office is called into question by next year&#x27;s budget cutbacks."
+          "example": "The maintainability of our second office is called into question by next year&#x27;s budget cutbacks.",
+          "meaning_vi": "khả năng duy trì",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "maintainable",
-          "example": "This level of performance will not be maintainable without increasing salaries."
+          "example": "This level of performance will not be maintainable without increasing salaries.",
+          "meaning_vi": "có thể duy trì",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -447,7 +497,9 @@
           "pos": "noun",
           "word": "maintenance",
           "example": "Regular maintenance of the printing presses prevents costly breakdowns.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc bảo trì",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -504,19 +556,25 @@
           "pos": "verb",
           "word": "obtain",
           "example": "Visitors must obtain a security badge at the reception desk.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "lấy, có được",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "obtainable",
           "example": "Application forms are obtainable from any regional branch office.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể lấy được",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "unobtainable",
           "example": "Replacement parts for the discontinued model are now almost unobtainable.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "không thể kiếm được",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -574,19 +632,25 @@
           "pos": "verb",
           "word": "require",
           "example": "All purchase orders over $1,000 require a director's signature.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "yêu cầu, đòi hỏi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "prerequisite",
           "example": "A valid driver's license is a prerequisite for the delivery position.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "điều kiện tiên quyết",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "requisite",
           "example": "She lacked the requisite experience to manage the supply chain.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cần thiết, theo yêu cầu",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -644,25 +708,33 @@
           "pos": "verb",
           "word": "qualify",
           "example": "Bulk orders over fifty units qualify for a ten percent discount.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đủ điều kiện hưởng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "quality",
           "example": "Every batch of paper undergoes strict quality inspections.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chất lượng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "qualitative",
           "example": "The research team conducted a qualitative analysis of customer feedback.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "định tính",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "qualitatively",
           "example": "The new synthetic fiber is qualitatively superior to previous materials.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "về mặt chất lượng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -694,17 +766,23 @@
         {
           "pos": "",
           "word": "smooth out",
-          "example": "In order to smooth out the process of ordering supplies, we&#x27;re going to use this new software to keep track of purchases and deliveries."
+          "example": "In order to smooth out the process of ordering supplies, we&#x27;re going to use this new software to keep track of purchases and deliveries.",
+          "meaning_vi": "làm cho suôn sẻ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "smoothly",
-          "example": "The meeting went smoothly, and the contract was signed without any disagreements."
+          "example": "The meeting went smoothly, and the contract was signed without any disagreements.",
+          "meaning_vi": "một cách suôn sẻ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "smooth",
-          "example": "The vendor was so smooth on the phone that he had no difficulty in obtaining an appointment with the busy executive."
+          "example": "The vendor was so smooth on the phone that he had no difficulty in obtaining an appointment with the busy executive.",
+          "meaning_vi": "khéo ăn nói",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -737,13 +815,17 @@
           "pos": "verb",
           "word": "smooth",
           "example": "The mediator helped smooth relations between the supplier and the buyer.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cải thiện, làm êm đẹp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "smoothness",
           "example": "This premium printing paper is prized for its brightness and smoothness.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "độ mịn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -801,19 +883,25 @@
           "pos": "verb",
           "word": "source",
           "example": "The bakery sources all of its organic flour from regional mills.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tìm nguồn cung ứng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "source",
           "example": "Tourism is the primary source of revenue for the island's economy.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nguồn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "sourcing",
           "example": "Ethical sourcing of raw materials is a core part of our corporate mission.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc tìm nguồn cung ứng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -869,13 +957,17 @@
           "pos": "noun",
           "word": "stationery",
           "example": "All official correspondence must be printed on company stationery.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "văn phòng phẩm, giấy viết thư",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "stationer",
           "example": "We ordered custom-engraved invitations from a local stationer.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người bán văn phòng phẩm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -925,102 +1017,138 @@
       {
         "word": "diversify",
         "example": "We are going to diversify our product line and start selling software as well as computers.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đa dạng hóa",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "diversity",
         "example": "The diversity of services that your company offers amazes me.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự đa dạng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "diverse",
         "example": "The wholesaler offered a more diverse range of computer accessories than I expected.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đa dạng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "enterprise",
         "example": "When she began this enterprise, she had no idea of the time it would require.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "hoạt động kinh doanh",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "enterprising",
         "example": "The program gives enterprising young people a chance to test their entrepreneurial skills.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "năng động, dám nghĩ dám làm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "enterpriser",
         "example": "Many enterprisers find themselves in daring and exciting ventures that lack the structure for long-term success.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "doanh nhân, người khởi nghiệp",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "essentially",
         "example": "Essentially, you will be sitting in a bath of mud for two hours.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "về cơ bản",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "essential",
         "example": "Having Ann on this team is essential if we are to win the contract.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thiết yếu",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "essence",
         "example": "The essence of the problem lies in Jeff&#x27;s relationship with his manager.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "bản chất, cốt lõi",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "function",
         "example": "He is still functioning as administrator until they find a replacement.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "đảm nhiệm vai trò",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "function",
         "example": "The function was attended by all the leading scientists.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "buổi lễ, sự kiện",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "functional",
         "example": "This machine is not functional; we need to purchase a new one.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "hoạt động được",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "maintain",
         "example": "Don&#x27;t worry, I&#x27;ll maintain the good relationships that you&#x27;ve established with our clients.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "duy trì",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "maintainability",
         "example": "The maintainability of our second office is called into question by next year&#x27;s budget cutbacks.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "khả năng duy trì",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "maintainable",
         "example": "This level of performance will not be maintainable without increasing salaries.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có thể duy trì",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "smooth out",
         "example": "In order to smooth out the process of ordering supplies, we&#x27;re going to use this new software to keep track of purchases and deliveries.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "làm cho suôn sẻ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "smoothly",
         "example": "The meeting went smoothly, and the contract was signed without any disagreements.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách suôn sẻ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "smooth",
         "example": "The vendor was so smooth on the phone that he had no difficulty in obtaining an appointment with the busy executive.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "khéo ăn nói",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

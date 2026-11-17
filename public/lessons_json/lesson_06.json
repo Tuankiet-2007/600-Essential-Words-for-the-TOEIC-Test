@@ -26,17 +26,23 @@
         {
           "pos": "noun",
           "word": "access",
-          "example": "To gain access to the computer lab, all users must have a valid ID."
+          "example": "To gain access to the computer lab, all users must have a valid ID.",
+          "meaning_vi": "quyền tiếp cận",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "verb",
           "word": "access",
-          "example": "Internet cafés allow you to access your web-based e-mail account."
+          "example": "Internet cafés allow you to access your web-based e-mail account.",
+          "meaning_vi": "truy cập",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "accessible",
-          "example": "The staff assistant always keeps the door to her office open to show she is accessible."
+          "example": "The staff assistant always keeps the door to her office open to show she is accessible.",
+          "meaning_vi": "dễ tiếp cận",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -67,13 +73,17 @@
           "pos": "noun",
           "word": "accessibility",
           "example": "The website redesign improved accessibility for visually impaired users.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "khả năng tiếp cận",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "accessibly",
           "example": "The user manual is written accessibly so that beginners can follow it.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách dễ hiểu",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -105,17 +115,23 @@
         {
           "pos": "verb",
           "word": "allocate",
-          "example": "Marla didn't allocate enough time to train the new hires on our computer systems."
+          "example": "Marla didn't allocate enough time to train the new hires on our computer systems.",
+          "meaning_vi": "phân bổ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "allocation",
-          "example": "A different allocation of resources could certainly strengthen the R&amp;D department."
+          "example": "A different allocation of resources could certainly strengthen the R&amp;D department.",
+          "meaning_vi": "sự phân bổ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "allocated",
-          "example": "The allocated money was never spent on new monitors."
+          "example": "The allocated money was never spent on new monitors.",
+          "meaning_vi": "đã được phân bổ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -148,7 +164,9 @@
           "pos": "adjective",
           "word": "allocable",
           "example": "Only travel expenses directly allocable to the client project will be reimbursed.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể phân bổ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -204,19 +222,25 @@
           "pos": "noun",
           "word": "compatibility",
           "example": "Please verify hardware compatibility before installing the new graphics card.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tính tương thích",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "compatible",
           "example": "The wireless printer is compatible with both Windows and Mac computers.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tương thích",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "compatibly",
           "example": "The two software modules were designed to work compatibly with each other.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách tương thích",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -272,19 +296,25 @@
           "pos": "verb",
           "word": "delete",
           "example": "Please delete any duplicate contacts from the customer mailing list.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "xóa",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "deletion",
           "example": "The editor recommended the deletion of the last two paragraphs.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự xóa bỏ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "deleted",
           "example": "Our IT specialist was able to recover the accidentally deleted spreadsheet.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã bị xóa",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -343,19 +373,25 @@
           "pos": "verb",
           "word": "display",
           "example": "All visitors must display their security badges at all times.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "trưng ra, hiển thị",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "display",
           "example": "New fall merchandise is now on display in the store's front windows.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự trưng bày",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "displayed",
           "example": "The displayed prices do not include local sales tax or shipping.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được niêm yết, hiển thị",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -387,17 +423,23 @@
         {
           "pos": "",
           "word": "duplicate",
-          "example": "If we work hard, we can duplicate last year's sales records for computers."
+          "example": "If we work hard, we can duplicate last year's sales records for computers.",
+          "meaning_vi": "lặp lại, tái tạo",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "duplicate",
-          "example": "Don't worry, I have a duplicate on my hard drive."
+          "example": "Don't worry, I have a duplicate on my hard drive.",
+          "meaning_vi": "bản sao",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "duplication",
-          "example": "His success at our company was based on the duplication of management techniques he had used elsewhere in his career."
+          "example": "His success at our company was based on the duplication of management techniques he had used elsewhere in his career.",
+          "meaning_vi": "sự sao chép, áp dụng lại",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -429,7 +471,9 @@
           "pos": "adjective",
           "word": "duplicate",
           "example": "Please request a duplicate receipt if you need to claim travel expenses.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sao lại, trùng lặp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -461,17 +505,23 @@
         {
           "pos": "noun",
           "word": "failure",
-          "example": "The power failure caused the system to shut down."
+          "example": "The power failure caused the system to shut down.",
+          "meaning_vi": "sự cố, sự hỏng hóc",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "verb",
           "word": "fail",
-          "example": "We failed to tell you that your records were deleted."
+          "example": "We failed to tell you that your records were deleted.",
+          "meaning_vi": "không làm được, thất bại",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "fallible",
-          "example": "Everyone can make a mistake. Even a computer is fallible."
+          "example": "Everyone can make a mistake. Even a computer is fallible.",
+          "meaning_vi": "có thể mắc lỗi",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -504,13 +554,17 @@
           "pos": "adjective",
           "word": "unfailing",
           "example": "We thank our customers for their unfailing loyalty over the past thirty years.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bền bỉ, không suy suyển",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "unfailingly",
           "example": "The front desk staff remained unfailingly polite even during peak check-in hours.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "luôn luôn, trước sau như một",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -567,25 +621,33 @@
           "pos": "verb",
           "word": "figure",
           "example": "Shipping costs figure prominently in our decision to choose a local supplier.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đóng vai trò",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "figure",
           "example": "According to the latest sales figures, our revenue grew by eight percent.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "số liệu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "figurative",
           "example": "The speaker used figurative language to describe the company's journey.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mang nghĩa bóng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "figuratively",
           "example": "The new product launch put our small startup on the map, figuratively speaking.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo nghĩa bóng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -617,17 +679,23 @@
         {
           "pos": "noun",
           "word": "ignore",
-          "example": "Unfortunately, she ignored the warning about the virus."
+          "example": "Unfortunately, she ignored the warning about the virus.",
+          "meaning_vi": "sự phớt lờ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "ignorance",
-          "example": "His ignorance of this word processing program surprised everyone."
+          "example": "His ignorance of this word processing program surprised everyone.",
+          "meaning_vi": "sự thiếu hiểu biết",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "ignored",
-          "example": "The ignored computer glitch caused the database to function improperly."
+          "example": "The ignored computer glitch caused the database to function improperly.",
+          "meaning_vi": "bị phớt lờ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -659,13 +727,17 @@
           "pos": "adjective",
           "word": "ignorant",
           "example": "Many consumers remain ignorant of the new data privacy regulations.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "không biết, thiếu hiểu biết",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "ignorantly",
           "example": "He ignorantly signed the contract without reading the fine print.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "do thiếu hiểu biết",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -724,25 +796,33 @@
           "pos": "verb",
           "word": "search",
           "example": "The committee is still searching for a suitable candidate to fill the vacancy.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tìm kiếm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "search",
           "example": "A thorough search of the warehouse failed to locate the missing crate.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cuộc tìm kiếm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "searchable",
           "example": "All past issues of the newsletter are now available in a searchable online archive.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể tìm kiếm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "searchingly",
           "example": "The auditor questioned the chief accountant searchingly about the discrepancy.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách dò xét kỹ lưỡng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -799,19 +879,25 @@
           "pos": "verb",
           "word": "shut",
           "example": "Please make sure all windows are tightly shut before leaving the office.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đóng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "shutdown",
           "example": "The annual maintenance shutdown of the assembly plant is scheduled for August.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự ngừng hoạt động",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "shut",
           "example": "The fire doors must be kept shut at all times to comply with safety codes.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đóng kín",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -843,17 +929,23 @@
         {
           "pos": "",
           "word": "warn",
-          "example": "We were warned that our e-mail was not private."
+          "example": "We were warned that our e-mail was not private.",
+          "meaning_vi": "cảnh báo",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "warning",
-          "example": "The warning was written on the box."
+          "example": "The warning was written on the box.",
+          "meaning_vi": "lời cảnh báo",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "warning",
-          "example": "The warning signs were all there; we should have paid attention to them."
+          "example": "The warning signs were all there; we should have paid attention to them.",
+          "meaning_vi": "mang tính cảnh báo",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -887,7 +979,9 @@
           "pos": "adverb",
           "word": "warningly",
           "example": "The supervisor looked warningly at the staff members who arrived late.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "với vẻ cảnh cáo",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -937,102 +1031,138 @@
       {
         "word": "access",
         "example": "To gain access to the computer lab, all users must have a valid ID.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "quyền tiếp cận",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "access",
         "example": "Internet cafés allow you to access your web-based e-mail account.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "truy cập",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "accessible",
         "example": "The staff assistant always keeps the door to her office open to show she is accessible.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "dễ tiếp cận",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "allocate",
         "example": "Marla didn't allocate enough time to train the new hires on our computer systems.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "phân bổ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "allocation",
         "example": "A different allocation of resources could certainly strengthen the R&amp;D department.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự phân bổ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "allocated",
         "example": "The allocated money was never spent on new monitors.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đã được phân bổ",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "duplicate",
         "example": "If we work hard, we can duplicate last year's sales records for computers.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "lặp lại, tái tạo",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "duplicate",
         "example": "Don't worry, I have a duplicate on my hard drive.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "bản sao",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "duplication",
         "example": "His success at our company was based on the duplication of management techniques he had used elsewhere in his career.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự sao chép, áp dụng lại",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "failure",
         "example": "The power failure caused the system to shut down.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự cố, sự hỏng hóc",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "fail",
         "example": "We failed to tell you that your records were deleted.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "không làm được, thất bại",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "fallible",
         "example": "Everyone can make a mistake. Even a computer is fallible.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có thể mắc lỗi",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "warn",
         "example": "We were warned that our e-mail was not private.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "cảnh báo",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "warning",
         "example": "The warning was written on the box.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "lời cảnh báo",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "warning",
         "example": "The warning signs were all there; we should have paid attention to them.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "mang tính cảnh báo",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "ignore",
         "example": "Unfortunately, she ignored the warning about the virus.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự phớt lờ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "ignorance",
         "example": "His ignorance of this word processing program surprised everyone.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự thiếu hiểu biết",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "ignored",
         "example": "The ignored computer glitch caused the database to function improperly.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "bị phớt lờ",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

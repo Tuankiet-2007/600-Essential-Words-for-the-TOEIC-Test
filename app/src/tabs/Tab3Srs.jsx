@@ -92,6 +92,7 @@ function collectEntryFamilies(entry, lessonObj) {
       word: ex.word,
       example: ex.example || '',
       vi: ex.vi || '',
+      meaning_vi: ex.meaning_vi || '',
       root: entry?.word || '',
       pos_source: ex.pos ? 'book' : 'derived',
     });
@@ -248,9 +249,9 @@ function CompactQuizCard({
           </p>
 
           {/* Nghĩa Tiếng Việt gợi ý ngay bên dưới */}
-          {item.hintVi ? (
+          {(item.hintVi || entry.definition_vi) ? (
             <p className="mt-2 border-t border-[var(--color-duo-blue)]/20 pt-2 text-xs font-bold text-slate-600 sm:text-sm">
-              <span className="text-[#0b6ea8]">Gợi ý:</span> {item.hintVi}
+              <span className="text-[#0b6ea8]">Nghĩa:</span> {item.hintVi || entry.definition_vi}
             </p>
           ) : null}
         </div>
@@ -426,7 +427,7 @@ function CompactQuizCard({
                           <td className="py-1.5 font-bold text-sky-700 dark:text-sky-400">
                             {WORD_FAMILY_LABEL[f.pos] || f.pos}
                           </td>
-                          <td className="py-1.5 font-black text-slate-800 dark:text-slate-100">{f.word}</td>
+                          <td className="py-1.5 font-black text-slate-800 dark:text-slate-100">{f.word}{f.meaning_vi && <span className="mt-0.5 block font-medium text-slate-600 dark:text-slate-300">{f.meaning_vi}</span>}</td>
                           <td className="py-1.5 text-slate-600 dark:text-slate-300">{f.example || '—'}</td>
                         </tr>
                       ))}

@@ -16,19 +16,19 @@ function candidateFor(record) {
   const entry = record?.entry || {};
   const base = clean(entry.word);
   const out = [];
-  const add = (sourceKind, source, answer, vi = '', pos = '') => {
+  const add = (sourceKind, source, answer, vi = '', pos = '', meaningVi = '') => {
     const ans = clean(answer);
     const raw = clean(source);
     const promptEn = cloze(raw, ans);
     if (!raw || !ans || !promptEn || (!/_{3,}/.test(raw) && promptEn === raw)) return;
-    out.push({ sourceKind, sourceId: `${record.lessonId}:${base}:${sourceKind}:${out.length}`, sourceLessonId: record.lessonId, source: raw, promptEn, fullEn: raw.replace(/_{3,}/g, ans), answer: ans, accepted: [ans], hintVi: vi || '', posHint: pos || entry.pos || '' });
+    out.push({ sourceKind, sourceId: `${record.lessonId}:${base}:${sourceKind}:${out.length}`, sourceLessonId: record.lessonId, source: raw, promptEn, fullEn: raw.replace(/_{3,}/g, ans), answer: ans, accepted: [ans], hintVi: clean(meaningVi) || clean(entry.definition_vi) || clean(vi), posHint: pos || entry.pos || '' });
   };
   if (entry.srs_sentence?.en && entry.srs_sentence?.answer) add('srs_sentence', entry.srs_sentence.en, entry.srs_sentence.answer, entry.srs_sentence.vi, entry.srs_sentence.pos_hint);
   for (const ex of Array.isArray(entry.examples) ? entry.examples : []) {
     if (ex?.en && base && new RegExp(`\\b${base.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i').test(ex.en)) add('example', ex.en, base, ex.vi, entry.pos);
   }
   for (const fam of Array.isArray(entry.extra_families) ? entry.extra_families : []) {
-    if (fam?.example && fam?.word) add('word_family', fam.example, fam.word, fam.vi, fam.pos);
+    if (fam?.example && fam?.word) add('word_family', fam.example, fam.word, fam.vi, fam.pos, fam.meaning_vi);
   }
   return out;
 }
@@ -53,7 +53,7 @@ export function buildQuizSession(wordRecords = [], { sessionId = 'session', rand
     const accepted = [word];
     if (word.toLowerCase() === 'canceled') accepted.push('cancelled');
     if (word.toLowerCase() === 'cancelled') accepted.push('canceled');
-    questions.push({ uid: `base:${wordKey}:${sessionId}`, wordKey, type: 'base_word', ...record, promptEn: cloze(definition, word), hintVi: '', pos: entry.pos || '', answer: word, accepted });
+    questions.push({ uid: `base:${wordKey}:${sessionId}`, wordKey, type: 'base_word', ...record, promptEn: cloze(definition, word), hintVi: clean(entry.definition_vi), pos: entry.pos || '', answer: word, accepted });
     const picked = candidates[Math.floor(random() * candidates.length)];
     questions.push({ uid: `context:${wordKey}:${sessionId}`, wordKey, type: 'context_word', ...record, ...picked, pos: picked.posHint || entry.pos || '', sourceKind: picked.sourceKind });
     words.push(wordKey);

@@ -51,25 +51,33 @@
           "pos": "verb",
           "word": "base",
           "example": "The chef bases his seasonal menu on locally grown produce.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "dựa trên, lấy làm cơ sở",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "basis",
           "example": "Sanitation inspections are conducted on a regular basis.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cơ sở; tần suất định kỳ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "basic",
           "example": "Every apprentice cook must master basic knife skills.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cơ bản",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "basically",
           "example": "The bistro's new menu is basically the same as last year's, with just two new desserts.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "về cơ bản",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -101,17 +109,23 @@
         {
           "pos": "",
           "word": "complete",
-          "example": "The meal could not be completed without dessert."
+          "example": "The meal could not be completed without dessert.",
+          "meaning_vi": "hoàn thành, làm trọn vẹn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "completion",
-          "example": "The coffee was the last item ordered and brought the meal to completion."
+          "example": "The coffee was the last item ordered and brought the meal to completion.",
+          "meaning_vi": "sự hoàn tất",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "completely",
-          "example": "The chef forgot that the dessert was in the oven and completely ruined it."
+          "example": "The chef forgot that the dessert was in the oven and completely ruined it.",
+          "meaning_vi": "hoàn toàn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -143,7 +157,9 @@
           "pos": "adjective",
           "word": "complete",
           "example": "The banquet package comes complete with a three-course dinner and live music.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đầy đủ, trọn gói",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -175,17 +191,23 @@
         {
           "pos": "",
           "word": "excite",
-          "example": "The chef knows how to excite his patrons."
+          "example": "The chef knows how to excite his patrons.",
+          "meaning_vi": "khiến hào hứng, thích thú",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "excitement",
-          "example": "You can feel the excitement in the air."
+          "example": "You can feel the excitement in the air.",
+          "meaning_vi": "sự hào hứng, phấn khích",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "excited",
-          "example": "I am really excited about trying out this new restaurant."
+          "example": "I am really excited about trying out this new restaurant.",
+          "meaning_vi": "hào hứng, phấn khích",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -218,13 +240,17 @@
           "pos": "adjective",
           "word": "exciting",
           "example": "The fusion café offers an exciting array of tropical desserts.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thú vị, gây hào hứng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "excitedly",
           "example": "The restaurant staff chatted excitedly about the upcoming visit from a famous food critic.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách hào hứng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -256,17 +282,23 @@
         {
           "pos": "",
           "word": "flavor",
-          "example": "I like a chef who uses exotic spices to flavor the food."
+          "example": "I like a chef who uses exotic spices to flavor the food.",
+          "meaning_vi": "hương vị",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "flavor",
-          "example": "Some people don&#x27;t like Mexican food because the flavors are too spicy."
+          "example": "Some people don&#x27;t like Mexican food because the flavors are too spicy.",
+          "meaning_vi": "hương vị",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "flavorful",
-          "example": "The special ingredients made the dish very flavorful."
+          "example": "The special ingredients made the dish very flavorful.",
+          "meaning_vi": "đậm đà, nhiều hương vị",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -298,7 +330,9 @@
           "pos": "noun",
           "word": "flavoring",
           "example": "Our bakery uses only natural vanilla flavoring in all its pastries.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chất tạo hương vị",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -330,17 +364,23 @@
         {
           "pos": "",
           "word": "forget",
-          "example": "Don&#x27;t forget to bring us the check."
+          "example": "Don&#x27;t forget to bring us the check.",
+          "meaning_vi": "quên",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "forgetful",
-          "example": "The forgetful waitress put a burden on the rest of the staff."
+          "example": "The forgetful waitress put a burden on the rest of the staff.",
+          "meaning_vi": "hay quên",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "forgettable",
-          "example": "The meal was bland and forgettable."
+          "example": "The meal was bland and forgettable.",
+          "meaning_vi": "nhạt nhẽo, không đáng nhớ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -371,13 +411,17 @@
           "pos": "noun",
           "word": "forgetfulness",
           "example": "The server apologized for his forgetfulness and brought the extra napkins right away.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tính hay quên",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "unforgettable",
           "example": "The rooftop view and exquisite cuisine made our anniversary dinner truly unforgettable.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "khó quên",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -436,7 +480,9 @@
           "pos": "noun",
           "word": "ingredient",
           "example": "All packaged foods must display a complete list of ingredients on the label.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nguyên liệu, thành phần",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -495,19 +541,25 @@
           "pos": "verb",
           "word": "judge",
           "example": "You should not judge a restaurant solely by its exterior appearance.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đánh giá, nhận xét",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "judgment",
           "example": "In the manager's judgment, the new menu pricing is fair and competitive.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự đánh giá, nhận định",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "judgmental",
           "example": "Food critics try to be analytical rather than overly judgmental when reviewing new cafés.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hay phán xét, chê trách",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -539,17 +591,23 @@
         {
           "pos": "",
           "word": "mix up",
-          "example": "An inexperienced waiter can easily mix up orders."
+          "example": "An inexperienced waiter can easily mix up orders.",
+          "meaning_vi": "nhầm lẫn, làm lẫn lộn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "mix-up",
-          "example": "We had a big mix-up in our plans and I ended up waiting for my friends at the wrong restaurant."
+          "example": "We had a big mix-up in our plans and I ended up waiting for my friends at the wrong restaurant.",
+          "meaning_vi": "sự nhầm lẫn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "mixed up",
-          "example": "Bob always gets mixed up when he tries to order food at a foreign restaurant."
+          "example": "Bob always gets mixed up when he tries to order food at a foreign restaurant.",
+          "meaning_vi": "bối rối, nhầm lẫn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -583,7 +641,9 @@
           "pos": "verb",
           "word": "mix",
           "example": "Be careful not to mix the gluten-free orders with the regular ones.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "trộn lẫn, để lẫn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -640,13 +700,17 @@
           "pos": "verb",
           "word": "patronize",
           "example": "Many office workers in the district patronize the corner bakery every morning.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thường xuyên mua hàng, lui tới",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "patronage",
           "example": "We sincerely thank our guests for their continued patronage over the past ten years.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự ủng hộ của khách hàng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -678,17 +742,23 @@
         {
           "pos": "",
           "word": "predict",
-          "example": "I predict that this restaurant will be a success."
+          "example": "I predict that this restaurant will be a success.",
+          "meaning_vi": "dự đoán",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "prediction",
-          "example": "The manager&#x27;s prediction came true, and the chef was named to the &quot;Top 100&quot; list."
+          "example": "The manager&#x27;s prediction came true, and the chef was named to the &quot;Top 100&quot; list.",
+          "meaning_vi": "lời dự đoán",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "predictably",
-          "example": "Predictably, because the waiter neglected to write down the order, he forgot some necessary items."
+          "example": "Predictably, because the waiter neglected to write down the order, he forgot some necessary items.",
+          "meaning_vi": "đúng như dự đoán",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -719,7 +789,9 @@
           "pos": "adjective",
           "word": "predictable",
           "example": "Weekend dinner rushes are fairly predictable at downtown restaurants.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể dự đoán được",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -776,25 +848,33 @@
           "pos": "verb",
           "word": "randomize",
           "example": "The software randomizes the order of questions on the customer feedback survey.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sắp xếp ngẫu nhiên",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "randomness",
           "example": "Health inspectors vary their visit dates to maintain randomness in the auditing process.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tính ngẫu nhiên",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "random",
           "example": "The restaurant chain conducts random quality checks at all of its franchises.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ngẫu nhiên",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "randomly",
           "example": "Three lucky diners will be randomly chosen to receive a $50 gift certificate.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách ngẫu nhiên",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -853,13 +933,17 @@
           "pos": "verb",
           "word": "remind",
           "example": "Please remind the catering team to pack vegetarian options for the conference.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhắc nhở",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "reminder",
           "example": "The restaurant sends an automated text message as a reminder of your table reservation.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "lời nhắc, thông báo nhắc nhở",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -909,102 +993,138 @@
       {
         "word": "complete",
         "example": "The meal could not be completed without dessert.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "hoàn thành, làm trọn vẹn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "completion",
         "example": "The coffee was the last item ordered and brought the meal to completion.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự hoàn tất",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "completely",
         "example": "The chef forgot that the dessert was in the oven and completely ruined it.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "hoàn toàn",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "excite",
         "example": "The chef knows how to excite his patrons.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "khiến hào hứng, thích thú",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "excitement",
         "example": "You can feel the excitement in the air.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự hào hứng, phấn khích",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "excited",
         "example": "I am really excited about trying out this new restaurant.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "hào hứng, phấn khích",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "flavor",
         "example": "I like a chef who uses exotic spices to flavor the food.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "hương vị",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "flavor",
         "example": "Some people don&#x27;t like Mexican food because the flavors are too spicy.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "hương vị",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "flavorful",
         "example": "The special ingredients made the dish very flavorful.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đậm đà, nhiều hương vị",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "forget",
         "example": "Don&#x27;t forget to bring us the check.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "quên",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "forgetful",
         "example": "The forgetful waitress put a burden on the rest of the staff.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "hay quên",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "forgettable",
         "example": "The meal was bland and forgettable.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "nhạt nhẽo, không đáng nhớ",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "mix up",
         "example": "An inexperienced waiter can easily mix up orders.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "nhầm lẫn, làm lẫn lộn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "mix-up",
         "example": "We had a big mix-up in our plans and I ended up waiting for my friends at the wrong restaurant.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự nhầm lẫn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "mixed up",
         "example": "Bob always gets mixed up when he tries to order food at a foreign restaurant.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "bối rối, nhầm lẫn",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "predict",
         "example": "I predict that this restaurant will be a success.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "dự đoán",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "prediction",
         "example": "The manager&#x27;s prediction came true, and the chef was named to the &quot;Top 100&quot; list.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "lời dự đoán",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "predictably",
         "example": "Predictably, because the waiter neglected to write down the order, he forgot some necessary items.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đúng như dự đoán",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

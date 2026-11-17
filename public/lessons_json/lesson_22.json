@@ -26,17 +26,23 @@
         {
           "pos": "noun",
           "word": "accountant",
-          "example": "The accountant was precise and hardworking."
+          "example": "The accountant was precise and hardworking.",
+          "meaning_vi": "kế toán viên",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "accounting",
-          "example": "Accounting is a popular field of study."
+          "example": "Accounting is a popular field of study.",
+          "meaning_vi": "ngành kế toán",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "account",
-          "example": "The client closed his bank account and withdrew all of his money."
+          "example": "The client closed his bank account and withdrew all of his money.",
+          "meaning_vi": "tài khoản",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -68,13 +74,17 @@
           "pos": "verb",
           "word": "account",
           "example": "Overseas sales account for nearly half of the corporation's annual revenue.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chiếm, chiếm tỷ lệ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "accountable",
           "example": "Department managers are held accountable for any discrepancies in their expense reports.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chịu trách nhiệm giải trình",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -106,17 +116,23 @@
         {
           "pos": "verb",
           "word": "accumulate",
-          "example": "The owner&#x27;s goal was to accumulate as much wealth as possible."
+          "example": "The owner&#x27;s goal was to accumulate as much wealth as possible.",
+          "meaning_vi": "tích lũy",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "accumulation",
-          "example": "The accumulation of goods may lead to an inventory problem."
+          "example": "The accumulation of goods may lead to an inventory problem.",
+          "meaning_vi": "sự tích tụ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "accumulated",
-          "example": "The sum of all the accumulated resources equals your total assets."
+          "example": "The sum of all the accumulated resources equals your total assets.",
+          "meaning_vi": "đã tích lũy",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -149,13 +165,17 @@
           "pos": "adjective",
           "word": "accumulative",
           "example": "The accumulative effect of small daily savings can be substantial over several decades.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mang tính tích lũy",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "accumulatively",
           "example": "Interest is calculated accumulatively over the entire duration of the bond.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo cách cộng dồn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -214,13 +234,17 @@
           "pos": "noun",
           "word": "assets",
           "example": "The balance sheet lists all corporate assets and liabilities at the close of the fiscal year.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tài sản",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "asset-backed",
           "example": "The investment bank specializes in issuing asset-backed securities to institutional clients.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được bảo đảm bằng tài sản",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -252,17 +276,23 @@
         {
           "pos": "verb",
           "word": "audit",
-          "example": "Some bookkeeping inconsistencies showed up when our records were audited."
+          "example": "Some bookkeeping inconsistencies showed up when our records were audited.",
+          "meaning_vi": "kiểm toán",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "audit",
-          "example": "If you keep your financial records carefully, you will always be ready for audit."
+          "example": "If you keep your financial records carefully, you will always be ready for audit.",
+          "meaning_vi": "cuộc kiểm toán",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "auditor",
-          "example": "The tax auditor will ask to see records from the past several years."
+          "example": "The tax auditor will ask to see records from the past several years.",
+          "meaning_vi": "kiểm toán viên",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -294,7 +324,9 @@
           "pos": "adjective",
           "word": "audited",
           "example": "All publicly traded corporations must submit audited financial statements every year.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã được kiểm toán",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -326,17 +358,23 @@
         {
           "pos": "",
           "word": "budget",
-          "example": "There was no travel expense budgeted for the editorial department."
+          "example": "There was no travel expense budgeted for the editorial department.",
+          "meaning_vi": "ngân sách",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "budget",
-          "example": "The boss asked for input on next year&#x27;s budget."
+          "example": "The boss asked for input on next year&#x27;s budget.",
+          "meaning_vi": "ngân sách",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "budgetary",
-          "example": "Due to budgetary constraints, we cannot hire additional staff at this time."
+          "example": "Due to budgetary constraints, we cannot hire additional staff at this time.",
+          "meaning_vi": "thuộc về ngân sách",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -371,7 +409,9 @@
           "pos": "adjective",
           "word": "budgetary",
           "example": "The renovation project was postponed due to unforeseen budgetary constraints.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thuộc về ngân sách",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -403,12 +443,16 @@
         {
           "pos": "verb",
           "word": "build up",
-          "example": "Over the years, our office has built up a solid list of clients."
+          "example": "Over the years, our office has built up a solid list of clients.",
+          "meaning_vi": "gây dựng, tích lũy",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "buildup",
-          "example": "A buildup of debt will weaken the company&#x27;s finances."
+          "example": "A buildup of debt will weaken the company&#x27;s finances.",
+          "meaning_vi": "sự tích tụ, gia tăng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -440,19 +484,25 @@
           "pos": "verb",
           "word": "build",
           "example": "We aim to build long-lasting relationships with all our corporate partners.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "xây dựng, gây dựng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "builder",
           "example": "The commercial builder completed the new corporate headquarters ahead of schedule.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhà thầu xây dựng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "built-up",
           "example": "Delivery trucks often experience delays when driving through heavily built-up urban areas.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có nhiều nhà cửa",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -511,13 +561,17 @@
           "pos": "noun",
           "word": "clientele",
           "example": "The wealth management firm caters to an exclusive international clientele.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tập khách hàng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "client-centered",
           "example": "Our agency has earned awards for its client-centered approach to financial consulting.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "lấy khách hàng làm trọng tâm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -576,13 +630,17 @@
           "pos": "noun",
           "word": "debtor",
           "example": "The collection agency sent a formal notice to every debtor with an overdue account.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "con nợ, người mắc nợ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "indebted",
           "example": "We are deeply indebted to our founding partners for their unwavering financial support.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mang ơn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -641,13 +699,17 @@
           "pos": "verb",
           "word": "outstand",
           "example": "Rarely does a single candidate outstand so clearly among hundreds of applicants.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nổi bật, vượt trội",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "outstandingly",
           "example": "The new accounting software performed outstandingly well during the stress test.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách xuất sắc",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -679,17 +741,23 @@
         {
           "pos": "",
           "word": "profit",
-          "example": "The engineer will profit from the successful introduction of the new product."
+          "example": "The engineer will profit from the successful introduction of the new product.",
+          "meaning_vi": "lợi nhuận",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "profit",
-          "example": "The profits exceeded all expectations."
+          "example": "The profits exceeded all expectations.",
+          "meaning_vi": "lợi nhuận",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "profitable",
-          "example": "Marketing is the most profitable department this year."
+          "example": "Marketing is the most profitable department this year.",
+          "meaning_vi": "sinh lợi, có lãi",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -721,13 +789,17 @@
           "pos": "noun",
           "word": "profitability",
           "example": "Streamlining warehouse operations significantly improved the company's overall profitability.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "khả năng sinh lợi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "profitably",
           "example": "The newly acquired branch has been operating profitably for six consecutive months.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có lãi",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -785,19 +857,25 @@
           "pos": "verb",
           "word": "reconcile",
           "example": "Bookkeepers must reconcile all petty cash receipts with the master ledger every Friday.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đối chiếu, cân đối",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "reconciliation",
           "example": "The monthly bank reconciliation revealed an unrecorded wire transfer fee.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc đối chiếu sổ sách",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "reconcilable",
           "example": "Fortunately, the minor differences between the two cost estimates were easily reconcilable.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể dung hòa, đối chiếu khớp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -855,19 +933,25 @@
           "pos": "verb",
           "word": "turn over",
           "example": "Popular retail stores turn over their seasonal clothing inventory every few weeks.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "luân chuyển, bán hết hàng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "turnover",
           "example": "Offering competitive benefits helped the factory reduce its high turnover rate.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tỷ lệ thay đổi nhân sự",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "turned-over",
           "example": "All turned-over equipment from the closed branch was inspected before resale.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã được bàn giao",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -917,97 +1001,131 @@
       {
         "word": "accountant",
         "example": "The accountant was precise and hardworking.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "kế toán viên",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "accounting",
         "example": "Accounting is a popular field of study.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "ngành kế toán",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "account",
         "example": "The client closed his bank account and withdrew all of his money.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tài khoản",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "accumulate",
         "example": "The owner&#x27;s goal was to accumulate as much wealth as possible.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "tích lũy",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "accumulation",
         "example": "The accumulation of goods may lead to an inventory problem.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự tích tụ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "accumulated",
         "example": "The sum of all the accumulated resources equals your total assets.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đã tích lũy",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "audit",
         "example": "Some bookkeeping inconsistencies showed up when our records were audited.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "kiểm toán",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "audit",
         "example": "If you keep your financial records carefully, you will always be ready for audit.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "cuộc kiểm toán",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "auditor",
         "example": "The tax auditor will ask to see records from the past several years.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "kiểm toán viên",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "budget",
         "example": "There was no travel expense budgeted for the editorial department.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "ngân sách",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "budget",
         "example": "The boss asked for input on next year&#x27;s budget.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "ngân sách",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "budgetary",
         "example": "Due to budgetary constraints, we cannot hire additional staff at this time.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thuộc về ngân sách",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "build up",
         "example": "Over the years, our office has built up a solid list of clients.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "gây dựng, tích lũy",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "buildup",
         "example": "A buildup of debt will weaken the company&#x27;s finances.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự tích tụ, gia tăng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "profit",
         "example": "The engineer will profit from the successful introduction of the new product.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "lợi nhuận",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "profit",
         "example": "The profits exceeded all expectations.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "lợi nhuận",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "profitable",
         "example": "Marketing is the most profitable department this year.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sinh lợi, có lãi",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

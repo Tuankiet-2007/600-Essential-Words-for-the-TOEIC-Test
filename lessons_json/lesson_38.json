@@ -26,17 +26,23 @@
         {
           "pos": "noun",
           "word": "comprehensiveness",
-          "example": "Due to the comprehensiveness of the train system, the complete timetable was a thick document."
+          "example": "Due to the comprehensiveness of the train system, the complete timetable was a thick document.",
+          "meaning_vi": "tính toàn diện, đầy đủ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "comprehensive",
-          "example": "Due to the comprehensive reach of the rail system, the train can take you to every major city and many smaller ones."
+          "example": "Due to the comprehensive reach of the rail system, the train can take you to every major city and many smaller ones.",
+          "meaning_vi": "toàn diện, bao quát",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "comprehensively",
-          "example": "The surveyors comprehensively studied the terrain before planning the site for the new train tracks."
+          "example": "The surveyors comprehensively studied the terrain before planning the site for the new train tracks.",
+          "meaning_vi": "một cách toàn diện, kỹ lưỡng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -68,13 +74,17 @@
           "pos": "adverb",
           "word": "comprehensively",
           "example": "The safety procedures were comprehensively explained to all new flight attendants.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách đầy đủ, toàn diện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "comprehensiveness",
           "example": "The comprehensiveness of the training manual impressed the senior managers.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tính toàn diện, đầy đủ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -132,13 +142,17 @@
           "pos": "noun",
           "word": "luxury",
           "example": "Guests can enjoy ultimate luxury and exceptional service at the beachfront hotel.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự xa hoa, sang trọng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "luxurious",
           "example": "The cruise ship features luxurious cabins with private balconies.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sang trọng, xa hoa",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -170,17 +184,23 @@
         {
           "pos": "verb",
           "word": "direct",
-          "example": "We were unfamiliar with the city, so the hotel manager directed us to the train station."
+          "example": "We were unfamiliar with the city, so the hotel manager directed us to the train station.",
+          "meaning_vi": "chỉ đường, hướng dẫn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "direction",
-          "example": "The ticket agent at the train station gave us directions to the nearest restaurant."
+          "example": "The ticket agent at the train station gave us directions to the nearest restaurant.",
+          "meaning_vi": "hướng đi, chỉ dẫn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "directory",
-          "example": "At the train station you can pick up a free directory to local restaurants, museums, and other places of interest to visitors."
+          "example": "At the train station you can pick up a free directory to local restaurants, museums, and other places of interest to visitors.",
+          "meaning_vi": "danh bạ, sách chỉ dẫn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -211,13 +231,17 @@
           "pos": "verb",
           "word": "direct",
           "example": "The front desk agent directed the arriving guests to the elevator.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chỉ đường, hướng dẫn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "direction",
           "example": "Follow the directions on the map to reach the historical monument.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hướng đi, chỉ dẫn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -275,13 +299,17 @@
           "pos": "adjective",
           "word": "durable",
           "example": "Luggage made from durable polycarbonate can withstand rough handling.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bền, chịu được hao mòn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "verb",
           "word": "endure",
           "example": "The passengers had to endure a lengthy delay due to a mechanical problem.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chịu đựng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -338,7 +366,9 @@
           "pos": "noun",
           "word": "entitlement",
           "example": "Your annual leave entitlement increases after your second year of employment.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "quyền lợi được hưởng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -396,7 +426,9 @@
           "pos": "verb",
           "word": "fare",
           "example": "The regional tourism sector fared reasonably well despite the economic downturn.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "xoay xở, có kết quả",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -453,7 +485,9 @@
           "pos": "noun",
           "word": "offsetting",
           "example": "Carbon offsetting has become popular among environmentally conscious travelers.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc bù đắp, bù trừ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -485,17 +519,23 @@
         {
           "pos": "verb",
           "word": "operate",
-          "example": "Trains don&#x27;t operate in this town after the summer tourism season is over."
+          "example": "Trains don&#x27;t operate in this town after the summer tourism season is over.",
+          "meaning_vi": "hoạt động, vận hành",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "operation",
-          "example": "The train system is a massive operation with thousands of large and small stations across the country."
+          "example": "The train system is a massive operation with thousands of large and small stations across the country.",
+          "meaning_vi": "hoạt động vận hành",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "operational",
-          "example": "As the operational expenses for the train system rose, the managers were forced to either cut services or raise prices."
+          "example": "As the operational expenses for the train system rose, the managers were forced to either cut services or raise prices.",
+          "meaning_vi": "sẵn sàng hoạt động",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -528,19 +568,25 @@
           "pos": "noun",
           "word": "operation",
           "example": "Flight operations returned to normal once the snow storm passed.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hoạt động vận hành",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "operational",
           "example": "The airport runway will become fully operational by next Monday.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sẵn sàng hoạt động",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "operator",
           "example": "Contact the local tour operator to confirm your bus pickup location.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đơn vị điều hành, tổ chức tour",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -572,17 +618,23 @@
         {
           "pos": "",
           "word": "punctuality",
-          "example": "The Swiss trains are legendary for their punctuality."
+          "example": "The Swiss trains are legendary for their punctuality.",
+          "meaning_vi": "sự đúng giờ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "punctual",
-          "example": "For a transportation service to have any credibility, it must be punctual."
+          "example": "For a transportation service to have any credibility, it must be punctual.",
+          "meaning_vi": "đúng giờ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "punctually",
-          "example": "The conductor arrived punctually at the train station."
+          "example": "The conductor arrived punctually at the train station.",
+          "meaning_vi": "đúng giờ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -612,13 +664,17 @@
           "pos": "adjective",
           "word": "punctual",
           "example": "The train service in Japan is renowned worldwide for being exceptionally punctual.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đúng giờ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "punctuality",
           "example": "Punctuality is essential when you have a connecting flight with a tight layover.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự đúng giờ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -674,13 +730,17 @@
           "pos": "adjective",
           "word": "relative",
           "example": "We compared the relative costs of traveling by train versus renting a passenger van.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tương đối, mang tính so sánh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "relation",
           "example": "There is a close relation between travel demand and seasonal fare pricing.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mối liên hệ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -712,17 +772,23 @@
         {
           "pos": "",
           "word": "remain",
-          "example": "It is safer for all passengers to remain in their seats until the train comes to a complete stop."
+          "example": "It is safer for all passengers to remain in their seats until the train comes to a complete stop.",
+          "meaning_vi": "ở lại, giữ nguyên vị trí",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "remains",
-          "example": "The waiter cleared off the remains of our meal after we left the dining car."
+          "example": "The waiter cleared off the remains of our meal after we left the dining car.",
+          "meaning_vi": "phần còn lại, đồ thừa",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "remainder",
-          "example": "After our exciting stay in New York, the remainder of the trip seemed dull."
+          "example": "After our exciting stay in New York, the remainder of the trip seemed dull.",
+          "meaning_vi": "phần còn lại",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -753,13 +819,17 @@
           "pos": "verb",
           "word": "remain",
           "example": "Passengers must remain seated until the seatbelt sign has been switched off.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tiếp tục ở, giữ nguyên",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "remaining",
           "example": "The remaining tickets will be sold at the box office right before showtime.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "còn lại",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -791,17 +861,23 @@
         {
           "pos": "",
           "word": "remoteness",
-          "example": "The remoteness of the state park was part of its attraction, but since it&#x27;s not served by a train line, I couldn&#x27;t get to it."
+          "example": "The remoteness of the state park was part of its attraction, but since it&#x27;s not served by a train line, I couldn&#x27;t get to it.",
+          "meaning_vi": "sự xa xôi, hẻo lánh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "remote",
-          "example": "The remote cabin in the woods can only be reached by car; the nearest train station or airport is more than 100 miles away."
+          "example": "The remote cabin in the woods can only be reached by car; the nearest train station or airport is more than 100 miles away.",
+          "meaning_vi": "xa xôi, hẻo lánh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "remotely",
-          "example": "I wasn&#x27;t remotely interested in taking a cross-country trip by train since I can&#x27;t stand to be confined for a long time."
+          "example": "I wasn&#x27;t remotely interested in taking a cross-country trip by train since I can&#x27;t stand to be confined for a long time.",
+          "meaning_vi": "từ xa",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -832,13 +908,17 @@
           "pos": "adverb",
           "word": "remotely",
           "example": "Travel agents can remotely access the central reservation database from home.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "từ xa",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "remoteness",
           "example": "The peaceful remoteness of the mountain cabin attracted visitors seeking complete quiet.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự biệt lập, xa xôi",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -888,102 +968,138 @@
       {
         "word": "comprehensiveness",
         "example": "Due to the comprehensiveness of the train system, the complete timetable was a thick document.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "tính toàn diện, đầy đủ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "comprehensive",
         "example": "Due to the comprehensive reach of the rail system, the train can take you to every major city and many smaller ones.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "toàn diện, bao quát",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "comprehensively",
         "example": "The surveyors comprehensively studied the terrain before planning the site for the new train tracks.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách toàn diện, kỹ lưỡng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "direct",
         "example": "We were unfamiliar with the city, so the hotel manager directed us to the train station.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "chỉ đường, hướng dẫn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "direction",
         "example": "The ticket agent at the train station gave us directions to the nearest restaurant.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "hướng đi, chỉ dẫn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "directory",
         "example": "At the train station you can pick up a free directory to local restaurants, museums, and other places of interest to visitors.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "danh bạ, sách chỉ dẫn",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "operate",
         "example": "Trains don&#x27;t operate in this town after the summer tourism season is over.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "hoạt động, vận hành",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "operation",
         "example": "The train system is a massive operation with thousands of large and small stations across the country.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "hoạt động vận hành",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "operational",
         "example": "As the operational expenses for the train system rose, the managers were forced to either cut services or raise prices.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "sẵn sàng hoạt động",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "punctuality",
         "example": "The Swiss trains are legendary for their punctuality.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự đúng giờ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "punctual",
         "example": "For a transportation service to have any credibility, it must be punctual.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "đúng giờ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "punctually",
         "example": "The conductor arrived punctually at the train station.",
-        "pos": "adverb"
+        "pos": "adverb",
+        "meaning_vi": "đúng giờ",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "remain",
         "example": "It is safer for all passengers to remain in their seats until the train comes to a complete stop.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "ở lại, giữ nguyên vị trí",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "remains",
         "example": "The waiter cleared off the remains of our meal after we left the dining car.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "phần còn lại, đồ thừa",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "remainder",
         "example": "After our exciting stay in New York, the remainder of the trip seemed dull.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "phần còn lại",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "remoteness",
         "example": "The remoteness of the state park was part of its attraction, but since it&#x27;s not served by a train line, I couldn&#x27;t get to it.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự xa xôi, hẻo lánh",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "remote",
         "example": "The remote cabin in the woods can only be reached by car; the nearest train station or airport is more than 100 miles away.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "xa xôi, hẻo lánh",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "remotely",
         "example": "I wasn&#x27;t remotely interested in taking a cross-country trip by train since I can&#x27;t stand to be confined for a long time.",
-        "pos": "adverb"
+        "pos": "adverb",
+        "meaning_vi": "từ xa",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

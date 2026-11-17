@@ -51,19 +51,25 @@
           "pos": "verb",
           "word": "address",
           "example": "The task force was formed to address the decline in employee morale.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "xử lý, giải quyết",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "addressee",
           "example": "If the addressee is no longer at this location, please return the letter to the sender.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người nhận thư",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "addressable",
           "example": "Most of the software bugs reported by beta testers are easily addressable.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể xử lý",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -95,17 +101,23 @@
         {
           "pos": "",
           "word": "avoid",
-          "example": "It is best to avoid get-rich-quick schemes."
+          "example": "It is best to avoid get-rich-quick schemes.",
+          "meaning_vi": "tránh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "avoidance",
-          "example": "Your avoidance of these issues will not make them go away."
+          "example": "Your avoidance of these issues will not make them go away.",
+          "meaning_vi": "sự né tránh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "avoided",
-          "example": "The avoided question became more important over time."
+          "example": "The avoided question became more important over time.",
+          "meaning_vi": "bị né tránh",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -136,13 +148,17 @@
           "pos": "adjective",
           "word": "avoidable",
           "example": "Many workplace injuries are completely avoidable if safety rules are followed.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể tránh được",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "avoidably",
           "example": "Several shipments were avoidably delayed due to incomplete customs forms.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo cách có thể tránh được",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -174,17 +190,23 @@
         {
           "pos": "",
           "word": "demonstrate",
-          "example": "Let me demonstrate how this computer program works."
+          "example": "Let me demonstrate how this computer program works.",
+          "meaning_vi": "minh họa, trình diễn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "demonstration",
-          "example": "After the lecture, there was a demonstration of new marketing techniques."
+          "example": "After the lecture, there was a demonstration of new marketing techniques.",
+          "meaning_vi": "buổi minh họa, trình diễn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "demonstrative",
-          "example": "The densely encoded programming was demonstrative of the computer language of the era."
+          "example": "The densely encoded programming was demonstrative of the computer language of the era.",
+          "meaning_vi": "thể hiện rõ, minh chứng cho",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -217,7 +239,9 @@
           "pos": "adverb",
           "word": "demonstratively",
           "example": "The audience applauded demonstratively at the end of the product launch.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách biểu lộ rõ rệt",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -249,17 +273,23 @@
         {
           "pos": "verb",
           "word": "develop",
-          "example": "Our assignment is to develop a cogent business plan."
+          "example": "Our assignment is to develop a cogent business plan.",
+          "meaning_vi": "xây dựng, phát triển",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "development",
-          "example": "The plan was under development and would not be ready for months."
+          "example": "The plan was under development and would not be ready for months.",
+          "meaning_vi": "sự xây dựng, phát triển",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "developer",
-          "example": "The job developer was kept busy trying to place the recent college graduates."
+          "example": "The job developer was kept busy trying to place the recent college graduates.",
+          "meaning_vi": "người phát triển",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -292,7 +322,9 @@
           "pos": "adjective",
           "word": "developed",
           "example": "Our newly developed battery lasts twice as long as previous models.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được phát triển",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -324,17 +356,23 @@
         {
           "pos": "",
           "word": "evaluate",
-          "example": "Please review these articles and evaluate their usefulness for our plan."
+          "example": "Please review these articles and evaluate their usefulness for our plan.",
+          "meaning_vi": "đánh giá",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "evaluation",
-          "example": "Yoko feared the professor&#x27;s evaluation of her business plan."
+          "example": "Yoko feared the professor&#x27;s evaluation of her business plan.",
+          "meaning_vi": "sự đánh giá",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "evaluator",
-          "example": "The independent evaluator reviewed our business plan and gave us.good feedback."
+          "example": "The independent evaluator reviewed our business plan and gave us.good feedback.",
+          "meaning_vi": "người đánh giá",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -367,7 +405,9 @@
           "pos": "adjective",
           "word": "evaluative",
           "example": "The consultant used several evaluative criteria to rank the suppliers.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mang tính đánh giá",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -426,19 +466,25 @@
           "pos": "verb",
           "word": "gather",
           "example": "Researchers gathered survey responses from over two thousand commuters.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thu thập",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "gathering",
           "example": "The resort is an ideal venue for corporate retreats and large gatherings.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "buổi tụ họp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "gathered",
           "example": "The CEO thanked the gathered journalists for attending the press conference.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã tập trung lại",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -498,13 +544,17 @@
           "pos": "verb",
           "word": "offer",
           "example": "The store offers free home delivery on orders over a hundred dollars.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cung cấp, đưa ra",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "offering",
           "example": "The university has expanded its online course offerings this semester.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sản phẩm, dịch vụ cung cấp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -564,19 +614,25 @@
           "pos": "noun",
           "word": "primacy",
           "example": "The company's success is built on the primacy of customer satisfaction.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "vị trí ưu tiên hàng đầu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "primary",
           "example": "Our primary goal this quarter is to reduce manufacturing defects.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chính, hàng đầu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "primarily",
           "example": "The seminar is designed primarily for newly appointed team leaders.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chủ yếu",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -635,25 +691,33 @@
           "pos": "verb",
           "word": "risk",
           "example": "Companies that ignore market research risk losing their competitive edge.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có nguy cơ, mạo hiểm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "risk",
           "example": "Diversifying your portfolio helps reduce overall investment risk.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "rủi ro",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "risky",
           "example": "Launching an untested product nationwide is a very risky strategy.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhiều rủi ro",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "riskily",
           "example": "The hedge fund invested too riskily in volatile tech startups.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách mạo hiểm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -685,17 +749,23 @@
         {
           "pos": "",
           "word": "strategize",
-          "example": "Instead of going into a panic, let&#x27;s strategize the best way to meet the deadline."
+          "example": "Instead of going into a panic, let&#x27;s strategize the best way to meet the deadline.",
+          "meaning_vi": "hoạch định chiến lược",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "strategy",
-          "example": "The business plan lays out a strategy for future growth."
+          "example": "The business plan lays out a strategy for future growth.",
+          "meaning_vi": "chiến lược",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "strategic",
-          "example": "The handout outlined the strategic points to cover in a business plan."
+          "example": "The handout outlined the strategic points to cover in a business plan.",
+          "meaning_vi": "mang tính chiến lược",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -727,7 +797,9 @@
           "pos": "adverb",
           "word": "strategically",
           "example": "Our new distribution center is strategically located near the international airport.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có tính toán chiến lược",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -785,25 +857,33 @@
           "pos": "verb",
           "word": "strengthen",
           "example": "The trade agreement is expected to strengthen economic ties between the two nations.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "củng cố",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "strength",
           "example": "One of the candidate's greatest strengths is her fluency in three languages.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "điểm mạnh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "strong",
           "example": "Strong consumer demand drove fourth-quarter profits to a record high.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mạnh, cao",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "strongly",
           "example": "We strongly advise passengers to arrive at the airport two hours early.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mạnh mẽ, hết sức",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -835,17 +915,23 @@
         {
           "pos": "noun",
           "word": "substitution",
-          "example": "The substitution of gasses is not so easy in this experiment."
+          "example": "The substitution of gasses is not so easy in this experiment.",
+          "meaning_vi": "sự thay thế",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "substitute",
-          "example": "Don&#x27;t try to substitute intuition for good planning."
+          "example": "Don&#x27;t try to substitute intuition for good planning.",
+          "meaning_vi": "thay thế",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "substituted",
-          "example": "Customers complain whenever the substituted product is of lesser value, even though we don&#x27;t charge them for it."
+          "example": "Customers complain whenever the substituted product is of lesser value, even though we don&#x27;t charge them for it.",
+          "meaning_vi": "được dùng thay thế",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -877,7 +963,9 @@
           "pos": "adjective",
           "word": "substitutable",
           "example": "In this recipe, maple syrup is easily substitutable for honey.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể dùng thay thế",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -927,102 +1015,138 @@
       {
         "word": "avoid",
         "example": "It is best to avoid get-rich-quick schemes.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tránh",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "avoidance",
         "example": "Your avoidance of these issues will not make them go away.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự né tránh",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "avoided",
         "example": "The avoided question became more important over time.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "bị né tránh",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "demonstrate",
         "example": "Let me demonstrate how this computer program works.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "minh họa, trình diễn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "demonstration",
         "example": "After the lecture, there was a demonstration of new marketing techniques.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "buổi minh họa, trình diễn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "demonstrative",
         "example": "The densely encoded programming was demonstrative of the computer language of the era.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "thể hiện rõ, minh chứng cho",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "develop",
         "example": "Our assignment is to develop a cogent business plan.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "xây dựng, phát triển",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "development",
         "example": "The plan was under development and would not be ready for months.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự xây dựng, phát triển",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "developer",
         "example": "The job developer was kept busy trying to place the recent college graduates.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "người phát triển",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "evaluate",
         "example": "Please review these articles and evaluate their usefulness for our plan.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đánh giá",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "evaluation",
         "example": "Yoko feared the professor&#x27;s evaluation of her business plan.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự đánh giá",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "evaluator",
         "example": "The independent evaluator reviewed our business plan and gave us.good feedback.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "người đánh giá",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "strategize",
         "example": "Instead of going into a panic, let&#x27;s strategize the best way to meet the deadline.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "hoạch định chiến lược",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "strategy",
         "example": "The business plan lays out a strategy for future growth.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "chiến lược",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "strategic",
         "example": "The handout outlined the strategic points to cover in a business plan.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "mang tính chiến lược",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "substitution",
         "example": "The substitution of gasses is not so easy in this experiment.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự thay thế",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "substitute",
         "example": "Don&#x27;t try to substitute intuition for good planning.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thay thế",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "substituted",
         "example": "Customers complain whenever the substituted product is of lesser value, even though we don&#x27;t charge them for it.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "được dùng thay thế",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

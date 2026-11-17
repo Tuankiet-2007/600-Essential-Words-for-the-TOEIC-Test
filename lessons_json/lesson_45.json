@@ -53,13 +53,17 @@
           "pos": "verb",
           "word": "assign",
           "example": "The chief editor assigned two veteran journalists to cover the trade summit.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "phân công",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "assigned",
           "example": "All press photographers must remain in their assigned areas during the ceremony.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được chỉ định; được phân công",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -91,17 +95,23 @@
         {
           "pos": "",
           "word": "choose",
-          "example": "No one was surprised when the student decided to choose a career in journalism."
+          "example": "No one was surprised when the student decided to choose a career in journalism.",
+          "meaning_vi": "lựa chọn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "choice",
-          "example": "It&#x27;s your choice whether we use a color or black and white photo."
+          "example": "It&#x27;s your choice whether we use a color or black and white photo.",
+          "meaning_vi": "sự lựa chọn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "choosy",
-          "example": "The editor was famous for being choosy about whom she wanted on her staff."
+          "example": "The editor was famous for being choosy about whom she wanted on her staff.",
+          "meaning_vi": "kén chọn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -137,7 +147,9 @@
           "pos": "adjective",
           "word": "chosen",
           "example": "The chosen candidate will assume the role of managing editor in January.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được lựa chọn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -169,17 +181,23 @@
         {
           "pos": "",
           "word": "constancy",
-          "example": "The reporter&#x27;s constancy in writing thorough news reports earned her a loyal following of readers."
+          "example": "The reporter&#x27;s constancy in writing thorough news reports earned her a loyal following of readers.",
+          "meaning_vi": "sự kiên định; bền bỉ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "constant",
-          "example": "The constant ringing of the telephone distracted Susan from writing her report."
+          "example": "The constant ringing of the telephone distracted Susan from writing her report.",
+          "meaning_vi": "liên tục; không ngừng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "constantly",
-          "example": "The editor constantly asks the reporters to recheck their facts."
+          "example": "The editor constantly asks the reporters to recheck their facts.",
+          "meaning_vi": "liên tục; thường xuyên",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -207,7 +225,9 @@
           "pos": "adjective",
           "word": "inconstant",
           "example": "Freelance journalists often struggle with an inconstant stream of income.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "không ổn định; thất thường",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -264,19 +284,25 @@
           "pos": "verb",
           "word": "constitute",
           "example": "Online subscriptions now constitute more than sixty percent of the paper's revenue.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chiếm; cấu thành",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "constitution",
           "example": "Freedom of the press is protected under the country's constitution.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hiến pháp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "constituent",
           "example": "Let us examine the constituent parts of a successful multimedia campaign.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cấu thành",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -308,17 +334,23 @@
         {
           "pos": "",
           "word": "decide",
-          "example": "The editor decided not to publish the story because the facts were unreliable."
+          "example": "The editor decided not to publish the story because the facts were unreliable.",
+          "meaning_vi": "quyết định",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "decision",
-          "example": "The decision to lay off several reporters was made for financial reasons alone."
+          "example": "The decision to lay off several reporters was made for financial reasons alone.",
+          "meaning_vi": "quyết định",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "decisive",
-          "example": "Newspaper editors must be decisive when determining which stories go on the front page."
+          "example": "Newspaper editors must be decisive when determining which stories go on the front page.",
+          "meaning_vi": "quyết đoán",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -351,13 +383,17 @@
           "pos": "adverb",
           "word": "decisively",
           "example": "The managing editor acted decisively to retract the inaccurate article.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách quyết đoán",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "undecided",
           "example": "The board remains undecided about whether to launch a Sunday edition.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chưa quyết định",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -416,19 +452,25 @@
           "pos": "verb",
           "word": "disseminate",
           "example": "Public health agencies use television and radio to disseminate safety guidelines.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "phổ biến; truyền bá",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "dissemination",
           "example": "The internet allows for the instant dissemination of financial news.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự phổ biến; truyền tải",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "disseminated",
           "example": "Widely disseminated press releases helped draw attention to the charity event.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được phổ biến; được phát tán",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -487,13 +529,17 @@
           "pos": "verb",
           "word": "impact",
           "example": "Declining print advertising revenue has negatively impacted many local newspapers.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tác động đến",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "impactful",
           "example": "The photojournalist's impactful images raised awareness of the drought.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có sức tác động mạnh",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -547,25 +593,33 @@
           "pos": "noun",
           "word": "depth",
           "example": "The documentary explores the economic crisis in remarkable depth.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chiều sâu; mức độ sâu sắc",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "verb",
           "word": "deepen",
           "example": "The series of articles helped deepen public understanding of the trade agreement.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "làm sâu sắc hơn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "deep",
           "example": "The veteran correspondent has a deep knowledge of international affairs.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sâu rộng; sâu sắc",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "deeply",
           "example": "Viewers were deeply moved by the human-interest segment on the evening news.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sâu sắc; vô cùng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -597,17 +651,23 @@
         {
           "pos": "",
           "word": "investigate",
-          "example": "Alban was excited about his first chance to investigate a story."
+          "example": "Alban was excited about his first chance to investigate a story.",
+          "meaning_vi": "điều tra",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "investigation",
-          "example": "The investigation into the president&#x27;s past was covered by the media worldwide."
+          "example": "The investigation into the president&#x27;s past was covered by the media worldwide.",
+          "meaning_vi": "cuộc điều tra",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "investigative",
-          "example": "After turning up details in the crime that even the police had missed, Helen became well known as an investigative reporter."
+          "example": "After turning up details in the crime that even the police had missed, Helen became well known as an investigative reporter.",
+          "meaning_vi": "mang tính điều tra",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -638,7 +698,9 @@
           "pos": "noun",
           "word": "investigator",
           "example": "Independent investigators were hired to audit the company's financial records.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "điều tra viên",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -698,19 +760,25 @@
           "pos": "verb",
           "word": "link",
           "example": "The article links rising readership to the newspaper's redesigned mobile app.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "liên hệ; gắn với",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "linkage",
           "example": "The study examines the linkage between media consumption and consumer spending.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mối liên hệ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "linked",
           "example": "The two broadcasting networks are closely linked through a content-sharing agreement.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có liên kết",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -742,17 +810,23 @@
         {
           "pos": "verb",
           "word": "subscribe",
-          "example": "I subscribe to the local newspaper to stay current."
+          "example": "I subscribe to the local newspaper to stay current.",
+          "meaning_vi": "đăng ký mua dài hạn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "subscription",
-          "example": "Buying a subscription to the magazine was much less expensive than buying individual issues."
+          "example": "Buying a subscription to the magazine was much less expensive than buying individual issues.",
+          "meaning_vi": "gói đăng ký mua dài hạn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "subscribers",
-          "example": "The magazine went out of business because it did not have enough subscribers."
+          "example": "The magazine went out of business because it did not have enough subscribers.",
+          "meaning_vi": "những người đăng ký mua",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -782,7 +856,9 @@
           "pos": "noun",
           "word": "subscriber",
           "example": "New subscribers receive a thirty percent discount on their first year's membership.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người đăng ký mua dài hạn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -814,17 +890,23 @@
         {
           "pos": "",
           "word": "thoroughness",
-          "example": "A newspaper cannot survive long without a reputation for thoroughness."
+          "example": "A newspaper cannot survive long without a reputation for thoroughness.",
+          "meaning_vi": "sự kỹ lưỡng; toàn diện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "thorough",
-          "example": "Toshi is famous for her thorough and fair reporting of the issues."
+          "example": "Toshi is famous for her thorough and fair reporting of the issues.",
+          "meaning_vi": "kỹ lưỡng; toàn diện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "thoroughly",
-          "example": "The reporter thoroughly checked all his facts to avoid any potential embarrassment."
+          "example": "The reporter thoroughly checked all his facts to avoid any potential embarrassment.",
+          "meaning_vi": "một cách kỹ lưỡng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -855,7 +937,9 @@
           "pos": "adjective",
           "word": "thoroughgoing",
           "example": "The board ordered a thoroughgoing overhaul of the magazine's editorial standards.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "triệt để; toàn diện",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -904,102 +988,138 @@
       {
         "word": "choose",
         "example": "No one was surprised when the student decided to choose a career in journalism.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "lựa chọn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "choice",
         "example": "It&#x27;s your choice whether we use a color or black and white photo.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự lựa chọn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "choosy",
         "example": "The editor was famous for being choosy about whom she wanted on her staff.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "kén chọn",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "constancy",
         "example": "The reporter&#x27;s constancy in writing thorough news reports earned her a loyal following of readers.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự kiên định; bền bỉ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "constant",
         "example": "The constant ringing of the telephone distracted Susan from writing her report.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "liên tục; không ngừng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "constantly",
         "example": "The editor constantly asks the reporters to recheck their facts.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "liên tục; thường xuyên",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "decide",
         "example": "The editor decided not to publish the story because the facts were unreliable.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "quyết định",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "decision",
         "example": "The decision to lay off several reporters was made for financial reasons alone.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "quyết định",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "decisive",
         "example": "Newspaper editors must be decisive when determining which stories go on the front page.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "quyết đoán",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "investigate",
         "example": "Alban was excited about his first chance to investigate a story.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "điều tra",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "investigation",
         "example": "The investigation into the president&#x27;s past was covered by the media worldwide.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "cuộc điều tra",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "investigative",
         "example": "After turning up details in the crime that even the police had missed, Helen became well known as an investigative reporter.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "mang tính điều tra",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "subscribe",
         "example": "I subscribe to the local newspaper to stay current.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "đăng ký mua dài hạn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "subscription",
         "example": "Buying a subscription to the magazine was much less expensive than buying individual issues.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "gói đăng ký mua dài hạn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "subscribers",
         "example": "The magazine went out of business because it did not have enough subscribers.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "những người đăng ký mua",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "thoroughness",
         "example": "A newspaper cannot survive long without a reputation for thoroughness.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự kỹ lưỡng; toàn diện",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "thorough",
         "example": "Toshi is famous for her thorough and fair reporting of the issues.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "kỹ lưỡng; toàn diện",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "thoroughly",
         "example": "The reporter thoroughly checked all his facts to avoid any potential embarrassment.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách kỹ lưỡng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

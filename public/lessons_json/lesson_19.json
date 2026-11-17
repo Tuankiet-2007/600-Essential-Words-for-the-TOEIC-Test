@@ -55,25 +55,33 @@
           "pos": "verb",
           "word": "charge",
           "example": "The hotel does not charge guests for local telephone calls.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tính phí",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "charge",
           "example": "A ten percent service charge is automatically added to group bills.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "khoản phí",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "verb",
           "word": "overcharge",
           "example": "The client called to complain that he had been overcharged on his monthly invoice.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tính phí quá mức",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "chargeable",
           "example": "Any repairs not covered by the warranty will be chargeable to the owner.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "phải trả phí",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -105,17 +113,23 @@
         {
           "pos": "",
           "word": "compile",
-          "example": "Once the data is compiled, we will know more about sales of the R500 model."
+          "example": "Once the data is compiled, we will know more about sales of the R500 model.",
+          "meaning_vi": "tổng hợp, tập hợp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "compilation",
-          "example": "A compilation of factors led us to believe that employee theft had led to the missing inventory."
+          "example": "A compilation of factors led us to believe that employee theft had led to the missing inventory.",
+          "meaning_vi": "tập hợp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "compiled",
-          "example": "According to the numbers we’ve compiled, sales remained flat in the second quarter."
+          "example": "According to the numbers we’ve compiled, sales remained flat in the second quarter.",
+          "meaning_vi": "đã tổng hợp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -146,7 +160,9 @@
           "pos": "noun",
           "word": "compiler",
           "example": "The compiler of the annual industry directory verified every company address.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người biên soạn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -203,25 +219,33 @@
           "pos": "verb",
           "word": "customize",
           "example": "We can customize the billing software to meet your accounting department's needs.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tùy chỉnh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "customer",
           "example": "Every customer receives an automated e-mail receipt after payment.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "khách hàng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "customizable",
           "example": "The enterprise platform features fully customizable invoice templates.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể tùy chỉnh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "customary",
           "example": "It is customary in this industry to offer a discount for early payment.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thông thường, theo thông lệ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -281,19 +305,25 @@
           "pos": "verb",
           "word": "discount",
           "example": "The bookstore discounts all hardcover bestsellers by twenty percent.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "giảm giá",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "discount",
           "example": "Members receive an exclusive discount on conference registration fees.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "khoản giảm giá",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "discounted",
           "example": "Discounted tickets are available for groups of ten or more.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được giảm giá",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -325,17 +355,23 @@
         {
           "pos": "adjective",
           "word": "efficient",
-          "example": "Counting by twos or threes is much more efficient than counting by one."
+          "example": "Counting by twos or threes is much more efficient than counting by one.",
+          "meaning_vi": "hiệu quả, ít tốn công",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "efficiently",
-          "example": "If we work efficiently, we may be done by midnight."
+          "example": "If we work efficiently, we may be done by midnight.",
+          "meaning_vi": "một cách hiệu quả",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "efficiency",
-          "example": "His efficiency makes him one of the finest operators in the company."
+          "example": "His efficiency makes him one of the finest operators in the company.",
+          "meaning_vi": "hiệu suất, sự hiệu quả",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -367,7 +403,9 @@
           "pos": "adjective",
           "word": "inefficient",
           "example": "The old manual filing system was slow and inefficient.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "kém hiệu quả",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -399,17 +437,23 @@
         {
           "pos": "verb",
           "word": "estimate",
-          "example": "We need to estimate the number of work hours spent on this project."
+          "example": "We need to estimate the number of work hours spent on this project.",
+          "meaning_vi": "ước tính",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "estimation",
-          "example": "Clients prefer itemization to estimation on their invoices."
+          "example": "Clients prefer itemization to estimation on their invoices.",
+          "meaning_vi": "sự ước tính",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "estimating",
-          "example": "Estimating an order for office supplies is difficult because of the increased size of the staff."
+          "example": "Estimating an order for office supplies is difficult because of the increased size of the staff.",
+          "meaning_vi": "việc ước tính",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -441,7 +485,9 @@
           "pos": "adjective",
           "word": "estimated",
           "example": "The estimated cost of the warehouse renovation is two hundred thousand dollars.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ước tính, dự kiến",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -473,17 +519,23 @@
         {
           "pos": "",
           "word": "impose",
-          "example": "The state intends to impose an additional tax on certain office equipment."
+          "example": "The state intends to impose an additional tax on certain office equipment.",
+          "meaning_vi": "áp đặt, đánh thuế",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "imposition",
-          "example": "Clients complained when they discovered the contractor's imposition of charges that should have been included under the terms of the contract."
+          "example": "Clients complained when they discovered the contractor's imposition of charges that should have been included under the terms of the contract.",
+          "meaning_vi": "việc áp đặt",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "imposing",
-          "example": "The new clients found the company's reputation imposing."
+          "example": "The new clients found the company's reputation imposing.",
+          "meaning_vi": "gây ấn tượng mạnh",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -515,7 +567,9 @@
           "pos": "adjective",
           "word": "imposed",
           "example": "Government-imposed safety standards must be met by all manufacturers.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được áp đặt, ban hành",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -547,17 +601,23 @@
         {
           "pos": "verb",
           "word": "mistaken",
-          "example": "The receptionist dialed the wrong number because she had mistaken a “7” for a “4” in the phone number she wrote down."
+          "example": "The receptionist dialed the wrong number because she had mistaken a “7” for a “4” in the phone number she wrote down.",
+          "meaning_vi": "đã nhầm lẫn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "mistake",
-          "example": "The manager called the supplier as soon as he saw the mistake on his invoice."
+          "example": "The manager called the supplier as soon as he saw the mistake on his invoice.",
+          "meaning_vi": "sai sót",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "mistaken",
-          "example": "The director admitted that he was mistaken about the amount of the discount for payment received in 30 days."
+          "example": "The director admitted that he was mistaken about the amount of the discount for payment received in 30 days.",
+          "meaning_vi": "nhầm lẫn, sai",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -592,7 +652,9 @@
           "pos": "adverb",
           "word": "mistakenly",
           "example": "The accounting clerk mistakenly sent the invoice to the wrong client.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "do nhầm lẫn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -652,25 +714,33 @@
           "pos": "verb",
           "word": "order",
           "example": "You can order replacement ink cartridges directly from our website.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đặt hàng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "order",
           "example": "Please quote your order number when inquiring about a delivery.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đơn đặt hàng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "verb",
           "word": "reorder",
           "example": "The system automatically reorders items when stock falls below fifty units.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đặt hàng lại",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "orderly",
           "example": "Please exit the building in a calm and orderly manner during the fire drill.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có trật tự",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -702,17 +772,23 @@
         {
           "pos": "verb",
           "word": "prompt",
-          "example": "The computer cursor prompted the temporary employee about where to insert information on the billing form."
+          "example": "The computer cursor prompted the temporary employee about where to insert information on the billing form.",
+          "meaning_vi": "nhắc, hướng dẫn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "promptness",
-          "example": "Employers appreciate promptness in their employees."
+          "example": "Employers appreciate promptness in their employees.",
+          "meaning_vi": "sự đúng giờ, nhanh chóng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "prompt",
-          "example": "I am happy to receive statements that thank me for prompt payment."
+          "example": "I am happy to receive statements that thank me for prompt payment.",
+          "meaning_vi": "nhanh chóng, đúng hạn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -744,7 +820,9 @@
           "pos": "adverb",
           "word": "promptly",
           "example": "All billing inquiries are addressed promptly by our accounting team.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhanh chóng, kịp thời",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -800,19 +878,25 @@
           "pos": "verb",
           "word": "rectify",
           "example": "The payroll department promised to rectify the underpayment on Friday's check.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sửa chữa, khắc phục",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "rectification",
           "example": "Prompt rectification of invoice errors helps maintain client trust.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc sửa chữa sai sót",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "rectifiable",
           "example": "Fortunately, the software glitch was easily rectifiable.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể khắc phục",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -871,19 +955,25 @@
           "pos": "noun",
           "word": "term",
           "example": "The lease runs for an initial term of three years.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thời hạn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "terms",
           "example": "Please read the terms and conditions carefully before signing.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "các điều khoản",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "long-term",
           "example": "We offer special credit terms to our long-term corporate partners.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "lâu dài",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -933,102 +1023,138 @@
       {
         "word": "compile",
         "example": "Once the data is compiled, we will know more about sales of the R500 model.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tổng hợp, tập hợp",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "compilation",
         "example": "A compilation of factors led us to believe that employee theft had led to the missing inventory.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "tập hợp",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "compiled",
         "example": "According to the numbers we’ve compiled, sales remained flat in the second quarter.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đã tổng hợp",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "efficient",
         "example": "Counting by twos or threes is much more efficient than counting by one.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "hiệu quả, ít tốn công",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "efficiently",
         "example": "If we work efficiently, we may be done by midnight.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách hiệu quả",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "efficiency",
         "example": "His efficiency makes him one of the finest operators in the company.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "hiệu suất, sự hiệu quả",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "estimate",
         "example": "We need to estimate the number of work hours spent on this project.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "ước tính",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "estimation",
         "example": "Clients prefer itemization to estimation on their invoices.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự ước tính",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "estimating",
         "example": "Estimating an order for office supplies is difficult because of the increased size of the staff.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "việc ước tính",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "impose",
         "example": "The state intends to impose an additional tax on certain office equipment.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "áp đặt, đánh thuế",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "imposition",
         "example": "Clients complained when they discovered the contractor's imposition of charges that should have been included under the terms of the contract.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "việc áp đặt",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "imposing",
         "example": "The new clients found the company's reputation imposing.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "gây ấn tượng mạnh",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "prompt",
         "example": "The computer cursor prompted the temporary employee about where to insert information on the billing form.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "nhắc, hướng dẫn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "promptness",
         "example": "Employers appreciate promptness in their employees.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự đúng giờ, nhanh chóng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "prompt",
         "example": "I am happy to receive statements that thank me for prompt payment.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "nhanh chóng, đúng hạn",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "mistaken",
         "example": "The receptionist dialed the wrong number because she had mistaken a “7” for a “4” in the phone number she wrote down.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "đã nhầm lẫn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "mistake",
         "example": "The manager called the supplier as soon as he saw the mistake on his invoice.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sai sót",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "mistaken",
         "example": "The director admitted that he was mistaken about the amount of the discount for payment received in 30 days.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "nhầm lẫn, sai",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

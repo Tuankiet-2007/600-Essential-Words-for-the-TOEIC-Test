@@ -26,17 +26,23 @@
         {
           "pos": "",
           "word": "admit",
-          "example": "The patients lined the hospital corridors waiting to be admitted."
+          "example": "The patients lined the hospital corridors waiting to be admitted.",
+          "meaning_vi": "tiếp nhận nhập viện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "admittance",
-          "example": "Your admittance to the hospital is dependent on your showing proof that you can pay the bills."
+          "example": "Your admittance to the hospital is dependent on your showing proof that you can pay the bills.",
+          "meaning_vi": "việc được tiếp nhận vào viện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "admission",
-          "example": "Take these records down to Admissions and have them duplicate the files for you."
+          "example": "Take these records down to Admissions and have them duplicate the files for you.",
+          "meaning_vi": "bộ phận tiếp nhận bệnh nhân",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -68,13 +74,17 @@
           "pos": "adjective",
           "word": "admissible",
           "example": "Only official medical receipts are admissible for insurance reimbursement.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được chấp nhận; hợp lệ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "admittedly",
           "example": "The new check-in system is, admittedly, much faster than the old paper forms.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "phải thừa nhận rằng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -106,17 +116,23 @@
         {
           "pos": "",
           "word": "authorize",
-          "example": "Your doctor has to authorize these tests before we can proceed with them."
+          "example": "Your doctor has to authorize these tests before we can proceed with them.",
+          "meaning_vi": "cho phép; phê duyệt",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "authority",
-          "example": "Before major surgery, it is a good idea to give decision-making authority to a close relative in case something happens to you."
+          "example": "Before major surgery, it is a good idea to give decision-making authority to a close relative in case something happens to you.",
+          "meaning_vi": "quyền quyết định; thẩm quyền",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "authorization",
-          "example": "The nurse could not submit an authorization over the phone; it had to be done in writing."
+          "example": "The nurse could not submit an authorization over the phone; it had to be done in writing.",
+          "meaning_vi": "giấy cho phép; sự phê duyệt",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -149,13 +165,17 @@
           "pos": "adjective",
           "word": "authorized",
           "example": "Only an authorized physician may sign the patient discharge papers.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được ủy quyền; được phép",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "authoritative",
           "example": "The medical journal published an authoritative study on post-surgical recovery.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có uy tín; đáng tin cậy",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -187,17 +207,23 @@
         {
           "pos": "",
           "word": "designate",
-          "example": "The hospital administrator designated a team to create an emergency preparedness plan."
+          "example": "The hospital administrator designated a team to create an emergency preparedness plan.",
+          "meaning_vi": "chỉ định; bổ nhiệm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "designation",
-          "example": "The designation of the hospital as one of the best in the region certainly helped its marketing efforts."
+          "example": "The designation of the hospital as one of the best in the region certainly helped its marketing efforts.",
+          "meaning_vi": "sự công nhận; danh hiệu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "designator",
-          "example": "The national health service is the sole designator of which hospitals will get the grants."
+          "example": "The national health service is the sole designator of which hospitals will get the grants.",
+          "meaning_vi": "cơ quan chỉ định",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -231,7 +257,9 @@
           "pos": "adjective",
           "word": "designated",
           "example": "Ambulances must use the designated entrance on the north side of the hospital.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được chỉ định; dành riêng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -290,19 +318,25 @@
           "pos": "verb",
           "word": "escort",
           "example": "A hospital volunteer will escort you to the radiology department on the third floor.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "dẫn đi; hộ tống",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "escort",
           "example": "Discharged patients are taken to the main entrance by a staff escort.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người dẫn đi; người hộ tống",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "escorted",
           "example": "All contractors must remain escorted while working in restricted hospital wings.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có người đi kèm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -334,17 +368,23 @@
         {
           "pos": "",
           "word": "identify",
-          "example": "If you will identify your valuables, the nurse will give them back to you."
+          "example": "If you will identify your valuables, the nurse will give them back to you.",
+          "meaning_vi": "nhận ra; xác nhận là của mình",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "identification",
-          "example": "Please remember to bring some form of identification with you when you check in at the hospital."
+          "example": "Please remember to bring some form of identification with you when you check in at the hospital.",
+          "meaning_vi": "giấy tờ tùy thân",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "identifiable",
-          "example": "The red cross on the hospital&#x27;s helicopter landing pad was identifiable from the air."
+          "example": "The red cross on the hospital&#x27;s helicopter landing pad was identifiable from the air.",
+          "meaning_vi": "có thể nhận diện",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -378,13 +418,17 @@
           "pos": "noun",
           "word": "identity",
           "example": "Nurses always verify a patient's identity before administering medication.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "danh tính",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "unidentified",
           "example": "Security guards reported an unidentified vehicle parked in the ambulance zone.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chưa xác định danh tính",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -443,19 +487,25 @@
           "pos": "noun",
           "word": "mission",
           "example": "Our hospital's primary mission is to provide compassionate, high-quality care to the community.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sứ mệnh; nhiệm vụ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "missionary",
           "example": "The clinic was originally founded by a medical missionary in the nineteenth century.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhà truyền giáo",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "missional",
           "example": "The charity hospital remains committed to its missional goals of serving low-income families.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thuộc sứ mệnh",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -487,17 +537,23 @@
         {
           "pos": "",
           "word": "permit",
-          "example": "I can&#x27;t permit more than one visitor at a time in the intensive care unit."
+          "example": "I can&#x27;t permit more than one visitor at a time in the intensive care unit.",
+          "meaning_vi": "cho phép",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "permission",
-          "example": "Mohammed got his insurance company&#x27;s permission to stay another day in the hospital."
+          "example": "Mohammed got his insurance company&#x27;s permission to stay another day in the hospital.",
+          "meaning_vi": "sự cho phép",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "permissible",
-          "example": "It is not permissible to smoke inside the hospital."
+          "example": "It is not permissible to smoke inside the hospital.",
+          "meaning_vi": "được phép",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -531,7 +587,9 @@
           "pos": "adverb",
           "word": "permissibly",
           "example": "Medical records may be permissibly shared only with the patient's written consent.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo cách được cho phép",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -588,19 +646,25 @@
           "pos": "noun",
           "word": "pertinence",
           "example": "The physician questioned the pertinence of the outdated lab results.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tính liên quan; sự thích đáng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "verb",
           "word": "pertain",
           "example": "Please bring all documents that pertain to your previous knee surgery.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "liên quan đến",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "pertinently",
           "example": "The head nurse pertinently pointed out that the emergency generator needed testing.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách xác đáng, đúng vấn đề",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -658,19 +722,25 @@
           "pos": "noun",
           "word": "procedure",
           "example": "All staff must follow strict sanitation procedures in the operating room.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "quy trình; thủ tục",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "procedural",
           "example": "The audit revealed several procedural errors in how patient forms were filed.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thuộc quy trình; thủ tục",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "procedurally",
           "example": "Everything in the clinical trial was handled procedurally according to federal guidelines.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo đúng quy trình",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -730,19 +800,25 @@
           "pos": "verb",
           "word": "result",
           "example": "Implementing electronic check-in kiosks resulted in shorter waiting times for patients.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "dẫn đến; đem lại kết quả",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "resulting",
           "example": "The storm and the resulting power outage forced the clinic to use backup generators.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "phát sinh sau đó; do đó gây ra",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "resultant",
           "example": "The merger and resultant staff reorganization improved hospital efficiency.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nảy sinh từ đó; hệ quả",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -800,19 +876,25 @@
           "pos": "verb",
           "word": "state",
           "example": "The hospital's policy clearly states that payment is due at the time of service.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nêu rõ; tuyên bố",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "stated",
           "example": "Please arrive at the stated time on your appointment confirmation card.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã được nêu; đã ấn định",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "verb",
           "word": "restate",
           "example": "Let me restate the post-operative care instructions so there is no confusion.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "trình bày lại; nhắc lại",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -844,17 +926,23 @@
         {
           "pos": "",
           "word": "usual",
-          "example": "It is usual for health insurance companies to require patients to make co-payments for hospital stays."
+          "example": "It is usual for health insurance companies to require patients to make co-payments for hospital stays.",
+          "meaning_vi": "thông thường; thường lệ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "unusual",
-          "example": "Because of her unusual condition, Martha&#x27;s doctor sent her to a specialist for treatment."
+          "example": "Because of her unusual condition, Martha&#x27;s doctor sent her to a specialist for treatment.",
+          "meaning_vi": "bất thường; khác thường",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "usually",
-          "example": "These days, patients usually stay in the hospital for only a few days at a time."
+          "example": "These days, patients usually stay in the hospital for only a few days at a time.",
+          "meaning_vi": "thường; thông thường",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -884,7 +972,9 @@
           "pos": "adverb",
           "word": "unusually",
           "example": "The emergency room experienced an unusually high volume of patients over the holiday weekend.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "khác thường; bất thường",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -934,102 +1024,138 @@
       {
         "word": "admit",
         "example": "The patients lined the hospital corridors waiting to be admitted.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tiếp nhận nhập viện",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "admittance",
         "example": "Your admittance to the hospital is dependent on your showing proof that you can pay the bills.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "việc được tiếp nhận vào viện",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "admission",
         "example": "Take these records down to Admissions and have them duplicate the files for you.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "bộ phận tiếp nhận bệnh nhân",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "authorize",
         "example": "Your doctor has to authorize these tests before we can proceed with them.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "cho phép; phê duyệt",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "authority",
         "example": "Before major surgery, it is a good idea to give decision-making authority to a close relative in case something happens to you.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "quyền quyết định; thẩm quyền",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "authorization",
         "example": "The nurse could not submit an authorization over the phone; it had to be done in writing.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "giấy cho phép; sự phê duyệt",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "designate",
         "example": "The hospital administrator designated a team to create an emergency preparedness plan.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "chỉ định; bổ nhiệm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "designation",
         "example": "The designation of the hospital as one of the best in the region certainly helped its marketing efforts.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự công nhận; danh hiệu",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "designator",
         "example": "The national health service is the sole designator of which hospitals will get the grants.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "cơ quan chỉ định",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "identify",
         "example": "If you will identify your valuables, the nurse will give them back to you.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "nhận ra; xác nhận là của mình",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "identification",
         "example": "Please remember to bring some form of identification with you when you check in at the hospital.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "giấy tờ tùy thân",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "identifiable",
         "example": "The red cross on the hospital&#x27;s helicopter landing pad was identifiable from the air.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có thể nhận diện",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "permit",
         "example": "I can&#x27;t permit more than one visitor at a time in the intensive care unit.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "cho phép",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "permission",
         "example": "Mohammed got his insurance company&#x27;s permission to stay another day in the hospital.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự cho phép",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "permissible",
         "example": "It is not permissible to smoke inside the hospital.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "được phép",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "usual",
         "example": "It is usual for health insurance companies to require patients to make co-payments for hospital stays.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thông thường; thường lệ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "unusual",
         "example": "Because of her unusual condition, Martha&#x27;s doctor sent her to a specialist for treatment.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "bất thường; khác thường",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "usually",
         "example": "These days, patients usually stay in the hospital for only a few days at a time.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thường; thông thường",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

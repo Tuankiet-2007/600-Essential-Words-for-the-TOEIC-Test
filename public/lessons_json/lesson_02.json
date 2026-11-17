@@ -26,17 +26,23 @@
         {
           "pos": "",
           "word": "attract",
-          "example": "The store's poor location did not help it attract customers."
+          "example": "The store's poor location did not help it attract customers.",
+          "meaning_vi": "thu hút",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "attraction",
-          "example": "Having a clown in the toy store was a foolproof attraction for getting kids to enter."
+          "example": "Having a clown in the toy store was a foolproof attraction for getting kids to enter.",
+          "meaning_vi": "điểm thu hút",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "attractive",
-          "example": "Lou ran his store on an old-fashioned premise: quality merchandise at attractive prices."
+          "example": "Lou ran his store on an old-fashioned premise: quality merchandise at attractive prices.",
+          "meaning_vi": "hấp dẫn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -68,7 +74,9 @@
           "pos": "adverb",
           "word": "attractively",
           "example": "Merchandise that is attractively displayed tends to sell much faster.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách hấp dẫn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -100,17 +108,23 @@
         {
           "pos": "",
           "word": "compare",
-          "example": "She compared the prices before she made a decision."
+          "example": "She compared the prices before she made a decision.",
+          "meaning_vi": "so sánh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "comparison",
-          "example": "There was no comparison in the quality of the two brands."
+          "example": "There was no comparison in the quality of the two brands.",
+          "meaning_vi": "sự so sánh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "comparable",
-          "example": "To get an average for home costs, the agent sought prices on comparable homes."
+          "example": "To get an average for home costs, the agent sought prices on comparable homes.",
+          "meaning_vi": "tương đương, có thể so sánh",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -142,7 +156,9 @@
           "pos": "adverb",
           "word": "comparably",
           "example": "Our new laptop performs comparably to models that cost twice as much.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ở mức tương đương",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -174,17 +190,23 @@
         {
           "pos": "",
           "word": "competition",
-          "example": "Try to think of yourself as someone who leads the competition."
+          "example": "Try to think of yourself as someone who leads the competition.",
+          "meaning_vi": "sự cạnh tranh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "compete",
-          "example": "We competed against three or four other agencies to get this contract."
+          "example": "We competed against three or four other agencies to get this contract.",
+          "meaning_vi": "cạnh tranh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "competitive",
-          "example": "His competitive character made him quite successful in his department."
+          "example": "His competitive character made him quite successful in his department.",
+          "meaning_vi": "có tính cạnh tranh",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -218,13 +240,17 @@
           "pos": "noun",
           "word": "competitor",
           "example": "Our main competitor just launched a similar product at a lower price.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đối thủ cạnh tranh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "competitively",
           "example": "All of our organic food products are competitively priced.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ở mức cạnh tranh",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -256,17 +282,23 @@
         {
           "pos": "",
           "word": "consume",
-          "example": "The analyst was able to consume new information quickly."
+          "example": "The analyst was able to consume new information quickly.",
+          "meaning_vi": "tiếp thu, tiêu thụ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "consumer",
-          "example": "The government tracks consumer spending closely."
+          "example": "The government tracks consumer spending closely.",
+          "meaning_vi": "người tiêu dùng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "consumable",
-          "example": "He ran a study of the use of consumable goods."
+          "example": "He ran a study of the use of consumable goods.",
+          "meaning_vi": "tiêu hao, dùng hết được",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -298,13 +330,17 @@
           "pos": "noun",
           "word": "consumption",
           "example": "Installing LED lighting has drastically reduced our electricity consumption.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "lượng tiêu thụ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "consuming",
           "example": "Auditing the international accounts was a very time-consuming process.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tiêu tốn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -364,25 +400,33 @@
           "pos": "verb",
           "word": "convince",
           "example": "We need solid data to convince the board to approve the expansion.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thuyết phục",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "conviction",
           "example": "She spoke with deep conviction about the importance of customer service.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "niềm tin vững chắc",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "convincing",
           "example": "The sales director presented a very convincing case for hiring more staff.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có sức thuyết phục",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "convincingly",
           "example": "The applicant demonstrated convincingly that he had the skills for the job.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách thuyết phục",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -440,19 +484,25 @@
           "pos": "noun",
           "word": "currency",
           "example": "Foreign currency exchange services are available at the main branch.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tiền tệ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "current",
           "example": "Please make sure we have your current mailing address on file.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hiện tại",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "currently",
           "example": "The system is currently undergoing scheduled maintenance.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hiện nay",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -510,19 +560,25 @@
           "pos": "noun",
           "word": "fad",
           "example": "Many analysts dismissed the new gadget as just a passing fad.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mốt nhất thời",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "faddish",
           "example": "Investors generally avoid companies that rely on faddish consumer products.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo mốt nhất thời",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "faddishly",
           "example": "The boutique caters to teenagers who dress faddishly.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo mốt nhất thời",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -581,25 +637,33 @@
           "pos": "verb",
           "word": "inspire",
           "example": "Her dedication inspired the entire team to work harder.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "truyền cảm hứng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "inspiration",
           "example": "The architect drew inspiration from traditional Japanese gardens.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nguồn cảm hứng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "inspirational",
           "example": "The founder gave an inspirational speech at the annual company retreat.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "truyền cảm hứng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "inspirationally",
           "example": "She led the department inspirationally through a difficult transition.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách truyền cảm hứng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -631,17 +695,23 @@
         {
           "pos": "",
           "word": "market",
-          "example": "The sales department disagreed about how to market their newest product."
+          "example": "The sales department disagreed about how to market their newest product.",
+          "meaning_vi": "tiếp thị",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "marketing",
-          "example": "A good director of marketing can find a way to sell even an unattractive product."
+          "example": "A good director of marketing can find a way to sell even an unattractive product.",
+          "meaning_vi": "hoạt động tiếp thị",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "marketable",
-          "example": "Once the sales manager decided to change the packaging, the product became much more marketable."
+          "example": "Once the sales manager decided to change the packaging, the product became much more marketable.",
+          "meaning_vi": "dễ bán, có thể tiêu thụ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -675,7 +745,9 @@
           "pos": "noun",
           "word": "marketer",
           "example": "Digital marketers use social media analytics to reach younger consumers.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người làm tiếp thị",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -734,25 +806,33 @@
           "pos": "verb",
           "word": "persuade",
           "example": "We finally persuaded the client to sign a two-year service contract.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thuyết phục",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "persuasion",
           "example": "After a bit of gentle persuasion, Mr. Kim agreed to chair the committee.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự thuyết phục",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "persuasive",
           "example": "A successful salesperson must be both knowledgeable and persuasive.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có tài thuyết phục",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "persuasively",
           "example": "The attorney argued persuasively that the patent had not been infringed.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách thuyết phục",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -810,25 +890,33 @@
           "pos": "verb",
           "word": "produce",
           "example": "The factory produces over ten thousand solar panels each month.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sản xuất",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "productivity",
           "example": "Flexible working hours have led to a noticeable rise in employee productivity.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "năng suất",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "productive",
           "example": "We had a very productive brainstorming session this morning.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hiệu quả, năng suất cao",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "productively",
           "example": "Remote software tools allow our teams to collaborate productively from home.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách hiệu quả",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -860,17 +948,23 @@
         {
           "pos": "",
           "word": "satisfaction",
-          "example": "Our highest priority is customer satisfaction."
+          "example": "Our highest priority is customer satisfaction.",
+          "meaning_vi": "sự hài lòng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "satisfy",
-          "example": "Henri was perfectly satisfied with his new fishing rod."
+          "example": "Henri was perfectly satisfied with his new fishing rod.",
+          "meaning_vi": "làm hài lòng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "satisfactory",
-          "example": "The rods were not in satisfactory condition."
+          "example": "The rods were not in satisfactory condition.",
+          "meaning_vi": "đạt yêu cầu",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -903,7 +997,9 @@
           "pos": "adverb",
           "word": "satisfactorily",
           "example": "All customer complaints must be resolved satisfactorily within 48 hours.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách thỏa đáng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -953,102 +1049,138 @@
       {
         "word": "attract",
         "example": "The store's poor location did not help it attract customers.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thu hút",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "attraction",
         "example": "Having a clown in the toy store was a foolproof attraction for getting kids to enter.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "điểm thu hút",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "attractive",
         "example": "Lou ran his store on an old-fashioned premise: quality merchandise at attractive prices.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "hấp dẫn",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "compare",
         "example": "She compared the prices before she made a decision.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "so sánh",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "comparison",
         "example": "There was no comparison in the quality of the two brands.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự so sánh",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "comparable",
         "example": "To get an average for home costs, the agent sought prices on comparable homes.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tương đương, có thể so sánh",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "competition",
         "example": "Try to think of yourself as someone who leads the competition.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự cạnh tranh",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "compete",
         "example": "We competed against three or four other agencies to get this contract.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "cạnh tranh",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "competitive",
         "example": "His competitive character made him quite successful in his department.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có tính cạnh tranh",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "consume",
         "example": "The analyst was able to consume new information quickly.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tiếp thu, tiêu thụ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "consumer",
         "example": "The government tracks consumer spending closely.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "người tiêu dùng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "consumable",
         "example": "He ran a study of the use of consumable goods.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tiêu hao, dùng hết được",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "market",
         "example": "The sales department disagreed about how to market their newest product.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tiếp thị",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "marketing",
         "example": "A good director of marketing can find a way to sell even an unattractive product.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "hoạt động tiếp thị",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "marketable",
         "example": "Once the sales manager decided to change the packaging, the product became much more marketable.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "dễ bán, có thể tiêu thụ",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "satisfaction",
         "example": "Our highest priority is customer satisfaction.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự hài lòng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "satisfy",
         "example": "Henri was perfectly satisfied with his new fishing rod.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "làm hài lòng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "satisfactory",
         "example": "The rods were not in satisfactory condition.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đạt yêu cầu",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

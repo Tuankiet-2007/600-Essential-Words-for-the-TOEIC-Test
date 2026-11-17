@@ -26,17 +26,23 @@
         {
           "pos": "verb",
           "word": "assist",
-          "example": "Let me assist you with planning your next event."
+          "example": "Let me assist you with planning your next event.",
+          "meaning_vi": "hỗ trợ, giúp đỡ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "assistance",
-          "example": "Dennis&#x27;s idea of assistance is to call a professional firm for advice."
+          "example": "Dennis&#x27;s idea of assistance is to call a professional firm for advice.",
+          "meaning_vi": "sự hỗ trợ, giúp đỡ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "assistant",
-          "example": "In light of the number of events she had to run this year, Annu asked her boss for an assistant."
+          "example": "In light of the number of events she had to run this year, Annu asked her boss for an assistant.",
+          "meaning_vi": "trợ lý, người phụ tá",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -68,19 +74,25 @@
           "pos": "verb",
           "word": "assist",
           "example": "The hotel concierge will assist guests with making tour reservations.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hỗ trợ, giúp đỡ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "assistance",
           "example": "Please contact human resources if you require assistance with your benefits.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự hỗ trợ, giúp đỡ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "assistive",
           "example": "The venue is equipped with assistive listening devices for attendees.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có chức năng hỗ trợ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -112,17 +124,23 @@
         {
           "pos": "",
           "word": "coordinate",
-          "example": "Ralph had a hard time coordinating the schedules of everybody involved in planning the event."
+          "example": "Ralph had a hard time coordinating the schedules of everybody involved in planning the event.",
+          "meaning_vi": "phối hợp, điều phối",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "coordination",
-          "example": "Edna is a very good organizer, and coordination of events is one of her specialties."
+          "example": "Edna is a very good organizer, and coordination of events is one of her specialties.",
+          "meaning_vi": "sự phối hợp, điều phối",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "coordinator",
-          "example": "The staff chose Marcel to be the coordinator for the company picnic."
+          "example": "The staff chose Marcel to be the coordinator for the company picnic.",
+          "meaning_vi": "điều phối viên",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -154,7 +172,9 @@
           "pos": "adjective",
           "word": "coordinated",
           "example": "Thanks to a well-coordinated effort by the hotel staff, the conference banquet started right on time.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được phối hợp nhịp nhàng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -212,19 +232,25 @@
           "pos": "noun",
           "word": "dimension",
           "example": "Please check the dimensions of the stage before ordering the backdrop banner.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "kích thước",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "dimensional",
           "example": "The architect provided a three-dimensional model of the new convention hall.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thuộc chiều không gian",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "dimensionally",
           "example": "The replacement tables are dimensionally identical to the ones currently in the ballroom.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "về mặt kích thước",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -281,25 +307,33 @@
           "pos": "verb",
           "word": "exact",
           "example": "The venue rental agency exacts a penalty fee for cancellations made less than 48 hours in advance.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đòi, buộc phải nộp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "exactness",
           "example": "Seating arrangements for state dinners must be planned with great exactness.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự chính xác",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "exacting",
           "example": "The banquet director is known for her exacting standards regarding table presentation.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "khắt khe, đòi hỏi cao",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "exactly",
           "example": "The keynote speech began at exactly nine o'clock in the main auditorium.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chính xác, đúng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -331,17 +365,23 @@
         {
           "pos": "",
           "word": "generalize",
-          "example": "When we generalize, we must be aware of the many exceptions."
+          "example": "When we generalize, we must be aware of the many exceptions.",
+          "meaning_vi": "khái quát hóa",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "general",
-          "example": "I need a general idea of what you want before I can provide specific answers."
+          "example": "I need a general idea of what you want before I can provide specific answers.",
+          "meaning_vi": "chung, tổng quát",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "generally",
-          "example": "Although I cannot speak for every case, generally it is less expensive to buy in quantity."
+          "example": "Although I cannot speak for every case, generally it is less expensive to buy in quantity.",
+          "meaning_vi": "nhìn chung, thông thường",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -373,7 +413,9 @@
           "pos": "noun",
           "word": "generalization",
           "example": "While it is a generalization, outdoor events in June usually enjoy pleasant weather.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhận định khái quát",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -405,17 +447,23 @@
         {
           "pos": "",
           "word": "idealize",
-          "example": "Rhoda idealized the location until she could no longer see any flaws in it."
+          "example": "Rhoda idealized the location until she could no longer see any flaws in it.",
+          "meaning_vi": "lý tưởng hóa",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "ideal",
-          "example": "A hotel with a large garden would be the ideal site for the reception."
+          "example": "A hotel with a large garden would be the ideal site for the reception.",
+          "meaning_vi": "lý tưởng, thích hợp nhất",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "ideally",
-          "example": "Ideally, the site would be within our budget and have an outdoor area."
+          "example": "Ideally, the site would be within our budget and have an outdoor area.",
+          "meaning_vi": "trong điều kiện lý tưởng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -447,7 +495,9 @@
           "pos": "noun",
           "word": "ideal",
           "example": "The event planner worked tirelessly to live up to the client's high ideals.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "lý tưởng, chuẩn mực mong muốn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -506,19 +556,25 @@
           "pos": "verb",
           "word": "lead",
           "example": "Ms. Patel will lead the planning committee for the annual charity gala.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "lãnh đạo, dẫn dắt",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "leader",
           "example": "Our firm is a recognized leader in corporate event management.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người lãnh đạo; đơn vị dẫn đầu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "leading",
           "example": "We partnered with one of the city's leading florists to decorate the ballroom.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hàng đầu",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -550,17 +606,23 @@
         {
           "pos": "",
           "word": "plan",
-          "example": "The committee planned to hold the luncheon in the office conference room rather than at a restaurant."
+          "example": "The committee planned to hold the luncheon in the office conference room rather than at a restaurant.",
+          "meaning_vi": "kế hoạch",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "plan",
-          "example": "The finalized plans for the event will be presented at the staff meeting tomorrow."
+          "example": "The finalized plans for the event will be presented at the staff meeting tomorrow.",
+          "meaning_vi": "kế hoạch",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "planner",
-          "example": "Since she wanted to have a large wedding, Matilda decided to hire a wedding planner to help her make the arrangements."
+          "example": "Since she wanted to have a large wedding, Matilda decided to hire a wedding planner to help her make the arrangements.",
+          "meaning_vi": "người lập kế hoạch, tổ chức",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -593,7 +655,9 @@
           "pos": "adjective",
           "word": "planned",
           "example": "All planned outdoor activities will be moved indoors in the event of rain.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã được lên kế hoạch",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -652,13 +716,17 @@
           "pos": "noun",
           "word": "proximity",
           "example": "The hotel's proximity to the convention center makes it popular with exhibitors.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự gần kề",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "proximate",
           "example": "Guests staying in buildings proximate to the main hall can walk to the reception.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ở gần, lân cận",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -690,17 +758,23 @@
         {
           "pos": "",
           "word": "regulate",
-          "example": "The state will regulate the food-handling precautions."
+          "example": "The state will regulate the food-handling precautions.",
+          "meaning_vi": "quy định, quản lý",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "regulation",
-          "example": "Please obey the state regulations regarding serving alcohol to minors."
+          "example": "Please obey the state regulations regarding serving alcohol to minors.",
+          "meaning_vi": "quy định, quy tắc",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "regulatory",
-          "example": "Even though it is private, the country club&#x27;s kitchen is subject to the rules of regulatory agencies."
+          "example": "Even though it is private, the country club&#x27;s kitchen is subject to the rules of regulatory agencies.",
+          "meaning_vi": "thuộc quản lý, giám sát",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -732,7 +806,9 @@
           "pos": "noun",
           "word": "regulator",
           "example": "Health regulators inspected the outdoor food stalls before the festival opened.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cơ quan, người quản lý giám sát",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -792,19 +868,25 @@
           "pos": "verb",
           "word": "site",
           "example": "The organizers decided to site the main stage near the eastern entrance of the park.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đặt, bố trí tại một địa điểm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "site",
           "example": "The committee visited three potential sites for the annual trade show.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "địa điểm, khu vực",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "on-site",
           "example": "An on-site coordinator will be available throughout the banquet to assist guests.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tại chỗ, tại địa điểm tổ chức",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -863,19 +945,25 @@
           "pos": "verb",
           "word": "stage",
           "example": "The convention center has the capacity to stage three major exhibitions simultaneously.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tổ chức, dàn dựng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "staging",
           "example": "Professional lighting and staging made the awards ceremony unforgettable.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc dàn dựng sân khấu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "staged",
           "example": "The grand finale was a beautifully staged fireworks display over the harbor.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được dàn dựng, tổ chức",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -925,102 +1013,138 @@
       {
         "word": "assist",
         "example": "Let me assist you with planning your next event.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "hỗ trợ, giúp đỡ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "assistance",
         "example": "Dennis&#x27;s idea of assistance is to call a professional firm for advice.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự hỗ trợ, giúp đỡ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "assistant",
         "example": "In light of the number of events she had to run this year, Annu asked her boss for an assistant.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "trợ lý, người phụ tá",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "coordinate",
         "example": "Ralph had a hard time coordinating the schedules of everybody involved in planning the event.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "phối hợp, điều phối",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "coordination",
         "example": "Edna is a very good organizer, and coordination of events is one of her specialties.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự phối hợp, điều phối",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "coordinator",
         "example": "The staff chose Marcel to be the coordinator for the company picnic.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "điều phối viên",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "generalize",
         "example": "When we generalize, we must be aware of the many exceptions.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "khái quát hóa",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "general",
         "example": "I need a general idea of what you want before I can provide specific answers.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "chung, tổng quát",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "generally",
         "example": "Although I cannot speak for every case, generally it is less expensive to buy in quantity.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "nhìn chung, thông thường",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "idealize",
         "example": "Rhoda idealized the location until she could no longer see any flaws in it.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "lý tưởng hóa",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "ideal",
         "example": "A hotel with a large garden would be the ideal site for the reception.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "lý tưởng, thích hợp nhất",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "ideally",
         "example": "Ideally, the site would be within our budget and have an outdoor area.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "trong điều kiện lý tưởng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "plan",
         "example": "The committee planned to hold the luncheon in the office conference room rather than at a restaurant.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "kế hoạch",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "plan",
         "example": "The finalized plans for the event will be presented at the staff meeting tomorrow.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "kế hoạch",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "planner",
         "example": "Since she wanted to have a large wedding, Matilda decided to hire a wedding planner to help her make the arrangements.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "người lập kế hoạch, tổ chức",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "regulate",
         "example": "The state will regulate the food-handling precautions.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "quy định, quản lý",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "regulation",
         "example": "Please obey the state regulations regarding serving alcohol to minors.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "quy định, quy tắc",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "regulatory",
         "example": "Even though it is private, the country club&#x27;s kitchen is subject to the rules of regulatory agencies.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thuộc quản lý, giám sát",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

@@ -51,19 +51,25 @@
           "pos": "verb",
           "word": "brand",
           "example": "The company decided to brand its new line of organic snacks under a separate label.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "xây dựng thương hiệu cho",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "branding",
           "example": "Consistent corporate branding across all platforms helped attract younger consumers.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc xây dựng thương hiệu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "branded",
           "example": "Visitors to the trade booth received complimentary branded tote bags and pens.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có in thương hiệu",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -120,19 +126,25 @@
           "pos": "verb",
           "word": "conform",
           "example": "All imported electrical appliances must conform to national safety regulations.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tuân theo, phù hợp với",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "conformity",
           "example": "Inspectors verified that the building was constructed in full conformity with local codes.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự tuân thủ, phù hợp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "conformable",
           "example": "The terms of the subcontractor's agreement must be conformable to the master contract.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "phù hợp, tương thích",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -164,17 +176,23 @@
         {
           "pos": "",
           "word": "defect",
-          "example": "Disgusted by the poor quality of products at the factory, the employee defected to a plant that took pride in its work."
+          "example": "Disgusted by the poor quality of products at the factory, the employee defected to a plant that took pride in its work.",
+          "meaning_vi": "khuyết tật, lỗi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "defect",
-          "example": "Even a small defect can cause a product to fail."
+          "example": "Even a small defect can cause a product to fail.",
+          "meaning_vi": "khuyết tật, lỗi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "defective",
-          "example": "Good quality control employees will notice defective machinery before a serious breakdown occurs."
+          "example": "Good quality control employees will notice defective machinery before a serious breakdown occurs.",
+          "meaning_vi": "bị lỗi, hỏng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -206,7 +224,9 @@
           "pos": "adverb",
           "word": "defectively",
           "example": "Any defectively manufactured parts are automatically rejected by the optical scanner.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách bị lỗi",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -263,19 +283,25 @@
           "pos": "verb",
           "word": "enhance",
           "example": "Upgrading the lighting system will greatly enhance the appearance of our showroom.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nâng cao, cải thiện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "enhancement",
           "example": "The latest software update includes several security enhancements and bug fixes.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự cải tiến, nâng cấp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "enhanced",
           "example": "Premium members enjoy enhanced customer support and faster shipping options.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được nâng cao, cải thiện",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -333,7 +359,9 @@
           "pos": "noun",
           "word": "garments",
           "example": "All delicate silk garments should be dry-cleaned rather than washed in a machine.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "quần áo, trang phục",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -365,17 +393,23 @@
         {
           "pos": "",
           "word": "inspect",
-          "example": "We must inspect every product before we sell it."
+          "example": "We must inspect every product before we sell it.",
+          "meaning_vi": "kiểm tra",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "inspection",
-          "example": "Each employee must conduct a careful inspection."
+          "example": "Each employee must conduct a careful inspection.",
+          "meaning_vi": "sự kiểm tra",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "inspector",
-          "example": "The inspector leaves his identification number on the product to ensure accountability."
+          "example": "The inspector leaves his identification number on the product to ensure accountability.",
+          "meaning_vi": "kiểm tra viên, thanh tra viên",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -407,7 +441,9 @@
           "pos": "adjective",
           "word": "inspected",
           "example": "Every inspected vehicle receives an official safety sticker on its windshield.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã được kiểm tra",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -439,17 +475,23 @@
         {
           "pos": "",
           "word": "perceive",
-          "example": "The worker perceived that the stitching on the seams could not withstand normal strain."
+          "example": "The worker perceived that the stitching on the seams could not withstand normal strain.",
+          "meaning_vi": "nhận thấy, nhận biết",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "perception",
-          "example": "Customers' perception of quality is often based on their experience with a given store or brand."
+          "example": "Customers' perception of quality is often based on their experience with a given store or brand.",
+          "meaning_vi": "nhận thức, cách nhìn nhận",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "perceptive",
-          "example": "Perceptive workers are excellent quality control inspectors."
+          "example": "Perceptive workers are excellent quality control inspectors.",
+          "meaning_vi": "tinh ý, nhạy bén",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -481,7 +523,9 @@
           "pos": "adverb",
           "word": "perceptively",
           "example": "The consultant perceptively pointed out the hidden bottleneck in our assembly line.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách tinh ý",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -513,17 +557,23 @@
         {
           "pos": "",
           "word": "repel",
-          "example": "A quality raincoat can repel rain and keep you dry."
+          "example": "A quality raincoat can repel rain and keep you dry.",
+          "meaning_vi": "đẩy lùi; chống thấm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "repellent",
-          "example": "Testing insect repellent is never a pleasant task."
+          "example": "Testing insect repellent is never a pleasant task.",
+          "meaning_vi": "chất xua đuổi côn trùng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "repellent",
-          "example": "Testing stain removers can be repellent to workers because of the toxic fumes."
+          "example": "Testing stain removers can be repellent to workers because of the toxic fumes.",
+          "meaning_vi": "gây ghê sợ, khó chịu",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -553,7 +603,9 @@
           "pos": "noun",
           "word": "repellency",
           "example": "The outdoor fabric was treated with a special wax to increase its water repellency.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "khả năng chống thấm, đẩy lùi",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -611,13 +663,17 @@
           "pos": "verb",
           "word": "take",
           "example": "Retailers must take responsibility for the safety of the products they sell.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhận, đảm nhận",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "take-back",
           "example": "The electronics manufacturer introduced a free take-back program for old batteries.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc thu hồi sản phẩm cũ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -673,13 +729,17 @@
           "pos": "verb",
           "word": "throw",
           "example": "Please do not throw packaging materials into the regular office trash bins.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ném, vứt",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "throwaway",
           "example": "Many coffee shops are replacing throwaway plastic cups with reusable containers.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "dùng một lần rồi bỏ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -711,17 +771,23 @@
         {
           "pos": "noun",
           "word": "uniform",
-          "example": "The employees at this company are required to wear uniforms."
+          "example": "The employees at this company are required to wear uniforms.",
+          "meaning_vi": "đồng phục",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "uniform",
-          "example": "A successful company will ensure the uniform quality of its products."
+          "example": "A successful company will ensure the uniform quality of its products.",
+          "meaning_vi": "đồng đều, nhất quán",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "uniformly",
-          "example": "All of our company's products must be uniformly labeled."
+          "example": "All of our company's products must be uniformly labeled.",
+          "meaning_vi": "một cách đồng nhất",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -752,7 +818,9 @@
           "pos": "noun",
           "word": "uniformity",
           "example": "Automated assembly lines ensure complete uniformity in product size and weight.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự đồng đều, đồng nhất",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -784,17 +852,23 @@
         {
           "pos": "",
           "word": "wrinkle",
-          "example": "Linen is not a practical fabric because it wrinkles easily."
+          "example": "Linen is not a practical fabric because it wrinkles easily.",
+          "meaning_vi": "nếp nhăn, nếp nhăn vải",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "wrinkle",
-          "example": "Inspect garments carefully and remove any wrinkles that you find."
+          "example": "Inspect garments carefully and remove any wrinkles that you find.",
+          "meaning_vi": "nếp nhăn, nếp nhăn vải",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "wrinkled",
-          "example": "Garments become wrinkled after they have been tried on several times at the store."
+          "example": "Garments become wrinkled after they have been tried on several times at the store.",
+          "meaning_vi": "nhăn nhúm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -826,7 +900,9 @@
           "pos": "adjective",
           "word": "wrinkle-free",
           "example": "Business travelers prefer wrinkle-free dress shirts that do not require ironing.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "không nhăn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -876,102 +952,138 @@
       {
         "word": "defect",
         "example": "Disgusted by the poor quality of products at the factory, the employee defected to a plant that took pride in its work.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "khuyết tật, lỗi",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "defect",
         "example": "Even a small defect can cause a product to fail.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "khuyết tật, lỗi",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "defective",
         "example": "Good quality control employees will notice defective machinery before a serious breakdown occurs.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "bị lỗi, hỏng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "inspect",
         "example": "We must inspect every product before we sell it.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "kiểm tra",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "inspection",
         "example": "Each employee must conduct a careful inspection.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự kiểm tra",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "inspector",
         "example": "The inspector leaves his identification number on the product to ensure accountability.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "kiểm tra viên, thanh tra viên",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "perceive",
         "example": "The worker perceived that the stitching on the seams could not withstand normal strain.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "nhận thấy, nhận biết",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "perception",
         "example": "Customers' perception of quality is often based on their experience with a given store or brand.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "nhận thức, cách nhìn nhận",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "perceptive",
         "example": "Perceptive workers are excellent quality control inspectors.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tinh ý, nhạy bén",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "repel",
         "example": "A quality raincoat can repel rain and keep you dry.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đẩy lùi; chống thấm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "repellent",
         "example": "Testing insect repellent is never a pleasant task.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "chất xua đuổi côn trùng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "repellent",
         "example": "Testing stain removers can be repellent to workers because of the toxic fumes.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "gây ghê sợ, khó chịu",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "uniform",
         "example": "The employees at this company are required to wear uniforms.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "đồng phục",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "uniform",
         "example": "A successful company will ensure the uniform quality of its products.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đồng đều, nhất quán",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "uniformly",
         "example": "All of our company's products must be uniformly labeled.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách đồng nhất",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "wrinkle",
         "example": "Linen is not a practical fabric because it wrinkles easily.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "nếp nhăn, nếp nhăn vải",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "wrinkle",
         "example": "Inspect garments carefully and remove any wrinkles that you find.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "nếp nhăn, nếp nhăn vải",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "wrinkled",
         "example": "Garments become wrinkled after they have been tried on several times at the store.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "nhăn nhúm",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

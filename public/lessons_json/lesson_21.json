@@ -26,17 +26,23 @@
         {
           "pos": "adjective",
           "word": "accept",
-          "example": "The bank will not accept a student ID as a valid form of identification."
+          "example": "The bank will not accept a student ID as a valid form of identification.",
+          "meaning_vi": "chấp nhận",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "acceptance",
-          "example": "The bank&#x27;s acceptance of checks allows extra time for out-of-state checks to clear before they are credited to your account."
+          "example": "The bank&#x27;s acceptance of checks allows extra time for out-of-state checks to clear before they are credited to your account.",
+          "meaning_vi": "sự chấp nhận",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "acceptable",
-          "example": "Shorter banking hours would not be acceptable to many customers, who might close their accounts as a result."
+          "example": "Shorter banking hours would not be acceptable to many customers, who might close their accounts as a result.",
+          "meaning_vi": "có thể chấp nhận",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -69,7 +75,9 @@
           "pos": "adverb",
           "word": "acceptably",
           "example": "All newly hired bank tellers performed acceptably during their probation period.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ở mức chấp nhận được",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -128,19 +136,25 @@
           "pos": "verb",
           "word": "balance",
           "example": "The accounting team worked late to balance the quarterly financial ledgers.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cân đối sổ sách",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "balance",
           "example": "Customers must maintain a minimum balance of $500 to avoid monthly service charges.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "số dư",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "balanced",
           "example": "A balanced investment portfolio helps minimize financial risks during market downturns.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cân bằng, cân đối",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -199,19 +213,25 @@
           "pos": "verb",
           "word": "borrow",
           "example": "Small businesses often borrow capital to finance their expansion projects.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "vay, mượn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "borrower",
           "example": "Each borrower is required to provide proof of steady income before loan approval.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người vay",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "borrowed",
           "example": "The startup operated entirely on borrowed funds during its first fiscal year.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được vay mượn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -243,17 +263,23 @@
         {
           "pos": "",
           "word": "caution",
-          "example": "Our friends cautioned us against putting our money into an account that pays such a low interest rate."
+          "example": "Our friends cautioned us against putting our money into an account that pays such a low interest rate.",
+          "meaning_vi": "cảnh báo, khuyên thận trọng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "cautious",
-          "example": "The bank officer was cautious about approving Chen&#x27;s loan because of his unfavorable credit history."
+          "example": "The bank officer was cautious about approving Chen&#x27;s loan because of his unfavorable credit history.",
+          "meaning_vi": "thận trọng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "cautiously",
-          "example": "We spent our money cautiously because we were not sure we would be able to borrow more."
+          "example": "We spent our money cautiously because we were not sure we would be able to borrow more.",
+          "meaning_vi": "một cách thận trọng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -285,7 +311,9 @@
           "pos": "verb",
           "word": "caution",
           "example": "Financial advisors cautioned clients against putting all their savings into volatile stocks.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cảnh báo, khuyên thận trọng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -317,17 +345,23 @@
         {
           "pos": "",
           "word": "deduct",
-          "example": "Remember to deduct the monthly bank fee from your statement."
+          "example": "Remember to deduct the monthly bank fee from your statement.",
+          "meaning_vi": "khấu trừ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "deductible",
-          "example": "Taxes and health insurance payments are called deductibles because they are deducted from your paycheck."
+          "example": "Taxes and health insurance payments are called deductibles because they are deducted from your paycheck.",
+          "meaning_vi": "khoản bị khấu trừ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "deduction",
-          "example": "Deductions are made electronically every month and will appear on your statement."
+          "example": "Deductions are made electronically every month and will appear on your statement.",
+          "meaning_vi": "khoản khấu trừ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -358,7 +392,9 @@
           "pos": "adjective",
           "word": "deductible",
           "example": "Business travel expenses are fully deductible from your taxable corporate income.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được khấu trừ thuế",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -417,19 +453,25 @@
           "pos": "verb",
           "word": "divide",
           "example": "The board voted to divide the surplus profits equally among preferred shareholders.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chia, phân chia",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "division",
           "example": "The retail banking division reported a significant increase in quarterly revenue.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bộ phận, khối",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "divisible",
           "example": "Each share lot is divisible into smaller units for individual retail investors.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể chia nhỏ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -488,19 +530,25 @@
           "pos": "verb",
           "word": "pay",
           "example": "Buyers must pay at least ten percent of the purchase price upfront.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "trả tiền, thanh toán",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "payment",
           "example": "Monthly loan payments are due on the first business day of each month.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "khoản thanh toán",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "payable",
           "example": "Please make the check payable to Continental Mortgage Services.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được thanh toán cho",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -559,19 +607,25 @@
           "pos": "verb",
           "word": "mortgage",
           "example": "The owners decided to mortgage their commercial building to fund the renovation.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thế chấp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "mortgagee",
           "example": "The bank acts as the mortgagee and holds legal title until the debt is repaid.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bên nhận thế chấp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "mortgaged",
           "example": "The heavily mortgaged property was eventually sold to cover outstanding debts.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã thế chấp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -603,17 +657,23 @@
         {
           "pos": "verb",
           "word": "restrict",
-          "example": "The bank&#x27;s policies restrict the number of deductions you can make from your account without a penalty."
+          "example": "The bank&#x27;s policies restrict the number of deductions you can make from your account without a penalty.",
+          "meaning_vi": "hạn chế",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "restriction",
-          "example": "The restrictions on who was eligible for a mortgage made it impossible for many low-income families to borrow money."
+          "example": "The restrictions on who was eligible for a mortgage made it impossible for many low-income families to borrow money.",
+          "meaning_vi": "sự hạn chế, quy định hạn chế",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "restricted",
-          "example": "Information about your account is confidential and its use without your permission is restricted."
+          "example": "Information about your account is confidential and its use without your permission is restricted.",
+          "meaning_vi": "bị hạn chế",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -646,7 +706,9 @@
           "pos": "adverb",
           "word": "restrictively",
           "example": "The lending criteria were interpreted too restrictively by the regional branch.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo cách quá hạn chế",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -678,17 +740,23 @@
         {
           "pos": "",
           "word": "sign",
-          "example": "Once you have signed the mortgage contract, the bank will make a check payable to you."
+          "example": "Once you have signed the mortgage contract, the bank will make a check payable to you.",
+          "meaning_vi": "ký tên",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "sign",
-          "example": "The sign in the bank&#x27;s lobby announces their rates for savings accounts and for loans."
+          "example": "The sign in the bank&#x27;s lobby announces their rates for savings accounts and for loans.",
+          "meaning_vi": "biển thông báo",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "signature",
-          "example": "Your signature can be electronically recorded to be verified later."
+          "example": "Your signature can be electronically recorded to be verified later.",
+          "meaning_vi": "chữ ký",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -721,7 +789,9 @@
           "pos": "adjective",
           "word": "signed",
           "example": "Please return the signed loan agreement to our main office by Friday.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã ký",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -780,19 +850,25 @@
           "pos": "verb",
           "word": "take",
           "example": "It usually takes three business days for an international wire transfer to clear.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mất, cần thời gian",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "undertaking",
           "example": "Launching a new commercial bank branch is a major financial undertaking.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "công việc, dự án lớn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "taken",
           "example": "All security measures taken by the bank complied with federal regulations.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã được thực hiện",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -824,12 +900,16 @@
         {
           "pos": "verb",
           "word": "transact",
-          "example": "Our company transacts all its financial business at this bank."
+          "example": "Our company transacts all its financial business at this bank.",
+          "meaning_vi": "thực hiện giao dịch",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "transaction",
-          "example": "All parties concerned were pleased with the results of the business transactions."
+          "example": "All parties concerned were pleased with the results of the business transactions.",
+          "meaning_vi": "giao dịch",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -862,7 +942,9 @@
           "pos": "adjective",
           "word": "transactional",
           "example": "The bank upgraded its servers to handle high-volume transactional data securely.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thuộc về giao dịch",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -912,97 +994,131 @@
       {
         "word": "accept",
         "example": "The bank will not accept a student ID as a valid form of identification.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "chấp nhận",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "acceptance",
         "example": "The bank&#x27;s acceptance of checks allows extra time for out-of-state checks to clear before they are credited to your account.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự chấp nhận",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "acceptable",
         "example": "Shorter banking hours would not be acceptable to many customers, who might close their accounts as a result.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có thể chấp nhận",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "caution",
         "example": "Our friends cautioned us against putting our money into an account that pays such a low interest rate.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "cảnh báo, khuyên thận trọng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "cautious",
         "example": "The bank officer was cautious about approving Chen&#x27;s loan because of his unfavorable credit history.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thận trọng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "cautiously",
         "example": "We spent our money cautiously because we were not sure we would be able to borrow more.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách thận trọng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "deduct",
         "example": "Remember to deduct the monthly bank fee from your statement.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "khấu trừ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "deductible",
         "example": "Taxes and health insurance payments are called deductibles because they are deducted from your paycheck.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "khoản bị khấu trừ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "deduction",
         "example": "Deductions are made electronically every month and will appear on your statement.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "khoản khấu trừ",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "restrict",
         "example": "The bank&#x27;s policies restrict the number of deductions you can make from your account without a penalty.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "hạn chế",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "restriction",
         "example": "The restrictions on who was eligible for a mortgage made it impossible for many low-income families to borrow money.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự hạn chế, quy định hạn chế",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "restricted",
         "example": "Information about your account is confidential and its use without your permission is restricted.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "bị hạn chế",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "sign",
         "example": "Once you have signed the mortgage contract, the bank will make a check payable to you.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "ký tên",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "sign",
         "example": "The sign in the bank&#x27;s lobby announces their rates for savings accounts and for loans.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "biển thông báo",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "signature",
         "example": "Your signature can be electronically recorded to be verified later.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "chữ ký",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "transact",
         "example": "Our company transacts all its financial business at this bank.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "thực hiện giao dịch",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "transaction",
         "example": "All parties concerned were pleased with the results of the business transactions.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "giao dịch",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

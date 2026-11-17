@@ -26,17 +26,23 @@
         {
           "pos": "noun",
           "word": "aggression",
-          "example": "The act of aggression against our country caused a fear of war and had a negative effect on the stock market."
+          "example": "The act of aggression against our country caused a fear of war and had a negative effect on the stock market.",
+          "meaning_vi": "hành động xâm lược",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "aggressive",
-          "example": "The director's aggressive position on investing was frowned upon by the Board of Directors."
+          "example": "The director's aggressive position on investing was frowned upon by the Board of Directors.",
+          "meaning_vi": "mạnh bạo, mạo hiểm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "aggressively",
-          "example": "I chose this stockbroker because he invests my money aggressively."
+          "example": "I chose this stockbroker because he invests my money aggressively.",
+          "meaning_vi": "một cách mạnh bạo, mạo hiểm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -68,7 +74,9 @@
           "pos": "verb",
           "word": "aggress",
           "example": "Strict market regulations prevent dominant monopolies from aggressing against smaller rivals.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tấn công, chèn ép",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -128,19 +136,25 @@
           "pos": "noun",
           "word": "attitude",
           "example": "A courteous attitude is essential for anyone working in customer relations.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thái độ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "attitudinal",
           "example": "The market survey measured attitudinal shifts among younger investors over the past five years.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thuộc về thái độ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "attitudinally",
           "example": "New hires must be both technically qualified and attitudinally suited to teamwork.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "về mặt thái độ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -172,17 +186,23 @@
         {
           "pos": "verb",
           "word": "commit",
-          "example": "I'm committed to keeping the money in my pension fund until I retire."
+          "example": "I'm committed to keeping the money in my pension fund until I retire.",
+          "meaning_vi": "cam kết",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "commitment",
-          "example": "The employee's commitment to working hard and saving her money was commendable."
+          "example": "The employee's commitment to working hard and saving her money was commendable.",
+          "meaning_vi": "sự cam kết, quyết tâm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "noncommittal",
-          "example": "I had hoped that the discussion would yield a definite answer from them, but they were noncommittal."
+          "example": "I had hoped that the discussion would yield a definite answer from them, but they were noncommittal.",
+          "meaning_vi": "không bày tỏ lập trường rõ ràng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -213,7 +233,9 @@
           "pos": "adjective",
           "word": "committed",
           "example": "Our company is fully committed to reducing carbon emissions across all manufacturing plants.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "quyết tâm, cam kết",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -245,17 +267,23 @@
         {
           "pos": "verb",
           "word": "conserve",
-          "example": "Conserve your money now so you will be able to invest when the stock market gets better."
+          "example": "Conserve your money now so you will be able to invest when the stock market gets better.",
+          "meaning_vi": "tiết kiệm, giữ gìn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "conservative",
-          "example": "Some people are conservative investors and take few risks with their money."
+          "example": "Some people are conservative investors and take few risks with their money.",
+          "meaning_vi": "thận trọng, ít mạo hiểm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "conservatively",
-          "example": "If you invest too conservatively, you may lose some chances for making money."
+          "example": "If you invest too conservatively, you may lose some chances for making money.",
+          "meaning_vi": "một cách thận trọng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -288,7 +316,9 @@
           "pos": "noun",
           "word": "conservation",
           "example": "Energy conservation measures have helped the factory lower its monthly utility bills.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự tiết kiệm, bảo tồn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -347,19 +377,25 @@
           "pos": "verb",
           "word": "fund",
           "example": "A group of venture capitalists agreed to fund the biotechnology startup.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cấp vốn, tài trợ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "funding",
           "example": "The research institute secured government funding for its renewable energy project.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nguồn tài trợ, kinh phí",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "funded",
           "example": "The community center renovation is a jointly funded initiative between local businesses and the city.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được tài trợ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -391,17 +427,23 @@
         {
           "pos": "verb",
           "word": "invest",
-          "example": "The company has been successful because it has invested wisely in its resources."
+          "example": "The company has been successful because it has invested wisely in its resources.",
+          "meaning_vi": "đầu tư",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "investment",
-          "example": "The CFO is responsible for corporate investment."
+          "example": "The CFO is responsible for corporate investment.",
+          "meaning_vi": "việc đầu tư, khoản đầu tư",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "investor",
-          "example": "The fall in the stock market shook up the investors."
+          "example": "The fall in the stock market shook up the investors.",
+          "meaning_vi": "nhà đầu tư",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -433,7 +475,9 @@
           "pos": "adjective",
           "word": "invested",
           "example": "All invested capital is protected by federal deposit insurance up to the legal limit.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã được đầu tư",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -492,13 +536,17 @@
           "pos": "noun",
           "word": "term",
           "example": "Please read the terms and conditions of the investment agreement carefully.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "điều khoản",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "short-term",
           "example": "Despite short-term market fluctuations, our long-term outlook remains positive.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ngắn hạn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -555,7 +603,9 @@
           "pos": "noun",
           "word": "portfolios",
           "example": "Financial planners review their clients' portfolios quarterly to adjust for market changes.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "các danh mục đầu tư",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -613,13 +663,17 @@
           "pos": "verb",
           "word": "pull",
           "example": "The main sponsor decided to pull its financial backing after the scandal.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "rút lại, ngừng cấp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "pullout",
           "example": "The unexpected pullout of the primary investor delayed the construction project.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự rút lui, rút vốn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -677,19 +731,25 @@
           "pos": "noun",
           "word": "resourcefulness",
           "example": "The project manager's resourcefulness allowed the team to finish on time despite budget cuts.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự tháo vát",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "resourceful",
           "example": "A resourceful supervisor can find creative solutions even when funding is limited.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tháo vát",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "resourcefully",
           "example": "The startup responded resourcefully to the supply chain shortage by sourcing materials locally.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách tháo vát",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -721,17 +781,23 @@
         {
           "pos": "",
           "word": "return",
-          "example": "I wish I could return to the days where investing was simple."
+          "example": "I wish I could return to the days where investing was simple.",
+          "meaning_vi": "trở lại, quay về",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "returns",
-          "example": "Our returns on our investments exceeded expectations."
+          "example": "Our returns on our investments exceeded expectations.",
+          "meaning_vi": "lợi nhuận thu về",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "returnable",
-          "example": "The merchandise is returnable as long as you have your receipt."
+          "example": "The merchandise is returnable as long as you have your receipt.",
+          "meaning_vi": "có thể trả lại",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -764,13 +830,17 @@
           "pos": "verb",
           "word": "return",
           "example": "Customers may return any unused merchandise within thirty days for a full refund.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "trả lại hàng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "returnable",
           "example": "All glass beverage containers are returnable for a five-cent deposit at participating stores.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể trả để nhận lại tiền cọc",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -802,17 +872,23 @@
         {
           "pos": "",
           "word": "wisdom",
-          "example": "Common wisdom is to place your money in a variety of investments."
+          "example": "Common wisdom is to place your money in a variety of investments.",
+          "meaning_vi": "sự khôn ngoan, kinh nghiệm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "wise",
-          "example": "The wise investor does her homework before parting with her money."
+          "example": "The wise investor does her homework before parting with her money.",
+          "meaning_vi": "khôn ngoan",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "wisely",
-          "example": "She planned her retirement wisely and was able to retire to her summer house."
+          "example": "She planned her retirement wisely and was able to retire to her summer house.",
+          "meaning_vi": "một cách khôn ngoan",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -844,13 +920,17 @@
           "pos": "noun",
           "word": "wisdom",
           "example": "Several analysts questioned the wisdom of merging the two competing airlines.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự sáng suốt, tính hợp lý",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "wise",
           "example": "Consulting a certified financial planner before retirement is a wise decision.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sáng suốt, khôn ngoan",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -900,102 +980,138 @@
       {
         "word": "aggression",
         "example": "The act of aggression against our country caused a fear of war and had a negative effect on the stock market.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "hành động xâm lược",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "aggressive",
         "example": "The director's aggressive position on investing was frowned upon by the Board of Directors.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "mạnh bạo, mạo hiểm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "aggressively",
         "example": "I chose this stockbroker because he invests my money aggressively.",
-        "pos": "adverb"
+        "pos": "adverb",
+        "meaning_vi": "một cách mạnh bạo, mạo hiểm",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "commit",
         "example": "I'm committed to keeping the money in my pension fund until I retire.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "cam kết",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "commitment",
         "example": "The employee's commitment to working hard and saving her money was commendable.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự cam kết, quyết tâm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "noncommittal",
         "example": "I had hoped that the discussion would yield a definite answer from them, but they were noncommittal.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "không bày tỏ lập trường rõ ràng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "conserve",
         "example": "Conserve your money now so you will be able to invest when the stock market gets better.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "tiết kiệm, giữ gìn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "conservative",
         "example": "Some people are conservative investors and take few risks with their money.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thận trọng, ít mạo hiểm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "conservatively",
         "example": "If you invest too conservatively, you may lose some chances for making money.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách thận trọng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "invest",
         "example": "The company has been successful because it has invested wisely in its resources.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "đầu tư",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "investment",
         "example": "The CFO is responsible for corporate investment.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "việc đầu tư, khoản đầu tư",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "investor",
         "example": "The fall in the stock market shook up the investors.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "nhà đầu tư",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "return",
         "example": "I wish I could return to the days where investing was simple.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "trở lại, quay về",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "returns",
         "example": "Our returns on our investments exceeded expectations.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "lợi nhuận thu về",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "returnable",
         "example": "The merchandise is returnable as long as you have your receipt.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có thể trả lại",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "wisdom",
         "example": "Common wisdom is to place your money in a variety of investments.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự khôn ngoan, kinh nghiệm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "wise",
         "example": "The wise investor does her homework before parting with her money.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "khôn ngoan",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "wisely",
         "example": "She planned her retirement wisely and was able to retire to her summer house.",
-        "pos": "adverb"
+        "pos": "adverb",
+        "meaning_vi": "một cách khôn ngoan",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

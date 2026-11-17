@@ -26,17 +26,23 @@
         {
           "pos": "",
           "word": "accommodate",
-          "example": "The hotel staff was able to accommodate our many needs for the conference."
+          "example": "The hotel staff was able to accommodate our many needs for the conference.",
+          "meaning_vi": "đáp ứng nhu cầu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "accommodation",
-          "example": "The accommodations at the hotel include swimming pool, gym, and restaurant."
+          "example": "The accommodations at the hotel include swimming pool, gym, and restaurant.",
+          "meaning_vi": "chỗ ở, tiện nghi lưu trú",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "accommodating",
-          "example": "The conference center manager was extremely accommodating and tried to make our stay pleasant."
+          "example": "The conference center manager was extremely accommodating and tried to make our stay pleasant.",
+          "meaning_vi": "sẵn lòng giúp đỡ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -68,7 +74,9 @@
           "pos": "adverb",
           "word": "accommodatingly",
           "example": "The receptionist accommodatingly offered to store our luggage until check-in time.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách chu đáo",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -100,17 +108,23 @@
         {
           "pos": "noun",
           "word": "arrangement",
-          "example": "Nobody could understand the seating arrangement."
+          "example": "Nobody could understand the seating arrangement.",
+          "meaning_vi": "cách sắp xếp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "arrange",
-          "example": "We will arrange the chairs in a circle."
+          "example": "We will arrange the chairs in a circle.",
+          "meaning_vi": "sắp xếp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "arranged",
-          "example": "The arranged flowers didn't look like those we chose from the catalog."
+          "example": "The arranged flowers didn't look like those we chose from the catalog.",
+          "meaning_vi": "đã được sắp đặt",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -143,7 +157,9 @@
           "pos": "noun",
           "word": "arranger",
           "example": "We hired a professional floral arranger to decorate the banquet hall.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người sắp xếp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -175,17 +191,23 @@
         {
           "pos": "noun",
           "word": "association",
-          "example": "Any association with the former company will put us in a negative light."
+          "example": "Any association with the former company will put us in a negative light.",
+          "meaning_vi": "mối liên hệ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "associate",
-          "example": "Do you think customers will associate the failed upstart with ours?"
+          "example": "Do you think customers will associate the failed upstart with ours?",
+          "meaning_vi": "liên tưởng, liên hệ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "associated",
-          "example": "The associated costs will put this project out of our reach."
+          "example": "The associated costs will put this project out of our reach.",
+          "meaning_vi": "có liên quan",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -218,7 +240,9 @@
           "pos": "noun",
           "word": "associate",
           "example": "A polite sales associate helped me find the right size jacket.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhân viên, cộng sự",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -250,17 +274,23 @@
         {
           "pos": "",
           "word": "attend",
-          "example": "Gillian attended the reception for visiting ambassadors."
+          "example": "Gillian attended the reception for visiting ambassadors.",
+          "meaning_vi": "tham dự",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "attendee",
-          "example": "More than 500 attendees packed the ballroom."
+          "example": "More than 500 attendees packed the ballroom.",
+          "meaning_vi": "người tham dự",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "attendance",
-          "example": "Attendance was low for this year's annual meeting."
+          "example": "Attendance was low for this year's annual meeting.",
+          "meaning_vi": "số người tham dự",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -291,13 +321,17 @@
           "pos": "adjective",
           "word": "attentive",
           "example": "The restaurant received glowing reviews for its delicious food and attentive staff.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chu đáo, chú tâm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "attentively",
           "example": "The trainees listened attentively as the instructor explained the safety protocol.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách chăm chú",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -353,25 +387,33 @@
           "pos": "verb",
           "word": "touch",
           "example": "Visitors are asked not to touch the paintings on display in the gallery.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chạm vào",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "touch",
           "example": "Adding fresh flowers gave the hotel lobby a welcoming personal touch.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nét chấm phá",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "touching",
           "example": "The retiring director gave a touching farewell speech to her staff.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cảm động",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "touchingly",
           "example": "He spoke touchingly about the mentors who guided his early career.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách cảm động",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -431,19 +473,25 @@
           "pos": "verb",
           "word": "hold",
           "example": "The board of directors holds its quarterly meeting on the first Monday of the month.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tổ chức",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "holder",
           "example": "Season ticket holders are eligible for a 20 percent discount on merchandise.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người sở hữu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "holding",
           "example": "The corporation expanded its real estate holdings across the Midwest.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tài sản nắm giữ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -503,25 +551,33 @@
           "pos": "verb",
           "word": "locate",
           "example": "The warehouse is conveniently located near two major interstate highways.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đặt tại, xác định vị trí",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "location",
           "example": "Our pharmacy chain plans to open five new locations next spring.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "địa điểm, cơ sở",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "local",
           "example": "We source all of our restaurant's vegetables from local farms.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "địa phương",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "locally",
           "example": "All of our wooden furniture is handcrafted locally by skilled artisans.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tại địa phương",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -577,19 +633,25 @@
           "pos": "verb",
           "word": "overcrowd",
           "example": "Organizers sold fewer tickets this year so as not to overcrowd the venue.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "làm quá đông đúc",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "overcrowding",
           "example": "Adding express buses during rush hour has helped alleviate overcrowding.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tình trạng quá đông",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "overcrowded",
           "example": "Commuters complained about the overcrowded subway cars every morning.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "quá đông đúc",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -621,17 +683,23 @@
         {
           "pos": "verb",
           "word": "register",
-          "example": "He registered for his classes via the Internet."
+          "example": "He registered for his classes via the Internet.",
+          "meaning_vi": "đăng ký",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "register",
-          "example": "The hotel's register showed that only half the members had arrived."
+          "example": "The hotel's register showed that only half the members had arrived.",
+          "meaning_vi": "sổ đăng ký",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "registration",
-          "example": "Registration is a detail-oriented and crucial part of running any meeting."
+          "example": "Registration is a detail-oriented and crucial part of running any meeting.",
+          "meaning_vi": "việc đăng ký",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -664,13 +732,17 @@
           "pos": "noun",
           "word": "registrar",
           "example": "Students must submit their transcripts to the university registrar's office.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cán bộ phụ trách đăng ký",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "registered",
           "example": "Only registered participants will be admitted to the afternoon sessions.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã đăng ký",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -702,17 +774,23 @@
         {
           "pos": "verb",
           "word": "select",
-          "example": "Since there are overlapping workshops, participants will have to select which one most appeals to them."
+          "example": "Since there are overlapping workshops, participants will have to select which one most appeals to them.",
+          "meaning_vi": "lựa chọn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "selection",
-          "example": "His dinner selection of stuffed quail sounded better on the menu than it looked on the plate."
+          "example": "His dinner selection of stuffed quail sounded better on the menu than it looked on the plate.",
+          "meaning_vi": "lựa chọn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "selective",
-          "example": "The planning committee was very selective about who received invitations."
+          "example": "The planning committee was very selective about who received invitations.",
+          "meaning_vi": "có chọn lọc, kỹ tính",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -745,7 +823,9 @@
           "pos": "adverb",
           "word": "selectively",
           "example": "The venture capital firm invests selectively in clean-energy startups.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách có chọn lọc",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -804,13 +884,17 @@
           "pos": "noun",
           "word": "session",
           "example": "Each training session lasts approximately ninety minutes.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "buổi, phiên",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "sessional",
           "example": "The college hired several sessional instructors for the spring term.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo học kỳ, thời vụ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -866,25 +950,33 @@
           "pos": "verb",
           "word": "participate",
           "example": "Employees are encouraged to participate in the company's wellness program.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tham gia",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "participant",
           "example": "Every survey participant will receive a ten-dollar gift voucher.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người tham gia",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "participation",
           "example": "We would like to thank you for your active participation in today's forum.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự tham gia",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "participatory",
           "example": "The new director favors a more participatory style of management.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có sự tham gia chung",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -934,102 +1026,138 @@
       {
         "word": "accommodate",
         "example": "The hotel staff was able to accommodate our many needs for the conference.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đáp ứng nhu cầu",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "accommodation",
         "example": "The accommodations at the hotel include swimming pool, gym, and restaurant.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "chỗ ở, tiện nghi lưu trú",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "accommodating",
         "example": "The conference center manager was extremely accommodating and tried to make our stay pleasant.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sẵn lòng giúp đỡ",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "arrangement",
         "example": "Nobody could understand the seating arrangement.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "cách sắp xếp",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "arrange",
         "example": "We will arrange the chairs in a circle.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sắp xếp",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "arranged",
         "example": "The arranged flowers didn't look like those we chose from the catalog.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đã được sắp đặt",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "association",
         "example": "Any association with the former company will put us in a negative light.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "mối liên hệ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "associate",
         "example": "Do you think customers will associate the failed upstart with ours?",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "liên tưởng, liên hệ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "associated",
         "example": "The associated costs will put this project out of our reach.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "có liên quan",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "attend",
         "example": "Gillian attended the reception for visiting ambassadors.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tham dự",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "attendee",
         "example": "More than 500 attendees packed the ballroom.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "người tham dự",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "attendance",
         "example": "Attendance was low for this year's annual meeting.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "số người tham dự",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "select",
         "example": "Since there are overlapping workshops, participants will have to select which one most appeals to them.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "lựa chọn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "selection",
         "example": "His dinner selection of stuffed quail sounded better on the menu than it looked on the plate.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "lựa chọn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "selective",
         "example": "The planning committee was very selective about who received invitations.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có chọn lọc, kỹ tính",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "register",
         "example": "He registered for his classes via the Internet.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "đăng ký",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "register",
         "example": "The hotel's register showed that only half the members had arrived.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sổ đăng ký",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "registration",
         "example": "Registration is a detail-oriented and crucial part of running any meeting.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "việc đăng ký",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

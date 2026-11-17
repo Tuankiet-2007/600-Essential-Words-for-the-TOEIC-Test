@@ -26,17 +26,23 @@
         {
           "pos": "verb",
           "word": "burden",
-          "example": "The frequently complicated lunch orders unfairly burdened Jacques."
+          "example": "The frequently complicated lunch orders unfairly burdened Jacques.",
+          "meaning_vi": "tạo gánh nặng cho",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "burden",
-          "example": "In addition to all her other responsibilities, Marie had the burden of picking up the daily lunch order."
+          "example": "In addition to all her other responsibilities, Marie had the burden of picking up the daily lunch order.",
+          "meaning_vi": "gánh nặng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "burdensome",
-          "example": "Keeping track of everybody&#x27;s lunch orders can be a burdensome task."
+          "example": "Keeping track of everybody&#x27;s lunch orders can be a burdensome task.",
+          "meaning_vi": "nặng nề, phiền toái",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -70,7 +76,9 @@
           "pos": "adverb",
           "word": "burdensomely",
           "example": "The new reporting rules were burdensomely complex for small catering businesses.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách nặng nề, phiền toái",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -102,17 +110,23 @@
         {
           "pos": "noun",
           "word": "in common",
-          "example": "The two secretaries keep a file of restaurant menus in common to facilitate placing an order."
+          "example": "The two secretaries keep a file of restaurant menus in common to facilitate placing an order.",
+          "meaning_vi": "chung, dùng chung",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "common",
-          "example": "It is a common practice for restaurants to deliver."
+          "example": "It is a common practice for restaurants to deliver.",
+          "meaning_vi": "phổ biến, thông thường",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "commonly",
-          "example": "It was commonly known that the sandwich shop had slow deliverymen."
+          "example": "It was commonly known that the sandwich shop had slow deliverymen.",
+          "meaning_vi": "thường, phổ biến",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -145,7 +159,9 @@
           "pos": "noun",
           "word": "commonality",
           "example": "Freshness of ingredients is the main commonality among all top-rated bistros.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "điểm chung",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -177,12 +193,16 @@
         {
           "pos": "",
           "word": "deliver",
-          "example": "That restaurant delivers food at no extra charge."
+          "example": "That restaurant delivers food at no extra charge.",
+          "meaning_vi": "giao hàng, giao đồ ăn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "delivery",
-          "example": "We all got very hungry waiting for the delivery to arrive."
+          "example": "We all got very hungry waiting for the delivery to arrive.",
+          "meaning_vi": "việc giao hàng; hàng được giao",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -215,7 +235,9 @@
           "pos": "adjective",
           "word": "deliverable",
           "example": "Hot lunches are deliverable to any office address within a five-mile radius.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể giao đến",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -247,17 +269,23 @@
         {
           "pos": "",
           "word": "elegance",
-          "example": "The elegance of the surroundings was accentuated by the wonderful meal the caterers delivered."
+          "example": "The elegance of the surroundings was accentuated by the wonderful meal the caterers delivered.",
+          "meaning_vi": "sự thanh lịch, sang trọng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "elegant",
-          "example": "Delores set an elegant table that was sure to impress."
+          "example": "Delores set an elegant table that was sure to impress.",
+          "meaning_vi": "thanh lịch, trang nhã",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "elegantly",
-          "example": "The tasty appetizers were elegantly served from silver platters."
+          "example": "The tasty appetizers were elegantly served from silver platters.",
+          "meaning_vi": "một cách trang nhã",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -290,13 +318,17 @@
           "pos": "adjective",
           "word": "elegant",
           "example": "The executive dining hall featured an elegant modern design.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sang trọng, trang nhã",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "elegantly",
           "example": "The chef elegantly presented each course with edible flower garnishes.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách tinh tế, đẹp mắt",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -353,19 +385,25 @@
           "pos": "verb",
           "word": "fall",
           "example": "Restaurant revenues often fall slightly after the holiday season ends.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "giảm, sụt giảm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "fall",
           "example": "A sharp fall in wholesale vegetable prices helped the café increase its profit margin.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự sụt giảm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "fallen",
           "example": "The staff quickly cleared the fallen leaves from the outdoor patio tables.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã rơi, rụng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -397,17 +435,23 @@
         {
           "pos": "",
           "word": "impress",
-          "example": "I am favorably impressed by how quickly the pizza was delivered."
+          "example": "I am favorably impressed by how quickly the pizza was delivered.",
+          "meaning_vi": "gây ấn tượng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "impression",
-          "example": "She gave the impression that the food would be delivered within the hour."
+          "example": "She gave the impression that the food would be delivered within the hour.",
+          "meaning_vi": "ấn tượng, cảm tưởng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "impressionable",
-          "example": "I have an impressionable child, so I don&#x27;t like him to see deliverymen running red traffic lights."
+          "example": "I have an impressionable child, so I don&#x27;t like him to see deliverymen running red traffic lights.",
+          "meaning_vi": "dễ bị ảnh hưởng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -441,13 +485,17 @@
           "pos": "adjective",
           "word": "impressive",
           "example": "The catering company boasts an impressive list of corporate clients.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ấn tượng, đáng nể",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "impressively",
           "example": "Even during the noon rush, the kitchen staff handled the orders impressively fast.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách ấn tượng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -479,17 +527,23 @@
         {
           "pos": "",
           "word": "individualize",
-          "example": "The take-out shop does not allow you to individualize your order by asking for substitutions."
+          "example": "The take-out shop does not allow you to individualize your order by asking for substitutions.",
+          "meaning_vi": "điều chỉnh theo từng cá nhân",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "individual",
-          "example": "The portions are large enough to feed two individuals."
+          "example": "The portions are large enough to feed two individuals.",
+          "meaning_vi": "cá nhân, người",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "individually",
-          "example": "The individually marked boxes made it easy for us to claim our orders."
+          "example": "The individually marked boxes made it easy for us to claim our orders.",
+          "meaning_vi": "riêng từng người, từng món",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -521,7 +575,9 @@
           "pos": "noun",
           "word": "individuality",
           "example": "Independent cafés often attract customers because of their charm and individuality.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nét riêng, cá tính",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -580,19 +636,25 @@
           "pos": "verb",
           "word": "list",
           "example": "Please list any dietary restrictions on the registration form.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "liệt kê",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "listing",
           "example": "You can find our restaurant's phone number in the local business listings.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mục thông tin trong danh bạ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "listed",
           "example": "All dishes are served with a side salad at the listed price.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được niêm yết, liệt kê",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -649,19 +711,25 @@
           "pos": "verb",
           "word": "multiply",
           "example": "As the catering firm's reputation grew, its monthly orders multiplied.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tăng lên nhiều lần",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "multiplicity",
           "example": "The food court offers a multiplicity of dining options for busy shoppers.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự đa dạng, số lượng lớn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "multiple",
           "example": "Customers ordering for large meetings can select multiple platter options.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhiều, đa dạng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -719,25 +787,33 @@
           "pos": "verb",
           "word": "narrow",
           "example": "The committee narrowed the catering bids down to two local vendors.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thu hẹp, rút gọn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "narrowness",
           "example": "Due to the narrowness of the alley, large delivery vans must park on the main street.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự chật hẹp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "narrow",
           "example": "The café occupies a charming, narrow building near the train station.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hẹp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "narrowly",
           "example": "The courier narrowly avoided the traffic jam by taking a side street.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "suýt nữa thì, vừa kịp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -795,19 +871,25 @@
           "pos": "verb",
           "word": "pick",
           "example": "Diners can pick any two side dishes to accompany their main course.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chọn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "pickup",
           "example": "Your takeout order will be ready for pickup in twenty minutes.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc đến lấy hàng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "picky",
           "example": "The children's menu is specially designed to please even the most picky eaters.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "kén chọn, kén ăn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -866,19 +948,25 @@
           "pos": "verb",
           "word": "settle",
           "example": "Please settle your room charges at the front desk before checking out.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thanh toán",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "settlement",
           "example": "Prompt settlement of monthly catering invoices is greatly appreciated.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc thanh toán",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "settled",
           "example": "Once the menu details are settled, we will sign the catering agreement.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã được thống nhất, chốt",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -928,97 +1016,131 @@
       {
         "word": "burden",
         "example": "The frequently complicated lunch orders unfairly burdened Jacques.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "tạo gánh nặng cho",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "burden",
         "example": "In addition to all her other responsibilities, Marie had the burden of picking up the daily lunch order.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "gánh nặng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "burdensome",
         "example": "Keeping track of everybody&#x27;s lunch orders can be a burdensome task.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "nặng nề, phiền toái",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "in common",
         "example": "The two secretaries keep a file of restaurant menus in common to facilitate placing an order.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "chung, dùng chung",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "common",
         "example": "It is a common practice for restaurants to deliver.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "phổ biến, thông thường",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "commonly",
         "example": "It was commonly known that the sandwich shop had slow deliverymen.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "thường, phổ biến",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "deliver",
         "example": "That restaurant delivers food at no extra charge.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "giao hàng, giao đồ ăn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "delivery",
         "example": "We all got very hungry waiting for the delivery to arrive.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "việc giao hàng; hàng được giao",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "elegance",
         "example": "The elegance of the surroundings was accentuated by the wonderful meal the caterers delivered.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự thanh lịch, sang trọng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "elegant",
         "example": "Delores set an elegant table that was sure to impress.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thanh lịch, trang nhã",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "elegantly",
         "example": "The tasty appetizers were elegantly served from silver platters.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách trang nhã",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "impress",
         "example": "I am favorably impressed by how quickly the pizza was delivered.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "gây ấn tượng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "impression",
         "example": "She gave the impression that the food would be delivered within the hour.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "ấn tượng, cảm tưởng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "impressionable",
         "example": "I have an impressionable child, so I don&#x27;t like him to see deliverymen running red traffic lights.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "dễ bị ảnh hưởng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "individualize",
         "example": "The take-out shop does not allow you to individualize your order by asking for substitutions.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "điều chỉnh theo từng cá nhân",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "individual",
         "example": "The portions are large enough to feed two individuals.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "cá nhân, người",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "individually",
         "example": "The individually marked boxes made it easy for us to claim our orders.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "riêng từng người, từng món",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

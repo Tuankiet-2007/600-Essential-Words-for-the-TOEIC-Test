@@ -51,25 +51,33 @@
           "pos": "verb",
           "word": "abide",
           "example": "All contractors must abide by the safety regulations on site.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tuân thủ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "abidance",
           "example": "Strict abidance by the terms of the lease is required of all tenants.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự tuân thủ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "abiding",
           "example": "Our founder had an abiding commitment to business ethics and quality.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bền vững, lâu dài",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "abidingly",
           "example": "The staff remained abidingly loyal to the company during the merger.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách bền bỉ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -101,17 +109,23 @@
         {
           "pos": "",
           "word": "agree",
-          "example": "If both parties agree to the terms, we can finalize the contract."
+          "example": "If both parties agree to the terms, we can finalize the contract.",
+          "meaning_vi": "đồng ý",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "agreement",
-          "example": "As soon as the labor agreement was signed, the factory resumed production of new cars and vans."
+          "example": "As soon as the labor agreement was signed, the factory resumed production of new cars and vans.",
+          "meaning_vi": "thỏa thuận",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "agreeable",
-          "example": "The parties are agreeable to the terms."
+          "example": "The parties are agreeable to the terms.",
+          "meaning_vi": "tán thành",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -145,7 +159,9 @@
           "pos": "adverb",
           "word": "agreeably",
           "example": "We were agreeably surprised by the rapid growth in third-quarter revenue.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách dễ chịu",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -177,17 +193,23 @@
         {
           "pos": "",
           "word": "assure",
-          "example": "I assure you that our drug-testing policy is applied fairly."
+          "example": "I assure you that our drug-testing policy is applied fairly.",
+          "meaning_vi": "cam đoan",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "assurance",
-          "example": "What assurance is there that the company will still be in business?"
+          "example": "What assurance is there that the company will still be in business?",
+          "meaning_vi": "sự bảo đảm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "assuredly",
-          "example": "He spoke assuredly, but his follow-up memo showed less conviction."
+          "example": "He spoke assuredly, but his follow-up memo showed less conviction.",
+          "meaning_vi": "một cách tự tin",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -220,7 +242,9 @@
           "pos": "adjective",
           "word": "assured",
           "example": "You can rest assured that your order will be delivered before Friday.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "yên tâm, chắc chắn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -252,17 +276,23 @@
         {
           "pos": "",
           "word": "cancel",
-          "example": "The man canceled his magazine subscription and got his money back."
+          "example": "The man canceled his magazine subscription and got his money back.",
+          "meaning_vi": "hủy bỏ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "cancellation",
-          "example": "Writers usually receive a cancellation fee even if their articles are not published."
+          "example": "Writers usually receive a cancellation fee even if their articles are not published.",
+          "meaning_vi": "sự hủy bỏ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "canceled",
-          "example": "The canceled concert ended up costing our agency millions."
+          "example": "The canceled concert ended up costing our agency millions.",
+          "meaning_vi": "đã bị hủy",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -294,7 +324,9 @@
           "pos": "adjective",
           "word": "cancelable",
           "example": "Please note that promotional airline tickets are non-refundable and non-cancelable.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể hủy",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -352,25 +384,33 @@
           "pos": "verb",
           "word": "determine",
           "example": "An independent auditor will determine the exact value of the company's assets.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "xác định",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "determination",
           "example": "Her fierce determination helped the startup survive its first two years.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "quyết tâm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "determined",
           "example": "Our sales team is determined to exceed this quarter's revenue targets.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "quyết tâm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "determinedly",
           "example": "The committee worked determinedly to resolve the budget deficit before Friday.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách quyết tâm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -430,25 +470,33 @@
           "pos": "verb",
           "word": "engage",
           "example": "The firm decided to engage an outside agency to handle public relations.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thuê, mời làm việc",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "engagement",
           "example": "The director had to decline the invitation due to a prior business engagement.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cuộc hẹn công việc",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "engaging",
           "example": "The keynote speaker gave a very engaging presentation on market trends.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cuốn hút",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "engagingly",
           "example": "She spoke so engagingly that the audience stayed for an extra hour of questions.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách cuốn hút",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -506,19 +554,25 @@
           "pos": "verb",
           "word": "establish",
           "example": "The bank plans to establish three new branches in the metropolitan area.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thành lập",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "establishment",
           "example": "The establishment of a regional headquarters will improve distribution speed.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự thành lập",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "established",
           "example": "It is difficult for newcomers to compete with well-established brands.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã có chỗ đứng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -550,17 +604,23 @@
         {
           "pos": "",
           "word": "obligate",
-          "example": "The terms of the contracts obligate us to work for at least one more month."
+          "example": "The terms of the contracts obligate us to work for at least one more month.",
+          "meaning_vi": "bắt buộc",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "obligation",
-          "example": "The factory managers have a legal and moral obligation to provide a safe work site."
+          "example": "The factory managers have a legal and moral obligation to provide a safe work site.",
+          "meaning_vi": "nghĩa vụ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "obligatory",
-          "example": "He finished his obligatory military service, and then joined his father on the orange farm."
+          "example": "He finished his obligatory military service, and then joined his father on the orange farm.",
+          "meaning_vi": "bắt buộc",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -592,7 +652,9 @@
           "pos": "adverb",
           "word": "obligatorily",
           "example": "All visitors to the chemical plant are obligatorily required to wear protective eyewear.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách bắt buộc",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -650,13 +712,17 @@
           "pos": "noun",
           "word": "party",
           "example": "Both parties signed the non-disclosure agreement before starting negotiations.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bên tham gia",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "partisan",
           "example": "The mediator remained strictly non-partisan throughout the labor dispute.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thiên vị, bè phái",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -688,17 +754,23 @@
         {
           "pos": "",
           "word": "provide",
-          "example": "Since the machine is very reliable, why don’t we cancel the service contract they provided?"
+          "example": "Since the machine is very reliable, why don’t we cancel the service contract they provided?",
+          "meaning_vi": "cung cấp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "provider",
-          "example": "We must negotiate a new contract with our Internet service provider."
+          "example": "We must negotiate a new contract with our Internet service provider.",
+          "meaning_vi": "nhà cung cấp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "provision",
-          "example": "The provision for canceling the contract is in the last clause."
+          "example": "The provision for canceling the contract is in the last clause.",
+          "meaning_vi": "điều khoản",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -731,13 +803,17 @@
           "pos": "adjective",
           "word": "provisional",
           "example": "The committee issued a provisional approval pending the final safety inspection.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tạm thời",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "provisionally",
           "example": "The annual conference has been provisionally scheduled for the third week of October.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tạm thời",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -795,25 +871,33 @@
           "pos": "verb",
           "word": "resolve",
           "example": "Our technical support team is working hard to resolve the network outage.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "giải quyết",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "resolution",
           "example": "The board passed a resolution to expand operations into Southeast Asia.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nghị quyết",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "resolute",
           "example": "The chief executive remained resolute in her decision to restructure the division.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "kiên quyết",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "resolutely",
           "example": "The union leaders resolutely opposed any reduction in health benefits.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách kiên quyết",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -845,17 +929,23 @@
         {
           "pos": "",
           "word": "specify",
-          "example": "The contract specifies the percentage of raise the workers will see next year."
+          "example": "The contract specifies the percentage of raise the workers will see next year.",
+          "meaning_vi": "nêu rõ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "specification",
-          "example": "The work was done according to our specifications."
+          "example": "The work was done according to our specifications.",
+          "meaning_vi": "yêu cầu kỹ thuật",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "specific",
-          "example": "We have not chosen a specific location for the reunion."
+          "example": "We have not chosen a specific location for the reunion.",
+          "meaning_vi": "cụ thể",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -887,7 +977,9 @@
           "pos": "adverb",
           "word": "specifically",
           "example": "This software was specifically designed for small accounting firms.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đặc biệt, riêng cho",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -937,102 +1029,138 @@
       {
         "word": "agree",
         "example": "If both parties agree to the terms, we can finalize the contract.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đồng ý",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "agreement",
         "example": "As soon as the labor agreement was signed, the factory resumed production of new cars and vans.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thỏa thuận",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "agreeable",
         "example": "The parties are agreeable to the terms.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tán thành",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "assure",
         "example": "I assure you that our drug-testing policy is applied fairly.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "cam đoan",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "assurance",
         "example": "What assurance is there that the company will still be in business?",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự bảo đảm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "assuredly",
         "example": "He spoke assuredly, but his follow-up memo showed less conviction.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách tự tin",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "cancel",
         "example": "The man canceled his magazine subscription and got his money back.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "hủy bỏ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "cancellation",
         "example": "Writers usually receive a cancellation fee even if their articles are not published.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự hủy bỏ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "canceled",
         "example": "The canceled concert ended up costing our agency millions.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đã bị hủy",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "obligate",
         "example": "The terms of the contracts obligate us to work for at least one more month.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "bắt buộc",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "obligation",
         "example": "The factory managers have a legal and moral obligation to provide a safe work site.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "nghĩa vụ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "obligatory",
         "example": "He finished his obligatory military service, and then joined his father on the orange farm.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "bắt buộc",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "provide",
         "example": "Since the machine is very reliable, why don’t we cancel the service contract they provided?",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "cung cấp",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "provider",
         "example": "We must negotiate a new contract with our Internet service provider.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "nhà cung cấp",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "provision",
         "example": "The provision for canceling the contract is in the last clause.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "điều khoản",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "specify",
         "example": "The contract specifies the percentage of raise the workers will see next year.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "nêu rõ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "specification",
         "example": "The work was done according to our specifications.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "yêu cầu kỹ thuật",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "specific",
         "example": "We have not chosen a specific location for the reunion.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "cụ thể",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

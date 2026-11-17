@@ -52,19 +52,25 @@
           "pos": "noun",
           "word": "awareness",
           "example": "The dental association launched a campaign to raise awareness of gum disease.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhận thức",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "unaware",
           "example": "Many patients are unaware that their dental insurance covers two cleanings per year.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "không biết; không nhận thức được",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "unawares",
           "example": "The sudden toothache caught him completely unawares during his business trip.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bất ngờ; không kịp đề phòng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -122,19 +128,25 @@
           "pos": "verb",
           "word": "catch",
           "example": "Regular X-rays help dentists catch small cavities before they become painful.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "phát hiện kịp thời",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "catch-up",
           "example": "After the clinic's computer system was restored, the receptionists had to play catch-up all afternoon.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc làm bù để theo kịp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "catching",
           "example": "The hygienist's cheerful enthusiasm for dental care was positively catching.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "dễ lan truyền; có sức lan tỏa",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -166,17 +178,23 @@
         {
           "pos": "noun",
           "word": "distract",
-          "example": "The child is frightened by the instruments. Try to distract his attention while I get ready."
+          "example": "The child is frightened by the instruments. Try to distract his attention while I get ready.",
+          "meaning_vi": "làm phân tán sự chú ý",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "distraction",
-          "example": "The soothing background music was a pleasant distraction from the drilling sounds at the dentist&#x27;s office."
+          "example": "The soothing background music was a pleasant distraction from the drilling sounds at the dentist&#x27;s office.",
+          "meaning_vi": "điều giúp xao nhãng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "distracted",
-          "example": "The distracted patient left the office without paying her bill."
+          "example": "The distracted patient left the office without paying her bill.",
+          "meaning_vi": "đãng trí; mất tập trung",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -207,7 +225,9 @@
           "pos": "adjective",
           "word": "distracting",
           "example": "Please silence your mobile phones in the waiting room as loud ringtones can be distracting.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "gây mất tập trung",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -239,17 +259,23 @@
         {
           "pos": "noun",
           "word": "encourage",
-          "example": "My dentist has been encouraging me to see a specialist about my gum problem."
+          "example": "My dentist has been encouraging me to see a specialist about my gum problem.",
+          "meaning_vi": "khuyến khích; động viên",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "encouragement",
-          "example": "Although the cleaning routine recommended by the dentist was tedious, with some encouragement, Richard was able to follow it regularly."
+          "example": "Although the cleaning routine recommended by the dentist was tedious, with some encouragement, Richard was able to follow it regularly.",
+          "meaning_vi": "sự khích lệ; động viên",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "encouraging",
-          "example": "It was encouraging to find out that I had no serious problems at my last dental checkup."
+          "example": "It was encouraging to find out that I had no serious problems at my last dental checkup.",
+          "meaning_vi": "đáng khích lệ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -282,7 +308,9 @@
           "pos": "adverb",
           "word": "encouragingly",
           "example": "The orthodontist smiled encouragingly as he adjusted the teenager's braces.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách động viên, khích lệ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -314,17 +342,23 @@
         {
           "pos": "noun",
           "word": "evidence",
-          "example": "The dentist found evidence of decay on my wisdom tooth."
+          "example": "The dentist found evidence of decay on my wisdom tooth.",
+          "meaning_vi": "dấu hiệu; bằng chứng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "evident",
-          "example": "My lack of dental hygiene was evident without a checkup."
+          "example": "My lack of dental hygiene was evident without a checkup.",
+          "meaning_vi": "rõ ràng; dễ nhận thấy",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "evidently",
-          "example": "Proper flossing evidently worked, since my gums are now in good health."
+          "example": "Proper flossing evidently worked, since my gums are now in good health.",
+          "meaning_vi": "rõ ràng là",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -357,13 +391,17 @@
           "pos": "verb",
           "word": "evidence",
           "example": "His commitment to dental hygiene is evidenced by his healthy gums.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chứng tỏ; làm bằng chứng cho",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "evidential",
           "example": "Dental X-rays have strong evidential value when filing an insurance claim.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có giá trị chứng cứ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -395,17 +433,23 @@
         {
           "pos": "",
           "word": "habit",
-          "example": "I&#x27;m trying to start the habit of flossing at least once a day."
+          "example": "I&#x27;m trying to start the habit of flossing at least once a day.",
+          "meaning_vi": "thói quen",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "habitual",
-          "example": "His habitual coffee drinking stained his teeth."
+          "example": "His habitual coffee drinking stained his teeth.",
+          "meaning_vi": "thành thói quen; thường xuyên",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "habitually",
-          "example": "Jack is habitually late for his appointments, which forced the receptionist to scold him."
+          "example": "Jack is habitually late for his appointments, which forced the receptionist to scold him.",
+          "meaning_vi": "theo thói quen; thường xuyên",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -437,7 +481,9 @@
           "pos": "verb",
           "word": "habituate",
           "example": "Pediatric dentists help young children habituate to regular toothbrushing early on.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "làm quen; tập thành thói quen",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -495,25 +541,33 @@
           "pos": "verb",
           "word": "illuminate",
           "example": "The dentist adjusted the overhead lamp to illuminate the patient's molars.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chiếu sáng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "illumination",
           "example": "High-intensity LED illumination helps dentists perform precise restorative work.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự chiếu sáng; ánh sáng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "illuminating",
           "example": "Dr. Park gave an illuminating presentation on modern orthodontic techniques.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "giúp hiểu rõ; khai sáng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "illuminated",
           "example": "Patients can view their X-rays on the illuminated screen beside the dental chair.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được chiếu sáng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -545,17 +599,23 @@
         {
           "pos": "verb",
           "word": "irritate",
-          "example": "My dentist was late for my appointment, which irritated me, especially since he did not apologize."
+          "example": "My dentist was late for my appointment, which irritated me, especially since he did not apologize.",
+          "meaning_vi": "làm bực mình; gây kích ứng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "irritation",
-          "example": "I have an irritation on the inside of my mouth that won&#x27;t heal."
+          "example": "I have an irritation on the inside of my mouth that won&#x27;t heal.",
+          "meaning_vi": "chỗ kích ứng; sự kích ứng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "irritating",
-          "example": "Matthew decided to visit the dentist because of an irritating gum problem."
+          "example": "Matthew decided to visit the dentist because of an irritating gum problem.",
+          "meaning_vi": "gây khó chịu; gây kích ứng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -588,13 +648,17 @@
           "pos": "adjective",
           "word": "irritated",
           "example": "Rinsing with warm salt water can soothe irritated gums after a deep cleaning.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bị kích ứng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "irritant",
           "example": "Harsh whitening chemicals can act as an irritant to sensitive teeth.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chất gây kích ứng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -651,13 +715,17 @@
           "pos": "noun",
           "word": "overview",
           "example": "The dentist began the consultation by giving a clear overview of the implant procedure.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "phần trình bày tổng quan",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "verb",
           "word": "view",
           "example": "Patients can view 3D images of their teeth on the chairside monitor.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "xem; quan sát",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -718,13 +786,17 @@
           "pos": "verb",
           "word": "position",
           "example": "The assistant positioned the X-ray sensor carefully inside the patient's mouth.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đặt vào vị trí",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "positioned",
           "example": "The tray of instruments is conveniently positioned within the dentist's reach.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được đặt ở vị trí",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -756,17 +828,23 @@
         {
           "pos": "verb",
           "word": "regulate",
-          "example": "We cannot regulate the temperature in the waiting room today because the thermostat is broken."
+          "example": "We cannot regulate the temperature in the waiting room today because the thermostat is broken.",
+          "meaning_vi": "điều chỉnh; kiểm soát",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "regular",
-          "example": "Many dental problems can be avoided by following a regular cleaning routine."
+          "example": "Many dental problems can be avoided by following a regular cleaning routine.",
+          "meaning_vi": "đều đặn; thường xuyên",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "verb",
           "word": "regularly",
-          "example": "I haven&#x27;t been visiting the dentist regularly."
+          "example": "I haven&#x27;t been visiting the dentist regularly.",
+          "meaning_vi": "đều đặn; thường xuyên",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -795,13 +873,17 @@
           "pos": "noun",
           "word": "regularity",
           "example": "Visiting the dental clinic with regularity helps prevent costly procedures later.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự đều đặn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "regulation",
           "example": "The clinic complies with all state health and safety regulations.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "quy định",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -858,19 +940,25 @@
           "pos": "verb",
           "word": "restore",
           "example": "Porcelain crowns are commonly used to restore severely damaged teeth.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "phục hồi; khôi phục",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "restoration",
           "example": "Dr. Alvarez specializes in cosmetic tooth restoration and dental implants.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc phục hình; phục hồi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "restorative",
           "example": "The insurance plan covers eighty percent of basic restorative dental procedures.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhằm phục hồi; phục hình",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -920,102 +1008,138 @@
       {
         "word": "distract",
         "example": "The child is frightened by the instruments. Try to distract his attention while I get ready.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "làm phân tán sự chú ý",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "distraction",
         "example": "The soothing background music was a pleasant distraction from the drilling sounds at the dentist&#x27;s office.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "điều giúp xao nhãng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "distracted",
         "example": "The distracted patient left the office without paying her bill.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đãng trí; mất tập trung",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "encourage",
         "example": "My dentist has been encouraging me to see a specialist about my gum problem.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "khuyến khích; động viên",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "encouragement",
         "example": "Although the cleaning routine recommended by the dentist was tedious, with some encouragement, Richard was able to follow it regularly.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự khích lệ; động viên",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "encouraging",
         "example": "It was encouraging to find out that I had no serious problems at my last dental checkup.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đáng khích lệ",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "evidence",
         "example": "The dentist found evidence of decay on my wisdom tooth.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "dấu hiệu; bằng chứng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "evident",
         "example": "My lack of dental hygiene was evident without a checkup.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "rõ ràng; dễ nhận thấy",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "evidently",
         "example": "Proper flossing evidently worked, since my gums are now in good health.",
-        "pos": "adverb"
+        "pos": "adverb",
+        "meaning_vi": "rõ ràng là",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "habit",
         "example": "I&#x27;m trying to start the habit of flossing at least once a day.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thói quen",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "habitual",
         "example": "His habitual coffee drinking stained his teeth.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thành thói quen; thường xuyên",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "habitually",
         "example": "Jack is habitually late for his appointments, which forced the receptionist to scold him.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "theo thói quen; thường xuyên",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "irritate",
         "example": "My dentist was late for my appointment, which irritated me, especially since he did not apologize.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "làm bực mình; gây kích ứng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "irritation",
         "example": "I have an irritation on the inside of my mouth that won&#x27;t heal.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "chỗ kích ứng; sự kích ứng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "irritating",
         "example": "Matthew decided to visit the dentist because of an irritating gum problem.",
-        "pos": "adverb"
+        "pos": "adverb",
+        "meaning_vi": "gây khó chịu; gây kích ứng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "regulate",
         "example": "We cannot regulate the temperature in the waiting room today because the thermostat is broken.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "điều chỉnh; kiểm soát",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "regular",
         "example": "Many dental problems can be avoided by following a regular cleaning routine.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đều đặn; thường xuyên",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "regularly",
         "example": "I haven&#x27;t been visiting the dentist regularly.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "đều đặn; thường xuyên",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

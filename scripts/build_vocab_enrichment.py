@@ -128,6 +128,9 @@ def main():
         verify_lesson_file(p2, lid)
         total_words += c1
 
+    # Reapply maintained family translations after replacing extra_families.
+    from apply_family_glosses import main as apply_family_glosses
+    apply_family_glosses()
     print(f"SUCCESS: Enriched and verified all 50 lessons ({total_words} words total).")
     print(f"  - {out_scripts}")
     print(f"  - {out_public}")

@@ -51,13 +51,17 @@
           "pos": "adverb",
           "word": "busily",
           "example": "The front desk clerks were busily typing reservation details into the computer.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách bận rộn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "business",
           "example": "The car rental business experiences high demand during the summer holidays.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hoạt động kinh doanh",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -89,17 +93,23 @@
         {
           "pos": "",
           "word": "coincide",
-          "example": "This year, my vacation coincides with a national holiday, which will make renting a car more expensive."
+          "example": "This year, my vacation coincides with a national holiday, which will make renting a car more expensive.",
+          "meaning_vi": "trùng thời điểm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "coincidence",
-          "example": "By coincidence, I ran into an old friend in line waiting to rent a car."
+          "example": "By coincidence, I ran into an old friend in line waiting to rent a car.",
+          "meaning_vi": "sự trùng hợp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "coincidentally",
-          "example": "Coincidentally, we are offering a special discount if you are over age 65."
+          "example": "Coincidentally, we are offering a special discount if you are over age 65.",
+          "meaning_vi": "tình cờ; trùng hợp thay",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -129,13 +139,17 @@
           "pos": "noun",
           "word": "coincidence",
           "example": "By remarkable coincidence, we booked rooms at the exact same seaside hotel.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự trùng hợp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "coincidental",
           "example": "Any similarity between the travel brochures was purely coincidental.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ngẫu nhiên; tình cờ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -167,17 +181,23 @@
         {
           "pos": "",
           "word": "confuse",
-          "example": "These long car rental contracts always confuse me."
+          "example": "These long car rental contracts always confuse me.",
+          "meaning_vi": "làm bối rối",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "confusion",
-          "example": "The crowds at the car rental office resulted in a lot of confusion."
+          "example": "The crowds at the car rental office resulted in a lot of confusion.",
+          "meaning_vi": "sự hỗn loạn; bối rối",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "confusing",
-          "example": "Driving in an unfamiliar city can be quite confusing."
+          "example": "Driving in an unfamiliar city can be quite confusing.",
+          "meaning_vi": "gây bối rối; khó hiểu",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -210,13 +230,17 @@
           "pos": "verb",
           "word": "confuse",
           "example": "The complex floor plan of the rental agency confused many arriving passengers.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "làm bối rối",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "confusing",
           "example": "The highway road signs near the airport exit were very confusing to foreign drivers.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "khó hiểu; dễ gây nhầm lẫn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -273,7 +297,9 @@
           "pos": "adjective",
           "word": "contactable",
           "example": "The rental manager is contactable by mobile phone twenty-four hours a day.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể liên lạc được",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -305,17 +331,23 @@
         {
           "pos": "",
           "word": "disappoint",
-          "example": "The service at that car rental agency always disappoints me, so next time I plan to use a different agency."
+          "example": "The service at that car rental agency always disappoints me, so next time I plan to use a different agency.",
+          "meaning_vi": "làm thất vọng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "disappointment",
-          "example": "The poor condition of the car we rented was an unexpected disappointment."
+          "example": "The poor condition of the car we rented was an unexpected disappointment.",
+          "meaning_vi": "điều gây thất vọng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "disappointing",
-          "example": "The weather during our trip was so disappointing that we came home early."
+          "example": "The weather during our trip was so disappointing that we came home early.",
+          "meaning_vi": "đáng thất vọng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -348,19 +380,25 @@
           "pos": "noun",
           "word": "disappointment",
           "example": "To our disappointment, the car model we had requested was already sold out.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự thất vọng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "disappointed",
           "example": "The travelers were disappointed by the poor cleanliness of the rental vehicle.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thất vọng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "disappointing",
           "example": "The lack of available compact vehicles resulted in a disappointing customer experience.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "gây thất vọng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -392,17 +430,23 @@
         {
           "pos": "",
           "word": "intention",
-          "example": "I have every intention of paying by cash even though I reserved the car with my credit card."
+          "example": "I have every intention of paying by cash even though I reserved the car with my credit card.",
+          "meaning_vi": "ý định",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "intent",
-          "example": "Intent on avoiding an accident, Zola drove cautiously through the rush hour traffic."
+          "example": "Intent on avoiding an accident, Zola drove cautiously through the rush hour traffic.",
+          "meaning_vi": "quyết tâm; chú tâm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "intently",
-          "example": "The tourist intently studied the road map."
+          "example": "The tourist intently studied the road map.",
+          "meaning_vi": "một cách chăm chú",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -434,13 +478,17 @@
           "pos": "noun",
           "word": "intention",
           "example": "It is our clear intention to expand our car rental fleet by thirty percent next year.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ý định",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "intentional",
           "example": "The damage to the vehicle's paint did not appear to be intentional.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cố ý",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -498,7 +546,9 @@
           "pos": "adjective",
           "word": "licensed",
           "example": "Only properly licensed drivers over the age of twenty-one may operate the rental car.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được cấp giấy phép",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -530,17 +580,23 @@
         {
           "pos": "",
           "word": "nervousness",
-          "example": "I hope my nervousness did not show when I was filling out the forms."
+          "example": "I hope my nervousness did not show when I was filling out the forms.",
+          "meaning_vi": "sự lo lắng; hồi hộp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "nervous",
-          "example": "This was Jane&#x27;s first time renting a car, so she was somewhat nervous."
+          "example": "This was Jane&#x27;s first time renting a car, so she was somewhat nervous.",
+          "meaning_vi": "lo lắng; hồi hộp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "nervously",
-          "example": "Mr. Lane nervously parallel parked the rental car between two others in the parking garage."
+          "example": "Mr. Lane nervously parallel parked the rental car between two others in the parking garage.",
+          "meaning_vi": "một cách lo lắng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -572,13 +628,17 @@
           "pos": "adjective",
           "word": "nervous",
           "example": "First-time drivers are often nervous when navigating busy highway interchanges.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "lo lắng; hồi hộp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "nervousness",
           "example": "Taking a deep breath helped calm his nervousness before the driving exam.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự lo lắng; hồi hộp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -635,13 +695,17 @@
           "pos": "noun",
           "word": "option",
           "example": "Customers have the option of returning the rental car with a full tank of gas.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "lựa chọn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "verb",
           "word": "opt",
           "example": "Many travelers opt for GPS navigation systems when driving in unfamiliar cities.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "lựa chọn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -673,17 +737,23 @@
         {
           "pos": "",
           "word": "tempt",
-          "example": "Can I tempt you to rent a larger car with a special discount?"
+          "example": "Can I tempt you to rent a larger car with a special discount?",
+          "meaning_vi": "cám dỗ; hấp dẫn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "temptation",
-          "example": "The temptation to drive the sports car fast was too great for Karl to resist."
+          "example": "The temptation to drive the sports car fast was too great for Karl to resist.",
+          "meaning_vi": "sự cám dỗ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "tempting",
-          "example": "As tempting as it sounds to drive to Florida, I think I&#x27;d rather fly."
+          "example": "As tempting as it sounds to drive to Florida, I think I&#x27;d rather fly.",
+          "meaning_vi": "hấp dẫn; đầy lôi cuốn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -716,13 +786,17 @@
           "pos": "noun",
           "word": "temptation",
           "example": "The low daily rental rate was a great temptation for budget-conscious vacationers.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sức hấp dẫn; sự cám dỗ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "tempting",
           "example": "The agency advertised a very tempting weekend promotional package.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hấp dẫn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -781,13 +855,17 @@
           "pos": "adjective",
           "word": "thrilling",
           "example": "Driving along the coastal mountain cliffs was a truly thrilling adventure.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đầy phấn khích",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "thrilled",
           "example": "The travelers were thrilled with the unexpected complimentary upgrade.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "vô cùng vui sướng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -845,7 +923,9 @@
           "pos": "adjective",
           "word": "tiered",
           "example": "The hotel offers a tiered loyalty program where frequent guests earn higher rewards.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chia thành nhiều cấp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -895,102 +975,138 @@
       {
         "word": "confuse",
         "example": "These long car rental contracts always confuse me.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "làm bối rối",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "confusion",
         "example": "The crowds at the car rental office resulted in a lot of confusion.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự hỗn loạn; bối rối",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "confusing",
         "example": "Driving in an unfamiliar city can be quite confusing.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "gây bối rối; khó hiểu",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "coincide",
         "example": "This year, my vacation coincides with a national holiday, which will make renting a car more expensive.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "trùng thời điểm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "coincidence",
         "example": "By coincidence, I ran into an old friend in line waiting to rent a car.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự trùng hợp",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "coincidentally",
         "example": "Coincidentally, we are offering a special discount if you are over age 65.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tình cờ; trùng hợp thay",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "disappoint",
         "example": "The service at that car rental agency always disappoints me, so next time I plan to use a different agency.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "làm thất vọng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "disappointment",
         "example": "The poor condition of the car we rented was an unexpected disappointment.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "điều gây thất vọng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "disappointing",
         "example": "The weather during our trip was so disappointing that we came home early.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đáng thất vọng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "intention",
         "example": "I have every intention of paying by cash even though I reserved the car with my credit card.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "ý định",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "intent",
         "example": "Intent on avoiding an accident, Zola drove cautiously through the rush hour traffic.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "quyết tâm; chú tâm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "intently",
         "example": "The tourist intently studied the road map.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách chăm chú",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "nervousness",
         "example": "I hope my nervousness did not show when I was filling out the forms.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự lo lắng; hồi hộp",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "nervous",
         "example": "This was Jane&#x27;s first time renting a car, so she was somewhat nervous.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "lo lắng; hồi hộp",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "nervously",
         "example": "Mr. Lane nervously parallel parked the rental car between two others in the parking garage.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách lo lắng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "tempt",
         "example": "Can I tempt you to rent a larger car with a special discount?",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "cám dỗ; hấp dẫn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "temptation",
         "example": "The temptation to drive the sports car fast was too great for Karl to resist.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự cám dỗ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "tempting",
         "example": "As tempting as it sounds to drive to Florida, I think I&#x27;d rather fly.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "hấp dẫn; đầy lôi cuốn",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

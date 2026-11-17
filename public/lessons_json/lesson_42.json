@@ -26,17 +26,23 @@
         {
           "pos": "",
           "word": "act",
-          "example": "Roger&#x27;s dream is to act in a Broadway play."
+          "example": "Roger&#x27;s dream is to act in a Broadway play.",
+          "meaning_vi": "diễn xuất",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "action",
-          "example": "There isn&#x27;t much action in the play, but it is captivating nonetheless."
+          "example": "There isn&#x27;t much action in the play, but it is captivating nonetheless.",
+          "meaning_vi": "diễn biến; hành động",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "actor",
-          "example": "There are quite a few well-known actors in the cast."
+          "example": "There are quite a few well-known actors in the cast.",
+          "meaning_vi": "diễn viên",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -70,13 +76,17 @@
           "pos": "adjective",
           "word": "active",
           "example": "She has played an active role in the local theater community for decades.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tích cực; năng nổ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "actively",
           "example": "The producers are actively seeking sponsors for the upcoming musical.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách tích cực",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -108,17 +118,23 @@
         {
           "pos": "",
           "word": "approach",
-          "example": "The actress approached me with the idea for a new play."
+          "example": "The actress approached me with the idea for a new play.",
+          "meaning_vi": "cách tiếp cận",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "approach",
-          "example": "The informal approach to the play was unconventional."
+          "example": "The informal approach to the play was unconventional.",
+          "meaning_vi": "cách tiếp cận",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "approachable",
-          "example": "Despite his great fame, the director was friendly and approachable."
+          "example": "Despite his great fame, the director was friendly and approachable.",
+          "meaning_vi": "dễ gần",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -150,7 +166,9 @@
           "pos": "noun",
           "word": "approachability",
           "example": "The director's warmth and approachability put the nervous young actors at ease.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự dễ gần",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -210,19 +228,25 @@
           "pos": "noun",
           "word": "auditorium",
           "example": "Please take your seats in the main auditorium ten minutes before the curtain rises.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "khán phòng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "audible",
           "example": "The actor's whisper was barely audible from the back row of the theater.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể nghe thấy",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "audibly",
           "example": "The audience gasped audibly when the stage lights suddenly went out.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đủ lớn để nghe thấy",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -254,17 +278,23 @@
         {
           "pos": "",
           "word": "create",
-          "example": "The playwright created a realistic town and townspeople with the scenery and dialogue."
+          "example": "The playwright created a realistic town and townspeople with the scenery and dialogue.",
+          "meaning_vi": "tạo ra; sáng tạo",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "creation",
-          "example": "The creation of the elaborate costumes took months."
+          "example": "The creation of the elaborate costumes took months.",
+          "meaning_vi": "việc tạo ra",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "creative",
-          "example": "The director is one of the most creative people I know."
+          "example": "The director is one of the most creative people I know.",
+          "meaning_vi": "có óc sáng tạo",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -296,13 +326,17 @@
           "pos": "adverb",
           "word": "creatively",
           "example": "The set designer used lighting creatively to make the small stage look vast.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách sáng tạo",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "creativity",
           "example": "The drama workshop encourages young performers to express their creativity.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "khả năng sáng tạo",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -362,13 +396,17 @@
           "pos": "verb",
           "word": "dialogue",
           "example": "Management agreed to dialogue with the actors' union regarding rehearsal hours.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đối thoại",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "dialogic",
           "example": "The play relies on a dialogic structure between the two main characters.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mang tính đối thoại",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -426,13 +464,17 @@
           "pos": "adjective",
           "word": "elementary",
           "example": "Even students with only an elementary knowledge of theater enjoyed the comedy.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cơ bản; sơ đẳng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "elemental",
           "example": "The tragedy explores elemental human emotions such as jealousy and forgiveness.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "căn bản; nguyên sơ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -464,17 +506,23 @@
         {
           "pos": "",
           "word": "experience",
-          "example": "The actor experienced great self-doubt before he became famous."
+          "example": "The actor experienced great self-doubt before he became famous.",
+          "meaning_vi": "kinh nghiệm; trải nghiệm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "experience",
-          "example": "Directors bring their experience of the world onto the stage."
+          "example": "Directors bring their experience of the world onto the stage.",
+          "meaning_vi": "kinh nghiệm; trải nghiệm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "experienced",
-          "example": "The experienced make-up artist transformed Maxine into an old woman in a matter of minutes."
+          "example": "The experienced make-up artist transformed Maxine into an old woman in a matter of minutes.",
+          "meaning_vi": "giàu kinh nghiệm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -508,7 +556,9 @@
           "pos": "adjective",
           "word": "inexperienced",
           "example": "The understudy was relatively inexperienced, yet she delivered a remarkable performance.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thiếu kinh nghiệm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -567,19 +617,25 @@
           "pos": "verb",
           "word": "occur",
           "example": "A brief intermission will occur between the second and third acts.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "diễn ra; xảy ra",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "occurrence",
           "example": "Technical glitches during live performances are a rare occurrence at this theater.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự việc xảy ra",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "occurring",
           "example": "The play addresses issues commonly occurring in modern family life.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đang xảy ra; thường xuất hiện",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -611,17 +667,23 @@
         {
           "pos": "",
           "word": "perform",
-          "example": "The popular actress was hired to perform Shakespeare on a world tour."
+          "example": "The popular actress was hired to perform Shakespeare on a world tour.",
+          "meaning_vi": "biểu diễn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "performance",
-          "example": "I booked tickets for the performance the day they went on sale."
+          "example": "I booked tickets for the performance the day they went on sale.",
+          "meaning_vi": "buổi biểu diễn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "performer",
-          "example": "The performers each had three costume changes."
+          "example": "The performers each had three costume changes.",
+          "meaning_vi": "nghệ sĩ biểu diễn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -654,7 +716,9 @@
           "pos": "adjective",
           "word": "performing",
           "example": "The city recently opened a new center for the performing arts.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thuộc biểu diễn nghệ thuật",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -686,17 +750,23 @@
         {
           "pos": "",
           "word": "rehearse",
-          "example": "The cast had to rehearse the scene over and over again until the director was finally satisfied."
+          "example": "The cast had to rehearse the scene over and over again until the director was finally satisfied.",
+          "meaning_vi": "diễn tập",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "rehearsal",
-          "example": "The actors spent several months in rehearsal before they performed the play."
+          "example": "The actors spent several months in rehearsal before they performed the play.",
+          "meaning_vi": "việc diễn tập",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "rehearsed",
-          "example": "Lydia&#x27;s acceptance speech for her award sounded more rehearsed than natural."
+          "example": "Lydia&#x27;s acceptance speech for her award sounded more rehearsed than natural.",
+          "meaning_vi": "đã tập dượt trước",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -730,7 +800,9 @@
           "pos": "adjective",
           "word": "unrehearsed",
           "example": "The comedian's unrehearsed remarks made the entire audience burst into laughter.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "không tập trước; ứng khẩu",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -790,19 +862,25 @@
           "pos": "verb",
           "word": "review",
           "example": "Critics from major newspapers were invited to review the opening night show.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "viết bài phê bình; đánh giá",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "reviewer",
           "example": "The theater reviewer praised the lead actress for her emotional depth.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhà phê bình",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "reviewed",
           "example": "It was the most favorably reviewed play of the autumn season.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được phê bình; được đánh giá",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -860,19 +938,25 @@
           "pos": "verb",
           "word": "sell",
           "example": "The box office began to sell tickets for the winter season this morning.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bán",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "sellout",
           "example": "Every night of the band's three-week tour was a complete sellout.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "buổi diễn bán hết vé",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "sold-out",
           "example": "The theater troupe performed before a sold-out house at the National Theater.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã bán hết vé",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -922,102 +1006,138 @@
       {
         "word": "act",
         "example": "Roger&#x27;s dream is to act in a Broadway play.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "diễn xuất",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "action",
         "example": "There isn&#x27;t much action in the play, but it is captivating nonetheless.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "diễn biến; hành động",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "actor",
         "example": "There are quite a few well-known actors in the cast.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "diễn viên",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "approach",
         "example": "The actress approached me with the idea for a new play.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "cách tiếp cận",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "approach",
         "example": "The informal approach to the play was unconventional.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "cách tiếp cận",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "approachable",
         "example": "Despite his great fame, the director was friendly and approachable.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "dễ gần",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "create",
         "example": "The playwright created a realistic town and townspeople with the scenery and dialogue.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tạo ra; sáng tạo",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "creation",
         "example": "The creation of the elaborate costumes took months.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "việc tạo ra",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "creative",
         "example": "The director is one of the most creative people I know.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có óc sáng tạo",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "experience",
         "example": "The actor experienced great self-doubt before he became famous.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "kinh nghiệm; trải nghiệm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "experience",
         "example": "Directors bring their experience of the world onto the stage.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "kinh nghiệm; trải nghiệm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "experienced",
         "example": "The experienced make-up artist transformed Maxine into an old woman in a matter of minutes.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "giàu kinh nghiệm",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "perform",
         "example": "The popular actress was hired to perform Shakespeare on a world tour.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "biểu diễn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "performance",
         "example": "I booked tickets for the performance the day they went on sale.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "buổi biểu diễn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "performer",
         "example": "The performers each had three costume changes.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "nghệ sĩ biểu diễn",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "rehearse",
         "example": "The cast had to rehearse the scene over and over again until the director was finally satisfied.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "diễn tập",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "rehearsal",
         "example": "The actors spent several months in rehearsal before they performed the play.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "việc diễn tập",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "rehearsed",
         "example": "Lydia&#x27;s acceptance speech for her award sounded more rehearsed than natural.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đã tập dượt trước",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

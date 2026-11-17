@@ -26,17 +26,23 @@
         {
           "pos": "noun",
           "word": "basis",
-          "example": "Your raise will be determined on the basis of performance alone."
+          "example": "Your raise will be determined on the basis of performance alone.",
+          "meaning_vi": "cơ sở, căn cứ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "verb",
           "word": "base",
-          "example": "We base promotions on seniority."
+          "example": "We base promotions on seniority.",
+          "meaning_vi": "dựa vào, căn cứ vào",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "based",
-          "example": "Based on the assumption that you will earn more in your new position, you can afford the car you've been wanting."
+          "example": "Based on the assumption that you will earn more in your new position, you can afford the car you've been wanting.",
+          "meaning_vi": "dựa trên",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -69,13 +75,17 @@
           "pos": "adjective",
           "word": "basic",
           "example": "All new hires must complete a basic accounting course.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cơ bản",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "basically",
           "example": "The two benefit packages are basically identical in coverage.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "về cơ bản",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -132,19 +142,25 @@
           "pos": "noun",
           "word": "awareness",
           "example": "The campaign aims to increase employee awareness of cybersecurity threats.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhận thức",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "aware",
           "example": "Please ensure that all team members are aware of the revised safety rules.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "biết, nhận thức được",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "unaware",
           "example": "Several commuters were unaware of the schedule change.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "không hay biết",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -176,17 +192,23 @@
         {
           "pos": "verb",
           "word": "benefit",
-          "example": "In order to benefit from the plan, you must fill out the paperwork and submit it to the personnel office."
+          "example": "In order to benefit from the plan, you must fill out the paperwork and submit it to the personnel office.",
+          "meaning_vi": "được hưởng lợi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "benefits",
-          "example": "The new employee's benefits went into effect three months after his start date."
+          "example": "The new employee's benefits went into effect three months after his start date.",
+          "meaning_vi": "phúc lợi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "beneficial",
-          "example": "The service that the insurance has provided has been very beneficial."
+          "example": "The service that the insurance has provided has been very beneficial.",
+          "meaning_vi": "có lợi",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -219,13 +241,17 @@
           "pos": "noun",
           "word": "beneficiary",
           "example": "Please name a primary beneficiary on your life insurance enrollment form.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người thụ hưởng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "beneficially",
           "example": "The new flexible schedule has beneficially impacted staff morale.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo hướng có lợi",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -257,17 +283,23 @@
         {
           "pos": "verb",
           "word": "compensate",
-          "example": "The company compensates its full-time employees well."
+          "example": "The company compensates its full-time employees well.",
+          "meaning_vi": "trả thù lao",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "compensation",
-          "example": "Compensation will be based on your work performance over the past six months."
+          "example": "Compensation will be based on your work performance over the past six months.",
+          "meaning_vi": "thù lao",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "compensatory",
-          "example": "Compensatory time is given in lieu of overtime pay."
+          "example": "Compensatory time is given in lieu of overtime pay.",
+          "meaning_vi": "để bù đắp, nghỉ bù",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -299,7 +331,9 @@
           "pos": "adjective",
           "word": "compensated",
           "example": "Sales representatives are generously compensated for exceeding their quotas.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được trả thù lao",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -353,19 +387,25 @@
           "pos": "noun",
           "word": "delicacy",
           "example": "Personnel disputes must be handled with great tact and delicacy.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự tế nhị",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "delicate",
           "example": "Salary restructuring is a delicate issue that requires careful planning.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhạy cảm, tế nhị",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "delicately",
           "example": "The mediator delicately guided both parties toward a compromise.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách khéo léo",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -423,25 +463,33 @@
           "pos": "noun",
           "word": "eligibility",
           "example": "Please review the eligibility criteria before submitting your grant application.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tư cách đủ điều kiện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "eligible",
           "example": "Full-time staff become eligible for dental coverage after ninety days.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đủ điều kiện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "ineligible",
           "example": "Part-time contractors are ineligible for the company pension plan.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "không đủ điều kiện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "eligibly",
           "example": "All eligibly enrolled members will receive their membership cards by mail.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đúng điều kiện quy định",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -473,17 +521,23 @@
         {
           "pos": "",
           "word": "flexibly",
-          "example": "She approaches problems flexibly, looking at the situation from every different angle."
+          "example": "She approaches problems flexibly, looking at the situation from every different angle.",
+          "meaning_vi": "một cách linh hoạt",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "flexible",
-          "example": "Younger workers tend to be more flexible with their work schedules."
+          "example": "Younger workers tend to be more flexible with their work schedules.",
+          "meaning_vi": "linh hoạt",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "flexibility",
-          "example": "His flexibility on benefits was one of the main reasons we were able to hire him at this time."
+          "example": "His flexibility on benefits was one of the main reasons we were able to hire him at this time.",
+          "meaning_vi": "sự linh hoạt",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -511,7 +565,9 @@
           "pos": "verb",
           "word": "flex",
           "example": "Employees can flex their start and end times with supervisor approval.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "điều chỉnh linh hoạt",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -543,17 +599,23 @@
         {
           "pos": "",
           "word": "negotiate",
-          "example": "The employee prepared a list of her accomplishments to share with her supervisor so that she could negotiate a higher salary."
+          "example": "The employee prepared a list of her accomplishments to share with her supervisor so that she could negotiate a higher salary.",
+          "meaning_vi": "thương lượng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "negotiation",
-          "example": "The director was very pleased that the negotiations brought about the end of the strike."
+          "example": "The director was very pleased that the negotiations brought about the end of the strike.",
+          "meaning_vi": "cuộc đàm phán",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "negotiator",
-          "example": "I should take lessons from Mr. Tarsa; he is such a skilled negotiator."
+          "example": "I should take lessons from Mr. Tarsa; he is such a skilled negotiator.",
+          "meaning_vi": "người đàm phán",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -586,7 +648,9 @@
           "pos": "adjective",
           "word": "negotiable",
           "example": "The starting salary for this executive role is negotiable based on experience.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể thương lượng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -644,19 +708,25 @@
           "pos": "verb",
           "word": "raise",
           "example": "The board voted to raise the minimum hourly wage across all stores.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tăng, nâng lên",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "raise",
           "example": "She received a five percent merit raise after her annual evaluation.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "khoản tăng lương",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "raised",
           "example": "The raised platform in the conference hall improves visibility for attendees.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được nâng cao",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -688,17 +758,23 @@
         {
           "pos": "verb",
           "word": "retire",
-          "example": "Many people don’t know what to do with all their time when they retire from work."
+          "example": "Many people don’t know what to do with all their time when they retire from work.",
+          "meaning_vi": "nghỉ hưu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "retirement",
-          "example": "The administrator added more money to the fund for her retirement."
+          "example": "The administrator added more money to the fund for her retirement.",
+          "meaning_vi": "việc nghỉ hưu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "retired",
-          "example": "The retired worker came back to the office from time to time to see his friends."
+          "example": "The retired worker came back to the office from time to time to see his friends.",
+          "meaning_vi": "đã nghỉ hưu",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -731,7 +807,9 @@
           "pos": "noun",
           "word": "retiree",
           "example": "The company hosts an annual luncheon for all former employees and retirees.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người nghỉ hưu",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -788,19 +866,25 @@
           "pos": "verb",
           "word": "vest",
           "example": "Stock options granted to employees vest over a four-year period.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "phát sinh quyền hưởng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "vesting",
           "example": "The employee handbook explains the five-year vesting schedule for matching contributions.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc xác lập quyền hưởng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "vested",
           "example": "Local businesses have a vested interest in improving public transportation.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "gắn với quyền lợi trực tiếp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -858,13 +942,17 @@
           "pos": "noun",
           "word": "wage",
           "example": "The state legislature approved an increase in the minimum wage.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tiền lương",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "wages",
           "example": "Unclaimed wages may be collected at the payroll office on Friday.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tiền công, tiền lương",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -914,102 +1002,138 @@
       {
         "word": "basis",
         "example": "Your raise will be determined on the basis of performance alone.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "cơ sở, căn cứ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "base",
         "example": "We base promotions on seniority.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "dựa vào, căn cứ vào",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "based",
         "example": "Based on the assumption that you will earn more in your new position, you can afford the car you've been wanting.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "dựa trên",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "benefit",
         "example": "In order to benefit from the plan, you must fill out the paperwork and submit it to the personnel office.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "được hưởng lợi",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "benefits",
         "example": "The new employee's benefits went into effect three months after his start date.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "phúc lợi",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "beneficial",
         "example": "The service that the insurance has provided has been very beneficial.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "có lợi",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "compensate",
         "example": "The company compensates its full-time employees well.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "trả thù lao",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "compensation",
         "example": "Compensation will be based on your work performance over the past six months.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "thù lao",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "compensatory",
         "example": "Compensatory time is given in lieu of overtime pay.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "để bù đắp, nghỉ bù",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "flexibly",
         "example": "She approaches problems flexibly, looking at the situation from every different angle.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách linh hoạt",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "flexible",
         "example": "Younger workers tend to be more flexible with their work schedules.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "linh hoạt",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "flexibility",
         "example": "His flexibility on benefits was one of the main reasons we were able to hire him at this time.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự linh hoạt",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "negotiate",
         "example": "The employee prepared a list of her accomplishments to share with her supervisor so that she could negotiate a higher salary.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thương lượng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "negotiation",
         "example": "The director was very pleased that the negotiations brought about the end of the strike.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "cuộc đàm phán",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "negotiator",
         "example": "I should take lessons from Mr. Tarsa; he is such a skilled negotiator.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "người đàm phán",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "retire",
         "example": "Many people don’t know what to do with all their time when they retire from work.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "nghỉ hưu",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "retirement",
         "example": "The administrator added more money to the fund for her retirement.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "việc nghỉ hưu",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "retired",
         "example": "The retired worker came back to the office from time to time to see his friends.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đã nghỉ hưu",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

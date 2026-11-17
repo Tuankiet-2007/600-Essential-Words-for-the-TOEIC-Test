@@ -26,17 +26,23 @@
         {
           "pos": "verb",
           "word": "adjust",
-          "example": "After you&#x27;ve verified the quantities in the stockroom, I&#x27;ll adjust the numbers in the computer."
+          "example": "After you&#x27;ve verified the quantities in the stockroom, I&#x27;ll adjust the numbers in the computer.",
+          "meaning_vi": "điều chỉnh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "adjustment",
-          "example": "While the adjustments are being made to the computer inventory, the computer will be off-line and unavailable for use."
+          "example": "While the adjustments are being made to the computer inventory, the computer will be off-line and unavailable for use.",
+          "meaning_vi": "sự điều chỉnh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "adjustable",
-          "example": "The height of the shelves is adjustable, which makes it easier to reach and count the merchandise."
+          "example": "The height of the shelves is adjustable, which makes it easier to reach and count the merchandise.",
+          "meaning_vi": "có thể điều chỉnh",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -68,7 +74,9 @@
           "pos": "adjective",
           "word": "adjusted",
           "example": "Please review the adjusted totals on the final inventory sheet.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã điều chỉnh",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -100,17 +108,23 @@
         {
           "pos": "noun",
           "word": "automation",
-          "example": "Computers have brought a heightened level of automation into the retail industry."
+          "example": "Computers have brought a heightened level of automation into the retail industry.",
+          "meaning_vi": "sự tự động hóa",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "automatic",
-          "example": "The automatic updating of the inventory is convenient, but always a day behind."
+          "example": "The automatic updating of the inventory is convenient, but always a day behind.",
+          "meaning_vi": "tự động",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "automatically",
-          "example": "After every cash register transaction, the computer automatically updates the inventory record."
+          "example": "After every cash register transaction, the computer automatically updates the inventory record.",
+          "meaning_vi": "một cách tự động",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -138,13 +152,17 @@
           "pos": "verb",
           "word": "automate",
           "example": "The warehouse plans to automate its sorting and packing operations.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tự động hóa",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "automated",
           "example": "Customers receive an automated confirmation call the day before delivery.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được tự động hóa",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -202,19 +220,25 @@
           "pos": "noun",
           "word": "cruciality",
           "example": "The director emphasized the cruciality of accurate stock counts.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tầm quan trọng then chốt",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "crucial",
           "example": "Timely delivery of raw materials is crucial to our production schedule.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cực kỳ quan trọng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "crucially",
           "example": "Crucially, the new barcode system can operate even without an internet connection.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "điều quan trọng là",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -272,19 +296,25 @@
           "pos": "noun",
           "word": "discrepancy",
           "example": "The auditor found a discrepancy between the physical count and the digital log.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự chênh lệch",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "discrepancies",
           "example": "Any billing discrepancies must be reported within fourteen days of receipt.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "các sai lệch",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "discrepant",
           "example": "The two warehouses reported discrepant inventory figures for the same item.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "không khớp, sai lệch",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -316,17 +346,23 @@
         {
           "pos": "verb",
           "word": "disturb",
-          "example": "Count as many of the items on the salesroom floor as you can without disturbing the customers."
+          "example": "Count as many of the items on the salesroom floor as you can without disturbing the customers.",
+          "meaning_vi": "làm phiền",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "disturbance",
-          "example": "After considering all the options, Ellen decided that closing the store a day to do the annual inventory would cause the least amount of disturbance for customers."
+          "example": "After considering all the options, Ellen decided that closing the store a day to do the annual inventory would cause the least amount of disturbance for customers.",
+          "meaning_vi": "sự phiền toái, xáo trộn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "disturbingly",
-          "example": "The computer count and the physical count were disturbingly incongruous, which distressed the store manager."
+          "example": "The computer count and the physical count were disturbingly incongruous, which distressed the store manager.",
+          "meaning_vi": "đến mức đáng lo ngại",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -357,7 +393,9 @@
           "pos": "adjective",
           "word": "disturbing",
           "example": "The audit revealed a disturbing rise in unexplained inventory losses.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đáng lo ngại",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -415,19 +453,25 @@
           "pos": "noun",
           "word": "liability",
           "example": "The shipping company disclaims all liability for unrecorded cash items.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "trách nhiệm pháp lý",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "liable",
           "example": "Tenants will be held liable for any damage caused to the property.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "phải chịu trách nhiệm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "liably",
           "example": "Any contractor acting liably in breach of safety codes will be fined.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo cách phải chịu trách nhiệm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -459,17 +503,23 @@
         {
           "pos": "",
           "word": "reflect",
-          "example": "The numbers in the computer log should accurately reflect the actual numbers available on the shelf or in the warehouse."
+          "example": "The numbers in the computer log should accurately reflect the actual numbers available on the shelf or in the warehouse.",
+          "meaning_vi": "phản ánh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "reflection",
-          "example": "Upon reflection, the supply clerk decided that there was an error in the inventory."
+          "example": "Upon reflection, the supply clerk decided that there was an error in the inventory.",
+          "meaning_vi": "sự suy xét",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "reflector",
-          "example": "Reflectors were attached to the corners of the shelves to alert the clerks that the shelf edges were sharp."
+          "example": "Reflectors were attached to the corners of the shelves to alert the clerks that the shelf edges were sharp.",
+          "meaning_vi": "miếng phản quang",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -503,7 +553,9 @@
           "pos": "adjective",
           "word": "reflective",
           "example": "Warehouse workers must wear reflective safety vests on the loading dock.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "phản quang",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -563,19 +615,25 @@
           "pos": "verb",
           "word": "run",
           "example": "She has been running the regional distribution center for five years.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "điều hành",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "run",
           "example": "The factory completed a test run of five hundred units.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đợt chạy thử, sản xuất",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "running",
           "example": "The software maintains a running total of all items sold each day.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được cộng dồn liên tục",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -603,17 +661,23 @@
         {
           "pos": "",
           "word": "scan",
-          "example": "Scan the aisles and see if you find the missing carton."
+          "example": "Scan the aisles and see if you find the missing carton.",
+          "meaning_vi": "nhìn lướt, rà tìm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "scanner",
-          "example": "We will install a scanner at two of the computer terminals."
+          "example": "We will install a scanner at two of the computer terminals.",
+          "meaning_vi": "máy quét",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "scanned",
-          "example": "These scanned documents need to be returned to their original owners."
+          "example": "These scanned documents need to be returned to their original owners.",
+          "meaning_vi": "đã được quét",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -645,7 +709,9 @@
           "pos": "noun",
           "word": "scanning",
           "example": "High-speed barcode scanning has reduced warehouse check-in times.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc quét mã",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -677,17 +743,23 @@
         {
           "pos": "",
           "word": "subtract",
-          "example": "Subtract 50 from the total—I just found an unusable box."
+          "example": "Subtract 50 from the total—I just found an unusable box.",
+          "meaning_vi": "trừ, bớt đi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "subtraction",
-          "example": "If you feel confident doing basic addition and subtraction in your head, you don&#x27;t have to carry the calculator with you."
+          "example": "If you feel confident doing basic addition and subtraction in your head, you don&#x27;t have to carry the calculator with you.",
+          "meaning_vi": "phép trừ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "subtracted",
-          "example": "These subtracted figures don&#x27;t add up to the total that was supposed to be subtracted."
+          "example": "These subtracted figures don&#x27;t add up to the total that was supposed to be subtracted.",
+          "meaning_vi": "đã được trừ đi",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -717,7 +789,9 @@
           "pos": "adjective",
           "word": "subtractive",
           "example": "The accounting module uses a subtractive method to calculate net stock.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "dùng phép trừ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -773,25 +847,33 @@
           "pos": "noun",
           "word": "tedium",
           "example": "Barcode scanners have eliminated much of the tedium of annual stocktaking.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự nhàm chán",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "tediousness",
           "example": "Despite the tediousness of the audit, the clerks checked every single box.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tính tẻ nhạt, dài dòng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "tedious",
           "example": "Entering thousands of serial numbers by hand is a tedious task.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tẻ nhạt, mất công",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "tediously",
           "example": "Before the software upgrade, invoices had to be tediously cross-checked by hand.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách tẻ nhạt, mất công",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -849,25 +931,33 @@
           "pos": "verb",
           "word": "verify",
           "example": "Please verify the quantity of items received before signing the delivery slip.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "kiểm tra, xác minh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "verification",
           "example": "For security verification, please enter the six-digit code sent to your phone.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự xác minh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "verifiable",
           "example": "All expense claims must be supported by verifiable receipts.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể kiểm chứng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "verified",
           "example": "Only verified vendors are permitted to bid on municipal supply contracts.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã được xác minh",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -917,102 +1007,138 @@
       {
         "word": "adjust",
         "example": "After you&#x27;ve verified the quantities in the stockroom, I&#x27;ll adjust the numbers in the computer.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "điều chỉnh",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "adjustment",
         "example": "While the adjustments are being made to the computer inventory, the computer will be off-line and unavailable for use.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự điều chỉnh",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "adjustable",
         "example": "The height of the shelves is adjustable, which makes it easier to reach and count the merchandise.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "có thể điều chỉnh",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "automation",
         "example": "Computers have brought a heightened level of automation into the retail industry.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự tự động hóa",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "automatic",
         "example": "The automatic updating of the inventory is convenient, but always a day behind.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tự động",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "automatically",
         "example": "After every cash register transaction, the computer automatically updates the inventory record.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách tự động",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "disturb",
         "example": "Count as many of the items on the salesroom floor as you can without disturbing the customers.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "làm phiền",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "disturbance",
         "example": "After considering all the options, Ellen decided that closing the store a day to do the annual inventory would cause the least amount of disturbance for customers.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự phiền toái, xáo trộn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "disturbingly",
         "example": "The computer count and the physical count were disturbingly incongruous, which distressed the store manager.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đến mức đáng lo ngại",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "reflect",
         "example": "The numbers in the computer log should accurately reflect the actual numbers available on the shelf or in the warehouse.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "phản ánh",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "reflection",
         "example": "Upon reflection, the supply clerk decided that there was an error in the inventory.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự suy xét",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "reflector",
         "example": "Reflectors were attached to the corners of the shelves to alert the clerks that the shelf edges were sharp.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "miếng phản quang",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "scan",
         "example": "Scan the aisles and see if you find the missing carton.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "nhìn lướt, rà tìm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "scanner",
         "example": "We will install a scanner at two of the computer terminals.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "máy quét",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "scanned",
         "example": "These scanned documents need to be returned to their original owners.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đã được quét",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "subtract",
         "example": "Subtract 50 from the total—I just found an unusable box.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "trừ, bớt đi",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "subtraction",
         "example": "If you feel confident doing basic addition and subtraction in your head, you don&#x27;t have to carry the calculator with you.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "phép trừ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "subtracted",
         "example": "These subtracted figures don&#x27;t add up to the total that was supposed to be subtracted.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đã được trừ đi",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

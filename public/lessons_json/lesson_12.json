@@ -52,25 +52,33 @@
           "pos": "verb",
           "word": "enable",
           "example": "The new training module will enable staff to handle customer inquiries faster.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "giúp có thể, tạo điều kiện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "ability",
           "example": "She has the ability to manage multiple complex projects simultaneously.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "khả năng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "able",
           "example": "Will you be able to attend the orientation session tomorrow morning?",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có khả năng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "ably",
           "example": "Mr. Kim was ably assisted by a team of junior researchers.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách thành thạo",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -102,17 +110,23 @@
         {
           "pos": "",
           "word": "apply",
-          "example": "Your chances are better if you apply for a job in the spring."
+          "example": "Your chances are better if you apply for a job in the spring.",
+          "meaning_vi": "ứng tuyển",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "applicant",
-          "example": "The manager selected him from all the applicants."
+          "example": "The manager selected him from all the applicants.",
+          "meaning_vi": "người ứng tuyển",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "application",
-          "example": "The department can’t process your application until all documents have been received."
+          "example": "The department can’t process your application until all documents have been received.",
+          "meaning_vi": "đơn ứng tuyển",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -145,7 +159,9 @@
           "pos": "adjective",
           "word": "applicable",
           "example": "Please fill out all sections of the form that are applicable to your situation.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "áp dụng được, phù hợp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -203,13 +219,17 @@
           "pos": "noun",
           "word": "background",
           "example": "Her extensive background in hospitality makes her ideal for the hotel manager role.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "kinh nghiệm, nền tảng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "groundwork",
           "example": "The research team laid the groundwork for the new product launch.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "công việc chuẩn bị, nền móng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -267,25 +287,33 @@
           "pos": "verb",
           "word": "ready",
           "example": "Warehouse workers are readying the shipment for morning dispatch.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chuẩn bị sẵn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "readiness",
           "example": "The emergency drill tested the staff's readiness for unexpected power outages.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự sẵn sàng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "ready",
           "example": "All promotional materials will be ready for printing by Wednesday.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sẵn sàng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "readily",
           "example": "Information about employee benefits is readily available on the company intranet.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "dễ dàng, sẵn có",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -342,19 +370,25 @@
           "pos": "verb",
           "word": "call",
           "example": "Please call the human resources office to confirm your interview time.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "gọi điện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "caller",
           "example": "The receptionist politely asked the caller to hold the line.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người gọi điện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "call",
           "example": "We received several phone calls regarding the advertised vacancy.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cuộc gọi",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -386,17 +420,23 @@
         {
           "pos": "",
           "word": "confidence",
-          "example": "It's refreshing to see a manager with so much confidence in her employees."
+          "example": "It's refreshing to see a manager with so much confidence in her employees.",
+          "meaning_vi": "sự tin tưởng, tự tin",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "confident",
-          "example": "Don't be too confident until you actually have an offer."
+          "example": "Don't be too confident until you actually have an offer.",
+          "meaning_vi": "tự tin",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "confidently",
-          "example": "The applicant confidently walked into the interview, sat down, and began to talk about himself."
+          "example": "The applicant confidently walked into the interview, sat down, and began to talk about himself.",
+          "meaning_vi": "một cách tự tin",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -428,7 +468,9 @@
           "pos": "verb",
           "word": "confide",
           "example": "Employees should feel comfortable confiding their concerns to the HR counselor.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tâm sự, thổ lộ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -482,19 +524,25 @@
           "pos": "noun",
           "word": "constancy",
           "example": "The constancy of her dedication to quality earned her the annual leadership award.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự bền bỉ, kiên định",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "constant",
           "example": "The customer support team is under constant pressure to reduce wait times.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "liên tục, thường xuyên",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "constantly",
           "example": "Our software engineers are constantly updating security protocols.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "liên tục",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -526,17 +574,23 @@
         {
           "pos": "noun",
           "word": "expert",
-          "example": "Don&#x27;t portray yourself as an expert if you aren&#x27;t."
+          "example": "Don&#x27;t portray yourself as an expert if you aren&#x27;t.",
+          "meaning_vi": "chuyên gia",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "expertise",
-          "example": "The worker gained expertise over the years and was promoted to a higher position."
+          "example": "The worker gained expertise over the years and was promoted to a higher position.",
+          "meaning_vi": "chuyên môn, sự thành thạo",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "expert",
-          "example": "As an expert negotiator, she should have no problems getting what the company wants."
+          "example": "As an expert negotiator, she should have no problems getting what the company wants.",
+          "meaning_vi": "thành thạo, chuyên nghiệp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -569,7 +623,9 @@
           "pos": "adverb",
           "word": "expertly",
           "example": "The mediator expertly resolved the contract dispute between the two firms.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách thành thạo",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -627,19 +683,25 @@
           "pos": "verb",
           "word": "follow",
           "example": "All visitors must follow the safety guidelines while touring the plant.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tuân theo",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "follow-up",
           "example": "The sales representative scheduled a follow-up with the prospective buyer.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "buổi trao đổi tiếp theo",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "following",
           "example": "The orientation session will take place on the following Monday.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tiếp theo",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -671,17 +733,23 @@
         {
           "pos": "",
           "word": "hesitant",
-          "example": "The applicant was hesitant to explain his reason for leaving his last job."
+          "example": "The applicant was hesitant to explain his reason for leaving his last job.",
+          "meaning_vi": "do dự",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "hesitation",
-          "example": "Her hesitation about accepting the job made the department wonder if she was really interested."
+          "example": "Her hesitation about accepting the job made the department wonder if she was really interested.",
+          "meaning_vi": "sự do dự",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "hesitate",
-          "example": "Don't hesitate to call if you have any questions concerning the job."
+          "example": "Don't hesitate to call if you have any questions concerning the job.",
+          "meaning_vi": "do dự, ngần ngại",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -713,7 +781,9 @@
           "pos": "adverb",
           "word": "hesitantly",
           "example": "The intern spoke hesitantly when asked to explain the budget error.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách ngập ngừng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -745,17 +815,23 @@
         {
           "pos": "",
           "word": "present",
-          "example": "I'd like to present my résumé for your consideration."
+          "example": "I'd like to present my résumé for your consideration.",
+          "meaning_vi": "trình, đưa ra",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "presentation",
-          "example": "The applicant's presentation made a favorable impression."
+          "example": "The applicant's presentation made a favorable impression.",
+          "meaning_vi": "phần trình bày",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "presentable",
-          "example": "The applicant was well dressed and presentable."
+          "example": "The applicant was well dressed and presentable.",
+          "meaning_vi": "tươm tất, chỉnh tề",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -788,7 +864,9 @@
           "pos": "noun",
           "word": "presenter",
           "example": "The keynote presenter shared valuable insights on talent retention.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người trình bày",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -820,17 +898,23 @@
         {
           "pos": "",
           "word": "weakly",
-          "example": "The applicant shook hands weakly, making me question her strength of character."
+          "example": "The applicant shook hands weakly, making me question her strength of character.",
+          "meaning_vi": "một cách yếu ớt",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "weak",
-          "example": "She gave a weak description of her computer skills."
+          "example": "She gave a weak description of her computer skills.",
+          "meaning_vi": "yếu, thiếu thuyết phục",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "weakness",
-          "example": "Interviewers often ask candidates about their strengths and weaknesses."
+          "example": "Interviewers often ask candidates about their strengths and weaknesses.",
+          "meaning_vi": "điểm yếu",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -858,7 +942,9 @@
           "pos": "verb",
           "word": "weaken",
           "example": "Rising raw material costs could weaken the company's profit margins this quarter.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "làm suy giảm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -908,102 +994,138 @@
       {
         "word": "apply",
         "example": "Your chances are better if you apply for a job in the spring.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "ứng tuyển",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "applicant",
         "example": "The manager selected him from all the applicants.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "người ứng tuyển",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "application",
         "example": "The department can’t process your application until all documents have been received.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "đơn ứng tuyển",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "expert",
         "example": "Don&#x27;t portray yourself as an expert if you aren&#x27;t.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "chuyên gia",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "expertise",
         "example": "The worker gained expertise over the years and was promoted to a higher position.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "chuyên môn, sự thành thạo",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "expert",
         "example": "As an expert negotiator, she should have no problems getting what the company wants.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "thành thạo, chuyên nghiệp",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "confidence",
         "example": "It's refreshing to see a manager with so much confidence in her employees.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự tin tưởng, tự tin",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "confident",
         "example": "Don't be too confident until you actually have an offer.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tự tin",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "confidently",
         "example": "The applicant confidently walked into the interview, sat down, and began to talk about himself.",
-        "pos": "adverb"
+        "pos": "adverb",
+        "meaning_vi": "một cách tự tin",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "hesitant",
         "example": "The applicant was hesitant to explain his reason for leaving his last job.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "do dự",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "hesitation",
         "example": "Her hesitation about accepting the job made the department wonder if she was really interested.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự do dự",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "hesitate",
         "example": "Don't hesitate to call if you have any questions concerning the job.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "do dự, ngần ngại",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "present",
         "example": "I'd like to present my résumé for your consideration.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "trình, đưa ra",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "presentation",
         "example": "The applicant's presentation made a favorable impression.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "phần trình bày",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "presentable",
         "example": "The applicant was well dressed and presentable.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "tươm tất, chỉnh tề",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "weakly",
         "example": "The applicant shook hands weakly, making me question her strength of character.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách yếu ớt",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "weak",
         "example": "She gave a weak description of her computer skills.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "yếu, thiếu thuyết phục",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "weakness",
         "example": "Interviewers often ask candidates about their strengths and weaknesses.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "điểm yếu",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

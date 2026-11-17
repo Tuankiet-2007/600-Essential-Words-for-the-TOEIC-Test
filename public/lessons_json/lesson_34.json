@@ -26,17 +26,23 @@
         {
           "pos": "verb",
           "word": "accustom to",
-          "example": "Shirley could not accustom herself to the demands of her new job."
+          "example": "Shirley could not accustom herself to the demands of her new job.",
+          "meaning_vi": "làm cho quen với",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "custom",
-          "example": "It is the custom at this restaurant to offer free meals to patrons on their birthdays."
+          "example": "It is the custom at this restaurant to offer free meals to patrons on their birthdays.",
+          "meaning_vi": "phong tục, thông lệ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "accustomed to",
-          "example": "Janet has become accustomed to eating spicy food."
+          "example": "Janet has become accustomed to eating spicy food.",
+          "meaning_vi": "quen với",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -67,13 +73,17 @@
           "pos": "adjective",
           "word": "customary",
           "example": "In many countries, it is customary to leave a 15 percent tip for good table service.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo thông lệ, thường lệ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "customarily",
           "example": "The head chef customarily greets VIP guests in the dining room after dinner.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo thông lệ, thường",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -105,17 +115,23 @@
         {
           "pos": "verb",
           "word": "apprentice",
-          "example": "Instead of attending cooking school, Michael decided to apprentice to a master chef."
+          "example": "Instead of attending cooking school, Michael decided to apprentice to a master chef.",
+          "meaning_vi": "cho học nghề, theo học nghề",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "apprentice",
-          "example": "The new group of apprentices will start working any day now."
+          "example": "The new group of apprentices will start working any day now.",
+          "meaning_vi": "người học nghề",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "apprenticeship",
-          "example": "The apprenticeship was a grueling period, but George learned a lot."
+          "example": "The apprenticeship was a grueling period, but George learned a lot.",
+          "meaning_vi": "thời gian, quá trình học nghề",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -148,19 +164,25 @@
           "pos": "noun",
           "word": "apprenticeship",
           "example": "She successfully completed a three-year apprenticeship as a pastry chef.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thời gian, quá trình học nghề",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "verb",
           "word": "apprentice",
           "example": "Young cooks are often apprenticed to master chefs in renowned restaurants.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cho học nghề, theo học nghề",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "apprenticed",
           "example": "The apprenticed mechanics were carefully supervised by the shop manager.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đang theo học nghề",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -216,7 +238,9 @@
           "pos": "adjective",
           "word": "culinary",
           "example": "Graduates of the culinary academy are highly sought after by luxury hotels.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thuộc nấu ăn, ẩm thực",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -248,17 +272,23 @@
         {
           "pos": "",
           "word": "demand",
-          "example": "The head chef demands a lot from his assistants."
+          "example": "The head chef demands a lot from his assistants.",
+          "meaning_vi": "yêu cầu, đòi hỏi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "demand",
-          "example": "Pierre could not keep up with the many demands of the customers."
+          "example": "Pierre could not keep up with the many demands of the customers.",
+          "meaning_vi": "yêu cầu, đòi hỏi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "demanding",
-          "example": "Working as a chef is a very demanding job."
+          "example": "Working as a chef is a very demanding job.",
+          "meaning_vi": "đòi hỏi cao, vất vả",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -293,7 +323,9 @@
           "pos": "adverb",
           "word": "demandingly",
           "example": "The head chef spoke demandingly to the kitchen staff during the dinner rush.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "với giọng đòi hỏi, khắt khe",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -352,19 +384,25 @@
           "pos": "verb",
           "word": "draw",
           "example": "The outdoor patio draws hundreds of diners during the warm summer months.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thu hút",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "draw",
           "example": "The celebrity chef's demonstration was the biggest draw at the culinary expo.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "điểm thu hút",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "drawn",
           "example": "Many creative individuals feel naturally drawn to the pastry arts.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bị thu hút, cuốn hút",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -396,17 +434,23 @@
         {
           "pos": "verb",
           "word": "incorporate",
-          "example": "Take these items and incorporate them into a stew."
+          "example": "Take these items and incorporate them into a stew.",
+          "meaning_vi": "kết hợp, đưa vào",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "incorporation",
-          "example": "The restaurant was the incorporation of every good idea the chef had thought of in his career."
+          "example": "The restaurant was the incorporation of every good idea the chef had thought of in his career.",
+          "meaning_vi": "sự kết hợp, tích hợp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "incorporating",
-          "example": "Chef Tao was famous for incorporating different cooking styles into one."
+          "example": "Chef Tao was famous for incorporating different cooking styles into one.",
+          "meaning_vi": "việc kết hợp, đưa vào",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -438,7 +482,9 @@
           "pos": "adjective",
           "word": "incorporated",
           "example": "The recipe features locally grown herbs incorporated into a rich butter sauce.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được kết hợp, đưa vào",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -495,7 +541,9 @@
           "pos": "noun",
           "word": "influx",
           "example": "Downtown restaurants hired extra servers to prepare for the summer influx of tourists.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "dòng người đổ đến",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -527,17 +575,23 @@
         {
           "pos": "",
           "word": "method",
-          "example": "The chef discovered a more efficient method of peeling boiled eggs."
+          "example": "The chef discovered a more efficient method of peeling boiled eggs.",
+          "meaning_vi": "phương pháp, cách làm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "methodology",
-          "example": "Even the order of adding ingredients is an unappreciated aspect of cooking methodology."
+          "example": "Even the order of adding ingredients is an unappreciated aspect of cooking methodology.",
+          "meaning_vi": "hệ thống phương pháp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "methodical",
-          "example": "The head cook was not so artistic as methodical in preparing standard dishes."
+          "example": "The head cook was not so artistic as methodical in preparing standard dishes.",
+          "meaning_vi": "có phương pháp, ngăn nắp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -570,7 +624,9 @@
           "pos": "adverb",
           "word": "methodically",
           "example": "The pastry chef methodically measured each ingredient before mixing the dough.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách có trình tự",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -627,7 +683,9 @@
           "pos": "noun",
           "word": "outlet",
           "example": "The fast-food chain plans to open twenty new retail outlets across the region.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cửa hàng, điểm bán",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -659,17 +717,23 @@
         {
           "pos": "",
           "word": "profession",
-          "example": "The number of people choosing cooking as a profession has risen over the past decade."
+          "example": "The number of people choosing cooking as a profession has risen over the past decade.",
+          "meaning_vi": "nghề nghiệp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "professional",
-          "example": "She was professional in her approach to dealing with the problem of late deliveries."
+          "example": "She was professional in her approach to dealing with the problem of late deliveries.",
+          "meaning_vi": "chuyên nghiệp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "professionally",
-          "example": "Although the customer was rude and loud, the waiter handled the situation very professionally."
+          "example": "Although the customer was rude and loud, the waiter handled the situation very professionally.",
+          "meaning_vi": "một cách chuyên nghiệp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -702,13 +766,17 @@
           "pos": "verb",
           "word": "professionalize",
           "example": "New certification standards helped professionalize the catering industry.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chuyên nghiệp hóa",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "professionalism",
           "example": "The banquet staff was praised for their outstanding professionalism and courtesy.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tính chuyên nghiệp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -764,13 +832,17 @@
           "pos": "verb",
           "word": "relinquish",
           "example": "The founder decided to relinquish daily management of the restaurant chain to his daughter.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "từ bỏ, chuyển giao",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "relinquishment",
           "example": "The contract requires the formal relinquishment of franchise rights upon termination.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự từ bỏ, chuyển giao",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -829,19 +901,25 @@
           "pos": "noun",
           "word": "theme",
           "example": "Sustainability in food production is the main theme of this year's culinary summit.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chủ đề",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "thematic",
           "example": "The banquet hall features thematic lighting that changes with each course of the meal.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo chủ đề",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "thematically",
           "example": "All five dining rooms are thematically decorated to represent different regions of Italy.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo chủ đề",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -891,102 +969,138 @@
       {
         "word": "accustom to",
         "example": "Shirley could not accustom herself to the demands of her new job.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "làm cho quen với",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "custom",
         "example": "It is the custom at this restaurant to offer free meals to patrons on their birthdays.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "phong tục, thông lệ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "accustomed to",
         "example": "Janet has become accustomed to eating spicy food.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "quen với",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "apprentice",
         "example": "Instead of attending cooking school, Michael decided to apprentice to a master chef.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "cho học nghề, theo học nghề",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "apprentice",
         "example": "The new group of apprentices will start working any day now.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "người học nghề",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "apprenticeship",
         "example": "The apprenticeship was a grueling period, but George learned a lot.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "thời gian, quá trình học nghề",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "demand",
         "example": "The head chef demands a lot from his assistants.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "yêu cầu, đòi hỏi",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "demand",
         "example": "Pierre could not keep up with the many demands of the customers.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "yêu cầu, đòi hỏi",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "demanding",
         "example": "Working as a chef is a very demanding job.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đòi hỏi cao, vất vả",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "incorporate",
         "example": "Take these items and incorporate them into a stew.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "kết hợp, đưa vào",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "incorporation",
         "example": "The restaurant was the incorporation of every good idea the chef had thought of in his career.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự kết hợp, tích hợp",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "incorporating",
         "example": "Chef Tao was famous for incorporating different cooking styles into one.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "việc kết hợp, đưa vào",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "method",
         "example": "The chef discovered a more efficient method of peeling boiled eggs.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "phương pháp, cách làm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "methodology",
         "example": "Even the order of adding ingredients is an unappreciated aspect of cooking methodology.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "hệ thống phương pháp",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "methodical",
         "example": "The head cook was not so artistic as methodical in preparing standard dishes.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có phương pháp, ngăn nắp",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "profession",
         "example": "The number of people choosing cooking as a profession has risen over the past decade.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "nghề nghiệp",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "professional",
         "example": "She was professional in her approach to dealing with the problem of late deliveries.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "chuyên nghiệp",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "professionally",
         "example": "Although the customer was rude and loud, the waiter handled the situation very professionally.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách chuyên nghiệp",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

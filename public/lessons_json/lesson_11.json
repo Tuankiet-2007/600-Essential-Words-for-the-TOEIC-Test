@@ -51,25 +51,33 @@
           "pos": "verb",
           "word": "abound",
           "example": "Job opportunities abound in the rapidly growing technology sector.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có rất nhiều",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "abundance",
           "example": "The region has an abundance of skilled labor for manufacturing.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự dồi dào",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "abundant",
           "example": "Natural resources are abundant in this part of the country.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "dồi dào",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "abundantly",
           "example": "The director made it abundantly clear that deadlines must be met.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hết sức, vô cùng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -101,17 +109,23 @@
         {
           "pos": "",
           "word": "accomplish",
-          "example": "You can accomplish anything if you put your mind to it."
+          "example": "You can accomplish anything if you put your mind to it.",
+          "meaning_vi": "hoàn thành, đạt được",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "accomplishment",
-          "example": "The company is proud of our team&#x27;s accomplishments."
+          "example": "The company is proud of our team&#x27;s accomplishments.",
+          "meaning_vi": "thành tựu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "accomplished",
-          "example": "The accomplished artist had his paintings in all the major galleries."
+          "example": "The accomplished artist had his paintings in all the major galleries.",
+          "meaning_vi": "tài năng, thành thạo",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -143,7 +157,9 @@
           "pos": "adverb",
           "word": "accomplishedly",
           "example": "She performed the complex negotiation task accomplishedly.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách thành thạo",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -200,19 +216,25 @@
           "pos": "verb",
           "word": "bring",
           "example": "The merger will bring significant benefits to both corporations.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mang lại",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "togetherness",
           "example": "The company retreat fostered a strong sense of togetherness among staff.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tinh thần gắn kết",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "together",
           "example": "The marketing and sales departments worked closely together on the launch.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cùng nhau",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -269,13 +291,17 @@
           "pos": "noun",
           "word": "candidacy",
           "example": "The board of directors unanimously supported her candidacy for chief executive.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc ứng cử",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "candidate",
           "example": "Only candidates with at least five years of management experience will be considered.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ứng viên",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -331,19 +357,25 @@
           "pos": "verb",
           "word": "come",
           "example": "Good ideas often come from collaborative brainstorming sessions.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đến, xuất phát",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "outcome",
           "example": "Everyone was pleased with the final outcome of the strategy meeting.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "kết quả",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "upcoming",
           "example": "We need to finalize our proposal before the upcoming board meeting.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sắp tới",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -399,19 +431,25 @@
           "pos": "noun",
           "word": "commensurateness",
           "example": "The audit evaluated the commensurateness of executive pay with company performance.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự tương xứng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "commensurate",
           "example": "Starting compensation will be commensurate with the candidate's prior experience.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tương xứng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "commensurately",
           "example": "As your responsibilities increase, your salary will rise commensurately.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách tương xứng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -443,17 +481,23 @@
         {
           "pos": "",
           "word": "match",
-          "example": "The former marketing director is a good match for this position in public relations."
+          "example": "The former marketing director is a good match for this position in public relations.",
+          "meaning_vi": "kết hợp cho phù hợp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "match",
-          "example": "We need to match both job experience and personality for this position."
+          "example": "We need to match both job experience and personality for this position.",
+          "meaning_vi": "kết hợp cho phù hợp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "matching",
-          "example": "The matching cushions look better on the chair."
+          "example": "The matching cushions look better on the chair.",
+          "meaning_vi": "đồng bộ, phù hợp nhau",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -486,7 +530,9 @@
           "pos": "adjective",
           "word": "unmatched",
           "example": "Our firm offers unmatched expertise in international corporate law.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "không ai sánh bằng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -518,17 +564,23 @@
         {
           "pos": "",
           "word": "profile",
-          "example": "His customer profile shows that he always pays on time."
+          "example": "His customer profile shows that he always pays on time.",
+          "meaning_vi": "lập hồ sơ đặc điểm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "profile",
-          "example": "Through telephone surveys, we try to profile our clientele in order to understand who is using our services."
+          "example": "Through telephone surveys, we try to profile our clientele in order to understand who is using our services.",
+          "meaning_vi": "lập hồ sơ đặc điểm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "profiled",
-          "example": "The profiled candidate only met half of the job requirements."
+          "example": "The profiled candidate only met half of the job requirements.",
+          "meaning_vi": "được lập hồ sơ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -560,7 +612,9 @@
           "pos": "noun",
           "word": "profiling",
           "example": "Customer profiling helps the marketing team target advertisements effectively.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc lập hồ sơ đặc điểm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -592,17 +646,23 @@
         {
           "pos": "",
           "word": "qualify",
-          "example": "In order to qualify, you must have two years of work experience."
+          "example": "In order to qualify, you must have two years of work experience.",
+          "meaning_vi": "đủ điều kiện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "qualifications",
-          "example": "The manager made a list of qualifications for the vacant job position."
+          "example": "The manager made a list of qualifications for the vacant job position.",
+          "meaning_vi": "trình độ, tiêu chuẩn chuyên môn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "qualified",
-          "example": "He found himself overqualified for the entry-level position."
+          "example": "He found himself overqualified for the entry-level position.",
+          "meaning_vi": "đủ trình độ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -633,7 +693,9 @@
           "pos": "adjective",
           "word": "unqualified",
           "example": "Unqualified applicants will be screened out during the initial review.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "không đủ trình độ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -665,17 +727,23 @@
         {
           "pos": "",
           "word": "recruit",
-          "example": "Large accounting firms recruit on college campuses every spring."
+          "example": "Large accounting firms recruit on college campuses every spring.",
+          "meaning_vi": "tuyển dụng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "recruitment",
-          "example": "The company&#x27;s recruitment resulted in ten highly qualified new employees."
+          "example": "The company&#x27;s recruitment resulted in ten highly qualified new employees.",
+          "meaning_vi": "việc tuyển dụng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "recruiter",
-          "example": "As a recruiter, he traveled around the country speaking to recent college graduates."
+          "example": "As a recruiter, he traveled around the country speaking to recent college graduates.",
+          "meaning_vi": "người tuyển dụng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -708,7 +776,9 @@
           "pos": "adjective",
           "word": "recruited",
           "example": "Newly recruited engineers must complete a two-week orientation program.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được tuyển dụng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -740,17 +810,23 @@
         {
           "pos": "",
           "word": "submit",
-          "example": "Anyone who is interested in the position should submit a résumé and writing samples."
+          "example": "Anyone who is interested in the position should submit a résumé and writing samples.",
+          "meaning_vi": "nộp, gửi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "submission",
-          "example": "I&#x27;m very sorry, the submission date was last week. We can&#x27;t take any more applications."
+          "example": "I&#x27;m very sorry, the submission date was last week. We can&#x27;t take any more applications.",
+          "meaning_vi": "việc nộp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "submittal",
-          "example": "The submittal of his resignation prompted his colleagues to apply for his job."
+          "example": "The submittal of his resignation prompted his colleagues to apply for his job.",
+          "meaning_vi": "sự đệ trình, nộp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -783,7 +859,9 @@
           "pos": "adjective",
           "word": "submitted",
           "example": "All submitted proposals will be evaluated by the selection committee.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã được nộp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -840,19 +918,25 @@
           "pos": "verb",
           "word": "consume",
           "example": "Administrative tasks consume nearly half of the manager's workday.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tiêu tốn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "consumption",
           "example": "New automation tools have reduced the consumption of staff time.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự tiêu tốn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "time-consuming",
           "example": "Verifying each applicant's references manually is a time-consuming task.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tốn thời gian",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -902,102 +986,138 @@
       {
         "word": "accomplish",
         "example": "You can accomplish anything if you put your mind to it.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "hoàn thành, đạt được",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "accomplishment",
         "example": "The company is proud of our team&#x27;s accomplishments.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thành tựu",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "accomplished",
         "example": "The accomplished artist had his paintings in all the major galleries.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tài năng, thành thạo",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "match",
         "example": "The former marketing director is a good match for this position in public relations.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "kết hợp cho phù hợp",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "match",
         "example": "We need to match both job experience and personality for this position.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "kết hợp cho phù hợp",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "matching",
         "example": "The matching cushions look better on the chair.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đồng bộ, phù hợp nhau",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "profile",
         "example": "His customer profile shows that he always pays on time.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "lập hồ sơ đặc điểm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "profile",
         "example": "Through telephone surveys, we try to profile our clientele in order to understand who is using our services.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "lập hồ sơ đặc điểm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "profiled",
         "example": "The profiled candidate only met half of the job requirements.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "được lập hồ sơ",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "qualify",
         "example": "In order to qualify, you must have two years of work experience.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đủ điều kiện",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "qualifications",
         "example": "The manager made a list of qualifications for the vacant job position.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "trình độ, tiêu chuẩn chuyên môn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "qualified",
         "example": "He found himself overqualified for the entry-level position.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đủ trình độ",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "recruit",
         "example": "Large accounting firms recruit on college campuses every spring.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tuyển dụng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "recruitment",
         "example": "The company&#x27;s recruitment resulted in ten highly qualified new employees.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "việc tuyển dụng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "recruiter",
         "example": "As a recruiter, he traveled around the country speaking to recent college graduates.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "người tuyển dụng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "submit",
         "example": "Anyone who is interested in the position should submit a résumé and writing samples.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "nộp, gửi",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "submission",
         "example": "I&#x27;m very sorry, the submission date was last week. We can&#x27;t take any more applications.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "việc nộp",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "submittal",
         "example": "The submittal of his resignation prompted his colleagues to apply for his job.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự đệ trình, nộp",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

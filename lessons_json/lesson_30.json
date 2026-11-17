@@ -26,17 +26,23 @@
         {
           "pos": "verb",
           "word": "apprehend",
-          "example": "A child can&#x27;t apprehend the importance of saving for the future."
+          "example": "A child can&#x27;t apprehend the importance of saving for the future.",
+          "meaning_vi": "hiểu, lĩnh hội",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "apprehension",
-          "example": "The air was thick with apprehension as the landlord met with the tenants."
+          "example": "The air was thick with apprehension as the landlord met with the tenants.",
+          "meaning_vi": "sự lo ngại, bất an",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "apprehensive",
-          "example": "The tenants were apprehensive about the conditions of their rental agreement."
+          "example": "The tenants were apprehensive about the conditions of their rental agreement.",
+          "meaning_vi": "lo ngại, thấp thỏm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -67,7 +73,9 @@
           "pos": "adverb",
           "word": "apprehensively",
           "example": "Retail tenants watched apprehensively as commercial property taxes continued to climb.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách lo ngại",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -99,17 +107,23 @@
         {
           "pos": "",
           "word": "circumstantially",
-          "example": "The building owner circumstantially takes money out of the escrow account for emergency repairs."
+          "example": "The building owner circumstantially takes money out of the escrow account for emergency repairs.",
+          "meaning_vi": "tùy theo hoàn cảnh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "circumstance",
-          "example": "Because of our circumstances, the rental agent kindly allowed us to get out of our lease early."
+          "example": "Because of our circumstances, the rental agent kindly allowed us to get out of our lease early.",
+          "meaning_vi": "hoàn cảnh, tình thế",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "circumstantial",
-          "example": "The judge&#x27;s decision that the tenant was responsible for repairing the damage was based solely on circumstantial evidence."
+          "example": "The judge&#x27;s decision that the tenant was responsible for repairing the damage was based solely on circumstantial evidence.",
+          "meaning_vi": "gián tiếp, dựa trên tình tiết",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -142,7 +156,9 @@
           "pos": "adjective",
           "word": "circumstantial",
           "example": "The arbitrator dismissed the claim because it relied entirely on circumstantial evidence.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "gián tiếp, dựa trên tình tiết",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -174,17 +190,23 @@
         {
           "pos": "verb",
           "word": "condition",
-          "example": "The president conditioned her acceptance on two factors that were spelled out in the letter of agreement."
+          "example": "The president conditioned her acceptance on two factors that were spelled out in the letter of agreement.",
+          "meaning_vi": "đặt điều kiện cho",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "condition",
-          "example": "They decided to rent the space, under the condition that the price would not be raised for the next two years."
+          "example": "They decided to rent the space, under the condition that the price would not be raised for the next two years.",
+          "meaning_vi": "điều kiện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "conditional",
-          "example": "If you give a conditional go-ahead, we will start drawing up the plans."
+          "example": "If you give a conditional go-ahead, we will start drawing up the plans.",
+          "meaning_vi": "có điều kiện",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -218,7 +240,9 @@
           "pos": "adverb",
           "word": "conditionally",
           "example": "The bank conditionally approved the commercial loan pending a final property appraisal.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "kèm điều kiện",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -275,19 +299,25 @@
           "pos": "adjective",
           "word": "due",
           "example": "Monthly rent payments are due on the first day of each calendar month.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đến hạn thanh toán",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "overdue",
           "example": "Tenants with overdue rent balances will be charged a five percent late fee.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "quá hạn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "duly",
           "example": "Both copies of the lease agreement were duly signed and witnessed by the notary.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đúng thủ tục, hợp lệ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -319,17 +349,23 @@
         {
           "pos": "",
           "word": "fluctuate",
-          "example": "As interest rates began to fluctuate, many investors became nervous and took their money out of the real estate market."
+          "example": "As interest rates began to fluctuate, many investors became nervous and took their money out of the real estate market.",
+          "meaning_vi": "dao động, biến động",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "fluctuation",
-          "example": "Construction is sensitive to any fluctuations in the economy."
+          "example": "Construction is sensitive to any fluctuations in the economy.",
+          "meaning_vi": "sự biến động",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "fluctuating",
-          "example": "Any additional fluctuating on prices will not be accepted."
+          "example": "Any additional fluctuating on prices will not be accepted.",
+          "meaning_vi": "dao động, thay đổi thất thường",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -363,7 +399,9 @@
           "pos": "adjective",
           "word": "fluctuating",
           "example": "Many small importers struggle to plan their budgets due to fluctuating exchange rates.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "biến động thất thường",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -420,13 +458,17 @@
           "pos": "verb",
           "word": "get",
           "example": "Tenants must get written permission from the property manager before repainting walls.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhận được, có được",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "getaway",
           "example": "The coastal resort is marketed as a relaxing weekend getaway for city executives.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nơi nghỉ ngơi, kỳ nghỉ ngắn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -458,17 +500,23 @@
         {
           "pos": "verb",
           "word": "indicate",
-          "example": "As was indicated in the terms of the lease, any changes to the property must be approved by the owners."
+          "example": "As was indicated in the terms of the lease, any changes to the property must be approved by the owners.",
+          "meaning_vi": "chỉ rõ, cho biết",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "indicator",
-          "example": "The state of local schools is a good indicator of the health of the economy."
+          "example": "The state of local schools is a good indicator of the health of the economy.",
+          "meaning_vi": "chỉ số, dấu hiệu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "indication",
-          "example": "The management team had every indication that the tenants were planning to stay for the near future."
+          "example": "The management team had every indication that the tenants were planning to stay for the near future.",
+          "meaning_vi": "dấu hiệu, sự cho thấy",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -500,7 +548,9 @@
           "pos": "adjective",
           "word": "indicative",
           "example": "Rising commercial occupancy rates are indicative of a rebounding local economy.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cho thấy, biểu thị",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -561,25 +611,33 @@
           "pos": "verb",
           "word": "lease",
           "example": "Many logistics firms prefer to lease delivery vans rather than purchase them outright.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thuê theo hợp đồng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "lessor",
           "example": "Under the contract, the lessor is responsible for all structural roof repairs.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bên cho thuê",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "lessee",
           "example": "The lessee must obtain written consent before making any alterations to the office space.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bên thuê",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "leased",
           "example": "All leased photocopiers are serviced monthly by the vendor's technicians.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được thuê theo hợp đồng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -636,19 +694,25 @@
           "pos": "verb",
           "word": "lock",
           "example": "Homebuyers rushed to lock in low mortgage rates before the central bank raised them.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chốt cố định",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "lock-in",
           "example": "The commercial mortgage includes a three-year lock-in clause that prevents early repayment.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự ràng buộc trong thời hạn cố định",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "locked",
           "example": "Confidential lease files must be kept in a locked cabinet at all times.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được khóa",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -680,17 +744,23 @@
         {
           "pos": "",
           "word": "occupy",
-          "example": "The owner must make sure that the space is in good condition before the tenant occupies it."
+          "example": "The owner must make sure that the space is in good condition before the tenant occupies it.",
+          "meaning_vi": "sử dụng, cư ngụ tại",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "occupant",
-          "example": "Most of the occupants of this building are doctors and lawyers."
+          "example": "Most of the occupants of this building are doctors and lawyers.",
+          "meaning_vi": "người cư ngụ, sử dụng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "occupancy",
-          "example": "The occupancy rate of the building has never fallen below 85 percent."
+          "example": "The occupancy rate of the building has never fallen below 85 percent.",
+          "meaning_vi": "việc sử dụng, tỷ lệ lấp đầy",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -723,13 +793,17 @@
           "pos": "adjective",
           "word": "occupied",
           "example": "All retail units on the ground floor of the new tower are already fully occupied.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã có người thuê, sử dụng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "unoccupied",
           "example": "The landlord decided to renovate the two unoccupied apartments on the top floor.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bỏ trống, chưa có người ở",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -788,19 +862,25 @@
           "pos": "verb",
           "word": "opt",
           "example": "Tenants may opt to pay their rent electronically through the management portal.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "lựa chọn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "optional",
           "example": "Renters can purchase optional parking passes for fifty dollars per month.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tùy chọn, không bắt buộc",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "optionally",
           "example": "The warehouse space can optionally be divided into two smaller storage units.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tùy ý, nếu muốn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -857,19 +937,25 @@
           "pos": "verb",
           "word": "subject",
           "example": "All building materials are subjected to rigorous fire-safety testing before use.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bắt phải trải qua",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "subject",
           "example": "The subject of commercial rent control will be discussed at tonight's council meeting.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chủ đề, vấn đề",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "subjective",
           "example": "Property appraisals should be based on market data rather than subjective opinions.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mang tính chủ quan",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -919,102 +1005,138 @@
       {
         "word": "apprehend",
         "example": "A child can&#x27;t apprehend the importance of saving for the future.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "hiểu, lĩnh hội",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "apprehension",
         "example": "The air was thick with apprehension as the landlord met with the tenants.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự lo ngại, bất an",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "apprehensive",
         "example": "The tenants were apprehensive about the conditions of their rental agreement.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "lo ngại, thấp thỏm",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "circumstantially",
         "example": "The building owner circumstantially takes money out of the escrow account for emergency repairs.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tùy theo hoàn cảnh",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "circumstance",
         "example": "Because of our circumstances, the rental agent kindly allowed us to get out of our lease early.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "hoàn cảnh, tình thế",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "circumstantial",
         "example": "The judge&#x27;s decision that the tenant was responsible for repairing the damage was based solely on circumstantial evidence.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "gián tiếp, dựa trên tình tiết",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "condition",
         "example": "The president conditioned her acceptance on two factors that were spelled out in the letter of agreement.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "đặt điều kiện cho",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "condition",
         "example": "They decided to rent the space, under the condition that the price would not be raised for the next two years.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "điều kiện",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "conditional",
         "example": "If you give a conditional go-ahead, we will start drawing up the plans.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có điều kiện",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "indicate",
         "example": "As was indicated in the terms of the lease, any changes to the property must be approved by the owners.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "chỉ rõ, cho biết",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "indicator",
         "example": "The state of local schools is a good indicator of the health of the economy.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "chỉ số, dấu hiệu",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "indication",
         "example": "The management team had every indication that the tenants were planning to stay for the near future.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "dấu hiệu, sự cho thấy",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "fluctuate",
         "example": "As interest rates began to fluctuate, many investors became nervous and took their money out of the real estate market.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "dao động, biến động",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "fluctuation",
         "example": "Construction is sensitive to any fluctuations in the economy.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự biến động",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "fluctuating",
         "example": "Any additional fluctuating on prices will not be accepted.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "dao động, thay đổi thất thường",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "occupy",
         "example": "The owner must make sure that the space is in good condition before the tenant occupies it.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sử dụng, cư ngụ tại",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "occupant",
         "example": "Most of the occupants of this building are doctors and lawyers.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "người cư ngụ, sử dụng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "occupancy",
         "example": "The occupancy rate of the building has never fallen below 85 percent.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "việc sử dụng, tỷ lệ lấp đầy",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

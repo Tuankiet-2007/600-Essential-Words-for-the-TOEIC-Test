@@ -26,17 +26,23 @@
         {
           "pos": "verb",
           "word": "appeal",
-          "example": "On a beautiful spring day, a sidewalk café appeals to many people."
+          "example": "On a beautiful spring day, a sidewalk café appeals to many people.",
+          "meaning_vi": "thu hút, hấp dẫn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "appeal",
-          "example": "That restaurant has been around for a long time but it hasn't lost its appeal."
+          "example": "That restaurant has been around for a long time but it hasn't lost its appeal.",
+          "meaning_vi": "sức hấp dẫn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "appealing",
-          "example": "An ice-cold drink seems very appealing on a hot day."
+          "example": "An ice-cold drink seems very appealing on a hot day.",
+          "meaning_vi": "hấp dẫn, lôi cuốn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -68,7 +74,9 @@
           "pos": "adverb",
           "word": "appealingly",
           "example": "The desserts were appealingly displayed in a glass case near the entrance.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách hấp dẫn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -127,13 +135,17 @@
           "pos": "verb",
           "word": "arrive",
           "example": "All banquet guests are requested to arrive at least fifteen minutes early.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đến, tới nơi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "arrival",
           "example": "Upon arrival at the restaurant, please give your name to the hostess.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự đến, lúc đến",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -192,19 +204,25 @@
           "pos": "verb",
           "word": "compromise",
           "example": "The chef refuses to compromise on the freshness of the seafood.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhượng bộ, thỏa hiệp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "compromise",
           "example": "After a long discussion, the committee reached a compromise regarding the catering budget.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự thỏa hiệp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "compromising",
           "example": "Both parties showed a compromising attitude during the contract negotiations.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sẵn sàng thỏa hiệp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -236,17 +254,23 @@
         {
           "pos": "verb",
           "word": "dare",
-          "example": "I prefer familiar things and don't usually dare to try new restaurants."
+          "example": "I prefer familiar things and don't usually dare to try new restaurants.",
+          "meaning_vi": "dám",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "daring",
-          "example": "Kobi had more daring tastes than the rest of his family."
+          "example": "Kobi had more daring tastes than the rest of his family.",
+          "meaning_vi": "táo bạo, mạnh dạn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "daringly",
-          "example": "Jane daringly refused a fork and attempted to eat her entire meal with chopsticks."
+          "example": "Jane daringly refused a fork and attempted to eat her entire meal with chopsticks.",
+          "meaning_vi": "một cách táo bạo",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -277,7 +301,9 @@
           "pos": "noun",
           "word": "dare",
           "example": "Ordering the spiciest curry on the menu was a dare from his colleagues.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "lời thách đố",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -335,25 +361,33 @@
           "pos": "verb",
           "word": "familiarize",
           "example": "New waitstaff must familiarize themselves with the daily specials before their shift.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "làm cho quen, tìm hiểu cho quen",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "familiarity",
           "example": "His familiarity with local wines impressed the dinner guests.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự quen thuộc, am hiểu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "familiar",
           "example": "Please ask a server if you are not familiar with the ingredients in a dish.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "quen thuộc, biết rõ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "familiarly",
           "example": "The restaurant owner greeted his regular patrons familiarly by their first names.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách thân mật",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -412,19 +446,25 @@
           "pos": "verb",
           "word": "guide",
           "example": "The sommelier gladly guided us through the extensive wine list.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hướng dẫn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "guidance",
           "example": "Under the guidance of the head chef, the kitchen staff improved their efficiency.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự hướng dẫn, chỉ dẫn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "guided",
           "example": "Visitors can sign up for a guided tour of the historic winery.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có người hướng dẫn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -482,19 +522,25 @@
           "pos": "verb",
           "word": "major",
           "example": "She majored in hospitality management at university before opening her bistro.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "học chuyên ngành",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "majority",
           "example": "A vast majority of diners prefer making table reservations online.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đa số, phần lớn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "major",
           "example": "High ingredient costs remain a major concern for local restaurant owners.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "lớn, quan trọng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -526,17 +572,23 @@
         {
           "pos": "",
           "word": "mix",
-          "example": "The chef was famous for mixing unfamiliar ingredients."
+          "example": "The chef was famous for mixing unfamiliar ingredients.",
+          "meaning_vi": "trộn, pha trộn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "mixture",
-          "example": "The texture of the vegetable mixture was too lumpy for my taste."
+          "example": "The texture of the vegetable mixture was too lumpy for my taste.",
+          "meaning_vi": "hỗn hợp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "mixable",
-          "example": "Oil and water are not mixable."
+          "example": "Oil and water are not mixable.",
+          "meaning_vi": "có thể trộn lẫn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -569,7 +621,9 @@
           "pos": "adjective",
           "word": "mixed",
           "example": "The new fusion restaurant received mixed reviews from local food critics.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "trái chiều, pha trộn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -601,17 +655,23 @@
         {
           "pos": "verb",
           "word": "rely",
-          "example": "We will rely on the hostess's recommendations."
+          "example": "We will rely on the hostess's recommendations.",
+          "meaning_vi": "dựa vào, tin cậy",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "reliability",
-          "example": "The reliability of deliveries became a problem for the manager."
+          "example": "The reliability of deliveries became a problem for the manager.",
+          "meaning_vi": "độ tin cậy",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "reliable",
-          "example": "Hiring a reliable staff is the first priority for every restaurant manager."
+          "example": "Hiring a reliable staff is the first priority for every restaurant manager.",
+          "meaning_vi": "đáng tin cậy",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -643,7 +703,9 @@
           "pos": "adverb",
           "word": "reliably",
           "example": "We have been reliably informed that the restaurant will open a second branch next month.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "từ nguồn đáng tin cậy",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -701,19 +763,25 @@
           "pos": "noun",
           "word": "subjectivity",
           "example": "To reduce subjectivity in the cooking contest, judges used a strict scoring rubric.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tính chủ quan",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "subjective",
           "example": "Rating the ambiance of a dining room is always a somewhat subjective process.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mang tính chủ quan",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "subjectively",
           "example": "Tasting notes are often judged subjectively by each individual diner.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo cảm nhận chủ quan",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -774,25 +842,33 @@
           "pos": "verb",
           "word": "secure",
           "example": "You should call at least two weeks ahead to secure a table for Saturday night.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "giữ được, bảo đảm có được",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "security",
           "example": "For security reasons, all back doors of the restaurant must remain locked at night.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "an ninh, sự an toàn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "secure",
           "example": "Online payments made through our restaurant website are completely secure.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "an toàn, bảo mật",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "securely",
           "example": "Make sure the lids are securely fastened before packing the takeout containers.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chắc chắn, chặt chẽ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -824,17 +900,23 @@
         {
           "pos": "verb",
           "word": "suggest",
-          "example": "Can I suggest a good wine to go with the entrée?"
+          "example": "Can I suggest a good wine to go with the entrée?",
+          "meaning_vi": "gợi ý, đề xuất",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "suggestion",
-          "example": "Clark asked his boss for a suggestion for a good place to eat."
+          "example": "Clark asked his boss for a suggestion for a good place to eat.",
+          "meaning_vi": "lời gợi ý, đề xuất",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "suggestible",
-          "example": "The patrons were in a suggestible mood, and were easily convinced to have dessert."
+          "example": "The patrons were in a suggestible mood, and were easily convinced to have dessert.",
+          "meaning_vi": "dễ bị tác động, thuyết phục",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -867,7 +949,9 @@
           "pos": "adjective",
           "word": "suggestive",
           "example": "The aroma coming from the kitchen was suggestive of freshly baked bread and herbs.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "gợi liên tưởng đến",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -917,85 +1001,115 @@
       {
         "word": "appeal",
         "example": "On a beautiful spring day, a sidewalk café appeals to many people.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "thu hút, hấp dẫn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "appeal",
         "example": "That restaurant has been around for a long time but it hasn't lost its appeal.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sức hấp dẫn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "appealing",
         "example": "An ice-cold drink seems very appealing on a hot day.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "hấp dẫn, lôi cuốn",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "dare",
         "example": "I prefer familiar things and don't usually dare to try new restaurants.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "dám",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "daring",
         "example": "Kobi had more daring tastes than the rest of his family.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "táo bạo, mạnh dạn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "daringly",
         "example": "Jane daringly refused a fork and attempted to eat her entire meal with chopsticks.",
-        "pos": "adverb"
+        "pos": "adverb",
+        "meaning_vi": "một cách táo bạo",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "mix",
         "example": "The chef was famous for mixing unfamiliar ingredients.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "trộn, pha trộn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "mixture",
         "example": "The texture of the vegetable mixture was too lumpy for my taste.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "hỗn hợp",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "mixable",
         "example": "Oil and water are not mixable.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có thể trộn lẫn",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "rely",
         "example": "We will rely on the hostess's recommendations.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "dựa vào, tin cậy",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "reliability",
         "example": "The reliability of deliveries became a problem for the manager.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "độ tin cậy",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "reliable",
         "example": "Hiring a reliable staff is the first priority for every restaurant manager.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đáng tin cậy",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "suggest",
         "example": "Can I suggest a good wine to go with the entrée?",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "gợi ý, đề xuất",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "suggestion",
         "example": "Clark asked his boss for a suggestion for a good place to eat.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "lời gợi ý, đề xuất",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "suggestible",
         "example": "The patrons were in a suggestible mood, and were easily convinced to have dessert.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "dễ bị tác động, thuyết phục",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

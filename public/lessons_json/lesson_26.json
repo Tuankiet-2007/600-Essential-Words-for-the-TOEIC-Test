@@ -51,19 +51,25 @@
           "pos": "noun",
           "word": "adjacency",
           "example": "The adjacency of the warehouse to the main highway reduces shipping times.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự liền kề",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "adjacent",
           "example": "Conference participants may park in the lot adjacent to the hotel entrance.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "liền kề",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "adjacently",
           "example": "The two sister departments are located adjacently on the fourth floor.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ở sát cạnh nhau",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -95,17 +101,23 @@
         {
           "pos": "verb",
           "word": "collaborate",
-          "example": "If we collaborate on this project, you will be sure to receive credit."
+          "example": "If we collaborate on this project, you will be sure to receive credit.",
+          "meaning_vi": "cộng tác, hợp tác",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "collaboration",
-          "example": "Collaboration often brings about results that no one could have predicted."
+          "example": "Collaboration often brings about results that no one could have predicted.",
+          "meaning_vi": "sự hợp tác",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "collaborative",
-          "example": "The new project is a collaborative effort among several departments."
+          "example": "The new project is a collaborative effort among several departments.",
+          "meaning_vi": "có sự hợp tác",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -139,13 +151,17 @@
           "pos": "noun",
           "word": "collaborator",
           "example": "Dr. Patel thanked her international collaborators for their contributions to the study.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cộng sự",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "collaboratively",
           "example": "The engineering and design teams worked collaboratively to develop the prototype.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo cách hợp tác",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -177,17 +193,23 @@
         {
           "pos": "verb",
           "word": "concentrate",
-          "example": "Some people find it difficult to concentrate when there is a lot of noise and activity around them."
+          "example": "Some people find it difficult to concentrate when there is a lot of noise and activity around them.",
+          "meaning_vi": "tập trung chú ý",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "concentration",
-          "example": "The concentration of a large percentage of the company&#x27;s funds in just a few areas left several departments underfunded."
+          "example": "The concentration of a large percentage of the company&#x27;s funds in just a few areas left several departments underfunded.",
+          "meaning_vi": "sự tập trung, dồn vốn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "concentrated",
-          "example": "With some concentrated effort, we should be able to finish this work by the deadline."
+          "example": "With some concentrated effort, we should be able to finish this work by the deadline.",
+          "meaning_vi": "tập trung cao độ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -220,7 +242,9 @@
           "pos": "adjective",
           "word": "concentrated",
           "example": "Through a concentrated marketing effort, the firm doubled its regional sales.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tập trung cao độ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -276,19 +300,25 @@
           "pos": "verb",
           "word": "conduce",
           "example": "Flexible working hours often conduce to higher employee morale and retention.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "góp phần dẫn đến",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "conduciveness",
           "example": "The architect evaluated the building's layout for its conduciveness to teamwork.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tính thuận lợi, hỗ trợ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "conducive",
           "example": "Proper lighting and ergonomic chairs create an environment conducive to high productivity.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tạo điều kiện thuận lợi",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -320,17 +350,23 @@
         {
           "pos": "",
           "word": "disrupt",
-          "example": "Try not to disrupt the meeting being held in the sales department."
+          "example": "Try not to disrupt the meeting being held in the sales department.",
+          "meaning_vi": "làm gián đoạn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "disruption",
-          "example": "I&#x27;m sorry for the disruption, but this phone call is very important."
+          "example": "I&#x27;m sorry for the disruption, but this phone call is very important.",
+          "meaning_vi": "sự gián đoạn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "disruptive",
-          "example": "Having to temporarily move the offices proved to be very disruptive and sales decreased during that quarter."
+          "example": "Having to temporarily move the offices proved to be very disruptive and sales decreased during that quarter.",
+          "meaning_vi": "gây xáo trộn, gián đoạn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -363,7 +399,9 @@
           "pos": "adverb",
           "word": "disruptively",
           "example": "The construction crew was asked not to work disruptively during normal business hours.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo cách gây gián đoạn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -421,13 +459,17 @@
           "pos": "verb",
           "word": "hamper",
           "example": "Outdated computer systems continue to hamper the efficiency of our customer support team.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cản trở",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "hampered",
           "example": "Rescue operations were severely hampered by heavy snowfall and strong winds.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bị cản trở",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -459,17 +501,23 @@
         {
           "pos": "noun",
           "word": "inconsiderateness",
-          "example": "The inconsiderateness of many of the customers caused several employees to quit their jobs."
+          "example": "The inconsiderateness of many of the customers caused several employees to quit their jobs.",
+          "meaning_vi": "sự thiếu ý tứ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "inconsiderate",
-          "example": "Would it be inconsiderate to ask to use your office while you are away?"
+          "example": "Would it be inconsiderate to ask to use your office while you are away?",
+          "meaning_vi": "thiếu ý tứ, không biết nghĩ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "inconsiderately",
-          "example": "John inconsiderately looked through his coworker&#x27;s mail before putting it on his desk."
+          "example": "John inconsiderately looked through his coworker&#x27;s mail before putting it on his desk.",
+          "meaning_vi": "một cách thiếu ý tứ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -502,7 +550,9 @@
           "pos": "verb",
           "word": "consider",
           "example": "Employees should always consider how their actions affect coworkers in shared spaces.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cân nhắc, suy xét",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -562,13 +612,17 @@
           "pos": "verb",
           "word": "lobby",
           "example": "The chamber of commerce continues to lobby for lower corporate tax rates.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "vận động hành lang",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "lobbyist",
           "example": "An industry lobbyist met with the committee to discuss the proposed trade bill.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người vận động hành lang",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -627,19 +681,25 @@
           "pos": "verb",
           "word": "move",
           "example": "The accounting department will move to the fifth floor next Monday.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chuyển, di dời",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "movement",
           "example": "Sensors in the warehouse detect any movement after business hours.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự chuyển động",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "movable",
           "example": "The conference room features movable partitions to accommodate groups of various sizes.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể di chuyển",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -696,19 +756,25 @@
           "pos": "verb",
           "word": "open",
           "example": "The retail chain plans to open five new stores in the metropolitan area.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mở, khai trương",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "openness",
           "example": "The CEO's openness to employee feedback helped improve workplace morale.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự cởi mở",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "openly",
           "example": "Team members are encouraged to discuss project challenges openly during weekly meetings.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách cởi mở, thẳng thắn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -740,17 +806,23 @@
         {
           "pos": "verb",
           "word": "opt",
-          "example": "When we moved offices, I opted for the one without a window."
+          "example": "When we moved offices, I opted for the one without a window.",
+          "meaning_vi": "lựa chọn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "option",
-          "example": "Presented with several options, we chose the one that required the least amount of effort."
+          "example": "Presented with several options, we chose the one that required the least amount of effort.",
+          "meaning_vi": "lựa chọn, phương án",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "optional",
-          "example": "Attendance at tomorrow&#x27;s meeting is optional for the people working in this department."
+          "example": "Attendance at tomorrow&#x27;s meeting is optional for the people working in this department.",
+          "meaning_vi": "tùy chọn, không bắt buộc",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -785,7 +857,9 @@
           "pos": "adverb",
           "word": "optionally",
           "example": "Conference attendees may optionally register for the evening networking banquet.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tùy ý, nếu muốn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -817,17 +891,23 @@
         {
           "pos": "verb",
           "word": "scrutinize",
-          "example": "The auditor carefully scrutinized the financial records."
+          "example": "The auditor carefully scrutinized the financial records.",
+          "meaning_vi": "xem xét kỹ lưỡng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "scrutiny",
-          "example": "Employees under constant scrutiny tend to perform worse than those employees who have more freedom."
+          "example": "Employees under constant scrutiny tend to perform worse than those employees who have more freedom.",
+          "meaning_vi": "sự giám sát, xem xét kỹ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "inscrutable",
-          "example": "You can never tell what she is thinking, since her facial expressions are inscrutable."
+          "example": "You can never tell what she is thinking, since her facial expressions are inscrutable.",
+          "meaning_vi": "khó hiểu, khó đoán",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -860,7 +940,9 @@
           "pos": "adverb",
           "word": "inscrutably",
           "example": "The chief negotiator smiled inscrutably without revealing whether he would accept the offer.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách khó đoán",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -910,102 +992,138 @@
       {
         "word": "collaborate",
         "example": "If we collaborate on this project, you will be sure to receive credit.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "cộng tác, hợp tác",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "collaboration",
         "example": "Collaboration often brings about results that no one could have predicted.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự hợp tác",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "collaborative",
         "example": "The new project is a collaborative effort among several departments.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có sự hợp tác",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "concentrate",
         "example": "Some people find it difficult to concentrate when there is a lot of noise and activity around them.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "tập trung chú ý",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "concentration",
         "example": "The concentration of a large percentage of the company&#x27;s funds in just a few areas left several departments underfunded.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự tập trung, dồn vốn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "concentrated",
         "example": "With some concentrated effort, we should be able to finish this work by the deadline.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tập trung cao độ",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "disrupt",
         "example": "Try not to disrupt the meeting being held in the sales department.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "làm gián đoạn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "disruption",
         "example": "I&#x27;m sorry for the disruption, but this phone call is very important.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự gián đoạn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "disruptive",
         "example": "Having to temporarily move the offices proved to be very disruptive and sales decreased during that quarter.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "gây xáo trộn, gián đoạn",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "inconsiderateness",
         "example": "The inconsiderateness of many of the customers caused several employees to quit their jobs.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự thiếu ý tứ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "inconsiderate",
         "example": "Would it be inconsiderate to ask to use your office while you are away?",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "thiếu ý tứ, không biết nghĩ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "inconsiderately",
         "example": "John inconsiderately looked through his coworker&#x27;s mail before putting it on his desk.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách thiếu ý tứ",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "opt",
         "example": "When we moved offices, I opted for the one without a window.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "lựa chọn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "option",
         "example": "Presented with several options, we chose the one that required the least amount of effort.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "lựa chọn, phương án",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "optional",
         "example": "Attendance at tomorrow&#x27;s meeting is optional for the people working in this department.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "tùy chọn, không bắt buộc",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "scrutinize",
         "example": "The auditor carefully scrutinized the financial records.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "xem xét kỹ lưỡng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "scrutiny",
         "example": "Employees under constant scrutiny tend to perform worse than those employees who have more freedom.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự giám sát, xem xét kỹ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "inscrutable",
         "example": "You can never tell what she is thinking, since her facial expressions are inscrutable.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "khó hiểu, khó đoán",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

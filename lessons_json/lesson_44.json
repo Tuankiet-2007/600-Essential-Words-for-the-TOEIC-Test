@@ -51,19 +51,25 @@
           "pos": "verb",
           "word": "acquire",
           "example": "The national gallery hopes to acquire several rare Renaissance drawings.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mua được; có được",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "acquisition",
           "example": "The museum's latest acquisition will go on display in the main rotunda next month.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hiện vật mới thu nhận",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "acquired",
           "example": "Appreciating abstract modern sculpture is often described as an acquired taste.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có được qua làm quen, rèn luyện",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -95,17 +101,23 @@
         {
           "pos": "",
           "word": "admire",
-          "example": "People from all around the world visit the museum to admire the great works of art on display."
+          "example": "People from all around the world visit the museum to admire the great works of art on display.",
+          "meaning_vi": "chiêm ngưỡng; ngưỡng mộ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "admiration",
-          "example": "I have great admiration for anyone who can create art."
+          "example": "I have great admiration for anyone who can create art.",
+          "meaning_vi": "sự ngưỡng mộ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "admired",
-          "example": "Monet is one of the most admired artists of the Impressionist movement."
+          "example": "Monet is one of the most admired artists of the Impressionist movement.",
+          "meaning_vi": "được ngưỡng mộ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -136,19 +148,25 @@
           "pos": "noun",
           "word": "admirer",
           "example": "Hundreds of admirers gathered at the gallery opening to meet the painter.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người ngưỡng mộ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "admirable",
           "example": "The restoration team did an admirable job repairing the ancient fresco.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đáng khâm phục",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "admirably",
           "example": "The young curator handled the complex international loan agreement admirably.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách đáng khâm phục",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -180,17 +198,23 @@
         {
           "pos": "",
           "word": "collect",
-          "example": "The enthusiast began to collect Shaker furniture in the 1960s."
+          "example": "The enthusiast began to collect Shaker furniture in the 1960s.",
+          "meaning_vi": "sưu tầm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "collection",
-          "example": "My parents&#x27; collection of crystal had outgrown their dining room cupboard."
+          "example": "My parents&#x27; collection of crystal had outgrown their dining room cupboard.",
+          "meaning_vi": "bộ sưu tập",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "collector",
-          "example": "The avid collector spent weekends at estate sales looking for rare art objects."
+          "example": "The avid collector spent weekends at estate sales looking for rare art objects.",
+          "meaning_vi": "nhà sưu tầm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -223,13 +247,17 @@
           "pos": "adjective",
           "word": "collective",
           "example": "Organizing the retrospective exhibition required a collective effort from the entire staff.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tập thể; chung",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "collectively",
           "example": "The donated paintings are collectively valued at more than ten million dollars.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tính chung; cùng nhau",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -261,17 +289,23 @@
         {
           "pos": "",
           "word": "criticize",
-          "example": "The sculptor was criticized for his lack of perspective."
+          "example": "The sculptor was criticized for his lack of perspective.",
+          "meaning_vi": "phê bình; chỉ trích",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "critic",
-          "example": "The art critic gave the show a poor review, which saddened the exhibition team."
+          "example": "The art critic gave the show a poor review, which saddened the exhibition team.",
+          "meaning_vi": "nhà phê bình",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "criticism",
-          "example": "The writer&#x27;s elegant essays on the use of light in Flemish painting were landmarks in art criticism."
+          "example": "The writer&#x27;s elegant essays on the use of light in Flemish painting were landmarks in art criticism.",
+          "meaning_vi": "sự phê bình nghệ thuật",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -305,13 +339,17 @@
           "pos": "adjective",
           "word": "critical",
           "example": "The exhibition was a critical success and attracted record crowds.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thuộc giới phê bình",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "critically",
           "example": "The gallery features works by several critically acclaimed contemporary sculptors.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo đánh giá của giới phê bình",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -370,25 +408,33 @@
           "pos": "verb",
           "word": "express",
           "example": "Many visitors used the guest book to express their appreciation for the free tour.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bày tỏ; thể hiện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "expression",
           "example": "The mural is a powerful expression of the community's cultural heritage.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự thể hiện; biểu đạt",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "expressive",
           "example": "The portrait is famous for the subject's remarkably expressive eyes.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "giàu biểu cảm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "expressively",
           "example": "The guide spoke expressively about the history behind each artifact.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách giàu biểu cảm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -447,19 +493,25 @@
           "pos": "verb",
           "word": "fashion",
           "example": "Ancient artisans fashioned delicate jewelry out of gold and turquoise.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chế tác; tạo hình",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "fashionable",
           "example": "The gallery is located in a fashionable district known for its boutiques and cafés.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sành điệu; thời thượng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "fashionably",
           "example": "Many guests arrived fashionably dressed for the charity art auction.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách hợp thời trang",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -517,19 +569,25 @@
           "pos": "noun",
           "word": "leisure",
           "example": "Please review the exhibition catalog at your leisure and let us know your selections.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thời gian rảnh rỗi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "leisurely",
           "example": "Visitors can enjoy a leisurely stroll through the museum's sculpture garden.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thong thả; thư thái",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "leisurely",
           "example": "We walked leisurely from gallery to gallery, admiring the watercolor paintings.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách thong thả",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -561,17 +619,23 @@
         {
           "pos": "verb",
           "word": "respond",
-          "example": "When Mr. Hon did not respond to the invitation to the opening, we assumed he was not able to attend."
+          "example": "When Mr. Hon did not respond to the invitation to the opening, we assumed he was not able to attend.",
+          "meaning_vi": "trả lời; phản hồi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "response",
-          "example": "The response to the request for assistance was overwhelming."
+          "example": "The response to the request for assistance was overwhelming.",
+          "meaning_vi": "sự hưởng ứng; phản hồi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "responsive",
-          "example": "The director was not responsive to any of the staff&#x27;s suggestions, which made them both annoyed and anxious."
+          "example": "The director was not responsive to any of the staff&#x27;s suggestions, which made them both annoyed and anxious.",
+          "meaning_vi": "sẵn lòng lắng nghe và đáp ứng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -605,13 +669,17 @@
           "pos": "noun",
           "word": "respondent",
           "example": "Over eighty percent of survey respondents said they would visit the museum again.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người trả lời khảo sát",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "responsively",
           "example": "The customer service desk acted responsively to resolve the ticketing issue.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách nhanh nhạy, đáp ứng kịp thời",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -643,17 +711,23 @@
         {
           "pos": "",
           "word": "schedule",
-          "example": "The museum has scheduled a lecture series to accompany the special exhibit."
+          "example": "The museum has scheduled a lecture series to accompany the special exhibit.",
+          "meaning_vi": "lên lịch",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "schedule",
-          "example": "Several local artists are featured on the gallery&#x27;s winter schedule."
+          "example": "Several local artists are featured on the gallery&#x27;s winter schedule.",
+          "meaning_vi": "lịch chương trình",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "scheduled",
-          "example": "There are several scheduled events at the museum this weekend."
+          "example": "There are several scheduled events at the museum this weekend.",
+          "meaning_vi": "đã được lên lịch",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -688,13 +762,17 @@
           "pos": "verb",
           "word": "reschedule",
           "example": "Due to the storm, the outdoor sculpture tour had to be rescheduled for Sunday.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đổi lịch",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "unscheduled",
           "example": "The gallery closed briefly in the afternoon for an unscheduled security inspection.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "không có trong lịch",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -753,19 +831,25 @@
           "pos": "verb",
           "word": "signify",
           "example": "The olive branch in the painting signifies peace and harmony.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tượng trưng cho; biểu thị",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "significance",
           "example": "The tour guide explained the cultural significance of the ceremonial masks.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ý nghĩa; tầm quan trọng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "significantly",
           "example": "Weekend attendance at the museum has increased significantly since admission became free.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đáng kể",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -797,17 +881,23 @@
         {
           "pos": "",
           "word": "specialize",
-          "example": "The art student decided to specialize in French and English paintings of the 1860s."
+          "example": "The art student decided to specialize in French and English paintings of the 1860s.",
+          "meaning_vi": "chuyên về",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "specialist",
-          "example": "The curator is a specialist in native Caribbean art."
+          "example": "The curator is a specialist in native Caribbean art.",
+          "meaning_vi": "chuyên gia",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "specialized",
-          "example": "The museum hired specialized personnel to adjust the humidity and light for the display of ancient books."
+          "example": "The museum hired specialized personnel to adjust the humidity and light for the display of ancient books.",
+          "meaning_vi": "có chuyên môn chuyên biệt",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -837,13 +927,17 @@
           "pos": "noun",
           "word": "specialization",
           "example": "Her area of specialization is eighteenth-century European porcelain.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "lĩnh vực chuyên môn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "specialty",
           "example": "Restoring damaged oil canvases is the conservation lab's specialty.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sở trường; chuyên môn đặc thù",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -903,13 +997,17 @@
           "pos": "noun",
           "word": "spectrum",
           "example": "The festival attracts sponsors from across the entire spectrum of local businesses.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "toàn bộ phạm vi; các loại",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "spectral",
           "example": "Conservators used spectral imaging to reveal hidden sketches beneath the paint.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thuộc quang phổ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -959,102 +1057,138 @@
       {
         "word": "admire",
         "example": "People from all around the world visit the museum to admire the great works of art on display.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "chiêm ngưỡng; ngưỡng mộ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "admiration",
         "example": "I have great admiration for anyone who can create art.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự ngưỡng mộ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "admired",
         "example": "Monet is one of the most admired artists of the Impressionist movement.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "được ngưỡng mộ",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "collect",
         "example": "The enthusiast began to collect Shaker furniture in the 1960s.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sưu tầm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "collection",
         "example": "My parents&#x27; collection of crystal had outgrown their dining room cupboard.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "bộ sưu tập",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "collector",
         "example": "The avid collector spent weekends at estate sales looking for rare art objects.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "nhà sưu tầm",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "criticize",
         "example": "The sculptor was criticized for his lack of perspective.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "phê bình; chỉ trích",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "critic",
         "example": "The art critic gave the show a poor review, which saddened the exhibition team.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "nhà phê bình",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "criticism",
         "example": "The writer&#x27;s elegant essays on the use of light in Flemish painting were landmarks in art criticism.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự phê bình nghệ thuật",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "respond",
         "example": "When Mr. Hon did not respond to the invitation to the opening, we assumed he was not able to attend.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "trả lời; phản hồi",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "response",
         "example": "The response to the request for assistance was overwhelming.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự hưởng ứng; phản hồi",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "responsive",
         "example": "The director was not responsive to any of the staff&#x27;s suggestions, which made them both annoyed and anxious.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sẵn lòng lắng nghe và đáp ứng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "schedule",
         "example": "The museum has scheduled a lecture series to accompany the special exhibit.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "lên lịch",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "schedule",
         "example": "Several local artists are featured on the gallery&#x27;s winter schedule.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "lịch chương trình",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "scheduled",
         "example": "There are several scheduled events at the museum this weekend.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đã được lên lịch",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "specialize",
         "example": "The art student decided to specialize in French and English paintings of the 1860s.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "chuyên về",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "specialist",
         "example": "The curator is a specialist in native Caribbean art.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "chuyên gia",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "specialized",
         "example": "The museum hired specialized personnel to adjust the humidity and light for the display of ancient books.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có chuyên môn chuyên biệt",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

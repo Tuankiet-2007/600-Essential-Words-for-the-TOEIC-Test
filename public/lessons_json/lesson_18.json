@@ -26,17 +26,23 @@
         {
           "pos": "noun",
           "word": "accuracy",
-          "example": "His firm was well known for its accuracy in predicting how long shipping would take."
+          "example": "His firm was well known for its accuracy in predicting how long shipping would take.",
+          "meaning_vi": "độ chính xác",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "accurate",
-          "example": "Don’t forget to keep accurate records; you will need them when you have your annual inventory."
+          "example": "Don’t forget to keep accurate records; you will need them when you have your annual inventory.",
+          "meaning_vi": "chính xác",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "accurately",
-          "example": "The in-depth shipping records made it possible for Max to accurately estimate when the mixing bowls would arrive in the store."
+          "example": "The in-depth shipping records made it possible for Max to accurately estimate when the mixing bowls would arrive in the store.",
+          "meaning_vi": "một cách chính xác",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -64,7 +70,9 @@
           "pos": "adjective",
           "word": "inaccurate",
           "example": "An inaccurate shipping address caused a three-day delivery delay.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "không chính xác",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -121,19 +129,25 @@
           "pos": "verb",
           "word": "carry",
           "example": "Our hardware store carries a full line of electrical tools.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có bán, kinh doanh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "carrier",
           "example": "Packages shipped via our express carrier are guaranteed to arrive by noon.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đơn vị vận chuyển",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "carriage",
           "example": "The contract stipulates that carriage charges are paid by the buyer.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc vận chuyển hàng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -192,19 +206,25 @@
           "pos": "verb",
           "word": "catalog",
           "example": "The archivist spent three months cataloging the museum's new acquisitions.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "lập danh mục",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "catalog",
           "example": "You can view our complete spring catalog on our website.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "danh mục hàng hóa",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "cataloged",
           "example": "All cataloged spare parts are stored in the north warehouse.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã được lập danh mục",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -236,17 +256,23 @@
         {
           "pos": "verb",
           "word": "fulfill",
-          "example": "We take pride in fulfilling customers' unusual requests."
+          "example": "We take pride in fulfilling customers' unusual requests.",
+          "meaning_vi": "đáp ứng, thực hiện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "fulfilling",
-          "example": "Fulfilling the requirement of the contract will necessitate hiring extra staff."
+          "example": "Fulfilling the requirement of the contract will necessitate hiring extra staff.",
+          "meaning_vi": "việc thực hiện, đáp ứng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "fulfillment",
-          "example": "Fulfillment of duties can be tedious, but job satisfaction demands attention to detail."
+          "example": "Fulfillment of duties can be tedious, but job satisfaction demands attention to detail.",
+          "meaning_vi": "sự hoàn thành",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -276,7 +302,9 @@
           "pos": "adjective",
           "word": "fulfilled",
           "example": "All fulfilled orders are scanned before leaving the loading dock.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã được xử lý hoàn tất",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -308,17 +336,23 @@
         {
           "pos": "",
           "word": "integral",
-          "example": "This paperwork is integral to our ability to track packages."
+          "example": "This paperwork is integral to our ability to track packages.",
+          "meaning_vi": "thiết yếu, không thể thiếu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "verb",
           "word": "integrate",
-          "example": "The new foreman is unable to integrate information about shipping perishables."
+          "example": "The new foreman is unable to integrate information about shipping perishables.",
+          "meaning_vi": "tổng hợp, kết hợp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "integration",
-          "example": "His full integration into the team could take weeks."
+          "example": "His full integration into the team could take weeks.",
+          "meaning_vi": "sự hòa nhập",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -350,7 +384,9 @@
           "pos": "adverb",
           "word": "integrally",
           "example": "Quality control is integrally linked to customer satisfaction.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách mật thiết",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -408,19 +444,25 @@
           "pos": "verb",
           "word": "inventory",
           "example": "Warehouse clerks inventory all incoming shipments every evening.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "kiểm kê",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "inventory",
           "example": "Our computerized system tracks inventory across twelve retail locations.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hàng tồn kho",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "inventoried",
           "example": "All inventoried items are tagged with a barcode sticker.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã được kiểm kê",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -452,17 +494,23 @@
         {
           "pos": "verb",
           "word": "minimize",
-          "example": "To minimize any potential risk of injury, all workers must wear closed-toed shoes in the stockroom."
+          "example": "To minimize any potential risk of injury, all workers must wear closed-toed shoes in the stockroom.",
+          "meaning_vi": "giảm thiểu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "minimal",
-          "example": "Luckily, the leak from the roof did only minimal damage to the inventory in the stockroom."
+          "example": "Luckily, the leak from the roof did only minimal damage to the inventory in the stockroom.",
+          "meaning_vi": "rất nhỏ, tối thiểu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "minimum",
-          "example": "The minimum is $50; orders of less will be assessed a shipping charge."
+          "example": "The minimum is $50; orders of less will be assessed a shipping charge.",
+          "meaning_vi": "mức tối thiểu",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -490,7 +538,9 @@
           "pos": "adverb",
           "word": "minimally",
           "example": "Production was only minimally affected by the brief power outage.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ở mức rất nhỏ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -548,25 +598,33 @@
           "pos": "verb",
           "word": "hand",
           "example": "Please hand your completed customs form to the agent at the gate.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đưa, trao tận tay",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "hand",
           "example": "All fragile parcels are inspected by hand before shipping.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bàn tay; bằng tay",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "handy",
           "example": "Keep your tracking number handy in case you need to check your delivery status.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sẵn trong tầm tay",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "handily",
           "example": "The compact label printer fits handily on any shipping desk.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách tiện lợi, gọn gàng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -624,19 +682,25 @@
           "pos": "verb",
           "word": "remember",
           "example": "Please remember to sign the delivery confirmation receipt.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhớ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "remembrance",
           "example": "A plaque was placed in the lobby in remembrance of the company's founder.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự tưởng nhớ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "memorable",
           "example": "The gala dinner was a memorable conclusion to the annual trade convention.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đáng nhớ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -668,17 +732,23 @@
         {
           "pos": "",
           "word": "ship",
-          "example": "We ship all orders within 24 hours of your phone call."
+          "example": "We ship all orders within 24 hours of your phone call.",
+          "meaning_vi": "gửi hàng, vận chuyển",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "shipper",
-          "example": "We can rely on our shipper to pack large, fragile items carefully."
+          "example": "We can rely on our shipper to pack large, fragile items carefully.",
+          "meaning_vi": "đơn vị gửi, vận chuyển hàng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "shipment",
-          "example": "The shipment from the supplier was short a number of items, so we complained."
+          "example": "The shipment from the supplier was short a number of items, so we complained.",
+          "meaning_vi": "lô hàng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -712,7 +782,9 @@
           "pos": "noun",
           "word": "shipping",
           "example": "Orders over one hundred dollars qualify for complimentary express shipping.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc vận chuyển hàng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -744,17 +816,23 @@
         {
           "pos": "",
           "word": "sufficiently",
-          "example": "If you are sufficiently certain that the crate is in this room, I will check them one by one."
+          "example": "If you are sufficiently certain that the crate is in this room, I will check them one by one.",
+          "meaning_vi": "đủ mức, đủ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "sufficient",
-          "example": "The postage on that box is not sufficient to get it to its destination."
+          "example": "The postage on that box is not sufficient to get it to its destination.",
+          "meaning_vi": "đầy đủ, đủ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "suffice",
-          "example": "Will this much Styrofoam suffice?"
+          "example": "Will this much Styrofoam suffice?",
+          "meaning_vi": "đủ dùng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -786,13 +864,17 @@
           "pos": "noun",
           "word": "sufficiency",
           "example": "The audit confirmed the sufficiency of the bank's cash reserves.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự đầy đủ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "insufficient",
           "example": "The order could not be processed due to insufficient stock in the warehouse.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "không đủ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -851,19 +933,25 @@
           "pos": "verb",
           "word": "supply",
           "example": "Our company supplies packaging materials to over fifty factories.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cung cấp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "supplier",
           "example": "We are negotiating with a new supplier to lower our raw material costs.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhà cung cấp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "supplies",
           "example": "Please check the cabinet before ordering additional cleaning supplies.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "vật tư, đồ dùng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -913,102 +1001,138 @@
       {
         "word": "accuracy",
         "example": "His firm was well known for its accuracy in predicting how long shipping would take.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "độ chính xác",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "accurate",
         "example": "Don’t forget to keep accurate records; you will need them when you have your annual inventory.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "chính xác",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "accurately",
         "example": "The in-depth shipping records made it possible for Max to accurately estimate when the mixing bowls would arrive in the store.",
-        "pos": "adverb"
+        "pos": "adverb",
+        "meaning_vi": "một cách chính xác",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "fulfill",
         "example": "We take pride in fulfilling customers' unusual requests.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "đáp ứng, thực hiện",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "fulfilling",
         "example": "Fulfilling the requirement of the contract will necessitate hiring extra staff.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "việc thực hiện, đáp ứng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "fulfillment",
         "example": "Fulfillment of duties can be tedious, but job satisfaction demands attention to detail.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự hoàn thành",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "minimize",
         "example": "To minimize any potential risk of injury, all workers must wear closed-toed shoes in the stockroom.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "giảm thiểu",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "minimal",
         "example": "Luckily, the leak from the roof did only minimal damage to the inventory in the stockroom.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "rất nhỏ, tối thiểu",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "minimum",
         "example": "The minimum is $50; orders of less will be assessed a shipping charge.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "mức tối thiểu",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "ship",
         "example": "We ship all orders within 24 hours of your phone call.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "gửi hàng, vận chuyển",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "shipper",
         "example": "We can rely on our shipper to pack large, fragile items carefully.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đơn vị gửi, vận chuyển hàng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "shipment",
         "example": "The shipment from the supplier was short a number of items, so we complained.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "lô hàng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "sufficiently",
         "example": "If you are sufficiently certain that the crate is in this room, I will check them one by one.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đủ mức, đủ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "sufficient",
         "example": "The postage on that box is not sufficient to get it to its destination.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đầy đủ, đủ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "suffice",
         "example": "Will this much Styrofoam suffice?",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đủ dùng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "integral",
         "example": "This paperwork is integral to our ability to track packages.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thiết yếu, không thể thiếu",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "integrate",
         "example": "The new foreman is unable to integrate information about shipping perishables.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "tổng hợp, kết hợp",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "integration",
         "example": "His full integration into the team could take weeks.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự hòa nhập",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

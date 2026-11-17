@@ -26,12 +26,16 @@
         {
           "pos": "",
           "word": "adhere",
-          "example": "The chairperson asked us to adhere to the items on the agenda."
+          "example": "The chairperson asked us to adhere to the items on the agenda.",
+          "meaning_vi": "tuân thủ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "adherence",
-          "example": "Your adherence to these guidelines would be appreciated."
+          "example": "Your adherence to these guidelines would be appreciated.",
+          "meaning_vi": "sự tuân thủ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -62,13 +66,17 @@
           "pos": "noun",
           "word": "adherent",
           "example": "The new quality director is a strict adherent of international manufacturing standards.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người tuân thủ, người ủng hộ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "adherent",
           "example": "The protective coating is highly adherent to both metal and plastic surfaces.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bám dính tốt",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -126,7 +134,9 @@
           "pos": "noun",
           "word": "agendas",
           "example": "Copies of the meeting agendas were distributed to all board members on Monday morning.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "các chương trình nghị sự",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -185,13 +195,17 @@
           "pos": "verb",
           "word": "bring",
           "example": "Hiring an experienced marketing director will bring fresh energy to the division.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mang lại",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "upbringing",
           "example": "Her international upbringing helped her communicate effortlessly with overseas clients.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự nuôi dạy",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -223,17 +237,23 @@
         {
           "pos": "",
           "word": "conclude",
-          "example": "To conclude, we must all focus on the year ahead of us and the challenges that we will face."
+          "example": "To conclude, we must all focus on the year ahead of us and the challenges that we will face.",
+          "meaning_vi": "kết luận; kết thúc",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "conclusion",
-          "example": "Unfortunately, the conclusion of the meeting was that they needed to downsize their workforce."
+          "example": "Unfortunately, the conclusion of the meeting was that they needed to downsize their workforce.",
+          "meaning_vi": "kết luận",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "conclusive",
-          "example": "There is no conclusive evidence to back up the report."
+          "example": "There is no conclusive evidence to back up the report.",
+          "meaning_vi": "mang tính quyết định, xác thực",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -266,7 +286,9 @@
           "pos": "adverb",
           "word": "conclusively",
           "example": "The laboratory tests proved conclusively that the new material is fire-resistant.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách xác thực, dứt khoát",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -324,13 +346,17 @@
           "pos": "verb",
           "word": "go",
           "example": "Everything is expected to go smoothly at tomorrow's shareholder meeting.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "diễn ra",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "go-ahead",
           "example": "Once we receive the official go-ahead from city council, construction will begin immediately.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự cho phép tiến hành",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -389,13 +415,17 @@
           "pos": "noun",
           "word": "goals",
           "example": "Setting clear departmental goals helps employees prioritize their daily tasks.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "các mục tiêu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "goal-oriented",
           "example": "We are looking for a dynamic, goal-oriented sales manager to lead our new branch.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hướng đến mục tiêu",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -427,17 +457,23 @@
         {
           "pos": "",
           "word": "lengthen",
-          "example": "Ms. Greene decided to lengthen the time allotted to the meeting to allow each person a chance to speak."
+          "example": "Ms. Greene decided to lengthen the time allotted to the meeting to allow each person a chance to speak.",
+          "meaning_vi": "kéo dài",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "length",
-          "example": "Because of its length, we decided not to read the entire report at the meeting."
+          "example": "Because of its length, we decided not to read the entire report at the meeting.",
+          "meaning_vi": "độ dài",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "lengthy",
-          "example": "A presentation that is too lengthy will only put the audience to sleep."
+          "example": "A presentation that is too lengthy will only put the audience to sleep.",
+          "meaning_vi": "dài dòng, kéo dài",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -469,7 +505,9 @@
           "pos": "adverb",
           "word": "lengthily",
           "example": "The committee chairperson spoke lengthily about the history of the organization.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "dài dòng, hồi lâu",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -529,13 +567,17 @@
           "pos": "verb",
           "word": "matter",
           "example": "Customer satisfaction matters more to our company than short-term profits.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có ý nghĩa, quan trọng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "matters",
           "example": "The vice president of legal affairs handles all contractual matters for the corporation.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "các vấn đề, công việc",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -567,17 +609,23 @@
         {
           "pos": "",
           "word": "period",
-          "example": "The sales reports for the current period are excellent."
+          "example": "The sales reports for the current period are excellent.",
+          "meaning_vi": "giai đoạn, kỳ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "periodic",
-          "example": "They received periodic updates from the overseas licensees."
+          "example": "They received periodic updates from the overseas licensees.",
+          "meaning_vi": "định kỳ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "periodically",
-          "example": "The employee checked his messages periodically during the week-long seminar."
+          "example": "The employee checked his messages periodically during the week-long seminar.",
+          "meaning_vi": "theo định kỳ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -610,7 +658,9 @@
           "pos": "noun",
           "word": "periodical",
           "example": "The library subscribes to over fifty trade periodicals and business journals.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ấn phẩm định kỳ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -642,7 +692,9 @@
         {
           "pos": "",
           "word": "prioritize",
-          "example": "Once the team members learned to prioritize their work, they were much more productive."
+          "example": "Once the team members learned to prioritize their work, they were much more productive.",
+          "meaning_vi": "sắp xếp thứ tự ưu tiên",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -676,13 +728,17 @@
           "pos": "noun",
           "word": "priority",
           "example": "Ensuring passenger safety is always the airline's highest priority.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ưu tiên hàng đầu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "prior",
           "example": "All expense reimbursements require prior approval from the department head.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "trước, có từ trước",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -714,17 +770,23 @@
         {
           "pos": "verb",
           "word": "progress",
-          "example": "Everyone was surprised at how quickly the meeting had progressed."
+          "example": "Everyone was surprised at how quickly the meeting had progressed.",
+          "meaning_vi": "tiến triển",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "progression",
-          "example": "The quick progression of events didn&#x27;t surprise anyone."
+          "example": "The quick progression of events didn&#x27;t surprise anyone.",
+          "meaning_vi": "sự tiến triển",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "progressive",
-          "example": "The new president is very progressive and is always looking for ways to improve the business."
+          "example": "The new president is very progressive and is always looking for ways to improve the business.",
+          "meaning_vi": "cấp tiến, cầu tiến",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -758,7 +820,9 @@
           "pos": "adverb",
           "word": "progressively",
           "example": "The software interface has become progressively easier to use with each update.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ngày càng, dần dần",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -817,25 +881,33 @@
           "pos": "verb",
           "word": "waste",
           "example": "Automated scheduling software ensures that employees do not waste time on manual data entry.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "lãng phí",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "waste",
           "example": "The factory implemented a new recycling program to minimize industrial waste.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chất thải",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "wasteful",
           "example": "The audit identified several wasteful practices in the procurement department.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "gây lãng phí",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "wastefully",
           "example": "Lights and air conditioners should not be left running wastefully in empty offices.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách lãng phí",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -885,99 +957,133 @@
       {
         "word": "adhere",
         "example": "The chairperson asked us to adhere to the items on the agenda.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tuân thủ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "adherence",
         "example": "Your adherence to these guidelines would be appreciated.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự tuân thủ",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "conclude",
         "example": "To conclude, we must all focus on the year ahead of us and the challenges that we will face.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "kết luận; kết thúc",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "conclusion",
         "example": "Unfortunately, the conclusion of the meeting was that they needed to downsize their workforce.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "kết luận",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "conclusive",
         "example": "There is no conclusive evidence to back up the report.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "mang tính quyết định, xác thực",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "lengthen",
         "example": "Ms. Greene decided to lengthen the time allotted to the meeting to allow each person a chance to speak.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "kéo dài",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "length",
         "example": "Because of its length, we decided not to read the entire report at the meeting.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "độ dài",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "lengthy",
         "example": "A presentation that is too lengthy will only put the audience to sleep.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "dài dòng, kéo dài",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "period",
         "example": "The sales reports for the current period are excellent.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "giai đoạn, kỳ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "periodic",
         "example": "They received periodic updates from the overseas licensees.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "định kỳ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "periodically",
         "example": "The employee checked his messages periodically during the week-long seminar.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "theo định kỳ",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "prioritize",
         "example": "Once the team members learned to prioritize their work, they were much more productive.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sắp xếp thứ tự ưu tiên",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "priority",
         "example": "The committee member has difficulties setting priorities for herself.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "việc ưu tiên",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "prior",
         "example": "The director did not give much attention to Ellen&#x27;s proposal as he had several prior matters to attend to.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có trước, trước đó",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "progress",
         "example": "Everyone was surprised at how quickly the meeting had progressed.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "tiến triển",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "progression",
         "example": "The quick progression of events didn&#x27;t surprise anyone.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự tiến triển",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "progressive",
         "example": "The new president is very progressive and is always looking for ways to improve the business.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "cấp tiến, cầu tiến",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

@@ -26,17 +26,23 @@
         {
           "pos": "",
           "word": "attain",
-          "example": "The film quickly attained a reputation as a “must-see” movie."
+          "example": "The film quickly attained a reputation as a “must-see” movie.",
+          "meaning_vi": "đạt được",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "attainment",
-          "example": "The technical attainments in the movie's special effects were impressive."
+          "example": "The technical attainments in the movie's special effects were impressive.",
+          "meaning_vi": "thành tựu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "attainable",
-          "example": "The director's goal of having an unlimited budget was not attainable."
+          "example": "The director's goal of having an unlimited budget was not attainable.",
+          "meaning_vi": "có thể đạt được",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -68,7 +74,9 @@
           "pos": "adverb",
           "word": "attainably",
           "example": "The sales targets were set attainably so that every team member stayed motivated.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ở mức có thể đạt được",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -127,19 +135,25 @@
           "pos": "verb",
           "word": "combine",
           "example": "The studio plans to combine traditional animation with modern computer graphics.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "kết hợp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "combination",
           "example": "A combination of strong acting and clever directing made the movie a box-office hit.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự kết hợp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "combined",
           "example": "The two sequels earned a combined total of over five hundred million dollars.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cộng gộp; kết hợp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -171,17 +185,23 @@
         {
           "pos": "",
           "word": "continue",
-          "example": "Continue giving out movie passes until I tell you to stop."
+          "example": "Continue giving out movie passes until I tell you to stop.",
+          "meaning_vi": "tiếp tục",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "continuation",
-          "example": "The continuation of the film will be shown after the intermission."
+          "example": "The continuation of the film will be shown after the intermission.",
+          "meaning_vi": "phần tiếp theo",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "continual",
-          "example": "The actors’ continual demands slowed down the pace of production."
+          "example": "The actors’ continual demands slowed down the pace of production.",
+          "meaning_vi": "liên tiếp; lặp đi lặp lại",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -215,7 +235,9 @@
           "pos": "adverb",
           "word": "continually",
           "example": "The streaming platform continually updates its movie library to attract new viewers.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "liên tục; thường xuyên",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -247,17 +269,23 @@
         {
           "pos": "",
           "word": "describe",
-          "example": "Please describe the new movie theater to me."
+          "example": "Please describe the new movie theater to me.",
+          "meaning_vi": "mô tả",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "description",
-          "example": "The description of Africa in the film was not as I remembered it."
+          "example": "The description of Africa in the film was not as I remembered it.",
+          "meaning_vi": "sự miêu tả",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "descriptive",
-          "example": "The writer&#x27;s descriptive account of the war is shocking and saddening."
+          "example": "The writer&#x27;s descriptive account of the war is shocking and saddening.",
+          "meaning_vi": "giàu tính miêu tả",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -290,7 +318,9 @@
           "pos": "adverb",
           "word": "descriptively",
           "example": "The author wrote so descriptively that readers could easily picture every scene.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách sinh động, giàu miêu tả",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -350,19 +380,25 @@
           "pos": "verb",
           "word": "disperse",
           "example": "Security guards asked the fans to disperse after the premiere ended.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "giải tán; tản ra",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "dispersal",
           "example": "The police ensured the peaceful dispersal of the crowd outside the theater.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự giải tán",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "dispersed",
           "example": "The production crew was dispersed across several filming locations.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "phân tán",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -394,17 +430,23 @@
         {
           "pos": "",
           "word": "entertain",
-          "example": "The comedian worked hard to entertain the children in the hospital."
+          "example": "The comedian worked hard to entertain the children in the hospital.",
+          "meaning_vi": "giúp giải trí; mua vui",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "entertainment",
-          "example": "Movies are one of the most popular forms of entertainment."
+          "example": "Movies are one of the most popular forms of entertainment.",
+          "meaning_vi": "sự giải trí",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "entertaining",
-          "example": "The light comedy was entertaining, if not memorable."
+          "example": "The light comedy was entertaining, if not memorable.",
+          "meaning_vi": "thú vị; có tính giải trí",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -435,7 +477,9 @@
           "pos": "adverb",
           "word": "entertainingly",
           "example": "The host spoke so entertainingly that the three-hour ceremony flew by.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách thú vị, vui nhộn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -495,25 +539,33 @@
           "pos": "verb",
           "word": "influence",
           "example": "Online reviews strongly influence which movies audiences decide to watch.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ảnh hưởng đến",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "influence",
           "example": "Classic European cinema had a profound influence on the young director's work.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ảnh hưởng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "influential",
           "example": "She is one of the most influential film producers in the country.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có tầm ảnh hưởng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "influentially",
           "example": "Several critics wrote influentially about the need for independent film funding.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách có sức ảnh hưởng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -574,19 +626,25 @@
           "pos": "verb",
           "word": "range",
           "example": "Ticket prices for the film festival range from ten to fifty dollars.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "dao động trong khoảng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "range",
           "example": "The streaming service offers a wide range of international films.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "loạt; phạm vi đa dạng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "ranging",
           "example": "The festival attracts audiences of all ages, ranging from students to retirees.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "trải rộng; bao gồm từ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -646,19 +704,25 @@
           "pos": "verb",
           "word": "release",
           "example": "The studio will release the soundtrack album next Friday.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "phát hành",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "release",
           "example": "The public relations team issued a press release announcing the cast.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thông cáo",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "released",
           "example": "Recently released figures show a sharp rise in cinema attendance.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được công bố",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -690,17 +754,23 @@
         {
           "pos": "verb",
           "word": "represent",
-          "example": "The actor represented the ideals of the culture."
+          "example": "The actor represented the ideals of the culture.",
+          "meaning_vi": "đại diện cho; thể hiện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "representation",
-          "example": "We felt that the movie's representation of the effects of war was very realistic."
+          "example": "We felt that the movie's representation of the effects of war was very realistic.",
+          "meaning_vi": "sự khắc họa",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "representative",
-          "example": "The actress couldn't attend the awards ceremony so she had a representative accept the award for her."
+          "example": "The actress couldn't attend the awards ceremony so she had a representative accept the award for her.",
+          "meaning_vi": "người đại diện",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -732,13 +802,17 @@
           "pos": "adjective",
           "word": "representative",
           "example": "The survey polled a representative sample of moviegoers across the country.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mang tính đại diện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "representatively",
           "example": "The committee was chosen representatively from all branches of the film guild.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo cách bảo đảm tính đại diện",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -770,17 +844,23 @@
         {
           "pos": "verb",
           "word": "separate",
-          "example": "Some movie fans can't separate fantasy from reality and confuse an actor with the character he plays."
+          "example": "Some movie fans can't separate fantasy from reality and confuse an actor with the character he plays.",
+          "meaning_vi": "phân biệt; tách biệt",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "separate",
-          "example": "Moviemaking combines several separate processes."
+          "example": "Moviemaking combines several separate processes.",
+          "meaning_vi": "riêng biệt",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "separately",
-          "example": "The actors rehearsed their lines separately before filming the scene together."
+          "example": "The actors rehearsed their lines separately before filming the scene together.",
+          "meaning_vi": "riêng rẽ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -811,7 +891,9 @@
           "pos": "noun",
           "word": "separation",
           "example": "There is a clear separation between the editorial and advertising departments.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự tách biệt",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -869,19 +951,25 @@
           "pos": "verb",
           "word": "succeed",
           "example": "Who will succeed Mr. Meyer as head of the motion picture division?",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "kế nhiệm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "succession",
           "example": "The studio released a succession of blockbuster movies over the summer.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chuỗi liên tiếp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "successively",
           "example": "The award was won successively by three directors from the same film school.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "liên tiếp; lần lượt",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -929,102 +1017,138 @@
       {
         "word": "attain",
         "example": "The film quickly attained a reputation as a “must-see” movie.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đạt được",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "attainment",
         "example": "The technical attainments in the movie's special effects were impressive.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thành tựu",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "attainable",
         "example": "The director's goal of having an unlimited budget was not attainable.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có thể đạt được",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "continue",
         "example": "Continue giving out movie passes until I tell you to stop.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tiếp tục",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "continuation",
         "example": "The continuation of the film will be shown after the intermission.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "phần tiếp theo",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "continual",
         "example": "The actors’ continual demands slowed down the pace of production.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "liên tiếp; lặp đi lặp lại",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "entertain",
         "example": "The comedian worked hard to entertain the children in the hospital.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "giúp giải trí; mua vui",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "entertainment",
         "example": "Movies are one of the most popular forms of entertainment.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự giải trí",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "entertaining",
         "example": "The light comedy was entertaining, if not memorable.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thú vị; có tính giải trí",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "represent",
         "example": "The actor represented the ideals of the culture.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "đại diện cho; thể hiện",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "representation",
         "example": "We felt that the movie's representation of the effects of war was very realistic.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự khắc họa",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "representative",
         "example": "The actress couldn't attend the awards ceremony so she had a representative accept the award for her.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "người đại diện",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "separate",
         "example": "Some movie fans can't separate fantasy from reality and confuse an actor with the character he plays.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "phân biệt; tách biệt",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "separate",
         "example": "Moviemaking combines several separate processes.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "riêng biệt",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "separately",
         "example": "The actors rehearsed their lines separately before filming the scene together.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "riêng rẽ",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "describe",
         "example": "Please describe the new movie theater to me.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "mô tả",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "description",
         "example": "The description of Africa in the film was not as I remembered it.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự miêu tả",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "descriptive",
         "example": "The writer&#x27;s descriptive account of the war is shocking and saddening.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "giàu tính miêu tả",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

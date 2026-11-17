@@ -49,13 +49,17 @@
           "pos": "adjective",
           "word": "annual",
           "example": "Doctors recommend scheduling an annual physical examination to monitor overall health.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hằng năm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "biannual",
           "example": "The clinic conducts biannual training sessions on emergency response procedures.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mỗi năm hai lần",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -116,19 +120,25 @@
           "pos": "verb",
           "word": "appoint",
           "example": "The hospital board voted to appoint Dr. Patel as chief of internal medicine.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bổ nhiệm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "appointee",
           "example": "The new appointee brings twenty years of clinical management experience.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người được bổ nhiệm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "appointed",
           "example": "Patients should arrive fifteen minutes before their appointed consultation time.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã được ấn định",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -160,17 +170,23 @@
         {
           "pos": "verb",
           "word": "assess",
-          "example": "He was able to assess her health problems with the help of her detailed medical history."
+          "example": "He was able to assess her health problems with the help of her detailed medical history.",
+          "meaning_vi": "đánh giá",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "assessment",
-          "example": "The specialist's assessment of the patient's condition was consistent with the general practitioner's."
+          "example": "The specialist's assessment of the patient's condition was consistent with the general practitioner's.",
+          "meaning_vi": "sự đánh giá; nhận định",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "assessable",
-          "example": "That medical condition is not assessable by this laboratory test."
+          "example": "That medical condition is not assessable by this laboratory test.",
+          "meaning_vi": "có thể đánh giá được",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -202,7 +218,9 @@
           "pos": "noun",
           "word": "assessor",
           "example": "An independent medical assessor reviewed the clinic's quality standards.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người thẩm định; đánh giá viên",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -234,17 +252,23 @@
         {
           "pos": "verb",
           "word": "diagnose",
-          "example": "Her symptoms are overlapping, making it difficult to diagnose the exact cause of her chest pain."
+          "example": "Her symptoms are overlapping, making it difficult to diagnose the exact cause of her chest pain.",
+          "meaning_vi": "chẩn đoán",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "diagnosis",
-          "example": "Phil did a much better job of taking care of himself once his father had a diagnosis of lung cancer."
+          "example": "Phil did a much better job of taking care of himself once his father had a diagnosis of lung cancer.",
+          "meaning_vi": "kết quả chẩn đoán",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "diagnostic",
-          "example": "The new X-ray suite has all the latest diagnostic equipment."
+          "example": "The new X-ray suite has all the latest diagnostic equipment.",
+          "meaning_vi": "dùng để chẩn đoán",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -277,7 +301,9 @@
           "pos": "adverb",
           "word": "diagnostically",
           "example": "The new blood test proved diagnostically reliable in clinical trials.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "về mặt chẩn đoán",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -336,19 +362,25 @@
           "pos": "noun",
           "word": "effect",
           "example": "The new pain medication takes effect within twenty minutes.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tác dụng; hiệu lực",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "effectiveness",
           "example": "Clinical studies confirmed the effectiveness of the physical therapy program.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hiệu quả",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "effectively",
           "example": "The vaccine effectively protects patients against seasonal influenza.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách hiệu quả",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -406,19 +438,25 @@
           "pos": "noun",
           "word": "instrumentation",
           "example": "The laboratory is equipped with advanced medical instrumentation.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hệ thống thiết bị y tế",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "instrumental",
           "example": "Dr. Gomez was instrumental in establishing the community health center.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đóng vai trò then chốt",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "instrumentally",
           "example": "All vital signs are monitored instrumentally during the operation.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bằng thiết bị đo",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -476,19 +514,25 @@
           "pos": "noun",
           "word": "management",
           "example": "Effective time management allows the physician to see twenty patients a day.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự quản lý",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "manager",
           "example": "The office manager oversees patient billing and appointment scheduling.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người quản lý",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "manageable",
           "example": "Hiring two additional nurses made the evening shift much more manageable.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể xử lý, kiểm soát được",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -520,17 +564,23 @@
         {
           "pos": "verb",
           "word": "prevent",
-          "example": "By stopping smoking now, you may be able to prevent lung cancer."
+          "example": "By stopping smoking now, you may be able to prevent lung cancer.",
+          "meaning_vi": "ngăn ngừa",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "prevention",
-          "example": "He made a career of disease prevention through mass vaccinations."
+          "example": "He made a career of disease prevention through mass vaccinations.",
+          "meaning_vi": "sự phòng ngừa",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "preventive",
-          "example": "Eloise took preventive steps against gum disease by more thorough toothbrushing."
+          "example": "Eloise took preventive steps against gum disease by more thorough toothbrushing.",
+          "meaning_vi": "mang tính phòng ngừa",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -561,7 +611,9 @@
           "pos": "adjective",
           "word": "preventable",
           "example": "Many chronic illnesses are largely preventable through healthy lifestyle choices.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể phòng ngừa",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -593,17 +645,23 @@
         {
           "pos": "",
           "word": "recommend",
-          "example": "I recommend that you have this test annually starting at age 40."
+          "example": "I recommend that you have this test annually starting at age 40.",
+          "meaning_vi": "khuyên; khuyến nghị",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "recommendation",
-          "example": "Against my doctor's recommendation, I decided to purchase the generic brand of medication."
+          "example": "Against my doctor's recommendation, I decided to purchase the generic brand of medication.",
+          "meaning_vi": "lời khuyên; khuyến nghị",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "recommendable",
-          "example": "There is nothing particularly recommendable about this therapy over the other therapy I mentioned."
+          "example": "There is nothing particularly recommendable about this therapy over the other therapy I mentioned.",
+          "meaning_vi": "đáng được khuyên dùng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -638,7 +696,9 @@
           "pos": "adjective",
           "word": "recommended",
           "example": "Do not exceed the recommended dosage printed on the medicine label.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được khuyến nghị",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -670,17 +730,23 @@
         {
           "pos": "",
           "word": "record",
-          "example": "The doctor records the patient's description of her symptoms in the patient's medical chart."
+          "example": "The doctor records the patient's description of her symptoms in the patient's medical chart.",
+          "meaning_vi": "ghi chép; ghi lại",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "record",
-          "example": "When you apply for health insurance, the insurance company will probably want to look at your medical records."
+          "example": "When you apply for health insurance, the insurance company will probably want to look at your medical records.",
+          "meaning_vi": "hồ sơ; bệnh án",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "recorded",
-          "example": "After office hours there is a recorded message on the doctor's answering machine that gives an emergency telephone number."
+          "example": "After office hours there is a recorded message on the doctor's answering machine that gives an emergency telephone number.",
+          "meaning_vi": "đã được ghi âm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -714,7 +780,9 @@
           "pos": "noun",
           "word": "recording",
           "example": "A digital recording of the medical seminar is available on the hospital portal.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bản ghi âm; bản ghi hình",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -771,19 +839,25 @@
           "pos": "verb",
           "word": "refer",
           "example": "Please refer to the patient handbook for our clinic's cancellation policy.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tham khảo; tra cứu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "referral",
           "example": "My insurance plan requires a referral from a primary care doctor before I can see a cardiologist.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "giấy giới thiệu chuyển khám",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "reference",
           "example": "Keep this medical summary in your files for future reference.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc tham khảo; tra cứu",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -815,17 +889,23 @@
         {
           "pos": "",
           "word": "seriousness",
-          "example": "Martha's doctor tried to make her understand the seriousness of her condition."
+          "example": "Martha's doctor tried to make her understand the seriousness of her condition.",
+          "meaning_vi": "mức độ nghiêm trọng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "serious",
-          "example": "Mr. Kim was relieved to find out that his disease was not serious."
+          "example": "Mr. Kim was relieved to find out that his disease was not serious.",
+          "meaning_vi": "nghiêm trọng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "seriously",
-          "example": "The doctor spoke seriously with Arthur about the need to lose weight."
+          "example": "The doctor spoke seriously with Arthur about the need to lose weight.",
+          "meaning_vi": "một cách nghiêm túc",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -856,7 +936,9 @@
           "pos": "adjective",
           "word": "unserious",
           "example": "The physician dismissed the tabloid health article as completely unserious.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thiếu nghiêm túc",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -906,102 +988,138 @@
       {
         "word": "assess",
         "example": "He was able to assess her health problems with the help of her detailed medical history.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "đánh giá",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "assessment",
         "example": "The specialist's assessment of the patient's condition was consistent with the general practitioner's.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự đánh giá; nhận định",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "assessable",
         "example": "That medical condition is not assessable by this laboratory test.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có thể đánh giá được",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "diagnose",
         "example": "Her symptoms are overlapping, making it difficult to diagnose the exact cause of her chest pain.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "chẩn đoán",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "diagnosis",
         "example": "Phil did a much better job of taking care of himself once his father had a diagnosis of lung cancer.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "kết quả chẩn đoán",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "diagnostic",
         "example": "The new X-ray suite has all the latest diagnostic equipment.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "dùng để chẩn đoán",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "prevent",
         "example": "By stopping smoking now, you may be able to prevent lung cancer.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "ngăn ngừa",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "prevention",
         "example": "He made a career of disease prevention through mass vaccinations.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự phòng ngừa",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "preventive",
         "example": "Eloise took preventive steps against gum disease by more thorough toothbrushing.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "mang tính phòng ngừa",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "recommend",
         "example": "I recommend that you have this test annually starting at age 40.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "khuyên; khuyến nghị",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "recommendation",
         "example": "Against my doctor's recommendation, I decided to purchase the generic brand of medication.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "lời khuyên; khuyến nghị",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "recommendable",
         "example": "There is nothing particularly recommendable about this therapy over the other therapy I mentioned.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đáng được khuyên dùng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "record",
         "example": "The doctor records the patient's description of her symptoms in the patient's medical chart.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "ghi chép; ghi lại",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "record",
         "example": "When you apply for health insurance, the insurance company will probably want to look at your medical records.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "hồ sơ; bệnh án",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "recorded",
         "example": "After office hours there is a recorded message on the doctor's answering machine that gives an emergency telephone number.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đã được ghi âm",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "seriousness",
         "example": "Martha's doctor tried to make her understand the seriousness of her condition.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "mức độ nghiêm trọng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "serious",
         "example": "Mr. Kim was relieved to find out that his disease was not serious.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "nghiêm trọng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "seriously",
         "example": "The doctor spoke seriously with Arthur about the need to lose weight.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách nghiêm túc",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

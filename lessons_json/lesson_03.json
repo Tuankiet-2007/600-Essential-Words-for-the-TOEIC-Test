@@ -26,17 +26,23 @@
         {
           "pos": "",
           "word": "characteristic",
-          "example": "One characteristic of the new Lexus is its computerized seat settings."
+          "example": "One characteristic of the new Lexus is its computerized seat settings.",
+          "meaning_vi": "đặc điểm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "characterize",
-          "example": "This line is characterized by its bold flavor and spicy aftertaste."
+          "example": "This line is characterized by its bold flavor and spicy aftertaste.",
+          "meaning_vi": "là đặc trưng của",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "characteristically",
-          "example": "Characteristically, she accused middle-level management of the accounting error."
+          "example": "Characteristically, she accused middle-level management of the accounting error.",
+          "meaning_vi": "như thường lệ, đúng tính cách",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -68,7 +74,9 @@
           "pos": "noun",
           "word": "character",
           "example": "The renovation preserved the historic character of the downtown building.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nét đặc trưng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -127,19 +135,25 @@
           "pos": "noun",
           "word": "consequence",
           "example": "Delayed shipments can have serious consequences for our retail partners.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hậu quả",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "consequent",
           "example": "The rise in fuel costs and the consequent increase in airfares hurt tourism.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "phát sinh sau đó",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "consequently",
           "example": "The factory failed the safety inspection; consequently, production was halted.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "do đó",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -171,17 +185,23 @@
         {
           "pos": "",
           "word": "consider",
-          "example": "You should consider carefully whether a product will meet your needs."
+          "example": "You should consider carefully whether a product will meet your needs.",
+          "meaning_vi": "cân nhắc",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "consideration",
-          "example": "After long consideration, Heloise decided that the five-year warranty would be sufficient."
+          "example": "After long consideration, Heloise decided that the five-year warranty would be sufficient.",
+          "meaning_vi": "sự cân nhắc",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "considerable",
-          "example": "The fee for the extra year of protection was a considerable expense."
+          "example": "The fee for the extra year of protection was a considerable expense.",
+          "meaning_vi": "đáng kể",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -215,7 +235,9 @@
           "pos": "adverb",
           "word": "considerably",
           "example": "Operating costs have decreased considerably since we switched to solar power.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đáng kể",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -275,19 +297,25 @@
           "pos": "verb",
           "word": "cover",
           "example": "The travel allowance is enough to cover meals and hotel accommodations.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chi trả",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "coverage",
           "example": "Please review your policy to ensure you have adequate liability coverage.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "phạm vi bảo hiểm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "covered",
           "example": "Accidental water damage is not covered under the standard one-year warranty.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được bảo hành, bảo hiểm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -346,19 +374,25 @@
           "pos": "verb",
           "word": "expire",
           "example": "Your subscription to the trade journal will expire at the end of this month.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hết hạn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "expiration",
           "example": "A renewal notice is sent out thirty days before the expiration of the lease.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự hết hạn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "expired",
           "example": "Passengers cannot board international flights with an expired passport.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã hết hạn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -416,25 +450,33 @@
           "pos": "verb",
           "word": "frequent",
           "example": "The café across the street is frequented by executives from our building.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thường lui tới",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "frequency",
           "example": "The transit authority plans to increase the frequency of commuter trains.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tần suất",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "frequent",
           "example": "Frequent backups are essential to prevent catastrophic data loss.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thường xuyên",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "frequently",
           "example": "Software updates are released frequently to patch security vulnerabilities.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thường xuyên",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -466,17 +508,23 @@
         {
           "pos": "",
           "word": "imply",
-          "example": "She implied that she had graduated from Harvard."
+          "example": "She implied that she had graduated from Harvard.",
+          "meaning_vi": "ngụ ý",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "implication",
-          "example": "What are the implications of the accident?"
+          "example": "What are the implications of the accident?",
+          "meaning_vi": "hệ quả, điều hàm ý",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "implicit",
-          "example": "It is implicit in her demands that if she doesn&#x27;t get the promotion, she will leave the company."
+          "example": "It is implicit in her demands that if she doesn&#x27;t get the promotion, she will leave the company.",
+          "meaning_vi": "ngầm hiểu, hàm chứa",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -509,7 +557,9 @@
           "pos": "adverb",
           "word": "implicitly",
           "example": "The manager trusts her assistant implicitly to handle confidential files.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hoàn toàn, tuyệt đối",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -567,25 +617,33 @@
           "pos": "verb",
           "word": "promise",
           "example": "The contractor promised to finish the remodeling project by November.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hứa",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "promise",
           "example": "The new solar battery technology shows tremendous commercial promise.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "triển vọng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "promising",
           "example": "Initial clinical trials of the medication have yielded very promising results.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đầy hứa hẹn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "promisingly",
           "example": "The fiscal year began promisingly with record sales in January.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đầy triển vọng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -617,17 +675,23 @@
         {
           "pos": "",
           "word": "protect",
-          "example": "Juan protected the warranty by taking excellent care of his lawn mower."
+          "example": "Juan protected the warranty by taking excellent care of his lawn mower.",
+          "meaning_vi": "bảo vệ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "protection",
-          "example": "For your own protection, you should have a warranty that provides for a replacement product."
+          "example": "For your own protection, you should have a warranty that provides for a replacement product.",
+          "meaning_vi": "sự bảo vệ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "protective",
-          "example": "Alfredo is very protective of the condition of his car and gets all the preventive maintenance his warranty requires."
+          "example": "Alfredo is very protective of the condition of his car and gets all the preventive maintenance his warranty requires.",
+          "meaning_vi": "chú trọng bảo vệ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -660,7 +724,9 @@
           "pos": "adverb",
           "word": "protectively",
           "example": "Fragile ceramic items must be wrapped protectively before shipping.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "để bảo vệ an toàn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -692,17 +758,23 @@
         {
           "pos": "",
           "word": "reputation",
-          "example": "The good reputation of the manufacturer inspired Maria Jose to try the new product."
+          "example": "The good reputation of the manufacturer inspired Maria Jose to try the new product.",
+          "meaning_vi": "danh tiếng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "reputable",
-          "example": "Because the company had a reputable name, I did not spend sufficient time reading the details of the warranty."
+          "example": "Because the company had a reputable name, I did not spend sufficient time reading the details of the warranty.",
+          "meaning_vi": "có uy tín",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "reputed",
-          "example": "The new store is reputed to carry items that are not of the highest quality."
+          "example": "The new store is reputed to carry items that are not of the highest quality.",
+          "meaning_vi": "được cho là",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -735,13 +807,17 @@
           "pos": "verb",
           "word": "repute",
           "example": "The antique vase is reputed to be over three hundred years old.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cho là, đồn là",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "reputably",
           "example": "Always purchase replacement parts from a reputably certified dealer.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "với uy tín đáng tin cậy",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -773,17 +849,23 @@
         {
           "pos": "",
           "word": "require",
-          "example": "The warranty requires that you send the watch to an approved repair shop to have it fixed."
+          "example": "The warranty requires that you send the watch to an approved repair shop to have it fixed.",
+          "meaning_vi": "yêu cầu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "requirement",
-          "example": "The terms of the warranty divulge the legal requirement the manufacturer has to the consumer."
+          "example": "The terms of the warranty divulge the legal requirement the manufacturer has to the consumer.",
+          "meaning_vi": "yêu cầu, nghĩa vụ bắt buộc",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "requisite",
-          "example": "The warranty spelled out the requisite steps to take to request a replacement product."
+          "example": "The warranty spelled out the requisite steps to take to request a replacement product.",
+          "meaning_vi": "cần thiết, bắt buộc",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -816,7 +898,9 @@
           "pos": "adjective",
           "word": "required",
           "example": "Please fill out all required fields on the online registration form.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bắt buộc",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -874,25 +958,33 @@
           "pos": "verb",
           "word": "vary",
           "example": "Shipping charges vary depending on the weight and destination of the package.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thay đổi, khác nhau",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "variety",
           "example": "The department store carries a wide variety of imported kitchenware.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự đa dạng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "various",
           "example": "We interviewed various candidates before selecting the new branch manager.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhiều, khác nhau",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "variously",
           "example": "The project's cost has been variously estimated at between two and five million dollars.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo nhiều cách khác nhau",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -942,102 +1034,138 @@
       {
         "word": "characteristic",
         "example": "One characteristic of the new Lexus is its computerized seat settings.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đặc điểm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "characterize",
         "example": "This line is characterized by its bold flavor and spicy aftertaste.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "là đặc trưng của",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "characteristically",
         "example": "Characteristically, she accused middle-level management of the accounting error.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "như thường lệ, đúng tính cách",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "consider",
         "example": "You should consider carefully whether a product will meet your needs.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "cân nhắc",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "consideration",
         "example": "After long consideration, Heloise decided that the five-year warranty would be sufficient.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự cân nhắc",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "considerable",
         "example": "The fee for the extra year of protection was a considerable expense.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đáng kể",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "imply",
         "example": "She implied that she had graduated from Harvard.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "ngụ ý",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "implication",
         "example": "What are the implications of the accident?",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "hệ quả, điều hàm ý",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "implicit",
         "example": "It is implicit in her demands that if she doesn&#x27;t get the promotion, she will leave the company.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "ngầm hiểu, hàm chứa",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "protect",
         "example": "Juan protected the warranty by taking excellent care of his lawn mower.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "bảo vệ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "protection",
         "example": "For your own protection, you should have a warranty that provides for a replacement product.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự bảo vệ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "protective",
         "example": "Alfredo is very protective of the condition of his car and gets all the preventive maintenance his warranty requires.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "chú trọng bảo vệ",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "reputation",
         "example": "The good reputation of the manufacturer inspired Maria Jose to try the new product.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "danh tiếng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "reputable",
         "example": "Because the company had a reputable name, I did not spend sufficient time reading the details of the warranty.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có uy tín",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "reputed",
         "example": "The new store is reputed to carry items that are not of the highest quality.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "được cho là",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "require",
         "example": "The warranty requires that you send the watch to an approved repair shop to have it fixed.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "yêu cầu",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "requirement",
         "example": "The terms of the warranty divulge the legal requirement the manufacturer has to the consumer.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "yêu cầu, nghĩa vụ bắt buộc",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "requisite",
         "example": "The warranty spelled out the requisite steps to take to request a replacement product.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "cần thiết, bắt buộc",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

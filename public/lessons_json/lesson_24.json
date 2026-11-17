@@ -26,17 +26,23 @@
         {
           "pos": "verb",
           "word": "calculate",
-          "example": "The young man tries to calculate his expenses every month."
+          "example": "The young man tries to calculate his expenses every month.",
+          "meaning_vi": "tính toán",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "calculation",
-          "example": "The calculation is no more difficult than high school math."
+          "example": "The calculation is no more difficult than high school math.",
+          "meaning_vi": "phép tính, việc tính toán",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "calculator",
-          "example": "In order to avoid making addition and subtraction errors, I suggest you use a calculator."
+          "example": "In order to avoid making addition and subtraction errors, I suggest you use a calculator.",
+          "meaning_vi": "máy tính cầm tay",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -69,7 +75,9 @@
           "pos": "adjective",
           "word": "calculated",
           "example": "Expanding into the overseas market was a calculated risk that paid off handsomely.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được cân nhắc kỹ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -128,7 +136,9 @@
           "pos": "noun",
           "word": "deadlines",
           "example": "Project managers must ensure that all departmental deadlines are realistic and achievable.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "các thời hạn chót",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -160,12 +170,16 @@
         {
           "pos": "verb",
           "word": "file",
-          "example": "Don't wait until the last minute to file your taxes."
+          "example": "Don't wait until the last minute to file your taxes.",
+          "meaning_vi": "nộp tờ khai",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "file",
-          "example": "I keep all my tax information in one file."
+          "example": "I keep all my tax information in one file.",
+          "meaning_vi": "tập hồ sơ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -199,13 +213,17 @@
           "pos": "noun",
           "word": "filing",
           "example": "The deadline for the annual tax filing has been extended to April 30.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc nộp tờ khai",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "filed",
           "example": "All filed documents are stored securely in the human resources archive.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã được lưu hồ sơ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -263,19 +281,25 @@
           "pos": "verb",
           "word": "fill",
           "example": "The human resources department is working quickly to fill the vacant accounting position.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tuyển người vào vị trí trống",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "refill",
           "example": "Patients can request a prescription refill through the pharmacy's online portal.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "lần cấp thêm thuốc theo đơn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "filled",
           "example": "Improperly filled tax forms will be returned to the sender for correction.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã được điền",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -333,19 +357,25 @@
           "pos": "verb",
           "word": "give",
           "example": "The tax advisor will give a presentation on new deduction rules tomorrow.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "trình bày, thực hiện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "giver",
           "example": "Each charitable giver receives an official receipt for income tax purposes.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người cho, người quyên góp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "given",
           "example": "All tax returns must be processed within the given time frame.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã cho, được quy định",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -377,12 +407,16 @@
         {
           "pos": "",
           "word": "joint",
-          "example": "My husband and I filed a joint tax return."
+          "example": "My husband and I filed a joint tax return.",
+          "meaning_vi": "chung",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "jointly",
-          "example": "Even though you are separated right now, you will save money if you and your wife file your taxes jointly."
+          "example": "Even though you are separated right now, you will save money if you and your wife file your taxes jointly.",
+          "meaning_vi": "chung, cùng nhau",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -414,13 +448,17 @@
           "pos": "verb",
           "word": "join",
           "example": "Two leading pharmaceutical firms decided to join forces to develop the new vaccine.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hợp tác, liên kết",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "junction",
           "example": "The new distribution center is located near the junction of two major highways.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "giao lộ, điểm giao nhau",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -478,19 +516,25 @@
           "pos": "verb",
           "word": "owe",
           "example": "Taxpayers who owe additional money must submit payment by the April deadline.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nợ, còn phải trả",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "owed",
           "example": "Any interest owed on late payments will be added to next month's billing statement.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "còn nợ, phải trả",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "owing",
           "example": "Please remit the full balance owing on your corporate account within ten business days.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chưa thanh toán",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -522,17 +566,23 @@
         {
           "pos": "",
           "word": "penalize",
-          "example": "The government will penalize taxpayers who try to evade paying their fair share of taxes."
+          "example": "The government will penalize taxpayers who try to evade paying their fair share of taxes.",
+          "meaning_vi": "xử phạt",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "penalty",
-          "example": "For every dollar you owe in overdue taxes, a 10 percent penalty is imposed."
+          "example": "For every dollar you owe in overdue taxes, a 10 percent penalty is imposed.",
+          "meaning_vi": "tiền phạt",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "penal",
-          "example": "Tax evasion is a penal offense."
+          "example": "Tax evasion is a penal offense.",
+          "meaning_vi": "thuộc hình sự, chịu hình phạt",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -565,7 +615,9 @@
           "pos": "adverb",
           "word": "penally",
           "example": "Fraudulent tax evasion is a serious offense that is penally prosecutable under federal law.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "về mặt hình sự",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -597,17 +649,23 @@
         {
           "pos": "verb",
           "word": "prepare",
-          "example": "Most people wait until the last minute to prepare their tax returns."
+          "example": "Most people wait until the last minute to prepare their tax returns.",
+          "meaning_vi": "chuẩn bị, lập",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "preparation",
-          "example": "If you are organized, income tax preparation takes only a few hours."
+          "example": "If you are organized, income tax preparation takes only a few hours.",
+          "meaning_vi": "việc chuẩn bị, lập hồ sơ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "preparatory",
-          "example": "The preparatory work for doing my taxes is more time-consuming than filling out the forms."
+          "example": "The preparatory work for doing my taxes is more time-consuming than filling out the forms.",
+          "meaning_vi": "để chuẩn bị",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -640,7 +698,9 @@
           "pos": "adjective",
           "word": "prepared",
           "example": "The chief accountant came to the audit meeting fully prepared with all supporting receipts.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã chuẩn bị sẵn sàng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -672,17 +732,23 @@
         {
           "pos": "",
           "word": "refund",
-          "example": "The government should refund your overpaid taxes within a few weeks of filing your tax return."
+          "example": "The government should refund your overpaid taxes within a few weeks of filing your tax return.",
+          "meaning_vi": "hoàn tiền",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "refund",
-          "example": "If you have overpaid your income taxes, you will get a refund at the end of the year."
+          "example": "If you have overpaid your income taxes, you will get a refund at the end of the year.",
+          "meaning_vi": "khoản tiền hoàn lại",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "refundable",
-          "example": "Sales tax that tourists pay in a foreign country may be refundable when they leave the country."
+          "example": "Sales tax that tourists pay in a foreign country may be refundable when they leave the country.",
+          "meaning_vi": "có thể được hoàn tiền",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -715,7 +781,9 @@
           "pos": "adjective",
           "word": "nonrefundable",
           "example": "Discounted promotional airfares are strictly nonrefundable once the booking is confirmed.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "không được hoàn tiền",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -774,13 +842,17 @@
           "pos": "noun",
           "word": "spouses",
           "example": "All company executives and their spouses are invited to attend the annual charity gala.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "vợ hoặc chồng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "spousal",
           "example": "The company's comprehensive health insurance plan includes full spousal coverage.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "dành cho vợ hoặc chồng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -837,19 +909,25 @@
           "pos": "verb",
           "word": "withhold",
           "example": "The client threatened to withhold final payment until all building defects were repaired.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "giữ lại, chưa thanh toán",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "withholding",
           "example": "Employees may adjust their federal tax withholding by submitting a revised form to payroll.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "khoản thuế khấu trừ tại nguồn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "withheld",
           "example": "The withheld portion of the contractor's fee will be released upon final inspection.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bị giữ lại",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -899,92 +977,124 @@
       {
         "word": "calculate",
         "example": "The young man tries to calculate his expenses every month.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "tính toán",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "calculation",
         "example": "The calculation is no more difficult than high school math.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "phép tính, việc tính toán",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "calculator",
         "example": "In order to avoid making addition and subtraction errors, I suggest you use a calculator.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "máy tính cầm tay",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "file",
         "example": "Don't wait until the last minute to file your taxes.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "nộp tờ khai",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "file",
         "example": "I keep all my tax information in one file.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tập hồ sơ",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "joint",
         "example": "My husband and I filed a joint tax return.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "chung",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "jointly",
         "example": "Even though you are separated right now, you will save money if you and your wife file your taxes jointly.",
-        "pos": "adverb"
+        "pos": "adverb",
+        "meaning_vi": "chung, cùng nhau",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "penalize",
         "example": "The government will penalize taxpayers who try to evade paying their fair share of taxes.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "xử phạt",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "penalty",
         "example": "For every dollar you owe in overdue taxes, a 10 percent penalty is imposed.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "tiền phạt",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "penal",
         "example": "Tax evasion is a penal offense.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thuộc hình sự, chịu hình phạt",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "prepare",
         "example": "Most people wait until the last minute to prepare their tax returns.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "chuẩn bị, lập",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "preparation",
         "example": "If you are organized, income tax preparation takes only a few hours.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "việc chuẩn bị, lập hồ sơ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "preparatory",
         "example": "The preparatory work for doing my taxes is more time-consuming than filling out the forms.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "để chuẩn bị",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "refund",
         "example": "The government should refund your overpaid taxes within a few weeks of filing your tax return.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "hoàn tiền",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "refund",
         "example": "If you have overpaid your income taxes, you will get a refund at the end of the year.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "khoản tiền hoàn lại",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "refundable",
         "example": "Sales tax that tourists pay in a foreign country may be refundable when they leave the country.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có thể được hoàn tiền",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

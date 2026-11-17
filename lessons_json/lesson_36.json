@@ -51,7 +51,9 @@
           "pos": "noun",
           "word": "agency",
           "example": "She decided to book her holiday through a local travel agency.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đại lý, công ty dịch vụ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -83,17 +85,23 @@
         {
           "pos": "",
           "word": "announce",
-          "example": "The captain announced that the flight would be landing in approximately 15 minutes."
+          "example": "The captain announced that the flight would be landing in approximately 15 minutes.",
+          "meaning_vi": "thông báo",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "announcement",
-          "example": "The flight attendant made an announcement reminding the passengers that this was a no-smoking flight."
+          "example": "The flight attendant made an announcement reminding the passengers that this was a no-smoking flight.",
+          "meaning_vi": "thông báo, lời công bố",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "announcer",
-          "example": "The announcer gave the instructions for boarding, in three languages."
+          "example": "The announcer gave the instructions for boarding, in three languages.",
+          "meaning_vi": "người đọc thông báo",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -125,13 +133,17 @@
           "pos": "verb",
           "word": "announce",
           "example": "The pilot announced that the flight would be delayed due to bad weather.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thông báo",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "announcer",
           "example": "The station announcer informed passengers about the platform change.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người đọc thông báo",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -189,7 +201,9 @@
           "pos": "noun",
           "word": "drink",
           "example": "Passengers can enjoy complimentary drinks during the long flight.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đồ uống",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -248,7 +262,9 @@
           "pos": "adjective",
           "word": "blanketed",
           "example": "The mountain roads were completely blanketed in thick snow.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bị phủ kín",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -280,17 +296,23 @@
         {
           "pos": "verb",
           "word": "board",
-          "example": "You can&#x27;t board the flight without an embarkation card."
+          "example": "You can&#x27;t board the flight without an embarkation card.",
+          "meaning_vi": "lên tàu, máy bay",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "board",
-          "example": "The board of directors met to discuss problems with the striking pilots."
+          "example": "The board of directors met to discuss problems with the striking pilots.",
+          "meaning_vi": "ban, hội đồng quản trị",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "onboard",
-          "example": "The onboard telephone was expensive to use, but a true time-saver."
+          "example": "The onboard telephone was expensive to use, but a true time-saver.",
+          "meaning_vi": "có trên tàu, máy bay",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -321,7 +343,9 @@
           "pos": "noun",
           "word": "boarding",
           "example": "Boarding will commence approximately twenty minutes before departure.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc lên tàu, máy bay",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -353,17 +377,23 @@
         {
           "pos": "verb",
           "word": "claim",
-          "example": "International passengers must proceed to customs as soon as they claim their baggage."
+          "example": "International passengers must proceed to customs as soon as they claim their baggage.",
+          "meaning_vi": "nhận lại, lấy hành lý",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "claim",
-          "example": "If the airline has lost your luggage, you can file a claim with the insurance company."
+          "example": "If the airline has lost your luggage, you can file a claim with the insurance company.",
+          "meaning_vi": "yêu cầu bồi thường",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "claimant",
-          "example": "There was a long line of claimants waiting at the lost luggage office."
+          "example": "There was a long line of claimants waiting at the lost luggage office.",
+          "meaning_vi": "người yêu cầu nhận lại, bồi thường",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -395,7 +425,9 @@
           "pos": "noun",
           "word": "claimant",
           "example": "The claimant submitted all the medical receipts to the insurance company.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người yêu cầu bồi thường",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -427,12 +459,16 @@
         {
           "pos": "",
           "word": "delay",
-          "example": "Please don&#x27;t delay me; I need to get to my gate immediately."
+          "example": "Please don&#x27;t delay me; I need to get to my gate immediately.",
+          "meaning_vi": "làm chậm trễ, trì hoãn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "delay",
-          "example": "The delay in takeoff times was caused by a bad storm."
+          "example": "The delay in takeoff times was caused by a bad storm.",
+          "meaning_vi": "sự chậm trễ, trì hoãn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -464,7 +500,9 @@
           "pos": "adjective",
           "word": "delayed",
           "example": "Due to a technical issue, the 9:00 AM flight has been delayed by two hours.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bị chậm, hoãn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -496,17 +534,23 @@
         {
           "pos": "verb",
           "word": "depart",
-          "example": "The flight will depart from Gate 25."
+          "example": "The flight will depart from Gate 25.",
+          "meaning_vi": "khởi hành, rời đi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "departure",
-          "example": "The pilot always reminds the flight attendants to make sure that all passengers are ready for departure."
+          "example": "The pilot always reminds the flight attendants to make sure that all passengers are ready for departure.",
+          "meaning_vi": "sự khởi hành",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "departed",
-          "example": "The house felt empty without the departed guests."
+          "example": "The house felt empty without the departed guests.",
+          "meaning_vi": "đã rời đi",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -538,7 +582,9 @@
           "pos": "noun",
           "word": "departure",
           "example": "Passengers are advised to arrive at the airport two hours prior to departure.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự khởi hành",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -597,13 +643,17 @@
           "pos": "verb",
           "word": "embark",
           "example": "The travelers will embark on their European tour early tomorrow morning.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bắt đầu chuyến đi; lên tàu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "disembarkation",
           "example": "Disembarkation will begin once the ship has completely docked.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc xuống tàu, máy bay",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -661,7 +711,9 @@
           "pos": "adjective",
           "word": "itinerant",
           "example": "The company employs itinerant technicians who travel between branch offices.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "lưu động, thường xuyên đi lại",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -719,13 +771,17 @@
           "pos": "noun",
           "word": "prohibition",
           "example": "There is a strict prohibition against smoking throughout the terminal building.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "lệnh cấm, sự cấm đoán",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "prohibitive",
           "example": "The high cost of first-class airfare was prohibitive for the small business.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "quá cao đến mức không kham nổi",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -757,17 +813,23 @@
         {
           "pos": "",
           "word": "validate",
-          "example": "You can get your parking ticket validated at the concierge desk."
+          "example": "You can get your parking ticket validated at the concierge desk.",
+          "meaning_vi": "xác nhận hiệu lực",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "validation",
-          "example": "The restaurant received three stars, which is quite a validation of the chef&#x27;s skills."
+          "example": "The restaurant received three stars, which is quite a validation of the chef&#x27;s skills.",
+          "meaning_vi": "sự công nhận, xác nhận",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "valid",
-          "example": "Your ticket is no longer valid because it was issued over a year ago."
+          "example": "Your ticket is no longer valid because it was issued over a year ago.",
+          "meaning_vi": "hợp lệ, còn hiệu lực",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -799,13 +861,17 @@
           "pos": "verb",
           "word": "validate",
           "example": "Please validate your parking ticket at the reception desk before leaving.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "xác nhận hiệu lực",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "validity",
           "example": "The validity of the coupon expires at the end of this month.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thời hạn, tính hiệu lực",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -855,97 +921,131 @@
       {
         "word": "announce",
         "example": "The captain announced that the flight would be landing in approximately 15 minutes.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thông báo",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "announcement",
         "example": "The flight attendant made an announcement reminding the passengers that this was a no-smoking flight.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thông báo, lời công bố",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "announcer",
         "example": "The announcer gave the instructions for boarding, in three languages.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "người đọc thông báo",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "board",
         "example": "You can&#x27;t board the flight without an embarkation card.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "lên tàu, máy bay",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "board",
         "example": "The board of directors met to discuss problems with the striking pilots.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "ban, hội đồng quản trị",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "onboard",
         "example": "The onboard telephone was expensive to use, but a true time-saver.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có trên tàu, máy bay",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "claim",
         "example": "International passengers must proceed to customs as soon as they claim their baggage.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "nhận lại, lấy hành lý",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "claim",
         "example": "If the airline has lost your luggage, you can file a claim with the insurance company.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "yêu cầu bồi thường",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "claimant",
         "example": "There was a long line of claimants waiting at the lost luggage office.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "người yêu cầu nhận lại, bồi thường",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "delay",
         "example": "Please don&#x27;t delay me; I need to get to my gate immediately.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "làm chậm trễ, trì hoãn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "delay",
         "example": "The delay in takeoff times was caused by a bad storm.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự chậm trễ, trì hoãn",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "depart",
         "example": "The flight will depart from Gate 25.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "khởi hành, rời đi",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "departure",
         "example": "The pilot always reminds the flight attendants to make sure that all passengers are ready for departure.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự khởi hành",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "departed",
         "example": "The house felt empty without the departed guests.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đã rời đi",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "validate",
         "example": "You can get your parking ticket validated at the concierge desk.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "xác nhận hiệu lực",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "validation",
         "example": "The restaurant received three stars, which is quite a validation of the chef&#x27;s skills.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự công nhận, xác nhận",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "valid",
         "example": "Your ticket is no longer valid because it was issued over a year ago.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "hợp lệ, còn hiệu lực",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

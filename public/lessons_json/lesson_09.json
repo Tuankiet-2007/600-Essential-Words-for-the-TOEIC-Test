@@ -52,13 +52,17 @@
           "pos": "noun",
           "word": "disk",
           "example": "Please back up your files on an external hard disk before Friday.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đĩa lưu trữ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "diskette",
           "example": "Older archival records from the 1990s were originally stored on diskettes.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đĩa mềm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -115,25 +119,33 @@
           "pos": "verb",
           "word": "facilitate",
           "example": "The new bridge will facilitate trade between the two provinces.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tạo thuận lợi cho",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "facilitation",
           "example": "Trade facilitation measures have reduced customs clearance times.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự tạo thuận lợi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "facilitator",
           "example": "We hired an experienced facilitator to lead the strategic planning retreat.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người điều phối",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "facilitative",
           "example": "Modern managers adopt a facilitative approach rather than micromanaging.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mang tính hỗ trợ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -192,19 +204,25 @@
           "pos": "verb",
           "word": "network",
           "example": "Trade shows offer a great opportunity to network with potential clients.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tạo dựng quan hệ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "networking",
           "example": "A one-hour networking reception will follow the keynote presentation.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hoạt động kết nối quan hệ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "networked",
           "example": "All of the printers on this floor are networked to the main server.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được kết nối mạng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -236,17 +254,23 @@
         {
           "pos": "",
           "word": "popularize",
-          "example": "The Internet has popularized last-minute travel."
+          "example": "The Internet has popularized last-minute travel.",
+          "meaning_vi": "phổ biến, làm phổ biến",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "popularity",
-          "example": "The popularity of the product was extremely short-lived, and it soon disappeared from the store shelves."
+          "example": "The popularity of the product was extremely short-lived, and it soon disappeared from the store shelves.",
+          "meaning_vi": "sự được ưa chuộng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "popular",
-          "example": "The new computer program was extremely popular, and people asked for it at all the stores."
+          "example": "The new computer program was extremely popular, and people asked for it at all the stores.",
+          "meaning_vi": "được ưa chuộng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -280,7 +304,9 @@
           "pos": "adverb",
           "word": "popularly",
           "example": "The historic district is popularly known as the Old Quarter.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách phổ biến",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -339,25 +365,33 @@
           "pos": "verb",
           "word": "process",
           "example": "It takes three business days to process a passport renewal application.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "xử lý",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "processor",
           "example": "The new laptop is equipped with an ultra-fast quad-core processor.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bộ xử lý",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "processing",
           "example": "A small processing fee is charged for all international wire transfers.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc xử lý",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "processed",
           "example": "All processed orders are shipped from our warehouse within 24 hours.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã được xử lý",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -389,17 +423,23 @@
         {
           "pos": "",
           "word": "replace",
-          "example": "I replaced your music CDs that I borrowed from your desk last week."
+          "example": "I replaced your music CDs that I borrowed from your desk last week.",
+          "meaning_vi": "đặt lại chỗ cũ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "replacement",
-          "example": "A replacement for this damaged computer will not be cheap."
+          "example": "A replacement for this damaged computer will not be cheap.",
+          "meaning_vi": "vật thay thế",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "replaceable",
-          "example": "That hard disk is not easily replaceable."
+          "example": "That hard disk is not easily replaceable.",
+          "meaning_vi": "có thể thay thế",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -432,7 +472,9 @@
           "pos": "adjective",
           "word": "irreplaceable",
           "example": "Her twenty years of institutional knowledge made her nearly irreplaceable.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "không thể thay thế",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -464,17 +506,23 @@
         {
           "pos": "",
           "word": "revolutionized",
-          "example": "Using diamond has revolutionized the pressure sensor industry during the last decade."
+          "example": "Using diamond has revolutionized the pressure sensor industry during the last decade.",
+          "meaning_vi": "đã cách mạng hóa",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "revolution",
-          "example": "The revolution in electronics technology has allowed products such as phones to get smaller and more portable."
+          "example": "The revolution in electronics technology has allowed products such as phones to get smaller and more portable.",
+          "meaning_vi": "cuộc cách mạng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "revolutionary",
-          "example": "The Internet is revolutionary in how it has changed the way we communicate."
+          "example": "The Internet is revolutionary in how it has changed the way we communicate.",
+          "meaning_vi": "mang tính cách mạng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -506,7 +554,9 @@
           "pos": "verb",
           "word": "revolutionize",
           "example": "Cloud computing has revolutionized the way small businesses manage data.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cách mạng hóa",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -565,25 +615,33 @@
           "pos": "verb",
           "word": "sharpen",
           "example": "The workshop is designed to help managers sharpen their leadership skills.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "trau dồi, nâng cao",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "sharpness",
           "example": "The new monitor offers exceptional color accuracy and image sharpness.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "độ sắc nét",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "sharp",
           "example": "There was a sharp rise in online orders during the fourth quarter.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mạnh, đột ngột",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "sharply",
           "example": "Raw material prices have risen sharply over the past six months.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mạnh, rõ rệt",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -615,17 +673,23 @@
         {
           "pos": "",
           "word": "skill",
-          "example": "Her marketing skills inspired Jason to return to school for his MBA."
+          "example": "Her marketing skills inspired Jason to return to school for his MBA.",
+          "meaning_vi": "kỹ năng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "skilled",
-          "example": "Our carpenters are skilled in everything from cabinetry to furniture making."
+          "example": "Our carpenters are skilled in everything from cabinetry to furniture making.",
+          "meaning_vi": "lành nghề, thành thạo",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "skillfully",
-          "example": "He negotiates so skillfully that both parties end up feeling that they've gotten what they wanted."
+          "example": "He negotiates so skillfully that both parties end up feeling that they've gotten what they wanted.",
+          "meaning_vi": "một cách khéo léo",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -657,7 +721,9 @@
           "pos": "adjective",
           "word": "skillful",
           "example": "Thanks to her skillful handling of the crisis, the company avoided a lawsuit.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "khéo léo, thành thạo",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -715,13 +781,17 @@
           "pos": "noun",
           "word": "software",
           "example": "All employees must install the latest security software on their laptops.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "phần mềm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "ware",
           "example": "The artisan market features locally crafted glassware and ceramic wares.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đồ dùng, hàng hóa",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -753,17 +823,23 @@
         {
           "pos": "verb",
           "word": "store",
-          "example": "He stored too much information on the hard drive, making the computer sluggish."
+          "example": "He stored too much information on the hard drive, making the computer sluggish.",
+          "meaning_vi": "lưu trữ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "store",
-          "example": "The store's inventory has to be entered manually into the database."
+          "example": "The store's inventory has to be entered manually into the database.",
+          "meaning_vi": "cửa hàng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "storage",
-          "example": "The storage closet is where you will find all our office supplies."
+          "example": "The storage closet is where you will find all our office supplies.",
+          "meaning_vi": "sự lưu trữ, cất giữ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -796,7 +872,9 @@
           "pos": "adjective",
           "word": "storable",
           "example": "Freeze-dried meals are lightweight and easily storable for months.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể bảo quản, lưu trữ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -828,17 +906,23 @@
         {
           "pos": "",
           "word": "technically",
-          "example": "Technically, she was fired from her job."
+          "example": "Technically, she was fired from her job.",
+          "meaning_vi": "xét đúng về mặt quy định",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "technical",
-          "example": "The computer can only be repaired by someone with technical knowledge."
+          "example": "The computer can only be repaired by someone with technical knowledge.",
+          "meaning_vi": "thuộc kỹ thuật",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "technicality",
-          "example": "After we go over these minor technicalities, the agreement will be set."
+          "example": "After we go over these minor technicalities, the agreement will be set.",
+          "meaning_vi": "chi tiết kỹ thuật, thủ tục",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -869,7 +953,9 @@
           "pos": "noun",
           "word": "technician",
           "example": "A certified technician will arrive tomorrow to repair the photocopier.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "kỹ thuật viên",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -919,102 +1005,138 @@
       {
         "word": "popularize",
         "example": "The Internet has popularized last-minute travel.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "phổ biến, làm phổ biến",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "popularity",
         "example": "The popularity of the product was extremely short-lived, and it soon disappeared from the store shelves.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự được ưa chuộng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "popular",
         "example": "The new computer program was extremely popular, and people asked for it at all the stores.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "được ưa chuộng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "replace",
         "example": "I replaced your music CDs that I borrowed from your desk last week.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đặt lại chỗ cũ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "replacement",
         "example": "A replacement for this damaged computer will not be cheap.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "vật thay thế",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "replaceable",
         "example": "That hard disk is not easily replaceable.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "có thể thay thế",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "revolutionized",
         "example": "Using diamond has revolutionized the pressure sensor industry during the last decade.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đã cách mạng hóa",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "revolution",
         "example": "The revolution in electronics technology has allowed products such as phones to get smaller and more portable.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "cuộc cách mạng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "revolutionary",
         "example": "The Internet is revolutionary in how it has changed the way we communicate.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "mang tính cách mạng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "skill",
         "example": "Her marketing skills inspired Jason to return to school for his MBA.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "kỹ năng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "skilled",
         "example": "Our carpenters are skilled in everything from cabinetry to furniture making.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "lành nghề, thành thạo",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "skillfully",
         "example": "He negotiates so skillfully that both parties end up feeling that they've gotten what they wanted.",
-        "pos": "adverb"
+        "pos": "adverb",
+        "meaning_vi": "một cách khéo léo",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "store",
         "example": "He stored too much information on the hard drive, making the computer sluggish.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "lưu trữ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "store",
         "example": "The store's inventory has to be entered manually into the database.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "cửa hàng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "storage",
         "example": "The storage closet is where you will find all our office supplies.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự lưu trữ, cất giữ",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "technically",
         "example": "Technically, she was fired from her job.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "xét đúng về mặt quy định",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "technical",
         "example": "The computer can only be repaired by someone with technical knowledge.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thuộc kỹ thuật",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "technicality",
         "example": "After we go over these minor technicalities, the agreement will be set.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "chi tiết kỹ thuật, thủ tục",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

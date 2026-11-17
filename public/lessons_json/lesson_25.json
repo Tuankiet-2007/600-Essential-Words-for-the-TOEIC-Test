@@ -26,17 +26,23 @@
         {
           "pos": "verb",
           "word": "desire",
-          "example": "Our manager is trying to predict how many customers will desire our product over the next quarter."
+          "example": "Our manager is trying to predict how many customers will desire our product over the next quarter.",
+          "meaning_vi": "mong muốn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "desire",
-          "example": "Her desire for greater control of the business led her to discuss her need for more information with her accountant."
+          "example": "Her desire for greater control of the business led her to discuss her need for more information with her accountant.",
+          "meaning_vi": "mong muốn, nguyện vọng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "desirable",
-          "example": "The category summary, while desirable, was time-consuming to prepare."
+          "example": "The category summary, while desirable, was time-consuming to prepare.",
+          "meaning_vi": "đáng mong muốn, nên có",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -68,13 +74,17 @@
           "pos": "adjective",
           "word": "desired",
           "example": "The new advertising campaign failed to produce the desired increase in quarterly sales.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mong muốn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "desirably",
           "example": "Candidates should have a degree in finance and, desirably, three years of auditing experience.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tốt hơn là, lý tưởng là",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -106,17 +116,23 @@
         {
           "pos": "",
           "word": "detail",
-          "example": "The job description details all the duties of this position."
+          "example": "The job description details all the duties of this position.",
+          "meaning_vi": "trình bày chi tiết",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "detail",
-          "example": "The budget report needs to be accurate down to the last detail."
+          "example": "The budget report needs to be accurate down to the last detail.",
+          "meaning_vi": "chi tiết",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "detailed",
-          "example": "The director asked for a detailed description of our meeting."
+          "example": "The director asked for a detailed description of our meeting.",
+          "meaning_vi": "chi tiết, tỉ mỉ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -149,7 +165,9 @@
           "pos": "adjective",
           "word": "detailed",
           "example": "Please submit a detailed breakdown of all project expenditures by Friday afternoon.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chi tiết, đầy đủ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -207,19 +225,25 @@
           "pos": "verb",
           "word": "forecast",
           "example": "Economists forecast that consumer spending will rise steadily during the fourth quarter.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "dự báo",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "forecaster",
           "example": "Market forecasters expect interest rates to remain unchanged through the end of the year.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chuyên gia dự báo",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "forecasted",
           "example": "Actual fourth-quarter revenues exceeded our forecasted figures by nearly fifteen percent.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã được dự báo",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -279,13 +303,17 @@
           "pos": "verb",
           "word": "level",
           "example": "After rising sharply for three months, housing prices finally began to level off in October.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chững lại, ổn định",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "level",
           "example": "Make sure the warehouse shelving units are completely level before loading heavy crates.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bằng phẳng, cân bằng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -342,13 +370,17 @@
           "pos": "adjective",
           "word": "overall",
           "example": "The director was pleased with the overall progress of the software migration project.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tổng thể, chung",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "overall",
           "example": "Overall, the company experienced a twelve percent increase in net revenue this year.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhìn chung",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -408,7 +440,9 @@
           "pos": "noun",
           "word": "perspectives",
           "example": "The panel discussion brought together diverse perspectives on sustainable urban development.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "các quan điểm, góc nhìn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -440,17 +474,23 @@
         {
           "pos": "verb",
           "word": "project",
-          "example": "The budget summary helped us project our expenditures for the year."
+          "example": "The budget summary helped us project our expenditures for the year.",
+          "meaning_vi": "dự tính, dự báo",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "project",
-          "example": "The financial project was time-consuming and challenging."
+          "example": "The financial project was time-consuming and challenging.",
+          "meaning_vi": "dự án",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "projection",
-          "example": "Maurice&#x27;s projections for the upcoming fiscal year were not as helpful as we had hoped."
+          "example": "Maurice&#x27;s projections for the upcoming fiscal year were not as helpful as we had hoped.",
+          "meaning_vi": "bản dự báo, dự tính",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -483,7 +523,9 @@
           "pos": "adjective",
           "word": "projected",
           "example": "The new manufacturing facility was completed well below its projected construction cost.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "dự kiến",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -515,17 +557,23 @@
         {
           "pos": "verb",
           "word": "realize",
-          "example": "The plan helps her realize her dream of having the business turn a profit."
+          "example": "The plan helps her realize her dream of having the business turn a profit.",
+          "meaning_vi": "hiện thực hóa, đạt được",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "reality",
-          "example": "The financial statement reinforced the reality that our business is in deep trouble."
+          "example": "The financial statement reinforced the reality that our business is in deep trouble.",
+          "meaning_vi": "thực tế",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "realistic",
-          "example": "The accountant needs realistic numbers on which to base his plan."
+          "example": "The accountant needs realistic numbers on which to base his plan.",
+          "meaning_vi": "sát thực tế",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -556,7 +604,9 @@
           "pos": "adverb",
           "word": "realistically",
           "example": "Realistically, the software upgrade cannot be completed before the end of November.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "xét một cách thực tế",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -616,19 +666,25 @@
           "pos": "verb",
           "word": "target",
           "example": "The new promotional campaign is designed to target first-time homebuyers.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhắm đến",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "target",
           "example": "All regional sales offices exceeded their quarterly revenue targets.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mục tiêu, chỉ tiêu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "targeted",
           "example": "Targeted online advertisements helped the retailer double its website traffic.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhắm vào đối tượng cụ thể",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -660,17 +716,23 @@
         {
           "pos": "verb",
           "word": "translate",
-          "example": "The computer was able to translate data from the created spreadsheet into the spreadsheet program I prefer."
+          "example": "The computer was able to translate data from the created spreadsheet into the spreadsheet program I prefer.",
+          "meaning_vi": "chuyển đổi dữ liệu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "translation",
-          "example": "The translation of the document was provided at no charge."
+          "example": "The translation of the document was provided at no charge.",
+          "meaning_vi": "bản dịch, việc dịch",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "translatable",
-          "example": "The data was not translatable between programs and had to be entered by hand, which took hours."
+          "example": "The data was not translatable between programs and had to be entered by hand, which took hours.",
+          "meaning_vi": "có thể chuyển đổi",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -703,7 +765,9 @@
           "pos": "noun",
           "word": "translator",
           "example": "The legal firm hired a certified translator to review the international contract.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "biên dịch viên",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -735,17 +799,23 @@
         {
           "pos": "",
           "word": "type",
-          "example": "This type of business requires a lot of start-up money."
+          "example": "This type of business requires a lot of start-up money.",
+          "meaning_vi": "loại, kiểu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "typical",
-          "example": "Part of a category summary is defining the expenses that are typical of the business in question."
+          "example": "Part of a category summary is defining the expenses that are typical of the business in question.",
+          "meaning_vi": "điển hình, đặc trưng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "typically",
-          "example": "Typically, we finished preparing the budget just in time to meet the deadline."
+          "example": "Typically, we finished preparing the budget just in time to meet the deadline.",
+          "meaning_vi": "như thường lệ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -777,7 +847,9 @@
           "pos": "verb",
           "word": "typify",
           "example": "High attention to detail typifies the work of our senior auditing team.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "là nét đặc trưng của",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -836,19 +908,25 @@
           "pos": "verb",
           "word": "yield",
           "example": "The six-month market study yielded valuable insights into consumer buying habits.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mang lại",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "yield",
           "example": "Government bonds generally offer a lower yield than corporate equities but carry less risk.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "lợi suất",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "yielding",
           "example": "Investors shifted their capital into high-yielding money market accounts.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sinh lợi",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -898,102 +976,138 @@
       {
         "word": "desire",
         "example": "Our manager is trying to predict how many customers will desire our product over the next quarter.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "mong muốn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "desire",
         "example": "Her desire for greater control of the business led her to discuss her need for more information with her accountant.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "mong muốn, nguyện vọng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "desirable",
         "example": "The category summary, while desirable, was time-consuming to prepare.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đáng mong muốn, nên có",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "detail",
         "example": "The job description details all the duties of this position.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "trình bày chi tiết",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "detail",
         "example": "The budget report needs to be accurate down to the last detail.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "chi tiết",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "detailed",
         "example": "The director asked for a detailed description of our meeting.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "chi tiết, tỉ mỉ",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "project",
         "example": "The budget summary helped us project our expenditures for the year.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "dự tính, dự báo",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "project",
         "example": "The financial project was time-consuming and challenging.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "dự án",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "projection",
         "example": "Maurice&#x27;s projections for the upcoming fiscal year were not as helpful as we had hoped.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "bản dự báo, dự tính",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "realize",
         "example": "The plan helps her realize her dream of having the business turn a profit.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "hiện thực hóa, đạt được",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "reality",
         "example": "The financial statement reinforced the reality that our business is in deep trouble.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "thực tế",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "realistic",
         "example": "The accountant needs realistic numbers on which to base his plan.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "sát thực tế",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "translate",
         "example": "The computer was able to translate data from the created spreadsheet into the spreadsheet program I prefer.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "chuyển đổi dữ liệu",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "translation",
         "example": "The translation of the document was provided at no charge.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "bản dịch, việc dịch",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "translatable",
         "example": "The data was not translatable between programs and had to be entered by hand, which took hours.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có thể chuyển đổi",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "type",
         "example": "This type of business requires a lot of start-up money.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "loại, kiểu",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "typical",
         "example": "Part of a category summary is defining the expenses that are typical of the business in question.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "điển hình, đặc trưng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "typically",
         "example": "Typically, we finished preparing the budget just in time to meet the deadline.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "như thường lệ",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

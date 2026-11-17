@@ -26,17 +26,23 @@
         {
           "pos": "",
           "word": "advance",
-          "example": "We are advancing steadily toward our goal of improving customer service at every hotel in the chain."
+          "example": "We are advancing steadily toward our goal of improving customer service at every hotel in the chain.",
+          "meaning_vi": "trước; từ trước",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "advance",
-          "example": "Clarissa booked the bridal suite in advance of the hotel's official opening."
+          "example": "Clarissa booked the bridal suite in advance of the hotel's official opening.",
+          "meaning_vi": "trước; từ trước",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "advanced",
-          "example": "All hotel employees who do well at their jobs will be given the opportunity to move up to an advanced position."
+          "example": "All hotel employees who do well at their jobs will be given the opportunity to move up to an advanced position.",
+          "meaning_vi": "cấp cao hơn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -67,13 +73,17 @@
           "pos": "verb",
           "word": "advance",
           "example": "You can advance your boarding time by paying a small priority upgrade fee.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đẩy lên sớm hơn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "advancement",
           "example": "Technological advancements have made hotel check-in completely paperless.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự tiến bộ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -130,7 +140,9 @@
           "pos": "verb",
           "word": "chain",
           "example": "Bicycles must be chained to the designated bike racks outside the lobby.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "khóa bằng dây xích",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -188,7 +200,9 @@
           "pos": "noun",
           "word": "check-in",
           "example": "Online check-in opens twenty-four hours before scheduled flight departure.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc làm thủ tục nhận chỗ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -220,17 +234,23 @@
         {
           "pos": "verb",
           "word": "confirm",
-          "example": "It is wise to confirm your reservation before you leave for your trip."
+          "example": "It is wise to confirm your reservation before you leave for your trip.",
+          "meaning_vi": "xác nhận",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "confirmation",
-          "example": "The confirmation code given to Suzanne when she booked her room made it easy for her to resolve her problem."
+          "example": "The confirmation code given to Suzanne when she booked her room made it easy for her to resolve her problem.",
+          "meaning_vi": "sự xác nhận",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "confirmed",
-          "example": "The concierge had the confirmed helpful manner that is necessary in her position."
+          "example": "The concierge had the confirmed helpful manner that is necessary in her position.",
+          "meaning_vi": "đã thành nếp; cố hữu",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -262,13 +282,17 @@
           "pos": "noun",
           "word": "confirmation",
           "example": "You will receive a confirmation number by email once payment is completed.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự xác nhận",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "confirmed",
           "example": "We have a confirmed reservation for a double room with an ocean view.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã được xác nhận",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -300,17 +324,23 @@
         {
           "pos": "verb",
           "word": "expect",
-          "example": "We expect to reach our destination by dinner."
+          "example": "We expect to reach our destination by dinner.",
+          "meaning_vi": "dự kiến; mong đợi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "expectation",
-          "example": "The guest's expectations were not met, so he complained to the manager."
+          "example": "The guest's expectations were not met, so he complained to the manager.",
+          "meaning_vi": "sự kỳ vọng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "expectant",
-          "example": "The expectant travelers, loaded with luggage, left the hotel for their scheduled flight."
+          "example": "The expectant travelers, loaded with luggage, left the hotel for their scheduled flight.",
+          "meaning_vi": "đang mong chờ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -342,13 +372,17 @@
           "pos": "noun",
           "word": "expectation",
           "example": "The boutique resort exceeded all our expectations with its personalized service.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự kỳ vọng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "expectant",
           "example": "An expectant crowd gathered in the hotel lobby hoping to see the visiting celebrity.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đầy mong đợi",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -405,7 +439,9 @@
           "pos": "noun",
           "word": "housekeeping",
           "example": "Please dial zero to contact the housekeeping department for extra pillows.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bộ phận buồng phòng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -437,12 +473,16 @@
         {
           "pos": "verb",
           "word": "notify",
-          "example": "Please notify the front desk clerk if there are any problems with your room."
+          "example": "Please notify the front desk clerk if there are any problems with your room.",
+          "meaning_vi": "thông báo cho",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "notification",
-          "example": "Written notification is required for any changes in reservations."
+          "example": "Written notification is required for any changes in reservations.",
+          "meaning_vi": "thông báo",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -474,13 +514,17 @@
           "pos": "noun",
           "word": "notification",
           "example": "You will receive an automatic SMS notification when your flight gate is assigned.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thông báo",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "notifiable",
           "example": "Any safety hazard on the aircraft is a strictly notifiable incident.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bắt buộc phải thông báo",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -537,7 +581,9 @@
           "pos": "noun",
           "word": "preclusion",
           "example": "The strict cancellation terms led to the preclusion of any full refund.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự loại trừ; ngăn cản",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -569,17 +615,23 @@
         {
           "pos": "verb",
           "word": "quote",
-          "example": "When customers ask for the room rate, just quote them the prices listed on this sheet."
+          "example": "When customers ask for the room rate, just quote them the prices listed on this sheet.",
+          "meaning_vi": "báo giá",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "quotation",
-          "example": "The quotation given to me didn't make sense, so I called again to verify it."
+          "example": "The quotation given to me didn't make sense, so I called again to verify it.",
+          "meaning_vi": "báo giá",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "quotable",
-          "example": "Our manager instructed us that the current room rates would be quotable only until the end of the month, when a rate increase would go into effect."
+          "example": "Our manager instructed us that the current room rates would be quotable only until the end of the month, when a rate increase would go into effect.",
+          "meaning_vi": "có thể dùng để báo giá",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -611,13 +663,17 @@
           "pos": "noun",
           "word": "quotation",
           "example": "The travel manager requested a formal quotation for twenty round-trip airline tickets.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bản báo giá",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "quotable",
           "example": "The guest speaker delivered several quotable remarks during the opening seminar.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đáng trích dẫn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -676,7 +732,9 @@
           "pos": "noun",
           "word": "rating",
           "example": "The boutique hotel received a five-star rating on several travel review websites.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mức xếp hạng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -708,17 +766,23 @@
         {
           "pos": "verb",
           "word": "reserve",
-          "example": "We reserved a room well in advance."
+          "example": "We reserved a room well in advance.",
+          "meaning_vi": "đặt trước",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "reservation",
-          "example": "Seeing the crowds on the highway, I decided to pull over and telephone the hotel to make a reservation."
+          "example": "Seeing the crowds on the highway, I decided to pull over and telephone the hotel to make a reservation.",
+          "meaning_vi": "việc đặt chỗ trước",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "in reserve",
-          "example": "Like many other businesses, a hotel must keep some cash in reserve to pay for emergencies."
+          "example": "Like many other businesses, a hotel must keep some cash in reserve to pay for emergencies.",
+          "meaning_vi": "để dự phòng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -750,13 +814,17 @@
           "pos": "verb",
           "word": "reserve",
           "example": "It is strongly recommended to reserve your hotel room at least a month ahead.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đặt trước",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "reserved",
           "example": "The front row seats in the shuttle bus are reserved for elderly passengers.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được dành riêng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -815,13 +883,17 @@
           "pos": "verb",
           "word": "serve",
           "example": "Breakfast is served in the main dining hall from 6:30 AM to 10:00 AM.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "phục vụ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "serviceable",
           "example": "The spare airport shuttle bus is still fully serviceable.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "còn sử dụng tốt",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -871,97 +943,131 @@
       {
         "word": "advance",
         "example": "We are advancing steadily toward our goal of improving customer service at every hotel in the chain.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "trước; từ trước",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "advance",
         "example": "Clarissa booked the bridal suite in advance of the hotel's official opening.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "trước; từ trước",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "advanced",
         "example": "All hotel employees who do well at their jobs will be given the opportunity to move up to an advanced position.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "cấp cao hơn",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "confirm",
         "example": "It is wise to confirm your reservation before you leave for your trip.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "xác nhận",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "confirmation",
         "example": "The confirmation code given to Suzanne when she booked her room made it easy for her to resolve her problem.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự xác nhận",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "confirmed",
         "example": "The concierge had the confirmed helpful manner that is necessary in her position.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đã thành nếp; cố hữu",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "expect",
         "example": "We expect to reach our destination by dinner.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "dự kiến; mong đợi",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "expectation",
         "example": "The guest's expectations were not met, so he complained to the manager.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự kỳ vọng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "expectant",
         "example": "The expectant travelers, loaded with luggage, left the hotel for their scheduled flight.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đang mong chờ",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "notify",
         "example": "Please notify the front desk clerk if there are any problems with your room.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "thông báo cho",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "notification",
         "example": "Written notification is required for any changes in reservations.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "thông báo",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "quote",
         "example": "When customers ask for the room rate, just quote them the prices listed on this sheet.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "báo giá",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "quotation",
         "example": "The quotation given to me didn't make sense, so I called again to verify it.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "báo giá",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "quotable",
         "example": "Our manager instructed us that the current room rates would be quotable only until the end of the month, when a rate increase would go into effect.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có thể dùng để báo giá",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "reserve",
         "example": "We reserved a room well in advance.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "đặt trước",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "reservation",
         "example": "Seeing the crowds on the highway, I decided to pull over and telephone the hotel to make a reservation.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "việc đặt chỗ trước",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "in reserve",
         "example": "Like many other businesses, a hotel must keep some cash in reserve to pay for emergencies.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "để dự phòng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

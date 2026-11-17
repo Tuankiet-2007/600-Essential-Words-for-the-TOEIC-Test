@@ -268,6 +268,7 @@ function WordFamilyTable({ rows, words }) {
                           </span>
                         ) : null}
                       </p>
+                      {r.meaning_vi && <p className="mt-0.5 text-[12px] font-semibold leading-snug text-[var(--color-duo-ink)]">{r.meaning_vi}</p>}
                       {r.example ? (
                         <p className="mt-0.5 text-[12px] leading-relaxed text-[var(--color-duo-gray)]">
                           <Highlighted text={r.example} words={words} />

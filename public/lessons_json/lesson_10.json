@@ -52,19 +52,25 @@
           "pos": "verb",
           "word": "assemble",
           "example": "It took two hours to assemble the new office bookshelves.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "lắp ráp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "assembly",
           "example": "The bookcase comes with step-by-step assembly instructions.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc lắp ráp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "assembled",
           "example": "The desk is shipped fully assembled so no tools are required.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã lắp ráp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -118,13 +124,17 @@
           "pos": "adjective",
           "word": "beforehand",
           "example": "Being beforehand with our tax filings saved the firm from late penalties.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sớm, trước hạn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "beforehand",
           "example": "If you need a projector for your presentation, please let us know beforehand.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "trước, từ trước",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -156,17 +166,23 @@
         {
           "pos": "verb",
           "word": "complicate",
-          "example": "Don&#x27;t try to complicate things by making two-sided copies; single-sided will do."
+          "example": "Don&#x27;t try to complicate things by making two-sided copies; single-sided will do.",
+          "meaning_vi": "làm phức tạp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "complication",
-          "example": "There are a few complications with your layout, but they can be easily solved."
+          "example": "There are a few complications with your layout, but they can be easily solved.",
+          "meaning_vi": "vấn đề phức tạp, rắc rối",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "complicated",
-          "example": "The revisions in the document made it more complicated, rather than simpler."
+          "example": "The revisions in the document made it more complicated, rather than simpler.",
+          "meaning_vi": "phức tạp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -199,7 +215,9 @@
           "pos": "adverb",
           "word": "complicatedly",
           "example": "The tax form was so complicatedly worded that we had to hire an accountant.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách phức tạp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -256,13 +274,17 @@
           "pos": "verb",
           "word": "courier",
           "example": "We had the signed contracts couriered directly to the client's headquarters.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "gửi chuyển phát nhanh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "courier",
           "example": "The legal documents were sent by overnight courier this morning.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "dịch vụ, người chuyển phát nhanh",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -320,25 +342,33 @@
           "pos": "verb",
           "word": "express",
           "example": "Several board members expressed concern about the rising construction costs.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bày tỏ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "expression",
           "example": "Please accept this gift basket as an expression of our gratitude.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự bày tỏ, biểu hiện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "expressive",
           "example": "The actor is known for his expressive voice and commanding stage presence.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "giàu biểu cảm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "expressly",
           "example": "The company car is to be used expressly for official business purposes.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "riêng, dành riêng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -397,19 +427,25 @@
           "pos": "verb",
           "word": "fold",
           "example": "The brochures are printed and folded automatically by the new machine.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "gấp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "folder",
           "example": "Please place all expense receipts inside the blue file folder.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bìa đựng hồ sơ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "foldable",
           "example": "The commuter scooter is lightweight and easily foldable for train travel.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể gấp gọn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -466,13 +502,17 @@
           "pos": "verb",
           "word": "lay",
           "example": "The proposal clearly lays out the timeline for the construction project.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đặt, trình bày",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "layout",
           "example": "The supermarket redesigned its store layout to make the aisles wider.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bố cục, cách bố trí",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -504,17 +544,23 @@
         {
           "pos": "noun",
           "word": "mention",
-          "example": "The mention of layoffs made us worry."
+          "example": "The mention of layoffs made us worry.",
+          "meaning_vi": "sự nhắc đến",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "mention",
-          "example": "As I mentioned in my note to you, you should try to be less wordy and more concise in your writing."
+          "example": "As I mentioned in my note to you, you should try to be less wordy and more concise in your writing.",
+          "meaning_vi": "đề cập, nhắc đến",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "mentionable",
-          "example": "No one considered the mediocre design a mentionable achievement."
+          "example": "No one considered the mediocre design a mentionable achievement.",
+          "meaning_vi": "đáng nhắc đến",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -546,7 +592,9 @@
           "pos": "adjective",
           "word": "mentioned",
           "example": "Please send the above-mentioned documents to our legal department.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã được đề cập",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -578,17 +626,23 @@
         {
           "pos": "",
           "word": "petition",
-          "example": "In order to be valid, the contents of the petition need to be printed at the top of each page that will contain signatures."
+          "example": "In order to be valid, the contents of the petition need to be printed at the top of each page that will contain signatures.",
+          "meaning_vi": "đơn kiến nghị",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "verb",
           "word": "petition",
-          "example": "The welders petitioned the factory to install air conditioning."
+          "example": "The welders petitioned the factory to install air conditioning.",
+          "meaning_vi": "kiến nghị",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "petitioners",
-          "example": "The petitioners spent the night outside of the courthouse."
+          "example": "The petitioners spent the night outside of the courthouse.",
+          "meaning_vi": "những người kiến nghị",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -621,7 +675,9 @@
           "pos": "adjective",
           "word": "petitionary",
           "example": "The union submitted a petitionary letter requesting safer working conditions.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mang tính kiến nghị",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -653,17 +709,23 @@
         {
           "pos": "",
           "word": "proof",
-          "example": "It is your responsibility to proof your own work before sending it out."
+          "example": "It is your responsibility to proof your own work before sending it out.",
+          "meaning_vi": "đọc soát lỗi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "proofreader",
-          "example": "The proofreader did not find the errors."
+          "example": "The proofreader did not find the errors.",
+          "meaning_vi": "người đọc soát lỗi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "proofing",
-          "example": "Proofing a document is best done by starting at the end and reading backward."
+          "example": "Proofing a document is best done by starting at the end and reading backward.",
+          "meaning_vi": "việc đọc soát lỗi",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -694,13 +756,17 @@
           "pos": "verb",
           "word": "proofread",
           "example": "Please ask a colleague to proofread your report before sending it to the client.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đọc soát lỗi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "proven",
           "example": "We are looking for a sales director with a proven track record of success.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã được chứng minh",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -732,17 +798,23 @@
         {
           "pos": "",
           "word": "register",
-          "example": "Register this letter and bring back the receipt."
+          "example": "Register this letter and bring back the receipt.",
+          "meaning_vi": "gửi bảo đảm, đăng ký",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "registration",
-          "example": "Registration for the seminar can be done by fax."
+          "example": "Registration for the seminar can be done by fax.",
+          "meaning_vi": "việc đăng ký",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "registered",
-          "example": "Always get a receipt for registered mail."
+          "example": "Always get a receipt for registered mail.",
+          "meaning_vi": "được gửi bảo đảm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -775,7 +847,9 @@
           "pos": "noun",
           "word": "registry",
           "example": "All commercial vessels must be listed in the national shipping registry.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sổ đăng ký",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -807,17 +881,23 @@
         {
           "pos": "",
           "word": "revise",
-          "example": "After you revise the document, give it a new name so that we will still have access to both drafts."
+          "example": "After you revise the document, give it a new name so that we will still have access to both drafts.",
+          "meaning_vi": "chỉnh sửa",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "revised",
-          "example": "His revised memo was easier to read."
+          "example": "His revised memo was easier to read.",
+          "meaning_vi": "đã chỉnh sửa",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "revision",
-          "example": "You may have to do three or four full revisions to this document before it is acceptable."
+          "example": "You may have to do three or four full revisions to this document before it is acceptable.",
+          "meaning_vi": "lần chỉnh sửa, bản sửa đổi",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -849,7 +929,9 @@
           "pos": "noun",
           "word": "reviser",
           "example": "The publishing house hired an experienced reviser to update the textbook.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người chỉnh sửa",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -899,102 +981,138 @@
       {
         "word": "complicate",
         "example": "Don&#x27;t try to complicate things by making two-sided copies; single-sided will do.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "làm phức tạp",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "complication",
         "example": "There are a few complications with your layout, but they can be easily solved.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "vấn đề phức tạp, rắc rối",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "complicated",
         "example": "The revisions in the document made it more complicated, rather than simpler.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "phức tạp",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "mention",
         "example": "The mention of layoffs made us worry.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự nhắc đến",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "mention",
         "example": "As I mentioned in my note to you, you should try to be less wordy and more concise in your writing.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đề cập, nhắc đến",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "mentionable",
         "example": "No one considered the mediocre design a mentionable achievement.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đáng nhắc đến",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "petition",
         "example": "In order to be valid, the contents of the petition need to be printed at the top of each page that will contain signatures.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đơn kiến nghị",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "petition",
         "example": "The welders petitioned the factory to install air conditioning.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "kiến nghị",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "petitioners",
         "example": "The petitioners spent the night outside of the courthouse.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "những người kiến nghị",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "proof",
         "example": "It is your responsibility to proof your own work before sending it out.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đọc soát lỗi",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "proofreader",
         "example": "The proofreader did not find the errors.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "người đọc soát lỗi",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "proofing",
         "example": "Proofing a document is best done by starting at the end and reading backward.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "việc đọc soát lỗi",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "register",
         "example": "Register this letter and bring back the receipt.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "gửi bảo đảm, đăng ký",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "registration",
         "example": "Registration for the seminar can be done by fax.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "việc đăng ký",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "registered",
         "example": "Always get a receipt for registered mail.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "được gửi bảo đảm",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "revise",
         "example": "After you revise the document, give it a new name so that we will still have access to both drafts.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "chỉnh sửa",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "revised",
         "example": "His revised memo was easier to read.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đã chỉnh sửa",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "revision",
         "example": "You may have to do three or four full revisions to this document before it is acceptable.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "lần chỉnh sửa, bản sửa đổi",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

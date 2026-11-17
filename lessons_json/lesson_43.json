@@ -54,19 +54,25 @@
           "pos": "noun",
           "word": "availability",
           "example": "Please call the box office to check the availability of front-row seats.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tình trạng còn sẵn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "unavailable",
           "example": "The lead soprano was unavailable for interviews prior to the concert.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "không có mặt; không thể đáp ứng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "availably",
           "example": "The digital recordings are stored availably on the conservatory's internal server.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ở dạng sẵn để truy cập",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -98,17 +104,23 @@
         {
           "pos": "",
           "word": "broaden",
-          "example": "Connie would like to broaden her collection of CDs and add a few more music categories to it."
+          "example": "Connie would like to broaden her collection of CDs and add a few more music categories to it.",
+          "meaning_vi": "mở rộng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "broad",
-          "example": "We&#x27;ll cover a broad range of music in the music appreciation class."
+          "example": "We&#x27;ll cover a broad range of music in the music appreciation class.",
+          "meaning_vi": "rộng; đa dạng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "broadly",
-          "example": "The orchestra director travels broadly in search of new musical talent."
+          "example": "The orchestra director travels broadly in search of new musical talent.",
+          "meaning_vi": "khắp nhiều nơi",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -139,7 +151,9 @@
           "pos": "noun",
           "word": "breadth",
           "example": "Critics admired the impressive breadth of the composer's musical repertoire.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự phong phú; tầm rộng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -171,17 +185,23 @@
         {
           "pos": "",
           "word": "categorize",
-          "example": "Some singers have a broad range of styles and are difficult to categorize."
+          "example": "Some singers have a broad range of styles and are difficult to categorize.",
+          "meaning_vi": "phân loại",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "category",
-          "example": "Most of Sam&#x27;s compact discs fall into the category of classical music."
+          "example": "Most of Sam&#x27;s compact discs fall into the category of classical music.",
+          "meaning_vi": "thể loại; nhóm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "categorical",
-          "example": "The sheet music follows the categorical system used in most libraries."
+          "example": "The sheet music follows the categorical system used in most libraries.",
+          "meaning_vi": "theo hệ thống phân loại",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -215,13 +235,17 @@
           "pos": "adverb",
           "word": "categorically",
           "example": "The band's manager categorically denied rumors that the tour had been canceled.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách dứt khoát",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "categorization",
           "example": "The library's categorization of folk music recordings makes research much easier.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự phân loại",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -277,13 +301,17 @@
           "pos": "noun",
           "word": "disparity",
           "example": "There is a noticeable disparity between ticket prices for orchestra seats and balcony seats.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự chênh lệch",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "disparately",
           "example": "The two conductors interpreted the symphony quite disparately.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách khác biệt rõ rệt",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -344,25 +372,33 @@
           "pos": "verb",
           "word": "divide",
           "example": "The symphony is divided into four distinct movements.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chia thành",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "division",
           "example": "She was recently promoted to head of the classical music division.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bộ phận; ban",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "divided",
           "example": "The judging panel remained evenly divided over which pianist deserved first prize.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chia rẽ; bất đồng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "divisible",
           "example": "The concert hall can be made divisible into smaller recital rooms using movable walls.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể chia nhỏ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -394,17 +430,23 @@
         {
           "pos": "",
           "word": "favor",
-          "example": "The music critic clearly favors some musicians over others."
+          "example": "The music critic clearly favors some musicians over others.",
+          "meaning_vi": "ưu ái; thiên vị",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "favorite",
-          "example": "The teenager had an extensive collection of music by all her favorite groups."
+          "example": "The teenager had an extensive collection of music by all her favorite groups.",
+          "meaning_vi": "được yêu thích nhất",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "favorable",
-          "example": "The favorable reviews of the group&#x27;s new album helped to push the album up the sales charts."
+          "example": "The favorable reviews of the group&#x27;s new album helped to push the album up the sales charts.",
+          "meaning_vi": "tích cực; có thiện cảm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -438,7 +480,9 @@
           "pos": "adverb",
           "word": "favorably",
           "example": "Audience members responded very favorably to the orchestra's outdoor concert series.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách tích cực; tán thưởng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -497,19 +541,25 @@
           "pos": "noun",
           "word": "instinct",
           "example": "The young conductor has an unerring instinct for tempo and rhythm.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bản năng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "instinctive",
           "example": "Her expressive phrasing on the violin seems completely instinctive.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thuộc bản năng; tự nhiên",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "instinctively",
           "example": "Experienced jazz musicians instinctively adjust to changes in the soloist's rhythm.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo bản năng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -541,17 +591,23 @@
         {
           "pos": "",
           "word": "prefer",
-          "example": "I would prefer tickets for Saturday&#x27;s concert, but will accept Sunday tickets if that is all that is available."
+          "example": "I would prefer tickets for Saturday&#x27;s concert, but will accept Sunday tickets if that is all that is available.",
+          "meaning_vi": "thích hơn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "preference",
-          "example": "Jazz is his preference, but he is usually happy to hear anything playing locally."
+          "example": "Jazz is his preference, but he is usually happy to hear anything playing locally.",
+          "meaning_vi": "sở thích; sự ưa chuộng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "preferential",
-          "example": "The stage manager gave the opera diva preferential treatment, fearing her famous temper."
+          "example": "The stage manager gave the opera diva preferential treatment, fearing her famous temper.",
+          "meaning_vi": "ưu đãi; ưu tiên",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -584,13 +640,17 @@
           "pos": "adjective",
           "word": "preferable",
           "example": "Acoustic instruments are preferable to electronic ones for this chamber piece.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đáng chọn hơn; phù hợp hơn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "preferably",
           "example": "Concertgoers should arrive early, preferably thirty minutes before the show begins.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tốt nhất là",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -649,19 +709,25 @@
           "pos": "verb",
           "word": "reason",
           "example": "The organizers reasoned that outdoor concerts would attract younger families.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "suy luận; lập luận",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "reasonable",
           "example": "The symphony offers student tickets at a very reasonable price.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hợp lý; phải chăng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "reasonably",
           "example": "The vintage guitar is in reasonably good condition despite its age.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "khá; ở mức hợp lý",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -693,17 +759,23 @@
         {
           "pos": "",
           "word": "relax",
-          "example": "After a long concert tour, the singer liked to relax by the pool."
+          "example": "After a long concert tour, the singer liked to relax by the pool.",
+          "meaning_vi": "thư giãn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "relaxation",
-          "example": "Listening to music is an enduring form of relaxation."
+          "example": "Listening to music is an enduring form of relaxation.",
+          "meaning_vi": "sự thư giãn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "relaxing",
-          "example": "There is nothing more relaxing than listening to music."
+          "example": "There is nothing more relaxing than listening to music.",
+          "meaning_vi": "giúp thư giãn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -736,7 +808,9 @@
           "pos": "adjective",
           "word": "relaxed",
           "example": "The acoustic café provides a relaxed setting for amateur songwriters.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thoải mái; thư thái",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -796,19 +870,25 @@
           "pos": "verb",
           "word": "taste",
           "example": "Guests were invited to taste regional wines during the concert intermission.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nếm thử",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "tasteful",
           "example": "The lobby of the concert hall features tasteful floral arrangements.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "trang nhã; có thẩm mỹ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "tastefully",
           "example": "The lounge was tastefully furnished with antique pianos and velvet chairs.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách trang nhã",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -840,17 +920,23 @@
         {
           "pos": "",
           "word": "urge",
-          "example": "My music teacher urged me not to give up the violin even though I was having such a hard time with it."
+          "example": "My music teacher urged me not to give up the violin even though I was having such a hard time with it.",
+          "meaning_vi": "sự thôi thúc; ham muốn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "urge",
-          "example": "Richard gets the urge to play the guitar every time he passes a music store window."
+          "example": "Richard gets the urge to play the guitar every time he passes a music store window.",
+          "meaning_vi": "sự thôi thúc; ham muốn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "urgent",
-          "example": "It&#x27;s urgent to order those concert tickets as soon as possible because they will sell out quickly."
+          "example": "It&#x27;s urgent to order those concert tickets as soon as possible because they will sell out quickly.",
+          "meaning_vi": "cấp bách; khẩn cấp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -883,13 +969,17 @@
           "pos": "noun",
           "word": "urgency",
           "example": "The conductor stressed the urgency of replacing the damaged stage microphones.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tính cấp bách",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "urgently",
           "example": "The festival organizers urgently needed a sound technician before the show started.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách khẩn cấp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -939,102 +1029,138 @@
       {
         "word": "broaden",
         "example": "Connie would like to broaden her collection of CDs and add a few more music categories to it.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "mở rộng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "broad",
         "example": "We&#x27;ll cover a broad range of music in the music appreciation class.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "rộng; đa dạng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "broadly",
         "example": "The orchestra director travels broadly in search of new musical talent.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "khắp nhiều nơi",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "categorize",
         "example": "Some singers have a broad range of styles and are difficult to categorize.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "phân loại",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "category",
         "example": "Most of Sam&#x27;s compact discs fall into the category of classical music.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thể loại; nhóm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "categorical",
         "example": "The sheet music follows the categorical system used in most libraries.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "theo hệ thống phân loại",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "favor",
         "example": "The music critic clearly favors some musicians over others.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "ưu ái; thiên vị",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "favorite",
         "example": "The teenager had an extensive collection of music by all her favorite groups.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "được yêu thích nhất",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "favorable",
         "example": "The favorable reviews of the group&#x27;s new album helped to push the album up the sales charts.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tích cực; có thiện cảm",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "prefer",
         "example": "I would prefer tickets for Saturday&#x27;s concert, but will accept Sunday tickets if that is all that is available.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thích hơn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "preference",
         "example": "Jazz is his preference, but he is usually happy to hear anything playing locally.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sở thích; sự ưa chuộng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "preferential",
         "example": "The stage manager gave the opera diva preferential treatment, fearing her famous temper.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "ưu đãi; ưu tiên",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "relax",
         "example": "After a long concert tour, the singer liked to relax by the pool.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thư giãn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "relaxation",
         "example": "Listening to music is an enduring form of relaxation.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự thư giãn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "relaxing",
         "example": "There is nothing more relaxing than listening to music.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "giúp thư giãn",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "urge",
         "example": "My music teacher urged me not to give up the violin even though I was having such a hard time with it.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự thôi thúc; ham muốn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "urge",
         "example": "Richard gets the urge to play the guitar every time he passes a music store window.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự thôi thúc; ham muốn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "urgent",
         "example": "It&#x27;s urgent to order those concert tickets as soon as possible because they will sell out quickly.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "cấp bách; khẩn cấp",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

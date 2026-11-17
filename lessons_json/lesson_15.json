@@ -26,17 +26,23 @@
         {
           "pos": "",
           "word": "achievement",
-          "example": "His achievements were noticed by the vice president and he was sent to the London office."
+          "example": "His achievements were noticed by the vice president and he was sent to the London office.",
+          "meaning_vi": "thành tích",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "achieve",
-          "example": "Making a list of your objectives will help you achieve them."
+          "example": "Making a list of your objectives will help you achieve them.",
+          "meaning_vi": "đạt được",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "achiever",
-          "example": "Mr. Vadji always considered himself a high achiever."
+          "example": "Mr. Vadji always considered himself a high achiever.",
+          "meaning_vi": "người đạt thành tích cao",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -68,7 +74,9 @@
           "pos": "adjective",
           "word": "achievable",
           "example": "Managers should set realistic and achievable quarterly targets for their teams.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể đạt được",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -100,17 +108,23 @@
         {
           "pos": "",
           "word": "contribute",
-          "example": "All employees were urged to contribute something useful at the staff meetings."
+          "example": "All employees were urged to contribute something useful at the staff meetings.",
+          "meaning_vi": "đóng góp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "contribution",
-          "example": "Each of you has made a significant contribution to our team's success."
+          "example": "Each of you has made a significant contribution to our team's success.",
+          "meaning_vi": "sự đóng góp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "contributor",
-          "example": "As contributors to the company's outstanding year, all employees will receive an additional holiday bonus."
+          "example": "As contributors to the company's outstanding year, all employees will receive an additional holiday bonus.",
+          "meaning_vi": "người đóng góp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -142,7 +156,9 @@
           "pos": "adjective",
           "word": "contributory",
           "example": "All full-time staff are enrolled in a contributory pension scheme.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có đóng góp vào quỹ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -198,19 +214,25 @@
           "pos": "verb",
           "word": "look",
           "example": "We look to expand our regional presence over the next two years.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "xem xét",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "forward",
           "example": "The board approved a bold forward plan for international growth.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hướng tới tương lai",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "forward",
           "example": "We are moving forward with the construction of the new warehouse.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tiến lên, tiếp tục",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -268,19 +290,25 @@
           "pos": "verb",
           "word": "look",
           "example": "Investors often look at quarterly earnings before making decisions.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "xem xét",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "outlook",
           "example": "Analysts maintain a favorable outlook on the retail sector.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "triển vọng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "onlooker",
           "example": "A crowd of onlookers gathered for the grand opening ceremony.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người đứng xem",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -312,17 +340,23 @@
         {
           "pos": "",
           "word": "loyal",
-          "example": "He has been both a loyal coworker and a loyal friend."
+          "example": "He has been both a loyal coworker and a loyal friend.",
+          "meaning_vi": "trung thành",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "loyalty",
-          "example": "Her loyalty to the company impressed even the owners."
+          "example": "Her loyalty to the company impressed even the owners.",
+          "meaning_vi": "lòng trung thành",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "loyally",
-          "example": "The security officer loyally guarded the company's vault."
+          "example": "The security officer loyally guarded the company's vault.",
+          "meaning_vi": "một cách trung thành",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -352,7 +386,9 @@
           "pos": "adjective",
           "word": "disloyal",
           "example": "Sharing proprietary data with a competitor is a disloyal and unlawful act.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bất trung",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -410,19 +446,25 @@
           "pos": "verb",
           "word": "merit",
           "example": "The engineer's cost-saving proposal certainly merits serious consideration.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "xứng đáng được",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "merit",
           "example": "Promotions at our firm are awarded strictly on the basis of merit.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "năng lực, công trạng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "meritorious",
           "example": "She received a medal for twenty years of meritorious service to the agency.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đáng khen, có công",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -477,19 +519,25 @@
           "pos": "noun",
           "word": "obviousness",
           "example": "Despite the obviousness of the error, it went unnoticed until the final audit.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tính hiển nhiên",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "obvious",
           "example": "It was obvious from the sales report that the new campaign was working.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "rõ ràng, hiển nhiên",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "obviously",
           "example": "The client was obviously delighted with the redesigned website.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "rõ ràng là",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -521,17 +569,23 @@
         {
           "pos": "",
           "word": "productive",
-          "example": "The most productive team in the department will win a two-day vacation in the Bahamas."
+          "example": "The most productive team in the department will win a two-day vacation in the Bahamas.",
+          "meaning_vi": "có năng suất cao",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "product",
-          "example": "The new product will be released in the early spring."
+          "example": "The new product will be released in the early spring.",
+          "meaning_vi": "sản phẩm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "produce",
-          "example": "The film was produced in Manila."
+          "example": "The film was produced in Manila.",
+          "meaning_vi": "sản xuất",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -563,13 +617,17 @@
           "pos": "noun",
           "word": "productivity",
           "example": "Upgrading the factory machinery boosted overall worker productivity by fifteen percent.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "năng suất",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "productively",
           "example": "The two departments worked productively together to meet the tight deadline.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách hiệu quả",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -601,17 +659,23 @@
         {
           "pos": "",
           "word": "promote",
-          "example": "In order to move ahead in the company, you must promote yourself."
+          "example": "In order to move ahead in the company, you must promote yourself.",
+          "meaning_vi": "quảng bá, đề cao",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "promotion",
-          "example": "Promotions are given to those who prove their worth."
+          "example": "Promotions are given to those who prove their worth.",
+          "meaning_vi": "sự thăng chức",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "promoter",
-          "example": "As the main promoter of the product, Ms. Ross was responsible for the marketing campaign."
+          "example": "As the main promoter of the product, Ms. Ross was responsible for the marketing campaign.",
+          "meaning_vi": "người quảng bá",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -643,7 +707,9 @@
           "pos": "adjective",
           "word": "promotional",
           "example": "Visitors to our trade show booth will receive free promotional merchandise.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "dùng để quảng bá",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -702,25 +768,33 @@
           "pos": "verb",
           "word": "recognize",
           "example": "The annual banquet is held to recognize employees who have served for ten years.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ghi nhận, tôn vinh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "recognition",
           "example": "She was given a bonus in recognition of her exceptional leadership.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự ghi nhận",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "recognizable",
           "example": "The company's new logo is instantly recognizable to consumers worldwide.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể nhận ra",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "recognizably",
           "example": "The redesigned model is recognizably more fuel-efficient than its predecessor.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách dễ nhận thấy",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -778,25 +852,33 @@
           "pos": "verb",
           "word": "value",
           "example": "We deeply value the feedback provided by our long-term clients.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "trân trọng, coi trọng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "valuation",
           "example": "An independent appraiser completed a valuation of the commercial property.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "việc định giá",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "valuable",
           "example": "Internships provide students with valuable hands-on industry experience.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "quý giá, hữu ích",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "valued",
           "example": "As a valued member of our rewards program, you qualify for free shipping.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được trân trọng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -848,102 +930,138 @@
       {
         "word": "achievement",
         "example": "His achievements were noticed by the vice president and he was sent to the London office.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thành tích",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "achieve",
         "example": "Making a list of your objectives will help you achieve them.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đạt được",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "achiever",
         "example": "Mr. Vadji always considered himself a high achiever.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "người đạt thành tích cao",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "contribute",
         "example": "All employees were urged to contribute something useful at the staff meetings.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đóng góp",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "contribution",
         "example": "Each of you has made a significant contribution to our team's success.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự đóng góp",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "contributor",
         "example": "As contributors to the company's outstanding year, all employees will receive an additional holiday bonus.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "người đóng góp",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "dedicate",
         "example": "The manager dedicates too much time to reports and not enough time to the customer.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "dành, cống hiến",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "dedication",
         "example": "Margo's dedication to the company was rewarded with a two-week trip to Hawaii.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự tận tụy",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "dedicated",
         "example": "Before the change in management, he used to be a more dedicated worker.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tận tâm",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "loyal",
         "example": "He has been both a loyal coworker and a loyal friend.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "trung thành",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "loyalty",
         "example": "Her loyalty to the company impressed even the owners.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "lòng trung thành",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "loyally",
         "example": "The security officer loyally guarded the company's vault.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách trung thành",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "productive",
         "example": "The most productive team in the department will win a two-day vacation in the Bahamas.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có năng suất cao",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "product",
         "example": "The new product will be released in the early spring.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sản phẩm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "produce",
         "example": "The film was produced in Manila.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sản xuất",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "promote",
         "example": "In order to move ahead in the company, you must promote yourself.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "quảng bá, đề cao",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "promotion",
         "example": "Promotions are given to those who prove their worth.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự thăng chức",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "promoter",
         "example": "As the main promoter of the product, Ms. Ross was responsible for the marketing campaign.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "người quảng bá",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

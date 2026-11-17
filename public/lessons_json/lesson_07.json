@@ -26,17 +26,23 @@
         {
           "pos": "",
           "word": "affordable",
-          "example": "Broad-band access to the Internet became more affordable at the beginning of the millennium."
+          "example": "Broad-band access to the Internet became more affordable at the beginning of the millennium.",
+          "meaning_vi": "giá phải chăng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "verb",
           "word": "afford",
-          "example": "Lucinda has taken so much leave this year that she can&#x27;t afford to miss another day&#x27;s work."
+          "example": "Lucinda has taken so much leave this year that she can&#x27;t afford to miss another day&#x27;s work.",
+          "meaning_vi": "có khả năng, có thể chịu được",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "affordability",
-          "example": "We looked into the affordability of placing a scanner at each designer&#x27;s desk."
+          "example": "We looked into the affordability of placing a scanner at each designer&#x27;s desk.",
+          "meaning_vi": "khả năng chi trả",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -68,7 +74,9 @@
           "pos": "adverb",
           "word": "affordably",
           "example": "The new furniture line is both stylishly designed and affordably priced.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "với giá phải chăng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -126,25 +134,33 @@
           "pos": "verb",
           "word": "need",
           "example": "Please let the receptionist know if you need any assistance with your luggage.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cần",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "need",
           "example": "There is a growing need for bilingual customer service representatives.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhu cầu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "needed",
           "example": "The government grant provided much-needed funding for the research lab.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cần thiết",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "needfully",
           "example": "All safety equipment was needfully inspected prior to the plant reopening.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo yêu cầu cần thiết",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -203,19 +219,25 @@
           "pos": "verb",
           "word": "charge",
           "example": "The hotel does not charge guests for local telephone calls.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tính phí",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "charge",
           "example": "Delivery is free of charge for all orders exceeding fifty dollars.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "khoản phí",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "chargeable",
           "example": "Any repairs caused by user negligence are chargeable to the customer.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "phải chịu phí",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -276,25 +298,33 @@
           "pos": "verb",
           "word": "capacitate",
           "example": "Specialized training programs capacitate employees to handle complex machinery.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "trang bị năng lực",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "capacity",
           "example": "The stadium has a seating capacity of over fifty thousand spectators.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sức chứa",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "capacious",
           "example": "The new SUV features a capacious trunk suitable for family road trips.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "rộng rãi, chứa được nhiều",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "capaciously",
           "example": "The exhibition hall was capaciously designed to host multiple trade shows.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách rộng rãi",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -352,19 +382,25 @@
           "pos": "noun",
           "word": "durability",
           "example": "Our outdoor furniture is famous for its exceptional durability in harsh weather.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "độ bền",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "durable",
           "example": "The hiking boots are made from waterproof and durable leather.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bền",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "durably",
           "example": "These industrial laptops are durably built to withstand drops and vibrations.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách bền chắc",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -396,17 +432,23 @@
         {
           "pos": "",
           "word": "initiate",
-          "example": "The company will initiate its new products at the beginning of the year."
+          "example": "The company will initiate its new products at the beginning of the year.",
+          "meaning_vi": "khởi xướng, bắt đầu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "initiative",
-          "example": "The manager, knowing how concerned his employees were, took the initiative to provide training for them on the new equipment."
+          "example": "The manager, knowing how concerned his employees were, took the initiative to provide training for them on the new equipment.",
+          "meaning_vi": "sự chủ động, sáng kiến",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "initiation",
-          "example": "As an initiation into the sales field, Mr. Jenkins was given the most problematic customer&#x27;s account."
+          "example": "As an initiation into the sales field, Mr. Jenkins was given the most problematic customer&#x27;s account.",
+          "meaning_vi": "sự làm quen ban đầu",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -439,13 +481,17 @@
           "pos": "adjective",
           "word": "initial",
           "example": "The initial response to our advertising campaign has been overwhelmingly positive.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ban đầu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "initially",
           "example": "The bridge project was initially scheduled for completion in May.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "ban đầu",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -477,17 +523,23 @@
         {
           "pos": "",
           "word": "physically",
-          "example": "The vagrant had to be physically removed from the building."
+          "example": "The vagrant had to be physically removed from the building.",
+          "meaning_vi": "bằng sức lực, về thể chất",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "physical",
-          "example": "The physical presence of a computer engineer is vastly superior to telephone tech support."
+          "example": "The physical presence of a computer engineer is vastly superior to telephone tech support.",
+          "meaning_vi": "trực tiếp, có mặt thực tế",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "physique",
-          "example": "We need a model with a proportional physique."
+          "example": "We need a model with a proportional physique.",
+          "meaning_vi": "vóc dáng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -519,7 +571,9 @@
           "pos": "noun",
           "word": "physician",
           "example": "Employees absent for more than three days must provide a note from a physician.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bác sĩ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -551,17 +605,23 @@
         {
           "pos": "",
           "word": "provide",
-          "example": "The company provides a five-year warranty on its products."
+          "example": "The company provides a five-year warranty on its products.",
+          "meaning_vi": "cung cấp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "provider",
-          "example": "As your provider of network services, I promise to give you the best prices and service."
+          "example": "As your provider of network services, I promise to give you the best prices and service.",
+          "meaning_vi": "nhà cung cấp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "provision",
-          "example": "Our provisions of supplies should last to the end of the quarter."
+          "example": "Our provisions of supplies should last to the end of the quarter.",
+          "meaning_vi": "nguồn vật tư dự trữ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -593,13 +653,17 @@
           "pos": "adjective",
           "word": "provisional",
           "example": "A provisional budget has been set up for the first quarter of next year.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tạm thời",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "provisionally",
           "example": "The dates for the training workshop have been provisionally approved.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tạm thời",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -631,17 +695,23 @@
         {
           "pos": "",
           "word": "recur",
-          "example": "We don&#x27;t want that problem to recur every month."
+          "example": "We don&#x27;t want that problem to recur every month.",
+          "meaning_vi": "tái diễn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "recurrence",
-          "example": "Every recurrence of the same problem costs us money."
+          "example": "Every recurrence of the same problem costs us money.",
+          "meaning_vi": "sự tái diễn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "recurring",
-          "example": "Recurring problems waste time and money."
+          "example": "Recurring problems waste time and money.",
+          "meaning_vi": "lặp đi lặp lại",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -673,13 +743,17 @@
           "pos": "adjective",
           "word": "recurrent",
           "example": "The software update finally fixed a recurrent bug in the billing module.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hay tái diễn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "recurrently",
           "example": "Funding shortages have recurrently delayed the highway expansion project.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "lặp đi lặp lại",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -711,17 +785,23 @@
         {
           "pos": "",
           "word": "reduce",
-          "example": "Buying in bulk can help to reduce costs."
+          "example": "Buying in bulk can help to reduce costs.",
+          "meaning_vi": "giảm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "reduction",
-          "example": "The introduction of the fax machine created a noticeable increase in phone bills."
+          "example": "The introduction of the fax machine created a noticeable increase in phone bills.",
+          "meaning_vi": "sự cắt giảm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "reducible",
-          "example": "Although our system is working at capacity, the amount of information being processed is not reducible."
+          "example": "Although our system is working at capacity, the amount of information being processed is not reducible.",
+          "meaning_vi": "có thể giảm bớt",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -753,7 +833,9 @@
           "pos": "adjective",
           "word": "reduced",
           "example": "Winter coats are now on sale at significantly reduced prices.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã giảm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -810,19 +892,25 @@
           "pos": "verb",
           "word": "top",
           "example": "Fourth-quarter earnings topped ten million dollars for the first time.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "vượt quá",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "top",
           "example": "Please write your account number at the top of the application form.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "phần đầu, phía trên",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "topmost",
           "example": "Passenger safety is always the topmost priority for our airline.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cao nhất, hàng đầu",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -883,19 +971,25 @@
           "pos": "verb",
           "word": "restock",
           "example": "Night shift workers restock the supermarket shelves before the store opens.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bổ sung hàng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "stock",
           "example": "We apologize that the item you ordered is temporarily out of stock.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hàng tồn kho",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "stocked",
           "example": "The employee break room is always well stocked with coffee and snacks.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được dự trữ, trang bị",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -945,102 +1039,138 @@
       {
         "word": "affordable",
         "example": "Broad-band access to the Internet became more affordable at the beginning of the millennium.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "giá phải chăng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "afford",
         "example": "Lucinda has taken so much leave this year that she can&#x27;t afford to miss another day&#x27;s work.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "có khả năng, có thể chịu được",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "affordability",
         "example": "We looked into the affordability of placing a scanner at each designer&#x27;s desk.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "khả năng chi trả",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "initiate",
         "example": "The company will initiate its new products at the beginning of the year.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "khởi xướng, bắt đầu",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "initiative",
         "example": "The manager, knowing how concerned his employees were, took the initiative to provide training for them on the new equipment.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự chủ động, sáng kiến",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "initiation",
         "example": "As an initiation into the sales field, Mr. Jenkins was given the most problematic customer&#x27;s account.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự làm quen ban đầu",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "physically",
         "example": "The vagrant had to be physically removed from the building.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "bằng sức lực, về thể chất",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "physical",
         "example": "The physical presence of a computer engineer is vastly superior to telephone tech support.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "trực tiếp, có mặt thực tế",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "physique",
         "example": "We need a model with a proportional physique.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "vóc dáng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "provide",
         "example": "The company provides a five-year warranty on its products.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "cung cấp",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "provider",
         "example": "As your provider of network services, I promise to give you the best prices and service.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "nhà cung cấp",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "provision",
         "example": "Our provisions of supplies should last to the end of the quarter.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "nguồn vật tư dự trữ",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "recur",
         "example": "We don&#x27;t want that problem to recur every month.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tái diễn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "recurrence",
         "example": "Every recurrence of the same problem costs us money.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự tái diễn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "recurring",
         "example": "Recurring problems waste time and money.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "lặp đi lặp lại",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "reduce",
         "example": "Buying in bulk can help to reduce costs.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "giảm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "reduction",
         "example": "The introduction of the fax machine created a noticeable increase in phone bills.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự cắt giảm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "reducible",
         "example": "Although our system is working at capacity, the amount of information being processed is not reducible.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có thể giảm bớt",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

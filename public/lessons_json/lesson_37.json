@@ -51,13 +51,17 @@
           "pos": "noun",
           "word": "dealer",
           "example": "The car dealer explained the financing options available to buyers.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đại lý, người kinh doanh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "dealing",
           "example": "Fair dealing with clients builds a lasting business reputation.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cách giao dịch, đối xử",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -116,7 +120,9 @@
           "pos": "verb",
           "word": "destine",
           "example": "The flight was destined for London but was diverted to Manchester.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "định sẵn điểm đến, số phận",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -148,17 +154,23 @@
         {
           "pos": "verb",
           "word": "distinguish",
-          "example": "I can&#x27;t distinguish any difference in the two airlines, since their fares are the same."
+          "example": "I can&#x27;t distinguish any difference in the two airlines, since their fares are the same.",
+          "meaning_vi": "phân biệt, nhận ra khác biệt",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "distinguishable",
-          "example": "The airline&#x27;s planes were easily distinguishable by the bright logo on the planes&#x27; tails."
+          "example": "The airline&#x27;s planes were easily distinguishable by the bright logo on the planes&#x27; tails.",
+          "meaning_vi": "có thể phân biệt được",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "distinguishably",
-          "example": "Even though you have paid a lower fare, you won&#x27;t be distinguishably different than the other passengers on the plane."
+          "example": "Even though you have paid a lower fare, you won&#x27;t be distinguishably different than the other passengers on the plane.",
+          "meaning_vi": "một cách có thể nhận thấy",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -190,13 +202,17 @@
           "pos": "adjective",
           "word": "distinguishable",
           "example": "The two models are distinguishable by their subtle design differences.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể phân biệt được",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "distinguished",
           "example": "He had a distinguished career as a diplomat in Southeast Asia.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "xuất sắc, lỗi lạc",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -228,17 +244,23 @@
         {
           "pos": "",
           "word": "economize",
-          "example": "We no longer fly first class, since our company is trying to economize."
+          "example": "We no longer fly first class, since our company is trying to economize.",
+          "meaning_vi": "tiết kiệm chi phí",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "economical",
-          "example": "Without hesitation, we chose the more economical of the two airline tickets."
+          "example": "Without hesitation, we chose the more economical of the two airline tickets.",
+          "meaning_vi": "tiết kiệm, ít tốn kém",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "economically",
-          "example": "A good travel agent can help you plan your trip economically."
+          "example": "A good travel agent can help you plan your trip economically.",
+          "meaning_vi": "một cách tiết kiệm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -270,13 +292,17 @@
           "pos": "adjective",
           "word": "economical",
           "example": "Taking the train is often more economical than renting a car.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tiết kiệm, ít tốn kém",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "economy",
           "example": "Traveling in economy class helps business travelers keep budgets low.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hạng phổ thông; sự tiết kiệm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -334,7 +360,9 @@
           "pos": "noun",
           "word": "equivalence",
           "example": "The test establishes equivalence between the two certification levels.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự tương đương",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -392,7 +420,9 @@
           "pos": "noun",
           "word": "excursionist",
           "example": "The bus was filled with excursionists eager to see the historic castle.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "khách đi tham quan ngắn ngày",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -424,17 +454,23 @@
         {
           "pos": "noun",
           "word": "expense",
-          "example": "To stay within our travel budget, we must keep all our expenses as low as possible."
+          "example": "To stay within our travel budget, we must keep all our expenses as low as possible.",
+          "meaning_vi": "chi phí, khoản chi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "expensively",
-          "example": "The first-class seats are for those who travel expensively but with great style."
+          "example": "The first-class seats are for those who travel expensively but with great style.",
+          "meaning_vi": "một cách tốn kém, xa hoa",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "expensive",
-          "example": "Only the most expensive fares were still available."
+          "example": "Only the most expensive fares were still available.",
+          "meaning_vi": "đắt tiền, tốn kém",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -466,13 +502,17 @@
           "pos": "adjective",
           "word": "expensive",
           "example": "Staying in five-star hotels can make a business trip very expensive.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đắt đỏ, tốn kém",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "expensively",
           "example": "The hotel lobby was expensively furnished with marble and Italian leather.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách đắt tiền, sang trọng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -504,17 +544,23 @@
         {
           "pos": "",
           "word": "extend",
-          "example": "When people travel to an interesting destination for business, they often extend their trip by a few days in order to enjoy the place as a tourist."
+          "example": "When people travel to an interesting destination for business, they often extend their trip by a few days in order to enjoy the place as a tourist.",
+          "meaning_vi": "kéo dài, gia hạn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "extent",
-          "example": "Larry has traveled to Japan many times and the extent of his knowledge of that country is impressive."
+          "example": "Larry has traveled to Japan many times and the extent of his knowledge of that country is impressive.",
+          "meaning_vi": "mức độ, phạm vi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "extensive",
-          "example": "Pamela is taking six months off from work in order to take an extensive tour of South America."
+          "example": "Pamela is taking six months off from work in order to take an extensive tour of South America.",
+          "meaning_vi": "rộng khắp, quy mô lớn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -546,13 +592,17 @@
           "pos": "noun",
           "word": "extension",
           "example": "She requested a two-week extension on her project deadline.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự gia hạn, kéo dài",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "extensive",
           "example": "The travel guide contains extensive information about regional attractions.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sâu rộng, phong phú",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -584,12 +634,16 @@
         {
           "pos": "",
           "word": "prospect",
-          "example": "The prospects of getting a seat on this evening&#x27;s flight are not good."
+          "example": "The prospects of getting a seat on this evening&#x27;s flight are not good.",
+          "meaning_vi": "triển vọng, khả năng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "prospective",
-          "example": "The travel agency offered special deals in order to attract prospective customers."
+          "example": "The travel agency offered special deals in order to attract prospective customers.",
+          "meaning_vi": "tiềm năng, có triển vọng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -620,13 +674,17 @@
           "pos": "noun",
           "word": "prospect",
           "example": "The company is exploring new business prospects in the overseas tourism market.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "triển vọng, cơ hội kinh doanh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "prospectively",
           "example": "The new policy will apply prospectively to all future travel bookings.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "áp dụng cho tương lai",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -684,13 +742,17 @@
           "pos": "verb",
           "word": "situate",
           "example": "The historic resort is conveniently situated near the harbor.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đặt, bố trí ở một vị trí",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "situated",
           "example": "The hotel is ideally situated within walking distance of the central station.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nằm ở, tọa lạc",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -722,17 +784,23 @@
         {
           "pos": "",
           "word": "substance",
-          "example": "I couldn&#x27;t recognize the substance that was on my meal tray and that the airlines called dinner."
+          "example": "I couldn&#x27;t recognize the substance that was on my meal tray and that the airlines called dinner.",
+          "meaning_vi": "chất, vật chất",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "substantial",
-          "example": "Ms. Qin found there was a substantial difference in the price quoted for the plane ticket, depending on which day she flew."
+          "example": "Ms. Qin found there was a substantial difference in the price quoted for the plane ticket, depending on which day she flew.",
+          "meaning_vi": "đáng kể, lớn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "substantially",
-          "example": "There is substantially no difference in the quality of food served in first class and in economy class."
+          "example": "There is substantially no difference in the quality of food served in first class and in economy class.",
+          "meaning_vi": "về cơ bản, hầu như",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -764,13 +832,17 @@
           "pos": "adjective",
           "word": "substantial",
           "example": "The airline reported a substantial increase in international passengers this quarter.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đáng kể, lớn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "substance",
           "example": "The report lacks substance and does not explain the true cause of the travel delays.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nội dung thực chất",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -828,13 +900,17 @@
           "pos": "adjective",
           "word": "systematic",
           "example": "The airline conducted a systematic inspection of all aircraft engines.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có hệ thống, bài bản",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "systematically",
           "example": "Customer feedback was systematically recorded and reviewed by management.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách có hệ thống",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -884,97 +960,131 @@
       {
         "word": "distinguish",
         "example": "I can&#x27;t distinguish any difference in the two airlines, since their fares are the same.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "phân biệt, nhận ra khác biệt",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "distinguishable",
         "example": "The airline&#x27;s planes were easily distinguishable by the bright logo on the planes&#x27; tails.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "có thể phân biệt được",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "distinguishably",
         "example": "Even though you have paid a lower fare, you won&#x27;t be distinguishably different than the other passengers on the plane.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách có thể nhận thấy",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "economize",
         "example": "We no longer fly first class, since our company is trying to economize.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tiết kiệm chi phí",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "economical",
         "example": "Without hesitation, we chose the more economical of the two airline tickets.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tiết kiệm, ít tốn kém",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "economically",
         "example": "A good travel agent can help you plan your trip economically.",
-        "pos": "adverb"
+        "pos": "adverb",
+        "meaning_vi": "một cách tiết kiệm",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "expense",
         "example": "To stay within our travel budget, we must keep all our expenses as low as possible.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "chi phí, khoản chi",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "expensively",
         "example": "The first-class seats are for those who travel expensively but with great style.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách tốn kém, xa hoa",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "expensive",
         "example": "Only the most expensive fares were still available.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đắt tiền, tốn kém",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "extend",
         "example": "When people travel to an interesting destination for business, they often extend their trip by a few days in order to enjoy the place as a tourist.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "kéo dài, gia hạn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "extent",
         "example": "Larry has traveled to Japan many times and the extent of his knowledge of that country is impressive.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "mức độ, phạm vi",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "extensive",
         "example": "Pamela is taking six months off from work in order to take an extensive tour of South America.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "rộng khắp, quy mô lớn",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "prospect",
         "example": "The prospects of getting a seat on this evening&#x27;s flight are not good.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "triển vọng, khả năng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "prospective",
         "example": "The travel agency offered special deals in order to attract prospective customers.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "tiềm năng, có triển vọng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "substance",
         "example": "I couldn&#x27;t recognize the substance that was on my meal tray and that the airlines called dinner.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "chất, vật chất",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "substantial",
         "example": "Ms. Qin found there was a substantial difference in the price quoted for the plane ticket, depending on which day she flew.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "đáng kể, lớn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "substantially",
         "example": "There is substantially no difference in the quality of food served in first class and in economy class.",
-        "pos": "adverb"
+        "pos": "adverb",
+        "meaning_vi": "về cơ bản, hầu như",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

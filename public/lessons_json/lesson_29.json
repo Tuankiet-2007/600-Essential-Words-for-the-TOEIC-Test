@@ -26,17 +26,23 @@
         {
           "pos": "noun",
           "word": "anxiety",
-          "example": "The level of anxiety was high when the experimental car underwent road tests."
+          "example": "The level of anxiety was high when the experimental car underwent road tests.",
+          "meaning_vi": "sự lo lắng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "anxious",
-          "example": "If you feel anxious, sit down and try to relax."
+          "example": "If you feel anxious, sit down and try to relax.",
+          "meaning_vi": "lo lắng, bất an",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "anxiously",
-          "example": "The stockholders anxiously awaited the release of the new drug that, if successful, would make their stocks more valuable."
+          "example": "The stockholders anxiously awaited the release of the new drug that, if successful, would make their stocks more valuable.",
+          "meaning_vi": "một cách lo lắng, sốt ruột",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -69,7 +75,9 @@
           "pos": "noun",
           "word": "anxiousness",
           "example": "The team's anxiousness subsided once the prototype passed its final durability test.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tâm trạng lo âu",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -126,19 +134,25 @@
           "pos": "verb",
           "word": "ascertain",
           "example": "Investigators are working to ascertain the exact cause of the power outage.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "xác minh, tìm hiểu chắc chắn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "ascertainment",
           "example": "The ascertainment of market demand is the first step in new product development.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự xác định, xác minh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "ascertainable",
           "example": "The exact date of the original patent filing was easily ascertainable from public records.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể xác định được",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -170,17 +184,23 @@
         {
           "pos": "",
           "word": "assume",
-          "example": "Product developers should assume nothing that research does not support."
+          "example": "Product developers should assume nothing that research does not support.",
+          "meaning_vi": "cho rằng, giả định",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "assumption",
-          "example": "Most consumers make the assumption that, unless they are warned otherwise, the products they buy are safe."
+          "example": "Most consumers make the assumption that, unless they are warned otherwise, the products they buy are safe.",
+          "meaning_vi": "sự giả định, điều cho là đúng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "assumed",
-          "example": "The assumed results should be kept confidential until the product is retested."
+          "example": "The assumed results should be kept confidential until the product is retested.",
+          "meaning_vi": "được giả định",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -212,7 +232,9 @@
           "pos": "adjective",
           "word": "unassuming",
           "example": "Despite his many patents, the chief inventor remained modest and unassuming.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "khiêm tốn, không phô trương",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -272,13 +294,17 @@
           "pos": "noun",
           "word": "decades",
           "example": "The family-owned bakery has used the same traditional recipes for over four decades.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "các thập kỷ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "decadal",
           "example": "Researchers analyzed decadal trends in global energy consumption.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thuộc chu kỳ mười năm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -336,25 +362,33 @@
           "pos": "verb",
           "word": "examine",
           "example": "The legal team will examine the patent application before submitting it.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "xem xét, kiểm tra kỹ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "examination",
           "example": "A closer examination of the survey data revealed an unexpected demographic trend.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự xem xét, kiểm tra",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "examiner",
           "example": "The patent examiner approved the company's new battery design.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người thẩm định, kiểm tra",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "examined",
           "example": "None of the examined prototypes showed any signs of structural weakness.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã được kiểm tra",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -386,17 +420,23 @@
         {
           "pos": "verb",
           "word": "experiment",
-          "example": "The product developer had experimented with improving electronic equipment since she was in the sixth grade."
+          "example": "The product developer had experimented with improving electronic equipment since she was in the sixth grade.",
+          "meaning_vi": "thử nghiệm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "experimentation",
-          "example": "Hi-tech companies are constantly involved in experimentation with new products in order to stay ahead of their competitors."
+          "example": "Hi-tech companies are constantly involved in experimentation with new products in order to stay ahead of their competitors.",
+          "meaning_vi": "việc thử nghiệm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "experimental",
-          "example": "The new computer was experimental, so you could try it at the store, but you couldn't buy one."
+          "example": "The new computer was experimental, so you could try it at the store, but you couldn't buy one.",
+          "meaning_vi": "mang tính thử nghiệm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -428,7 +468,9 @@
           "pos": "adverb",
           "word": "experimentally",
           "example": "The autonomous delivery robots are currently being tested experimentally in two cities.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo cách thử nghiệm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -460,17 +502,23 @@
         {
           "pos": "",
           "word": "logic",
-          "example": "Most problems can be easily solved by the application of logic."
+          "example": "Most problems can be easily solved by the application of logic.",
+          "meaning_vi": "lô-gíc, lý lẽ hợp lý",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "logical",
-          "example": "It was logical to put Martha in charge of the project as she had spent so much time developing the idea."
+          "example": "It was logical to put Martha in charge of the project as she had spent so much time developing the idea.",
+          "meaning_vi": "hợp lý, có lô-gíc",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "logically",
-          "example": "I thought Mr. Lee answered the question quite logically."
+          "example": "I thought Mr. Lee answered the question quite logically.",
+          "meaning_vi": "một cách hợp lý",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -502,7 +550,9 @@
           "pos": "adjective",
           "word": "illogical",
           "example": "It would be illogical to launch the product before completing consumer safety trials.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "phi lý, thiếu lô-gíc",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -561,19 +611,25 @@
           "pos": "verb",
           "word": "research",
           "example": "Our team spent six months researching consumer preferences in the European market.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nghiên cứu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "researcher",
           "example": "Lead researcher Dr. Kim will present the team's findings at the international symposium.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhà nghiên cứu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "researched",
           "example": "The consultant delivered a thoroughly researched report on emerging industry trends.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được nghiên cứu",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -605,17 +661,23 @@
         {
           "pos": "",
           "word": "responsibility",
-          "example": "Although the ultimate responsibility falls on the supervisor, every employee shares it."
+          "example": "Although the ultimate responsibility falls on the supervisor, every employee shares it.",
+          "meaning_vi": "trách nhiệm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "responsible",
-          "example": "The researcher responsible for passing the defective product has joined the cafeteria workers' assembly line."
+          "example": "The researcher responsible for passing the defective product has joined the cafeteria workers' assembly line.",
+          "meaning_vi": "chịu trách nhiệm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "responsibly",
-          "example": "Product designers must act responsibly when they consider how a product might be misused."
+          "example": "Product designers must act responsibly when they consider how a product might be misused.",
+          "meaning_vi": "một cách có trách nhiệm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -648,7 +710,9 @@
           "pos": "adjective",
           "word": "irresponsible",
           "example": "Releasing an untested medical device onto the market would be completely irresponsible.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "vô trách nhiệm",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -706,19 +770,25 @@
           "pos": "verb",
           "word": "solve",
           "example": "Engineers worked around the clock to solve the software compatibility issue.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "giải quyết",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "solution",
           "example": "Cloud storage offers a cost-effective solution for small businesses with limited server space.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "giải pháp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "solvable",
           "example": "Most initial production glitches are easily solvable with minor calibration adjustments.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể giải quyết được",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -750,17 +820,23 @@
         {
           "pos": "verb",
           "word": "supervise",
-          "example": "It's important to carefully supervise the collection of research data to ensure its accuracy."
+          "example": "It's important to carefully supervise the collection of research data to ensure its accuracy.",
+          "meaning_vi": "giám sát",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "supervisor",
-          "example": "George hopes to be promoted to supervisor of his department."
+          "example": "George hopes to be promoted to supervisor of his department.",
+          "meaning_vi": "người giám sát, quản lý",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "supervision",
-          "example": "Many employees do better work when they are under less supervision."
+          "example": "Many employees do better work when they are under less supervision.",
+          "meaning_vi": "sự giám sát",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -793,7 +869,9 @@
           "pos": "adjective",
           "word": "supervisory",
           "example": "Applicants for the plant manager position must have at least five years of supervisory experience.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thuộc công tác giám sát",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -850,19 +928,25 @@
           "pos": "verb",
           "word": "systematize",
           "example": "The new database helped systematize how customer complaints are logged and tracked.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hệ thống hóa",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "system",
           "example": "We are installing an automated inventory tracking system in all regional warehouses.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hệ thống",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "systematic",
           "example": "A systematic review of the production line revealed three areas where energy could be saved.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có hệ thống, bài bản",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -912,102 +996,138 @@
       {
         "word": "anxiety",
         "example": "The level of anxiety was high when the experimental car underwent road tests.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự lo lắng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "anxious",
         "example": "If you feel anxious, sit down and try to relax.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "lo lắng, bất an",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "anxiously",
         "example": "The stockholders anxiously awaited the release of the new drug that, if successful, would make their stocks more valuable.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách lo lắng, sốt ruột",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "assume",
         "example": "Product developers should assume nothing that research does not support.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "cho rằng, giả định",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "assumption",
         "example": "Most consumers make the assumption that, unless they are warned otherwise, the products they buy are safe.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự giả định, điều cho là đúng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "assumed",
         "example": "The assumed results should be kept confidential until the product is retested.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "được giả định",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "experiment",
         "example": "The product developer had experimented with improving electronic equipment since she was in the sixth grade.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "thử nghiệm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "experimentation",
         "example": "Hi-tech companies are constantly involved in experimentation with new products in order to stay ahead of their competitors.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "việc thử nghiệm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "experimental",
         "example": "The new computer was experimental, so you could try it at the store, but you couldn't buy one.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "mang tính thử nghiệm",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "logic",
         "example": "Most problems can be easily solved by the application of logic.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "lô-gíc, lý lẽ hợp lý",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "logical",
         "example": "It was logical to put Martha in charge of the project as she had spent so much time developing the idea.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "hợp lý, có lô-gíc",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "logically",
         "example": "I thought Mr. Lee answered the question quite logically.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách hợp lý",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "responsibility",
         "example": "Although the ultimate responsibility falls on the supervisor, every employee shares it.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "trách nhiệm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "responsible",
         "example": "The researcher responsible for passing the defective product has joined the cafeteria workers' assembly line.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "chịu trách nhiệm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "responsibly",
         "example": "Product designers must act responsibly when they consider how a product might be misused.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách có trách nhiệm",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "supervise",
         "example": "It's important to carefully supervise the collection of research data to ensure its accuracy.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "giám sát",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "supervisor",
         "example": "George hopes to be promoted to supervisor of his department.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "người giám sát, quản lý",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "supervision",
         "example": "Many employees do better work when they are under less supervision.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự giám sát",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

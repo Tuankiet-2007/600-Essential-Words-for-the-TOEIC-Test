@@ -54,19 +54,25 @@
           "pos": "verb",
           "word": "bargain",
           "example": "Tourists often bargain with street vendors at the local market.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mặc cả",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "bargain",
           "example": "At fifty percent off, this winter coat is an absolute bargain.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "món hàng giá hời",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "bargaining",
           "example": "Another round of collective bargaining will begin next Monday.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự thương lượng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -125,25 +131,33 @@
           "pos": "verb",
           "word": "bear",
           "example": "The manufacturer agreed to bear the full cost of replacing the faulty parts.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chịu, gánh chịu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "bearer",
           "example": "This voucher entitles the bearer to a ten-dollar discount on any purchase.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người cầm phiếu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "bearable",
           "example": "Installing air conditioning made working in the warehouse much more bearable.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có thể chịu được",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "unbearable",
           "example": "The noise from the adjacent construction site became unbearable by noon.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "không thể chịu nổi",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -201,25 +215,33 @@
           "pos": "verb",
           "word": "behave",
           "example": "All representatives are expected to behave professionally at trade fairs.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cư xử",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "behavior",
           "example": "Recent surveys show a shift in online shopping behavior.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hành vi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "behavioral",
           "example": "The marketing firm analyzes behavioral data to predict seasonal trends.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thuộc về hành vi",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "behaviorally",
           "example": "Loyalty members differ behaviorally from occasional bargain shoppers.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "về mặt hành vi",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -276,13 +298,17 @@
           "pos": "verb",
           "word": "check out",
           "example": "Hotel guests must check out before eleven o'clock in the morning.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "làm thủ tục trả phòng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "checkout",
           "example": "Please present your discount coupon to the cashier at the checkout.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "quầy thanh toán",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -314,17 +340,23 @@
         {
           "pos": "",
           "word": "comfort",
-          "example": "This car is designed with plush seats for your comfort and air bags for your safety."
+          "example": "This car is designed with plush seats for your comfort and air bags for your safety.",
+          "meaning_vi": "sự thoải mái",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "comfortable",
-          "example": "I prefer this sweater because it&#x27;s more comfortable."
+          "example": "I prefer this sweater because it&#x27;s more comfortable.",
+          "meaning_vi": "thoải mái",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "comfortably",
-          "example": "I&#x27;d suggest buying the larger table, which comfortably seats six."
+          "example": "I&#x27;d suggest buying the larger table, which comfortably seats six.",
+          "meaning_vi": "một cách thoải mái",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -357,7 +389,9 @@
           "pos": "adjective",
           "word": "uncomfortable",
           "example": "Employees complained that the old desk chairs were uncomfortable.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "không thoải mái",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -389,17 +423,23 @@
         {
           "pos": "",
           "word": "expand",
-          "example": "The music store expanded its selection by offering more classical music on compact discs."
+          "example": "The music store expanded its selection by offering more classical music on compact discs.",
+          "meaning_vi": "mở rộng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "expansion",
-          "example": "The expansion of our sales territory into a new region will mean more stock will have to be ordered."
+          "example": "The expansion of our sales territory into a new region will mean more stock will have to be ordered.",
+          "meaning_vi": "sự mở rộng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "expanded",
-          "example": "The expanded inventory is great, but it&#x27;s hard to find room to store it."
+          "example": "The expanded inventory is great, but it&#x27;s hard to find room to store it.",
+          "meaning_vi": "được mở rộng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -432,13 +472,17 @@
           "pos": "adjective",
           "word": "expansive",
           "example": "The hotel suite offers an expansive view of the harbor.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "rộng lớn, bao quát",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "expansively",
           "example": "The CEO spoke expansively about the company's five-year growth strategy.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách cởi mở, dài rộng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -470,17 +514,23 @@
         {
           "pos": "verb",
           "word": "explore",
-          "example": "Ms. Marce explored the bins of hardware, looking for the right size nails."
+          "example": "Ms. Marce explored the bins of hardware, looking for the right size nails.",
+          "meaning_vi": "tìm kiếm, xem xét kỹ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "exploration",
-          "example": "The store designer&#x27;s exploration of the art of different cultures gave the store an exotic look."
+          "example": "The store designer&#x27;s exploration of the art of different cultures gave the store an exotic look.",
+          "meaning_vi": "sự khám phá, tìm hiểu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "exploratory",
-          "example": "The oil company&#x27;s exploratory drill led to a new supply of petroleum."
+          "example": "The oil company&#x27;s exploratory drill led to a new supply of petroleum.",
+          "meaning_vi": "mang tính thăm dò",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -511,7 +561,9 @@
           "pos": "noun",
           "word": "explorer",
           "example": "Early market explorers often gain a strong competitive advantage.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người tiên phong khám phá",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -569,19 +621,25 @@
           "pos": "verb",
           "word": "itemize",
           "example": "Contractors must itemize all labor and material costs on the invoice.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "liệt kê từng khoản",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "itemization",
           "example": "The client requested a full itemization of the consulting expenses.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bản kê từng khoản",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "itemized",
           "example": "Employees must attach an itemized receipt to every reimbursement claim.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được kê chi tiết",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -613,17 +671,23 @@
         {
           "pos": "adjective",
           "word": "mandatory",
-          "example": "Ankle-high boots are mandatory with that skirt."
+          "example": "Ankle-high boots are mandatory with that skirt.",
+          "meaning_vi": "bắt buộc",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "mandate",
-          "example": "One of the company mandates is to treat the customer with the greatest respect."
+          "example": "One of the company mandates is to treat the customer with the greatest respect.",
+          "meaning_vi": "quy định bắt buộc",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "mandate",
-          "example": "The handbook mandates that all keys be turned in to the night shift supervisor by 9:00."
+          "example": "The handbook mandates that all keys be turned in to the night shift supervisor by 9:00.",
+          "meaning_vi": "quy định, bắt buộc",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -654,7 +718,9 @@
           "pos": "adverb",
           "word": "mandatorily",
           "example": "All food-handling personnel are mandatorily tested for hygiene compliance.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "theo quy định bắt buộc",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -686,17 +752,23 @@
         {
           "pos": "noun",
           "word": "merchandise",
-          "example": "The store&#x27;s buyer is aggressive about finding unique, high-quality merchandise."
+          "example": "The store&#x27;s buyer is aggressive about finding unique, high-quality merchandise.",
+          "meaning_vi": "hàng hóa",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "verb",
           "word": "merchandise",
-          "example": "The home superstore merchandises hardware and other goods for do-it-yourself home improvements."
+          "example": "The home superstore merchandises hardware and other goods for do-it-yourself home improvements.",
+          "meaning_vi": "kinh doanh, bày bán",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "merchant",
-          "example": "The Downtown Merchants Association is offering free gift wrapping this year."
+          "example": "The Downtown Merchants Association is offering free gift wrapping this year.",
+          "meaning_vi": "thương nhân",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -726,7 +798,9 @@
           "pos": "noun",
           "word": "merchandising",
           "example": "Effective visual merchandising can significantly boost impulse purchases.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hoạt động trưng bày, bán hàng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -758,17 +832,23 @@
         {
           "pos": "noun",
           "word": "strictness",
-          "example": "Ms. Judd was appalled by the strictness of the store&#x27;s policy not to renew her gift certificate after it had expired."
+          "example": "Ms. Judd was appalled by the strictness of the store&#x27;s policy not to renew her gift certificate after it had expired.",
+          "meaning_vi": "sự nghiêm ngặt",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "strict",
-          "example": "Our store has a strict policy of no returns."
+          "example": "Our store has a strict policy of no returns.",
+          "meaning_vi": "nghiêm ngặt",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "strictly",
-          "example": "The no-food-or-drinks rule is strictly enforced in the bookstore."
+          "example": "The no-food-or-drinks rule is strictly enforced in the bookstore.",
+          "meaning_vi": "một cách nghiêm ngặt",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -797,7 +877,9 @@
           "pos": "verb",
           "word": "restrict",
           "example": "Access to the server room is restricted to authorized IT personnel.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hạn chế, giới hạn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -855,19 +937,25 @@
           "pos": "verb",
           "word": "trend",
           "example": "Raw material prices have been trending upward over the past six months.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "có xu hướng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "trend",
           "example": "The report analyzes recent trends in e-commerce logistics.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "xu hướng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "trendy",
           "example": "The boutique attracts young shoppers with its trendy accessories.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hợp thời trang",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -917,102 +1005,138 @@
       {
         "word": "comfort",
         "example": "This car is designed with plush seats for your comfort and air bags for your safety.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự thoải mái",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "comfortable",
         "example": "I prefer this sweater because it&#x27;s more comfortable.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thoải mái",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "comfortably",
         "example": "I&#x27;d suggest buying the larger table, which comfortably seats six.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách thoải mái",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "expand",
         "example": "The music store expanded its selection by offering more classical music on compact discs.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "mở rộng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "expansion",
         "example": "The expansion of our sales territory into a new region will mean more stock will have to be ordered.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự mở rộng",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "expanded",
         "example": "The expanded inventory is great, but it&#x27;s hard to find room to store it.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "được mở rộng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "explore",
         "example": "Ms. Marce explored the bins of hardware, looking for the right size nails.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "tìm kiếm, xem xét kỹ",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "exploration",
         "example": "The store designer&#x27;s exploration of the art of different cultures gave the store an exotic look.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự khám phá, tìm hiểu",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "exploratory",
         "example": "The oil company&#x27;s exploratory drill led to a new supply of petroleum.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "mang tính thăm dò",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "mandatory",
         "example": "Ankle-high boots are mandatory with that skirt.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "bắt buộc",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "mandate",
         "example": "One of the company mandates is to treat the customer with the greatest respect.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "quy định bắt buộc",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "mandate",
         "example": "The handbook mandates that all keys be turned in to the night shift supervisor by 9:00.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "quy định, bắt buộc",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "merchandise",
         "example": "The store&#x27;s buyer is aggressive about finding unique, high-quality merchandise.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "hàng hóa",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "merchandise",
         "example": "The home superstore merchandises hardware and other goods for do-it-yourself home improvements.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "kinh doanh, bày bán",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "merchant",
         "example": "The Downtown Merchants Association is offering free gift wrapping this year.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "thương nhân",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "strictness",
         "example": "Ms. Judd was appalled by the strictness of the store&#x27;s policy not to renew her gift certificate after it had expired.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự nghiêm ngặt",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "strict",
         "example": "Our store has a strict policy of no returns.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "nghiêm ngặt",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "strictly",
         "example": "The no-food-or-drinks rule is strictly enforced in the bookstore.",
-        "pos": "adverb"
+        "pos": "adverb",
+        "meaning_vi": "một cách nghiêm ngặt",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

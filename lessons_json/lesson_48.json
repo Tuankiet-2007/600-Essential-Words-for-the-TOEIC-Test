@@ -26,17 +26,23 @@
         {
           "pos": "",
           "word": "allow",
-          "example": "The insurance policy did not allow multiple prescription refills."
+          "example": "The insurance policy did not allow multiple prescription refills.",
+          "meaning_vi": "cho phép",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "allowance",
-          "example": "The policy is liberal in its allowance for optometry services."
+          "example": "The policy is liberal in its allowance for optometry services.",
+          "meaning_vi": "mức chi trả được cho phép",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "allowable",
-          "example": "A maximum of two dental visits is allowable under the plan."
+          "example": "A maximum of two dental visits is allowable under the plan.",
+          "meaning_vi": "được phép",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -69,7 +75,9 @@
           "pos": "adverb",
           "word": "allowably",
           "example": "Up to five hundred dollars in unused wellness funds may be allowably carried over to next year.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "trong phạm vi được phép",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -101,17 +109,23 @@
         {
           "pos": "",
           "word": "alternate",
-          "example": "We alternate turns in taking the kids to the doctor."
+          "example": "We alternate turns in taking the kids to the doctor.",
+          "meaning_vi": "luân phiên; thay phiên",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "alternative",
-          "example": "Our medical insurance was too expensive, so we sought a cheaper alternative."
+          "example": "Our medical insurance was too expensive, so we sought a cheaper alternative.",
+          "meaning_vi": "thay thế; khác để lựa chọn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "alternative",
-          "example": "We need to find an alternative health plan as this one is too expensive."
+          "example": "We need to find an alternative health plan as this one is too expensive.",
+          "meaning_vi": "thay thế; khác để lựa chọn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -143,7 +157,9 @@
           "pos": "adverb",
           "word": "alternatively",
           "example": "You may submit your claim form by mail; alternatively, you can upload it through our member portal.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hoặc có thể; cách khác là",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -201,13 +217,17 @@
           "pos": "noun",
           "word": "aspect",
           "example": "The human resources seminar covered every aspect of the new employee benefits package.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "khía cạnh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "aspectual",
           "example": "Analysts examined the aspectual differences between the two regional healthcare models.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thuộc khía cạnh; xét theo khía cạnh",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -239,17 +259,23 @@
         {
           "pos": "",
           "word": "concern",
-          "example": "It concerns me that we haven&#x27;t been able to find a suitable health insurance plan."
+          "example": "It concerns me that we haven&#x27;t been able to find a suitable health insurance plan.",
+          "meaning_vi": "mối lo ngại",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "concern",
-          "example": "A good doctor will pay attention to any and all concerns the patient expresses about his or her health."
+          "example": "A good doctor will pay attention to any and all concerns the patient expresses about his or her health.",
+          "meaning_vi": "mối lo ngại",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "concerned",
-          "example": "I am concerned about the limited benefits this insurance plan offers."
+          "example": "I am concerned about the limited benefits this insurance plan offers.",
+          "meaning_vi": "lo lắng; lo ngại",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -285,13 +311,17 @@
           "pos": "adjective",
           "word": "concerning",
           "example": "Employees raised several questions concerning the new dental coverage limits.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "liên quan đến",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "unconcerned",
           "example": "Younger workers often seem unconcerned about long-term disability insurance.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "không quan tâm; không lo lắng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -323,17 +353,23 @@
         {
           "pos": "",
           "word": "emphasize",
-          "example": "The plan representative emphasized the need for a second medical opinion."
+          "example": "The plan representative emphasized the need for a second medical opinion.",
+          "meaning_vi": "nhấn mạnh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "emphasis",
-          "example": "The emphasis of the health plan is on staying well."
+          "example": "The emphasis of the health plan is on staying well.",
+          "meaning_vi": "sự chú trọng; điểm nhấn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "emphatic",
-          "example": "Hassan made an emphatic appeal to the medical insurance director."
+          "example": "Hassan made an emphatic appeal to the medical insurance director.",
+          "meaning_vi": "mạnh mẽ; dứt khoát",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -365,7 +401,9 @@
           "pos": "adverb",
           "word": "emphatically",
           "example": "The human resources director emphatically assured staff that benefits would not be reduced.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách dứt khoát, mạnh mẽ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -422,19 +460,25 @@
           "pos": "verb",
           "word": "incur",
           "example": "Policyholders who visit out-of-network hospitals may incur higher out-of-pocket fees.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "phải chịu; phát sinh chi phí",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "incurred",
           "example": "The company will reimburse all medical expenses incurred during overseas business trips.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đã phát sinh; phải gánh chịu",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "incurrence",
           "example": "Prior approval is required before the incurrence of any non-emergency surgical costs.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự phát sinh chi phí",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -489,19 +533,25 @@
           "pos": "noun",
           "word": "person",
           "example": "Each insured person will receive a plastic identification card in the mail.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người; cá nhân",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "personal",
           "example": "All personal medical information is kept strictly confidential by the insurer.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cá nhân; riêng tư",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "personally",
           "example": "The benefits coordinator personally answered every employee's questions after the meeting.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "đích thân",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -561,13 +611,17 @@
           "pos": "noun",
           "word": "policyholder",
           "example": "Policyholders must notify the insurance provider within thirty days of a change of address.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người đứng tên hợp đồng bảo hiểm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "policymaker",
           "example": "Healthcare policymakers met to discuss ways to lower prescription drug prices.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhà hoạch định chính sách",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -624,19 +678,25 @@
           "pos": "verb",
           "word": "portion",
           "example": "The clinic's annual budget is portioned among its four regional branches.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chia phần; phân bổ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "verb",
           "word": "apportion",
           "example": "Insurance premiums are apportioned between the employer and the employee.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "phân chia theo phần",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "proportional",
           "example": "Part-time workers receive health benefits proportional to the number of hours they work.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tỷ lệ thuận; tương ứng theo tỷ lệ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -668,17 +728,23 @@
         {
           "pos": "",
           "word": "regard",
-          "example": "We regard this health insurance plan as one of the best options available."
+          "example": "We regard this health insurance plan as one of the best options available.",
+          "meaning_vi": "coi là; xem là",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "regardful",
-          "example": "The company was not regardful of the needs of most of the employees when it chose this health insurance plan."
+          "example": "The company was not regardful of the needs of most of the employees when it chose this health insurance plan.",
+          "meaning_vi": "quan tâm; lưu ý đến",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "regardless",
-          "example": "I took the job regardless of the poor health benefits the company offers."
+          "example": "I took the job regardless of the poor health benefits the company offers.",
+          "meaning_vi": "bất chấp; không kể đến",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -708,13 +774,17 @@
           "pos": "noun",
           "word": "regard",
           "example": "Please contact the benefits office with regard to your maternity leave coverage.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự liên quan; phương diện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "regarding",
           "example": "We have sent an email regarding the upcoming open enrollment period.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "về; liên quan đến",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -774,13 +844,17 @@
           "pos": "noun",
           "word": "salary",
           "example": "A small percentage of each employee's salary is deducted for health insurance.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "tiền lương",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "salaried",
           "example": "All salaried employees receive paid sick leave and full medical coverage.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "hưởng lương cố định",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -812,17 +886,23 @@
         {
           "pos": "",
           "word": "suit",
-          "example": "I&#x27;m dropping my health plan because it does not suit my needs."
+          "example": "I&#x27;m dropping my health plan because it does not suit my needs.",
+          "meaning_vi": "phù hợp với",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "suitable",
-          "example": "Not every kind of health insurance is suitable for every family."
+          "example": "Not every kind of health insurance is suitable for every family.",
+          "meaning_vi": "phù hợp",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "suitably",
-          "example": "The errors on my insurance statement were caught and suitably fixed."
+          "example": "The errors on my insurance statement were caught and suitably fixed.",
+          "meaning_vi": "một cách thích hợp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -855,7 +935,9 @@
           "pos": "noun",
           "word": "suitability",
           "example": "A financial advisor can help you evaluate the suitability of each insurance tier.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự phù hợp",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -905,102 +987,138 @@
       {
         "word": "allow",
         "example": "The insurance policy did not allow multiple prescription refills.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "cho phép",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "allowance",
         "example": "The policy is liberal in its allowance for optometry services.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "mức chi trả được cho phép",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "allowable",
         "example": "A maximum of two dental visits is allowable under the plan.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "được phép",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "alternate",
         "example": "We alternate turns in taking the kids to the doctor.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "luân phiên; thay phiên",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "alternative",
         "example": "Our medical insurance was too expensive, so we sought a cheaper alternative.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thay thế; khác để lựa chọn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "alternative",
         "example": "We need to find an alternative health plan as this one is too expensive.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thay thế; khác để lựa chọn",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "concern",
         "example": "It concerns me that we haven&#x27;t been able to find a suitable health insurance plan.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "mối lo ngại",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "concern",
         "example": "A good doctor will pay attention to any and all concerns the patient expresses about his or her health.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "mối lo ngại",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "concerned",
         "example": "I am concerned about the limited benefits this insurance plan offers.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "lo lắng; lo ngại",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "emphasize",
         "example": "The plan representative emphasized the need for a second medical opinion.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "nhấn mạnh",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "emphasis",
         "example": "The emphasis of the health plan is on staying well.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "sự chú trọng; điểm nhấn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "emphatic",
         "example": "Hassan made an emphatic appeal to the medical insurance director.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "mạnh mẽ; dứt khoát",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "regard",
         "example": "We regard this health insurance plan as one of the best options available.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "coi là; xem là",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "regardful",
         "example": "The company was not regardful of the needs of most of the employees when it chose this health insurance plan.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "quan tâm; lưu ý đến",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "regardless",
         "example": "I took the job regardless of the poor health benefits the company offers.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "bất chấp; không kể đến",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "suit",
         "example": "I&#x27;m dropping my health plan because it does not suit my needs.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "phù hợp với",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "suitable",
         "example": "Not every kind of health insurance is suitable for every family.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "phù hợp",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "suitably",
         "example": "The errors on my insurance statement were caught and suitably fixed.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "một cách thích hợp",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],

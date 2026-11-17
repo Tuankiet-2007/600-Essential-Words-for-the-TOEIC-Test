@@ -26,17 +26,23 @@
         {
           "pos": "noun",
           "word": "appreciation",
-          "example": "In appreciation for your hard work, we are giving you a top-priority project."
+          "example": "In appreciation for your hard work, we are giving you a top-priority project.",
+          "meaning_vi": "sự ghi nhận, lòng biết ơn",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "verb",
           "word": "appreciate",
-          "example": "We appreciate the time that you have put into this project, but we need to see more positive results."
+          "example": "We appreciate the time that you have put into this project, but we need to see more positive results.",
+          "meaning_vi": "trân trọng, đánh giá cao",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "appreciated",
-          "example": "The intern felt appreciated, like a member of the team."
+          "example": "The intern felt appreciated, like a member of the team.",
+          "meaning_vi": "được trân trọng",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -69,13 +75,17 @@
           "pos": "adjective",
           "word": "appreciative",
           "example": "The charity organization was deeply appreciative of our company's generous donation.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "biết ơn, trân trọng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "appreciatively",
           "example": "The audience nodded appreciatively as the director thanked the technical crew.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "với vẻ tán thưởng, biết ơn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -134,25 +144,33 @@
           "pos": "verb",
           "word": "make",
           "example": "The factory makes precision components for the aerospace industry.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "chế tạo, làm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "maker",
           "example": "The automaker announced plans to launch three electric vehicles next year.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhà sản xuất",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "making",
           "example": "This documentary was three years in the making.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "quá trình thực hiện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "made",
           "example": "All of our chocolates are freshly made on the premises every morning.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được làm ra",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -210,13 +228,17 @@
           "pos": "verb",
           "word": "bring",
           "example": "Please remember to bring your identification card to the training session.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "mang đến",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "brought",
           "example": "The expertise brought by our new director has revitalized the sales team.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được mang đến",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -273,19 +295,25 @@
           "pos": "noun",
           "word": "casualness",
           "example": "Despite the casualness of the lunch meeting, several key decisions were made.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự thoải mái, không câu nệ",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "casual",
           "example": "Employees are permitted to wear casual attire on Fridays during the summer.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thoải mái, không trang trọng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "casually",
           "example": "She casually remarked that she might apply for the branch manager position.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "một cách tự nhiên, bâng quơ",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -317,17 +345,23 @@
         {
           "pos": "noun",
           "word": "code",
-          "example": "The programmer spent three days searching for the bug in his code."
+          "example": "The programmer spent three days searching for the bug in his code.",
+          "meaning_vi": "mã lệnh",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "coded",
-          "example": "Their web page contained a coded message for insiders."
+          "example": "Their web page contained a coded message for insiders.",
+          "meaning_vi": "được mã hóa",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "code",
-          "example": "If we code the password into each user's ID number, can users avoid one step for logging on?"
+          "example": "If we code the password into each user's ID number, can users avoid one step for logging on?",
+          "meaning_vi": "mã hóa",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -359,7 +393,9 @@
           "pos": "noun",
           "word": "coder",
           "example": "The hospital hired two medical coders to process insurance claims.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "nhân viên mã hóa",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -391,17 +427,23 @@
         {
           "pos": "",
           "word": "expose",
-          "example": "As a matter of company policy, we try to expose all managers to the challenging work of telephone sales through hands-on experience."
+          "example": "As a matter of company policy, we try to expose all managers to the challenging work of telephone sales through hands-on experience.",
+          "meaning_vi": "cho tiếp xúc; phơi bày",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "exposure",
-          "example": "Exposure to the elements will corrode the container for the sensor."
+          "example": "Exposure to the elements will corrode the container for the sensor.",
+          "meaning_vi": "sự tiếp xúc; sự quảng bá",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "exposed",
-          "example": "Mr. Lee was exposed to Chinese business practices during his three-year assignment as a manager in Beijing."
+          "example": "Mr. Lee was exposed to Chinese business practices during his three-year assignment as a manager in Beijing.",
+          "meaning_vi": "bị phơi bày; không được che chắn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -432,19 +474,25 @@
           "pos": "verb",
           "word": "expose",
           "example": "The internship program is designed to expose students to international banking.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cho tiếp xúc, làm quen",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "exposure",
           "example": "Positive media exposure helped the startup attract its first thousand customers.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự xuất hiện trước công chúng",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "exposed",
           "example": "Outdoor electrical cables must be covered so that no wires are left exposed.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "để lộ, không được che chắn",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -503,13 +551,17 @@
           "pos": "verb",
           "word": "glimpse",
           "example": "Commuters glimpsed the new high-speed train during its test run this morning.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "thoáng thấy",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "glimpse",
           "example": "The factory tour offers visitors a fascinating glimpse into how cars are built.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cái nhìn thoáng qua",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -566,13 +618,17 @@
           "pos": "adjective",
           "word": "outer",
           "example": "Please remove the outer packaging before placing the tray in the oven.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bên ngoài",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "outwardly",
           "example": "The negotiator remained outwardly calm despite the tense atmosphere.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "bề ngoài",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -629,19 +685,25 @@
           "pos": "verb",
           "word": "outdate",
           "example": "Rapid advances in artificial intelligence quickly outdate older software tools.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "làm cho lỗi thời",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "verb",
           "word": "update",
           "example": "Please update your emergency contact details on the employee portal.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "cập nhật",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "outdated",
           "example": "The factory is replacing its outdated assembly machines with automated robots.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "lỗi thời",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -673,17 +735,23 @@
         {
           "pos": "noun",
           "word": "practice",
-          "example": "He was surprised at the difference in office practices from one local office to another."
+          "example": "He was surprised at the difference in office practices from one local office to another.",
+          "meaning_vi": "thông lệ, cách làm",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "practice",
-          "example": "All managers are expected to practice caution in their spending until the end of the year."
+          "example": "All managers are expected to practice caution in their spending until the end of the year.",
+          "meaning_vi": "thực hành, thực hiện",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adjective",
           "word": "practical",
-          "example": "We need a practical solution to this common problem."
+          "example": "We need a practical solution to this common problem.",
+          "meaning_vi": "thiết thực, khả thi",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -716,13 +784,17 @@
           "pos": "noun",
           "word": "practitioner",
           "example": "The conference brings together legal scholars and experienced practitioners.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "người hành nghề",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "adverb",
           "word": "practically",
           "example": "The new high-speed train has practically cut our travel time in half.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "gần như",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -754,17 +826,23 @@
         {
           "pos": "",
           "word": "reinforce",
-          "example": "The practical training reinforced the theoretical studies."
+          "example": "The practical training reinforced the theoretical studies.",
+          "meaning_vi": "củng cố",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "noun",
           "word": "reinforcement",
-          "example": "If reinforcement is needed, you have the support of the executive committee."
+          "example": "If reinforcement is needed, you have the support of the executive committee.",
+          "meaning_vi": "sự hỗ trợ, củng cố",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "reinforcing",
-          "example": "Reinforcing the preferred way of selling the product was one of their job requirements."
+          "example": "Reinforcing the preferred way of selling the product was one of their job requirements.",
+          "meaning_vi": "việc củng cố",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -795,7 +873,9 @@
           "pos": "adjective",
           "word": "reinforced",
           "example": "The warehouse floor is built of reinforced concrete to support heavy forklifts.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "được gia cố, cốt thép",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -827,17 +907,23 @@
         {
           "pos": "",
           "word": "verbally",
-          "example": "No employees should be verbally reprimanded in front of their peers."
+          "example": "No employees should be verbally reprimanded in front of their peers.",
+          "meaning_vi": "bằng lời nói",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "verbalize",
-          "example": "Well-established procedures are often difficult to verbalize."
+          "example": "Well-established procedures are often difficult to verbalize.",
+          "meaning_vi": "diễn đạt bằng lời",
+          "meaning_vi_source": "curated-vietnamese"
         },
         {
           "pos": "",
           "word": "verbal",
-          "example": "The company operated on a practice of verbal and not written contracts."
+          "example": "The company operated on a practice of verbal and not written contracts.",
+          "meaning_vi": "bằng lời nói",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "needs_translation": false,
@@ -869,7 +955,9 @@
           "pos": "noun",
           "word": "verbalization",
           "example": "Clear verbalization of safety rules is essential during factory orientations.",
-          "pos_source": "extended"
+          "pos_source": "extended",
+          "meaning_vi": "sự diễn đạt bằng lời",
+          "meaning_vi_source": "curated-vietnamese"
         }
       ],
       "srs_sentence": {
@@ -919,85 +1007,115 @@
       {
         "word": "appreciation",
         "example": "In appreciation for your hard work, we are giving you a top-priority project.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự ghi nhận, lòng biết ơn",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "appreciate",
         "example": "We appreciate the time that you have put into this project, but we need to see more positive results.",
-        "pos": "verb"
+        "pos": "verb",
+        "meaning_vi": "trân trọng, đánh giá cao",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "appreciated",
         "example": "The intern felt appreciated, like a member of the team.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "được trân trọng",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "code",
         "example": "The programmer spent three days searching for the bug in his code.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "mã lệnh",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "coded",
         "example": "Their web page contained a coded message for insiders.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "được mã hóa",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "code",
         "example": "If we code the password into each user's ID number, can users avoid one step for logging on?",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "mã hóa",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "practice",
         "example": "He was surprised at the difference in office practices from one local office to another.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "thông lệ, cách làm",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "practice",
         "example": "All managers are expected to practice caution in their spending until the end of the year.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "thực hành, thực hiện",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "practical",
         "example": "We need a practical solution to this common problem.",
-        "pos": "adjective"
+        "pos": "adjective",
+        "meaning_vi": "thiết thực, khả thi",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "reinforce",
         "example": "The practical training reinforced the theoretical studies.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "củng cố",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "reinforcement",
         "example": "If reinforcement is needed, you have the support of the executive committee.",
-        "pos": "noun"
+        "pos": "noun",
+        "meaning_vi": "sự hỗ trợ, củng cố",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "reinforcing",
         "example": "Reinforcing the preferred way of selling the product was one of their job requirements.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "việc củng cố",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ],
     [
       {
         "word": "verbally",
         "example": "No employees should be verbally reprimanded in front of their peers.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "bằng lời nói",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "verbalize",
         "example": "Well-established procedures are often difficult to verbalize.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "diễn đạt bằng lời",
+        "meaning_vi_source": "curated-vietnamese"
       },
       {
         "word": "verbal",
         "example": "The company operated on a practice of verbal and not written contracts.",
-        "pos": ""
+        "pos": "",
+        "meaning_vi": "bằng lời nói",
+        "meaning_vi_source": "curated-vietnamese"
       }
     ]
   ],
