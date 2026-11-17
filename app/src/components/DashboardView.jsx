@@ -9,48 +9,23 @@
  */
 import { useEffect, useMemo, useState } from 'react';
 import {
-  Award,
   Brain,
   CheckCircle2,
   Clock,
-  Flame,
   Layers,
   Play,
   Search,
-  Sparkles,
   Target,
   Trash2,
   TrendingUp,
   X,
 } from 'lucide-react';
 import { ALL_WORDS } from '../data/allWords.js';
-import { THEMES, TOTAL_WORDS, lessonTitle } from '../data/curriculum.js';
+import { THEMES, TOTAL_WORDS } from '../data/curriculum.js';
 import { isDue } from '../lib/srs.js';
 import { clearHistory, deleteHistoryItem, loadHistory, srsKey } from '../lib/storage.js';
-import { useApp } from '../lib/store.jsx';
+import { lessonLearnedCount, useApp } from '../lib/store.jsx';
 import { Button, Card, ProgressBar, useToast } from './ui.jsx';
-
-function countLessonLearned(progress, srs, lessonId) {
-  const lKey = `L${String(lessonId).padStart(2, '0')}`;
-  const wordsMap = progress?.[lKey]?.words || {};
-  const learnedWords = new Set();
-
-  for (const [k, val] of Object.entries(wordsMap)) {
-    if (val) {
-      const clean = String(k).includes(':') ? String(k).split(':').slice(1).join(':') : String(k);
-      learnedWords.add(clean.toLowerCase());
-    }
-  }
-
-  const prefix = `${lKey}:`;
-  for (const [k, card] of Object.entries(srs || {})) {
-    if (k.startsWith(prefix) && card && (card.reps > 0 || card.lastGrade > 0)) {
-      learnedWords.add(k.slice(prefix.length).toLowerCase());
-    }
-  }
-
-  return Math.min(12, learnedWords.size);
-}
 
 function formatDateShort(iso) {
   if (!iso) return '—';
@@ -131,7 +106,7 @@ const CATEGORY_META = {
 };
 
 export default function DashboardView() {
-  const { progress, srs, openLesson, openSrsReview, setReviewThemeId, setActiveView } = useApp();
+  const { progress, srs, srsNow, dueWordKeys, orphanedCardKeys, stateError, openLesson, openSrsReview, setReviewThemeId, setActiveView } = useApp();
   const { show, node } = useToast();
   const [history, setHistory] = useState(() => loadHistory());
   const [selectedCategory, setSelectedCategory] = useState(null);
@@ -155,7 +130,7 @@ export default function DashboardView() {
       } else {
         const interval = Number(card.interval || 0);
         const lastGrade = Number(card.lastGrade || 0);
-        if (lastGrade === 1 || interval <= 1) {
+        if (isDue(card, srsNow)) {
           critical.push({ ...item, interval, lastGrade });
         } else if (interval >= 7) {
           mastered.push({ ...item, interval, lastGrade });
@@ -166,7 +141,7 @@ export default function DashboardView() {
     }
 
     return { mastered, young, critical, unseen };
-  }, [srs]);
+  }, [srs, srsNow]);
 
   const filteredCategoryWords = useMemo(() => {
     if (!selectedCategory) return [];
@@ -186,37 +161,16 @@ export default function DashboardView() {
   };
 
   const metrics = useMemo(() => {
-    const now = new Date();
-    const srsEntries = Object.entries(srs || {});
-    const scheduledCount = srsEntries.length;
-
-    let dueCount = 0;
-    let criticalCount = 0;
-    let youngCount = 0;
-    let masteredCount = 0;
-
-    for (const [, card] of srsEntries) {
-      if (!card) continue;
-      const due = isDue(card, now);
-      if (due) dueCount += 1;
-
-      const interval = Number(card.interval || 0);
-      const lastGrade = Number(card.lastGrade || 0);
-
-      if (lastGrade === 1 || interval <= 1) {
-        criticalCount += 1;
-      } else if (interval >= 7) {
-        masteredCount += 1;
-      } else {
-        youngCount += 1;
-      }
-    }
-
-    const unseenCount = Math.max(0, TOTAL_WORDS - scheduledCount);
+    const dueCount = dueWordKeys.length;
+    const criticalCount = categorizedWords.critical.length;
+    const youngCount = categorizedWords.young.length;
+    const masteredCount = categorizedWords.mastered.length;
+    const unseenCount = categorizedWords.unseen.length;
+    const scheduledCount = criticalCount + youngCount + masteredCount;
 
     const themeBreakdown = THEMES.map((theme) => {
       const learned = theme.lessons.reduce(
-        (sum, lid) => sum + countLessonLearned(progress, srs, lid),
+        (sum, lid) => sum + lessonLearnedCount(progress, lid),
         0,
       );
       return {
@@ -235,7 +189,25 @@ export default function DashboardView() {
       unseenCount,
       themeBreakdown,
     };
-  }, [progress, srs]);
+  }, [progress, dueWordKeys, categorizedWords]);
+
+  const upcomingReview = useMemo(() => {
+    const nextAt = ALL_WORDS.reduce((earliest, item) => {
+      const card = srs?.[srsKey(item.lessonId, item.word)];
+      if (!card || isDue(card, srsNow)) return earliest;
+      const dueAt = new Date(card.due).getTime();
+      return Number.isFinite(dueAt) && dueAt > srsNow.getTime()
+        ? Math.min(earliest, dueAt) : earliest;
+    }, Infinity);
+    if (!Number.isFinite(nextAt)) return null;
+    const minutes = Math.max(1, Math.ceil((nextAt - srsNow.getTime()) / 60_000));
+    const relative = minutes < 60 ? `còn ${minutes} phút`
+      : minutes < 1440 ? `còn ${Math.floor(minutes / 60)} giờ${minutes % 60 ? ` ${minutes % 60} phút` : ''}`
+        : `còn ${Math.floor(minutes / 1440)} ngày ${Math.floor((minutes % 1440) / 60)} giờ`;
+    return { iso: new Date(nextAt).toISOString(), label: new Date(nextAt).toLocaleString('vi-VN', {
+      day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit',
+    }), relative };
+  }, [srs, srsNow]);
 
   const handleDeleteHistory = (idOrAt) => {
     const next = deleteHistoryItem(idOrAt);
@@ -261,11 +233,18 @@ export default function DashboardView() {
   return (
     <div className="space-y-5">
       {node}
+      {stateError && <p role="alert" className="rounded-xl border border-rose-300 bg-rose-50 p-3 text-sm text-rose-800">Không thể đọc dữ liệu học: {stateError}. Số liệu có thể chưa cập nhật.</p>}
+      {orphanedCardKeys.length > 0 && (
+        <details className="rounded-xl border border-amber-300 bg-amber-50 p-3 text-xs text-amber-900">
+          <summary>{orphanedCardKeys.length} thẻ ngoài danh mục từ vựng cần kiểm tra</summary>
+          <p className="mt-2 break-words">{orphanedCardKeys.join(', ')}</p>
+        </details>
+      )}
 
       {/* 1. KHUNG DUY NHẤT: ĐẾN HẠN CẦN ÔN (Call To Action Lớn) */}
       <button
         type="button"
-        onClick={() => openSrsReview({ filter: metrics.dueCount > 0 ? 'due' : 'all' })}
+        onClick={() => openSrsReview({ filter: 'due', themeId: null, lessonId: null })}
         className="group relative flex w-full items-center justify-between overflow-hidden rounded-2xl border-2 border-[var(--color-duo-line)] bg-white p-5 text-left transition-all hover:border-[var(--color-duo-blue)] active:scale-[0.99] duo-card"
       >
         <div className="flex items-center gap-4">
@@ -287,11 +266,7 @@ export default function DashboardView() {
               <span className="text-xs font-black uppercase tracking-wider text-[var(--color-duo-gray)]">
                 Đến Hạn Cần Ôn
               </span>
-              {metrics.dueCount > 0 ? (
-                <span className="rounded-full bg-amber-100 px-2 py-0.5 text-[10px] font-black text-amber-800">
-                  Cần làm
-                </span>
-              ) : (
+              {metrics.dueCount === 0 && (
                 <span className="rounded-full bg-emerald-100 px-2 py-0.5 text-[10px] font-black text-emerald-800">
                   Hoàn thành
                 </span>
@@ -303,10 +278,13 @@ export default function DashboardView() {
               </span>
               <span className="text-sm font-bold text-[var(--color-duo-gray)]">
                 {metrics.dueCount > 0
-                  ? 'từ vựng cần ôn hôm nay'
+                  ? `từ đến hạn · ${metrics.dueCount * 2} câu`
                   : 'từ đến hạn · Đã hoàn thành mục tiêu!'}
               </span>
             </div>
+            <p className="mt-1 text-xs font-semibold text-[var(--color-duo-muted)]">
+              {upcomingReview ? <>Lượt ôn tiếp theo: <time dateTime={upcomingReview.iso}>{upcomingReview.label}</time> · {upcomingReview.relative}</> : 'Chưa có lịch ôn tiếp theo'}
+            </p>
           </div>
         </div>
 
@@ -319,7 +297,7 @@ export default function DashboardView() {
             }`}
           >
             <Brain className="h-4 w-4" />
-            {metrics.dueCount > 0 ? 'Ôn Tập Ngay →' : 'Luyện Thêm →'}
+            {metrics.dueCount > 0 ? 'Ôn ngay' : 'Xem lịch ôn'}
           </span>
         </div>
       </button>

@@ -14,9 +14,9 @@ import { useCallback, useEffect, useMemo, useState } from 'react';
 import { ArrowRight, BookOpenCheck, Check, CheckCircle2, Eye, EyeOff, Layers, ListChecks, Sparkles, Volume2, X } from 'lucide-react';
 import { Badge, Button, Card, EmptyState, Highlighted, SectionTitle, useSpeech, useToast } from '../components/ui.jsx';
 import { useApp } from '../lib/store.jsx';
-import { familiesForEntry, groupFamilyRows, normalizeFamilyRows } from '../lib/lessonLoader.js';
+import { familiesForEntry } from '../lib/lessonLoader.js';
 import { markWordLearned } from '../lib/storage.js';
-import { freshCard, loadSrs, saveSrs, srsKey } from '../lib/srs.js';
+import { loadSrs, review, saveSrs, srsKey } from '../lib/srs.js';
 import { WORD_FAMILY_LABEL, WORD_FAMILY_ORDER } from '../lib/types.js';
 
 /* ---------------- local helpers (tab-private) ---------------- */
@@ -87,7 +87,7 @@ function pickLearned(progress, lessonId, word) {
   if (!lessonId || !word) return false;
   const lessonKey = `L${String(lessonId).padStart(2, '0')}`;
   const words = progress?.[lessonKey]?.words || {};
-  const srsK = `${lessonKey}:${String(word).toLowerCase()}`;
+  const srsK = srsKey(lessonId, word);
   if (typeof words[srsK] === 'boolean') return words[srsK];
   for (const [k, v] of Object.entries(words)) {
     if (String(k).toLowerCase().endsWith(`:${String(word).toLowerCase()}`)) return Boolean(v);
@@ -413,7 +413,7 @@ function WordCard({ entry, lesson, index, words, learned, onToggleLearned, onSpe
 /* ---------------- main tab ---------------- */
 
 export default function Tab1Vocabulary({ lesson }) {
-  const { lessonId: storeLessonId, progress, setProgress, pendingScrollWord, setPendingScrollWord, setTab } = useApp();
+  const { lessonId: storeLessonId, progress, setProgress, setSrs, pendingScrollWord, setPendingScrollWord, setTab } = useApp();
   const { speak, supported: speechSupported } = useSpeech();
   const { show, node: toastNode } = useToast();
 
@@ -453,33 +453,24 @@ export default function Tab1Vocabulary({ lesson }) {
 
   const handleToggleLearned = useCallback(
     (word, next) => {
-      const map = markWordLearned(lessonId, word, next);
-      setProgress({ ...map });
-
-      // Khởi tạo thẻ SRS đồng bộ nếu người học tự đánh dấu đã học
-      if (next) {
-        try {
-          const allSrs = loadSrs();
-          const key = srsKey(lessonId, word);
-          if (!allSrs[key]) {
-            allSrs[key] = {
-              ...freshCard(),
-              word,
-              lessonId,
-              lastGrade: 3,
-              interval: 1,
-              reps: 1,
-            };
-            saveSrs(allSrs);
-          }
-        } catch {
-          /* ignore */
+      try {
+        // An explicit learned toggle initializes only missing cards. Unlearning
+        // changes the notebook flag, never erases an existing memory schedule.
+        const allSrs = loadSrs();
+        const key = srsKey(lessonId, word);
+        if (next && !allSrs[key]) {
+          allSrs[key] = { ...review(null, 3), word, lessonId };
+          saveSrs(allSrs);
         }
+        setSrs?.(loadSrs());
+        const map = markWordLearned(lessonId, word, next);
+        setProgress({ ...map });
+        show(next ? `Đã đánh dấu: ${word}` : `Bỏ đánh dấu: ${word}`, next ? 'emerald' : 'brand');
+      } catch (error) {
+        show(error?.message || 'Không thể lưu trạng thái đã học. Hãy thử lại.', 'rose');
       }
-
-      show(next ? `Đã đánh dấu: ${word}` : `Bỏ đánh dấu: ${word}`, next ? 'emerald' : 'brand');
     },
-    [lessonId, setProgress, show],
+    [lessonId, setProgress, setSrs, show],
   );
 
   const handleSpeak = useCallback(

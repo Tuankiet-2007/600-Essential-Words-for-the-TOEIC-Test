@@ -12,12 +12,12 @@
  *
  * Owned by: vocab-dev. Imports only the frozen shared APIs.
  */
-import { useCallback, useEffect, useMemo, useState } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { ArrowRight, BookOpen, CheckCircle2, Eye, Layers, RotateCcw, Shuffle, Sparkles, Volume2 } from 'lucide-react';
 import { Badge, Button, Card, EmptyState, Highlighted, ProgressBar, SectionTitle, useSpeech, useToast } from '../components/ui.jsx';
 import { makeCloze } from '../lib/assets.js';
 import { familiesForEntry } from '../lib/lessonLoader.js';
-import { GRADES, recordReview } from '../lib/srs.js';
+import { GRADES, isDue, loadSrs, recordReview, srsKey } from '../lib/srs.js';
 import { markWordLearned } from '../lib/storage.js';
 import { useApp } from '../lib/store.jsx';
 import { WORD_FAMILY_LABEL, WORD_FAMILY_ORDER } from '../lib/types.js';
@@ -237,7 +237,7 @@ function WordFamilyTable({ rows, words, className = '' }) {
 /* ---------------- main tab ---------------- */
 
 export default function Tab2Flashcards({ lesson }) {
-  const { lessonId: storeLessonId, setProgress, setTab, openSrsReview } = useApp();
+  const { lessonId: storeLessonId, setProgress, setSrs, setTab, openSrsReview } = useApp();
   const { speak, supported: speechSupported } = useSpeech();
   const { show, node: toastNode } = useToast();
 
@@ -249,9 +249,13 @@ export default function Tab2Flashcards({ lesson }) {
    * Deck state is keyed by lesson so a lesson switch resets during render
    * Hỗ trợ Re-queue theo chuẩn Anki và tập hợp passedSet đếm từ hoàn thành.
    */
-  const deckKey = entries.map((e) => e?.id ?? e?.word).join('|');
+  const deckKey = `${lessonId}:${entries.map((e) => `${e?.id ?? ''}:${e?.word ?? ''}`).join('|')}`;
+  // A presentation is consumed synchronously, before React can render the next card.
+  const consumedPresentation = useRef(null);
+  const scheduledPresentation = useRef(null);
   const [deck, setDeck] = useState(() => ({
     key: deckKey,
+    sessionId: `flashcard:${Date.now()}:${Math.random().toString(36).slice(2)}`,
     order: entries.map((_, i) => i),
     pos: 0,
     flipped: false,
@@ -262,6 +266,7 @@ export default function Tab2Flashcards({ lesson }) {
 
   const freshDeck = (order) => ({
     key: deckKey,
+    sessionId: `flashcard:${Date.now()}:${Math.random().toString(36).slice(2)}`,
     order,
     pos: 0,
     flipped: false,
@@ -280,7 +285,7 @@ export default function Tab2Flashcards({ lesson }) {
 
   const totalInQueue = order.length;
   const totalUnique = entries.length;
-  const isFinished = totalUnique > 0 && (pos >= totalInQueue || passedSet.size >= totalUnique);
+  const isFinished = totalUnique > 0 && passedSet.size >= totalUnique;
   const cardIndex = (!isFinished && totalInQueue && pos < totalInQueue) ? order[pos] : -1;
   const entry = cardIndex >= 0 ? entries[cardIndex] : null;
 
@@ -310,54 +315,67 @@ export default function Tab2Flashcards({ lesson }) {
    */
   const grade = useCallback(
     (g) => {
-      if (!entry) return;
+      if (!entry || !flipped || !GRADES[g] || consumedPresentation.current === state) return;
+      consumedPresentation.current = state;
 
-      // 1. First-Touch sync sang progress
       try {
+        const allSrs = loadSrs();
+        const card = allSrs[srsKey(lessonId, entry.word)];
+        // First touch creates a card; early practice never advances its schedule.
+        if (scheduledPresentation.current !== state && (!card || isDue(card))) {
+          recordReview(lessonId, entry.word, g, {
+            reviewId: `${state.sessionId}:${gradedCount}:${srsKey(lessonId, entry.word)}`,
+            source: 'flashcard',
+            expectedVersion: card?.version ?? 0,
+          });
+          scheduledPresentation.current = state;
+        }
+        setSrs?.(loadSrs());
         const nextProg = markWordLearned(lessonId, entry.word, true);
-        if (setProgress) setProgress({ ...nextProg });
-      } catch {
-        /* ignore */
+        setProgress?.({ ...nextProg });
+      } catch (error) {
+        consumedPresentation.current = null;
+        show(error?.message || 'Không thể lưu kết quả. Hãy thử lại.', 'rose');
+        return;
       }
 
-      // 2. SM-2 update
-      recordReview(lessonId, entry.word, g);
-
-      // 3. Re-queue logic
-      setDeck((d) => {
-        const nextOrder = [...d.order];
-        const nextPassed = new Set(d.passedSet);
-
-        if (g === 1) {
-          // Again: Chèn lại vào cuối hàng đợi phiên học
-          nextOrder.push(cardIndex);
-          show(`Cần nhớ lại: "${entry.word}" (sẽ xuất hiện lại ở cuối)`, 'rose');
-        } else {
-          // Hard / Good / Easy: Ghi nhận đã vượt qua từ này
-          nextPassed.add(cardIndex);
-          const meta = GRADES[g];
-          show(`${meta.label} · ${meta.vi} — ${entry.word}`, meta.color === 'amber' ? 'brand' : 'emerald');
-        }
-
-        return {
-          ...d,
-          order: nextOrder,
-          passedSet: nextPassed,
-          lastGrade: g,
-          graded: d.graded + 1,
-          flipped: false,
-          pos: d.pos + 1,
-        };
+      const nextOrder = [...order];
+      const nextPassed = new Set(passedSet);
+      if (g === 1) {
+        nextPassed.delete(cardIndex);
+        nextOrder.push(cardIndex);
+        show(`Cần nhớ lại: "${entry.word}" (sẽ xuất hiện lại ở cuối)`, 'rose');
+      } else {
+        nextPassed.add(cardIndex);
+        const meta = GRADES[g];
+        show(`${meta.label} · ${meta.vi} — ${entry.word}`, meta.color === 'amber' ? 'brand' : 'emerald');
+      }
+      setDeck({
+        ...state,
+        order: nextOrder,
+        passedSet: nextPassed,
+        lastGrade: g,
+        graded: gradedCount + 1,
+        flipped: false,
+        pos: (pos + 1) % nextOrder.length,
       });
     },
-    [entry, lessonId, cardIndex, setProgress, show],
+    [entry, flipped, state, lessonId, cardIndex, setSrs, setProgress, show, order, passedSet, gradedCount, pos],
   );
 
   /* ---- keyboard shortcuts: Tab (lật & đọc), Enter (tiếp tục), R (đọc từ), E (đọc ví dụ), Space, 1/2/3/4 ---- */
   useEffect(() => {
     const onKey = (e) => {
       const tag = e.target?.tagName;
-      if (tag === 'INPUT' || tag === 'TEXTAREA' || e.target?.isContentEditable) return;
+      if (tag === 'INPUT' || tag === 'TEXTAREA' || tag === 'SELECT' || e.target?.isContentEditable) return;
+      if (e.repeat) {
+        if (['1', '2', '3', '4', 'Enter', ' ', 'Tab', 'ArrowLeft', 'ArrowRight'].includes(e.key)) e.preventDefault();
+        return;
+      }
+      if (e.altKey || e.ctrlKey || e.metaKey) return;
+      // Preserve native activation and tab navigation when a control has focus.
+      if (e.target?.closest?.('button, a, [role="button"]')) return;
+      if (!entry) return;
 
       // Phím Tab: vừa lật vừa phát âm từ vựng
       if (e.key === 'Tab') {
@@ -371,7 +389,7 @@ export default function Tab2Flashcards({ lesson }) {
       if (e.key === 'Enter') {
         e.preventDefault();
         setFlipped(false);
-        setPos((p) => (total ? (p + 1) % total : 0));
+        setPos((p) => (totalInQueue ? (p + 1) % totalInQueue : 0));
         return;
       }
 
@@ -397,13 +415,13 @@ export default function Tab2Flashcards({ lesson }) {
       if (e.key === 'ArrowRight') {
         e.preventDefault();
         setFlipped(false);
-        setPos((p) => (total ? (p + 1) % total : 0));
+        setPos((p) => (totalInQueue ? (p + 1) % totalInQueue : 0));
         return;
       }
       if (e.key === 'ArrowLeft') {
         e.preventDefault();
         setFlipped(false);
-        setPos((p) => (total ? (p - 1 + total) % total : 0));
+        setPos((p) => (totalInQueue ? (p - 1 + totalInQueue) % totalInQueue : 0));
         return;
       }
 
@@ -701,6 +719,7 @@ export default function Tab2Flashcards({ lesson }) {
                       variant={
                         g.id === 1 ? 'danger' : g.id === 2 ? 'amber' : g.id === 3 ? 'success' : 'primary'
                       }
+                      disabled={!flipped}
                       onClick={() => grade(g.id)}
                       className="!normal-case flex-col gap-0 py-1.5 !tracking-normal"
                     >
@@ -727,7 +746,10 @@ export default function Tab2Flashcards({ lesson }) {
         </div>
       </div>
 
-        {/* ---------- grade row also reachable before flipping ---------- */}
+        <p className="mx-auto max-w-3xl text-[12px] text-[var(--color-duo-gray)]">
+          Flashcard là bước làm quen từ mới. Xem đáp án trước khi tự đánh giá; luyện lại thẻ chưa đến hạn không đổi lịch ôn.
+        </p>
+        {/* ---------- navigation ---------- */}
         <div className="mx-auto flex max-w-3xl flex-wrap items-center justify-between gap-3">
           <p className="text-[11.5px] font-semibold text-[var(--color-duo-muted)]">
             Phím tắt: <kbd className="rounded border border-[var(--color-duo-line)] bg-[var(--color-duo-bg-soft)] px-1.5 py-0.5 font-mono text-[10.5px]">Tab</kbd> Lật &amp; Đọc · <kbd className="rounded border border-[var(--color-duo-line)] bg-[var(--color-duo-bg-soft)] px-1.5 py-0.5 font-mono text-[10.5px]">Enter</kbd> Tiếp tục · <kbd className="rounded border border-[var(--color-duo-line)] bg-[var(--color-duo-bg-soft)] px-1.5 py-0.5 font-mono text-[10.5px]">R</kbd> Đọc từ · <kbd className="rounded border border-[var(--color-duo-line)] bg-[var(--color-duo-bg-soft)] px-1.5 py-0.5 font-mono text-[10.5px]">1-4</kbd> Chấm điểm

@@ -4,7 +4,6 @@
  */
 import { useMemo, useState } from 'react';
 import {
-  BarChart3,
   BookOpen,
   CheckCircle2,
   ChevronDown,
@@ -14,21 +13,15 @@ import {
   Layers,
   RefreshCw,
   Search,
-  Settings,
   X,
 } from 'lucide-react';
 import { THEMES, lessonTitle, TOTAL_WORDS } from '../data/curriculum.js';
 import { Badge, Button, ProgressBar } from './ui.jsx';
 import { srsKey } from '../lib/storage.js';
-import { isDue } from '../lib/srs.js';
-import { useApp } from '../lib/store.jsx';
+import { lessonLearnedCount, useApp } from '../lib/store.jsx';
 
 function lessonStats(progress, lessonId) {
-  const key = `L${String(lessonId).padStart(2, '0')}`;
-  const entry = progress[key];
-  const learned = entry?.words
-    ? Object.values(entry.words).filter(Boolean).length
-    : 0;
+  const learned = lessonLearnedCount(progress, lessonId);
   return { learned, done: learned >= 12 };
 }
 
@@ -38,7 +31,7 @@ export default function Sidebar({ open, onClose }) {
     setLessonId,
     lessonIndex,
     progress,
-    srs,
+    dueWordKeys,
     refreshIndex,
     setTab,
     reviewThemeId,
@@ -46,26 +39,13 @@ export default function Sidebar({ open, onClose }) {
     activeView,
     setActiveView,
     openDashboard,
-    openSettings,
   } = useApp();
   const [expanded, setExpanded] = useState(() => new Set([1]));
   const [query, setQuery] = useState('');
   const [busy, setBusy] = useState(false);
 
-  const { learnedTotal, availableCount, dueCount } = useMemo(() => {
-    let learned = 0;
-    for (const k of Object.keys(progress || {})) {
-      const w = progress[k]?.words;
-      if (w) learned += Object.values(w).filter(Boolean).length;
-    }
-    const available = lessonIndex
-      ? Object.values(lessonIndex).filter(Boolean).length
-      : 0;
-    const now = new Date();
-    const srsCards = Object.values(srs || {});
-    const due = srsCards.filter((c) => isDue(c, now)).length;
-    return { learnedTotal: learned, availableCount: available, dueCount: due };
-  }, [progress, lessonIndex, srs]);
+  const learnedTotal = useMemo(() => THEMES.reduce((sum, theme) =>
+    sum + theme.lessons.reduce((total, id) => total + lessonStats(progress, id).learned, 0), 0), [progress]);
 
   const toggle = (id) =>
     setExpanded((prev) => {
@@ -148,6 +128,7 @@ export default function Sidebar({ open, onClose }) {
               </span>
             </div>
             <ProgressBar value={learnedTotal} max={TOTAL_WORDS} tone="emerald" />
+            <p className="mt-1 text-[10px] font-bold text-[var(--color-duo-muted)]">{dueWordKeys.length} từ đến hạn</p>
           </div>
 
           <div className="mt-2.5 flex gap-1.5">

@@ -4,6 +4,8 @@
  */
 import { createContext, useCallback, useContext, useEffect, useMemo, useState } from 'react';
 import { LESSON_STATUS } from '../lib/types.js';
+import { ALL_WORDS } from '../data/allWords.js';
+import { CUTOFF_HOUR, isDue } from './srs.js';
 import { loadLesson, loadLessonIndex, invalidateLessonCache } from '../lib/lessonLoader.js';
 import {
   loadProgress,
@@ -11,9 +13,32 @@ import {
   loadSrs,
   saveProgress,
   saveSettings as persistSettings,
+  srsKey,
 } from '../lib/storage.js';
 
 const AppCtx = createContext(null);
+const CATALOG_WORDS = [...new Map(ALL_WORDS.map((item) => [srsKey(item.lessonId, item.word), item])).values()];
+const CATALOG_KEYS = new Set(CATALOG_WORDS.map((item) => srsKey(item.lessonId, item.word)));
+
+/** Count vocabulary items once, accepting canonical and legacy progress keys. */
+export function lessonLearnedCount(progress, lessonId) {
+  const words = progress?.[`L${String(lessonId).padStart(2, '0')}`]?.words || {};
+  return CATALOG_WORDS.filter((item) => {
+    if (Number(item.lessonId) !== Number(lessonId)) return false;
+    const key = srsKey(lessonId, item.word);
+    if (typeof words[key] === 'boolean') return words[key];
+    return Object.entries(words).some(([storedKey, learned]) =>
+      Boolean(learned) && storedKey.toLowerCase() === item.word.toLowerCase());
+  }).length;
+}
+
+/** Live due vocabulary keys; orphaned storage entries are reported separately. */
+export function selectDueWordKeys(srs, now = new Date()) {
+  return CATALOG_WORDS.flatMap((item) => {
+    const key = srsKey(item.lessonId, item.word);
+    return srs?.[key] && isDue(srs[key], now) ? [key] : [];
+  });
+}
 
 export function AppProvider({ children }) {
   const [lessonId, setLessonId] = useState(1);
@@ -42,9 +67,77 @@ export function AppProvider({ children }) {
   const [dictionaryWord, setDictionaryWord] = useState('');
   const [askAiOpen, setAskAiOpen] = useState(false);
   const [askAiContext, setAskAiContext] = useState('');
-  const [progress, setProgress] = useState(() => loadProgress());
-  const [srs, setSrs] = useState(() => loadSrs());
+  const [initialState] = useState(() => {
+    try {
+      return { progress: loadProgress(), srs: loadSrs(), error: null };
+    } catch (error) {
+      return { progress: loadProgress(), srs: {}, error: error.message };
+    }
+  });
+  const [progress, setProgress] = useState(initialState.progress);
+  const [srs, setSrs] = useState(initialState.srs);
+  const [stateError, setStateError] = useState(initialState.error);
+  const [srsNow, setSrsNow] = useState(() => new Date());
   const [settings, setSettings] = useState(() => loadSettings());
+  const dueWordKeys = useMemo(() => selectDueWordKeys(srs, srsNow), [srs, srsNow]);
+  const orphanedCardKeys = useMemo(() => Object.keys(srs || {}).filter((key) => !CATALOG_KEYS.has(key)), [srs]);
+
+  const reloadLearningState = useCallback(() => {
+    try {
+      const nextSrs = loadSrs();
+      const nextProgress = loadProgress();
+      setSrs(nextSrs);
+      setProgress(nextProgress);
+      setStateError(null);
+    } catch (error) {
+      setStateError(error.message);
+    }
+    setSrsNow(new Date());
+  }, []);
+
+  useEffect(() => {
+    let timer;
+    const scheduleClock = () => {
+      window.clearTimeout(timer);
+      const now = new Date();
+      const cutoff = new Date(now);
+      cutoff.setHours(CUTOFF_HOUR, 0, 0, 0);
+      if (cutoff <= now) cutoff.setDate(cutoff.getDate() + 1);
+      const nextDue = Object.values(srs || {}).reduce((earliest, card) => {
+        const time = new Date(card?.due).getTime();
+        return time > now.getTime() ? Math.min(earliest, time) : earliest;
+      }, Infinity);
+      const delay = Math.max(1, Math.min(60_000, cutoff - now, nextDue - now.getTime()));
+      timer = window.setTimeout(() => {
+        setSrsNow(new Date());
+        scheduleClock();
+      }, delay);
+    };
+    const onStateChanged = (event) => {
+      if (event.detail?.kind === 'settings' || event.detail?.kind === 'reset') setSettings(loadSettings());
+      if (event.detail?.kind !== 'settings') reloadLearningState();
+    };
+    const onStorage = (event) => {
+      if (event.key === null || event.key?.startsWith('toeic600.')) {
+        setSettings(loadSettings());
+        reloadLearningState();
+      }
+    };
+    const onFocus = () => { reloadLearningState(); scheduleClock(); };
+    const onVisibility = () => { if (document.visibilityState === 'visible') onFocus(); };
+    window.addEventListener('toeic600:state-changed', onStateChanged);
+    window.addEventListener('storage', onStorage);
+    window.addEventListener('focus', onFocus);
+    document.addEventListener('visibilitychange', onVisibility);
+    scheduleClock();
+    return () => {
+      window.clearTimeout(timer);
+      window.removeEventListener('toeic600:state-changed', onStateChanged);
+      window.removeEventListener('storage', onStorage);
+      window.removeEventListener('focus', onFocus);
+      document.removeEventListener('visibilitychange', onVisibility);
+    };
+  }, [srs, reloadLearningState]);
 
   /* ---- load current lesson whenever lessonId changes ---- */
   useEffect(() => {
@@ -54,15 +147,18 @@ export function AppProvider({ children }) {
       if (cancelled) return;
       setLessonState(res);
       if (res.status === LESSON_STATUS.LOADED) {
-        setProgress((prev) => {
-          const key = `L${String(lessonId).padStart(2, '0')}`;
-          const next = {
-            ...prev,
-            [key]: { ...(prev[key] || {}), lastOpened: new Date().toISOString() },
-          };
+        const current = loadProgress();
+        const key = `L${String(lessonId).padStart(2, '0')}`;
+        const next = {
+          ...current,
+          [key]: { ...(current[key] || {}), lastOpened: new Date().toISOString() },
+        };
+        try {
           saveProgress(next);
-          return next;
-        });
+          setProgress(next);
+        } catch (error) {
+          setStateError(error.message);
+        }
       }
     });
     return () => {
@@ -83,11 +179,8 @@ export function AppProvider({ children }) {
   }, [refreshIndex]);
 
   const updateSettings = useCallback((patch) => {
-    setSettings((prev) => {
-      const next = { ...prev, ...patch };
-      persistSettings(patch);
-      return next;
-    });
+    const next = persistSettings(patch);
+    setSettings(next);
   }, []);
 
   const openDashboard = useCallback(() => {
@@ -175,6 +268,10 @@ export function AppProvider({ children }) {
       setProgress,
       srs,
       setSrs,
+      srsNow,
+      dueWordKeys,
+      orphanedCardKeys,
+      stateError,
       settings,
       updateSettings,
     }),
@@ -203,6 +300,11 @@ export function AppProvider({ children }) {
       refreshIndex,
       progress,
       srs,
+      setSrs,
+      srsNow,
+      dueWordKeys,
+      orphanedCardKeys,
+      stateError,
       settings,
       updateSettings,
     ],

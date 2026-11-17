@@ -37,9 +37,10 @@ import { highlightWord, makeCloze } from '../lib/assets.js';
 import { THEMES, lessonTitle } from '../data/curriculum.js';
 import { derivePos, familiesForEntry, loadLesson, normalizePosKey } from '../lib/lessonLoader.js';
 import { isDue, recordReview } from '../lib/srs.js';
-import { loadProgress, loadSrs, markWordLearned, srsKey } from '../lib/storage.js';
+import { loadSrs, markWordLearned, srsKey } from '../lib/storage.js';
 import { useApp } from '../lib/store.jsx';
 import { WORD_FAMILY_LABEL, WORD_FAMILY_ORDER } from '../lib/types.js';
+import { buildQuizSession as buildRecallSession } from '../lib/recallSession.js';
 
 /* ------------------------------------------------------------------ */
 /* Helpers                                                             */
@@ -104,121 +105,6 @@ function collectEntryFamilies(entry, lessonObj) {
 /* Sinh tập câu hỏi Random: Mỗi từ đúng 2 câu & Shuffle               */
 /* ------------------------------------------------------------------ */
 
-function buildQuizSession(wordRecords) {
-  const questions = [];
-
-  for (const rec of wordRecords || []) {
-    const { entry, lessonId, lessonObj } = rec;
-    if (!entry?.word) continue;
-
-    const examples = (entry.examples || []).filter((e) => e?.en);
-    const defEn = entry.definition_en || 'Please deduce the base word from context';
-    const clozeDefEn = makeCloze(defEn, entry.word, '______');
-    const defVi = entry.definition_vi || examples[0]?.vi || '';
-
-    // CÂU 1: Gõ từ gốc từ nghĩa tiếng Anh
-    const acceptedBase = [entry.word];
-    if (norm(entry.word) === 'canceled') acceptedBase.push('cancelled');
-    if (norm(entry.word) === 'cancelled') acceptedBase.push('canceled');
-
-    questions.push({
-      uid: `q-base-${lessonId}-${entry.word}-${Math.random().toString(36).slice(2, 6)}`,
-      type: 'base_word',
-      lessonId,
-      entry,
-      lessonObj,
-      promptEn: clozeDefEn,
-      hintVi: defVi,
-      pos: entry.pos || '',
-      answer: entry.word,
-      accepted: acceptedBase,
-    });
-
-    // CÂU 2: Câu tùy biến (chọn ngẫu nhiên 1 câu từ kho câu)
-    const candidates = [];
-
-    // 1. Câu srs_sentence (câu đặc trưng bắt buộc chia thì/họ từ)
-    if (entry.srs_sentence?.en && entry.srs_sentence?.answer) {
-      const s = entry.srs_sentence;
-      const ans = String(s.answer).trim();
-      const raw = String(s.en).trim();
-      const cloze = /_{3,}/.test(raw)
-        ? raw.replace(/_{3,}/g, '______')
-        : makeCloze(raw, ans, '______');
-      candidates.push({
-        promptEn: cloze,
-        fullEn: /_{3,}/.test(raw) ? raw.replace(/_{3,}/g, ans) : raw,
-        hintVi: s.vi || defVi,
-        answer: ans,
-        accepted: [ans],
-        posHint: s.pos_hint || entry.pos || '',
-      });
-    }
-
-    // 2. Câu ví dụ trong sách
-    for (const ex of examples) {
-      const segs = highlightWord(ex.en, [entry.word]);
-      const hit = segs.find((s) => s.hit);
-      if (hit) {
-        const cloze = segs.map((s) => (s.hit ? '______' : s.text)).join('');
-        candidates.push({
-          promptEn: cloze,
-          fullEn: ex.en,
-          hintVi: ex.vi || defVi,
-          answer: hit.text.trim(),
-          accepted: [hit.text.trim()],
-          posHint: entry.pos || '',
-        });
-      }
-    }
-
-    // 3. Câu trong bảng họ từ
-    const families = collectEntryFamilies(entry, lessonObj);
-    for (const fam of families) {
-      if (fam.word && fam.example) {
-        const segs = highlightWord(fam.example, [fam.word]);
-        const hit = segs.find((s) => s.hit);
-        if (hit) {
-          const cloze = segs.map((s) => (s.hit ? '______' : s.text)).join('');
-          candidates.push({
-            promptEn: cloze,
-            fullEn: fam.example,
-            hintVi: fam.vi || defVi,
-            answer: hit.text.trim(),
-            accepted: [hit.text.trim(), fam.word],
-            posHint: fam.pos || '',
-          });
-        }
-      }
-    }
-
-    // Bốc ngẫu nhiên 1 câu tùy biến cho từ này
-    if (candidates.length > 0) {
-      const picked = candidates[Math.floor(Math.random() * candidates.length)];
-      questions.push({
-        uid: `q-custom-${lessonId}-${entry.word}-${Math.random().toString(36).slice(2, 6)}`,
-        type: 'custom_sentence',
-        lessonId,
-        entry,
-        lessonObj,
-        promptEn: picked.promptEn,
-        hintVi: picked.hintVi,
-        pos: picked.posHint || entry.pos || '',
-        answer: picked.answer,
-        accepted: picked.accepted,
-      });
-    }
-  }
-
-  // Shuffle ngẫu nhiên toàn bộ danh sách câu hỏi
-  for (let i = questions.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [questions[i], questions[j]] = [questions[j], questions[i]];
-  }
-
-  return questions;
-}
-
 /* ------------------------------------------------------------------ */
 /* Card Câu Hỏi Tối Giản Vừa Khít 1 Màn Hình                            */
 /* ------------------------------------------------------------------ */
@@ -230,6 +116,7 @@ function CompactQuizCard({
   allWords,
   onReviewed,
   onNext,
+  savedResult,
 }) {
   const { entry, lessonId, lessonObj } = item;
   const [value, setValue] = useState('');
@@ -238,19 +125,23 @@ function CompactQuizCard({
   const [showTheory, setShowTheory] = useState(false);
   const [feedbackMsg, setFeedbackMsg] = useState('');
   const inputRef = useRef(null);
+  const answeredRef = useRef(false);
+  const wrongRef = useRef(0);
   const continueBtnRef = useRef(null);
   const theoryRef = useRef(null);
   const { speak } = useSpeech();
 
   useEffect(() => {
-    setValue('');
-    setState('answering');
-    setWrongCount(0);
-    setShowTheory(false);
-    setFeedbackMsg('');
+    answeredRef.current = Boolean(savedResult);
+    wrongRef.current = savedResult?.wrongCount || 0;
+    setValue(savedResult ? item.answer : '');
+    setState(savedResult ? (savedResult.isCorrect ? 'correct' : 'wrong') : 'answering');
+    setWrongCount(savedResult?.wrongCount || 0);
+    setShowTheory(Boolean(savedResult && !savedResult.isCorrect));
+    setFeedbackMsg(savedResult ? (savedResult.isCorrect ? 'Đúng' : `Đáp án: ${item.answer}`) : '');
     const timer = setTimeout(() => inputRef.current?.focus(), 60);
     return () => clearTimeout(timer);
-  }, [item.uid]);
+  }, [item.uid, savedResult, item.answer]);
 
   // Tự động focus vào nút "TIẾP TỤC" khi hoàn thành câu hỏi (đúng hoặc sai 2 lần)
   useEffect(() => {
@@ -263,11 +154,12 @@ function CompactQuizCard({
   }, [state]);
 
   const handleCheck = () => {
-    if (!norm(value) || state === 'correct') return;
+    if (!norm(value) || state !== 'answering' || answeredRef.current) return;
 
     const ok = matchesAny(value, item.accepted);
 
     if (ok) {
+      answeredRef.current = true;
       setState('correct');
       setFeedbackMsg('Chính xác tuyệt đối!');
       speak(item.answer);
@@ -275,7 +167,8 @@ function CompactQuizCard({
       // Gửi kết quả câu hỏi lên Tab3Srs để thực hiện Session-level Aggregation
       onReviewed?.({ uid: item.uid, item, isCorrect: true, wrongCount });
     } else {
-      const nextWrong = wrongCount + 1;
+      const nextWrong = wrongRef.current + 1;
+      wrongRef.current = nextWrong;
       setWrongCount(nextWrong);
 
       if (nextWrong === 1) {
@@ -285,6 +178,7 @@ function CompactQuizCard({
         inputRef.current?.focus();
       } else {
         // Sai từ lần 2 trở lên: tính là quên và mở rộng lý thuyết bên dưới
+        answeredRef.current = true;
         setState('wrong');
         setFeedbackMsg(`Đáp án đúng: ${item.answer}`);
         setShowTheory(true);
@@ -547,7 +441,6 @@ function CompactQuizCard({
     </div>
   );
 }
-
 /* ------------------------------------------------------------------ */
 /* Component chính: Tab3Srs                                            */
 /* ------------------------------------------------------------------ */
@@ -564,7 +457,8 @@ export default function Tab3Srs({
     lesson: ctxLesson,
     progress,
     srs,
-    openLesson,
+    dueWordKeys,
+    srsNow,
   } = useApp();
 
   const [poolFilter, setPoolFilter] = useState(
@@ -612,31 +506,22 @@ export default function Tab3Srs({
     }
   }, [effectiveSingleLesson, ctxLessonId]);
 
-  // Nạp 50 bài cho global
+  const [loadState, setLoadState] = useState('loading');
   useEffect(() => {
-    const targetIds = Array.from({ length: 50 }, (_, i) => i + 1);
-    const missing = targetIds.filter((id) => !allLessonsMap[id]);
-    if (!missing.length) return;
-
     let cancelled = false;
-    Promise.all(
-      missing.map(async (id) => {
-        const res = await loadLesson(id);
-        return res.status === 'loaded' && res.lesson ? [id, res.lesson] : null;
-      }),
-    ).then((entries) => {
-      if (cancelled) return;
-      const valid = entries.filter(Boolean);
-      if (valid.length) {
-        setAllLessonsMap((prev) => ({ ...prev, ...Object.fromEntries(valid) }));
-      }
-    });
-
-    return () => {
-      cancelled = true;
-    };
-  }, [allLessonsMap]);
-
+    setLoadState('loading');
+    Promise.all(Array.from({ length: 50 }, (_, i) => loadLesson(i + 1)))
+      .then((results) => {
+        if (cancelled) return;
+        if (results.some((result) => result.status !== 'loaded' || !result.lesson)) {
+          setLoadState('error');
+          return;
+        }
+        setAllLessonsMap(Object.fromEntries(results.map((result, i) => [i + 1, result.lesson])));
+        setLoadState('ready');
+      }).catch(() => { if (!cancelled) setLoadState('error'); });
+    return () => { cancelled = true; };
+  }, []);
   // Toàn bộ từ vựng đã tải
   const allWordRecords = useMemo(() => {
     const list = [];
@@ -656,7 +541,7 @@ export default function Tab3Srs({
 
   // Tập từ vựng tham gia phiên ôn tập
   const activeWordRecords = useMemo(() => {
-    const now = new Date();
+    const now = srsNow || new Date();
     const srsMap = srs || {};
 
     const dueList = [];
@@ -666,157 +551,173 @@ export default function Tab3Srs({
       const key = srsKey(rec.lessonId, rec.entry.word);
       const card = srsMap[key];
       const marked = isWordMarkedLearned(progress, rec.lessonId, rec.entry.word);
-      if (card && isDue(card, now)) dueList.push(rec);
+      if (dueWordKeys ? dueWordKeys.includes(key) : card && isDue(card, now)) dueList.push(rec);
       if (card || marked) learnedList.push(rec);
     }
 
     if (poolFilter === 'lesson') {
       const lid = Number(selectedLessonId) || 1;
       const inLesson = allWordRecords.filter((r) => r.lessonId === lid);
-      return inLesson.length ? inLesson : allWordRecords.slice(0, 12);
+      return inLesson;
     }
 
     if (poolFilter === 'theme') {
       const theme = THEMES.find((t) => t.theme_id === Number(selectedThemeId)) || THEMES[0];
       const inTheme = allWordRecords.filter((r) => theme.lessons.includes(r.lessonId));
-      return inTheme.length ? inTheme : allWordRecords.slice(0, 12);
+      return inTheme;
     }
 
     if (poolFilter === 'learned') {
-      return learnedList.length ? learnedList : allWordRecords.slice(0, 12);
+      return learnedList;
     }
 
     // poolFilter === 'due'
-    if (dueList.length > 0) return dueList;
-    if (learnedList.length > 0) return learnedList;
-    return allWordRecords.slice(0, 12);
-  }, [allWordRecords, poolFilter, selectedLessonId, selectedThemeId, srs, progress]);
+    return dueList;
+  }, [allWordRecords, poolFilter, selectedLessonId, selectedThemeId, srs, progress, dueWordKeys, srsNow]);
 
-  // Tạo câu hỏi Random (Shuffle) mỗi lần thay đổi tập từ hoặc bấm làm lại
   const [quizQuestions, setQuizQuestions] = useState([]);
   const [sessionTracker, setSessionTracker] = useState({});
-
-  const initQuiz = useCallback(() => {
-    if (!activeWordRecords.length) return;
-    const qList = buildQuizSession(activeWordRecords);
-    setQuizQuestions(qList);
+  const [sessionError, setSessionError] = useState('');
+  const [coverageMissing, setCoverageMissing] = useState([]);
+  const [saving, setSaving] = useState(false);
+  const sessionRef = useRef(null);
+  const resultsRef = useRef(new Map());
+  const committedRef = useRef(new Set());
+  const nextRef = useRef(null);
+  const draftScope = `${poolFilter}:${selectedLessonId}:${selectedThemeId}`;
+  const draftKey = `toeic600.recallDraft:${draftScope}`;
+  const initQuiz = useCallback((restore = false) => {
+    if (loadState !== 'ready' || saving) return;
+    if (restore) {
+      try {
+        const draft = JSON.parse(localStorage.getItem(draftKey) || 'null');
+        const current = loadSrs();
+        if (draft?.schema === 1 && Array.isArray(draft.questions) && draft.questions.length > 0 && draft.session.scope === draftKey && !draft.finished &&
+          Object.entries(draft.session.versions).every(([key, version]) => {
+            const card = current[key];
+            const reviewId = `${draft.session.sessionId}:${draft.questions.find((q) => srsKey(q.lessonId, q.entry.word) === key)?.wordKey}`;
+            return (card?.version || 0) === version || card?.processedReviewIds?.includes(reviewId);
+          })) {
+          sessionRef.current = draft.session;
+          resultsRef.current = new Map(draft.results.map((result) => [result.uid, result]));
+          committedRef.current = new Set(draft.committed);
+          nextRef.current = null;
+          setQuizQuestions(draft.questions);
+          setCursor(Math.min(draft.cursor, draft.questions.length - 1));
+          setSessionResults(draft.results);
+          setSessionTracker(Object.fromEntries(draft.committed.map((key) => [key, true])));
+          setCoverageMissing([]);
+          setSessionError('');
+          setFinished(false);
+          return;
+        }
+      } catch { /* Invalid draft never changes the saved review cards. */ }
+    }
+    const sessionId = globalThis.crypto?.randomUUID?.() || `${Date.now()}-${Math.random()}`;
+    const records = activeWordRecords.map((rec) => ({ ...rec, entry: { ...rec.entry, extra_families: collectEntryFamilies(rec.entry, rec.lessonObj) } }));
+    const built = buildRecallSession(records, { sessionId });
+    sessionRef.current = { sessionId, scope: draftKey, versions: Object.fromEntries(records.map((rec) => [srsKey(rec.lessonId, rec.entry.word), (srs || {})[srsKey(rec.lessonId, rec.entry.word)]?.version || 0])) };
+    resultsRef.current = new Map();
+    committedRef.current = new Set();
+    nextRef.current = null;
+    setCoverageMissing(built.missing);
+    setSessionError('');
+    setQuizQuestions(built.complete ? built.questions : []);
     setCursor(0);
     setSessionResults([]);
     setSessionTracker({});
     setFinished(false);
-  }, [activeWordRecords]);
+  }, [activeWordRecords, loadState, srs, saving, draftKey]);
 
-  // Chỉ tự động khởi tạo câu hỏi khi đổi bộ lọc, bài học hoặc chủ đề
+  // Freeze the session once ready; review events must not rebuild its snapshot.
   useEffect(() => {
-    initQuiz();
+    initQuiz(true);
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [poolFilter, selectedLessonId, selectedThemeId]);
+  }, [loadState, poolFilter, selectedLessonId, selectedThemeId]);
 
-  const allWordsList = useMemo(() => activeWordRecords.map((r) => r.entry.word), [activeWordRecords]);
+  useEffect(() => {
+    if (!sessionRef.current || sessionRef.current.scope !== draftKey || !quizQuestions.length) return;
+    try {
+      localStorage.setItem(draftKey, JSON.stringify({ schema: 1, session: sessionRef.current, questions: quizQuestions,
+        results: sessionResults, committed: Object.keys(sessionTracker), cursor, finished }));
+    } catch { setSessionError('Không lưu được phiên đang học. Kiểm tra dung lượng trình duyệt.'); }
+  }, [draftKey, quizQuestions, sessionResults, sessionTracker, cursor, finished]);
 
+  useEffect(() => {
+    const invalidate = (event) => {
+      if (event.type === 'storage' && event.key !== null && event.key !== 'toeic600.srs') return;
+      if (event.type !== 'storage' && event.detail?.kind !== 'reset') return;
+      try {
+        const current = loadSrs();
+        const invalid = event.detail?.kind === 'reset' || Object.entries(sessionRef.current?.versions || {}).some(([key, version]) => {
+          const card = current[key];
+          return (card?.version || 0) !== version && !card?.processedReviewIds?.some((id) => id.startsWith(`${sessionRef.current.sessionId}:`));
+        });
+        if (!invalid) return;
+        localStorage.removeItem(draftKey);
+        sessionRef.current = null;
+        setQuizQuestions([]);
+        setSessionError('Dữ liệu đã thay đổi ở nơi khác. Bắt đầu phiên mới để tiếp tục.');
+      } catch (error) { setSessionError(error.message); }
+    };
+    window.addEventListener('storage', invalidate);
+    window.addEventListener('toeic600:state-changed', invalidate);
+    return () => {
+      window.removeEventListener('storage', invalidate);
+      window.removeEventListener('toeic600:state-changed', invalidate);
+    };
+  }, [draftKey]);
+
+  const allWordsList = useMemo(() => quizQuestions.map((q) => q.entry.word), [quizQuestions]);
   const currentQuestion = quizQuestions[cursor] || null;
-
+  const totalWords = new Set(quizQuestions.map((q) => q.wordKey)).size;
+  const completedWords = Object.keys(sessionTracker).length;
   const handleNext = () => {
-    if (cursor + 1 < quizQuestions.length) {
-      setCursor((c) => c + 1);
-    } else {
-      // Đảm bảo an toàn: Chốt SM-2 cho bất kỳ từ nào đã làm bài nếu chưa được ghi
-      setSessionTracker((prev) => {
-        const next = { ...prev };
-        for (const [, rec] of Object.entries(next)) {
-          if (!rec.recorded && rec.answeredQuestions?.length > 0) {
-            const finalGrade = rec.totalErrors <= 1 ? 3 : 1;
-            try {
-              recordReview(rec.lessonId, rec.word, finalGrade, { source: 'active_recall_end' });
-              if (finalGrade >= 3) {
-                markWordLearned(rec.lessonId, rec.word, true);
-              }
-            } catch {
-              /* ignore */
-            }
-            rec.recorded = true;
-          }
-        }
-        return next;
-      });
-      setFinished(true);
-    }
+    if (saving || sessionError || !currentQuestion || !resultsRef.current.has(currentQuestion.uid) || nextRef.current === currentQuestion.uid) return;
+    nextRef.current = currentQuestion.uid;
+    if (cursor + 1 < quizQuestions.length) setCursor(cursor + 1);
+    else setFinished(true);
   };
 
-  /**
-   * Session-level Aggregation theo chuẩn Anki:
-   * Gom toàn bộ kết quả các câu hỏi của cùng một từ trong phiên,
-   * sau đó chốt 1 điểm SM-2 duy nhất cho từ đó, loại bỏ triệt để lỗi ghi đè 2 lần.
-   */
-  const handleReviewed = useCallback((res) => {
-    const { item, isCorrect, wrongCount } = res;
-    if (!item?.entry?.word) return;
-
-    const wKey = srsKey(item.lessonId, item.entry.word);
-
-    setSessionTracker((prev) => {
-      const prevRecord = prev[wKey] || {
-        lessonId: item.lessonId,
-        word: item.entry.word,
-        totalErrors: 0,
-        answeredQuestions: [],
-        recorded: false,
-      };
-
-      const updated = {
-        ...prevRecord,
-        totalErrors: prevRecord.totalErrors + (isCorrect ? wrongCount : 2),
-        answeredQuestions: [
-          ...prevRecord.answeredQuestions,
-          { uid: item.uid, type: item.type, isCorrect, wrongCount },
-        ],
-      };
-
-      // Đếm tổng số câu hỏi được tạo cho từ này trong bộ câu hỏi phiên hiện tại
-      const totalQuestionsForThisWord = quizQuestions.filter(
-        (q) => q.lessonId === item.lessonId && q.entry.word === item.entry.word,
-      ).length;
-
-      // Khi người học đã trả lời xong toàn bộ câu hỏi của từ này -> CHỐT ĐIỂM SM-2 DUY NHẤT
-      if (!updated.recorded && updated.answeredQuestions.length >= totalQuestionsForThisWord) {
-        let finalGrade = 3; // Mặc định Good
-
-        // Đúng tuyệt đối không sai lần nào ở tất cả các câu hỏi của từ này
-        if (
-          updated.totalErrors === 0 &&
-          updated.answeredQuestions.every((q) => q.isCorrect && q.wrongCount === 0)
-        ) {
-          finalGrade = 4; // Easy
-        } else if (
-          updated.totalErrors <= 1 &&
-          updated.answeredQuestions.every((q) => q.isCorrect)
-        ) {
-          finalGrade = 3; // Good
-        } else {
-          finalGrade = 1; // Again
+  const commitPair = async (item, results) => {
+    if (!item || results.length !== 2 || results.some((result) => !result)) return;
+    const activeSession = sessionRef.current;
+    const wordKey = item.wordKey;
+    if (committedRef.current.has(wordKey)) return;
+    committedRef.current.add(wordKey);
+    setSaving(true);
+    try {
+      const grade = results.every((r) => r.isCorrect) ? 3 : 1;
+      const commit = () => {
+        if (sessionRef.current !== activeSession) throw new Error('Phiên đã thay đổi, hãy mở lại phiên ôn.');
+        // Lesson/theme/learned sessions are explicit, schedule-neutral practice.
+        if (poolFilter === 'due') {
+          recordReview(item.lessonId, item.entry.word, grade, { source: 'active_recall_session', reviewId: `${sessionRef.current.sessionId}:${wordKey}`, expectedVersion: sessionRef.current.versions[srsKey(item.lessonId, item.entry.word)] });
         }
+        if (poolFilter === 'due' && grade >= 3) markWordLearned(item.lessonId, item.entry.word, true);
+      };
+      if (globalThis.navigator?.locks?.request) await navigator.locks.request('toeic600:srs', commit);
+      else commit();
+      window.dispatchEvent(new Event('toeic600:state-changed'));
+      const updatedCard = poolFilter === 'due' ? loadSrs()[srsKey(item.lessonId, item.entry.word)] : null;
+      setSessionTracker((prev) => ({ ...prev, [wordKey]: { grade, due: updatedCard?.due || null, word: item.entry.word } }));
+      setSessionError('');
+    } catch (error) {
+      committedRef.current.delete(wordKey);
+      setSessionError(`Chưa lưu kết quả: ${error.message || 'Lỗi lưu dữ liệu'}`);
+    } finally { setSaving(false); }
+  };
 
-        try {
-          recordReview(item.lessonId, item.entry.word, finalGrade, {
-            source: 'active_recall_session',
-            errors: updated.totalErrors,
-          });
-          if (finalGrade >= 3) {
-            markWordLearned(item.lessonId, item.entry.word, true);
-          }
-        } catch {
-          /* ignore */
-        }
-
-        updated.recorded = true;
-      }
-
-      return { ...prev, [wKey]: updated };
-    });
-
-    setSessionResults((prev) => [...prev, res]);
-  }, [quizQuestions]);
-
+  const handleReviewed = (res) => {
+    const item = quizQuestions.find((q) => q.uid === res.uid);
+    if (!item || item.uid !== currentQuestion?.uid || resultsRef.current.has(item.uid)) return;
+    const result = { ...res, item, wordKey: item.wordKey, type: item.type };
+    resultsRef.current.set(item.uid, result);
+    setSessionResults([...resultsRef.current.values()]);
+    const pair = quizQuestions.filter((q) => q.wordKey === item.wordKey);
+    const results = pair.map((q) => resultsRef.current.get(q.uid));
+    if (pair.length === 2 && results.every(Boolean)) void commitPair(item, results);
+  };
   return (
     <div className="space-y-3">
       {/* THANH ĐIỀU KHIỂN & BỘ LỌC TỐI GIẢN */}
@@ -824,6 +725,7 @@ export default function Tab3Srs({
         <div className="flex items-center gap-2">
           {/* Dropdown bộ lọc tối giản */}
           <select
+            disabled={saving}
             value={poolFilter}
             onChange={(e) => setPoolFilter(e.target.value)}
             className="rounded-xl border-2 border-[var(--color-duo-line)] bg-[var(--color-duo-bg-soft)] px-2.5 py-1 text-xs font-black text-slate-800 outline-none focus:border-[var(--color-duo-blue)]"
@@ -868,18 +770,20 @@ export default function Tab3Srs({
           {quizQuestions.length > 0 && !finished && (
             <div className="flex items-center gap-2">
               <span className="text-xs font-black tabular-nums text-slate-700">
-                {cursor + 1}/{quizQuestions.length}
+                Đã kiểm tra {completedWords}/{totalWords} từ · Câu {cursor + 1}/{quizQuestions.length}
+                <span className="block">Đã trả lời {sessionResults.length}/{quizQuestions.length} câu</span>
               </span>
               <div className="w-20 sm:w-28">
-                <ProgressBar value={cursor + 1} max={quizQuestions.length} tone="emerald" />
+                <ProgressBar value={completedWords} max={totalWords} tone="emerald" />
               </div>
             </div>
           )}
 
           <button
             type="button"
-            onClick={initQuiz}
-            title="Làm lại từ đầu (Xáo trộn câu hỏi)"
+            disabled={saving || loadState !== 'ready'}
+            onClick={() => initQuiz(false)}
+            title="Bắt đầu phiên mới"
             className="flex h-8 w-8 items-center justify-center rounded-lg text-slate-400 hover:bg-slate-100 hover:text-slate-700"
           >
             <RotateCcw className="h-4 w-4" />
@@ -887,6 +791,12 @@ export default function Tab3Srs({
         </div>
       </div>
 
+      {poolFilter !== 'due' && <p className="text-xs font-semibold text-slate-500">Luyện thêm · Không thay đổi lịch SRS</p>}
+      {saving && <p role="status" className="text-sm font-semibold">Đang lưu...</p>}
+      {poolFilter === 'due' && currentQuestion && sessionTracker[currentQuestion.wordKey]?.due && (
+        <p role="status" className="text-xs font-semibold text-slate-500">Ôn lại {sessionTracker[currentQuestion.wordKey].word}: {new Date(sessionTracker[currentQuestion.wordKey].due).toLocaleString('vi-VN', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' })}</p>
+      )}
+      {sessionError && <Card className="p-4"><p role="alert">{sessionError}</p><Button disabled={saving} onClick={() => { const pair = quizQuestions.filter((q) => q.wordKey === currentQuestion?.wordKey); void commitPair(currentQuestion, pair.map((q) => resultsRef.current.get(q.uid))); }}>Thử lưu lại</Button></Card>}
       {/* MÀN HÌNH HOÀN THÀNH HOẶC CÂU HỎI */}
       {finished ? (
         <Card className="p-6 text-center">
@@ -895,11 +805,13 @@ export default function Tab3Srs({
           </div>
           <h3 className="mt-4 text-xl font-black text-slate-900">Hoàn thành phiên ôn tập!</h3>
           <p className="mt-1 text-xs font-semibold text-slate-500">
-            Hệ thống đã tự động cập nhật chu kỳ trí nhớ SM-2 cho toàn bộ các từ vừa ôn.
+            Đã kiểm tra {completedWords}/{totalWords} từ · Đã trả lời {sessionResults.length}/{quizQuestions.length} câu.
+            {poolFilter === 'due' ? ' Kết quả đã được lưu.' : ' Luyện thêm không thay đổi lịch SRS.'}
+            {poolFilter === 'due' && Object.values(sessionTracker).some((result) => result.grade === 1) && ' Các từ chưa nhớ đã được hẹn học lại; phiên hoàn tất không có nghĩa đã hết từ cần ôn.'}
           </p>
 
           <div className="mt-5 flex justify-center gap-3">
-            <Button variant="primary" onClick={initQuiz}>
+            <Button variant="primary" onClick={() => initQuiz(false)}>
               <RotateCcw className="h-4 w-4" />
               Luyện tiếp lượt mới
             </Button>
@@ -914,10 +826,14 @@ export default function Tab3Srs({
           allWords={allWordsList}
           onReviewed={handleReviewed}
           onNext={handleNext}
+          savedResult={resultsRef.current.get(currentQuestion.uid)}
         />
       ) : (
         <Card className="p-8 text-center">
-          <p className="text-sm font-bold text-slate-500">Đang chuẩn bị câu hỏi...</p>
+          <p role={loadState === 'error' || coverageMissing.length ? 'alert' : 'status'} className="text-sm font-bold text-slate-500">
+            {loadState === 'loading' ? 'Đang tải đủ 50 bài học...' : loadState === 'error' ? 'Không tải được đầy đủ bài học. Vui lòng tải lại trang.' : coverageMissing.length ? `Phiên chưa đủ dữ liệu: ${coverageMissing.length} mục thiếu định nghĩa hoặc câu ngữ cảnh.` : poolFilter === 'due' ? 'Bạn đã hoàn thành các từ đến hạn. Có thể chọn bài học để luyện thêm.' : 'Không có từ trong bộ lọc này.'}
+          </p>
+          {coverageMissing.length > 0 && <ul className="mt-3 text-sm">{coverageMissing.map((missing) => <li key={`${missing.wordKey}:${missing.reason}`}>{missing.wordKey}: {missing.reason === 'missing_definition_en' ? 'Thiếu định nghĩa tiếng Anh' : 'Thiếu câu ngữ cảnh'}</li>)}</ul>}
         </Card>
       )}
     </div>

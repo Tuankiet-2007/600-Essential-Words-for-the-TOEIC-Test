@@ -9,6 +9,7 @@
     "dev:sandbox": "node scripts/dev-server.mjs",
     "build:sandbox": "node scripts/build.mjs",
     "lint": "oxlint",
+    "test": "node --test --test-isolation=none scripts/srs.test.mjs",
     "preview": "vite preview"
   },
   "dependencies": {

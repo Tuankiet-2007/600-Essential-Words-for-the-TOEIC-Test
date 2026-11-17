@@ -19,10 +19,11 @@ import {
   Layers,
   Volume2,
 } from 'lucide-react';
-import { Badge, Button, Card, Highlighted, ProgressBar, SectionTitle, useSpeech } from './ui.jsx';
+import { Badge, Button, Card, Highlighted, ProgressBar, SectionTitle, useSpeech, useToast } from './ui.jsx';
 import { THEMES, lessonTitle } from '../data/curriculum.js';
 import { loadLesson } from '../lib/lessonLoader.js';
 import { markWordLearned } from '../lib/storage.js';
+import { loadSrs, review, saveSrs, srsKey } from '../lib/srs.js';
 import { useApp } from '../lib/store.jsx';
 
 function progressKey(lessonId) {
@@ -30,13 +31,18 @@ function progressKey(lessonId) {
 }
 
 function isLearned(progress, lessonId, word) {
-  return Boolean(progress?.[progressKey(lessonId)]?.words?.[word]);
+  const words = progress?.[progressKey(lessonId)]?.words || {};
+  const key = srsKey(lessonId, word);
+  if (typeof words[key] === 'boolean') return words[key];
+  // Read older bare-word flags without letting them override an explicit false.
+  return Boolean(words[word] ?? words[String(word).toLowerCase()]);
 }
 
 export default function ReviewView({ themeId }) {
   const theme = THEMES.find((t) => t.review_id === Number(themeId)) || null;
-  const { progress, setProgress, setLessonId, setTab, setReviewThemeId } = useApp();
+  const { progress, setProgress, setSrs, setLessonId, setTab, setReviewThemeId } = useApp();
   const { speak, supported: speechSupported } = useSpeech();
+  const { show, node: toastNode } = useToast();
   const [lessons, setLessons] = useState(null); // null = dang tai
 
   useEffect(() => {
@@ -66,8 +72,19 @@ export default function ReviewView({ themeId }) {
   }, [lessons, progress]);
 
   const toggle = (lessonId, word, next) => {
-    const map = markWordLearned(lessonId, word, next);
-    setProgress({ ...map });
+    try {
+      const allSrs = loadSrs();
+      const key = srsKey(lessonId, word);
+      if (next && !allSrs[key]) {
+        allSrs[key] = { ...review(null, 3), word, lessonId };
+        saveSrs(allSrs);
+      }
+      setSrs?.(loadSrs());
+      const map = markWordLearned(lessonId, word, next);
+      setProgress({ ...map });
+    } catch (error) {
+      show(error?.message || 'Không thể lưu trạng thái đã học. Hãy thử lại.', 'rose');
+    }
   };
 
   const openLesson = (id) => {
@@ -89,6 +106,7 @@ export default function ReviewView({ themeId }) {
 
   return (
     <div>
+      {toastNode}
       {/* ---- header ---- */}
       <Card className="mb-4 flex flex-wrap items-center justify-between gap-3 px-4 py-3">
         <div className="min-w-0">
