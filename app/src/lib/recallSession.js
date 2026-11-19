@@ -3,6 +3,26 @@
 const clean = (value) => String(value ?? '').trim();
 const keyOf = (record) => `${record?.lessonId ?? ''}:${clean(record?.entry?.word).toLowerCase()}`;
 
+function normalizeAnswer(value) {
+  return clean(value)
+    .replace(/[\u200B\u200C\u200D\u2060\uFEFF]/g, '')
+    .replace(/[’‘`]/g, "'")
+    .replace(/[“”]/g, '"')
+    .replace(/\s+/g, ' ')
+    .replace(/[.,;:!?]+\s*$/, '')
+    .trim()
+    .toLowerCase();
+}
+
+export function evaluateRecallAttempt(question, input, wrongCount) {
+  const value = normalizeAnswer(input);
+  if (!value) return null;
+  if ([question.answer, ...(question.accepted || [])].some((answer) => normalizeAnswer(answer) === value)) {
+    return { status: 'correct', wrongCount };
+  }
+  return { status: wrongCount === 0 ? 'retry' : 'wrong', wrongCount: wrongCount + 1 };
+}
+
 function cloze(sentence, answer) {
   const text = clean(sentence);
   const word = clean(answer);

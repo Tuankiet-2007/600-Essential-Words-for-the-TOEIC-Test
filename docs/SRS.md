@@ -34,7 +34,7 @@ Nếu thiếu định nghĩa/câu context, không sinh cặp rỗng, không dờ
 
 ## Chấm và commit
 
-Mỗi câu cho tối đa hai lần gửi đáp án không rỗng. Đúng thì kết thúc; sai lần đầu cho nhập lại, sai lần hai kết thúc thất bại. Chuẩn hóa hoa/thường, khoảng trắng, dấu câu cuối và các biến thể đã khai báo; không tự nhận từ gần giống là đúng.
+Mỗi câu cho tối đa hai lần gửi đáp án không rỗng. Đúng ở lần đầu hoặc lần hai đều tính là đúng. Sai lần đầu cho nhập lại. Sai lần hai thì giữ nguyên câu đã nộp trong ô nhập và hiển thị đáp án riêng bên dưới. App chuẩn hóa hoa/thường, khoảng trắng, dấu câu cuối và bỏ các ký tự zero width thường gặp khi nhập hoặc dán.
 
 | Kết quả hai câu | Grade tự động hiện dùng |
 |---|---|
@@ -48,6 +48,7 @@ Không tự cho Easy chỉ vì gõ đúng lần đầu. Flashcard vẫn cho tự
 - `expectedVersion` phát hiện snapshot cũ; Web Locks được dùng ở đường Active Recall khi có hỗ trợ. Chưa có khóa giao dịch cho mọi đường ghi/nhiều cửa sổ.
 - Lưu thành công mới tăng bộ đếm từ. Lưu lỗi giữ câu, báo lỗi, thử lại cùng ID để không tăng reps lần nữa.
 - Draft lưu câu, kết quả, cursor, version và các từ đã commit. Khôi phục kiểm tra version/ID; reset hoặc thay đổi từ cửa sổ khác có xử lý vô hiệu phiên. Việc khôi phục mọi trường hợp crash/concurrency vẫn cần kiểm thử trình duyệt.
+- Draft v2 lưu nội dung từ vựng một lần cho mỗi từ. Khi mở lại, app ghép dữ liệu bài học từ bộ nhớ đệm và khôi phục câu đã chọn, thứ tự và vị trí ôn. App chuyển draft v1 khi mở lại phiên hợp lệ hoặc khi cần giải phóng dung lượng để lưu phiên hiện tại. App dọn bản nháp của phiên vừa hoàn tất và cho thử lại riêng khi lưu bản nháp hoặc lưu kết quả thất bại.
 - Chỉ nộp thi TOEIC thì ghi lịch sử thi; tuyệt đối không chấm SRS toàn bộ từ của bài.
 
 ## Scheduler hiện có

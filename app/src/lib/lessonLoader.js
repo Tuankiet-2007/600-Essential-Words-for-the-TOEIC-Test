@@ -11,9 +11,8 @@
 import { LESSON_STATUS } from './types.js';
 
 const cache = new Map(); // lessonId -> result object
-
-/** Index of which lessons exist, hydrated once by loadLessonIndex(). */
-let indexCache = null;
+const pendingLessons = new Map();
+let cacheGeneration = 0;
 
 const BASE = import.meta.env.BASE_URL || './';
 const cleanBase = BASE.endsWith('/') ? BASE : BASE + '/';
@@ -36,7 +35,24 @@ function candidateUrls(lessonId) {
 export async function loadLesson(lessonId) {
   const id = Number(lessonId);
   if (cache.has(id)) return cache.get(id);
+  if (pendingLessons.has(id)) return pendingLessons.get(id);
 
+  const generation = cacheGeneration;
+  const request = fetchLesson(id).then((result) => {
+    if (generation === cacheGeneration && result.status !== LESSON_STATUS.ERROR) {
+      cache.set(id, result);
+    }
+    return result;
+  });
+  pendingLessons.set(id, request);
+  try {
+    return await request;
+  } finally {
+    if (pendingLessons.get(id) === request) pendingLessons.delete(id);
+  }
+}
+
+async function fetchLesson(id) {
   let lastError = null;
   let sawHtmlFallback = false;
 
@@ -81,7 +97,6 @@ export async function loadLesson(lessonId) {
         lesson: data,
         source: url,
       });
-      cache.set(id, result);
       return result;
     } catch (err) {
       lastError = err?.message || String(err);
@@ -94,48 +109,29 @@ export async function loadLesson(lessonId) {
     lastError && !sawHtmlFallback
       ? { status: LESSON_STATUS.ERROR, lesson: null, source: null, error: lastError }
       : { status: LESSON_STATUS.NOT_EXTRACTED, lesson: null, source: null };
-  // Only memoize a definitive "not extracted"; transient errors should retry next open.
-  if (missing.status === LESSON_STATUS.NOT_EXTRACTED) cache.set(id, missing);
   return missing;
 }
 
 /**
- * Cheap existence probe for the sidebar. Tries HEAD on-lesson files.
- * Falls back to "unknown" when the dev server does not answer HEAD.
+ * The sidebar and study views share the same parsed lesson and in-flight request.
  * @returns {Promise<Record<number, boolean>>}
  */
 export async function loadLessonIndex() {
-  if (indexCache) return indexCache;
   const ids = Array.from({ length: 50 }, (_, i) => i + 1);
   const entries = await Promise.all(
     ids.map(async (id) => {
-      for (const url of candidateUrls(id)) {
-        try {
-          // GET (not HEAD) — Vite's static middleware is reliable for GET.
-          const res = await fetch(url, { method: 'GET', cache: 'no-cache' });
-          if (res.ok) {
-            try {
-              const data = await res.json();
-              if (isValidLesson(data)) return [id, true];
-            } catch {
-              /* malformed -> treat as absent */
-            }
-          }
-        } catch {
-          /* keep trying */
-        }
-      }
-      return [id, false];
+      const result = await loadLesson(id);
+      return [id, result.status === LESSON_STATUS.LOADED];
     }),
   );
-  indexCache = Object.fromEntries(entries);
-  return indexCache;
+  return Object.fromEntries(entries);
 }
 
 /** Force a re-probe (used by a "Quét lại" button after OCR produces new files). */
 export function invalidateLessonCache() {
+  cacheGeneration += 1;
   cache.clear();
-  indexCache = null;
+  pendingLessons.clear();
 }
 
 function isValidLesson(data) {

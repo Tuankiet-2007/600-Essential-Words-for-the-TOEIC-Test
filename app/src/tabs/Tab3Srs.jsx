@@ -3,7 +3,7 @@
  * Thiết kế tối giản Duolingo:
  *   - Vừa khít 1 màn hình khi làm bài (không phải kéo lên kéo xuống).
  *   - Chỉ khi bấm Kiểm tra mà sai thì mới mở rộng phần lý thuyết của từ bên dưới để xem lại.
- *   - Tự động chấm điểm SRS theo 3 mức: 0 sai (Grade 4), sai 1 (Grade 3), sai ≥ 2 (Grade 1).
+ *   - Cả hai câu đúng trong tối đa hai lần thử mỗi câu: Good. Có câu sai cả hai lần: Again.
  *   - Câu hỏi được sinh RANDOM SHUFFLE: Mỗi từ chỉ có đúng 2 câu:
  *       1. Câu 1: Nghĩa tiếng Anh → Gõ từ gốc.
  *       2. Câu 2: Câu tùy biến → Lấy random 1 câu từ kho câu ngữ cảnh (chia từ / họ từ).
@@ -40,7 +40,8 @@ import { isDue, recordReview } from '../lib/srs.js';
 import { loadSrs, markWordLearned, srsKey } from '../lib/storage.js';
 import { useApp } from '../lib/store.jsx';
 import { WORD_FAMILY_LABEL, WORD_FAMILY_ORDER } from '../lib/types.js';
-import { buildQuizSession as buildRecallSession } from '../lib/recallSession.js';
+import { buildQuizSession as buildRecallSession, evaluateRecallAttempt } from '../lib/recallSession.js';
+import { packRecallDraft, unpackRecallDraft, saveRecallDraft, recallDraftError } from '../lib/recallDraft.js';
 
 /* ------------------------------------------------------------------ */
 /* Helpers                                                             */
@@ -54,12 +55,6 @@ function norm(s) {
     .trim()
     .replace(/[.,;:!?]+$/, '')
     .toLowerCase();
-}
-
-function matchesAny(input, accepted) {
-  const v = norm(input);
-  if (!v) return false;
-  return (accepted || []).some((a) => norm(a) === v);
 }
 
 function isWordMarkedLearned(progress, lessonId, word) {
@@ -110,6 +105,12 @@ function collectEntryFamilies(entry, lessonObj) {
 /* Card Câu Hỏi Tối Giản Vừa Khít 1 Màn Hình                            */
 /* ------------------------------------------------------------------ */
 
+function resultMessage(status, wrongCount, answer) {
+  if (status === 'retry') return 'Chưa chính xác. Bạn còn một lần thử.';
+  if (status === 'correct') return wrongCount ? 'Đúng ở lần thử thứ hai!' : 'Chính xác!';
+  return `Chưa đúng sau hai lần thử. Đáp án: ${answer}`;
+}
+
 function CompactQuizCard({
   item,
   index,
@@ -120,29 +121,25 @@ function CompactQuizCard({
   savedResult,
 }) {
   const { entry, lessonId, lessonObj } = item;
-  const [value, setValue] = useState('');
-  const [state, setState] = useState('answering'); // answering | correct | wrong
-  const [wrongCount, setWrongCount] = useState(0);
-  const [showTheory, setShowTheory] = useState(false);
-  const [feedbackMsg, setFeedbackMsg] = useState('');
+  // The parent keys the card by question UID. Initial values apply on restore only.
+  const [value, setValue] = useState(() => savedResult?.submittedAnswer ?? (savedResult?.isCorrect ? item.answer : ''));
+  const [state, setState] = useState(() => savedResult ? (savedResult.isCorrect ? 'correct' : 'wrong') : 'answering');
+  const [showTheory, setShowTheory] = useState(() => Boolean(savedResult && !savedResult.isCorrect));
+  const [feedbackMsg, setFeedbackMsg] = useState(() => savedResult ? resultMessage(state, savedResult.wrongCount, item.answer) : '');
   const inputRef = useRef(null);
-  const answeredRef = useRef(false);
-  const wrongRef = useRef(0);
+  const answeredRef = useRef(Boolean(savedResult));
+  const wrongRef = useRef(savedResult?.wrongCount || 0);
   const continueBtnRef = useRef(null);
   const theoryRef = useRef(null);
   const { speak } = useSpeech();
 
   useEffect(() => {
-    answeredRef.current = Boolean(savedResult);
-    wrongRef.current = savedResult?.wrongCount || 0;
-    setValue(savedResult ? item.answer : '');
-    setState(savedResult ? (savedResult.isCorrect ? 'correct' : 'wrong') : 'answering');
-    setWrongCount(savedResult?.wrongCount || 0);
-    setShowTheory(Boolean(savedResult && !savedResult.isCorrect));
-    setFeedbackMsg(savedResult ? (savedResult.isCorrect ? 'Đúng' : `Đáp án: ${item.answer}`) : '');
-    const timer = setTimeout(() => inputRef.current?.focus(), 60);
+    if (answeredRef.current) return;
+    const timer = setTimeout(() => {
+      if (!answeredRef.current) inputRef.current?.focus();
+    }, 60);
     return () => clearTimeout(timer);
-  }, [item.uid, savedResult, item.answer]);
+  }, []);
 
   // Tự động focus vào nút "TIẾP TỤC" khi hoàn thành câu hỏi (đúng hoặc sai 2 lần)
   useEffect(() => {
@@ -155,50 +152,39 @@ function CompactQuizCard({
   }, [state]);
 
   const handleCheck = () => {
-    if (!norm(value) || state !== 'answering' || answeredRef.current) return;
+    const input = inputRef.current;
+    if (!input || state !== 'answering' || answeredRef.current) return;
+    const submittedAnswer = input.value;
+    const attempt = evaluateRecallAttempt(item, submittedAnswer, wrongRef.current);
+    if (!attempt) return;
+    const { status, wrongCount } = attempt;
+    wrongRef.current = wrongCount;
+    setFeedbackMsg(resultMessage(status, wrongCount, item.answer));
 
-    const ok = matchesAny(value, item.accepted);
-
-    if (ok) {
-      answeredRef.current = true;
-      setState('correct');
-      setFeedbackMsg('Chính xác tuyệt đối!');
-      speak(item.answer);
-
-      // Gửi kết quả câu hỏi lên Tab3Srs để thực hiện Session-level Aggregation
-      onReviewed?.({ uid: item.uid, item, isCorrect: true, wrongCount });
-    } else {
-      const nextWrong = wrongRef.current + 1;
-      wrongRef.current = nextWrong;
-      setWrongCount(nextWrong);
-
-      if (nextWrong === 1) {
-        // Sai lần 1: cho cơ hội gõ lại
-        setFeedbackMsg('Chưa chính xác, hãy thử lại một lần nữa!');
-        setValue('');
-        inputRef.current?.focus();
-      } else {
-        // Sai từ lần 2 trở lên: tính là quên và mở rộng lý thuyết bên dưới
-        answeredRef.current = true;
-        setState('wrong');
-        setFeedbackMsg(`Đáp án đúng: ${item.answer}`);
-        setShowTheory(true);
-        speak(item.answer);
-
-        // Gửi kết quả câu hỏi lên Tab3Srs để thực hiện Session-level Aggregation
-        onReviewed?.({ uid: item.uid, item, isCorrect: false, wrongCount: nextWrong });
-
-        // Tự cuộn nhẹ xuống xem lý thuyết nếu cần
-        setTimeout(() => {
-          theoryRef.current?.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-        }, 100);
-      }
+    if (status === 'retry') {
+      // Clear immediately so a second submit cannot reuse the rejected input.
+      input.value = '';
+      setValue('');
+      input.focus();
+      return;
     }
+
+    answeredRef.current = true;
+    setValue(submittedAnswer);
+    setState(status);
+    if (status === 'wrong') {
+      setShowTheory(true);
+      setTimeout(() => theoryRef.current?.scrollIntoView({ behavior: 'smooth', block: 'nearest' }), 100);
+    }
+    onReviewed?.({ uid: item.uid, item, submittedAnswer, isCorrect: status === 'correct', wrongCount });
+    speak(item.answer);
   };
 
   const handleKeyDown = (e) => {
     if (e.key === 'Enter') {
+      if (e.nativeEvent.isComposing || e.nativeEvent.keyCode === 229) return;
       e.preventDefault();
+      if (e.repeat) return;
       if (state === 'answering') {
         handleCheck();
       } else {
@@ -210,7 +196,7 @@ function CompactQuizCard({
   // Phím tắt khi đã trả lời xong câu hỏi (Enter / Space để tiếp tục, R/E để nghe phát âm)
   useEffect(() => {
     const onKey = (e) => {
-      if (state === 'answering') return;
+      if (state === 'answering' || e.repeat || e.isComposing || e.keyCode === 229) return;
       if (e.key === 'Enter' || (e.key === ' ' && document.activeElement !== continueBtnRef.current)) {
         e.preventDefault();
         onNext?.();
@@ -266,6 +252,7 @@ function CompactQuizCard({
               onChange={(e) => setValue(e.target.value)}
               onKeyDown={handleKeyDown}
               readOnly={state !== 'answering'}
+              maxLength={200}
               placeholder={
                 item.type === 'base_word' ? 'Gõ từ gốc...' : 'Gõ từ đúng dạng ngữ cảnh...'
               }
@@ -303,6 +290,7 @@ function CompactQuizCard({
           {/* Phản hồi kết quả */}
           {feedbackMsg && (
             <div
+              role="status"
               className={`mt-2.5 flex items-center justify-between rounded-xl px-3.5 py-2 text-xs font-black ${
                 state === 'correct'
                   ? 'bg-emerald-100 text-emerald-900 dark:bg-emerald-950/60 dark:text-emerald-200'
@@ -579,9 +567,11 @@ export default function Tab3Srs({
   const [quizQuestions, setQuizQuestions] = useState([]);
   const [sessionTracker, setSessionTracker] = useState({});
   const [sessionError, setSessionError] = useState('');
+  const [draftError, setDraftError] = useState('');
   const [coverageMissing, setCoverageMissing] = useState([]);
   const [saving, setSaving] = useState(false);
   const sessionRef = useRef(null);
+  const sessionQuestionsRef = useRef(null);
   const resultsRef = useRef(new Map());
   const committedRef = useRef(new Set());
   const nextRef = useRef(null);
@@ -591,26 +581,32 @@ export default function Tab3Srs({
     if (loadState !== 'ready' || saving) return;
     if (restore) {
       try {
-        const draft = JSON.parse(localStorage.getItem(draftKey) || 'null');
-        const current = loadSrs();
-        if (draft?.schema === 1 && Array.isArray(draft.questions) && draft.questions.length > 0 && draft.session.scope === draftKey && !draft.finished &&
-          Object.entries(draft.session.versions).every(([key, version]) => {
+        const raw = JSON.parse(localStorage.getItem(draftKey) || 'null');
+        const draft = raw ? unpackRecallDraft(raw, allLessonsMap) : null;
+        if (draft && draft.questions.length > 0 && draft.session.scope === draftKey && !draft.finished) {
+          const current = loadSrs();
+          const wordKeys = new Map(draft.questions.map((q) => [srsKey(q.lessonId, q.entry.word), q.wordKey]));
+          const valid = Object.entries(draft.session.versions).every(([key, version]) => {
             const card = current[key];
-            const reviewId = `${draft.session.sessionId}:${draft.questions.find((q) => srsKey(q.lessonId, q.entry.word) === key)?.wordKey}`;
+            const reviewId = `${draft.session.sessionId}:${wordKeys.get(key)}`;
             return (card?.version || 0) === version || card?.processedReviewIds?.includes(reviewId);
-          })) {
-          sessionRef.current = draft.session;
-          resultsRef.current = new Map(draft.results.map((result) => [result.uid, result]));
-          committedRef.current = new Set(draft.committed);
-          nextRef.current = null;
-          setQuizQuestions(draft.questions);
-          setCursor(Math.min(draft.cursor, draft.questions.length - 1));
-          setSessionResults(draft.results);
-          setSessionTracker(Object.fromEntries(draft.committed.map((key) => [key, true])));
-          setCoverageMissing([]);
-          setSessionError('');
-          setFinished(false);
-          return;
+          });
+          if (valid) {
+            sessionRef.current = draft.session;
+            sessionQuestionsRef.current = draft.questions;
+            resultsRef.current = new Map(draft.results.map((result) => [result.uid, result]));
+            committedRef.current = new Set(draft.committed);
+            nextRef.current = null;
+            setQuizQuestions(draft.questions);
+            setCursor(Math.min(draft.cursor, draft.questions.length - 1));
+            setSessionResults(draft.results);
+            setSessionTracker(draft.tracker || Object.fromEntries(draft.committed.map((key) => [key, true])));
+            setCoverageMissing([]);
+            setSessionError('');
+            setDraftError('');
+            setFinished(false);
+            return;
+          }
         }
       } catch { /* Invalid draft never changes the saved review cards. */ }
     }
@@ -623,12 +619,14 @@ export default function Tab3Srs({
     nextRef.current = null;
     setCoverageMissing(built.missing);
     setSessionError('');
-    setQuizQuestions(built.complete ? built.questions : []);
+    setDraftError('');
+    sessionQuestionsRef.current = built.complete ? built.questions : [];
+    setQuizQuestions(sessionQuestionsRef.current);
     setCursor(0);
     setSessionResults([]);
     setSessionTracker({});
     setFinished(false);
-  }, [activeWordRecords, loadState, srs, saving, draftKey]);
+  }, [activeWordRecords, loadState, srs, saving, draftKey, allLessonsMap]);
 
   // Freeze the session once ready; review events must not rebuild its snapshot.
   useEffect(() => {
@@ -636,13 +634,23 @@ export default function Tab3Srs({
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [loadState, poolFilter, selectedLessonId, selectedThemeId]);
 
-  useEffect(() => {
-    if (!sessionRef.current || sessionRef.current.scope !== draftKey || !quizQuestions.length) return;
+  // Build the static part only when the question set changes, not per answer.
+  const packedQuestions = useMemo(() =>
+    packRecallDraft({ questions: quizQuestions, results: [] }), [quizQuestions]);
+  const persistDraft = useCallback(() => {
+    if (!sessionRef.current || sessionRef.current.scope !== draftKey ||
+        sessionQuestionsRef.current !== quizQuestions || !quizQuestions.length) return;
     try {
-      localStorage.setItem(draftKey, JSON.stringify({ schema: 1, session: sessionRef.current, questions: quizQuestions,
-        results: sessionResults, committed: Object.keys(sessionTracker), cursor, finished }));
-    } catch { setSessionError('Không lưu được phiên đang học. Kiểm tra dung lượng trình duyệt.'); }
-  }, [draftKey, quizQuestions, sessionResults, sessionTracker, cursor, finished]);
+      if (finished) localStorage.removeItem(draftKey);
+      else saveRecallDraft(localStorage, draftKey, {
+        ...packedQuestions, session: sessionRef.current,
+        results: sessionResults.map(({ item, ...result }) => result),
+        committed: Object.keys(sessionTracker), tracker: sessionTracker, cursor, finished,
+      });
+      setDraftError('');
+    } catch (error) { setDraftError(recallDraftError(error)); }
+  }, [draftKey, quizQuestions, packedQuestions, sessionResults, sessionTracker, cursor, finished]);
+  useEffect(() => { persistDraft(); }, [persistDraft]);
 
   useEffect(() => {
     const invalidate = (event) => {
@@ -658,6 +666,7 @@ export default function Tab3Srs({
         localStorage.removeItem(draftKey);
         sessionRef.current = null;
         setQuizQuestions([]);
+        setDraftError('');
         setSessionError('Dữ liệu đã thay đổi ở nơi khác. Bắt đầu phiên mới để tiếp tục.');
       } catch (error) { setSessionError(error.message); }
     };
@@ -671,11 +680,19 @@ export default function Tab3Srs({
 
   const allWordsList = useMemo(() => quizQuestions.map((q) => q.entry.word), [quizQuestions]);
   const currentQuestion = quizQuestions[cursor] || null;
-  const totalWords = new Set(quizQuestions.map((q) => q.wordKey)).size;
+  const totalWords = Object.keys(packedQuestions.entries).length;
   const completedWords = Object.keys(sessionTracker).length;
-  const handleNext = () => {
-    if (saving || sessionError || !currentQuestion || !resultsRef.current.has(currentQuestion.uid) || nextRef.current === currentQuestion.uid) return;
+  const handleNext = async () => {
+    if (saving || sessionError || draftError || !currentQuestion || !resultsRef.current.has(currentQuestion.uid) || nextRef.current === currentQuestion.uid) return;
     nextRef.current = currentQuestion.uid;
+    // A reload can happen after both answers are saved but before the card is committed.
+    const pendingPair = pairResults(currentQuestion);
+    if (!committedRef.current.has(currentQuestion.wordKey) && pendingPair.length === 2 && pendingPair.every(Boolean)) {
+      if (!await commitPair(currentQuestion, pendingPair)) {
+        nextRef.current = null;
+        return;
+      }
+    }
     if (cursor + 1 < quizQuestions.length) setCursor(cursor + 1);
     else setFinished(true);
   };
@@ -692,22 +709,29 @@ export default function Tab3Srs({
       const commit = () => {
         if (sessionRef.current !== activeSession) throw new Error('Phiên đã thay đổi, hãy mở lại phiên ôn.');
         // Lesson/theme/learned sessions are explicit, schedule-neutral practice.
+        let updatedCard = null;
         if (poolFilter === 'due') {
-          recordReview(item.lessonId, item.entry.word, grade, { source: 'active_recall_session', reviewId: `${sessionRef.current.sessionId}:${wordKey}`, expectedVersion: sessionRef.current.versions[srsKey(item.lessonId, item.entry.word)] });
+          updatedCard = recordReview(item.lessonId, item.entry.word, grade, { source: 'active_recall_session', reviewId: `${activeSession.sessionId}:${wordKey}`, expectedVersion: activeSession.versions[srsKey(item.lessonId, item.entry.word)] });
         }
         if (poolFilter === 'due' && grade >= 3) markWordLearned(item.lessonId, item.entry.word, true);
+        return updatedCard;
       };
-      if (globalThis.navigator?.locks?.request) await navigator.locks.request('toeic600:srs', commit);
-      else commit();
-      window.dispatchEvent(new Event('toeic600:state-changed'));
-      const updatedCard = poolFilter === 'due' ? loadSrs()[srsKey(item.lessonId, item.entry.word)] : null;
+      const updatedCard = globalThis.navigator?.locks?.request
+        ? await navigator.locks.request('toeic600:srs', commit)
+        : commit();
       setSessionTracker((prev) => ({ ...prev, [wordKey]: { grade, due: updatedCard?.due || null, word: item.entry.word } }));
       setSessionError('');
+      return true;
     } catch (error) {
       committedRef.current.delete(wordKey);
       setSessionError(`Chưa lưu kết quả: ${error.message || 'Lỗi lưu dữ liệu'}`);
+      return false;
     } finally { setSaving(false); }
   };
+
+  const pairResults = (item) => quizQuestions
+    .filter((question) => question.wordKey === item?.wordKey)
+    .map((question) => resultsRef.current.get(question.uid));
 
   const handleReviewed = (res) => {
     const item = quizQuestions.find((q) => q.uid === res.uid);
@@ -715,9 +739,8 @@ export default function Tab3Srs({
     const result = { ...res, item, wordKey: item.wordKey, type: item.type };
     resultsRef.current.set(item.uid, result);
     setSessionResults([...resultsRef.current.values()]);
-    const pair = quizQuestions.filter((q) => q.wordKey === item.wordKey);
-    const results = pair.map((q) => resultsRef.current.get(q.uid));
-    if (pair.length === 2 && results.every(Boolean)) void commitPair(item, results);
+    const results = pairResults(item);
+    if (results.length === 2 && results.every(Boolean)) void commitPair(item, results);
   };
   return (
     <div className="space-y-3">
@@ -797,7 +820,10 @@ export default function Tab3Srs({
       {poolFilter === 'due' && currentQuestion && sessionTracker[currentQuestion.wordKey]?.due && (
         <p role="status" className="text-xs font-semibold text-slate-500">Ôn lại {sessionTracker[currentQuestion.wordKey].word}: {new Date(sessionTracker[currentQuestion.wordKey].due).toLocaleString('vi-VN', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' })}</p>
       )}
-      {sessionError && <Card className="p-4"><p role="alert">{sessionError}</p><Button disabled={saving} onClick={() => { const pair = quizQuestions.filter((q) => q.wordKey === currentQuestion?.wordKey); void commitPair(currentQuestion, pair.map((q) => resultsRef.current.get(q.uid))); }}>Thử lưu lại</Button></Card>}
+      {(draftError || sessionError) && <Card className="p-4"><p role="alert">{draftError || sessionError}</p><Button disabled={saving} onClick={() => {
+        if (draftError) { persistDraft(); return; }
+        void commitPair(currentQuestion, pairResults(currentQuestion));
+      }}>Thử lưu lại</Button></Card>}
       {/* MÀN HÌNH HOÀN THÀNH HOẶC CÂU HỎI */}
       {finished ? (
         <Card className="p-6 text-center">

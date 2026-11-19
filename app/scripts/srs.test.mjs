@@ -2,7 +2,8 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { calculateNextDueDate, getEffectiveDayString, isDue, recordReview, review } from '../src/lib/srs.js';
 import { loadSrs, saveSrs, importAllData } from '../src/lib/storage.js';
-import { buildQuizSession, aggregateQuestionResults } from '../src/lib/recallSession.js';
+import { buildQuizSession, aggregateQuestionResults, evaluateRecallAttempt } from '../src/lib/recallSession.js';
+import { packRecallDraft, unpackRecallDraft, saveRecallDraft } from '../src/lib/recallDraft.js';
 import { readFileSync } from 'node:fs';
 
 process.env.TZ = 'Asia/Ho_Chi_Minh';
@@ -15,6 +16,67 @@ function memoryStorage() {
   };
   return values;
 }
+
+test('a correct second attempt on the consume prompt counts as correct', () => {
+  const question = { answer: 'consume', accepted: ['consume'] };
+  const first = evaluateRecallAttempt(question, 'consumer', 0);
+  assert.deepEqual(first, { status: 'retry', wrongCount: 1 });
+  assert.equal(evaluateRecallAttempt(question, '\u200B ', first.wrongCount), null);
+  assert.deepEqual(evaluateRecallAttempt(question, ' Consume\u200B. ', first.wrongCount),
+    { status: 'correct', wrongCount: 1 });
+  assert.deepEqual(evaluateRecallAttempt(question, 'consumes', first.wrongCount),
+    { status: 'wrong', wrongCount: 2 });
+});
+
+test('compacts a 38-question draft and resumes both old and compact formats', (t) => {
+  const lessons = Object.fromEntries([1, 2].map((id) => {
+    const name = `lesson_${String(id).padStart(2, '0')}.json`;
+    return [id, JSON.parse(readFileSync(new URL(`../../public/lessons_json/${name}`, import.meta.url), 'utf8'))];
+  }));
+  const records = Object.entries(lessons).flatMap(([id, lessonObj]) =>
+    lessonObj.words_to_learn.map((entry) => ({ lessonId: Number(id), lessonObj, entry }))).slice(0, 19);
+  const sessionId = 'diagnostic';
+  const { questions } = buildQuizSession(records, { sessionId, random: () => 0.5 });
+  assert.equal(questions.length, 38);
+  const cursor = 7;
+  const results = questions.slice(0, 8).map((item) => ({
+    uid: item.uid, item, wordKey: item.wordKey, type: item.type, isCorrect: true, wrongCount: 0,
+  }));
+  const legacyKey = 'toeic600.recallDraft:lesson:1:1';
+  const legacy = { schema: 1, session: { sessionId, scope: legacyKey, versions: {} }, questions, results, committed: [], cursor, finished: false };
+  const compact = packRecallDraft(legacy);
+  const legacySize = JSON.stringify(legacy).length * 2;
+  const compactJson = JSON.stringify(compact);
+  const compactSize = compactJson.length * 2;
+  assert.equal(Object.keys(compact.entries).length, 19);
+  assert.ok(compactSize < legacySize / 20);
+  for (const saved of [JSON.parse(JSON.stringify(legacy)), JSON.parse(compactJson)]) {
+    const restored = unpackRecallDraft(saved, lessons);
+    assert.deepEqual(restored.questions, questions);
+    assert.deepEqual(restored.results, results);
+    assert.equal(restored.results[cursor].item, restored.questions[cursor]);
+    assert.equal(restored.cursor, cursor);
+  }
+  const store = new Map([[legacyKey, JSON.stringify(legacy)], ['toeic600.progress', '{"saved":true}']]);
+  const storage = {
+    get length() { return store.size; },
+    key: (i) => [...store.keys()][i],
+    getItem: (key) => store.get(key),
+    setItem: (key, value) => {
+      const otherSizes = [...store].filter(([k]) => k !== key).reduce((sum, [, raw]) => sum + raw.length, 0);
+      if (otherSizes + value.length > legacySize / 2 + 100) {
+        throw new DOMException('Storage full', 'QuotaExceededError');
+      }
+      store.set(key, value);
+    },
+  };
+  const newKey = 'toeic600.recallDraft:due:1:1';
+  saveRecallDraft(storage, newKey, { ...compact, session: { ...compact.session, scope: newKey } });
+  assert.deepEqual(unpackRecallDraft(JSON.parse(store.get(legacyKey)), lessons).results, results);
+  assert.equal(JSON.parse(store.get(newKey)).schema, 2);
+  assert.equal(store.get('toeic600.progress'), '{"saved":true}');
+  t.diagnostic(`Estimated UTF-16 storage: ${(legacySize / 1024 ** 2).toFixed(2)} MiB → ${(compactSize / 1024).toFixed(1)} KiB`);
+});
 
 test('15 words produce exactly 30 unique base/context questions', () => {
   const records = Array.from({ length: 15 }, (_, i) => ({ lessonId: 1, entry: { word: `word${i}`, definition_en: `Definition ${i}`, srs_sentence: { en: 'Please use ______ here.', answer: `word${i}` } } }));

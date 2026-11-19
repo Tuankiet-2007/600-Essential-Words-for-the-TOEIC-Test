@@ -31,12 +31,16 @@ const base = `http://127.0.0.1:${port}`;
 
 // Point the loader's relative fetches at the live server.
 const realFetch = globalThis.fetch;
+const requests = new Map();
 globalThis.fetch = (input, init) => {
   const url = typeof input === 'string' && input.startsWith('/') ? base + input : input;
-  return realFetch(url, init);
+  requests.set(url, (requests.get(url) || 0) + 1);
+  return realFetch(url, init).catch((error) => {
+    throw new Error(error.cause?.message || error.message, { cause: error });
+  });
 };
 
-const { loadLesson } = await import('../src/lib/lessonLoader.js');
+const { loadLesson, loadLessonIndex } = await server.ssrLoadModule('/src/lib/lessonLoader.js');
 const { LESSON_STATUS } = await import('../src/lib/types.js');
 
 let pass = 0;
@@ -47,8 +51,10 @@ const check = (ok, msg) => {
 };
 
 // 1. Lesson 1 loads from the OCR path.
-const l1 = await loadLesson(1);
-check(l1.status === LESSON_STATUS.LOADED, `lesson 1 status = ${l1.status} (want loaded)`);
+const [l1, , lessonIndex] = await Promise.all([loadLesson(1), loadLesson(1), loadLessonIndex()]);
+check(lessonIndex[1] === true, 'sidebar index includes lesson 1');
+check(requests.get(base + '/lessons_json/lesson_01.json') === 1, 'sidebar and concurrent lesson views share one request');
+check(l1.status === LESSON_STATUS.LOADED, `lesson 1 status = ${l1.status} (want loaded)${l1.error ? `: ${l1.error}` : ''}`);
 check(l1.lesson?.words_to_learn?.length === 12, `lesson 1 word count = ${l1.lesson?.words_to_learn?.length} (want 12)`);
 check(l1.source?.includes('lesson_01.json'), `lesson 1 source = ${l1.source}`);
 check(l1.lesson?.title === 'Contracts', `lesson 1 title = ${l1.lesson?.title}`);
